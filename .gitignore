@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.env
+pipeline-summary.md
+.playwright-mcp/

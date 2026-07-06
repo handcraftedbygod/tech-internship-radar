@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EU Tech Internship Radar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>EU Tech Internship Radar</h1>
+    <p>Internship &amp; working-student listings across European tech hubs, refreshed daily.</p>
+  </header>
+
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search title or company…" />
+    <select id="hub-filter">
+      <option value="">All hubs</option>
+    </select>
+    <span id="count"></span>
+  </div>
+
+  <table id="jobs-table">
+    <thead>
+      <tr>
+        <th data-key="location">Hub</th>
+        <th data-key="company">Company</th>
+        <th data-key="title">Role</th>
+        <th data-key="postedDate">Posted</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <p id="empty-state" hidden>No listings match your filters.</p>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "_comment": "'stage' (French for internship) was removed from include: it collided with the common English word 'stage' (as in 'stage of the project'), causing false positives. 'stagiaire' already catches French internship postings.",
+  "lists": {
+    "internship": {
+      "description": "Internship / working-student style roles, language-agnostic across Europe",
+      "include": [
+        "intern",
+        "internship",
+        "interns",
+        "working student",
+        "werkstudent",
+        "praktikum",
+        "praktikant",
+        "praktika",
+        "stagiaire",
+        "trainee"
+      ],
+      "exclude": [
+        "senior intern coordinator"
+      ]
+    }
+  }
+}

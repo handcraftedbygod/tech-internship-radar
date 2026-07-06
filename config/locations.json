@@ -1,0 +1,18 @@
+{
+  "hubs": [
+    { "city": "Tallinn", "country": "EE", "adzunaCountry": "ee", "aliases": ["Tallinn", "Estonia"] },
+    { "city": "Berlin", "country": "DE", "adzunaCountry": "de", "aliases": ["Berlin", "Germany", "Deutschland"] },
+    { "city": "Munich", "country": "DE", "adzunaCountry": "de", "aliases": ["Munich", "München", "Munchen"] },
+    { "city": "Amsterdam", "country": "NL", "adzunaCountry": "nl", "aliases": ["Amsterdam", "Netherlands"] },
+    { "city": "Dublin", "country": "IE", "adzunaCountry": "ie", "aliases": ["Dublin", "Ireland"] },
+    { "city": "London", "country": "GB", "adzunaCountry": "gb", "aliases": ["London", "United Kingdom", "UK"] },
+    { "city": "Paris", "country": "FR", "adzunaCountry": "fr", "aliases": ["Paris", "France"] },
+    { "city": "Stockholm", "country": "SE", "adzunaCountry": "se", "aliases": ["Stockholm", "Sweden"] },
+    { "city": "Helsinki", "country": "FI", "adzunaCountry": "fi", "aliases": ["Helsinki", "Finland"] },
+    { "city": "Warsaw", "country": "PL", "adzunaCountry": "pl", "aliases": ["Warsaw", "Poland"] },
+    { "city": "Barcelona", "country": "ES", "adzunaCountry": "es", "aliases": ["Barcelona", "Spain"] },
+    { "city": "Lisbon", "country": "PT", "adzunaCountry": "pt", "aliases": ["Lisbon", "Portugal"] },
+    { "city": "Zurich", "country": "CH", "adzunaCountry": null, "aliases": ["Zurich", "Zürich", "Switzerland"] }
+  ],
+  "allowRemoteEU": true
+}

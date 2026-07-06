@@ -1,0 +1,19 @@
+{
+  "name": "eu-tech-internship-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily-refreshing tracker of internship listings across European tech hubs.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "pipeline": "node --experimental-strip-types pipeline/run.ts",
+    "test": "node --experimental-strip-types --test pipeline/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
