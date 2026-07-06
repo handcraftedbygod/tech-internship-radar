@@ -1,8 +1,8 @@
 # EU Tech Internship Radar
 
 A daily-refreshing tracker of internship / working-student listings across major European tech
-hubs (Tallinn, Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki, Warsaw,
-Barcelona, Lisbon, Zurich). No hardcoded assumptions about nationality, visa status, or language —
+hubs (Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki, Tallinn, Warsaw,
+Barcelona, Lisbon, Zurich). No hardcoded assumptions about nationality, visa status, or language -
 everything a filter cares about lives in `config/`.
 
 Data comes only from public, ToS-friendly sources: Greenhouse/Lever/Ashby/Workday's public job
@@ -25,7 +25,7 @@ per source)   + recency filter,                              first-seen kept)
 `pipeline/run.ts` runs all of the above in order, prints a per-source summary, and writes
 `pipeline-summary.md` (also appended to the GitHub Actions job summary in CI).
 
-Each fetcher never throws — a dead or failing source reports an error but returns whatever jobs it
+Each fetcher never throws - a dead or failing source reports an error but returns whatever jobs it
 did get, so one bad source can't break the run.
 
 ## Configuring filters (no code changes needed)
