@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>EU Tech Internship Radar</title>
 
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+
   <script>
     (function () {
       document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
@@ -48,7 +51,7 @@
     </div>
     <div id="role-chips" class="chip-row" role="group" aria-label="Filter by role"></div>
     <div id="hub-chips" class="chip-row" role="group" aria-label="Filter by hub"></div>
-    <div id="workmode-chips" class="chip-row" role="group" aria-label="Filter by work mode"></div>
+    <button id="remote-toggle" type="button" class="chip" aria-pressed="false">Remote only</button>
     <span id="count"></span>
   </div>
 

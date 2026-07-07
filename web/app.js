@@ -33,16 +33,13 @@ function hubFor(job) {
   return hit ? hit.name : OTHER_HUB;
 }
 
-const WORK_MODES = ["All", "Remote", "Hybrid", "On-site"];
-
 // Best-effort inference from free text, like hubFor() -- sources don't expose
-// a clean "workplace type" field, so anything not mentioning remote/hybrid
-// defaults to On-site.
-function workModeFor(job) {
+// a clean "workplace type" field. Hybrid folds into "remote-friendly" here
+// since it's vanishingly rare on its own in this data (internships are
+// overwhelmingly on-site) and doesn't warrant its own filter bucket.
+function isRemote(job) {
   const text = `${job.location} ${job.title}`.toLowerCase();
-  if (text.includes("hybrid")) return "Hybrid";
-  if (text.includes("remote")) return "Remote";
-  return "On-site";
+  return text.includes("remote") || text.includes("hybrid");
 }
 
 const PAGE_SIZE = 20;
@@ -52,14 +49,14 @@ let sortKey = "postedDate";
 let sortDir = -1;
 let activeHub = "";
 let activeRole = ROLE_PRESETS[0].label;
-let activeWorkMode = "";
+let remoteOnly = false;
 let visibleCount = PAGE_SIZE;
 
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
 const roleChipsEl = document.getElementById("role-chips");
-const workModeChipsEl = document.getElementById("workmode-chips");
+const remoteToggle = document.getElementById("remote-toggle");
 const countEl = document.getElementById("count");
 const emptyState = document.getElementById("empty-state");
 const themeToggle = document.getElementById("theme-toggle");
@@ -85,8 +82,8 @@ function render() {
     const matchesQuery =
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
     const matchesHub = !activeHub || hubFor(job) === activeHub;
-    const matchesWorkMode = !activeWorkMode || workModeFor(job) === activeWorkMode;
-    return matchesQuery && matchesHub && matchesWorkMode && matchesRole(job, activeRole);
+    const matchesRemote = !remoteOnly || isRemote(job);
+    return matchesQuery && matchesHub && matchesRemote && matchesRole(job, activeRole);
   });
 
   rows.sort((a, b) => {
@@ -163,14 +160,6 @@ function renderRoleChips() {
   );
 }
 
-function renderWorkModeChips() {
-  renderChips(workModeChipsEl, WORK_MODES, activeWorkMode || "All", (label) => {
-    activeWorkMode = label === "All" ? "" : label;
-    renderWorkModeChips();
-    resetPageAndRender();
-  });
-}
-
 function updateSortCarets() {
   document.querySelectorAll("th[data-key]").forEach((th) => {
     const existing = th.querySelector(".caret");
@@ -198,6 +187,13 @@ document.querySelectorAll("th[data-key]").forEach((th) => {
 });
 
 searchInput.addEventListener("input", resetPageAndRender);
+
+remoteToggle.addEventListener("click", () => {
+  remoteOnly = !remoteOnly;
+  remoteToggle.classList.toggle("active", remoteOnly);
+  remoteToggle.setAttribute("aria-pressed", String(remoteOnly));
+  resetPageAndRender();
+});
 
 loadMoreBtn.addEventListener("click", () => {
   visibleCount += PAGE_SIZE;
@@ -228,7 +224,6 @@ fetch("./data/jobs.json")
     allJobs = data;
     renderHubChips();
     renderRoleChips();
-    renderWorkModeChips();
     render();
   })
   .catch(() => {
