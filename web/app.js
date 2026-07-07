@@ -33,11 +33,14 @@ function hubFor(job) {
   return hit ? hit.name : OTHER_HUB;
 }
 
+const PAGE_SIZE = 20;
+
 let allJobs = [];
 let sortKey = "postedDate";
 let sortDir = -1;
 let activeHub = "";
 let activeRole = ROLE_PRESETS[0].label;
+let visibleCount = PAGE_SIZE;
 
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
@@ -46,12 +49,18 @@ const roleChipsEl = document.getElementById("role-chips");
 const countEl = document.getElementById("count");
 const emptyState = document.getElementById("empty-state");
 const themeToggle = document.getElementById("theme-toggle");
+const loadMoreBtn = document.getElementById("load-more");
 
 function matchesRole(job, roleLabel) {
   if (roleLabel === ROLE_PRESETS[0].label) return true;
   const preset = ROLE_PRESETS.find((r) => r.label === roleLabel);
   const title = job.title.toLowerCase();
   return preset.keywords.some((kw) => title.includes(kw));
+}
+
+function resetPageAndRender() {
+  visibleCount = PAGE_SIZE;
+  render();
 }
 
 function render() {
@@ -70,10 +79,12 @@ function render() {
     return av < bv ? -sortDir : av > bv ? sortDir : 0;
   });
 
-  tbody.innerHTML = rows
+  const visibleRows = rows.slice(0, visibleCount);
+
+  tbody.innerHTML = visibleRows
     .map(
       (job) => `
-    <tr>
+    <tr data-url="${escapeAttr(job.url)}" tabindex="0">
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
@@ -82,8 +93,13 @@ function render() {
     )
     .join("");
 
-  countEl.textContent = `${rows.length} listing${rows.length === 1 ? "" : "s"}`;
+  countEl.textContent = `${visibleRows.length} of ${rows.length} listing${rows.length === 1 ? "" : "s"}`;
   emptyState.hidden = rows.length !== 0;
+
+  const remaining = rows.length - visibleRows.length;
+  loadMoreBtn.hidden = remaining <= 0;
+  loadMoreBtn.textContent = `Load ${Math.min(PAGE_SIZE, remaining)} more (${remaining} remaining)`;
+
   updateSortCarets();
 }
 
@@ -114,7 +130,7 @@ function renderHubChips() {
   renderChips(hubChipsEl, labels, activeHub || "All hubs", (label) => {
     activeHub = label === "All hubs" ? "" : label;
     renderHubChips();
-    render();
+    resetPageAndRender();
   });
 }
 
@@ -126,7 +142,7 @@ function renderRoleChips() {
     (label) => {
       activeRole = label;
       renderRoleChips();
-      render();
+      resetPageAndRender();
     },
   );
 }
@@ -157,7 +173,24 @@ document.querySelectorAll("th[data-key]").forEach((th) => {
   });
 });
 
-searchInput.addEventListener("input", render);
+searchInput.addEventListener("input", resetPageAndRender);
+
+loadMoreBtn.addEventListener("click", () => {
+  visibleCount += PAGE_SIZE;
+  render();
+});
+
+tbody.addEventListener("click", (e) => {
+  if (e.target.closest("a")) return; // let the title link's own navigation happen
+  const row = e.target.closest("tr[data-url]");
+  if (row) window.open(row.dataset.url, "_blank", "noopener");
+});
+
+tbody.addEventListener("keydown", (e) => {
+  if (e.key !== "Enter") return;
+  const row = e.target.closest("tr[data-url]");
+  if (row) window.open(row.dataset.url, "_blank", "noopener");
+});
 
 themeToggle.addEventListener("click", () => {
   const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";

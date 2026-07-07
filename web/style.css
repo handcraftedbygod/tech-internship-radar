@@ -245,8 +245,34 @@ td:last-child {
   font-size: 0.9rem;
 }
 
+tbody tr {
+  cursor: pointer;
+}
+
 tr:hover td {
   background: var(--surface);
+}
+
+tbody tr:focus-visible td {
+  background: var(--surface);
+}
+
+#load-more {
+  display: block;
+  margin: 1.5rem auto 0;
+  padding: 0.55rem 1.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--control-border);
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+#load-more:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 #empty-state {
