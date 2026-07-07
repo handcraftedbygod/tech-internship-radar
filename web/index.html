@@ -7,9 +7,7 @@
 
   <script>
     (function () {
-      var stored = localStorage.getItem("theme");
-      var theme = stored || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-      document.documentElement.dataset.theme = theme;
+      document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
     })();
   </script>
 
@@ -52,19 +50,17 @@
     <span id="count"></span>
   </div>
 
-  <div class="table-wrap">
-    <table id="jobs-table">
-      <thead>
-        <tr>
-          <th data-key="location">Hub</th>
-          <th data-key="company">Company</th>
-          <th data-key="title">Role</th>
-          <th data-key="postedDate">Posted</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-  </div>
+  <table id="jobs-table">
+    <thead>
+      <tr>
+        <th data-key="location">Hub</th>
+        <th data-key="company">Company</th>
+        <th data-key="title">Role</th>
+        <th data-key="postedDate">Posted</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
 
   <p id="empty-state" hidden>No listings match your filters.</p>
 
