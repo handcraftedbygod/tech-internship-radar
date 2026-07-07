@@ -3,6 +3,7 @@ import path from "node:path";
 import { openDb } from "./store.ts";
 
 const OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "jobs.json");
+const META_PATH = path.join(import.meta.dirname, "..", "web", "data", "meta.json");
 
 interface JobRow {
   id: string;
@@ -39,6 +40,7 @@ export function exportJson(): number {
 
     mkdirSync(path.dirname(OUT_PATH), { recursive: true });
     writeFileSync(OUT_PATH, JSON.stringify(internships, null, 2));
+    writeFileSync(META_PATH, JSON.stringify({ generatedAt: new Date().toISOString() }, null, 2));
     return internships.length;
   } finally {
     db.close();

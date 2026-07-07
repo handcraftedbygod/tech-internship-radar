@@ -71,6 +71,12 @@ header p {
   font-size: 0.95rem;
 }
 
+#last-updated {
+  font-family: "Geist Mono", monospace;
+  font-size: 0.8rem;
+  margin-top: 0.35rem;
+}
+
 #theme-toggle {
   flex-shrink: 0;
   display: flex;

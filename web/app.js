@@ -33,6 +33,18 @@ function hubFor(job) {
   return hit ? hit.name : OTHER_HUB;
 }
 
+const WORK_MODES = ["All", "Remote", "Hybrid", "On-site"];
+
+// Best-effort inference from free text, like hubFor() -- sources don't expose
+// a clean "workplace type" field, so anything not mentioning remote/hybrid
+// defaults to On-site.
+function workModeFor(job) {
+  const text = `${job.location} ${job.title}`.toLowerCase();
+  if (text.includes("hybrid")) return "Hybrid";
+  if (text.includes("remote")) return "Remote";
+  return "On-site";
+}
+
 const PAGE_SIZE = 20;
 
 let allJobs = [];
@@ -40,16 +52,19 @@ let sortKey = "postedDate";
 let sortDir = -1;
 let activeHub = "";
 let activeRole = ROLE_PRESETS[0].label;
+let activeWorkMode = "";
 let visibleCount = PAGE_SIZE;
 
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
 const roleChipsEl = document.getElementById("role-chips");
+const workModeChipsEl = document.getElementById("workmode-chips");
 const countEl = document.getElementById("count");
 const emptyState = document.getElementById("empty-state");
 const themeToggle = document.getElementById("theme-toggle");
 const loadMoreBtn = document.getElementById("load-more");
+const lastUpdatedEl = document.getElementById("last-updated");
 
 function matchesRole(job, roleLabel) {
   if (roleLabel === ROLE_PRESETS[0].label) return true;
@@ -70,7 +85,8 @@ function render() {
     const matchesQuery =
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
     const matchesHub = !activeHub || hubFor(job) === activeHub;
-    return matchesQuery && matchesHub && matchesRole(job, activeRole);
+    const matchesWorkMode = !activeWorkMode || workModeFor(job) === activeWorkMode;
+    return matchesQuery && matchesHub && matchesWorkMode && matchesRole(job, activeRole);
   });
 
   rows.sort((a, b) => {
@@ -147,6 +163,14 @@ function renderRoleChips() {
   );
 }
 
+function renderWorkModeChips() {
+  renderChips(workModeChipsEl, WORK_MODES, activeWorkMode || "All", (label) => {
+    activeWorkMode = label === "All" ? "" : label;
+    renderWorkModeChips();
+    resetPageAndRender();
+  });
+}
+
 function updateSortCarets() {
   document.querySelectorAll("th[data-key]").forEach((th) => {
     const existing = th.querySelector(".caret");
@@ -204,8 +228,23 @@ fetch("./data/jobs.json")
     allJobs = data;
     renderHubChips();
     renderRoleChips();
+    renderWorkModeChips();
     render();
   })
   .catch(() => {
     countEl.textContent = "Failed to load listings.";
+  });
+
+fetch("./data/meta.json")
+  .then((res) => res.json())
+  .then((meta) => {
+    const formatted = new Date(meta.generatedAt).toLocaleString(undefined, {
+      dateStyle: "medium",
+      timeStyle: "short",
+    });
+    lastUpdatedEl.textContent = `Last updated ${formatted}`;
+  })
+  .catch(() => {
+    // meta.json may not exist yet (e.g. before the first pipeline run after
+    // this feature shipped) -- leave the element empty rather than erroring.
   });
