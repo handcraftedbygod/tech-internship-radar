@@ -54,6 +54,7 @@ let allJobs = [];
 let sortKey = "postedDate";
 let sortDir = -1;
 let activeHub = "";
+let activeSeason = "";
 let activeRole = ROLE_PRESETS[0].label;
 let remoteOnly = false;
 let savedOnly = false;
@@ -95,6 +96,7 @@ function toggleSaved(id) {
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
+const seasonChipsEl = document.getElementById("season-chips");
 const roleChipsEl = document.getElementById("role-chips");
 const remoteToggle = document.getElementById("remote-toggle");
 const savedToggle = document.getElementById("saved-toggle");
@@ -123,9 +125,12 @@ function render() {
     const matchesQuery =
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
     const matchesHub = !activeHub || hubFor(job) === activeHub;
+    const matchesSeason = !activeSeason || job.season === activeSeason;
     const matchesRemote = !remoteOnly || isRemote(job);
     const matchesSaved = !savedOnly || savedIds.has(job.id);
-    return matchesQuery && matchesHub && matchesRemote && matchesSaved && matchesRole(job, activeRole);
+    return (
+      matchesQuery && matchesHub && matchesSeason && matchesRemote && matchesSaved && matchesRole(job, activeRole)
+    );
   });
 
   rows.sort((a, b) => {
@@ -208,6 +213,22 @@ function renderHubChips() {
   renderChips(hubChipsEl, labels, activeHub || "All hubs", (label) => {
     activeHub = label === "All hubs" ? "" : label;
     renderHubChips();
+    resetPageAndRender();
+  });
+}
+
+// Unlike HUBS/ROLE_PRESETS, seasons aren't a fixed list -- they're whatever
+// hiring cycles happen to be present in the data (e.g. once Summer 2027 roles
+// start appearing), so the chip row is built from job.season directly and
+// stays hidden until there's at least one to filter by.
+function renderSeasonChips() {
+  const seasons = [...new Set(allJobs.map((j) => j.season).filter(Boolean))].sort();
+  seasonChipsEl.hidden = seasons.length === 0;
+  if (seasons.length === 0) return;
+  const labels = ["All seasons", ...seasons];
+  renderChips(seasonChipsEl, labels, activeSeason || "All seasons", (label) => {
+    activeSeason = label === "All seasons" ? "" : label;
+    renderSeasonChips();
     resetPageAndRender();
   });
 }
@@ -301,6 +322,7 @@ fetch("./data/jobs.json")
   .then((data) => {
     allJobs = data;
     renderHubChips();
+    renderSeasonChips();
     renderRoleChips();
     render();
   })
