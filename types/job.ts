@@ -12,6 +12,7 @@ export interface RawJob {
   postedDate: string | null;
   salary?: string;
   season?: string;
+  advancedDegree?: boolean;
   descriptionText?: string;
 }
 
