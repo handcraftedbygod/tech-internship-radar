@@ -173,3 +173,18 @@ test("normalizes season capitalization regardless of title casing", () => {
   );
   assert.equal(result[0].season, "Summer 2027");
 });
+
+test("flags advanced-degree requirement from the title", () => {
+  const result = filterJobs([job({ title: "PhD Research Intern" })], keywords, locations, settings);
+  assert.equal(result[0].advancedDegree, true);
+});
+
+test("does not flag bare 'Master' (e.g. Scrum Master) as an advanced-degree requirement", () => {
+  const result = filterJobs([job({ title: "Scrum Master Intern" })], keywords, locations, settings);
+  assert.equal(result[0].advancedDegree, undefined);
+});
+
+test("flags Master's degree requirement from the title", () => {
+  const result = filterJobs([job({ title: "Master's Thesis Intern" })], keywords, locations, settings);
+  assert.equal(result[0].advancedDegree, true);
+});

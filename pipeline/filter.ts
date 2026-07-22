@@ -55,6 +55,17 @@ function extractSeason(title: string): string | undefined {
   return `${season} ${match[2]}`;
 }
 
+// Same title-only approach as season detection -- degree requirements are
+// usually buried in the description, but when a posting IS degree-gated it's
+// common for the title itself to say so (e.g. "PhD Research Intern"). Requires
+// the "'s"/"s" on master(')s -- bare "Master" also means "Scrum Master" or
+// "expert", not the degree, and would false-positive on those titles.
+const ADVANCED_DEGREE_PATTERN = /\b(phd|ph\.d\.?|master'?s|msc|m\.sc\.?|mba)\b/i;
+
+function requiresAdvancedDegree(title: string): boolean {
+  return ADVANCED_DEGREE_PATTERN.test(title);
+}
+
 function isRecentEnough(job: RawJob, maxAgeDays: number): boolean {
   if (!job.postedDate) return true; // ponytail: unparseable/missing date, can't enforce recency, so let it through
   const posted = new Date(job.postedDate);
@@ -97,6 +108,7 @@ export function filterJobs(
       tags: matchedTags(raw, keywords),
       categories,
       season: raw.season ?? extractSeason(raw.title),
+      advancedDegree: requiresAdvancedDegree(raw.title) || undefined,
       fetchedAt: now,
       firstSeenAt: now,
     });
