@@ -10,6 +10,7 @@ export interface RawJob {
   url: string;
   source: string;
   postedDate: string | null;
+  salary?: string;
   descriptionText?: string;
 }
 
