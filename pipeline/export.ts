@@ -64,6 +64,7 @@ interface JobRow {
   source: string;
   posted_date: string | null;
   salary: string | null;
+  season: string | null;
   tags: string;
   categories: string;
   first_seen_at: string;
@@ -85,6 +86,7 @@ export function exportJson(): number {
         source: row.source,
         postedDate: row.posted_date,
         salary: row.salary ?? undefined,
+        season: row.season ?? undefined,
         tags: JSON.parse(row.tags) as string[],
         firstSeenAt: row.first_seen_at,
       }));
