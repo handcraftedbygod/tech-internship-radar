@@ -148,3 +148,18 @@ test("keeps jobs with a missing postedDate (can't verify age)", () => {
   );
   assert.equal(result.length, 1);
 });
+
+test("detects a hiring-cycle season from the title", () => {
+  const result = filterJobs(
+    [job({ title: "Summer 2027 Software Engineering Intern" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result[0].season, "Summer 2027");
+});
+
+test("leaves season undefined when the title has no season+year", () => {
+  const result = filterJobs([job({ title: "Software Engineering Intern" })], keywords, locations, settings);
+  assert.equal(result[0].season, undefined);
+});

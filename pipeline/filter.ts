@@ -43,6 +43,18 @@ function matchedTags(job: RawJob, keywords: KeywordsConfig): string[] {
   return [...tags];
 }
 
+// Detected straight from the title, not curated -- a hiring-cycle chip like
+// "Summer 2027" appears in our data the moment a source posts it, with no
+// wait for someone to notice and add it by hand.
+const SEASON_PATTERN = /\b(spring|summer|fall|autumn|winter)\s+(20\d{2})\b/i;
+
+function extractSeason(title: string): string | undefined {
+  const match = title.match(SEASON_PATTERN);
+  if (!match) return undefined;
+  const season = match[1][0].toUpperCase() + match[1].slice(1).toLowerCase();
+  return `${season} ${match[2]}`;
+}
+
 function isRecentEnough(job: RawJob, maxAgeDays: number): boolean {
   if (!job.postedDate) return true; // ponytail: unparseable/missing date, can't enforce recency, so let it through
   const posted = new Date(job.postedDate);
@@ -84,6 +96,7 @@ export function filterJobs(
       id: computeId(raw),
       tags: matchedTags(raw, keywords),
       categories,
+      season: raw.season ?? extractSeason(raw.title),
       fetchedAt: now,
       firstSeenAt: now,
     });
