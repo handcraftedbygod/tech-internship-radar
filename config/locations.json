@@ -16,7 +16,8 @@
     { "city": "Zurich", "country": "CH", "adzunaCountry": null, "aliases": ["Zurich", "Zürich", "Switzerland"] },
     { "city": "New York", "country": "US", "adzunaCountry": "us", "aliases": ["New York", "NYC", "New York City"] },
     { "city": "San Francisco", "country": "US", "adzunaCountry": "us", "aliases": ["San Francisco", "SF", "Bay Area", "San Jose", "Silicon Valley"] },
-    { "city": "Seattle", "country": "US", "adzunaCountry": "us", "aliases": ["Seattle"] }
+    { "city": "Seattle", "country": "US", "adzunaCountry": "us", "aliases": ["Seattle"] },
+    { "city": "Austin", "country": "US", "adzunaCountry": "us", "aliases": ["Austin"] }
   ],
   "allowRemoteGlobal": true
 }
