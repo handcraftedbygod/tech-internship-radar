@@ -186,10 +186,6 @@ header p {
   font-weight: 500;
 }
 
-#remote-toggle {
-  align-self: flex-start;
-}
-
 #count {
   color: var(--text-muted);
   font-family: "Geist Mono", monospace;
