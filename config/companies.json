@@ -73,6 +73,7 @@
     {"name":"MongoDB","source":"greenhouse","boardToken":"mongodb"},
     {"name":"Elastic","source":"greenhouse","boardToken":"elastic"},
     {"name":"PagerDuty","source":"greenhouse","boardToken":"pagerduty"},
-    {"name":"Toast","source":"greenhouse","boardToken":"toasttab"}
+    {"name":"Toast","source":"greenhouse","boardToken":"toasttab"},
+    {"name":"Anthropic","source":"greenhouse","boardToken":"anthropic"}
   ]
 }
