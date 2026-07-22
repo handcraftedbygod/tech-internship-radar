@@ -18,7 +18,8 @@
     { "city": "San Francisco", "country": "US", "adzunaCountry": "us", "aliases": ["San Francisco", "SF", "Bay Area", "San Jose", "Silicon Valley"] },
     { "city": "Seattle", "country": "US", "adzunaCountry": "us", "aliases": ["Seattle"] },
     { "city": "Austin", "country": "US", "adzunaCountry": "us", "aliases": ["Austin"] },
-    { "city": "Toronto", "country": "CA", "adzunaCountry": "ca", "aliases": ["Toronto"] }
+    { "city": "Toronto", "country": "CA", "adzunaCountry": "ca", "aliases": ["Toronto"] },
+    { "city": "Vancouver", "country": "CA", "adzunaCountry": "ca", "aliases": ["Vancouver"] }
   ],
   "allowRemoteGlobal": true
 }
