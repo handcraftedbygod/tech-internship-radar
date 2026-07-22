@@ -60,7 +60,7 @@ function matchesLocation(job: RawJob, locations: LocationsConfig): boolean {
       (job.country && job.country.toUpperCase() === hub.country),
   );
   if (hubMatch) return true;
-  return locations.allowRemoteEU && /europe|\beu\b/.test(text);
+  return locations.allowRemoteGlobal && /europe|\beu\b|north america|\b(usa|us|ca)\b/.test(text);
 }
 
 export function filterJobs(

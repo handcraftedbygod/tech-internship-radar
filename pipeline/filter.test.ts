@@ -15,7 +15,7 @@ const keywords: KeywordsConfig = {
 
 const locations: LocationsConfig = {
   hubs: [{ city: "Berlin", country: "DE", adzunaCountry: "de", aliases: ["Berlin", "Germany"] }],
-  allowRemoteEU: true,
+  allowRemoteGlobal: true,
 };
 
 const settings: SettingsConfig = { maxAgeDays: 7 };
@@ -97,9 +97,19 @@ test("drops jobs outside configured hubs and not remote-EU", () => {
   assert.equal(result.length, 0);
 });
 
-test("keeps remote-EU jobs when allowRemoteEU is true", () => {
+test("keeps remote-EU jobs when allowRemoteGlobal is true", () => {
   const result = filterJobs(
     [job({ title: "Praktikum", location: "Remote, Europe" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+});
+
+test("keeps remote-North America jobs when allowRemoteGlobal is true", () => {
+  const result = filterJobs(
+    [job({ title: "Praktikum", location: "Remote, USA" })],
     keywords,
     locations,
     settings,

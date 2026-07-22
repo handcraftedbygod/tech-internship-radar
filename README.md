@@ -43,8 +43,8 @@ did get, so one bad source can't break the run.
   `exclude`. Matching is case-insensitive, whole-word, **title-only** (not the full description —
   ATS benefits boilerplate like "not available for interns/working students" appears on unrelated
   roles, so scanning descriptions causes false positives).
-- **Locations** — `config/locations.json`. Add/remove hubs, aliases, or toggle `allowRemoteEU` to
-  include/exclude remote-eligible listings.
+- **Locations** — `config/locations.json`. Add/remove hubs, aliases, or toggle `allowRemoteGlobal`
+  to include/exclude remote-eligible listings.
 - **Companies polled via ATS APIs** — `config/companies.json`. See "Adding a company" below.
 - **How old a listing can be** — `config/settings.json` → `maxAgeDays` (default 7, to keep the
   list to current capacity). Jobs whose source doesn't report a parseable date are kept, since

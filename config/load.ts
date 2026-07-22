@@ -27,7 +27,7 @@ export interface LocationHub {
 
 export interface LocationsConfig {
   hubs: LocationHub[];
-  allowRemoteEU: boolean;
+  allowRemoteGlobal: boolean;
 }
 
 export type CompanyEntry = {

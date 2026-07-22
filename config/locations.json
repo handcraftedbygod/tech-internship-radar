@@ -15,5 +15,5 @@
     { "city": "Lisbon", "country": "PT", "adzunaCountry": null, "aliases": ["Lisbon", "Portugal"] },
     { "city": "Zurich", "country": "CH", "adzunaCountry": null, "aliases": ["Zurich", "Zürich", "Switzerland"] }
   ],
-  "allowRemoteEU": true
+  "allowRemoteGlobal": true
 }
