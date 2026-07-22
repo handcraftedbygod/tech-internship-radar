@@ -83,13 +83,24 @@ header p {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 2.25rem;
   height: 2.25rem;
   border-radius: 8px;
   border: 1px solid var(--control-border);
   background: var(--surface);
   color: var(--text-muted);
   cursor: pointer;
+  text-decoration: none;
+}
+
+#rss-link {
+  padding: 0 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+#theme-toggle {
+  width: 2.25rem;
 }
 
 #rss-link:hover,
@@ -98,7 +109,6 @@ header p {
   border-color: var(--accent);
 }
 
-#rss-link svg,
 #theme-toggle svg {
   width: 18px;
   height: 18px;
