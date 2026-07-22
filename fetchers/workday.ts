@@ -13,6 +13,30 @@ interface WorkdayPosting {
   bulletFields?: string[];
 }
 
+// Workday's public job URL needs the career-site name between the domain and
+// "/job/..." (e.g. "/External_Career_Site/job/..."), not just origin +
+// externalPath -- that 404s. The site name is the endpoint's second-to-last
+// path segment: .../wday/cxs/{tenant}/{siteName}/jobs.
+export function siteUrl(endpointUrl: string, externalPath: string): string {
+  const url = new URL(endpointUrl);
+  const segments = url.pathname.split("/").filter(Boolean);
+  const siteName = segments.at(-2);
+  return `${url.origin}/${siteName}${externalPath}`;
+}
+
+// postedOn is human text ("Posted Today", "Posted 6 Days Ago", "Posted 30+
+// Days Ago"), not a date -- passing it straight through as postedDate made
+// `new Date(...)` downstream produce NaN ("NaNd ago" in the UI).
+export function parsePostedOn(postedOn: string | undefined): string | null {
+  if (!postedOn) return null;
+  const text = postedOn.toLowerCase();
+  if (text.includes("today")) return new Date().toISOString();
+  if (text.includes("yesterday")) return new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
+  const match = text.match(/(\d+)\+?\s*days?\s*ago/);
+  if (!match) return null;
+  return new Date(Date.now() - Number(match[1]) * 24 * 60 * 60 * 1000).toISOString();
+}
+
 const workday: Fetcher = async () => {
   const companies = loadCompanies(SOURCE);
   const jobs: RawJob[] = [];
@@ -37,7 +61,6 @@ const workday: Fetcher = async () => {
         const postings = data.jobPostings ?? [];
         if (postings.length === 0) break;
 
-        const origin = new URL(endpointUrl).origin;
         for (const job of postings) {
           jobs.push({
             externalId: job.externalPath,
@@ -45,9 +68,9 @@ const workday: Fetcher = async () => {
             company: company.name as string,
             location: job.locationsText ?? "",
             country: null,
-            url: origin + job.externalPath,
+            url: siteUrl(endpointUrl, job.externalPath),
             source: SOURCE,
-            postedDate: job.postedOn ?? null,
+            postedDate: parsePostedOn(job.postedOn),
           });
         }
         if (postings.length < PAGE_SIZE) break;

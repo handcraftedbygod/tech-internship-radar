@@ -16,7 +16,7 @@
   },
   "scripts": {
     "pipeline": "node --experimental-strip-types pipeline/run.ts",
-    "test": "node --experimental-strip-types --test pipeline/*.test.ts",
+    "test": "node --experimental-strip-types --test pipeline/*.test.ts fetchers/*.test.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
