@@ -17,6 +17,7 @@ CREATE TABLE IF NOT EXISTS jobs (
   source        TEXT NOT NULL,
   posted_date   TEXT,
   salary        TEXT,
+  season        TEXT,
   tags          TEXT NOT NULL,
   categories    TEXT NOT NULL,
   first_seen_at TEXT NOT NULL,
@@ -29,8 +30,8 @@ CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_date);
 `;
 
 const UPSERT = `
-INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, tags, categories, first_seen_at, last_seen_at, fetched_at)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, season, tags, categories, first_seen_at, last_seen_at, fetched_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(id) DO UPDATE SET
   external_id = excluded.external_id,
   title = excluded.title,
@@ -41,19 +42,28 @@ ON CONFLICT(id) DO UPDATE SET
   source = excluded.source,
   posted_date = excluded.posted_date,
   salary = excluded.salary,
+  season = excluded.season,
   tags = excluded.tags,
   categories = excluded.categories,
   last_seen_at = excluded.last_seen_at,
   fetched_at = excluded.fetched_at;
 `;
 
-// ponytail: one-off migration for DBs created before the salary column existed.
-// CREATE TABLE IF NOT EXISTS is a no-op on an existing table, so this covers
-// the gap; if a second column ever needs adding, generalize into a loop.
+// ponytail: covers DBs created before these columns existed, since CREATE
+// TABLE IF NOT EXISTS is a no-op on an existing table. Add to this list
+// whenever a new nullable column joins the schema.
+const ADDED_COLUMNS = [
+  { name: "salary", type: "TEXT" },
+  { name: "season", type: "TEXT" },
+];
+
 function migrate(db: DatabaseSync): void {
   const columns = db.prepare("PRAGMA table_info(jobs)").all() as unknown as { name: string }[];
-  if (!columns.some((c) => c.name === "salary")) {
-    db.exec("ALTER TABLE jobs ADD COLUMN salary TEXT");
+  const existing = new Set(columns.map((c) => c.name));
+  for (const col of ADDED_COLUMNS) {
+    if (!existing.has(col.name)) {
+      db.exec(`ALTER TABLE jobs ADD COLUMN ${col.name} ${col.type}`);
+    }
   }
 }
 
@@ -77,6 +87,7 @@ export function storeJobs(jobs: Job[]): void {
         job.source,
         job.postedDate,
         job.salary ?? null,
+        job.season ?? null,
         JSON.stringify(job.tags),
         JSON.stringify(job.categories),
         job.firstSeenAt,
