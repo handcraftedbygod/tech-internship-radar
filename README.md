@@ -1,58 +1,58 @@
-# EU Tech Internship Radar
+# Tech Internship Radar
 
-**A daily-refreshing tracker of internship & working-student listings across major European tech
-hubs** — Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki, Tallinn, Warsaw,
-Barcelona, Lisbon, and Zurich.
+[![CI](https://github.com/handcraftedbygod/tech-internship-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/handcraftedbygod/tech-internship-radar/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-### 🔗 [**View the live site → handcraftedbygod.github.io/eu-tech-internship-radar**](https://handcraftedbygod.github.io/eu-tech-internship-radar/)
+**A daily-refreshing tracker of internship & working-student listings** across European and North
+American tech hubs — Berlin, Munich, Amsterdam, Dublin, London, Paris, Stockholm, Helsinki,
+Tallinn, Warsaw, Barcelona, Lisbon, Zurich, New York, San Francisco, Seattle, Austin, Toronto, and
+Vancouver.
 
-No sign-up, nothing to install — click the link above and the current listings are already there,
-refreshed automatically every day.
+### 🔗 [**View the live site → handcraftedbygod.github.io/tech-internship-radar**](https://handcraftedbygod.github.io/tech-internship-radar/)
 
-![Screenshot of the dark-mode UI, showing the search bar, role/hub filter chips, and a sortable table of internship listings](docs/screenshot-dark.png)
+No sign-up, nothing to install — the current listings are already there, refreshed automatically
+every day.
 
-No hardcoded assumptions about nationality, visa status, or language — every filter lives in
-`config/` and is editable by anyone, not just the person who built this.
+![Screenshot of the dark-mode UI, showing the search bar, role/hub/season filter chips, and a sortable table of internship listings](docs/screenshot-dark.png)
 
-Data comes only from public, ToS-friendly sources: Greenhouse/Lever/Ashby/Workday's public job
-board APIs for a curated list of companies, plus the Adzuna, Arbeitnow, and Remotive job APIs. No
-scraping of LinkedIn/Indeed or any site that disallows it.
+## Features
 
-This is project 1 of a family of trackers that will share the same pipeline and job schema (a
-new-grad SWE tracker, an AI new-grad tracker, and "Hireflow"). The fetcher interface and schema are
-designed so those are config changes, not rewrites — see "How the schema generalizes" below.
+- **Freshness, salary & hiring-cycle signals** — "Today"/"Nd ago" badges, a salary column where a
+  source reports one, and hiring-cycle tags (e.g. "Summer 2027") auto-detected straight from job
+  titles — no manual curation.
+- **Bookmarks & "new since last visit"** — save listings and see what's landed since you last
+  checked, both local to your browser via `localStorage` (no login, no backend).
+- **RSS feed** — subscribe to `feed.xml` instead of checking the page.
+- **Config over code** — hubs, keywords, and companies all live in `config/` and are data changes,
+  not rewrites. See [Configuring](#configuring-no-code-changes) below.
+- Data comes only from public, ToS-friendly sources: Greenhouse/Lever/Ashby/Workday's public job
+  board APIs for a curated company list, plus the Adzuna, Arbeitnow, and Remotive job APIs.
 
 ## How it works
 
 ```
 fetchers/  →  pipeline/filter.ts  →  pipeline/dedupe.ts  →  pipeline/store.ts  →  pipeline/export.ts
-(one file    (keyword + location     (collapse by id)      (SQLite upsert,       (SQLite → web/data/jobs.json)
-per source)   + recency filter,                              first-seen kept)
+(one file    (keyword + location     (collapse by id)      (SQLite upsert)       (SQLite → jobs.json,
+per source)   + recency + season,                                                 meta.json, feed.xml)
               all from config/)
 ```
 
-`pipeline/run.ts` runs all of the above in order, prints a per-source summary, and writes
-`pipeline-summary.md` (also appended to the GitHub Actions job summary in CI).
+`pipeline/run.ts` runs all of the above in order and writes `pipeline-summary.md` (also appended
+to the GitHub Actions job summary in CI). Each fetcher never throws — a dead or failing source
+reports an error but returns whatever jobs it did get, so one bad source can't break the run.
 
-Each fetcher never throws - a dead or failing source reports an error but returns whatever jobs it
-did get, so one bad source can't break the run.
+## Configuring (no code changes needed)
 
-## Configuring filters (no code changes needed)
-
-- **Keywords** — `config/keywords.json`. Add/remove words in `lists.internship.include` or
-  `exclude`. Matching is case-insensitive, whole-word, **title-only** (not the full description —
-  ATS benefits boilerplate like "not available for interns/working students" appears on unrelated
-  roles, so scanning descriptions causes false positives).
-- **Locations** — `config/locations.json`. Add/remove hubs, aliases, or toggle `allowRemoteGlobal`
-  to include/exclude remote-eligible listings.
+- **Keywords** — `config/keywords.json`. Case-insensitive, whole-word, **title-only** matching
+  (scanning descriptions causes false positives from ATS benefits boilerplate).
+- **Hubs & remote eligibility** — `config/locations.json`. Toggle `allowRemoteGlobal` to
+  include/exclude remote-eligible listings.
 - **Companies polled via ATS APIs** — `config/companies.json`. See "Adding a company" below.
-- **How old a listing can be** — `config/settings.json` → `maxAgeDays` (default 7, to keep the
-  list to current capacity). Jobs whose source doesn't report a parseable date are kept, since
-  their age can't be verified.
+- **Max listing age** — `config/settings.json` → `maxAgeDays` (default 7).
 
 ## Adding a company
 
-Add one entry to `config/companies.json`. The required fields depend on the ATS:
+Add one entry to `config/companies.json`:
 
 ```jsonc
 { "name": "Example Co", "source": "greenhouse", "boardToken": "examplecoslug" }
@@ -61,33 +61,13 @@ Add one entry to `config/companies.json`. The required fields depend on the ATS:
 { "name": "Example Co", "source": "workday", "endpointUrl": "https://<tenant>.wdN.myworkdayjobs.com/wday/cxs/<tenant>/<site>/jobs" }
 ```
 
-The starter list is a curated, **not live-verified** set of ~40 companies known to use these
-platforms — a wrong slug just makes that one company 404 for a run (visible in
-`pipeline-summary.md`), it won't break anything else.
+The list is curated, **not live-verified** — a wrong slug just makes that one company 404 for a
+run (visible in `pipeline-summary.md`), it won't break anything else.
 
 ## Adding a new source
 
 Add one file to `fetchers/` that default-exports a function matching the `Fetcher` type in
-`fetchers/types.ts` (`() => Promise<{ source, jobs, error? }>`), then add it to the array in
-`fetchers/index.ts`. It must catch its own errors — never let it throw.
-
-## How the schema generalizes (for the other 3 planned projects)
-
-`types/job.ts`'s `Job` has no `is_internship` boolean. Instead it has `categories: string[]`,
-populated from whichever named lists in `config/keywords.json` matched. Project 1 only ever
-produces `["internship"]`. A future new-grad or AI-jobs tracker adds a new key to
-`keywords.json.lists` (e.g. `"new-grad"`) and gets a second category — with zero changes to
-fetchers or pipeline code. Fetchers, config for companies/locations, storage, and the pipeline
-orchestration are all reusable as-is.
-
-## Frontend
-
-Plain HTML/CSS/JS, no framework, no build step. Dark is the default theme (falls back to your
-system preference on first visit), with a toggle in the header that remembers your choice via
-`localStorage`. Typography is [Geist](https://vercel.com/font) throughout. Quick filter chips for
-common role categories (Software Engineering, Data & Analytics, Product & Design, Business &
-Marketing) and for hub sit above a sortable, searchable table — everything reads from the single
-generated `web/data/jobs.json` file, so the whole frontend is static and cacheable.
+`fetchers/types.ts`, then register it in `fetchers/index.ts`. It must catch its own errors.
 
 ## Running locally
 
@@ -98,15 +78,19 @@ npm run pipeline       # fetch → filter → dedupe → store → export
 npx serve web          # or: python -m http.server --directory web
 ```
 
-Other scripts: `npm test` (filter/dedupe unit tests), `npm run typecheck`.
+Other scripts: `npm test`, `npm run typecheck`.
 
 ## Deployment
 
-Two GitHub Actions workflows:
-- `.github/workflows/pipeline.yml` — runs daily (04:00 UTC) and on manual dispatch, runs the
-  pipeline, commits the updated `data/jobs.db` and `web/data/jobs.json` to `main`.
-- `.github/workflows/pages.yml` — triggered on any push to `main` touching `web/**`, deploys
-  `web/` to GitHub Pages.
+Two GitHub Actions workflows: `pipeline.yml` (daily at 04:00 UTC, commits refreshed data to
+`main`) and `pages.yml` (deploys `web/` to GitHub Pages on every push to `main`). Repo secrets
+`ADZUNA_APP_ID`/`ADZUNA_APP_KEY` enable the Adzuna fetcher; other sources work without them.
 
-Repo secrets `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` must be set (`gh secret set ADZUNA_APP_ID`, etc.)
-for the Adzuna fetcher to run in CI; other sources work without them.
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) — most useful contributions are one-line config changes
+(a hub, a keyword, a company slug), not code.
+
+## License
+
+[MIT](LICENSE)
