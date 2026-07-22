@@ -14,8 +14,8 @@ No sign-up, nothing to install.
 
 ## Features
 
-- Freshness badges, salary (where a source reports one), and hiring-cycle tags (e.g. "Summer
-  2027") auto-detected straight from job titles — no manual curation.
+- Freshness badges, hiring-cycle tags (e.g. "Summer 2027"), notable-company (🏆) and
+  advanced-degree (🎓) badges — all auto-detected straight from job titles, no manual curation.
 - Bookmarks and "new since last visit," both local via `localStorage` — no login, no backend.
 - RSS feed (`feed.xml`).
 - Every hub, keyword, and company lives in `config/` — additions are data changes, not code.
