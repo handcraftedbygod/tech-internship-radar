@@ -16,6 +16,7 @@ CREATE TABLE IF NOT EXISTS jobs (
   url           TEXT NOT NULL,
   source        TEXT NOT NULL,
   posted_date   TEXT,
+  salary        TEXT,
   tags          TEXT NOT NULL,
   categories    TEXT NOT NULL,
   first_seen_at TEXT NOT NULL,
@@ -28,8 +29,8 @@ CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_date);
 `;
 
 const UPSERT = `
-INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, tags, categories, first_seen_at, last_seen_at, fetched_at)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, tags, categories, first_seen_at, last_seen_at, fetched_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(id) DO UPDATE SET
   external_id = excluded.external_id,
   title = excluded.title,
@@ -39,17 +40,29 @@ ON CONFLICT(id) DO UPDATE SET
   url = excluded.url,
   source = excluded.source,
   posted_date = excluded.posted_date,
+  salary = excluded.salary,
   tags = excluded.tags,
   categories = excluded.categories,
   last_seen_at = excluded.last_seen_at,
   fetched_at = excluded.fetched_at;
 `;
 
+// ponytail: one-off migration for DBs created before the salary column existed.
+// CREATE TABLE IF NOT EXISTS is a no-op on an existing table, so this covers
+// the gap; if a second column ever needs adding, generalize into a loop.
+function migrate(db: DatabaseSync): void {
+  const columns = db.prepare("PRAGMA table_info(jobs)").all() as unknown as { name: string }[];
+  if (!columns.some((c) => c.name === "salary")) {
+    db.exec("ALTER TABLE jobs ADD COLUMN salary TEXT");
+  }
+}
+
 export function storeJobs(jobs: Job[]): void {
   mkdirSync(path.dirname(DB_PATH), { recursive: true });
   const db = new DatabaseSync(DB_PATH);
   try {
     db.exec(SCHEMA);
+    migrate(db);
     const stmt = db.prepare(UPSERT);
     db.exec("BEGIN");
     for (const job of jobs) {
@@ -63,6 +76,7 @@ export function storeJobs(jobs: Job[]): void {
         job.url,
         job.source,
         job.postedDate,
+        job.salary ?? null,
         JSON.stringify(job.tags),
         JSON.stringify(job.categories),
         job.firstSeenAt,
@@ -82,5 +96,6 @@ export function storeJobs(jobs: Job[]): void {
 export function openDb(): DatabaseSync {
   const db = new DatabaseSync(DB_PATH);
   db.exec(SCHEMA);
+  migrate(db);
   return db;
 }
