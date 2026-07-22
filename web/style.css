@@ -202,22 +202,27 @@ table {
 
 th:nth-child(1),
 td:nth-child(1) {
-  width: 16%;
+  width: 14%;
 }
 
 th:nth-child(2),
 td:nth-child(2) {
-  width: 20%;
+  width: 18%;
 }
 
 th:nth-child(3),
 td:nth-child(3) {
-  width: 49%;
+  width: 42%;
 }
 
 th:nth-child(4),
 td:nth-child(4) {
-  width: 15%;
+  width: 13%;
+}
+
+th:nth-child(5),
+td:nth-child(5) {
+  width: 13%;
 }
 
 th,
@@ -248,7 +253,8 @@ th .caret {
   margin-left: 0.3rem;
 }
 
-td:last-child {
+td:nth-child(4),
+td:nth-child(5) {
   font-family: "Geist Mono", monospace;
   font-variant-numeric: tabular-nums;
   color: var(--text-muted);

@@ -108,6 +108,7 @@ function render() {
       <td>${escapeHtml(job.company)}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
       <td>${job.postedDate ? postedCell(job.postedDate) : "-"}</td>
+      <td>${job.salary ? escapeHtml(job.salary) : "-"}</td>
     </tr>`,
     )
     .join("");
