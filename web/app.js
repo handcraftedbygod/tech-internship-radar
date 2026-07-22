@@ -51,6 +51,23 @@ function isRemote(job) {
   return text.includes("remote") || text.includes("hybrid");
 }
 
+// "FAANG+"-tier by reputation/competitiveness, not a strict acronym -- same
+// spirit as SimplifyJobs' badge, extended to prestigious non-FAANG names like
+// Palantir. Matched by substring against job.company, so "Stripe, Inc." still
+// hits "Stripe". Deliberately a fixed, edited-by-hand list, not automated --
+// there's no clean signal for "notable" in the source data to derive it from.
+const NOTABLE_COMPANIES = [
+  "Stripe", "Airbnb", "DoorDash", "Robinhood", "Coinbase", "Databricks", "Anthropic", "OpenAI",
+  "Palantir", "Salesforce", "SAP", "Visa", "Nike", "Spotify", "Klarna", "Booking.com", "Reddit",
+  "Pinterest", "Cloudflare", "Discord", "Figma", "Twilio", "Notion", "Duolingo", "Scale AI",
+  "Shopify", "Roblox", "Block", "Instacart", "HubSpot",
+].map((name) => name.toLowerCase());
+
+function isNotable(job) {
+  const company = job.company.toLowerCase();
+  return NOTABLE_COMPANIES.some((name) => company.includes(name));
+}
+
 const PAGE_SIZE = 20;
 
 let allJobs = [];
@@ -150,7 +167,7 @@ function render() {
     <tr data-url="${escapeAttr(job.url)}" tabindex="0">
       <td>${starButton(job)}</td>
       <td>${escapeHtml(job.location)}</td>
-      <td>${escapeHtml(job.company)}</td>
+      <td>${escapeHtml(job.company)}${isNotable(job) ? ' <span class="notable-badge" title="Notable company">🏆</span>' : ""}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a>${isNewSinceLastVisit(job) ? '<span class="new-badge">NEW</span>' : ""}</td>
       <td>${job.postedDate ? postedCell(job.postedDate) : "-"}</td>
       <td>${job.salary ? escapeHtml(job.salary) : "-"}</td>
