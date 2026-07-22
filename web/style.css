@@ -255,6 +255,11 @@ td:last-child {
   font-size: 0.9rem;
 }
 
+.posted-fresh {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 tbody tr {
   cursor: pointer;
 }

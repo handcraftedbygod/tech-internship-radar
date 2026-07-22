@@ -107,7 +107,7 @@ function render() {
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}</td>
       <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
-      <td>${job.postedDate ? relativeDate(job.postedDate) : "-"}</td>
+      <td>${job.postedDate ? postedCell(job.postedDate) : "-"}</td>
     </tr>`,
     )
     .join("");
@@ -130,6 +130,11 @@ function relativeDate(isoDate) {
   if (days <= 0) return "Today";
   if (days === 1) return "1d ago";
   return `${days}d ago`;
+}
+
+function postedCell(isoDate) {
+  const label = relativeDate(isoDate);
+  return label === "Today" ? `<span class="posted-fresh">${label}</span>` : label;
 }
 
 function escapeHtml(str) {
