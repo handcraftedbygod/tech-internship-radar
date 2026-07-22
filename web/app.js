@@ -74,6 +74,17 @@ function loadSaved() {
 
 let savedIds = loadSaved();
 
+// firstSeenAt is stable per job across pipeline runs (preserved on upsert), so
+// comparing it to the last visit timestamp -- not the id set -- tells us
+// what's new without having to remember every id we've ever shown.
+const LAST_VISIT_KEY = "lastVisit";
+const previousVisit = localStorage.getItem(LAST_VISIT_KEY);
+localStorage.setItem(LAST_VISIT_KEY, new Date().toISOString());
+
+function isNewSinceLastVisit(job) {
+  return !!previousVisit && new Date(job.firstSeenAt) > new Date(previousVisit);
+}
+
 function toggleSaved(id) {
   if (savedIds.has(id)) savedIds.delete(id);
   else savedIds.add(id);
@@ -132,7 +143,7 @@ function render() {
       <td>${starButton(job)}</td>
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}</td>
-      <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a></td>
+      <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a>${isNewSinceLastVisit(job) ? '<span class="new-badge">NEW</span>' : ""}</td>
       <td>${job.postedDate ? postedCell(job.postedDate) : "-"}</td>
       <td>${job.salary ? escapeHtml(job.salary) : "-"}</td>
     </tr>`,
