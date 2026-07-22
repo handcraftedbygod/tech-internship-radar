@@ -16,7 +16,6 @@ CREATE TABLE IF NOT EXISTS jobs (
   url           TEXT NOT NULL,
   source        TEXT NOT NULL,
   posted_date   TEXT,
-  salary        TEXT,
   season        TEXT,
   advanced_degree INTEGER,
   tags          TEXT NOT NULL,
@@ -31,8 +30,8 @@ CREATE INDEX IF NOT EXISTS idx_jobs_posted ON jobs(posted_date);
 `;
 
 const UPSERT = `
-INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, salary, season, advanced_degree, tags, categories, first_seen_at, last_seen_at, fetched_at)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, season, advanced_degree, tags, categories, first_seen_at, last_seen_at, fetched_at)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(id) DO UPDATE SET
   external_id = excluded.external_id,
   title = excluded.title,
@@ -42,7 +41,6 @@ ON CONFLICT(id) DO UPDATE SET
   url = excluded.url,
   source = excluded.source,
   posted_date = excluded.posted_date,
-  salary = excluded.salary,
   season = excluded.season,
   advanced_degree = excluded.advanced_degree,
   tags = excluded.tags,
@@ -55,10 +53,15 @@ ON CONFLICT(id) DO UPDATE SET
 // TABLE IF NOT EXISTS is a no-op on an existing table. Add to this list
 // whenever a new nullable column joins the schema.
 const ADDED_COLUMNS = [
-  { name: "salary", type: "TEXT" },
   { name: "season", type: "TEXT" },
   { name: "advanced_degree", type: "INTEGER" },
 ];
+
+// ponytail: salary turned out not to be worth showing (near-always empty --
+// only Adzuna reports it), so this drops it from any DB created while the
+// column existed. Not generalized into a list since column removal should
+// stay rare and deliberate, unlike additions.
+const DROPPED_COLUMNS = ["salary"];
 
 function migrate(db: DatabaseSync): void {
   const columns = db.prepare("PRAGMA table_info(jobs)").all() as unknown as { name: string }[];
@@ -66,6 +69,11 @@ function migrate(db: DatabaseSync): void {
   for (const col of ADDED_COLUMNS) {
     if (!existing.has(col.name)) {
       db.exec(`ALTER TABLE jobs ADD COLUMN ${col.name} ${col.type}`);
+    }
+  }
+  for (const name of DROPPED_COLUMNS) {
+    if (existing.has(name)) {
+      db.exec(`ALTER TABLE jobs DROP COLUMN ${name}`);
     }
   }
 }
@@ -89,7 +97,6 @@ export function storeJobs(jobs: Job[]): void {
         job.url,
         job.source,
         job.postedDate,
-        job.salary ?? null,
         job.season ?? null,
         job.advancedDegree ? 1 : null,
         JSON.stringify(job.tags),
