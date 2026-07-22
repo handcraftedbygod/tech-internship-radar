@@ -12,6 +12,20 @@ interface AdzunaJob {
   redirect_url: string;
   created: string;
   description?: string;
+  salary_min?: number;
+  salary_max?: number;
+  salary_is_predicted?: string;
+}
+
+// Adzuna is the only source with structured salary data -- ATS APIs
+// (Greenhouse/Lever/Ashby/Workday) don't expose it in list responses, so
+// `salary` is left undefined there rather than scraped from free text.
+function formatSalary(job: AdzunaJob): string | undefined {
+  const { salary_min: min, salary_max: max } = job;
+  if (!min && !max) return undefined;
+  const round = (n: number) => Math.round(n / 1000);
+  const range = min && max && min !== max ? `${round(min)}k-${round(max)}k` : `${round(min || max!)}k`;
+  return job.salary_is_predicted === "1" ? `~${range}` : range;
 }
 
 const adzuna: Fetcher = async () => {
@@ -50,6 +64,7 @@ const adzuna: Fetcher = async () => {
           url: job.redirect_url,
           source: SOURCE,
           postedDate: job.created ?? null,
+          salary: formatSalary(job),
           descriptionText: job.description,
         });
       }
