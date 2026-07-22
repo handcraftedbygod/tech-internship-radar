@@ -71,6 +71,7 @@
     {"name":"Cloudflare","source":"greenhouse","boardToken":"cloudflare"},
     {"name":"Confluent","source":"greenhouse","boardToken":"confluent"},
     {"name":"MongoDB","source":"greenhouse","boardToken":"mongodb"},
-    {"name":"Elastic","source":"greenhouse","boardToken":"elastic"}
+    {"name":"Elastic","source":"greenhouse","boardToken":"elastic"},
+    {"name":"PagerDuty","source":"greenhouse","boardToken":"pagerduty"}
   ]
 }
