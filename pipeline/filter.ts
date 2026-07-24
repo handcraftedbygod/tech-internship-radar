@@ -32,6 +32,20 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
   return categories;
 }
 
+// adzuna/arbeitnow/remotive are all-industry job boards with no tech filter
+// of their own -- "internship" as a search term surfaces nursing, retail,
+// hospitality, etc. just as readily as software roles. greenhouse/lever/
+// ashby/workday postings come from config/companies.json, a hand-curated
+// tech company list, so they're already tech-scoped and skip this gate.
+const BROAD_SOURCES = new Set(["adzuna", "arbeitnow", "remotive"]);
+
+function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
+  if (!BROAD_SOURCES.has(job.source)) return true;
+  if (!keywords.techGate) return true;
+  const text = job.title.toLowerCase();
+  return keywords.techGate.include.some((kw) => hasKeyword(text, kw));
+}
+
 function matchedTags(job: RawJob, keywords: KeywordsConfig): string[] {
   const text = job.title.toLowerCase();
   const tags = new Set<string>();
@@ -104,6 +118,7 @@ export function filterJobs(
 
     const categories = matchedCategories(raw, keywords);
     if (categories.length === 0) continue;
+    if (!isTechRelevant(raw, keywords)) continue;
     if (!matchesLocation(raw, locations)) continue;
     if (!isRecentEnough(raw, settings.maxAgeDays)) continue;
 

@@ -14,6 +14,9 @@ const keywords: KeywordsConfig = {
       include: ["new grad", "entry level", "graduate program"],
     },
   },
+  techGate: {
+    include: ["software", "developer", "data engineer"],
+  },
 };
 
 const locations: LocationsConfig = {
@@ -221,4 +224,34 @@ test("does not flag bare 'Master' (e.g. Scrum Master) as an advanced-degree requ
 test("flags Master's degree requirement from the title", () => {
   const result = filterJobs([job({ title: "Master's Thesis Intern" })], keywords, locations, settings);
   assert.equal(result[0].advancedDegree, true);
+});
+
+test("drops a non-tech internship from a broad job board (e.g. nursing)", () => {
+  const result = filterJobs(
+    [job({ title: "Registered Nurse I - Nursing Internship", source: "adzuna" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 0);
+});
+
+test("keeps a tech internship from a broad job board", () => {
+  const result = filterJobs(
+    [job({ title: "Software Engineering Intern", source: "adzuna" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+});
+
+test("skips the tech gate for curated ATS sources (already a hand-picked tech company list)", () => {
+  const result = filterJobs(
+    [job({ title: "People Operations Intern", source: "greenhouse" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
 });

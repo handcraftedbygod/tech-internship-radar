@@ -33,5 +33,17 @@
         "graduate scheme"
       ]
     }
+  },
+  "techGate": {
+    "description": "Required for jobs from broad, all-industry job boards (adzuna/arbeitnow/remotive) so e.g. a nursing or retail internship doesn't pass just because its title says 'internship'. Curated ATS company postings (greenhouse/lever/ashby/workday) skip this gate -- config/companies.json is already a hand-picked tech company list.",
+    "include": [
+      "software", "developer", "programming", "programmer", "computer science",
+      "data science", "data scientist", "data engineer", "data engineering", "data analyst", "data analytics",
+      "machine learning", "artificial intelligence", "devops", "site reliability", "sre",
+      "backend", "back-end", "frontend", "front-end", "full stack", "fullstack",
+      "cloud engineer", "cybersecurity", "security engineer", "qa engineer",
+      "infrastructure engineer", "platform engineer", "mobile developer", "ios developer", "android developer",
+      "web developer", "systems engineer", "network engineer", "product engineer", "quant developer"
+    ]
   }
 }

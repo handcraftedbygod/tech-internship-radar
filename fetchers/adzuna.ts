@@ -53,7 +53,14 @@ const adzuna: Fetcher = async () => {
             title: job.title,
             company: job.company?.display_name ?? "Unknown",
             location: job.location?.display_name ?? "",
-            country: country.toUpperCase(),
+            // Not the job's real country -- just the query param we searched
+            // under. Adzuna's response has no per-job country field, and
+            // faking one here let matchesLocation's country fallback wave
+            // through every US result regardless of city (e.g. rural
+            // Louisiana postings alongside NYC/SF). Leave it null like
+            // arbeitnow/remotive do, so location filtering relies on the
+            // real city text in `location` instead.
+            country: null,
             url: job.redirect_url,
             source: SOURCE,
             postedDate: job.created ?? null,

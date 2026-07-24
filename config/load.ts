@@ -16,6 +16,7 @@ export interface KeywordList {
 
 export interface KeywordsConfig {
   lists: Record<string, KeywordList>;
+  techGate?: KeywordList;
 }
 
 export interface LocationHub {
