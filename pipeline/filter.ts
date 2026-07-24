@@ -96,6 +96,12 @@ export function filterJobs(
   const jobs: Job[] = [];
 
   for (const raw of rawJobs) {
+    // A fetcher never throws, but its source API can still hand back a
+    // malformed entry (e.g. a posting with no title) -- one bad job used to
+    // crash the whole run here, since every downstream check assumes a
+    // string title. Skip it instead: it's unusable either way.
+    if (!raw.title) continue;
+
     const categories = matchedCategories(raw, keywords);
     if (categories.length === 0) continue;
     if (!matchesLocation(raw, locations)) continue;

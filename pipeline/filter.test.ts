@@ -48,6 +48,15 @@ test("matches keyword include and location hub", () => {
   assert.deepEqual(result[0].categories, ["internship"]);
 });
 
+test("skips a raw job with no title instead of crashing the whole run", () => {
+  const malformed = job({ title: "Software Engineering Intern" });
+  // @ts-expect-error simulating a malformed API response, not a valid RawJob
+  malformed.title = undefined;
+  const result = filterJobs([malformed, job({ title: "Praktikum" })], keywords, locations, settings);
+  assert.equal(result.length, 1);
+  assert.equal(result[0].title, "Praktikum");
+});
+
 test("matches the new-grad category independently of internship", () => {
   const result = filterJobs(
     [job({ title: "Software Engineer, New Grad Program" })],
