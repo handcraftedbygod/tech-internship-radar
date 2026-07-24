@@ -130,6 +130,7 @@
     {"name":"CircleCI","source":"greenhouse","boardToken":"circleci"},
     {"name":"HashiCorp","source":"greenhouse","boardToken":"hashicorp"},
     {"name":"Revolut","source":"greenhouse","boardToken":"revolut"},
-    {"name":"Checkout.com","source":"greenhouse","boardToken":"checkoutcom"}
+    {"name":"Checkout.com","source":"greenhouse","boardToken":"checkoutcom"},
+    {"name":"Mollie","source":"greenhouse","boardToken":"mollie"}
   ]
 }
