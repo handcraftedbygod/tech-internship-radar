@@ -48,7 +48,7 @@ function buildFeed(jobs: FeedJob[]): string {
 <channel>
   <title>Tech Internship Radar</title>
   <link>${SITE_URL}</link>
-  <description>New internship &amp; working-student listings across European and North American tech hubs</description>
+  <description>New internship &amp; new-grad listings across European and North American tech hubs</description>
 ${items}
 </channel>
 </rss>
@@ -97,7 +97,7 @@ function buildFeedHtml(jobs: FeedJob[]): string {
 <body>
   <p class="back"><a href="${SITE_URL}">&larr; Tech Internship Radar</a></p>
   <h1>RSS Feed</h1>
-  <p class="desc">New internship &amp; working-student listings across European and North American tech hubs.</p>
+  <p class="desc">New internship &amp; new-grad listings across European and North American tech hubs.</p>
   <p class="hint">To subscribe, add <code>${SITE_URL}feed.xml</code> to a feed reader (e.g. Feedly). This page is just a human-readable preview of the same ${jobs.length > 100 ? 100 : jobs.length} most recent listings.</p>
   <ul>${items}
   </ul>
@@ -126,8 +126,12 @@ export function exportJson(): number {
   const db = openDb();
   try {
     const rows = db.prepare("SELECT * FROM jobs").all() as unknown as JobRow[];
-    const internships = rows
-      .filter((row) => (JSON.parse(row.categories) as string[]).includes("internship"))
+    // Any row that matched at least one known keywords.json list is in scope --
+    // not hardcoded to "internship" -- so a new list (e.g. "new-grad") is picked
+    // up automatically with zero changes here, matching the schema's original
+    // reuse-seam design (see types/job.ts).
+    const jobs = rows
+      .filter((row) => (JSON.parse(row.categories) as string[]).length > 0)
       .map((row) => ({
         id: row.id,
         title: row.title,
@@ -140,15 +144,16 @@ export function exportJson(): number {
         season: row.season ?? undefined,
         advancedDegree: row.advanced_degree ? true : undefined,
         tags: JSON.parse(row.tags) as string[],
+        categories: JSON.parse(row.categories) as string[],
         firstSeenAt: row.first_seen_at,
       }));
 
     mkdirSync(path.dirname(OUT_PATH), { recursive: true });
-    writeFileSync(OUT_PATH, JSON.stringify(internships, null, 2));
+    writeFileSync(OUT_PATH, JSON.stringify(jobs, null, 2));
     writeFileSync(META_PATH, JSON.stringify({ generatedAt: new Date().toISOString() }, null, 2));
-    writeFileSync(FEED_PATH, buildFeed(internships));
-    writeFileSync(FEED_HTML_PATH, buildFeedHtml(internships));
-    return internships.length;
+    writeFileSync(FEED_PATH, buildFeed(jobs));
+    writeFileSync(FEED_HTML_PATH, buildFeedHtml(jobs));
+    return jobs.length;
   } finally {
     db.close();
   }
