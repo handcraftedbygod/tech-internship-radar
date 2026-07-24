@@ -10,6 +10,9 @@ const keywords: KeywordsConfig = {
       include: ["intern", "praktikum"],
       exclude: ["senior intern coordinator"],
     },
+    "new-grad": {
+      include: ["new grad", "entry level", "graduate program"],
+    },
   },
 };
 
@@ -43,6 +46,28 @@ test("matches keyword include and location hub", () => {
   );
   assert.equal(result.length, 1);
   assert.deepEqual(result[0].categories, ["internship"]);
+});
+
+test("matches the new-grad category independently of internship", () => {
+  const result = filterJobs(
+    [job({ title: "Software Engineer, New Grad Program" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+  assert.deepEqual(result[0].categories, ["new-grad"]);
+});
+
+test("a title can match both internship and new-grad categories", () => {
+  const result = filterJobs(
+    [job({ title: "Graduate Program Intern" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+  assert.deepEqual(result[0].categories.sort(), ["internship", "new-grad"]);
 });
 
 test("excludes jobs matching an exclude phrase", () => {
