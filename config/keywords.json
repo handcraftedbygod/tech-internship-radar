@@ -18,6 +18,20 @@
       "exclude": [
         "senior intern coordinator"
       ]
+    },
+    "new-grad": {
+      "description": "Entry-level roles for recent graduates, language-agnostic across Europe and North America",
+      "include": [
+        "new grad",
+        "new graduate",
+        "university graduate",
+        "college graduate",
+        "recent graduate",
+        "entry level",
+        "early career",
+        "graduate program",
+        "graduate scheme"
+      ]
     }
   }
 }
