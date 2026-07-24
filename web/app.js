@@ -73,6 +73,7 @@ const PAGE_SIZE = 20;
 let allJobs = [];
 let sortKey = "postedDate";
 let sortDir = -1;
+let activeType = "internship";
 let activeHub = "";
 let activeSeason = "";
 let activeRole = ROLE_PRESETS[0].label;
@@ -113,6 +114,7 @@ function toggleSaved(id) {
   render();
 }
 
+const typeButtons = document.querySelectorAll(".type-btn");
 const tbody = document.querySelector("#jobs-table tbody");
 const searchInput = document.getElementById("search");
 const hubChipsEl = document.getElementById("hub-chips");
@@ -143,6 +145,7 @@ function render() {
   const query = searchInput.value.trim().toLowerCase();
 
   let rows = allJobs.filter((job) => {
+    const matchesType = job.categories.includes(activeType);
     const matchesQuery =
       !query || job.title.toLowerCase().includes(query) || job.company.toLowerCase().includes(query);
     const matchesHub = !activeHub || hubFor(job) === activeHub;
@@ -150,7 +153,13 @@ function render() {
     const matchesRemote = !remoteOnly || isRemote(job);
     const matchesSaved = !savedOnly || savedIds.has(job.id);
     return (
-      matchesQuery && matchesHub && matchesSeason && matchesRemote && matchesSaved && matchesRole(job, activeRole)
+      matchesType &&
+      matchesQuery &&
+      matchesHub &&
+      matchesSeason &&
+      matchesRemote &&
+      matchesSaved &&
+      matchesRole(job, activeRole)
     );
   });
 
@@ -289,6 +298,17 @@ document.querySelectorAll("th[data-key]").forEach((th) => {
       sortDir = 1;
     }
     render();
+  });
+});
+
+typeButtons.forEach((btn) => {
+  btn.addEventListener("click", () => {
+    activeType = btn.dataset.type;
+    typeButtons.forEach((b) => {
+      b.classList.toggle("active", b === btn);
+      b.setAttribute("aria-pressed", String(b === btn));
+    });
+    resetPageAndRender();
   });
 });
 
