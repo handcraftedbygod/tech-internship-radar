@@ -125,6 +125,7 @@
     {"name":"Braze","source":"greenhouse","boardToken":"braze"},
     {"name":"Zapier","source":"greenhouse","boardToken":"zapier"},
     {"name":"Postman","source":"greenhouse","boardToken":"postman"},
-    {"name":"LaunchDarkly","source":"greenhouse","boardToken":"launchdarkly"}
+    {"name":"LaunchDarkly","source":"greenhouse","boardToken":"launchdarkly"},
+    {"name":"Sourcegraph","source":"greenhouse","boardToken":"sourcegraph"}
   ]
 }
