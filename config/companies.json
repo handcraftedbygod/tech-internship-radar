@@ -127,6 +127,7 @@
     {"name":"Postman","source":"greenhouse","boardToken":"postman"},
     {"name":"LaunchDarkly","source":"greenhouse","boardToken":"launchdarkly"},
     {"name":"Sourcegraph","source":"greenhouse","boardToken":"sourcegraph"},
-    {"name":"CircleCI","source":"greenhouse","boardToken":"circleci"}
+    {"name":"CircleCI","source":"greenhouse","boardToken":"circleci"},
+    {"name":"HashiCorp","source":"greenhouse","boardToken":"hashicorp"}
   ]
 }
