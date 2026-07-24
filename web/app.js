@@ -178,8 +178,8 @@ function render() {
       <td>${starButton(job)}</td>
       <td>${escapeHtml(job.location)}</td>
       <td>${escapeHtml(job.company)}${isNotable(job) ? ' <span class="notable-badge" title="Notable company">🏆</span>' : ""}</td>
-      <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a>${job.advancedDegree ? '<span class="degree-badge" title="Advanced degree required">🎓</span>' : ""}${isNewSinceLastVisit(job) ? '<span class="new-badge">NEW</span>' : ""}</td>
-      <td>${job.postedDate ? postedCell(job.postedDate) : "-"}</td>
+      <td><a href="${escapeAttr(job.url)}" target="_blank" rel="noopener">${escapeHtml(job.title)}</a>${job.advancedDegree ? '<span class="degree-badge" title="Advanced degree required">🎓</span>' : ""}</td>
+      <td>${job.postedDate ? postedCell(job.postedDate) : "-"}${isNewSinceLastVisit(job) ? '<span class="new-badge">NEW</span>' : ""}</td>
     </tr>`,
     )
     .join("");

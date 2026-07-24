@@ -346,6 +346,7 @@ td:nth-child(5) {
   border-radius: 999px;
   background: var(--accent);
   color: var(--accent-text);
+  font-family: "Geist", system-ui, sans-serif;
   font-size: 0.65rem;
   font-weight: 700;
   letter-spacing: 0.03em;
