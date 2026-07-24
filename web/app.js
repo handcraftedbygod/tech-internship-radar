@@ -223,13 +223,13 @@ function escapeAttr(str) {
   return escapeHtml(str);
 }
 
-function renderChips(container, labels, activeValue, onSelect) {
+function renderChips(container, labels, activeValue, onSelect, displayLabel = (label) => label) {
   container.innerHTML = "";
   for (const label of labels) {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "chip" + (label === activeValue ? " active" : "");
-    btn.textContent = label;
+    btn.textContent = displayLabel(label);
     btn.addEventListener("click", () => onSelect(label));
     container.appendChild(btn);
   }
@@ -246,6 +246,14 @@ function renderHubChips() {
   });
 }
 
+// A season posted for a year beyond the current one is unusually early --
+// most companies don't open applications that far out, so it's worth calling
+// out rather than showing it identically to a normal in-cycle season.
+function isHotSeason(label) {
+  const match = label.match(/(20\d{2})/);
+  return !!match && Number(match[1]) > new Date().getFullYear();
+}
+
 // Unlike HUBS/ROLE_PRESETS, seasons aren't a fixed list -- they're whatever
 // hiring cycles happen to be present in the data (e.g. once Summer 2027 roles
 // start appearing), so the chip row is built from job.season directly and
@@ -255,11 +263,17 @@ function renderSeasonChips() {
   seasonGroupEl.hidden = seasons.length === 0;
   if (seasons.length === 0) return;
   const labels = ["All seasons", ...seasons];
-  renderChips(seasonChipsEl, labels, activeSeason || "All seasons", (label) => {
-    activeSeason = label === "All seasons" ? "" : label;
-    renderSeasonChips();
-    resetPageAndRender();
-  });
+  renderChips(
+    seasonChipsEl,
+    labels,
+    activeSeason || "All seasons",
+    (label) => {
+      activeSeason = label === "All seasons" ? "" : label;
+      renderSeasonChips();
+      resetPageAndRender();
+    },
+    (label) => (isHotSeason(label) ? `${label} 🔥` : label),
+  );
 }
 
 function renderRoleChips() {
