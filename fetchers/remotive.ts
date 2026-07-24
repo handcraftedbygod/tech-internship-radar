@@ -13,15 +13,22 @@ interface RemotiveJob {
   description?: string;
 }
 
+// Two separate queries, like adzuna.ts -- Remotive's search is a single term,
+// and "intern" alone won't surface new-grad titles. Dedupe happens downstream
+// in the pipeline, so overlap between the two result sets is harmless.
+const SEARCH_TERMS = ["intern", "graduate"];
+
 const remotive: Fetcher = async () => {
   const jobs: RawJob[] = [];
-  let error: string | undefined;
+  const errors: string[] = [];
 
-  try {
-    const res = await fetch("https://remotive.com/api/remote-jobs?search=intern");
-    if (!res.ok) {
-      error = `HTTP ${res.status}`;
-    } else {
+  for (const search of SEARCH_TERMS) {
+    try {
+      const res = await fetch(`https://remotive.com/api/remote-jobs?search=${search}`);
+      if (!res.ok) {
+        errors.push(`${search}: HTTP ${res.status}`);
+        continue;
+      }
       const data = (await res.json()) as { jobs: RemotiveJob[] };
       for (const job of data.jobs ?? []) {
         jobs.push({
@@ -36,13 +43,13 @@ const remotive: Fetcher = async () => {
           descriptionText: job.description,
         });
       }
+    } catch (err) {
+      errors.push(`${search}: ${(err as Error).message}`);
     }
-  } catch (err) {
-    error = (err as Error).message;
   }
 
   const result: FetchResult = { source: SOURCE, jobs };
-  if (error) result.error = error;
+  if (errors.length) result.error = errors.join("; ");
   return result;
 };
 

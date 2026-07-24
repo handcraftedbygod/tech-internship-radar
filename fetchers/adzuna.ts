@@ -14,6 +14,12 @@ interface AdzunaJob {
   description?: string;
 }
 
+// One query per search term per country -- Adzuna's "what" param is a single
+// term, not a keyword list, so internship and new-grad postings need separate
+// queries. Overlap between the two (a title matching both) is harmless: the
+// pipeline's dedupe step collapses by job id downstream.
+const SEARCH_TERMS = ["internship", "graduate"];
+
 const adzuna: Fetcher = async () => {
   const appId = process.env.ADZUNA_APP_ID;
   const appKey = process.env.ADZUNA_APP_KEY;
@@ -27,34 +33,36 @@ const adzuna: Fetcher = async () => {
   const errors: string[] = [];
 
   for (const country of countries) {
-    try {
-      const url = new URL(`https://api.adzuna.com/v1/api/jobs/${country}/search/1`);
-      url.searchParams.set("app_id", appId);
-      url.searchParams.set("app_key", appKey);
-      url.searchParams.set("what", "internship");
-      url.searchParams.set("results_per_page", "50");
+    for (const what of SEARCH_TERMS) {
+      try {
+        const url = new URL(`https://api.adzuna.com/v1/api/jobs/${country}/search/1`);
+        url.searchParams.set("app_id", appId);
+        url.searchParams.set("app_key", appKey);
+        url.searchParams.set("what", what);
+        url.searchParams.set("results_per_page", "50");
 
-      const res = await fetch(url);
-      if (!res.ok) {
-        errors.push(`${country}: HTTP ${res.status}`);
-        continue;
+        const res = await fetch(url);
+        if (!res.ok) {
+          errors.push(`${country}/${what}: HTTP ${res.status}`);
+          continue;
+        }
+        const data = (await res.json()) as { results: AdzunaJob[] };
+        for (const job of data.results ?? []) {
+          jobs.push({
+            externalId: job.id,
+            title: job.title,
+            company: job.company?.display_name ?? "Unknown",
+            location: job.location?.display_name ?? "",
+            country: country.toUpperCase(),
+            url: job.redirect_url,
+            source: SOURCE,
+            postedDate: job.created ?? null,
+            descriptionText: job.description,
+          });
+        }
+      } catch (err) {
+        errors.push(`${country}/${what}: ${(err as Error).message}`);
       }
-      const data = (await res.json()) as { results: AdzunaJob[] };
-      for (const job of data.results ?? []) {
-        jobs.push({
-          externalId: job.id,
-          title: job.title,
-          company: job.company?.display_name ?? "Unknown",
-          location: job.location?.display_name ?? "",
-          country: country.toUpperCase(),
-          url: job.redirect_url,
-          source: SOURCE,
-          postedDate: job.created ?? null,
-          descriptionText: job.description,
-        });
-      }
-    } catch (err) {
-      errors.push(`${country}: ${(err as Error).message}`);
     }
   }
 
