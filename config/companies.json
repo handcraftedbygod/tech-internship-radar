@@ -121,6 +121,7 @@
     {"name":"Intercom","source":"greenhouse","boardToken":"intercom"},
     {"name":"Zendesk","source":"greenhouse","boardToken":"zendesk"},
     {"name":"Amplitude","source":"greenhouse","boardToken":"amplitude"},
-    {"name":"Mixpanel","source":"greenhouse","boardToken":"mixpanel"}
+    {"name":"Mixpanel","source":"greenhouse","boardToken":"mixpanel"},
+    {"name":"Braze","source":"greenhouse","boardToken":"braze"}
   ]
 }
