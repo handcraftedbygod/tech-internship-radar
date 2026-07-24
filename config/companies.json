@@ -120,6 +120,7 @@
     {"name":"Miro","source":"greenhouse","boardToken":"miro"},
     {"name":"Intercom","source":"greenhouse","boardToken":"intercom"},
     {"name":"Zendesk","source":"greenhouse","boardToken":"zendesk"},
-    {"name":"Amplitude","source":"greenhouse","boardToken":"amplitude"}
+    {"name":"Amplitude","source":"greenhouse","boardToken":"amplitude"},
+    {"name":"Mixpanel","source":"greenhouse","boardToken":"mixpanel"}
   ]
 }
