@@ -184,6 +184,22 @@
     {"name":"Kraken","source":"lever","company":"kraken"},
     {"name":"ClickUp","source":"ashby","companyName":"clickup"},
     {"name":"Wiz","source":"ashby","companyName":"wiz"},
-    {"name":"Snyk","source":"ashby","companyName":"snyk"}
+    {"name":"Snyk","source":"ashby","companyName":"snyk"},
+
+    {"name":"Fivetran","source":"greenhouse","boardToken":"fivetran"},
+    {"name":"AssemblyAI","source":"greenhouse","boardToken":"assemblyai"},
+    {"name":"Mistral AI","source":"lever","company":"mistral"},
+    {"name":"Pinecone","source":"ashby","companyName":"pinecone"},
+    {"name":"Prefect","source":"ashby","companyName":"prefect"},
+    {"name":"Sierra","source":"ashby","companyName":"sierra"},
+    {"name":"Hex","source":"ashby","companyName":"hex"},
+    {"name":"Modal","source":"ashby","companyName":"modal"},
+    {"name":"Baseten","source":"ashby","companyName":"baseten"},
+    {"name":"Deepgram","source":"ashby","companyName":"deepgram"},
+    {"name":"Weaviate","source":"ashby","companyName":"weaviate"},
+    {"name":"Unstructured","source":"ashby","companyName":"unstructured"},
+    {"name":"Astronomer","source":"ashby","companyName":"astronomer"},
+    {"name":"Harvey","source":"ashby","companyName":"harvey"},
+    {"name":"Abridge","source":"ashby","companyName":"abridge"}
   ]
 }
