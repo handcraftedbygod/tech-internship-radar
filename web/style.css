@@ -3,7 +3,7 @@
   --surface: #12151c;
   --text: #e6e8eb;
   --text-muted: #8a90a0;
-  --accent: #7c8aff;
+  --accent: #c7cad3;
   --accent-text: #0b0d12;
   --control-border: #565f74;
   --divider: #1c2029;
@@ -14,7 +14,7 @@
   --surface: #ececef;
   --text: #181a1f;
   --text-muted: #666d7c;
-  --accent: #4753c4;
+  --accent: #4b5163;
   --accent-text: #f7f7f8;
   --control-border: #838999;
   --divider: #e4e4e7;
@@ -25,12 +25,12 @@
 }
 
 body {
-  font-family: "Geist", system-ui, sans-serif;
+  font-family: "General Sans", system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
   max-width: 1040px;
   margin: 0 auto;
-  padding: 2.5rem 1.25rem 4rem;
+  padding: 4rem 1.25rem 5rem;
 }
 
 a {
@@ -51,18 +51,51 @@ a:hover {
 }
 
 header {
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   gap: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--divider);
+  background-image: radial-gradient(640px circle at 0% 0%, rgba(138, 144, 160, 0.09), transparent 60%);
+}
+
+.brand-mark {
+  display: inline-block;
+  margin-bottom: 1rem;
+  padding: 0.25rem 0.55rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: #0b0d12;
+  color: #f2f2f4;
+  font-family: "Cabinet Grotesk", "General Sans", system-ui, sans-serif;
+  font-weight: 800;
+  font-size: 0.8rem;
+  letter-spacing: -0.02em;
+}
+
+.radar-deco {
+  position: absolute;
+  top: -30px;
+  right: -20px;
+  width: 220px;
+  height: 220px;
+  color: var(--text-muted);
+  opacity: 0.16;
+  pointer-events: none;
+  z-index: -1;
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-family: "Fraunces", "General Sans", system-ui, serif;
+  font-optical-sizing: auto;
+  font-size: 2.75rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
-  margin: 0 0 0.4rem;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 0 0 0.65rem;
 }
 
 header p {
@@ -72,7 +105,7 @@ header p {
 }
 
 #last-updated {
-  font-family: "Geist Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
   font-size: 0.8rem;
   margin-top: 0.35rem;
 }
@@ -175,7 +208,7 @@ header p {
   display: flex;
   flex-direction: column;
   gap: 0.85rem;
-  padding: 1rem;
+  padding: 1.25rem;
   border: 1px solid var(--divider);
   border-radius: 12px;
 }
@@ -254,7 +287,7 @@ header p {
 
 #count {
   color: var(--text-muted);
-  font-family: "Geist Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
   font-variant-numeric: tabular-nums;
   font-size: 0.85rem;
 }
@@ -293,7 +326,7 @@ td:nth-child(5) {
 th,
 td {
   text-align: left;
-  padding: 0.65rem 0.75rem;
+  padding: 0.85rem 0.75rem;
   border-bottom: 1px solid var(--divider);
   overflow-wrap: break-word;
 }
@@ -319,7 +352,7 @@ th .caret {
 }
 
 td:nth-child(5) {
-  font-family: "Geist Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
   font-variant-numeric: tabular-nums;
   color: var(--text-muted);
   font-size: 0.9rem;
@@ -346,7 +379,7 @@ td:nth-child(5) {
   border-radius: 999px;
   background: var(--accent);
   color: var(--accent-text);
-  font-family: "Geist", system-ui, sans-serif;
+  font-family: "General Sans", system-ui, sans-serif;
   font-size: 0.65rem;
   font-weight: 700;
   letter-spacing: 0.03em;
