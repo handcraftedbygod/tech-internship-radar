@@ -3,7 +3,7 @@ import path from "node:path";
 import { fetchAll } from "./fetch.ts";
 import { filterJobs } from "./filter.ts";
 import { dedupe } from "./dedupe.ts";
-import { storeJobs } from "./store.ts";
+import { storeJobs, pruneStale } from "./store.ts";
 import { exportJson } from "./export.ts";
 import { loadKeywords, loadLocations, loadSettings } from "../config/load.ts";
 
@@ -16,6 +16,7 @@ async function main() {
   const filtered = filterJobs(rawJobs, keywords, locations, settings);
   const deduped = dedupe(filtered);
   storeJobs(deduped);
+  const prunedCount = pruneStale(settings.maxAgeDays);
   const exportedCount = exportJson();
 
   const summaryLines = [
@@ -25,7 +26,7 @@ async function main() {
     "| --- | --- | --- |",
     ...results.map((r) => `| ${r.source} | ${r.jobs.length} | ${r.error ?? "-"} |`),
     "",
-    `Matched internships after filter+dedupe: **${deduped.length}** (exported: ${exportedCount})`,
+    `Matched internships after filter+dedupe: **${deduped.length}** (pruned stale: ${prunedCount}, exported: ${exportedCount})`,
   ];
   const summary = summaryLines.join("\n");
 

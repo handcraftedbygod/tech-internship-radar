@@ -78,9 +78,9 @@ function migrate(db: DatabaseSync): void {
   }
 }
 
-export function storeJobs(jobs: Job[]): void {
-  mkdirSync(path.dirname(DB_PATH), { recursive: true });
-  const db = new DatabaseSync(DB_PATH);
+export function storeJobs(jobs: Job[], dbPath: string = DB_PATH): void {
+  mkdirSync(path.dirname(dbPath), { recursive: true });
+  const db = new DatabaseSync(dbPath);
   try {
     db.exec(SCHEMA);
     migrate(db);
@@ -115,8 +115,28 @@ export function storeJobs(jobs: Job[]): void {
   }
 }
 
-export function openDb(): DatabaseSync {
-  const db = new DatabaseSync(DB_PATH);
+// storeJobs only ever upserts -- a job that stops being returned by its
+// fetcher (taken down, or now rejected by a tightened filter.ts/keywords.json
+// rule, e.g. the tech-relevance gate) keeps its last row forever, since
+// nothing ever deletes it. exportJson() dumps the whole table, so that dead
+// row would show up in jobs.json indefinitely. Prune anything not re-seen in
+// the last maxAgeDays -- a still-live posting gets last_seen_at refreshed
+// every run, so only truly stale/rejected rows are ever older than that.
+export function pruneStale(maxAgeDays: number, dbPath: string = DB_PATH): number {
+  const db = new DatabaseSync(dbPath);
+  try {
+    db.exec(SCHEMA);
+    migrate(db);
+    const cutoff = new Date(Date.now() - maxAgeDays * 24 * 60 * 60 * 1000).toISOString();
+    const result = db.prepare("DELETE FROM jobs WHERE last_seen_at < ?").run(cutoff);
+    return Number(result.changes);
+  } finally {
+    db.close();
+  }
+}
+
+export function openDb(dbPath: string = DB_PATH): DatabaseSync {
+  const db = new DatabaseSync(dbPath);
   db.exec(SCHEMA);
   migrate(db);
   return db;
