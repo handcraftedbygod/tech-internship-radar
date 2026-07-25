@@ -170,6 +170,20 @@
     {"name":"Chronosphere","source":"ashby","companyName":"chronosphere"},
     {"name":"Temporal","source":"ashby","companyName":"temporaltechnologies"},
     {"name":"Benevity","source":"ashby","companyName":"benevity"},
-    {"name":"Together AI","source":"ashby","companyName":"together-ai"}
+    {"name":"Together AI","source":"ashby","companyName":"together-ai"},
+
+    {"name":"Peloton","source":"greenhouse","boardToken":"peloton"},
+    {"name":"Nextdoor","source":"greenhouse","boardToken":"nextdoor"},
+    {"name":"Cockroach Labs","source":"greenhouse","boardToken":"cockroachlabs"},
+    {"name":"Netlify","source":"greenhouse","boardToken":"netlify"},
+    {"name":"Canonical","source":"greenhouse","boardToken":"canonical"},
+    {"name":"Grafana Labs","source":"greenhouse","boardToken":"grafanalabs"},
+    {"name":"New Relic","source":"greenhouse","boardToken":"newrelic"},
+    {"name":"Smartsheet","source":"greenhouse","boardToken":"smartsheet"},
+    {"name":"Wealthfront","source":"lever","company":"wealthfront"},
+    {"name":"Kraken","source":"lever","company":"kraken"},
+    {"name":"ClickUp","source":"ashby","companyName":"clickup"},
+    {"name":"Wiz","source":"ashby","companyName":"wiz"},
+    {"name":"Snyk","source":"ashby","companyName":"snyk"}
   ]
 }
