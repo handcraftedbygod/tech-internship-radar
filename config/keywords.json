@@ -32,6 +32,15 @@
         "graduate program",
         "graduate scheme"
       ]
+    },
+    "junior": {
+      "description": "Junior-level roles -- the standard European-market title for entry-level, much more common there than the US-centric 'entry level'/'new grad' phrasing new-grad already covers.",
+      "include": [
+        "junior"
+      ],
+      "exclude": [
+        "junior partner"
+      ]
     }
   },
   "techGate": {

@@ -13,6 +13,10 @@ const keywords: KeywordsConfig = {
     "new-grad": {
       include: ["new grad", "entry level", "graduate program"],
     },
+    junior: {
+      include: ["junior"],
+      exclude: ["junior partner"],
+    },
   },
   techGate: {
     include: ["software", "developer", "data engineer"],
@@ -254,4 +258,35 @@ test("skips the tech gate for curated ATS sources (already a hand-picked tech co
     settings,
   );
   assert.equal(result.length, 1);
+});
+
+test("matches the junior category on a tech title", () => {
+  const result = filterJobs(
+    [job({ title: "Junior Software Developer", source: "greenhouse" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+  assert.deepEqual(result[0].categories, ["junior"]);
+});
+
+test("excludes 'Junior Partner' from the junior category (a senior title, not entry-level)", () => {
+  const result = filterJobs(
+    [job({ title: "Junior Partner", source: "greenhouse" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 0);
+});
+
+test("junior postings from broad job boards still need the tech gate", () => {
+  const result = filterJobs(
+    [job({ title: "Junior Account Manager", source: "adzuna" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 0);
 });

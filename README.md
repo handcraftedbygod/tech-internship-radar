@@ -3,8 +3,8 @@
 [![CI](https://github.com/handcraftedbygod/tech-internship-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/handcraftedbygod/tech-internship-radar/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Daily-refreshing tracker of internship & new-grad listings across European and North American
-tech hubs.
+Daily-refreshing tracker of internship, new-grad & junior listings across European and North
+American tech hubs.
 
 ### 🔗 [**View the live site → handcraftedbygod.github.io/tech-internship-radar**](https://handcraftedbygod.github.io/tech-internship-radar/)
 
@@ -14,8 +14,8 @@ No sign-up, nothing to install.
 
 ## Features
 
-- **Internships and New Grad in one place** — a toggle switches the whole view, no separate repo
-  or site to track.
+- **Internships, New Grad, and Junior in one place** — a toggle switches the whole view, no
+  separate repo or site to track.
 - Freshness badges, hiring-cycle tags (e.g. "Summer 2027 🔥" for cycles posted unusually early),
   notable-company (🏆) and advanced-degree (🎓) badges — all auto-detected straight from job
   titles, no manual curation.

@@ -48,7 +48,7 @@ function buildFeed(jobs: FeedJob[]): string {
 <channel>
   <title>Tech Internship Radar</title>
   <link>${SITE_URL}</link>
-  <description>New internship &amp; new-grad listings across European and North American tech hubs</description>
+  <description>New internship, new-grad &amp; junior listings across European and North American tech hubs</description>
 ${items}
 </channel>
 </rss>
@@ -97,7 +97,7 @@ function buildFeedHtml(jobs: FeedJob[]): string {
 <body>
   <p class="back"><a href="${SITE_URL}">&larr; Tech Internship Radar</a></p>
   <h1>RSS Feed</h1>
-  <p class="desc">New internship &amp; new-grad listings across European and North American tech hubs.</p>
+  <p class="desc">New internship, new-grad &amp; junior listings across European and North American tech hubs.</p>
   <p class="hint">To subscribe, add <code>${SITE_URL}feed.xml</code> to a feed reader (e.g. Feedly). This page is just a human-readable preview of the same ${jobs.length > 100 ? 100 : jobs.length} most recent listings.</p>
   <ul>${items}
   </ul>
