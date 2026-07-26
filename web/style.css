@@ -24,6 +24,18 @@
   box-sizing: border-box;
 }
 
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  pointer-events: none;
+  opacity: 0.045;
+  mix-blend-mode: overlay;
+  background-repeat: repeat;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
 body {
   font-family: "General Sans", system-ui, sans-serif;
   background: var(--bg);
@@ -62,6 +74,21 @@ header {
   background-image: radial-gradient(640px circle at 0% 0%, rgba(138, 144, 160, 0.09), transparent 60%);
 }
 
+header > div {
+  animation: fade-up 600ms ease both;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 .brand-mark {
   display: inline-block;
   margin-bottom: 1rem;
@@ -76,14 +103,11 @@ header {
   letter-spacing: -0.02em;
 }
 
-.radar-deco {
+#hero-canvas {
   position: absolute;
-  top: -30px;
-  right: -20px;
-  width: 220px;
-  height: 220px;
-  color: var(--text-muted);
-  opacity: 0.16;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   pointer-events: none;
   z-index: -1;
 }
@@ -96,6 +120,11 @@ h1 {
   letter-spacing: -0.01em;
   line-height: 1.15;
   margin: 0 0 0.65rem;
+  text-shadow: 0 0 30px rgba(230, 232, 235, 0.18);
+}
+
+:root[data-theme="light"] h1 {
+  text-shadow: none;
 }
 
 header p {
@@ -130,6 +159,12 @@ header p {
   color: var(--text-muted);
   cursor: pointer;
   text-decoration: none;
+  transition: color 0.18s ease, border-color 0.18s ease, transform 0.15s ease;
+}
+
+#rss-link:active,
+#theme-toggle:active {
+  transform: scale(0.94);
 }
 
 #rss-link {
@@ -186,10 +221,15 @@ header p {
   padding: 0.5rem 1.1rem;
   border-radius: 7px;
   cursor: pointer;
+  transition: color 0.18s ease, background-color 0.18s ease, transform 0.15s ease;
 }
 
 .type-btn:hover {
   color: var(--text);
+}
+
+.type-btn:active {
+  transform: scale(0.96);
 }
 
 .type-btn.active {
@@ -232,6 +272,7 @@ header p {
   border: 1px solid var(--control-border);
   background: var(--surface);
   max-width: 22rem;
+  transition: border-color 0.18s ease;
 }
 
 .search-field svg {
@@ -272,10 +313,16 @@ header p {
   font-size: 0.85rem;
   cursor: pointer;
   white-space: nowrap;
+  transition: color 0.18s ease, background-color 0.18s ease, border-color 0.18s ease, transform 0.15s ease;
 }
 
 .chip:hover {
   color: var(--text);
+  transform: scale(1.04);
+}
+
+.chip:active {
+  transform: scale(0.96);
 }
 
 .chip.active {
@@ -422,6 +469,46 @@ td:nth-child(5) {
 
 tbody tr {
   cursor: pointer;
+  animation: row-in 320ms ease both;
+}
+
+tbody tr:nth-child(n + 2) {
+  animation-delay: 30ms;
+}
+
+tbody tr:nth-child(n + 4) {
+  animation-delay: 60ms;
+}
+
+tbody tr:nth-child(n + 6) {
+  animation-delay: 90ms;
+}
+
+tbody tr:nth-child(n + 8) {
+  animation-delay: 120ms;
+}
+
+tbody tr:nth-child(n + 10) {
+  animation-delay: 150ms;
+}
+
+tbody tr:nth-child(n + 12) {
+  animation-delay: 180ms;
+}
+
+@keyframes row-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+td {
+  transition: background-color 0.15s ease;
 }
 
 tr:hover td {
@@ -443,6 +530,11 @@ tbody tr:focus-visible td {
   font: inherit;
   font-size: 0.9rem;
   cursor: pointer;
+  transition: border-color 0.18s ease, color 0.18s ease, transform 0.15s ease;
+}
+
+#load-more:active {
+  transform: scale(0.97);
 }
 
 #load-more:hover {
@@ -454,4 +546,15 @@ tbody tr:focus-visible td {
   color: var(--text-muted);
   text-align: center;
   padding: 2rem 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
 }
