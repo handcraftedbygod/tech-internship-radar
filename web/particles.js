@@ -14,7 +14,7 @@
   let color = "#8a90a0";
 
   function readColor() {
-    color = getComputedStyle(document.documentElement).getPropertyValue("--text-muted").trim() || color;
+    color = getComputedStyle(document.documentElement).getPropertyValue("--particle").trim() || color;
   }
   readColor();
   new MutationObserver(readColor).observe(document.documentElement, {
@@ -23,14 +23,14 @@
   });
 
   function makeParticles() {
-    const count = Math.max(40, Math.min(140, Math.round((width * height) / 9000)));
+    const count = Math.max(70, Math.min(220, Math.round((width * height) / 5500)));
     particles = Array.from({ length: count }, () => ({
       x: Math.random() * width,
       y: Math.random() * height,
-      vx: (Math.random() - 0.5) * 0.12,
-      vy: (Math.random() - 0.5) * 0.12,
-      r: Math.random() * 1.1 + 0.4,
-      baseAlpha: Math.random() * 0.35 + 0.12,
+      vx: (Math.random() - 0.5) * 0.14,
+      vy: (Math.random() - 0.5) * 0.14,
+      r: Math.random() * 1.5 + 0.6,
+      baseAlpha: Math.random() * 0.45 + 0.25,
       twinkle: Math.random() * Math.PI * 2,
     }));
   }
@@ -61,17 +61,23 @@
     if (r <= 0) return;
     ctx.save();
     ctx.strokeStyle = color;
-    ctx.lineWidth = 1;
+    ctx.lineWidth = 1.6;
 
     [1, 0.64, 0.3].forEach((f, i) => {
-      ctx.globalAlpha = 0.14 - i * 0.02;
+      ctx.globalAlpha = 0.38 - i * 0.05;
       ctx.beginPath();
       ctx.arc(cx, cy, r * f, 0, Math.PI * 2);
       ctx.stroke();
     });
 
+    ctx.beginPath();
+    ctx.arc(cx, cy, 2.4, 0, Math.PI * 2);
+    ctx.fillStyle = color;
+    ctx.globalAlpha = 0.55;
+    ctx.fill();
+
     const angle = reduceMotion.matches ? -Math.PI / 4 : ring.angle;
-    ctx.globalAlpha = 0.22;
+    ctx.globalAlpha = 0.4;
     ctx.beginPath();
     ctx.moveTo(cx, cy);
     ctx.lineTo(cx + Math.cos(angle) * r, cy + Math.sin(angle) * r);
@@ -79,7 +85,7 @@
 
     if (!reduceMotion.matches) {
       const t = ring.pulse % 1;
-      ctx.globalAlpha = Math.max(0, 0.2 * (1 - t));
+      ctx.globalAlpha = Math.max(0, 0.32 * (1 - t));
       ctx.beginPath();
       ctx.arc(cx, cy, t * r, 0, Math.PI * 2);
       ctx.stroke();

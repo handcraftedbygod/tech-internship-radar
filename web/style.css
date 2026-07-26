@@ -1,27 +1,33 @@
 :root {
-  --bg: #0b0d12;
-  --surface: #12151c;
-  --text: #e6e8eb;
-  --text-muted: #8a90a0;
-  --accent: #c7cad3;
-  --accent-text: #0b0d12;
-  --control-border: #565f74;
-  --divider: #1c2029;
+  --bg: #050505;
+  --surface: #101010;
+  --text: #f5f5f5;
+  --text-muted: #9a9a9a;
+  --particle: #d6d6d6;
+  --accent: #f5f5f5;
+  --accent-text: #050505;
+  --control-border: #666666;
+  --divider: #1c1c1c;
 }
 
 :root[data-theme="light"] {
-  --bg: #f7f7f8;
-  --surface: #ececef;
-  --text: #181a1f;
-  --text-muted: #666d7c;
-  --accent: #4b5163;
-  --accent-text: #f7f7f8;
-  --control-border: #838999;
-  --divider: #e4e4e7;
+  --bg: #fafafa;
+  --surface: #efefef;
+  --text: #0a0a0a;
+  --text-muted: #595959;
+  --particle: #3a3a3a;
+  --accent: #0a0a0a;
+  --accent-text: #fafafa;
+  --control-border: #949494;
+  --divider: #e2e2e2;
 }
 
 * {
   box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
 }
 
 body::before {
@@ -42,10 +48,11 @@ body {
   color: var(--text);
   max-width: 1040px;
   margin: 0 auto;
-  padding: 4rem 1.25rem 5rem;
+  padding: 0 1.25rem 5rem;
 }
 
-a {
+a,
+a:visited {
   color: inherit;
   text-decoration: underline;
   text-decoration-color: var(--control-border);
@@ -64,24 +71,49 @@ a:hover {
 
 header {
   position: relative;
+  z-index: 0;
+  left: 50%;
+  margin-left: -50vw;
+  width: 100vw;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   gap: 1rem;
-  margin-bottom: 3rem;
-  padding-bottom: 1.75rem;
+  margin-bottom: 3.5rem;
+  padding: 5rem max(1.25rem, calc((100vw - 1040px) / 2 + 1.25rem)) 3rem;
   border-bottom: 1px solid var(--divider);
-  background-image: radial-gradient(640px circle at 0% 0%, rgba(138, 144, 160, 0.09), transparent 60%);
+  background-color: var(--bg);
+  background-image: radial-gradient(760px circle at 12% 0%, rgba(255, 255, 255, 0.1), transparent 62%);
 }
 
-header > div {
-  animation: fade-up 600ms ease both;
+:root[data-theme="light"] header {
+  background-image: radial-gradient(760px circle at 12% 0%, rgba(0, 0, 0, 0.06), transparent 62%);
+}
+
+header > div:first-of-type > * {
+  animation: fade-up 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.brand-mark {
+  animation-delay: 0ms;
+}
+
+h1 {
+  animation-delay: 90ms;
+}
+
+header p {
+  animation-delay: 180ms;
+}
+
+#last-updated {
+  animation-delay: 240ms;
 }
 
 @keyframes fade-up {
   from {
     opacity: 0;
-    transform: translateY(8px);
+    transform: translateY(14px);
   }
   to {
     opacity: 1;
@@ -91,12 +123,12 @@ header > div {
 
 .brand-mark {
   display: inline-block;
-  margin-bottom: 1rem;
-  padding: 0.25rem 0.55rem;
+  margin-bottom: 1.5rem;
+  padding: 0.3rem 0.65rem;
   border-radius: 6px;
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  background: #0b0d12;
-  color: #f2f2f4;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: #050505;
+  color: #f5f5f5;
   font-family: "Cabinet Grotesk", "General Sans", system-ui, sans-serif;
   font-weight: 800;
   font-size: 0.8rem;
@@ -109,18 +141,25 @@ header > div {
   width: 100%;
   height: 100%;
   pointer-events: none;
-  z-index: -1;
+  z-index: 0;
+}
+
+header > div {
+  position: relative;
+  z-index: 1;
 }
 
 h1 {
   font-family: "Fraunces", "General Sans", system-ui, serif;
   font-optical-sizing: auto;
-  font-size: 2.75rem;
+  font-size: clamp(2.75rem, 3vw + 2.25rem, 5.25rem);
   font-weight: 700;
-  letter-spacing: -0.01em;
-  line-height: 1.15;
-  margin: 0 0 0.65rem;
-  text-shadow: 0 0 30px rgba(230, 232, 235, 0.18);
+  letter-spacing: -0.015em;
+  line-height: 1.05;
+  margin: 0 0 1rem;
+  max-width: 16ch;
+  text-wrap: balance;
+  text-shadow: 0 0 46px rgba(245, 245, 245, 0.22);
 }
 
 :root[data-theme="light"] h1 {
@@ -130,13 +169,15 @@ h1 {
 header p {
   color: var(--text-muted);
   margin: 0;
-  font-size: 0.95rem;
+  max-width: 40ch;
+  font-size: 1.05rem;
+  text-wrap: pretty;
 }
 
 #last-updated {
   font-family: "IBM Plex Mono", monospace;
   font-size: 0.8rem;
-  margin-top: 0.35rem;
+  margin-top: 0.6rem;
 }
 
 .header-actions {
@@ -204,8 +245,8 @@ header p {
 .type-toggle {
   display: inline-flex;
   gap: 0.25rem;
-  padding: 0.25rem;
-  margin-bottom: 1.5rem;
+  padding: 0.3rem;
+  margin-bottom: 2rem;
   border-radius: 10px;
   background: var(--surface);
   border: 1px solid var(--divider);
@@ -240,17 +281,17 @@ header p {
 .controls {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
-  margin-bottom: 1.75rem;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
 }
 
 .filters {
   display: flex;
   flex-direction: column;
-  gap: 0.85rem;
-  padding: 1.25rem;
+  gap: 1.1rem;
+  padding: 1.5rem;
   border: 1px solid var(--divider);
-  border-radius: 12px;
+  border-radius: 14px;
 }
 
 .filter-label {
