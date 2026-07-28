@@ -18,115 +18,164 @@
   <link rel="icon" type="image/png" href="favicon.png" />
   <link rel="apple-touch-icon" href="favicon.png" />
 
-  <script>
-    (function () {
-      document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
-    })();
-  </script>
-
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
-    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
-    rel="stylesheet"
-  />
-  <link rel="preconnect" href="https://api.fontshare.com" />
-  <link
-    href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,700&f[]=general-sans@400,500,600,700&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
     rel="stylesheet"
   />
 
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header>
-    <canvas id="hero-canvas" aria-hidden="true"></canvas>
-    <div>
-      <span class="brand-mark" aria-hidden="true">intern</span>
-      <h1>Tech Internship Radar</h1>
-      <p>Internship, new-grad &amp; junior listings across European and North American tech hubs, refreshed daily.</p>
-      <p id="last-updated"></p>
-    </div>
-    <div class="header-actions">
-      <a id="rss-link" href="feed.html" aria-label="RSS feed" title="RSS feed">RSS</a>
-      <button id="theme-toggle" type="button" aria-label="Toggle dark/light theme" title="Toggle theme">
-        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="12" cy="12" r="4" />
-          <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" />
-        </svg>
-        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z" />
-        </svg>
-      </button>
-    </div>
-  </header>
+  <div class="dot-field" aria-hidden="true"></div>
 
-  <div id="type-toggle" class="type-toggle" role="group" aria-label="Internships, New Grad, or Junior">
-    <button type="button" class="type-btn active" data-type="internship" aria-pressed="true">Internships</button>
-    <button type="button" class="type-btn" data-type="new-grad" aria-pressed="false">New Grad</button>
-    <button type="button" class="type-btn" data-type="junior" aria-pressed="false">Junior</button>
-  </div>
-
-  <div class="controls">
-    <div class="search-field">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-        <circle cx="11" cy="11" r="7" />
-        <path d="m20 20-3.2-3.2" />
-      </svg>
-      <input id="search" type="search" placeholder="Search title or company…" />
+  <div class="page">
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span>TECH INTERNSHIP RADAR</span>
+      </div>
+      <nav class="topnav">
+        <a href="#listings">LISTINGS</a>
+        <a href="#signal">SIGNAL</a>
+        <a href="feed.html" id="rss-link">RSS</a>
+        <a href="https://github.com/handcraftedbygod/tech-internship-radar" id="repo-link" target="_blank" rel="noreferrer">GITHUB</a>
+      </nav>
     </div>
-    <div class="filters">
-      <div class="filter-group">
-        <span class="filter-label">Role</span>
-        <div id="role-chips" class="chip-row" role="group" aria-label="Filter by role"></div>
+
+    <div class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow-row">
+          <span>EUROPE / NORTH AMERICA</span>
+          <span class="dotted-rule dotted-rule--short" aria-hidden="true"></span>
+          <span>REFRESHED DAILY</span>
+        </div>
+        <h1 class="hero-title">
+          Internship<br /><em>Radar</em><sup class="hero-sup">EU&middot;NA</sup>
+        </h1>
+        <p class="hero-deck">
+          Internship, new-grad and junior listings across European and North American tech hubs. Scraped nightly, deduplicated, sorted by freshness. No sign-up, nothing to install.
+        </p>
+        <div class="stat-strip">
+          <div class="stat-cell">
+            <div class="stat-label">LISTINGS</div>
+            <div class="stat-value" id="stat-listings">00</div>
+          </div>
+          <div class="stat-cell">
+            <div class="stat-label">HUBS</div>
+            <div class="stat-value" id="stat-hubs">00</div>
+          </div>
+          <div class="stat-cell">
+            <div class="stat-label">NEW TODAY</div>
+            <div class="stat-value" id="stat-today">00</div>
+          </div>
+          <div class="stat-cell">
+            <div class="stat-label">LAST SWEEP</div>
+            <div class="stat-value" id="stat-sweep">00:00</div>
+          </div>
+        </div>
       </div>
-      <div class="filter-group">
-        <span class="filter-label">Hub</span>
-        <div id="hub-chips" class="chip-row" role="group" aria-label="Filter by hub"></div>
-      </div>
-      <div class="filter-group" id="season-group" hidden>
-        <span class="filter-label">Season</span>
-        <div id="season-chips" class="chip-row" role="group" aria-label="Filter by hiring season"></div>
-      </div>
-      <div class="filter-group">
-        <span class="filter-label">More</span>
-        <div class="chip-row">
-          <button id="remote-toggle" type="button" class="chip" aria-pressed="false">Remote only</button>
-          <button id="saved-toggle" type="button" class="chip" aria-pressed="false">Saved only</button>
+
+      <div class="hero-globe">
+        <canvas id="globe-canvas"></canvas>
+        <div class="globe-labels" aria-hidden="true">
+          <span class="globe-label globe-label--tl">SWEEP 01</span>
+          <span class="globe-label globe-label--tr" id="globe-sigma">&Sigma; 00</span>
+          <span class="globe-label globe-label--bl">52.52 N / 13.40 E</span>
+          <span class="globe-label globe-label--br">DOTWORK</span>
         </div>
       </div>
     </div>
-
-    <span id="count"></span>
   </div>
 
-  <div id="legend">
-    <strong>Legend</strong>
-    <ul>
-      <li>🏆 notable company</li>
-      <li>🎓 advanced degree required (PhD / Master's / MBA)</li>
-      <li>🔥 hiring cycle beyond the current year — posted unusually early</li>
-    </ul>
+  <div class="full-dotted-rule" aria-hidden="true"></div>
+
+  <div id="listings" class="toolbar">
+    <div class="page toolbar-inner">
+      <div class="toolbar-row toolbar-row--top">
+        <div class="track-tabs" id="track-tabs" role="group" aria-label="Internships, New Grad, or Junior"></div>
+        <div class="search-field">
+          <span class="search-dot" aria-hidden="true"></span>
+          <input id="search" type="search" placeholder="Search role, company, hub" />
+          <span class="search-slash">/</span>
+        </div>
+      </div>
+
+      <div class="toolbar-row toolbar-row--chips">
+        <span class="chip-group-label">ROLE</span>
+        <div class="chip-row" id="role-chips" role="group" aria-label="Filter by role"></div>
+      </div>
+
+      <div class="toolbar-row toolbar-row--chips">
+        <span class="chip-group-label">HUB</span>
+        <div class="chip-row" id="hub-chips" role="group" aria-label="Filter by hub"></div>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <div class="chip-row chip-row--fixed">
+          <button id="remote-toggle" type="button" class="chip" aria-pressed="false">Remote only</button>
+          <button id="saved-toggle" type="button" class="chip" aria-pressed="false">Saved 00</button>
+        </div>
+      </div>
+    </div>
   </div>
 
-  <table id="jobs-table">
-    <thead>
-      <tr>
-        <th></th>
-        <th data-key="location">Hub</th>
-        <th data-key="company">Company</th>
-        <th data-key="title">Role</th>
-        <th data-key="postedDate">Posted</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+  <div class="page">
+    <div class="result-line">
+      <div id="result-count"></div>
+      <div class="sort-row">
+        <button id="sort-new" type="button" class="sort-btn">NEWEST</button>
+        <button id="sort-co" type="button" class="sort-btn">COMPANY</button>
+        <button id="sort-hub" type="button" class="sort-btn">HUB</button>
+      </div>
+    </div>
 
-  <p id="empty-state" hidden>No listings match your filters.</p>
+    <div class="table-header">
+      <span>NO.</span><span>HUB</span><span>COMPANY</span><span>ROLE</span><span>SIGNAL</span><span class="col-posted">POSTED</span><span></span>
+    </div>
 
-  <button id="load-more" type="button" hidden></button>
+    <div id="listing-rows"></div>
 
+    <div id="empty-state" class="empty-state" hidden>
+      <div class="empty-dots" aria-hidden="true"></div>
+      <div class="empty-title">No signal</div>
+      <div class="empty-sub">Nothing matches this combination. Widen the sweep.</div>
+      <button id="reset-filters" type="button" class="reset-btn">RESET FILTERS</button>
+    </div>
+
+    <div id="signal" class="signal-section">
+      <div class="signal-heading">
+        <span class="signal-title">Signal density</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label" id="signal-track-label"></span>
+      </div>
+      <div class="signal-cols">
+        <div class="signal-col">
+          <div class="signal-col-label">BY HUB</div>
+          <div id="hub-bars"></div>
+        </div>
+        <div class="signal-col">
+          <div class="signal-col-label">BY DISCIPLINE</div>
+          <div id="cat-bars"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dot-band" aria-hidden="true"></div>
+
+  <div class="footer-wrap">
+    <div class="page footer">
+      <span>TECH INTERNSHIP RADAR — OPEN SOURCE, NO SIGN-UP</span>
+      <div class="footer-links">
+        <a href="feed.html">RSS</a>
+        <a href="data/jobs.json">JSON</a>
+        <a href="https://github.com/handcraftedbygod/tech-internship-radar" target="_blank" rel="noreferrer">GITHUB</a>
+        <span id="footer-sweep"></span>
+      </div>
+    </div>
+  </div>
+
+  <script src="globe.js"></script>
   <script src="app.js"></script>
-  <script src="particles.js"></script>
 </body>
 </html>
