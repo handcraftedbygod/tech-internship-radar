@@ -41,29 +41,39 @@ function categoryFor(job) {
 // so the hub chips stay a clean city list instead of every raw location
 // string a source happens to report. Anything that doesn't match falls into
 // "Other" rather than being force-bucketed into a same-country hub.
+// `region` groups the hub chips into EU / NA rows in the toolbar. "Europe" here
+// is geographic, not political -- London and Zurich sit in EU alongside the
+// rest of the continent, matching the site's "EUROPE / NORTH AMERICA" framing.
 const HUBS = [
-  { name: "Tallinn", match: ["tallinn"] },
-  { name: "Berlin", match: ["berlin"] },
-  { name: "Munich", match: ["munich", "münchen", "munchen"] },
-  { name: "Amsterdam", match: ["amsterdam"] },
-  { name: "Dublin", match: ["dublin"] },
-  { name: "London", match: ["london"] },
-  { name: "Paris", match: ["paris"] },
-  { name: "Stockholm", match: ["stockholm"] },
-  { name: "Helsinki", match: ["helsinki"] },
-  { name: "Warsaw", match: ["warsaw", "warszawa"] },
-  { name: "Barcelona", match: ["barcelona"] },
-  { name: "Lisbon", match: ["lisbon", "lisboa"] },
-  { name: "Zurich", match: ["zurich", "zürich"] },
-  { name: "Madrid", match: ["madrid"] },
-  { name: "New York", match: ["new york", "nyc"] },
-  { name: "San Francisco", match: ["san francisco", "bay area", "san jose", "silicon valley"] },
-  { name: "Seattle", match: ["seattle"] },
-  { name: "Austin", match: ["austin"] },
-  { name: "Toronto", match: ["toronto"] },
-  { name: "Vancouver", match: ["vancouver"] },
+  { name: "Tallinn", region: "eu", match: ["tallinn"] },
+  { name: "Berlin", region: "eu", match: ["berlin"] },
+  { name: "Munich", region: "eu", match: ["munich", "münchen", "munchen"] },
+  { name: "Amsterdam", region: "eu", match: ["amsterdam"] },
+  { name: "Dublin", region: "eu", match: ["dublin"] },
+  { name: "London", region: "eu", match: ["london"] },
+  { name: "Paris", region: "eu", match: ["paris"] },
+  { name: "Stockholm", region: "eu", match: ["stockholm"] },
+  { name: "Helsinki", region: "eu", match: ["helsinki"] },
+  { name: "Warsaw", region: "eu", match: ["warsaw", "warszawa"] },
+  { name: "Barcelona", region: "eu", match: ["barcelona"] },
+  { name: "Lisbon", region: "eu", match: ["lisbon", "lisboa"] },
+  { name: "Zurich", region: "eu", match: ["zurich", "zürich"] },
+  { name: "Madrid", region: "eu", match: ["madrid"] },
+  { name: "New York", region: "na", match: ["new york", "nyc"] },
+  { name: "San Francisco", region: "na", match: ["san francisco", "bay area", "san jose", "silicon valley"] },
+  { name: "Seattle", region: "na", match: ["seattle"] },
+  { name: "Austin", region: "na", match: ["austin"] },
+  { name: "Toronto", region: "na", match: ["toronto"] },
+  { name: "Vancouver", region: "na", match: ["vancouver"] },
 ];
 const OTHER_HUB = "Other";
+
+// Hub name -> region, so the chip renderer can bucket hub names coming back
+// from the listings without re-running the location matcher.
+const HUB_REGION = HUBS.reduce((acc, hub) => {
+  acc[hub.name] = hub.region;
+  return acc;
+}, {});
 
 function hubFor(job) {
   const text = job.location.toLowerCase();
@@ -180,7 +190,11 @@ const els = {
   trackTabs: document.getElementById("track-tabs"),
   search: document.getElementById("search"),
   roleChips: document.getElementById("role-chips"),
-  hubChips: document.getElementById("hub-chips"),
+  hubChipsBase: document.getElementById("hub-chips-base"),
+  hubChipsEu: document.getElementById("hub-chips-eu"),
+  hubChipsNa: document.getElementById("hub-chips-na"),
+  hubRowEu: document.getElementById("hub-row-eu"),
+  hubRowNa: document.getElementById("hub-row-na"),
   remoteToggle: document.getElementById("remote-toggle"),
   savedToggle: document.getElementById("saved-toggle"),
   resultCount: document.getElementById("result-count"),
@@ -282,13 +296,32 @@ function render() {
     render();
   });
 
-  // hub chips (hub list scoped to the whole dataset, matching design's use of all hub names)
+  // Hub chips, split into EU / NA rows so the list wraps into short labelled
+  // groups instead of one long horizontally-scrolling strip. Hub list is scoped
+  // to the whole dataset (matching the design's use of all hub names), and only
+  // regions that actually have hubs get a row. "Other" is region-less, so it
+  // rides along in the base row next to "All hubs".
   const hubNames = [];
   LISTINGS.forEach((r) => { if (hubNames.indexOf(r.hub) < 0) hubNames.push(r.hub); });
-  const hubItems = [{ id: "all", label: "All hubs" }].concat(hubNames.map((h) => ({ id: h, label: h })));
-  renderChipRow(els.hubChips, hubItems, state.hub, (id) => {
+
+  const onHubSelect = (id) => {
     state.hub = id;
     render();
+  };
+  const toItems = (names) => names.map((h) => ({ id: h, label: h }));
+
+  const baseItems = [{ id: "all", label: "All hubs" }].concat(
+    toItems(hubNames.filter((h) => !HUB_REGION[h]))
+  );
+  renderChipRow(els.hubChipsBase, baseItems, state.hub, onHubSelect);
+
+  [
+    { region: "eu", row: els.hubRowEu, chips: els.hubChipsEu },
+    { region: "na", row: els.hubRowNa, chips: els.hubChipsNa },
+  ].forEach(({ region, row, chips }) => {
+    const names = hubNames.filter((h) => HUB_REGION[h] === region);
+    row.hidden = names.length === 0;
+    renderChipRow(chips, toItems(names), state.hub, onHubSelect);
   });
 
   // toggles

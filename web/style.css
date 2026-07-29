@@ -264,16 +264,23 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   align-items: center;
   gap: 14px;
   padding-bottom: 11px;
-  overflow-x: auto;
+  flex-wrap: wrap;
 }
 .toolbar-row--chips:last-of-type { padding-bottom: 14px; }
+.toolbar-row--chips[hidden] { display: none; }
 .chip-group-label {
   font-size: 9px;
   letter-spacing: 0.2em;
   color: rgba(244,247,249,0.34);
   flex: none;
+  /* Keeps the ROLE / HUB / EU / NA labels on a shared left edge so the chip
+     groups line up as columns rather than starting at ragged offsets. */
+  min-width: 26px;
 }
 .chip-row { display: flex; gap: 6px; flex: none; }
+/* Hub groups wrap onto as many lines as they need -- the toolbar used to be a
+   single overflow-x strip, which hid most hubs behind a clunky scrollbar. */
+.chip-row--wrap { flex: 1 1 auto; flex-wrap: wrap; row-gap: 6px; min-width: 0; }
 .chip {
   background: transparent;
   border: 1px solid rgba(244,247,249,0.13);

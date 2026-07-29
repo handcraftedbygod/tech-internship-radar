@@ -109,12 +109,22 @@
 
       <div class="toolbar-row toolbar-row--chips">
         <span class="chip-group-label">HUB</span>
-        <div class="chip-row" id="hub-chips" role="group" aria-label="Filter by hub"></div>
+        <div class="chip-row chip-row--wrap" id="hub-chips-base" role="group" aria-label="Filter by hub"></div>
         <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
         <div class="chip-row chip-row--fixed">
           <button id="remote-toggle" type="button" class="chip" aria-pressed="false">Remote only</button>
           <button id="saved-toggle" type="button" class="chip" aria-pressed="false">Saved 00</button>
         </div>
+      </div>
+
+      <div class="toolbar-row toolbar-row--chips" id="hub-row-eu">
+        <span class="chip-group-label">EU</span>
+        <div class="chip-row chip-row--wrap" id="hub-chips-eu" role="group" aria-label="Filter by European hub"></div>
+      </div>
+
+      <div class="toolbar-row toolbar-row--chips" id="hub-row-na">
+        <span class="chip-group-label">NA</span>
+        <div class="chip-row chip-row--wrap" id="hub-chips-na" role="group" aria-label="Filter by North American hub"></div>
       </div>
     </div>
   </div>
