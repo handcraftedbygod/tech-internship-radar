@@ -89,38 +89,89 @@
   }
 
   let raf = null;
+  let running = false;
   let t = 0;
   let last = null;
+  let lastFrameAt = 0;
 
   function loop(now) {
     raf = null;
+    if (!running) return;
     if (last == null) last = now;
     const dt = Math.min(48, now - last);
     last = now;
+    lastFrameAt = Date.now();
     t += dt / 1000;
     drawGlobe(t);
     raf = requestAnimationFrame(loop);
   }
 
   function start() {
-    if (raf) return;
     if (reduceMotion.matches) {
       // draw a single static frame instead of looping
-      drawGlobe(0);
+      stop();
+      drawGlobe(t);
       return;
     }
+    // Always cancel-then-schedule. We must NOT early-return when `raf` is
+    // non-null: when the browser drops a queued callback the handle we hold is
+    // stale but still non-null, so an "already running" guard would make every
+    // recovery path a silent no-op. Cancelling first makes re-entry safe, so
+    // calling start() twice can never double-schedule the loop.
+    if (raf != null) cancelAnimationFrame(raf);
+    running = true;
+    // Resume from "now" so a long hidden period doesn't jump the clock.
+    last = null;
+    lastFrameAt = Date.now();
     raf = requestAnimationFrame(loop);
   }
 
   function stop() {
-    if (raf) cancelAnimationFrame(raf);
+    running = false;
+    if (raf != null) cancelAnimationFrame(raf);
     raf = null;
     last = null;
   }
 
+  // The browser can silently drop a pending requestAnimationFrame callback when
+  // the tab is backgrounded/frozen, the window is occluded by another window, or
+  // the page is restored from the back/forward cache. Because the loop only ever
+  // schedules its next frame from inside that callback, losing one kills the
+  // animation permanently until a reload. Everything below exists to notice that
+  // and restart the loop.
+
+  function resume() {
+    if (document.visibilityState === "hidden") return;
+    if (canvas.clientWidth === 0) return;
+    start();
+  }
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") {
+      stop();
+    } else {
+      resume();
+    }
+  });
+
+  // bfcache restore + regaining focus after the window was covered/occluded,
+  // neither of which reliably fires visibilitychange.
+  window.addEventListener("pageshow", resume);
+  window.addEventListener("focus", resume);
+
+  // Last-resort watchdog: if we're visible and animating but no frame has landed
+  // for a second, the rAF chain was dropped — kick it back to life.
+  setInterval(function () {
+    if (reduceMotion.matches) return;
+    if (document.visibilityState === "hidden") return;
+    if (canvas.clientWidth === 0) return;
+    if (!running || Date.now() - lastFrameAt > 1000) start();
+  }, 2000);
+
   const ro = new ResizeObserver(() => {
     if (canvas.clientWidth === 0) return;
     if (reduceMotion.matches) drawGlobe(t);
+    else resume();
   });
   ro.observe(canvas);
 
@@ -131,7 +182,9 @@
     });
   }
 
-  window.addEventListener("beforeunload", stop);
+  // Note: deliberately NOT beforeunload — registering it disqualifies the page
+  // from the back/forward cache, which is one of the ways the loop died.
+  window.addEventListener("pagehide", stop);
 
   start();
 })();
