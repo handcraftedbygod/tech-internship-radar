@@ -1,0 +1,35 @@
+{
+  "description": "Company reputation tiers, ordered most- to least-prestigious; the first match wins. Matching is case-insensitive substring against the company name. Tiers drive the NOTABLE badge, the estimated-pay multiplier, and which closed listings are archived for the 'Missed It' section (see archiveTiers below).",
+  "archiveTiers": ["trading", "elite"],
+  "tiers": [
+    {
+      "id": "trading",
+      "mult": 2.0,
+      "names": [
+        "Jane Street", "Citadel", "Optiver", "IMC", "Hudson River Trading", "Jump Trading",
+        "Two Sigma", "DRW", "SIG", "Susquehanna", "Akuna", "D. E. Shaw", "DE Shaw", "Point72",
+        "Millennium", "Tower Research", "XTX", "Squarepoint", "Qube Research", "G-Research",
+        "Old Mission"
+      ]
+    },
+    {
+      "id": "elite",
+      "mult": 1.35,
+      "names": [
+        "Google", "Meta", "Apple", "Amazon", "Microsoft", "Netflix", "NVIDIA", "OpenAI",
+        "Anthropic", "Stripe", "Databricks", "Palantir", "DeepMind", "Tesla", "SpaceX"
+      ]
+    },
+    {
+      "id": "notable",
+      "mult": 1.15,
+      "names": [
+        "Airbnb", "DoorDash", "Robinhood", "Coinbase", "Salesforce", "SAP", "Visa", "Nike",
+        "Spotify", "Klarna", "Booking.com", "Reddit", "Pinterest", "Cloudflare", "Discord",
+        "Figma", "Twilio", "Notion", "Duolingo", "Scale AI", "Shopify", "Roblox", "Block",
+        "Instacart", "HubSpot", "Uber", "Lyft", "Snowflake", "Datadog", "Revolut", "Wise",
+        "Adyen", "Celonis", "Personio"
+      ]
+    }
+  ]
+}

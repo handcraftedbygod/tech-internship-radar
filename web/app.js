@@ -89,19 +89,39 @@ function isRemote(job) {
   return text.includes("remote") || text.includes("hybrid");
 }
 
-// "FAANG+"-tier by reputation/competitiveness, not a strict acronym.
-// Deliberately a fixed, edited-by-hand list -- there's no clean signal for
-// "notable" in the source data to derive it from.
-const NOTABLE_COMPANIES = [
-  "Stripe", "Airbnb", "DoorDash", "Robinhood", "Coinbase", "Databricks", "Anthropic", "OpenAI",
-  "Palantir", "Salesforce", "SAP", "Visa", "Nike", "Spotify", "Klarna", "Booking.com", "Reddit",
-  "Pinterest", "Cloudflare", "Discord", "Figma", "Twilio", "Notion", "Duolingo", "Scale AI",
-  "Shopify", "Roblox", "Block", "Instacart", "HubSpot",
-].map((name) => name.toLowerCase());
+// Company reputation tiers, ordered most- to least-prestigious -- the first
+// match wins. Deliberately fixed, edited-by-hand lists (there's no clean signal
+// for "notable" in the source data to derive it from), and they drive both the
+// NOTABLE badge and the pay multiplier, so a company is only ever added once.
+//
+// `trading` sits above `elite` because prop-trading pay is a different scale
+// entirely (a Jane Street intern out-earns a FAANG intern roughly 2x), not
+// merely a step up.
+const COMPANY_TIERS = [
+  { id: "trading", mult: 2.0, names: [
+    "Jane Street", "Citadel", "Optiver", "IMC", "Hudson River Trading", "Jump Trading", "Two Sigma",
+    "DRW", "SIG", "Susquehanna", "Akuna", "D. E. Shaw", "DE Shaw", "Point72", "Millennium",
+    "Tower Research", "XTX", "Squarepoint", "Qube Research", "G-Research", "Old Mission",
+  ] },
+  { id: "elite", mult: 1.35, names: [
+    "Google", "Meta", "Apple", "Amazon", "Microsoft", "Netflix", "NVIDIA", "OpenAI", "Anthropic",
+    "Stripe", "Databricks", "Palantir", "DeepMind", "Tesla", "SpaceX",
+  ] },
+  { id: "notable", mult: 1.15, names: [
+    "Airbnb", "DoorDash", "Robinhood", "Coinbase", "Salesforce", "SAP", "Visa", "Nike", "Spotify",
+    "Klarna", "Booking.com", "Reddit", "Pinterest", "Cloudflare", "Discord", "Figma", "Twilio",
+    "Notion", "Duolingo", "Scale AI", "Shopify", "Roblox", "Block", "Instacart", "HubSpot",
+    "Uber", "Lyft", "Snowflake", "Datadog", "Revolut", "Wise", "Adyen", "Celonis", "Personio",
+  ] },
+].map((tier) => ({ ...tier, names: tier.names.map((n) => n.toLowerCase()) }));
+
+function tierFor(job) {
+  const company = job.company.toLowerCase();
+  return COMPANY_TIERS.find((tier) => tier.names.some((name) => company.includes(name))) || null;
+}
 
 function isNotable(job) {
-  const company = job.company.toLowerCase();
-  return NOTABLE_COMPANIES.some((name) => company.includes(name));
+  return tierFor(job) !== null;
 }
 
 // A season posted for a year beyond the current one is unusually early --
@@ -124,21 +144,152 @@ function trackFor(job) {
   return (TRACK_META[cat] || TRACK_META.internship).id;
 }
 
+// --- Estimated pay ---------------------------------------------------------
+// None of the sources expose salary reliably (only Adzuna does, and even then
+// it's near-always empty -- see the DROPPED_COLUMNS note in pipeline/store.ts),
+// so rather than show a blank column we model it. The estimate is a product of
+// four public, coarse signals we already derive for every row: hub, company
+// tier, track (level) and discipline. It is explicitly a market band, not a
+// number scraped from the listing, and the UI labels it as such.
+//
+// Baselines are median hourly student/intern pay at a mid-tier company for a
+// software role in that hub, in the currency an applicant there is actually
+// paid in -- EUR for European hubs, USD for North American ones. European
+// internships are legally often "Pflichtpraktikum"-style stipends, hence the
+// much lower floor; this is the real market, not a modelling error.
+const CURRENCY_SYMBOL = { eur: "\u20ac", usd: "$" };
+const EUR_TO_USD = 1.08; // only used to make cross-currency sorting comparable
+
+// Keyed by hub name; the currency comes from HUB_REGION above rather than being
+// restated per entry.
+const HUB_BASE = {
+  Zurich: 33, London: 22, Dublin: 21, Amsterdam: 19, Munich: 18, Stockholm: 17,
+  Berlin: 17, Helsinki: 16, Paris: 15, Barcelona: 12, Madrid: 12, Lisbon: 10,
+  Warsaw: 10, Tallinn: 10,
+  "San Francisco": 45, Seattle: 42, "New York": 42, Austin: 35, Vancouver: 30, Toronto: 30,
+};
+
+// Off-hub listings still need a currency. Anything carrying a US/Canadian
+// marker is priced in USD; everything else falls back to the European band,
+// since that's where the bulk of off-hub listings sit.
+const NA_TOKENS = [
+  "united states", "u.s.", "usa", ", us", "canada", "ontario", "quebec", "british columbia",
+  "california", "washington", "new york", "texas", "massachusetts", "illinois", "colorado",
+  "georgia", "florida", "virginia", "new jersey", "utah", "arizona", "oregon", "michigan",
+  ", ca", ", ny", ", wa", ", tx", ", ma", ", nj", ", ut", ", il", ", co", ", or",
+];
+
+function marketFor(hub, locationText) {
+  const base = HUB_BASE[hub];
+  if (base) return { currency: HUB_REGION[hub] === "na" ? "usd" : "eur", base, known: true };
+  const na = NA_TOKENS.some((token) => locationText.toLowerCase().includes(token));
+  return { currency: na ? "usd" : "eur", base: na ? 32 : 14, known: false };
+}
+
+// A new grad is a salaried hire, not a student -- the hourly figure is their
+// annual package divided down, so it sits well above the intern baseline.
+// The label is the singular level noun used in the tooltip's basis line.
+const TRACK_PAY = {
+  intern: { mult: 1, label: "internship" },
+  junior: { mult: 1.35, label: "junior" },
+  newgrad: { mult: 1.6, label: "new grad" },
+};
+
+const CATEGORY_MULT = {
+  quant: 1.35, ai: 1.15, swe: 1, hw: 0.95, product: 1, design: 0.85, biz: 0.8,
+};
+
+// Widen the band when we're extrapolating rather than pricing a known hub --
+// an honest estimate should look less precise when it is less certain.
+const SPREAD_KNOWN = 0.11;
+const SPREAD_LOOSE = 0.18;
+
+function estimatePay(job, listing) {
+  const market = marketFor(listing.hub, job.location);
+  const tier = tierFor(job);
+  const level = TRACK_PAY[listing.track] || TRACK_PAY.intern;
+  const mid =
+    market.base *
+    (tier ? tier.mult : 1) *
+    level.mult *
+    (CATEGORY_MULT[listing.category] || 1) *
+    (job.advancedDegree ? 1.25 : 1);
+
+  const spread = market.known ? SPREAD_KNOWN : SPREAD_LOOSE;
+
+  return {
+    // Kept unrounded and in the listing's native currency -- rounding and
+    // symbol formatting happen at render time via formatPay(), once we know
+    // which currency the user has toggled to display.
+    currency: market.currency,
+    low: mid * (1 - spread),
+    high: mid * (1 + spread),
+    // Normalised so the COMP sort compares a Berlin euro band against a
+    // San Francisco dollar one instead of ordering by raw number.
+    usdMid: market.currency === "eur" ? mid * EUR_TO_USD : mid,
+    loose: !market.known || !tier,
+    basis: [
+      market.known ? listing.hub + " market" : "regional average",
+      tier ? tier.id + "-tier company" : "market-rate company",
+      level.label,
+    ].join(" \u00b7 "),
+  };
+}
+
+// Converts a raw pay amount between the two currencies the site knows about.
+// EUR_TO_USD is the only rate in the system -- deliberately coarse, since this
+// is already an estimate on top of an estimate.
+function convertAmount(amount, fromCurrency, toCurrency) {
+  if (fromCurrency === toCurrency) return amount;
+  return fromCurrency === "eur" ? amount * EUR_TO_USD : amount / EUR_TO_USD;
+}
+
+// Formats a pay band in whichever currency the user has selected (state.currency),
+// regardless of the listing's native currency -- this is what makes "one
+// currency for everything" possible without losing the underlying estimate.
+function formatPay(pay, currency) {
+  const symbol = CURRENCY_SYMBOL[currency];
+  const low = Math.round(convertAmount(pay.low, pay.currency, currency));
+  const high = Math.round(convertAmount(pay.high, pay.currency, currency));
+  return symbol + low + "\u2013" + symbol + high;
+}
+
 function daysAgo(isoDate) {
   if (!isoDate) return 0;
   const days = Math.floor((Date.now() - new Date(isoDate).getTime()) / (24 * 60 * 60 * 1000));
   return Math.max(0, days);
 }
 
+// Hours-aware sibling of daysAgo() -- every listing carries a real
+// time-of-day timestamp (not midnight-padded), so freshness badges can be
+// meaningfully derived down to the hour instead of only the day.
+function hoursAgo(isoDate) {
+  if (!isoDate) return 0;
+  const hours = Math.floor((Date.now() - new Date(isoDate).getTime()) / (60 * 60 * 1000));
+  return Math.max(0, hours);
+}
+
+// Opening Velocity: a qualitative freshness signal, not a fabricated
+// applicant count. Thresholds are hours-based so "just opened" reflects the
+// first day meaningfully instead of collapsing into the same DAYS bucket as
+// everything else posted today. Only the single strongest signal is ever
+// shown per row (see the caller) to keep the SIGNAL cell from getting noisy.
+function velocityFor(hours) {
+  if (hours < 24) return { id: "fresh", label: "JUST OPENED" };
+  if (hours < 72) return { id: "hot", label: "HOT" };
+  if (hours >= 14 * 24) return { id: "saturated", label: "LIKELY SATURATED" };
+  return null;
+}
+
 // Adapts a raw pipeline job record into the design's listing shape (README
 // "State" section): { id, hub, company, role, category, track, daysAgo,
-// remote, flags[], url }.
+// remote, flags[], url, pay }.
 function toListing(job) {
   const flags = [];
   if (isEarly(job)) flags.push("EARLY");
   if (isNotable(job)) flags.push("NOTABLE");
   if (job.advancedDegree) flags.push("PHD");
-  return {
+  const listing = {
     id: job.id,
     hub: hubFor(job),
     company: job.company,
@@ -146,10 +297,13 @@ function toListing(job) {
     category: categoryFor(job),
     track: trackFor(job),
     daysAgo: daysAgo(job.postedDate),
+    velocity: velocityFor(hoursAgo(job.postedDate)),
     remote: isRemote(job),
     flags,
     url: job.url,
   };
+  listing.pay = estimatePay(job, listing);
+  return listing;
 }
 
 // ---------------------------------------------------------------------------
@@ -171,6 +325,23 @@ function persistSaved(saved) {
   } catch {}
 }
 
+const CURRENCY_KEY = "radar.currency";
+
+function loadCurrency() {
+  try {
+    const raw = localStorage.getItem(CURRENCY_KEY);
+    return raw === "usd" || raw === "eur" ? raw : "usd";
+  } catch {
+    return "usd";
+  }
+}
+
+function persistCurrency(currency) {
+  try {
+    localStorage.setItem(CURRENCY_KEY, currency);
+  } catch {}
+}
+
 const state = {
   track: null, // resolved to defaultTrack ('intern') on first render
   q: "",
@@ -180,6 +351,7 @@ const state = {
   savedOnly: false,
   saved: loadSaved(),
   sort: "new",
+  currency: loadCurrency(),
 };
 
 let LISTINGS = [];
@@ -201,6 +373,7 @@ const els = {
   sortNew: document.getElementById("sort-new"),
   sortCo: document.getElementById("sort-co"),
   sortHub: document.getElementById("sort-hub"),
+  sortPay: document.getElementById("sort-pay"),
   rows: document.getElementById("listing-rows"),
   emptyState: document.getElementById("empty-state"),
   resetFilters: document.getElementById("reset-filters"),
@@ -213,6 +386,9 @@ const els = {
   statSweep: document.getElementById("stat-sweep"),
   globeSigma: document.getElementById("globe-sigma"),
   footerSweep: document.getElementById("footer-sweep"),
+  missedSection: document.getElementById("missed-it"),
+  missedList: document.getElementById("missed-list"),
+  currencyToggle: document.getElementById("currency-toggle"),
 };
 
 function posted(d) {
@@ -285,6 +461,7 @@ function render() {
 
   if (state.sort === "co") rows = rows.slice().sort((a, b) => a.company.localeCompare(b.company));
   else if (state.sort === "hub") rows = rows.slice().sort((a, b) => a.hub.localeCompare(b.hub) || a.daysAgo - b.daysAgo);
+  else if (state.sort === "pay") rows = rows.slice().sort((a, b) => b.pay.usdMid - a.pay.usdMid || a.daysAgo - b.daysAgo);
   else rows = rows.slice().sort((a, b) => a.daysAgo - b.daysAgo);
 
   // track tabs
@@ -336,6 +513,13 @@ function render() {
   els.sortNew.classList.toggle("active", state.sort === "new");
   els.sortCo.classList.toggle("active", state.sort === "co");
   els.sortHub.classList.toggle("active", state.sort === "hub");
+  els.sortPay.classList.toggle("active", state.sort === "pay");
+
+  // currency toggle -- icon swap, $ vs €, rather than spelling out the name
+  if (els.currencyToggle) {
+    els.currencyToggle.textContent = CURRENCY_SYMBOL[state.currency];
+    els.currencyToggle.title = state.currency === "usd" ? "Showing USD — click for EUR" : "Showing EUR — click for USD";
+  }
 
   // result line
   els.resultCount.textContent = pad2(rows.length) + " OF " + pad2(inTrack.length) + " " + trackLabel.toUpperCase();
@@ -347,6 +531,7 @@ function render() {
       const saved = !!state.saved[r.id];
       const postedLabel = posted(r.daysAgo);
       const isToday = r.daysAgo === 0;
+      const velocity = r.velocity;
       return `
         <div class="listing-row">
           <span class="row-no">${pad2(i + 1)}</span>
@@ -354,7 +539,8 @@ function render() {
           <span class="row-company" title="${escapeHtml(r.company)}">${escapeHtml(r.company)}</span>
           <a href="${escapeHtml(r.url)}" target="_blank" rel="noreferrer" class="row-role">${escapeHtml(r.role)}</a>
           <span class="row-signal">${flags.map((f) => `<span class="signal-pill">${escapeHtml(f)}</span>`).join("")}</span>
-          <span class="row-posted${isToday ? " is-today" : ""}">${postedLabel}</span>
+          <span class="row-pay${r.pay.loose ? " is-loose" : ""}" title="Estimated — ${escapeHtml(r.pay.basis)}">${escapeHtml(formatPay(r.pay, state.currency))}<span class="pay-unit">/h</span></span>
+          <span class="row-posted${isToday ? " is-today" : ""}">${velocity ? `<span class="velocity-dot velocity-${velocity.id}" title="${escapeHtml(velocity.label)}"></span>` : ""}${postedLabel}</span>
           <button type="button" class="row-save${saved ? " saved" : ""}" title="Save listing" data-id="${escapeHtml(r.id)}">${saved ? "★" : "☆"}</button>
         </div>`;
     })
@@ -444,6 +630,15 @@ els.resetFilters.addEventListener("click", () => {
 els.sortNew.addEventListener("click", () => { state.sort = "new"; render(); });
 els.sortCo.addEventListener("click", () => { state.sort = "co"; render(); });
 els.sortHub.addEventListener("click", () => { state.sort = "hub"; render(); });
+els.sortPay.addEventListener("click", () => { state.sort = "pay"; render(); });
+
+if (els.currencyToggle) {
+  els.currencyToggle.addEventListener("click", () => {
+    state.currency = state.currency === "usd" ? "eur" : "usd";
+    persistCurrency(state.currency);
+    render();
+  });
+}
 
 els.rows.addEventListener("click", (e) => {
   const btn = e.target.closest(".row-save");
@@ -463,4 +658,41 @@ fetch("./data/jobs.json")
   })
   .catch(() => {
     els.resultCount.textContent = "Failed to load listings.";
+  });
+
+// "Missed It" -- recently closed listings from top-tier companies (see
+// config/tiers.json archiveTiers). Independent of the main render() cycle
+// since it doesn't respond to filters; it only needs to run once. The
+// section hides itself entirely when there's nothing to show yet, rather
+// than rendering an empty box -- real closures take about a week of nightly
+// runs to accumulate.
+function renderMissedIt(closed) {
+  if (!closed || closed.length === 0) {
+    els.missedSection.hidden = true;
+    return;
+  }
+  els.missedSection.hidden = false;
+  els.missedList.innerHTML = closed
+    .map((c) => {
+      const closedDate = c.closedAt ? new Date(c.closedAt) : null;
+      const dateLabel = closedDate
+        ? closedDate.toLocaleDateString(undefined, { month: "short", day: "numeric" })
+        : "";
+      return `
+        <div class="missed-row">
+          <span class="missed-check" aria-hidden="true">&#10003;</span>
+          <span class="missed-company">${escapeHtml(c.company)}</span>
+          <span class="missed-role">${escapeHtml(c.title)}</span>
+          <span class="missed-loc">${escapeHtml(c.location)}</span>
+          <span class="missed-date">${escapeHtml(dateLabel)}</span>
+        </div>`;
+    })
+    .join("");
+}
+
+fetch("./data/closed.json")
+  .then((res) => res.json())
+  .then((data) => renderMissedIt(data))
+  .catch(() => {
+    els.missedSection.hidden = true;
   });

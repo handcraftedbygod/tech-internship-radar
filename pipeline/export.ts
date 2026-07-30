@@ -3,6 +3,7 @@ import path from "node:path";
 import { openDb } from "./store.ts";
 
 const OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "jobs.json");
+const CLOSED_PATH = path.join(import.meta.dirname, "..", "web", "data", "closed.json");
 const META_PATH = path.join(import.meta.dirname, "..", "web", "data", "meta.json");
 const FEED_PATH = path.join(import.meta.dirname, "..", "web", "feed.xml");
 const FEED_HTML_PATH = path.join(import.meta.dirname, "..", "web", "feed.html");
@@ -136,10 +137,27 @@ interface JobRow {
   first_seen_at: string;
 }
 
+interface ClosedRow {
+  id: string;
+  title: string;
+  company: string;
+  location: string;
+  closed_at: string;
+}
+
+// Cap keeps the "Missed It" section short and enviable rather than a long
+// scroll -- newest closures first, since those are the most relevant misses.
+const CLOSED_LIMIT = 20;
+
 export function exportJson(): number {
   const db = openDb();
   try {
-    const rows = db.prepare("SELECT * FROM jobs").all() as unknown as JobRow[];
+    // Archived ("Missed It") rows are deliberately retained in the table but are
+    // not live listings, so they're excluded here. They get their own export
+    // once the UI section lands.
+    const rows = db
+      .prepare("SELECT * FROM jobs WHERE closed_at IS NULL")
+      .all() as unknown as JobRow[];
     // Any row that matched at least one known keywords.json list is in scope --
     // not hardcoded to "internship" -- so a new list (e.g. "new-grad") is picked
     // up automatically with zero changes here, matching the schema's original
@@ -162,8 +180,25 @@ export function exportJson(): number {
         firstSeenAt: row.first_seen_at,
       }));
 
+    // "Missed It" -- archived (closed) rows from the gated tiers, newest-first,
+    // capped. Only the fields the UI needs; no need to carry categories/tags
+    // for a listing that can no longer be applied to.
+    const closedRows = db
+      .prepare(
+        "SELECT id, title, company, location, closed_at FROM jobs WHERE closed_at IS NOT NULL ORDER BY closed_at DESC LIMIT ?",
+      )
+      .all(CLOSED_LIMIT) as unknown as ClosedRow[];
+    const closed = closedRows.map((row) => ({
+      id: row.id,
+      title: row.title,
+      company: row.company,
+      location: row.location,
+      closedAt: row.closed_at,
+    }));
+
     mkdirSync(path.dirname(OUT_PATH), { recursive: true });
     writeFileSync(OUT_PATH, JSON.stringify(jobs, null, 2));
+    writeFileSync(CLOSED_PATH, JSON.stringify(closed, null, 2));
     writeFileSync(META_PATH, JSON.stringify({ generatedAt: new Date().toISOString() }, null, 2));
     writeFileSync(FEED_PATH, buildFeed(jobs));
     writeFileSync(FEED_HTML_PATH, buildFeedHtml(jobs));

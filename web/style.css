@@ -324,14 +324,33 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   color: rgba(244,247,249,0.38);
 }
 .sort-btn.active { color: #F4F7F9; }
+/* Icon-only currency switch -- a circled symbol rather than spelling out
+   "Dollar"/"Euro", matching the minimal chip/sort-btn language elsewhere. */
+.currency-toggle {
+  background: none;
+  border: 1px solid rgba(244,247,249,0.22);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 1;
+  padding: 0;
+  cursor: pointer;
+  font-size: 11px;
+  color: rgba(244,247,249,0.7);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 140ms, color 140ms;
+}
+.currency-toggle:hover { border-color: rgba(244,247,249,0.55); color: #F4F7F9; }
 
 /* listing table */
 .table-grid-cols {
-  grid-template-columns: 38px 104px minmax(0,0.95fr) minmax(0,1.5fr) 132px 62px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
 }
 .table-header {
   display: grid;
-  grid-template-columns: 38px 104px minmax(0,0.95fr) minmax(0,1.5fr) 132px 62px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
   gap: 14px;
   align-items: center;
   padding: 10px 0;
@@ -342,10 +361,28 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   color: rgba(244,247,249,0.36);
 }
 .col-posted { text-align: right; }
+/* Right-aligned so the digits form a scannable column -- the whole point of the
+   estimate is comparing bands down the list, not reading any single one. */
+.col-pay { text-align: right; }
+.pay-note {
+  display: inline-block;
+  margin-left: 5px;
+  width: 11px;
+  height: 11px;
+  line-height: 10px;
+  text-align: center;
+  border: 1px solid rgba(244,247,249,0.28);
+  border-radius: 50%;
+  font-size: 7.5px;
+  letter-spacing: 0;
+  cursor: help;
+  text-decoration: none;
+  vertical-align: 1px;
+}
 
 .listing-row {
   display: grid;
-  grid-template-columns: 38px 104px minmax(0,0.95fr) minmax(0,1.5fr) 132px 62px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
   gap: 14px;
   align-items: center;
   padding: 15px 0;
@@ -384,6 +421,34 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 }
 .row-posted { font-size: 10.5px; letter-spacing: 0.12em; text-align: right; color: rgba(244,247,249,0.42); }
 .row-posted.is-today { color: #F4F7F9; }
+/* Opening Velocity: a single subtle dot ahead of the POSTED text rather than
+   another loud pill -- keeps the row from getting noisy while still giving a
+   glanceable freshness/competition read. Colour is used sparingly (this is
+   the one spot on an otherwise monochrome site) so it stays legible at 5px. */
+.velocity-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: middle;
+  cursor: help;
+}
+.velocity-fresh { background: #F4F7F9; box-shadow: 0 0 0 1px rgba(244,247,249,0.4); }
+.velocity-hot { background: rgba(244,247,249,0.55); }
+.velocity-saturated { background: transparent; border: 1px solid rgba(244,247,249,0.35); }
+.row-pay {
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  text-align: right;
+  white-space: nowrap;
+  color: rgba(244,247,249,0.74);
+  cursor: help;
+}
+/* A loose estimate (unknown hub or unranked company) reads dimmer, so the
+   confident bands are the ones that catch the eye. */
+.row-pay.is-loose { color: rgba(244,247,249,0.4); }
+.pay-unit { font-size: 8.5px; letter-spacing: 0.1em; opacity: 0.5; margin-left: 2px; }
 .row-save {
   background: none;
   border: none;
@@ -461,6 +526,41 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 }
 .bar-count { font-size: 10.5px; text-align: right; color: rgba(244,247,249,0.55); }
 
+/* missed it -- recently closed listings from the archive gate */
+.missed-section { padding: 0 0 clamp(48px,7vw,88px); }
+.missed-section[hidden] { display: none; }
+.missed-list { display: flex; flex-direction: column; }
+.missed-row {
+  display: grid;
+  grid-template-columns: 20px minmax(0,0.9fr) minmax(0,1.4fr) minmax(0,1fr) 64px;
+  gap: 14px;
+  align-items: center;
+  padding: 13px 0;
+  border-bottom: 1px solid rgba(244,247,249,0.06);
+  color: rgba(244,247,249,0.5);
+}
+.missed-check { color: rgba(244,247,249,0.4); font-size: 11px; }
+.missed-company {
+  font-family: 'Bodoni Moda', serif;
+  font-size: 15px;
+  color: rgba(244,247,249,0.72);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.missed-role { font-size: 11.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.missed-loc { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(244,247,249,0.36); }
+.missed-date { font-size: 10px; letter-spacing: 0.1em; text-align: right; color: rgba(244,247,249,0.32); }
+@media (max-width: 900px) {
+  .missed-row {
+    grid-template-columns: 16px 1fr;
+    row-gap: 3px;
+  }
+  .missed-role, .missed-loc, .missed-date {
+    grid-column: 2;
+  }
+}
+
 /* dot band */
 .dot-band {
   height: 180px;
@@ -519,8 +619,11 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   .row-signal {
     order: 5;
   }
-  .row-posted {
+  .row-pay {
     order: 6;
+  }
+  .row-posted {
+    order: 7;
     margin-left: auto;
   }
 }

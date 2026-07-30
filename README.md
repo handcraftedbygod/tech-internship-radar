@@ -36,6 +36,9 @@ Tech Internship Radar closes that gap:
   title, zero manual curation lag.
 - **One page, three tracks.** Internship, new-grad, and junior listings live side by side —
   switch with one click instead of bookmarking three different sites.
+- **Pay, even when nobody publishes it.** Almost no listing states a salary. Each row still gets
+  an estimated hourly band, modelled from the hub, company tier, level and discipline — so you can
+  sort by `EST. PAY` and see what a role is actually worth before you spend an evening on it.
 - **It's actually fast.** No account, no onboarding flow, no cookie banner. Static HTML, sub-second
   load, works with JavaScript disabled turned into "please turn it back on" and nothing else.
 

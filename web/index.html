@@ -136,11 +136,13 @@
         <button id="sort-new" type="button" class="sort-btn">NEWEST</button>
         <button id="sort-co" type="button" class="sort-btn">COMPANY</button>
         <button id="sort-hub" type="button" class="sort-btn">HUB</button>
+        <button id="sort-pay" type="button" class="sort-btn">EST. PAY</button>
+        <button id="currency-toggle" type="button" class="currency-toggle" title="Toggle currency">$</button>
       </div>
     </div>
 
     <div class="table-header">
-      <span>NO.</span><span>HUB</span><span>COMPANY</span><span>ROLE</span><span>SIGNAL</span><span class="col-posted">POSTED</span><span></span>
+      <span>NO.</span><span>HUB</span><span>COMPANY</span><span>ROLE</span><span>SIGNAL</span><span class="col-pay">EST. PAY<abbr class="pay-note" title="Estimated from hub, company tier, level and discipline — not scraped from the listing. A market band, not an offer.">?</abbr></span><span class="col-posted">POSTED</span><span></span>
     </div>
 
     <div id="listing-rows"></div>
@@ -168,6 +170,15 @@
           <div id="cat-bars"></div>
         </div>
       </div>
+    </div>
+
+    <div id="missed-it" class="missed-section" hidden>
+      <div class="signal-heading">
+        <span class="signal-title">Missed it</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label">RECENTLY CLOSED</span>
+      </div>
+      <div id="missed-list" class="missed-list"></div>
     </div>
   </div>
 

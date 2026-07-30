@@ -5,18 +5,21 @@ import { filterJobs } from "./filter.ts";
 import { dedupe } from "./dedupe.ts";
 import { storeJobs, pruneStale } from "./store.ts";
 import { exportJson } from "./export.ts";
-import { loadKeywords, loadLocations, loadSettings } from "../config/load.ts";
+import { loadKeywords, loadLocations, loadSettings, loadTiers } from "../config/load.ts";
 
 async function main() {
   const { results, jobs: rawJobs } = await fetchAll();
   const keywords = loadKeywords();
   const locations = loadLocations();
   const settings = loadSettings();
+  const { archiveTiers, tiers } = loadTiers();
 
   const filtered = filterJobs(rawJobs, keywords, locations, settings);
   const deduped = dedupe(filtered);
   storeJobs(deduped);
-  const prunedCount = pruneStale(settings.maxAgeDays);
+  // Only the gated tiers survive pruning as archived "Missed It" rows.
+  const archiveNames = tiers.filter((t) => archiveTiers.includes(t.id)).flatMap((t) => t.names);
+  const { deleted, archived } = pruneStale(settings.maxAgeDays, undefined, archiveNames);
   const exportedCount = exportJson();
 
   const summaryLines = [
@@ -26,7 +29,7 @@ async function main() {
     "| --- | --- | --- |",
     ...results.map((r) => `| ${r.source} | ${r.jobs.length} | ${r.error ?? "-"} |`),
     "",
-    `Matched internships after filter+dedupe: **${deduped.length}** (pruned stale: ${prunedCount}, exported: ${exportedCount})`,
+    `Matched internships after filter+dedupe: **${deduped.length}** (pruned stale: ${deleted}, archived: ${archived}, exported: ${exportedCount})`,
   ];
   const summary = summaryLines.join("\n");
 

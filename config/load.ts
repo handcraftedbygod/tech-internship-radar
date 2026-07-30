@@ -44,6 +44,18 @@ export interface SettingsConfig {
   maxAgeDays: number;
 }
 
+export interface CompanyTier {
+  id: string;
+  mult: number;
+  names: string[];
+}
+
+export interface TiersConfig {
+  description?: string;
+  archiveTiers: string[];
+  tiers: CompanyTier[];
+}
+
 export function loadKeywords(): KeywordsConfig {
   return readJson<KeywordsConfig>("keywords.json");
 }
@@ -59,4 +71,17 @@ export function loadCompanies(source: CompanyEntry["source"]): CompanyEntry[] {
 
 export function loadSettings(): SettingsConfig {
   return readJson<SettingsConfig>("settings.json");
+}
+
+export function loadTiers(): TiersConfig {
+  return readJson<TiersConfig>("tiers.json");
+}
+
+// Case-insensitive substring match against the company name, first tier wins.
+// Shared by the pipeline (archive gate) and mirrored in web/app.js for the
+// browser, which can't import TS -- config/tiers.json is the single source of
+// truth for both.
+export function tierForCompany(company: string, tiers: CompanyTier[]): CompanyTier | null {
+  const name = company.toLowerCase();
+  return tiers.find((tier) => tier.names.some((n) => name.includes(n.toLowerCase()))) ?? null;
 }
