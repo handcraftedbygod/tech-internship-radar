@@ -399,6 +399,7 @@ const els = {
   missedSection: document.getElementById("missed-it"),
   missedList: document.getElementById("missed-list"),
   currencyToggle: document.getElementById("currency-toggle"),
+  currencyGlyph: document.querySelector("#currency-toggle .currency-glyph"),
 };
 
 function posted(d) {
@@ -525,9 +526,11 @@ function render() {
   els.sortHub.classList.toggle("active", state.sort === "hub");
   els.sortPay.classList.toggle("active", state.sort === "pay");
 
-  // currency toggle -- icon swap, $ vs €, rather than spelling out the name
+  // currency toggle -- icon swap plus a solid fill on EUR, so switching
+  // reads as a real state change rather than just the glyph changing.
   if (els.currencyToggle) {
-    els.currencyToggle.textContent = CURRENCY_SYMBOL[state.currency];
+    els.currencyGlyph.textContent = CURRENCY_SYMBOL[state.currency];
+    els.currencyToggle.classList.toggle("is-eur", state.currency === "eur");
     els.currencyToggle.title = state.currency === "usd" ? "Showing USD — click for EUR" : "Showing EUR — click for USD";
   }
 

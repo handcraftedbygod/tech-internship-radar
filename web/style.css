@@ -365,6 +365,17 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   transition: border-color 140ms, color 140ms;
 }
 .currency-toggle:hover { border-color: rgba(244,247,249,0.4); color: #F4F7F9; }
+/* Solid fill on EUR (matching sort-btn.active) so the toggle reads as a real
+   state change, not just a glyph swap. */
+.currency-toggle.is-eur {
+  background: #F4F7F9;
+  color: #050506;
+  border-color: #F4F7F9;
+}
+.currency-toggle.is-eur:hover { background: #FFFFFF; }
+/* The glyph's own ink sits ~1px high of the font's line-box center (measured
+   via canvas pixel bounds) -- nudge it down without moving the box border. */
+.currency-glyph { display: inline-block; transform: translateY(1px); }
 
 /* listing table */
 .table-grid-cols {
