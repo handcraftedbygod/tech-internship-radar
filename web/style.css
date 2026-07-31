@@ -321,16 +321,19 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   letter-spacing: 0.18em;
   color: rgba(244,247,249,0.5);
 }
-.sort-row { display: flex; gap: 16px; font-size: 9.5px; letter-spacing: 0.16em; }
+.sort-row { display: flex; gap: 2px; font-size: 9.5px; letter-spacing: 0.16em; }
 .sort-btn {
   background: none;
   border: none;
-  padding: 0;
+  border-radius: 4px;
+  padding: 5px 9px;
   cursor: pointer;
   letter-spacing: 0.16em;
   color: rgba(244,247,249,0.38);
+  transition: background 120ms, color 120ms;
 }
-.sort-btn.active { color: #F4F7F9; }
+.sort-btn:hover { color: rgba(244,247,249,0.7); }
+.sort-btn.active { background: #F4F7F9; color: #050506; }
 /* Icon-only currency switch -- a circled symbol rather than spelling out
    "Dollar"/"Euro", matching the minimal chip/sort-btn language elsewhere. */
 .currency-toggle {
