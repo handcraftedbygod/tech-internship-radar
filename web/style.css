@@ -356,11 +356,11 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 
 /* listing table */
 .table-grid-cols {
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
 }
 .table-header {
   display: grid;
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
   gap: 14px;
   align-items: center;
   padding: 10px 0;
@@ -429,7 +429,7 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 
 .listing-row {
   display: grid;
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
   gap: 14px;
   align-items: center;
   padding: 15px 0;
@@ -502,7 +502,10 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   cursor: pointer;
   font-size: 16px;
   line-height: 1;
+  /* Padding grows the click target; the matching negative margin cancels its
+     footprint so the row itself doesn't grow taller -- bigger hitbox, same layout. */
   padding: 7px;
+  margin: -7px;
   justify-self: end;
   color: rgba(244,247,249,0.3);
 }
