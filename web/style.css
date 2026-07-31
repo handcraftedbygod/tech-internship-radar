@@ -354,25 +354,24 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   75% { top: 100%; left: 0; }
   100% { top: 0; left: 0; }
 }
-/* Icon-only currency switch -- a circled symbol rather than spelling out
-   "Dollar"/"Euro", matching the minimal chip/sort-btn language elsewhere. */
+/* Small box matching the sort-btn language, right after EST. PAY since it's
+   the one control that changes that column's units. */
 .currency-toggle {
   background: none;
-  border: 1px solid rgba(244,247,249,0.22);
-  border-radius: 50%;
-  width: 20px;
-  height: 20px;
-  line-height: 1;
+  border: 1px solid rgba(244,247,249,0.16);
+  border-radius: 3px;
+  width: 22px;
+  height: 22px;
   padding: 0;
   cursor: pointer;
-  font-size: 11px;
-  color: rgba(244,247,249,0.7);
+  font-size: 10.5px;
+  color: rgba(244,247,249,0.5);
   display: inline-flex;
   align-items: center;
   justify-content: center;
   transition: border-color 140ms, color 140ms;
 }
-.currency-toggle:hover { border-color: rgba(244,247,249,0.55); color: #F4F7F9; }
+.currency-toggle:hover { border-color: rgba(244,247,249,0.4); color: #F4F7F9; }
 
 /* listing table */
 .table-grid-cols {
