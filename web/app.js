@@ -92,7 +92,7 @@ function isRemote(job) {
 // Company reputation tiers, ordered most- to least-prestigious -- the first
 // match wins. Deliberately fixed, edited-by-hand lists (there's no clean signal
 // for "notable" in the source data to derive it from), and they drive both the
-// NOTABLE badge and the pay multiplier, so a company is only ever added once.
+// FAANG/NOTABLE badge and the pay multiplier, so a company is only ever added once.
 //
 // `trading` sits above `elite` because prop-trading pay is a different scale
 // entirely (a Jane Street intern out-earns a FAANG intern roughly 2x), not
@@ -120,8 +120,12 @@ function tierFor(job) {
   return COMPANY_TIERS.find((tier) => tier.names.some((name) => company.includes(name))) || null;
 }
 
-function isNotable(job) {
-  return tierFor(job) !== null;
+// Elite-tier names get the more specific "FAANG" word instead of the generic
+// NOTABLE pill -- trading and notable tiers keep NOTABLE.
+function tierBadge(job) {
+  const tier = tierFor(job);
+  if (!tier) return null;
+  return tier.id === "elite" ? "FAANG" : "NOTABLE";
 }
 
 // A season posted for a year beyond the current one is unusually early --
@@ -287,7 +291,8 @@ function velocityFor(hours) {
 function toListing(job) {
   const flags = [];
   if (isEarly(job)) flags.push("EARLY");
-  if (isNotable(job)) flags.push("NOTABLE");
+  const badge = tierBadge(job);
+  if (badge) flags.push(badge);
   if (job.advancedDegree) flags.push("PHD");
   const listing = {
     id: job.id,
