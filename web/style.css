@@ -321,19 +321,39 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   letter-spacing: 0.18em;
   color: rgba(244,247,249,0.5);
 }
-.sort-row { display: flex; gap: 2px; font-size: 9.5px; letter-spacing: 0.16em; }
+.sort-row { display: flex; gap: 6px; font-size: 9.5px; letter-spacing: 0.16em; }
 .sort-btn {
+  position: relative;
   background: none;
-  border: none;
-  border-radius: 4px;
+  border: 1px solid rgba(244,247,249,0.16);
+  border-radius: 3px;
   padding: 5px 9px;
   cursor: pointer;
   letter-spacing: 0.16em;
   color: rgba(244,247,249,0.38);
-  transition: background 120ms, color 120ms;
+  transition: background 120ms, color 120ms, border-color 120ms;
 }
-.sort-btn:hover { color: rgba(244,247,249,0.7); }
-.sort-btn.active { background: #F4F7F9; color: #050506; }
+.sort-btn:hover { color: rgba(244,247,249,0.7); border-color: rgba(244,247,249,0.32); }
+.sort-btn.active { background: #F4F7F9; color: #050506; border-color: #F4F7F9; }
+/* A small dot orbiting the box border -- the "currently sorted by" indicator
+   the user asked for, first pass, open to iterating on the exact motion. */
+.sort-btn.active::after {
+  content: "";
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  margin: -2px;
+  border-radius: 50%;
+  background: #050506;
+  animation: sort-btn-orbit 2.4s linear infinite;
+}
+@keyframes sort-btn-orbit {
+  0% { top: 0; left: 0; }
+  25% { top: 0; left: 100%; }
+  50% { top: 100%; left: 100%; }
+  75% { top: 100%; left: 0; }
+  100% { top: 0; left: 0; }
+}
 /* Icon-only currency switch -- a circled symbol rather than spelling out
    "Dollar"/"Euro", matching the minimal chip/sort-btn language elsewhere. */
 .currency-toggle {
