@@ -356,11 +356,11 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 
 /* listing table */
 .table-grid-cols {
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
 }
 .table-header {
   display: grid;
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
   gap: 14px;
   align-items: center;
   padding: 10px 0;
@@ -429,7 +429,7 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 
 .listing-row {
   display: grid;
-  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 28px;
+  grid-template-columns: 38px 100px minmax(0,0.9fr) minmax(0,1.4fr) 116px 92px 58px 34px;
   gap: 14px;
   align-items: center;
   padding: 15px 0;
@@ -500,9 +500,9 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   background: none;
   border: none;
   cursor: pointer;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1;
-  padding: 2px;
+  padding: 7px;
   justify-self: end;
   color: rgba(244,247,249,0.3);
 }
