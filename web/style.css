@@ -484,7 +484,7 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   color: rgba(244,247,249,0.62);
   white-space: nowrap;
 }
-.row-posted { font-size: 10.5px; letter-spacing: 0.12em; text-align: right; color: rgba(244,247,249,0.42); }
+.row-posted { font-size: 9.5px; letter-spacing: 0.12em; text-align: right; color: rgba(244,247,249,0.42); }
 .row-posted.is-today { color: #F4F7F9; }
 /* Opening Velocity: a single subtle dot ahead of the POSTED text rather than
    another loud pill -- keeps the row from getting noisy while still giving a
