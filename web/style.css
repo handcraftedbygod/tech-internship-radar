@@ -372,19 +372,56 @@ input::placeholder{color:rgba(244,247,249,0.3)}
    estimate is comparing bands down the list, not reading any single one. */
 .col-pay { text-align: right; }
 .pay-note {
-  display: inline-block;
-  margin-left: 5px;
-  width: 11px;
-  height: 11px;
-  line-height: 10px;
-  text-align: center;
-  border: 1px solid rgba(244,247,249,0.28);
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 6px;
+  width: 15px;
+  height: 15px;
+  border: 1px solid rgba(244,247,249,0.3);
   border-radius: 50%;
-  font-size: 7.5px;
+  font-size: 9.5px;
   letter-spacing: 0;
+  color: rgba(244,247,249,0.6);
   cursor: help;
-  text-decoration: none;
-  vertical-align: 1px;
+  vertical-align: -3px;
+  transition: border-color 120ms, color 120ms;
+}
+.pay-note:hover, .pay-note:focus-visible {
+  border-color: rgba(244,247,249,0.7);
+  color: #F4F7F9;
+  outline: none;
+}
+/* Custom tooltip instead of the native title attribute -- styled to match
+   the site's dark card language instead of the browser's plain OS tooltip. */
+.pay-note::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 9px);
+  right: -8px;
+  width: 230px;
+  max-width: 60vw;
+  padding: 10px 12px;
+  background: #0A0A0C;
+  border: 1px solid rgba(244,247,249,0.22);
+  border-radius: 6px;
+  font-size: 10px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-transform: none;
+  white-space: normal;
+  color: rgba(244,247,249,0.85);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 120ms;
+  pointer-events: none;
+  z-index: 20;
+}
+.pay-note:hover::after, .pay-note:focus-visible::after {
+  opacity: 1;
+  visibility: visible;
 }
 
 .listing-row {
