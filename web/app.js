@@ -446,7 +446,7 @@ function renderChipRow(container, items, activeId, onSelect) {
   items.forEach((item) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "chip" + (item.id === activeId ? " active" : "");
+    btn.className = "chip" + (item.id === activeId ? " active" : "") + (item.empty ? " chip--empty" : "");
     btn.textContent = item.label;
     btn.addEventListener("click", () => onSelect(item.id));
     container.appendChild(btn);
@@ -491,6 +491,9 @@ function render() {
   const hubNames = [];
   LISTINGS.forEach((r) => { if (hubNames.indexOf(r.hub) < 0) hubNames.push(r.hub); });
 
+  const hubCounts = {};
+  inTrack.forEach((r) => { hubCounts[r.hub] = (hubCounts[r.hub] || 0) + 1; });
+
   const onHubSelect = (id) => {
     state.hub = id;
     render();
@@ -502,13 +505,20 @@ function render() {
   );
   renderChipRow(els.hubChipsBase, baseItems, state.hub, onHubSelect);
 
+  // EU/NA rows list every configured hub, not just ones with a hit in the
+  // current track -- a hub with zero listings today still renders (dashed +
+  // dimmed via chip--empty) instead of disappearing until data shows up.
   [
     { region: "eu", row: els.hubRowEu, chips: els.hubChipsEu },
     { region: "na", row: els.hubRowNa, chips: els.hubChipsNa },
   ].forEach(({ region, row, chips }) => {
-    const names = hubNames.filter((h) => HUB_REGION[h] === region);
-    row.hidden = names.length === 0;
-    renderChipRow(chips, toItems(names), state.hub, onHubSelect);
+    const items = HUBS.filter((h) => h.region === region).map((h) => ({
+      id: h.name,
+      label: h.name,
+      empty: !hubCounts[h.name],
+    }));
+    row.hidden = items.length === 0;
+    renderChipRow(chips, items, state.hub, onHubSelect);
   });
 
   // toggles
@@ -561,8 +571,6 @@ function render() {
   // signal density
   els.signalTrackLabel.textContent = trackLabel.toUpperCase();
 
-  const hubCounts = {};
-  inTrack.forEach((r) => { hubCounts[r.hub] = (hubCounts[r.hub] || 0) + 1; });
   const catCounts = {};
   inTrack.forEach((r) => { catCounts[r.category] = (catCounts[r.category] || 0) + 1; });
 
