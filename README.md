@@ -30,7 +30,7 @@ Tech Internship Radar closes that gap:
 
 - **Nightly sweeps, not weekly digests.** The pipeline runs every night. `NEW TODAY` on the
   hero means exactly that — first-seen in the last 24 hours.
-- **Signal, not spreadsheets.** `NOTABLE` flags competitive companies, `EARLY` flags listings
+- **Signal, not spreadsheets.** `FAANG`/`NOTABLE` flags competitive companies, `EARLY` flags listings
   for a hiring cycle beyond the current year (the ones almost nobody applies to yet because
   they haven't noticed), `PHD` flags advanced-degree requirements — all auto-detected from the
   title, zero manual curation lag.
@@ -51,9 +51,9 @@ Tech Internship Radar closes that gap:
 ## Features
 
 - **Internships, New Grad, and Junior in one place.** A single toggle switches the whole view.
-- Freshness badges, hiring-cycle tags (e.g. "Summer 2027" flagged `EARLY`), notable-company
-  (`NOTABLE`) and advanced-degree (`PHD`) badges — all auto-detected from job titles, no manual
-  tagging.
+- Freshness badges, hiring-cycle tags (e.g. "Summer 2027" flagged `EARLY`), company-tier
+  (`FAANG` for elite names, `NOTABLE` otherwise) and advanced-degree (`PHD`) badges — all
+  auto-detected from job titles, no manual tagging.
 - Bookmarks (`★`) and per-listing freshness, stored locally. No login, no backend, no tracking.
 - RSS feed (`feed.xml`) if you'd rather it come to you.
 - Every hub, keyword, and company lives in `config/`, so growing coverage is a data change,
