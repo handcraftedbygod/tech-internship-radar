@@ -63,8 +63,12 @@ const HUBS = [
   { name: "San Francisco", region: "na", match: ["san francisco", "bay area", "san jose", "silicon valley"] },
   { name: "Seattle", region: "na", match: ["seattle"] },
   { name: "Austin", region: "na", match: ["austin"] },
+  { name: "Boston", region: "na", match: ["boston"] },
+  { name: "Los Angeles", region: "na", match: ["los angeles"] },
+  { name: "Chicago", region: "na", match: ["chicago"] },
   { name: "Toronto", region: "na", match: ["toronto"] },
   { name: "Vancouver", region: "na", match: ["vancouver"] },
+  { name: "Montreal", region: "na", match: ["montreal", "montréal"] },
 ];
 const OTHER_HUB = "Other";
 
@@ -170,7 +174,8 @@ const HUB_BASE = {
   Zurich: 33, London: 22, Dublin: 21, Amsterdam: 19, Munich: 18, Stockholm: 17,
   Berlin: 17, Helsinki: 16, Paris: 15, Barcelona: 12, Madrid: 12, Lisbon: 10,
   Warsaw: 10, Tallinn: 10,
-  "San Francisco": 45, Seattle: 42, "New York": 42, Austin: 35, Vancouver: 30, Toronto: 30,
+  "San Francisco": 45, Seattle: 42, "New York": 42, Boston: 38, Austin: 35, "Los Angeles": 35,
+  Chicago: 32, Vancouver: 30, Toronto: 30, Montreal: 27,
 };
 
 // Off-hub listings still need a currency. Anything carrying a US/Canadian
