@@ -373,7 +373,14 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 .col-posted { text-align: right; }
 /* Right-aligned so the digits form a scannable column -- the whole point of the
    estimate is comparing bands down the list, not reading any single one. */
-.col-pay { text-align: right; }
+/* Flex instead of vertical-align -- guarantees the badge sits on the text's
+   vertical center regardless of font metrics, rather than a tuned-by-eye offset. */
+.col-pay {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-align: right;
+}
 .pay-note {
   position: relative;
   display: inline-flex;
@@ -388,7 +395,6 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   letter-spacing: 0;
   color: rgba(244,247,249,0.6);
   cursor: help;
-  vertical-align: -3px;
   transition: border-color 120ms, color 120ms;
 }
 .pay-note:hover, .pay-note:focus-visible {
