@@ -18,8 +18,12 @@
     { "city": "San Francisco", "country": "US", "adzunaCountry": "us", "aliases": ["San Francisco", "SF", "Bay Area", "San Jose", "Silicon Valley"] },
     { "city": "Seattle", "country": "US", "adzunaCountry": "us", "aliases": ["Seattle"] },
     { "city": "Austin", "country": "US", "adzunaCountry": "us", "aliases": ["Austin"] },
+    { "city": "Boston", "country": "US", "adzunaCountry": "us", "aliases": ["Boston"] },
+    { "city": "Los Angeles", "country": "US", "adzunaCountry": "us", "aliases": ["Los Angeles"] },
+    { "city": "Chicago", "country": "US", "adzunaCountry": "us", "aliases": ["Chicago"] },
     { "city": "Toronto", "country": "CA", "adzunaCountry": "ca", "aliases": ["Toronto"] },
-    { "city": "Vancouver", "country": "CA", "adzunaCountry": "ca", "aliases": ["Vancouver"] }
+    { "city": "Vancouver", "country": "CA", "adzunaCountry": "ca", "aliases": ["Vancouver"] },
+    { "city": "Montreal", "country": "CA", "adzunaCountry": "ca", "aliases": ["Montreal", "Montréal"] }
   ],
   "allowRemoteGlobal": true
 }
