@@ -301,13 +301,6 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 }
 .chip.active:hover { background: #FFFFFF; }
 
-/* Configured hub with no listings in the current track -- dashed + dimmed
-   instead of hidden, so it stays visible while empty. */
-.chip--empty {
-  border-style: dashed;
-  color: rgba(244,247,249,0.4);
-}
-
 /* result line + sort */
 .result-line {
   display: flex;
