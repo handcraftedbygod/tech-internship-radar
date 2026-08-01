@@ -200,6 +200,10 @@
     {"name":"Unstructured","source":"ashby","companyName":"unstructured"},
     {"name":"Astronomer","source":"ashby","companyName":"astronomer"},
     {"name":"Harvey","source":"ashby","companyName":"harvey"},
-    {"name":"Abridge","source":"ashby","companyName":"abridge"}
+    {"name":"Abridge","source":"ashby","companyName":"abridge"},
+
+    {"name":"Check24","source":"smartrecruiters","companyIdentifier":"Check24"},
+    {"name":"Sixt","source":"smartrecruiters","companyIdentifier":"Sixt"},
+    {"name":"Delivery Hero","source":"smartrecruiters","companyIdentifier":"DeliveryHero"}
   ]
 }

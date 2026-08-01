@@ -3,9 +3,21 @@ import greenhouse from "./greenhouse.ts";
 import lever from "./lever.ts";
 import ashby from "./ashby.ts";
 import workday from "./workday.ts";
+import smartrecruiters from "./smartrecruiters.ts";
 import adzuna from "./adzuna.ts";
 import arbeitnow from "./arbeitnow.ts";
 import remotive from "./remotive.ts";
+import themuse from "./themuse.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
-export const fetchers: Fetcher[] = [greenhouse, lever, ashby, workday, adzuna, arbeitnow, remotive];
+export const fetchers: Fetcher[] = [
+  greenhouse,
+  lever,
+  ashby,
+  workday,
+  smartrecruiters,
+  adzuna,
+  arbeitnow,
+  remotive,
+  themuse,
+];

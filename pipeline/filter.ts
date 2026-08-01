@@ -32,12 +32,16 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
   return categories;
 }
 
-// adzuna/arbeitnow/remotive are all-industry job boards with no tech filter
-// of their own -- "internship" as a search term surfaces nursing, retail,
-// hospitality, etc. just as readily as software roles. greenhouse/lever/
-// ashby/workday postings come from config/companies.json, a hand-curated
-// tech company list, so they're already tech-scoped and skip this gate.
-const BROAD_SOURCES = new Set(["adzuna", "arbeitnow", "remotive"]);
+// adzuna/arbeitnow/remotive/themuse are all-industry job boards with no tech
+// filter of their own -- "internship" as a search term surfaces nursing,
+// retail, hospitality, etc. just as readily as software roles. smartrecruiters
+// is curated via config/companies.json like greenhouse/lever/ashby/workday,
+// but (unlike those) its typical customer is a large mixed-workforce employer
+// (e.g. Sixt, Delivery Hero) where most postings are ops/retail/commercial,
+// not tech -- so it gets gated too. greenhouse/lever/ashby/workday postings
+// come from companies picked because the *whole* board is tech, so they skip
+// this gate.
+const BROAD_SOURCES = new Set(["adzuna", "arbeitnow", "remotive", "smartrecruiters", "themuse"]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
   if (!BROAD_SOURCES.has(job.source)) return true;
