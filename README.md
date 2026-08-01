@@ -58,8 +58,8 @@ Tech Internship Radar closes that gap:
 - RSS feed (`feed.xml`) if you'd rather it come to you.
 - Every hub, keyword, and company lives in `config/`, so growing coverage is a data change,
   not a code change — see [Contributing](#contributing) below.
-- Sources: Greenhouse, Lever, Ashby, Workday, and SmartRecruiters' public job board APIs for a
-  curated company list, plus the Adzuna, Arbeitnow, Remotive, and The Muse job APIs.
+- Sources: Greenhouse, Lever, Ashby, Workday, SmartRecruiters, and Recruitee's public job board
+  APIs for a curated company list, plus the Adzuna, Arbeitnow, Remotive, and The Muse job APIs.
 
 ## How it works
 
@@ -84,10 +84,11 @@ it did get, so one bad source can't break the run.
   { "name": "Example Co", "source": "ashby", "companyName": "examplecoslug" }
   { "name": "Example Co", "source": "workday", "endpointUrl": "https://<tenant>.wdN.myworkdayjobs.com/wday/cxs/<tenant>/<site>/jobs" }
   { "name": "Example Co", "source": "smartrecruiters", "companyIdentifier": "examplecoslug" }
+  { "name": "Example Co", "source": "recruitee", "subdomain": "examplecoslug" }
   ```
   A wrong slug just 404s that one company for a run (visible in `pipeline-summary.md`). Note
-  SmartRecruiters postings still pass through the tech-gate keyword filter (see
-  `config/keywords.json`) since its typical customer is a large mixed-workforce employer, not a
+  SmartRecruiters and Recruitee postings still pass through the tech-gate keyword filter (see
+  `config/keywords.json`) since their typical customer is a large mixed-workforce employer, not a
   pure tech company — unlike Greenhouse/Lever/Ashby/Workday boards, which skip that gate.
 - **Max listing age**: `config/settings.json` → `maxAgeDays` (default 7)
 
@@ -106,7 +107,8 @@ npx serve web
 
 Missing your target company, or a hub that isn't covered yet? Adding one is a one-line PR to
 `config/companies.json` or `config/locations.json` — no code required. If your company has a
-Greenhouse, Lever, Ashby, Workday, or SmartRecruiters board, it can be in the next nightly sweep.
+Greenhouse, Lever, Ashby, Workday, SmartRecruiters, or Recruitee board, it can be in the next
+nightly sweep.
 
 If this saved you from missing a deadline — or just means one less tab to check — **starring
 the repo is the easiest way to help it reach the next person scrambling through job boards at

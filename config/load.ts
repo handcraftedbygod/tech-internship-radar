@@ -33,7 +33,7 @@ export interface LocationsConfig {
 
 export type CompanyEntry = {
   name: string;
-  source: "greenhouse" | "lever" | "ashby" | "workday" | "smartrecruiters";
+  source: "greenhouse" | "lever" | "ashby" | "workday" | "smartrecruiters" | "recruitee";
 } & Record<string, unknown>;
 
 export interface CompaniesConfig {

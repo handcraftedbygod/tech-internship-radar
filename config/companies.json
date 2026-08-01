@@ -204,6 +204,9 @@
 
     {"name":"Check24","source":"smartrecruiters","companyIdentifier":"Check24"},
     {"name":"Sixt","source":"smartrecruiters","companyIdentifier":"Sixt"},
-    {"name":"Delivery Hero","source":"smartrecruiters","companyIdentifier":"DeliveryHero"}
+    {"name":"Delivery Hero","source":"smartrecruiters","companyIdentifier":"DeliveryHero"},
+
+    {"name":"Channable","source":"recruitee","subdomain":"channable"},
+    {"name":"bunq","source":"recruitee","subdomain":"bunq"}
   ]
 }
