@@ -1,11 +1,14 @@
-import { writeFileSync, appendFileSync } from "node:fs";
+import { writeFileSync, appendFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { fetchAll } from "./fetch.ts";
 import { filterJobs } from "./filter.ts";
 import { dedupe } from "./dedupe.ts";
 import { storeJobs, pruneStale } from "./store.ts";
 import { exportJson } from "./export.ts";
+import { fetchYcHiring } from "./ycHiring.ts";
 import { loadKeywords, loadLocations, loadSettings, loadTiers } from "../config/load.ts";
+
+const YC_OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "yc.json");
 
 async function main() {
   const { results, jobs: rawJobs } = await fetchAll();
@@ -22,6 +25,10 @@ async function main() {
   const { deleted, archived } = pruneStale(settings.maxAgeDays, undefined, archiveNames);
   const exportedCount = exportJson();
 
+  const yc = await fetchYcHiring();
+  mkdirSync(path.dirname(YC_OUT_PATH), { recursive: true });
+  writeFileSync(YC_OUT_PATH, JSON.stringify(yc.companies, null, 2));
+
   const summaryLines = [
     "## Pipeline run summary",
     "",
@@ -30,6 +37,7 @@ async function main() {
     ...results.map((r) => `| ${r.source} | ${r.jobs.length} | ${r.error ?? "-"} |`),
     "",
     `Matched internships after filter+dedupe: **${deduped.length}** (pruned stale: ${deleted}, archived: ${archived}, exported: ${exportedCount})`,
+    `YC startups hiring (Europe): **${yc.companies.length}**${yc.error ? ` (error: ${yc.error})` : ""}`,
   ];
   const summary = summaryLines.join("\n");
 

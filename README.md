@@ -56,6 +56,10 @@ Tech Internship Radar closes that gap:
   auto-detected from job titles, no manual tagging.
 - Bookmarks (`★`) and per-listing freshness, stored locally. No login, no backend, no tracking.
 - RSS feed (`feed.xml`) if you'd rather it come to you.
+- **YC startups hiring**, Europe-tagged and newest-launched first, sourced from the
+  [yc-oss/api](https://github.com/yc-oss/api) mirror of YC's company directory. It's a company
+  directory, not job listings — YC doesn't expose per-role posting data publicly — so each row
+  links out to the company's YC page rather than an apply URL.
 - Every hub, keyword, and company lives in `config/`, so growing coverage is a data change,
   not a code change — see [Contributing](#contributing) below.
 - Sources: Greenhouse, Lever, Ashby, Workday, SmartRecruiters, and Recruitee's public job board

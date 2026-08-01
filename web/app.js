@@ -398,6 +398,8 @@ const els = {
   footerSweep: document.getElementById("footer-sweep"),
   missedSection: document.getElementById("missed-it"),
   missedList: document.getElementById("missed-list"),
+  ycSection: document.getElementById("yc-hiring"),
+  ycList: document.getElementById("yc-list"),
   currencyToggle: document.getElementById("currency-toggle"),
   currencyGlyph: document.querySelector("#currency-toggle .currency-glyph"),
 };
@@ -708,4 +710,34 @@ fetch("./data/closed.json")
   .then((data) => renderMissedIt(data))
   .catch(() => {
     els.missedSection.hidden = true;
+  });
+
+// YC startups currently hiring, Europe-tagged (see pipeline/ycHiring.ts) --
+// a company directory, not job listings: yc-oss/api has no per-role data,
+// so each row links out to the company's YC page rather than an apply URL.
+function renderYc(companies) {
+  if (!companies || companies.length === 0) {
+    els.ycSection.hidden = true;
+    return;
+  }
+  els.ycSection.hidden = false;
+  els.ycList.innerHTML = companies
+    .map(
+      (c) => `
+        <a class="yc-row" href="${escapeHtml(c.url)}" target="_blank" rel="noreferrer">
+          <span class="yc-batch">${escapeHtml(c.batch)}</span>
+          <span class="yc-company">${escapeHtml(c.name)}</span>
+          <span class="yc-liner">${escapeHtml(c.oneLiner)}</span>
+          <span class="yc-loc">${escapeHtml(c.location)}</span>
+          <span class="yc-arrow" aria-hidden="true">&#8599;</span>
+        </a>`,
+    )
+    .join("");
+}
+
+fetch("./data/yc.json")
+  .then((res) => res.json())
+  .then((data) => renderYc(data))
+  .catch(() => {
+    els.ycSection.hidden = true;
   });
