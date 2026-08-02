@@ -32,8 +32,8 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
   return categories;
 }
 
-// adzuna/arbeitnow/remotive/themuse are all-industry job boards with no tech
-// filter of their own -- "internship" as a search term surfaces nursing,
+// adzuna/arbeitnow/remotive/themuse/eures are all-industry job boards with no
+// tech filter of their own -- "internship" as a search term surfaces nursing,
 // retail, hospitality, etc. just as readily as software roles.
 // smartrecruiters/recruitee are curated via config/companies.json like
 // greenhouse/lever/ashby/workday, but (unlike those) their typical customer
@@ -48,6 +48,7 @@ const BROAD_SOURCES = new Set([
   "smartrecruiters",
   "recruitee",
   "themuse",
+  "eures",
 ]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {

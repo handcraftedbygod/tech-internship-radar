@@ -9,6 +9,7 @@ import adzuna from "./adzuna.ts";
 import arbeitnow from "./arbeitnow.ts";
 import remotive from "./remotive.ts";
 import themuse from "./themuse.ts";
+import eures from "./eures.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
 export const fetchers: Fetcher[] = [
@@ -22,4 +23,5 @@ export const fetchers: Fetcher[] = [
   arbeitnow,
   remotive,
   themuse,
+  eures,
 ];
