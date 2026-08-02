@@ -368,6 +368,16 @@ let LISTINGS = [];
 
 const DEFAULT_TRACK = "intern";
 
+// Rows render in pages of PAGE_SIZE rather than all at once, so the page
+// doesn't force a long scroll past signal density / missed it / yc hiring
+// just to reach them. visibleCount resets to PAGE_SIZE whenever the filter
+// signature changes (track/category/hub/remote/saved/search/sort) but not
+// on unrelated re-renders (currency toggle, saving a star), so "load more"
+// state survives those.
+const PAGE_SIZE = 20;
+let visibleCount = PAGE_SIZE;
+let lastFilterKey = "";
+
 const els = {
   trackTabs: document.getElementById("track-tabs"),
   search: document.getElementById("search"),
@@ -396,6 +406,8 @@ const els = {
   statSweep: document.getElementById("stat-sweep"),
   globeSigma: document.getElementById("globe-sigma"),
   footerSweep: document.getElementById("footer-sweep"),
+  loadMoreRow: document.getElementById("load-more-row"),
+  loadMore: document.getElementById("load-more"),
   missedSection: document.getElementById("missed-it"),
   missedList: document.getElementById("missed-list"),
   ycSection: document.getElementById("yc-hiring"),
@@ -477,6 +489,12 @@ function render() {
   else if (state.sort === "pay") rows = rows.slice().sort((a, b) => b.pay.usdMid - a.pay.usdMid || a.daysAgo - b.daysAgo);
   else rows = rows.slice().sort((a, b) => a.daysAgo - b.daysAgo);
 
+  const filterKey = JSON.stringify([track, state.cat, state.hub, state.remoteOnly, state.savedOnly, q, state.sort]);
+  if (filterKey !== lastFilterKey) {
+    visibleCount = PAGE_SIZE;
+    lastFilterKey = filterKey;
+  }
+
   // track tabs
   renderTrackTabs();
 
@@ -539,8 +557,9 @@ function render() {
   // result line
   els.resultCount.textContent = pad2(rows.length) + " OF " + pad2(inTrack.length) + " " + trackLabel.toUpperCase();
 
-  // rows
+  // rows -- only the current page renders; "load more" extends visibleCount
   els.rows.innerHTML = rows
+    .slice(0, visibleCount)
     .map((r, i) => {
       const flags = (r.remote ? ["REMOTE"] : []).concat(r.flags);
       const saved = !!state.saved[r.id];
@@ -562,6 +581,10 @@ function render() {
     .join("");
 
   els.emptyState.hidden = rows.length !== 0;
+
+  const remaining = rows.length - visibleCount;
+  els.loadMoreRow.hidden = remaining <= 0;
+  if (remaining > 0) els.loadMore.textContent = `LOAD MORE (${remaining})`;
 
   // signal density
   els.signalTrackLabel.textContent = trackLabel.toUpperCase();
@@ -629,6 +652,11 @@ els.remoteToggle.addEventListener("click", () => {
 
 els.savedToggle.addEventListener("click", () => {
   state.savedOnly = !state.savedOnly;
+  render();
+});
+
+els.loadMore.addEventListener("click", () => {
+  visibleCount += PAGE_SIZE;
   render();
 });
 

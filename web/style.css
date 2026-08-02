@@ -545,6 +545,12 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 }
 .row-save.saved { color: #F4F7F9; }
 
+/* load more -- caps the initial row render so the page doesn't force a long
+   scroll past signal density / missed it / yc hiring just to reach them */
+.load-more-row { text-align: center; padding: 4px 0 16px; }
+.load-more-row[hidden] { display: none; }
+.load-more-row .reset-btn { margin-top: 8px; }
+
 /* empty state */
 .empty-state { padding: 72px 0; text-align: center; }
 .empty-dots {
