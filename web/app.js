@@ -303,6 +303,7 @@ function toListing(job) {
     id: job.id,
     hub: hubFor(job),
     company: job.company,
+    companySlug: job.companySlug,
     role: job.title,
     category: categoryFor(job),
     track: trackFor(job),
@@ -311,6 +312,7 @@ function toListing(job) {
     remote: isRemote(job),
     flags,
     url: job.url,
+    firstSeenAt: job.firstSeenAt,
   };
   listing.pay = estimatePay(job, listing);
   return listing;
@@ -333,6 +335,21 @@ function persistSaved(saved) {
   try {
     localStorage.setItem(SAVED_KEY, JSON.stringify(saved));
   } catch {}
+}
+
+// Company-level watchlist -- same shape as SAVED_KEY but keyed by companySlug
+// instead of listing id. No accounts, no backend, single device: a deliberate
+// scope boundary, not a gap. Duplicated in company.js (where the watch toggle
+// lives) rather than shared -- same tradeoff as tierForCompany()/COMPANY_TIERS.
+const WATCHING_KEY = "radar.watching";
+
+function loadWatching() {
+  try {
+    const raw = localStorage.getItem(WATCHING_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch {
+    return {};
+  }
 }
 
 const CURRENCY_KEY = "radar.currency";
@@ -414,6 +431,7 @@ const els = {
   ycList: document.getElementById("yc-list"),
   currencyToggle: document.getElementById("currency-toggle"),
   currencyGlyph: document.querySelector("#currency-toggle .currency-glyph"),
+  watchBanner: document.getElementById("watch-banner"),
 };
 
 function posted(d) {
@@ -570,7 +588,7 @@ function render() {
         <div class="listing-row">
           <span class="row-no">${pad2(i + 1)}</span>
           <span class="row-hub">${escapeHtml(r.hub)}</span>
-          <span class="row-company" title="${escapeHtml(r.company)}">${escapeHtml(r.company)}</span>
+          <a class="row-company" href="company.html?slug=${encodeURIComponent(r.companySlug || "")}" title="${escapeHtml(r.company)}">${escapeHtml(r.company)}</a>
           <a href="${escapeHtml(r.url)}" target="_blank" rel="noreferrer" class="row-role">${escapeHtml(r.role)}</a>
           <span class="row-signal">${flags.map((f) => `<span class="signal-pill">${escapeHtml(f)}</span>`).join("")}</span>
           <span class="row-pay${r.pay.loose ? " is-loose" : ""}" title="Estimated — ${escapeHtml(r.pay.basis)}">${escapeHtml(formatPay(r.pay, state.currency))}<span class="pay-unit">/h</span></span>
@@ -693,11 +711,31 @@ els.rows.addEventListener("click", (e) => {
   render();
 });
 
+// Runs once on load, independent of the filter/render cycle -- diffs the
+// watchlist against today's listings client-side, no backend, no accounts.
+function renderWatchBanner() {
+  if (!els.watchBanner) return;
+  const watching = loadWatching();
+  const watchedSlugs = Object.keys(watching).filter((s) => watching[s]);
+  const postedToday = new Set(
+    LISTINGS.filter((r) => r.companySlug && watchedSlugs.includes(r.companySlug) && hoursAgo(r.firstSeenAt) < 24).map(
+      (r) => r.companySlug,
+    ),
+  );
+  if (postedToday.size === 0) {
+    els.watchBanner.hidden = true;
+    return;
+  }
+  els.watchBanner.hidden = false;
+  els.watchBanner.textContent = `${postedToday.size} watched compan${postedToday.size === 1 ? "y" : "ies"} posted today`;
+}
+
 fetch("./data/jobs.json")
   .then((res) => res.json())
   .then((data) => {
     LISTINGS = data.map(toListing);
     render();
+    renderWatchBanner();
   })
   .catch(() => {
     els.resultCount.textContent = "Failed to load listings.";

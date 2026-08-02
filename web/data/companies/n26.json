@@ -1,0 +1,68 @@
+{
+  "slug": "n26",
+  "name": "N26",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-07-07T23:12:31.455Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 2
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2cea4a0c0c95b81d9a7f53a48defa2f31a24a48c",
+      "title": "Junior Backend Engineer - Customer Identity",
+      "url": "https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    },
+    {
+      "id": "64cd9e3c336162c252007d27019fb3fb211ca6b1",
+      "title": "Internal Audit Working Student",
+      "url": "https://n26.com/en-eu/careers/positions/8041239?gh_jid=8041239",
+      "location": "Berlin",
+      "firstSeenAt": "2026-07-16T06:15:31.956Z"
+    },
+    {
+      "id": "068d50c0c4aa358aa68167ca56912bc396daea93",
+      "title": "Working Student - OCC Team",
+      "url": "https://n26.com/en-eu/careers/positions/8025772?gh_jid=8025772",
+      "location": "Berlin",
+      "firstSeenAt": "2026-07-07T23:12:31.455Z"
+    }
+  ]
+}

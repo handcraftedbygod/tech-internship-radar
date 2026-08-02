@@ -1,0 +1,64 @@
+{
+  "slug": "wolt",
+  "name": "Wolt",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-07-28T06:25:31.354Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2f32404442684ef1a1ef82e4877bb19d0dcf5e87",
+      "title": "Intern - Compliance (w/m/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/7984530",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-07-29T06:29:39.313Z"
+    },
+    {
+      "id": "c5d14244efd4f5ba60b4aeae9b64332d1ad04412",
+      "title": "Marketing Intern – Restaurant Partnerships (w/m/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/7996619",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-07-28T06:25:31.354Z"
+    },
+    {
+      "id": "b0e09731136c59c354fd3623452d485cfd688a96",
+      "title": "Marketing Intern – New Verticals & Retail Partnerships (w/m/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/7995173",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-07-28T06:25:31.354Z"
+    }
+  ]
+}

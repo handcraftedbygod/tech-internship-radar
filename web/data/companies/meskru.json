@@ -1,0 +1,52 @@
+{
+  "slug": "meskru",
+  "name": "MESKRU GmbH",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-07-29T06:29:39.313Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d0c7a983b59143e1286c811ffb4af74637c9c733",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-210840",
+      "location": "Munich",
+      "firstSeenAt": "2026-08-01T06:27:37.497Z"
+    },
+    {
+      "id": "5331c0d589d1260fe79e5fc0eb28419c16595104",
+      "title": "Software Developer (Junior) - Java, Groovy, ScriptRunner, JavaScript/TypeScript, Forge (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
+      "location": "Munich",
+      "firstSeenAt": "2026-07-29T06:29:39.313Z"
+    }
+  ]
+}

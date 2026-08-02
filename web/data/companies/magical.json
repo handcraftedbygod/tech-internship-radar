@@ -1,0 +1,45 @@
+{
+  "slug": "magical",
+  "name": "Magical",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-07-26T06:34:48.431Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1ec4c6f6ec8f34800d744b7736498c8a5974afd9",
+      "title": "New Graduate Software Engineer",
+      "url": "https://www.adzuna.ca/details/5815557705?utm_medium=api&utm_source=9141e2e6",
+      "location": "Toronto, Ontario",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    }
+  ]
+}

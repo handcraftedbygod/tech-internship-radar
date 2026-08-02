@@ -1,0 +1,56 @@
+{
+  "slug": "block",
+  "name": "Block",
+  "tier": "notable",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-07-22T22:03:05.155Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "77c6ce4710d07f0f157dcb9f7cdbee79b352fb0d",
+      "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+      "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+      "location": "Bay Area, CA, United States of America",
+      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+    },
+    {
+      "id": "05ffb66d9b6b3d7254e1d9341874f2e696586a6a",
+      "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+      "url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+      "location": "Toronto, Ontario , Canada",
+      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+    }
+  ]
+}

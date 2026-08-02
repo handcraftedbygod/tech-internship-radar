@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Company — Tech Internship Radar</title>
+  <meta name="description" content="Per-company hiring stats — Tech Internship Radar." />
+  <meta name="robots" content="noindex" />
+
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="favicon.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dot-field" aria-hidden="true"></div>
+
+  <div class="page">
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span>TECH INTERNSHIP RADAR</span>
+      </div>
+      <nav class="topnav">
+        <a href="index.html">&larr; RADAR</a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="page">
+    <div id="company-header" class="company-header" hidden>
+      <div class="eyebrow-row">
+        <span id="company-tier-label">COMPANY</span>
+        <span class="dotted-rule dotted-rule--short" aria-hidden="true"></span>
+        <span id="company-tracked-since"></span>
+      </div>
+      <div class="company-title-row">
+        <h1 class="hero-title company-title" id="company-name"></h1>
+        <button id="watch-toggle" type="button" class="watch-toggle" hidden>&#9734; WATCH</button>
+      </div>
+
+      <div class="stat-strip">
+        <div class="stat-cell">
+          <div class="stat-label">CURRENT OPENINGS</div>
+          <div class="stat-value" id="company-stat-openings">00</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-label">TOTAL POSTINGS</div>
+          <div class="stat-value" id="company-stat-total">00</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-label">FIRST TRACKED</div>
+          <div class="stat-value" id="company-stat-first">&mdash;</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-label">AVG POSTING DAYS</div>
+          <div class="stat-value" id="company-stat-duration">&mdash;</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="company-notfound" class="empty-state" hidden>
+      <div class="empty-dots" aria-hidden="true"></div>
+      <div class="empty-title">No signal</div>
+      <div class="empty-sub">No tracked history for this company yet.</div>
+      <a href="index.html" class="reset-btn">BACK TO RADAR</a>
+    </div>
+
+    <div id="company-signal" class="signal-section" hidden>
+      <div class="signal-heading">
+        <span class="signal-title">Where they hire</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label">FULL HISTORY</span>
+      </div>
+      <div class="signal-cols">
+        <div class="signal-col">
+          <div class="signal-col-label">TOP LOCATIONS</div>
+          <div id="company-location-bars"></div>
+        </div>
+        <div class="signal-col">
+          <div class="signal-col-label">TOP DISCIPLINES</div>
+          <div id="company-discipline-bars"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="company-months-section" class="signal-section" hidden>
+      <div class="signal-heading">
+        <span class="signal-title">Hiring months</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label">BY FIRST-SEEN MONTH</span>
+      </div>
+      <div class="signal-cols">
+        <div class="signal-col" style="grid-column: 1 / -1">
+          <div id="company-month-bars"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="company-recent-section" class="missed-section" hidden>
+      <div class="signal-heading">
+        <span class="signal-title">Recent postings</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label">LAST SEEN</span>
+      </div>
+      <div id="company-recent-list" class="missed-list"></div>
+    </div>
+  </div>
+
+  <div class="dot-band" aria-hidden="true"></div>
+
+  <div class="footer-wrap">
+    <div class="page footer">
+      <span>TECH INTERNSHIP RADAR — OPEN SOURCE, NO SIGN-UP</span>
+      <div class="footer-links">
+        <a href="index.html">RADAR</a>
+        <a href="https://github.com/handcraftedbygod/tech-internship-radar" target="_blank" rel="noreferrer">GITHUB</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="company.js"></script>
+</body>
+</html>

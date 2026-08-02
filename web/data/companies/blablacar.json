@@ -1,0 +1,45 @@
+{
+  "slug": "blablacar",
+  "name": "BlaBlaCar",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-07-31T06:42:23.386Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "869183c7df2cf28e21e0cdc5f79e69cf52c7ee16",
+      "title": "Junior Backend Engineer - Care",
+      "url": "https://jobs.lever.co/blablacar/80099b9d-1cca-4c55-af23-b81ba074b7a3",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-07-31T06:42:23.386Z"
+    }
+  ]
+}

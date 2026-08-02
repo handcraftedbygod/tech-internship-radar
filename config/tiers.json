@@ -1,6 +1,5 @@
 {
-  "description": "Company reputation tiers, ordered most- to least-prestigious; the first match wins. Matching is case-insensitive substring against the company name. Tiers drive the NOTABLE badge, the estimated-pay multiplier, and which closed listings are archived for the 'Missed It' section (see archiveTiers below).",
-  "archiveTiers": ["trading", "elite"],
+  "description": "Company reputation tiers, ordered most- to least-prestigious; the first match wins. Matching is case-insensitive substring against the company name. Tiers drive the NOTABLE badge, the estimated-pay multiplier, and which companies' closures surface in the 'Missed It' section (see MISSED_IT_TIERS in pipeline/export.ts).",
   "tiers": [
     {
       "id": "trading",

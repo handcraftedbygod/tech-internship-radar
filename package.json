@@ -16,6 +16,7 @@
   },
   "scripts": {
     "pipeline": "node --experimental-strip-types pipeline/run.ts",
+    "weekly-report": "node --experimental-strip-types pipeline/weeklyReport.ts",
     "test": "node --experimental-strip-types --test pipeline/*.test.ts fetchers/*.test.ts",
     "typecheck": "tsc --noEmit"
   },

@@ -1,0 +1,56 @@
+{
+  "slug": "carta",
+  "name": "Carta",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-07-26T06:34:48.431Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Seattle",
+      "count": 1
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6b0b97220ef79b007bc07948f61837e04cd5d3eb",
+      "title": "Junior Paralegal, Contracts",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7801309003",
+      "location": "Toronto, Ontario, Canada",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    },
+    {
+      "id": "7e3baef0abb9be36ae4d25d4ba374e4163ffa5c0",
+      "title": "Junior Paralegal, Contracts",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7801725003",
+      "location": "Hamilton, NJ; Seattle,WA; Sandy,UT",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "ticketbro",
+  "name": "ticketbro",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-07-26T06:34:48.431Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "00e3c809c7b5dad44d80d14110279886c28b1e5f",
+      "title": "Junior Fullstack Engineer (m/w/d) - Festanstellung, Vollzeit München",
+      "url": "https://www.arbeitnow.com/jobs/companies/ticketbro/junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
+      "location": "Munich",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    }
+  ]
+}

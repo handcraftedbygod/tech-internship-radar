@@ -52,7 +52,6 @@ export interface CompanyTier {
 
 export interface TiersConfig {
   description?: string;
-  archiveTiers: string[];
   tiers: CompanyTier[];
 }
 
@@ -75,6 +74,13 @@ export function loadSettings(): SettingsConfig {
 
 export function loadTiers(): TiersConfig {
   return readJson<TiersConfig>("tiers.json");
+}
+
+// Normalized raw-company-string -> canonical display name, for companies whose
+// name varies across sources (e.g. "Meta Careers" vs "Meta"). Starts sparse --
+// populate as real duplicates are observed (SELECT DISTINCT company FROM jobs).
+export function loadCompanyAliases(): Record<string, string> {
+  return readJson<Record<string, string>>("companyAliases.json");
 }
 
 // Case-insensitive substring match against the company name, first tier wins.

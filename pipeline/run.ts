@@ -6,7 +6,7 @@ import { dedupe } from "./dedupe.ts";
 import { storeJobs, pruneStale } from "./store.ts";
 import { exportJson } from "./export.ts";
 import { fetchYcHiring } from "./ycHiring.ts";
-import { loadKeywords, loadLocations, loadSettings, loadTiers } from "../config/load.ts";
+import { loadKeywords, loadLocations, loadSettings } from "../config/load.ts";
 
 const YC_OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "yc.json");
 
@@ -15,14 +15,11 @@ async function main() {
   const keywords = loadKeywords();
   const locations = loadLocations();
   const settings = loadSettings();
-  const { archiveTiers, tiers } = loadTiers();
 
   const filtered = filterJobs(rawJobs, keywords, locations, settings);
   const deduped = dedupe(filtered);
   storeJobs(deduped);
-  // Only the gated tiers survive pruning as archived "Missed It" rows.
-  const archiveNames = tiers.filter((t) => archiveTiers.includes(t.id)).flatMap((t) => t.names);
-  const { deleted, archived } = pruneStale(settings.maxAgeDays, undefined, archiveNames);
+  const { archived } = pruneStale(settings.maxAgeDays);
   const exportedCount = exportJson();
 
   const yc = await fetchYcHiring();
@@ -36,7 +33,7 @@ async function main() {
     "| --- | --- | --- |",
     ...results.map((r) => `| ${r.source} | ${r.jobs.length} | ${r.error ?? "-"} |`),
     "",
-    `Matched internships after filter+dedupe: **${deduped.length}** (pruned stale: ${deleted}, archived: ${archived}, exported: ${exportedCount})`,
+    `Matched internships after filter+dedupe: **${deduped.length}** (archived: ${archived}, exported: ${exportedCount})`,
     `YC startups hiring (Europe): **${yc.companies.length}**${yc.error ? ` (error: ${yc.error})` : ""}`,
   ];
   const summary = summaryLines.join("\n");

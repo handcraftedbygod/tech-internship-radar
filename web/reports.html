@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weekly Reports — Tech Internship Radar</title>
+  <meta name="description" content="Weekly hiring stats — Tech Internship Radar." />
+
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="favicon.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dot-field" aria-hidden="true"></div>
+
+  <div class="page">
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span>TECH INTERNSHIP RADAR</span>
+      </div>
+      <nav class="topnav">
+        <a href="index.html">&larr; RADAR</a>
+      </nav>
+    </div>
+  </div>
+
+  <div class="page">
+    <div class="signal-section" style="padding-top: clamp(40px,7vw,72px)">
+      <div class="signal-heading">
+        <span class="signal-title">Weekly reports</span>
+        <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
+        <span class="signal-track-label">EVERY SUNDAY</span>
+      </div>
+    </div>
+
+    <div id="reports-empty" class="empty-state" hidden>
+      <div class="empty-dots" aria-hidden="true"></div>
+      <div class="empty-title">No signal</div>
+      <div class="empty-sub">No weekly reports have run yet.</div>
+    </div>
+
+    <div id="reports-list" class="report-cards"></div>
+  </div>
+
+  <div class="dot-band" aria-hidden="true"></div>
+
+  <div class="footer-wrap">
+    <div class="page footer">
+      <span>TECH INTERNSHIP RADAR — OPEN SOURCE, NO SIGN-UP</span>
+      <div class="footer-links">
+        <a href="index.html">RADAR</a>
+        <a href="data/reports.json">JSON</a>
+        <a href="https://github.com/handcraftedbygod/tech-internship-radar" target="_blank" rel="noreferrer">GITHUB</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="reports.js"></script>
+</body>
+</html>

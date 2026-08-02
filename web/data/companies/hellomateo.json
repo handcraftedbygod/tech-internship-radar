@@ -1,0 +1,52 @@
+{
+  "slug": "hellomateo",
+  "name": "hellomateo",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-07-22T22:03:05.155Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bb1953e3657f450fdf44d161e2799dcb8b486d85",
+      "title": "Customer Success Werkstudent (m/w/d) - Software Startup",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/customer-success-werkstudent-software-startup-berlin-50416",
+      "location": "Berlin",
+      "firstSeenAt": "2026-07-24T06:24:20.152Z"
+    },
+    {
+      "id": "f52f8bc31e6b8ce183b530b86343c83716d02acc",
+      "title": "Customer Success Internship (m/w/d) - Software Startup",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellomateo/customer-success-internship-software-startup-berlin-445277",
+      "location": "Berlin",
+      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+    }
+  ]
+}

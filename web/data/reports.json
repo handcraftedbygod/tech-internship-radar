@@ -1,0 +1,62 @@
+[
+  {
+    "weekOf": "2026-07-26",
+    "newCount": 32,
+    "prevWeekCount": 28,
+    "pctChange": 14.3,
+    "topHubs": [
+      {
+        "hub": "Berlin",
+        "count": 10
+      },
+      {
+        "hub": "Munich",
+        "count": 8
+      },
+      {
+        "hub": "Other",
+        "count": 4
+      },
+      {
+        "hub": "Madrid",
+        "count": 4
+      },
+      {
+        "hub": "Chicago",
+        "count": 2
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "count": 7
+      },
+      {
+        "slug": "wolt",
+        "name": "Wolt",
+        "count": 3
+      },
+      {
+        "slug": "meskru",
+        "name": "MESKRU GmbH",
+        "count": 2
+      },
+      {
+        "slug": "check24",
+        "name": "Check24",
+        "count": 2
+      },
+      {
+        "slug": "pacemaker",
+        "name": "Pacemaker",
+        "count": 1
+      }
+    ],
+    "fastestGrowingDiscipline": {
+      "id": "ai",
+      "label": "Data / AI",
+      "pctChange": 200
+    }
+  }
+]

@@ -3,7 +3,14 @@ name: Update job data
 on:
   schedule:
     - cron: "0 4 * * *"
+    # Sunday, 1h after the daily run, so that run's jobs.db is already pushed.
+    - cron: "0 5 * * 0"
   workflow_dispatch:
+    inputs:
+      run_weekly:
+        description: "Force the weekly report job (for testing outside Sunday)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -11,6 +18,7 @@ permissions:
 
 jobs:
   update:
+    if: github.event.schedule != '0 5 * * 0'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -35,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.db web/data/jobs.json
+          git add data/jobs.db web/data web/feed.xml web/feed.html
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -48,6 +56,44 @@ jobs:
       # workflows (GitHub suppresses that to avoid recursive runs), so
       # pages.yml's `on: push` wouldn't fire for this commit. Trigger it
       # directly instead.
+      - name: Trigger Pages deploy
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run pages.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  weekly-report:
+    if: github.event.schedule == '0 5 * * 0' || inputs.run_weekly == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - run: npm ci
+
+      - run: npm run weekly-report
+
+      - name: Write report summary
+        if: always()
+        run: cat weekly-report-draft.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit report
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/data/reports.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: weekly report $(date -u +%F)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Trigger Pages deploy
         if: steps.commit.outputs.changed == 'true'
         run: gh workflow run pages.yml

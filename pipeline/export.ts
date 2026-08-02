@@ -1,10 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { openDb } from "./store.ts";
+import { loadTiers, tierForCompany, loadCompanyAliases } from "../config/load.ts";
+import { companySlug, buildCompanySummaries, type CompanyJobRow } from "./company.ts";
 
 const OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "jobs.json");
 const CLOSED_PATH = path.join(import.meta.dirname, "..", "web", "data", "closed.json");
 const META_PATH = path.join(import.meta.dirname, "..", "web", "data", "meta.json");
+const COMPANIES_DIR = path.join(import.meta.dirname, "..", "web", "data", "companies");
 const FEED_PATH = path.join(import.meta.dirname, "..", "web", "feed.xml");
 const FEED_HTML_PATH = path.join(import.meta.dirname, "..", "web", "feed.html");
 const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
@@ -149,8 +152,16 @@ interface ClosedRow {
 // scroll -- newest closures first, since those are the most relevant misses.
 const CLOSED_LIMIT = 20;
 
+// Every closed listing is retained in the DB now (see pruneStale() in
+// store.ts), but "Missed It" stays curated to top-tier companies -- gating
+// at "notable" was tried and buried enviable misses (Databricks, Stripe)
+// under routine closures (see .hermes/plans backlog notes).
+const MISSED_IT_TIERS = ["trading", "elite"];
+
 export function exportJson(): number {
   const db = openDb();
+  const { tiers } = loadTiers();
+  const aliases = loadCompanyAliases();
   try {
     // Archived ("Missed It") rows are deliberately retained in the table but are
     // not live listings, so they're excluded here. They get their own export
@@ -168,6 +179,7 @@ export function exportJson(): number {
         id: row.id,
         title: row.title,
         company: row.company,
+        companySlug: companySlug(row.company, aliases),
         location: row.location,
         country: row.country,
         url: row.url,
@@ -180,21 +192,41 @@ export function exportJson(): number {
         firstSeenAt: row.first_seen_at,
       }));
 
-    // "Missed It" -- archived (closed) rows from the gated tiers, newest-first,
-    // capped. Only the fields the UI needs; no need to carry categories/tags
-    // for a listing that can no longer be applied to.
+    // "Missed It" -- archived (closed) rows from top-tier companies,
+    // newest-first, capped. Only the fields the UI needs; no need to carry
+    // categories/tags for a listing that can no longer be applied to.
     const closedRows = db
       .prepare(
-        "SELECT id, title, company, location, closed_at FROM jobs WHERE closed_at IS NOT NULL ORDER BY closed_at DESC LIMIT ?",
+        "SELECT id, title, company, location, closed_at FROM jobs WHERE closed_at IS NOT NULL ORDER BY closed_at DESC",
       )
-      .all(CLOSED_LIMIT) as unknown as ClosedRow[];
-    const closed = closedRows.map((row) => ({
-      id: row.id,
-      title: row.title,
-      company: row.company,
-      location: row.location,
-      closedAt: row.closed_at,
-    }));
+      .all() as unknown as ClosedRow[];
+    const closed = closedRows
+      .filter((row) => {
+        const tier = tierForCompany(row.company, tiers);
+        return tier !== null && MISSED_IT_TIERS.includes(tier.id);
+      })
+      .slice(0, CLOSED_LIMIT)
+      .map((row) => ({
+        id: row.id,
+        title: row.title,
+        company: row.company,
+        companySlug: companySlug(row.company, aliases),
+        location: row.location,
+        closedAt: row.closed_at,
+      }));
+
+    // Company pages -- one JSON per company (not one aggregate blob), so a
+    // page fetches only its own stats instead of every company's, and the
+    // file doesn't grow unbounded as aggregator noise accumulates. Built from
+    // the FULL history (both live and archived rows), unlike jobs/closed.json.
+    const allRows = db
+      .prepare("SELECT id, title, company, location, url, first_seen_at, closed_at FROM jobs")
+      .all() as unknown as CompanyJobRow[];
+    const summaries = buildCompanySummaries(allRows, tiers, aliases);
+    mkdirSync(COMPANIES_DIR, { recursive: true });
+    for (const summary of summaries) {
+      writeFileSync(path.join(COMPANIES_DIR, `${summary.slug}.json`), JSON.stringify(summary, null, 2));
+    }
 
     mkdirSync(path.dirname(OUT_PATH), { recursive: true });
     writeFileSync(OUT_PATH, JSON.stringify(jobs, null, 2));

@@ -73,6 +73,17 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   color: rgba(244,247,249,0.5);
 }
 
+/* watchlist banner -- local-only, see WATCHING_KEY in app.js. No [hidden]
+   override needed: this class sets no display of its own, so the native
+   [hidden] behavior applies untouched. */
+.watch-banner {
+  padding: 12px 0;
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  color: rgba(244,247,249,0.78);
+  border-bottom: 1px solid rgba(244,247,249,0.1);
+}
+
 /* hero */
 .hero {
   display: grid;
@@ -690,6 +701,32 @@ input::placeholder{color:rgba(244,247,249,0.3)}
     grid-column: 2;
   }
 }
+
+/* company page */
+.company-header { padding: clamp(40px,7vw,72px) 0 clamp(24px,4vw,40px); }
+.company-title-row { display: flex; align-items: baseline; gap: 20px; flex-wrap: wrap; }
+.company-title { font-size: clamp(38px,6vw,72px); margin: 10px 0 0; }
+.watch-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: transparent;
+  border: 1px solid rgba(244,247,249,0.2);
+  padding: 8px 14px;
+  font-size: 10.5px;
+  letter-spacing: 0.14em;
+  color: rgba(244,247,249,0.66);
+  cursor: pointer;
+  transition: background 140ms, color 140ms, border-color 140ms;
+}
+.watch-toggle:hover { border-color: rgba(244,247,249,0.5); color: #F4F7F9; }
+.watch-toggle.is-watching { background: #F4F7F9; color: #050506; border-color: #F4F7F9; }
+.watch-toggle.is-watching:hover { background: #FFFFFF; }
+.watch-toggle[hidden] { display: none; }
+
+/* weekly reports */
+.report-cards { display: flex; flex-direction: column; gap: clamp(40px,6vw,64px); padding-bottom: clamp(48px,7vw,88px); }
+.report-card + .report-card { padding-top: clamp(40px,6vw,64px); border-top: 1px solid rgba(244,247,249,0.1); }
 
 /* dot band */
 .dot-band {

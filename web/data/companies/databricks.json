@@ -1,0 +1,64 @@
+{
+  "slug": "databricks",
+  "name": "Databricks",
+  "tier": "elite",
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-07-22T22:03:05.155Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e3484f3590a8556fced35fadac55919583641341",
+      "title": "Associate Product Manager, New Grad (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "firstSeenAt": "2026-07-24T18:21:15.798Z"
+    },
+    {
+      "id": "9d67545b91f9d7178dd22e5c49a3fe047154e17c",
+      "title": "Product Management Intern (Summer 2027)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+    },
+    {
+      "id": "43d2da2a3811a7df88d4ff66de38e8bfab7c51bc",
+      "title": "PhD GenAI Research Scientist Intern",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+      "location": "San Francisco, California",
+      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+    }
+  ]
+}

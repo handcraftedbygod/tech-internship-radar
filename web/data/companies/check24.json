@@ -1,0 +1,56 @@
+{
+  "slug": "check24",
+  "name": "Check24",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-02T06:33:18.541Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e1ceced8d024a625b44327bd431e343c5a02f03e",
+      "title": "Werkstudent (m/w/d) Data Analyst - Internet ",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000139998229",
+      "location": "München, Bayern, Germany",
+      "firstSeenAt": "2026-08-02T06:33:18.541Z"
+    },
+    {
+      "id": "ebf1bb7eaa87b8dc87af7d8654e63607f005389c",
+      "title": "(Junior) Fullstack Engineer (m/f/d) for a New Product – PHP Focus",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000140864123",
+      "location": "Berlin, Land Berlin, Germany",
+      "firstSeenAt": "2026-08-02T06:33:18.541Z"
+    }
+  ]
+}

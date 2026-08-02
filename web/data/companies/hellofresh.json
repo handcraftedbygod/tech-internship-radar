@@ -1,0 +1,86 @@
+{
+  "slug": "hellofresh",
+  "name": "HelloFresh",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-07-22T06:26:06.326Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8a314c35c4e231a89d41e66fd3aa577677179abb",
+      "title": "Operations and Campaign Junior Manager - Retail Media",
+      "url": "https://careers.hellofresh.com/global/en/job/8050739?gh_jid=8050739",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-07-28T06:25:31.354Z"
+    },
+    {
+      "id": "f4cb9c9b44b392ddd553ddbdac83d381acb239e6",
+      "title": "(Junior) People Business Partner (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8053360?gh_jid=8053360",
+      "location": "Verden, Niedersachsen, Germany",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    },
+    {
+      "id": "4796a9d39f956a5fdbe3635892ba0b34019814a8",
+      "title": "Junior Growth Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/7953647?gh_jid=7953647",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    },
+    {
+      "id": "dc563428b891f3a3f1decdc21147788a55a10dbc",
+      "title": "Junior Affiliate Marketing Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/8066662?gh_jid=8066662",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-07-26T06:34:48.431Z"
+    },
+    {
+      "id": "5580bcb1e62016c3d74a0cc3557cb37c234bbf56",
+      "title": "Fleet Performance Improvement Intern (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8076713?gh_jid=8076713",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-07-22T06:26:06.326Z"
+    }
+  ]
+}

@@ -36,33 +36,39 @@ function withTempDb(fn: (dbPath: string) => void): void {
   }
 }
 
-test("pruneStale deletes rows not re-seen within maxAgeDays", () => {
+test("pruneStale archives rows not re-seen within maxAgeDays", () => {
   withTempDb((dbPath) => {
     const stale = job({ id: "stale", fetchedAt: "2020-01-01T00:00:00.000Z" });
     storeJobs([stale], dbPath);
 
-    const { deleted } = pruneStale(7, dbPath);
-    assert.equal(deleted, 1);
+    const { archived } = pruneStale(7, dbPath);
+    assert.equal(archived, 1);
 
     const db = openDb(dbPath);
+    const row = db.prepare("SELECT closed_at FROM jobs WHERE id = 'stale'").get() as {
+      closed_at: string | null;
+    };
     const remaining = db.prepare("SELECT COUNT(*) as c FROM jobs").get() as { c: number };
     db.close();
-    assert.equal(remaining.c, 0);
+    assert.ok(row.closed_at, "expected closed_at to be stamped");
+    assert.equal(remaining.c, 1, "row must survive -- nothing is ever deleted");
   });
 });
 
-test("pruneStale keeps rows re-seen within maxAgeDays", () => {
+test("pruneStale keeps rows re-seen within maxAgeDays live", () => {
   withTempDb((dbPath) => {
     const fresh = job({ id: "fresh", fetchedAt: new Date().toISOString() });
     storeJobs([fresh], dbPath);
 
-    const { deleted } = pruneStale(7, dbPath);
-    assert.equal(deleted, 0);
+    const { archived } = pruneStale(7, dbPath);
+    assert.equal(archived, 0);
 
     const db = openDb(dbPath);
-    const remaining = db.prepare("SELECT COUNT(*) as c FROM jobs").get() as { c: number };
+    const row = db.prepare("SELECT closed_at FROM jobs WHERE id = 'fresh'").get() as {
+      closed_at: string | null;
+    };
     db.close();
-    assert.equal(remaining.c, 1);
+    assert.equal(row.closed_at, null);
   });
 });
 
@@ -98,61 +104,6 @@ test("migrates a pre-existing DB that lacks the newer columns", () => {
   });
 });
 
-test("pruneStale archives stale listings from gated companies instead of deleting", () => {
-  withTempDb((dbPath) => {
-    const stale = job({
-      id: "gated",
-      company: "Jane Street",
-      fetchedAt: "2020-01-01T00:00:00.000Z",
-    });
-    storeJobs([stale], dbPath);
-
-    const { deleted, archived } = pruneStale(7, dbPath, ["Jane Street"]);
-    assert.equal(archived, 1);
-    assert.equal(deleted, 0);
-
-    const db = openDb(dbPath);
-    const row = db.prepare("SELECT closed_at FROM jobs WHERE id = 'gated'").get() as {
-      closed_at: string | null;
-    };
-    db.close();
-    assert.ok(row.closed_at, "expected closed_at to be stamped");
-  });
-});
-
-test("pruneStale matches gated companies case-insensitively on a substring", () => {
-  withTempDb((dbPath) => {
-    // Real listings carry suffixes ("Stripe Payments Europe"), so the gate has
-    // to match loosely the way tierForCompany() does.
-    const stale = job({
-      id: "suffixed",
-      company: "STRIPE Payments Europe Ltd",
-      fetchedAt: "2020-01-01T00:00:00.000Z",
-    });
-    storeJobs([stale], dbPath);
-
-    const { archived, deleted } = pruneStale(7, dbPath, ["Stripe"]);
-    assert.equal(archived, 1);
-    assert.equal(deleted, 0);
-  });
-});
-
-test("pruneStale still deletes stale listings from non-gated companies", () => {
-  withTempDb((dbPath) => {
-    const stale = job({ id: "ungated", company: "Acme", fetchedAt: "2020-01-01T00:00:00.000Z" });
-    storeJobs([stale], dbPath);
-
-    const { deleted, archived } = pruneStale(7, dbPath, ["Jane Street"]);
-    assert.equal(deleted, 1);
-    assert.equal(archived, 0);
-
-    const db = openDb(dbPath);
-    const remaining = db.prepare("SELECT COUNT(*) as c FROM jobs").get() as { c: number };
-    db.close();
-    assert.equal(remaining.c, 0);
-  });
-});
-
 test("an archived listing that gets reposted leaves the archive", () => {
   withTempDb((dbPath) => {
     const listing = job({
@@ -161,7 +112,7 @@ test("an archived listing that gets reposted leaves the archive", () => {
       fetchedAt: "2020-01-01T00:00:00.000Z",
     });
     storeJobs([listing], dbPath);
-    assert.equal(pruneStale(7, dbPath, ["Databricks"]).archived, 1);
+    assert.equal(pruneStale(7, dbPath).archived, 1);
 
     // Same listing seen again on a later run -- it's live, so closed_at clears.
     storeJobs([{ ...listing, fetchedAt: new Date().toISOString() }], dbPath);
@@ -183,7 +134,7 @@ test("pruneStale does not re-stamp an already-archived listing", () => {
       fetchedAt: "2020-01-01T00:00:00.000Z",
     });
     storeJobs([stale], dbPath);
-    pruneStale(7, dbPath, ["Palantir"]);
+    pruneStale(7, dbPath);
 
     const db = openDb(dbPath);
     const first = (db.prepare("SELECT closed_at FROM jobs WHERE id = 'once'").get() as {
@@ -193,7 +144,7 @@ test("pruneStale does not re-stamp an already-archived listing", () => {
 
     // A second run must be a no-op: closed_at is the date it *closed*, so
     // re-stamping would make every archived listing look freshly closed.
-    const { archived } = pruneStale(7, dbPath, ["Palantir"]);
+    const { archived } = pruneStale(7, dbPath);
     assert.equal(archived, 0);
 
     const db2 = openDb(dbPath);

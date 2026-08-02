@@ -133,52 +133,26 @@ export function storeJobs(jobs: Job[], dbPath: string = DB_PATH): void {
 // fetcher (taken down, or now rejected by a tightened filter.ts/keywords.json
 // rule, e.g. the tech-relevance gate) keeps its last row forever, since
 // nothing ever deletes it. exportJson() dumps the whole table, so that dead
-// row would show up in jobs.json indefinitely. Prune anything not re-seen in
-// the last maxAgeDays -- a still-live posting gets last_seen_at refreshed
-// every run, so only truly stale/rejected rows are ever older than that.
-//
-// Exception: listings from archiveTiers companies (config/tiers.json) are
-// stamped with closed_at instead of deleted, so the site can show a "closed
-// recently" section. Only the top tiers qualify -- gating lower would bury the
-// genuinely enviable misses under routine listings, and the archive would grow
-// without bound. Returns both counts so the run summary can report them.
+// row would show up in jobs.json indefinitely. Anything not re-seen in the
+// last maxAgeDays is stamped closed_at instead of deleted -- a still-live
+// posting gets last_seen_at refreshed every run, so only truly stale/rejected
+// rows are ever older than that. Nothing is ever deleted: this table is the
+// full historical archive every job ever seen, not just the current listings
+// (exportJson() filters live-vs-closed at export time instead).
 export interface PruneResult {
-  deleted: number;
   archived: number;
 }
 
-export function pruneStale(
-  maxAgeDays: number,
-  dbPath: string = DB_PATH,
-  archiveNames: string[] = [],
-): PruneResult {
+export function pruneStale(maxAgeDays: number, dbPath: string = DB_PATH): PruneResult {
   const db = new DatabaseSync(dbPath);
   try {
     db.exec(SCHEMA);
     migrate(db);
     const cutoff = new Date(Date.now() - maxAgeDays * 24 * 60 * 60 * 1000).toISOString();
-
-    // Substring match on company, mirroring tierForCompany() in config/load.ts.
-    // Built as OR'd LIKE clauses so the matching stays in SQL rather than
-    // pulling every stale row into JS just to filter it.
-    let archived = 0;
-    if (archiveNames.length > 0) {
-      const clause = archiveNames.map(() => "LOWER(company) LIKE ?").join(" OR ");
-      const params = archiveNames.map((n) => `%${n.toLowerCase()}%`);
-      const result = db
-        .prepare(
-          `UPDATE jobs SET closed_at = ? WHERE last_seen_at < ? AND closed_at IS NULL AND (${clause})`,
-        )
-        .run(new Date().toISOString(), cutoff, ...params);
-      archived = Number(result.changes);
-    }
-
-    // Anything still stale after archiving wasn't gated, so it goes for good.
-    // Archived rows are excluded -- they're intentionally kept.
     const result = db
-      .prepare("DELETE FROM jobs WHERE last_seen_at < ? AND closed_at IS NULL")
-      .run(cutoff);
-    return { deleted: Number(result.changes), archived };
+      .prepare("UPDATE jobs SET closed_at = ? WHERE last_seen_at < ? AND closed_at IS NULL")
+      .run(new Date().toISOString(), cutoff);
+    return { archived: Number(result.changes) };
   } finally {
     db.close();
   }
