@@ -63,6 +63,11 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   border-radius: 50%;
   background: #F4F7F9;
   display: inline-block;
+  animation: brand-dot-pulse 2.4s ease-in-out infinite;
+}
+@keyframes brand-dot-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(244,247,249,0.5), 0 0 5px 1px rgba(244,247,249,0.55); }
+  50% { box-shadow: 0 0 0 5px rgba(244,247,249,0), 0 0 10px 3px rgba(244,247,249,0.3); }
 }
 .topnav {
   display: flex;
