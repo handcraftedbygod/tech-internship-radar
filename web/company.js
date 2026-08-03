@@ -22,6 +22,12 @@ function persistWatching(watching) {
   } catch {}
 }
 
+// Mirrors app.js's watchLabel() -- slug has no stored display name, so
+// title-case it back for the panel list.
+function watchLabel(slug) {
+  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
 const MONTH_LABELS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
 
 const els = {
@@ -42,7 +48,50 @@ const els = {
   monthBars: document.getElementById("company-month-bars"),
   recentList: document.getElementById("company-recent-list"),
   watchToggle: document.getElementById("watch-toggle"),
+  watchingToggle: document.getElementById("watching-toggle"),
+  watchingPanel: document.getElementById("watching-panel"),
+  watchingList: document.getElementById("watching-list"),
 };
+
+function renderWatchingPanel() {
+  if (!els.watchingToggle) return;
+  const watching = loadWatching();
+  const slugs = Object.keys(watching).filter((s) => watching[s]).sort();
+  els.watchingToggle.textContent = "WATCHING " + pad2(slugs.length);
+  els.watchingList.innerHTML = slugs.length
+    ? slugs
+        .map(
+          (s) => `
+          <div class="watching-row">
+            <a href="company.html?slug=${encodeURIComponent(s)}">${escapeHtml(watchLabel(s))}</a>
+            <button type="button" class="watching-unwatch" data-slug="${escapeHtml(s)}" title="Stop watching">&times;</button>
+          </div>`,
+        )
+        .join("")
+    : '<div class="watching-empty">Not watching any companies yet — open a company page to start.</div>';
+}
+
+if (els.watchingToggle) {
+  renderWatchingPanel();
+  els.watchingToggle.addEventListener("click", () => {
+    els.watchingPanel.hidden = !els.watchingPanel.hidden;
+    if (!els.watchingPanel.hidden) renderWatchingPanel();
+  });
+  els.watchingPanel.addEventListener("click", (e) => {
+    const btn = e.target.closest(".watching-unwatch");
+    if (!btn) return;
+    const current = loadWatching();
+    delete current[btn.dataset.slug];
+    persistWatching(current);
+    renderWatchingPanel();
+    if (els.watchToggle && !els.watchToggle.hidden) renderWatchToggle(slug);
+  });
+  document.addEventListener("click", (e) => {
+    if (els.watchingPanel.hidden) return;
+    if (els.watchingPanel.contains(e.target) || e.target === els.watchingToggle) return;
+    els.watchingPanel.hidden = true;
+  });
+}
 
 function pad2(n) {
   return String(n).padStart(2, "0");
@@ -91,6 +140,7 @@ function renderWatchToggle(slug) {
     else current[slug] = 1;
     persistWatching(current);
     renderWatchToggle(slug);
+    renderWatchingPanel();
   };
 }
 

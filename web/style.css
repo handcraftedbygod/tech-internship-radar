@@ -42,6 +42,7 @@ input::placeholder{color:rgba(244,247,249,0.3)}
 
 /* top bar */
 .topbar {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -77,6 +78,69 @@ a.brand { text-decoration: none; }
   font-size: 10.5px;
   letter-spacing: 0.16em;
   color: rgba(244,247,249,0.5);
+}
+.topnav button {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  letter-spacing: inherit;
+  color: #F4F7F9;
+  cursor: pointer;
+}
+.topnav button:hover { color: #FFFFFF; }
+
+/* company-watching panel -- toggled from the topnav so watched companies are
+   discoverable from anywhere, not only inferred from the (often-hidden)
+   "posted today" banner. See WATCHING_KEY. */
+.watching-panel {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  width: 260px;
+  max-width: calc(100vw - 36px);
+  background: #0A0A0C;
+  border: 1px solid rgba(244,247,249,0.18);
+  padding: 14px 16px;
+  z-index: 30;
+}
+.watching-panel[hidden] { display: none; }
+.watching-panel-title {
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: rgba(244,247,249,0.4);
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(244,247,249,0.12);
+}
+.watching-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 7px 0;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+.watching-row + .watching-row { border-top: 1px solid rgba(244,247,249,0.06); }
+.watching-row a { color: rgba(244,247,249,0.82); }
+.watching-row a:hover { color: #FFFFFF; }
+.watching-unwatch {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: rgba(244,247,249,0.35);
+  font-size: 14px;
+  line-height: 1;
+  padding: 2px 4px;
+}
+.watching-unwatch:hover { color: #F4F7F9; }
+.watching-empty {
+  font-size: 10.5px;
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+  color: rgba(244,247,249,0.42);
 }
 
 /* watchlist banner -- local-only, see WATCHING_KEY in app.js. No [hidden]

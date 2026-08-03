@@ -352,6 +352,20 @@ function loadWatching() {
   }
 }
 
+function persistWatching(watching) {
+  try {
+    localStorage.setItem(WATCHING_KEY, JSON.stringify(watching));
+  } catch {}
+}
+
+// companySlug has no stored display name (only the alias-normalized slug),
+// so the watching panel title-cases the slug back into something readable.
+// Loses casing nuance (e.g. "IBM" -> "Ibm") -- acceptable for a list label,
+// since the link target (the company page) shows the real name.
+function watchLabel(slug) {
+  return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
 const CURRENCY_KEY = "radar.currency";
 
 function loadCurrency() {
@@ -432,6 +446,9 @@ const els = {
   currencyToggle: document.getElementById("currency-toggle"),
   currencyGlyph: document.querySelector("#currency-toggle .currency-glyph"),
   watchBanner: document.getElementById("watch-banner"),
+  watchingToggle: document.getElementById("watching-toggle"),
+  watchingPanel: document.getElementById("watching-panel"),
+  watchingList: document.getElementById("watching-list"),
 };
 
 function posted(d) {
@@ -728,6 +745,50 @@ function renderWatchBanner() {
   }
   els.watchBanner.hidden = false;
   els.watchBanner.textContent = `${postedToday.size} watched compan${postedToday.size === 1 ? "y" : "ies"} posted today`;
+}
+
+// Renders the watched-companies list into the topnav dropdown -- the only
+// place to see what's on the watchlist, independent of whether the banner
+// above has anything to show today. Runs off localStorage alone so it works
+// before (and regardless of) the jobs.json fetch.
+function renderWatchingPanel() {
+  if (!els.watchingToggle) return;
+  const watching = loadWatching();
+  const slugs = Object.keys(watching).filter((s) => watching[s]).sort();
+  els.watchingToggle.textContent = "WATCHING " + pad2(slugs.length);
+  els.watchingList.innerHTML = slugs.length
+    ? slugs
+        .map(
+          (slug) => `
+          <div class="watching-row">
+            <a href="company.html?slug=${encodeURIComponent(slug)}">${escapeHtml(watchLabel(slug))}</a>
+            <button type="button" class="watching-unwatch" data-slug="${escapeHtml(slug)}" title="Stop watching">&times;</button>
+          </div>`,
+        )
+        .join("")
+    : '<div class="watching-empty">Not watching any companies yet — open a company page to start.</div>';
+}
+
+if (els.watchingToggle) {
+  renderWatchingPanel();
+  els.watchingToggle.addEventListener("click", () => {
+    els.watchingPanel.hidden = !els.watchingPanel.hidden;
+    if (!els.watchingPanel.hidden) renderWatchingPanel();
+  });
+  els.watchingPanel.addEventListener("click", (e) => {
+    const btn = e.target.closest(".watching-unwatch");
+    if (!btn) return;
+    const current = loadWatching();
+    delete current[btn.dataset.slug];
+    persistWatching(current);
+    renderWatchingPanel();
+    renderWatchBanner();
+  });
+  document.addEventListener("click", (e) => {
+    if (els.watchingPanel.hidden) return;
+    if (els.watchingPanel.contains(e.target) || e.target === els.watchingToggle) return;
+    els.watchingPanel.hidden = true;
+  });
 }
 
 fetch("./data/jobs.json")
