@@ -136,6 +136,22 @@ function renderCompany(summary) {
   }
 }
 
+// Real "back," not just a link to index.html -- restores the previous
+// page's scroll position and filter state via bfcache, same as the browser's
+// own back button, instead of resetting to a fresh load.
+function smartBack(e) {
+  e.preventDefault();
+  if (history.length > 1 && document.referrer && document.referrer.indexOf(location.origin) === 0) {
+    history.back();
+  } else {
+    location.href = "index.html";
+  }
+}
+const backLink = document.getElementById("back-link");
+const brandLink = document.getElementById("brand-link");
+if (backLink) backLink.addEventListener("click", smartBack);
+if (brandLink) brandLink.addEventListener("click", smartBack);
+
 const slug = new URLSearchParams(location.search).get("slug");
 
 if (!slug) {

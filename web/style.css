@@ -57,6 +57,7 @@ input::placeholder{color:rgba(244,247,249,0.3)}
   letter-spacing: 0.2em;
   color: rgba(244,247,249,0.72);
 }
+a.brand { text-decoration: none; }
 .brand-dot {
   width: 7px;
   height: 7px;

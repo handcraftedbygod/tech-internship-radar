@@ -63,6 +63,19 @@ function reportCardHtml(report) {
     </div>`;
 }
 
+function smartBack(e) {
+  e.preventDefault();
+  if (history.length > 1 && document.referrer && document.referrer.indexOf(location.origin) === 0) {
+    history.back();
+  } else {
+    location.href = "index.html";
+  }
+}
+const backLink = document.getElementById("back-link");
+const brandLink = document.getElementById("brand-link");
+if (backLink) backLink.addEventListener("click", smartBack);
+if (brandLink) brandLink.addEventListener("click", smartBack);
+
 fetch("./data/reports.json")
   .then((res) => res.json())
   .then((reports) => {
