@@ -13,6 +13,7 @@ import eures from "./eures.ts";
 import remoteok from "./remoteok.ts";
 import vanshb03 from "./vanshinternships.ts";
 import cvrve from "./cvrvenewgrad.ts";
+import usajobs from "./usajobs.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
 export const fetchers: Fetcher[] = [
@@ -30,4 +31,5 @@ export const fetchers: Fetcher[] = [
   remoteok,
   vanshb03,
   cvrve,
+  usajobs,
 ];

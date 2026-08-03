@@ -32,11 +32,14 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
   return categories;
 }
 
-// adzuna/arbeitnow/remotive/themuse/eures/remoteok are all-industry job boards
-// with no tech filter of their own -- "internship" as a search term surfaces
-// nursing, retail, hospitality, etc. just as readily as software roles
-// (confirmed live for remoteok: its /api feed includes e.g. a music-designer
-// posting alongside dev roles).
+// adzuna/arbeitnow/remotive/themuse/eures/remoteok/usajobs are all-industry
+// job boards with no tech filter of their own -- "internship" as a search
+// term surfaces nursing, retail, hospitality, etc. just as readily as
+// software roles (confirmed live for remoteok: its /api feed includes e.g. a
+// music-designer posting alongside dev roles). usajobs.ts already scopes its
+// query to tech Keyword terms server-side, but gets gated too as
+// defense-in-depth since a federal agency's "software" match can still pull
+// in e.g. procurement-of-software-systems admin roles.
 // smartrecruiters/recruitee are curated via config/companies.json like
 // greenhouse/lever/ashby/workday, but (unlike those) their typical customer
 // is a large mixed-workforce employer (e.g. Sixt, Delivery Hero, bunq) where
@@ -57,6 +60,7 @@ const BROAD_SOURCES = new Set([
   "themuse",
   "eures",
   "remoteok",
+  "usajobs",
 ]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
