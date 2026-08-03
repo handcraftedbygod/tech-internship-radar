@@ -32,15 +32,22 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
   return categories;
 }
 
-// adzuna/arbeitnow/remotive/themuse/eures are all-industry job boards with no
-// tech filter of their own -- "internship" as a search term surfaces nursing,
-// retail, hospitality, etc. just as readily as software roles.
+// adzuna/arbeitnow/remotive/themuse/eures/remoteok are all-industry job boards
+// with no tech filter of their own -- "internship" as a search term surfaces
+// nursing, retail, hospitality, etc. just as readily as software roles
+// (confirmed live for remoteok: its /api feed includes e.g. a music-designer
+// posting alongside dev roles).
 // smartrecruiters/recruitee are curated via config/companies.json like
 // greenhouse/lever/ashby/workday, but (unlike those) their typical customer
 // is a large mixed-workforce employer (e.g. Sixt, Delivery Hero, bunq) where
 // most postings are ops/retail/legal/commercial, not tech -- so they get
 // gated too. greenhouse/lever/ashby/workday postings come from companies
 // picked because the *whole* board is tech, so they skip this gate.
+// vanshb03/cvrve skip the gate despite being external/crowdsourced: they're
+// submission-curated to tech/CS/quant/PM internships and new-grad roles by
+// the source repo itself (same division of labor as config/companies.json,
+// just crowdsourced instead of hand-picked) -- gating them would drop the
+// PM/quant roles that are part of what the list is for.
 const BROAD_SOURCES = new Set([
   "adzuna",
   "arbeitnow",
@@ -49,6 +56,7 @@ const BROAD_SOURCES = new Set([
   "recruitee",
   "themuse",
   "eures",
+  "remoteok",
 ]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
@@ -109,7 +117,13 @@ function matchesLocation(job: RawJob, locations: LocationsConfig): boolean {
       (job.country && job.country.toUpperCase() === hub.country),
   );
   if (hubMatch) return true;
-  return locations.allowRemoteGlobal && /europe|\beu\b|north america|\b(usa|us|ca)\b/.test(text);
+  // "canada"/"remote" added after the vanshb03/cvrve community lists showed real
+  // entries with location text of just "Canada" or "Remote" -- no city, no "USA"/
+  // "US"/"CA" token, so the existing alternation silently dropped them.
+  return (
+    locations.allowRemoteGlobal &&
+    /europe|\beu\b|north america|canada|remote|\b(usa|us|ca)\b/.test(text)
+  );
 }
 
 export function filterJobs(

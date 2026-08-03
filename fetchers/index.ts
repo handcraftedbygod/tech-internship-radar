@@ -10,6 +10,9 @@ import arbeitnow from "./arbeitnow.ts";
 import remotive from "./remotive.ts";
 import themuse from "./themuse.ts";
 import eures from "./eures.ts";
+import remoteok from "./remoteok.ts";
+import vanshb03 from "./vanshinternships.ts";
+import cvrve from "./cvrvenewgrad.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
 export const fetchers: Fetcher[] = [
@@ -24,4 +27,7 @@ export const fetchers: Fetcher[] = [
   remotive,
   themuse,
   eures,
+  remoteok,
+  vanshb03,
+  cvrve,
 ];

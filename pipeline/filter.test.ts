@@ -158,6 +158,26 @@ test("keeps remote-North America jobs when allowRemoteGlobal is true", () => {
   assert.equal(result.length, 1);
 });
 
+test("keeps a bare 'Remote' location with no country/region qualifier", () => {
+  const result = filterJobs(
+    [job({ title: "Praktikum", location: "Remote" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+});
+
+test("keeps a bare 'Canada' location with no city", () => {
+  const result = filterJobs(
+    [job({ title: "Praktikum", location: "Canada" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+});
+
 test("drops jobs older than settings.maxAgeDays", () => {
   const staleDate = new Date(Date.now() - 10 * 24 * 60 * 60 * 1000).toISOString();
   const result = filterJobs(
