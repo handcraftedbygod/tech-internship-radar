@@ -2,9 +2,9 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Barcelona",
       "count": 1
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "biz",
@@ -36,13 +40,20 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e3c7146bfb8634ac2b20db0079b4e3b35887580",
+      "title": "KYCO Intern",
+      "url": "https://n26.com/en-eu/careers/positions/8009935?gh_jid=8009935",
+      "location": "Madrid",
+      "firstSeenAt": "2026-08-03T06:58:28.460Z"
+    },
     {
       "id": "2cea4a0c0c95b81d9a7f53a48defa2f31a24a48c",
       "title": "Junior Backend Engineer - Customer Identity",

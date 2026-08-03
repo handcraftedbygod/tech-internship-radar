@@ -1,0 +1,52 @@
+{
+  "slug": "almedia",
+  "name": "Almedia",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-03T06:58:28.460Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5c8f9e77bd0ccd9e40e6ca20497ab667b1aff33e",
+      "title": "Junior Backend Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-backend-engineer-berlin-91141",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-03T06:58:28.460Z"
+    },
+    {
+      "id": "d2d234f943a91a25925c51cf7e37912fa10768c0",
+      "title": "Junior Frontend Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-frontend-engineer-berlin-358337",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-03T06:58:28.460Z"
+    }
+  ]
+}
