@@ -19,6 +19,16 @@ see today's listings, apply, close the tab.
   <img src="docs/screenshots/hero.png" alt="Tech Internship Radar — hero" width="100%" />
 </p>
 
+## What makes this different
+
+✓ Nightly hiring intelligence — not a weekly digest
+✓ Watch a company and get flagged the moment they post — no polling, no email digest lag
+✓ Full hiring history for every tracked company, one click away
+✓ Estimates pay even when the listing doesn't publish one
+✓ Flags early hiring seasons (next year's roles, tagged before anyone's looking)
+✓ Archives "Missed It" roles at top-tier companies instead of deleting them
+✓ No account, no tracking, no framework — just a fast static page
+
 ## Why this exists
 
 Internship hunting is a speed game. The best roles at the companies everyone wants — Stripe,
@@ -48,6 +58,18 @@ Tech Internship Radar closes that gap:
   <img src="docs/screenshots/listings.png" alt="Tech Internship Radar — listing table" width="100%" />
 </p>
 
+Watch a company and its full hiring history is one click away:
+
+<p align="center">
+  <img src="docs/screenshots/company.png" alt="Tech Internship Radar — company page" width="100%" />
+</p>
+
+A weekly market snapshot, generated straight from the pipeline, every Sunday:
+
+<p align="center">
+  <img src="docs/screenshots/reports.png" alt="Tech Internship Radar — weekly report" width="100%" />
+</p>
+
 ## Features
 
 - **Internships, New Grad, and Junior in one place.** A single toggle switches the whole view.
@@ -60,10 +82,20 @@ Tech Internship Radar closes that gap:
   [yc-oss/api](https://github.com/yc-oss/api) mirror of YC's company directory. It's a company
   directory, not job listings — YC doesn't expose per-role posting data publicly — so each row
   links out to the company's YC page rather than an apply URL.
+- **Company pages.** Every tracked company gets its own page — tier, hub, tracked-since date,
+  and its full posting history in one place.
+- **Watchlist.** Watch a company from its page and a banner tells you the moment it posts
+  something new. Stored on your device — no account, no email.
+- **Weekly reports**, every Sunday: new-listing counts, week-over-week change, the hottest hubs
+  and companies, and the fastest-growing discipline.
 - Every hub, keyword, and company lives in `config/`, so growing coverage is a data change,
   not a code change — see [Contributing](#contributing) below.
 - Sources: Greenhouse, Lever, Ashby, Workday, SmartRecruiters, and Recruitee's public job board
-  APIs for a curated company list, plus the Adzuna, Arbeitnow, Remotive, and The Muse job APIs.
+  APIs for a curated company list, plus Adzuna, Arbeitnow, Remotive, The Muse, EURES (the EU's
+  official cross-border job portal), Remote OK, USAJOBS (US federal Pathways internships and
+  Recent Graduates postings), and the community-maintained
+  [vanshb03/Summer-Internships](https://github.com/vanshb03/Summer2027-Internships) and
+  [New-Grad](https://github.com/vanshb03/New-Grad-2027) listings for US/Canada coverage.
 
 ## How it works
 
@@ -75,7 +107,24 @@ per source)     + recency + season,                                             
 ```
 
 Each fetcher never throws. A dead or failing source reports an error but returns whatever jobs
-it did get, so one bad source can't break the run.
+it did get, so one bad source can't break the run. Company pages and weekly reports are built
+from that same SQLite store — no extra database, no separate service.
+
+## Architecture at a glance
+
+- **200 companies** tracked across curated ATS boards
+- **24 hubs** across Europe and North America
+- **15 data sources** — ATS company boards, aggregator job APIs, an EU and a US government
+  portal, and community-maintained listing repos (full list under [Features](#features))
+- **Nightly automated pipeline** — GitHub Actions cron fetches, filters, dedupes, stores, and
+  redeploys with zero manual steps
+- **Dedup + normalization engine** — collapses duplicate postings across sources by job id
+  before they ever reach the page
+- **SQLite → static JSON** — the pipeline writes to a local SQLite file, then exports flat
+  JSON/RSS; no database and no server at runtime
+- **Zero runtime dependencies** — no framework, no bundler; plain TypeScript run directly via
+  `node --experimental-strip-types`
+- **Sub-second page load** — static HTML/CSS/JS, nothing to hydrate
 
 ## Configuring
 
