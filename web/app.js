@@ -512,7 +512,9 @@ function render() {
 
   let rows = inTrack.filter((r) => {
     if (state.cat !== "all" && r.category !== state.cat) return false;
-    if (state.hub !== "all" && r.hub !== state.hub) return false;
+    if (state.hub === "eu-all") { if (HUB_REGION[r.hub] !== "eu") return false; }
+    else if (state.hub === "na-all") { if (HUB_REGION[r.hub] !== "na") return false; }
+    else if (state.hub !== "all" && r.hub !== state.hub) return false;
     if (state.remoteOnly && !r.remote) return false;
     if (state.savedOnly && !state.saved[r.id]) return false;
     if (q && !(r.company + " " + r.role + " " + r.hub).toLowerCase().includes(q)) return false;
@@ -559,12 +561,13 @@ function render() {
   renderChipRow(els.hubChipsBase, baseItems, state.hub, onHubSelect);
 
   [
-    { region: "eu", row: els.hubRowEu, chips: els.hubChipsEu },
-    { region: "na", row: els.hubRowNa, chips: els.hubChipsNa },
-  ].forEach(({ region, row, chips }) => {
+    { region: "eu", row: els.hubRowEu, chips: els.hubChipsEu, allId: "eu-all", allLabel: "All EU hubs" },
+    { region: "na", row: els.hubRowNa, chips: els.hubChipsNa, allId: "na-all", allLabel: "All NA hubs" },
+  ].forEach(({ region, row, chips, allId, allLabel }) => {
     const names = hubNames.filter((h) => HUB_REGION[h] === region);
     row.hidden = names.length === 0;
-    renderChipRow(chips, toItems(names), state.hub, onHubSelect);
+    const items = [{ id: allId, label: allLabel }].concat(toItems(names));
+    renderChipRow(chips, items, state.hub, onHubSelect);
   });
 
   // toggles
