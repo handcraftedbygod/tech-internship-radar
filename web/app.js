@@ -758,7 +758,7 @@ function renderWatchingPanel() {
   if (!els.watchingToggle) return;
   const watching = loadWatching();
   const slugs = Object.keys(watching).filter((s) => watching[s]).sort();
-  els.watchingToggle.textContent = "WATCHING " + pad2(slugs.length);
+  els.watchingToggle.textContent = "Watching " + pad2(slugs.length);
   els.watchingList.innerHTML = slugs.length
     ? slugs
         .map(

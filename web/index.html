@@ -39,14 +39,9 @@
       <nav class="topnav">
         <a href="#listings">LISTINGS</a>
         <a href="#signal">SIGNAL</a>
-        <button id="watching-toggle" type="button">WATCHING 00</button>
         <a href="feed.html" id="rss-link">RSS</a>
         <a href="https://github.com/handcraftedbygod/tech-internship-radar" id="repo-link" target="_blank" rel="noreferrer">GITHUB</a>
       </nav>
-      <div id="watching-panel" class="watching-panel" hidden>
-        <div class="watching-panel-title">WATCHING</div>
-        <div id="watching-list"></div>
-      </div>
     </div>
 
     <div id="watch-banner" class="watch-banner" hidden></div>
@@ -121,6 +116,13 @@
         <div class="chip-row chip-row--fixed">
           <button id="remote-toggle" type="button" class="chip" aria-pressed="false">Remote only</button>
           <button id="saved-toggle" type="button" class="chip" aria-pressed="false">Saved 00</button>
+          <div class="watching-anchor">
+            <button id="watching-toggle" type="button" class="chip">Watching 00</button>
+            <div id="watching-panel" class="watching-panel" hidden>
+              <div class="watching-panel-title">WATCHING</div>
+              <div id="watching-list"></div>
+            </div>
+          </div>
         </div>
       </div>
 

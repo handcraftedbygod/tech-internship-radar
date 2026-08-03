@@ -91,12 +91,14 @@ a.brand { text-decoration: none; }
 }
 .topnav button:hover { color: #FFFFFF; }
 
-/* company-watching panel -- toggled from the topnav so watched companies are
-   discoverable from anywhere, not only inferred from the (often-hidden)
-   "posted today" banner. See WATCHING_KEY. */
+/* company-watching panel -- lives next to the Saved filter chip on the
+   listings toolbar (and in the topnav on company.html, which has no
+   toolbar), so watched companies are discoverable from anywhere, not only
+   inferred from the (often-hidden) "posted today" banner. See WATCHING_KEY. */
+.watching-anchor { position: relative; display: inline-flex; }
 .watching-panel {
   position: absolute;
-  top: 100%;
+  top: calc(100% + 6px);
   right: 0;
   width: 260px;
   max-width: calc(100vw - 36px);
@@ -170,6 +172,24 @@ a.brand { text-decoration: none; }
   letter-spacing: 0.22em;
   color: rgba(244,247,249,0.45);
   margin-bottom: 26px;
+}
+/* company-page back link -- the animated arrow (not the whole label) is what
+   makes it read as clickable at a glance instead of blending into the rest
+   of the muted eyebrow row. */
+.eyebrow-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: rgba(244,247,249,0.85);
+}
+.eyebrow-back:hover { color: #FFFFFF; }
+.eyebrow-back-arrow {
+  display: inline-block;
+  animation: eyebrow-back-nudge 1.6s ease-in-out infinite;
+}
+@keyframes eyebrow-back-nudge {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(-3px); }
 }
 .dotted-rule {
   height: 1px;
