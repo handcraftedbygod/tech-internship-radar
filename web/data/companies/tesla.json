@@ -1,0 +1,45 @@
+{
+  "slug": "tesla",
+  "name": "Tesla",
+  "tier": "elite",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-04T06:27:05.825Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e56cda0be1c7a9c4657d5b0e312f04cd937c03e1",
+      "title": "Software Compiler Engineer Intern, AI Inference",
+      "url": "https://www.tesla.com/careers/search/job/278847",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    }
+  ]
+}

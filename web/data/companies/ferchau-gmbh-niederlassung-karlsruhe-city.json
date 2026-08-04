@@ -2,21 +2,26 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,55 @@
     0,
     0,
     0,
-    1,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27fc53646d76880f1599a5b6a9d05aa4731aed82",
+      "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTI2X0pCNTIxMjgxNS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "9e93fdf07262d4a7ba4d12b4997d565e1803ba38",
+      "title": "(Junior) Software Developer C#.NET (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTUzX0pCNTIxMjgxOS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "1ec673ddcc8e75f45163423703c5617170283dcf",
+      "title": "(Junior) Testingenieur / Software Tester (m/w/d) (IT-Tester/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ3NTQxX0pCNTIxMjk2NS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "6239b55b1ae112d0f2a4016003084ea53c7a4b9a",
+      "title": "(Junior) Software Developer Python (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEwX0pCNTIxMjkxOC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "297d56857930613e9dcab78d0a3cdf08c2f44c8c",
+      "title": "(Junior) Software Developer Java (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEzX0pCNTIxMjkxOS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "4ae867a1c54905c5e745b7b819a301e9006de129",
+      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDM3X0pCNTIxMjkyMy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
     {
       "id": "9eadf77f07d390cd56bbdd8200388a4718969c5e",
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Informatiker/in)",

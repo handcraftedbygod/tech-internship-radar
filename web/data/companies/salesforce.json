@@ -2,13 +2,17 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bb03724d229656ac67e832b1ac7d2829e909bf1",
+      "title": "Junior Technical Support Engineer【障害者採用】",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
+      "location": "Japan - Remote",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
     {
       "id": "a749f61391d93ac280e4ffbf5f1b0f7be08da941",
       "title": "Business Development Associate, Early Career",

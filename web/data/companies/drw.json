@@ -1,0 +1,100 @@
+{
+  "slug": "drw",
+  "name": "DRW",
+  "tier": "trading",
+  "currentOpenings": 7,
+  "firstTrackedAt": "2026-08-04T06:27:05.825Z",
+  "totalPostings": 7,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 4
+    },
+    {
+      "hub": "Montreal",
+      "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3fd2b0f4528293669cf16e042cde021136252bde",
+      "title": "Software Developer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "6dbc2475deb3a1e23a0e2167dfe3783d272b1cbe",
+      "title": "Software Developer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687",
+      "location": "Montréal",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "64db71952627e353cd30d808c204292dba0459c0",
+      "title": "Quantitative Trading Analyst Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "ef083da7b4f8f923ac6f14a419a82a47112508b8",
+      "title": "Quantitative Research Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670",
+      "location": "Chicago, IL, New York City, NY",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "fb7ba681de16b91432bd5b0cd2e985b85e8d8b13",
+      "title": "Platform Engineer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "de547575079593f24e677f545be0b0db159ac300",
+      "title": "AI/ML Research Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679",
+      "location": "Montréal",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "1147ab3116e80cb787e78ae643aea5a7c760df4e",
+      "title": "FPGA Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/fpga-intern-3484423",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    }
+  ]
+}

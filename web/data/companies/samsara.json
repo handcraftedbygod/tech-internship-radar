@@ -2,17 +2,30 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 1,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 3
+    },
+    {
+      "hub": "London",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
     {
       "id": "design",
       "label": "Design",
@@ -27,13 +40,48 @@
     0,
     0,
     1,
-    0,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c7eed0aee82eab20657208e2660df84fda81c2f",
+      "title": "Software Engineering Internship - San Fransisco ",
+      "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-internship-san-fransisco",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "ad45165e7f76db5b9147002808a1496c311291e6",
+      "title": "Software Engineering Interns - London",
+      "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-interns-london",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "ec141af93187780c360f06f4858e3d3b5446bd2c",
+      "title": "Software Engineering Interns - London",
+      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+      "location": "London - UK2",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "fa2c8bbf342e28a0ad245fb7de5e929c195d2567",
+      "title": "Software Engineering Internship - San Fransisco ",
+      "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+      "location": "San Francisco - SF9",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "d0c0868f3e3da0fa5fe24b66e329a6fd34e5d9ce",
+      "title": "Software Engineer I - New Grad, SF",
+      "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343",
+      "location": "San Francisco - SF9",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
     {
       "id": "88201a84323b30effe14ff26ee621c9c73a1f1bc",
       "title": "Entry Level Tech Sales - Benelux Market (Dutch speaking)",

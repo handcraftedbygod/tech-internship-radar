@@ -2,9 +2,9 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Munich",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -31,13 +35,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1498fa5f733291db6ab495ce4312fa5f70eaf38",
+      "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000141261238",
+      "location": "Dortmund, Nordrhein-Westfalen, Germany",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
     {
       "id": "e1ceced8d024a625b44327bd431e343c5a02f03e",
       "title": "Werkstudent (m/w/d) Data Analyst - Internet ",

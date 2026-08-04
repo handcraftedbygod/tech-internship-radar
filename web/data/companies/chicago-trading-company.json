@@ -1,0 +1,61 @@
+{
+  "slug": "chicago-trading-company",
+  "name": "Chicago Trading Company",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-04T06:27:05.825Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9af4d0ba30c45f98354c27d6b9e0a335498c360b",
+      "title": "New Grad 2027: Associate Engineer",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+      "location": "Chicago, IL, New York, NY",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "af47c7a905fdfb5c83f6164c0046358784e1b433",
+      "title": "New Grad 2027: Quant Trading Associate",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    }
+  ]
+}

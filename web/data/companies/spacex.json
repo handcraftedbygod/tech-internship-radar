@@ -1,0 +1,52 @@
+{
+  "slug": "spacex",
+  "name": "SpaceX",
+  "tier": "elite",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-04T06:27:05.825Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "be30fdd530ef41feb675699c1bb7743a2968d0cf",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "url": "https://www.themuse.com/jobs/spacex/spring-2027-software-engineering-internshipcoop",
+      "location": "Brownsville, TX, El Segundo, CA, Irvine, CA, Lockhart, TX, Palo Alto, CA, Redmond, WA, Rockledge, FL, Waco, TX",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    },
+    {
+      "id": "02e4bcb36549ba1e2857f276694367ed6cdb51c3",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "url": "https://www.themuse.com/jobs/spacex/summer-2027-software-engineering-internshipcoop",
+      "location": "Brownsville, TX, El Segundo, CA, Irvine, CA, Lockhart, TX, Palo Alto, CA, Redmond, WA, Rockledge, FL, Waco, TX",
+      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+    }
+  ]
+}
