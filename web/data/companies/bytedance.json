@@ -1,0 +1,68 @@
+{
+  "slug": "bytedance",
+  "name": "ByteDance",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-05T06:26:39.961Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7b0f55a64b5f5a471f7099d2153b8cd197c0ba37",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+      "url": "https://joinbytedance.com/search/7668374190764050741",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    },
+    {
+      "id": "265cdad4a335c1d0035279f87e3a233223a88204",
+      "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+      "url": "https://joinbytedance.com/search/7668373268886161669",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    },
+    {
+      "id": "77e8ec66ee0305e264ba08d7dd60e72c2c63ff01",
+      "title": "Software Engineer Intern, AI Platform",
+      "url": "https://joinbytedance.com/search/7668212952030841093",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    }
+  ]
+}

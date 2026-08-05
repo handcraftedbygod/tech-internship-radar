@@ -2,18 +2,18 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "San Francisco",
-      "count": 3
+      "hub": "London",
+      "count": 4
     },
     {
-      "hub": "London",
-      "count": 2
+      "hub": "San Francisco",
+      "count": 3
     },
     {
       "hub": "Other",
@@ -24,11 +24,16 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -40,13 +45,27 @@
     0,
     0,
     1,
-    5,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19c4893ec8bc4946c850b0fe3284bc49a3e87784",
+      "title": "Software Engineering Internship - London",
+      "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-internship-london",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    },
+    {
+      "id": "f1f3efaa9a6a6b0d74cf5163a7bdc431fdbf1e24",
+      "title": "Entry Level Tech Sales - UK&I Market",
+      "url": "https://www.samsara.com/company/careers/roles/8104994?gh_jid=8104994",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    },
     {
       "id": "1c7eed0aee82eab20657208e2660df84fda81c2f",
       "title": "Software Engineering Internship - San Fransisco ",
@@ -63,14 +82,14 @@
     },
     {
       "id": "ec141af93187780c360f06f4858e3d3b5446bd2c",
-      "title": "Software Engineering Interns - London",
+      "title": "Software Engineering Internship - London",
       "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
       "location": "London - UK2",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
     },
     {
       "id": "fa2c8bbf342e28a0ad245fb7de5e929c195d2567",
-      "title": "Software Engineering Internship - San Fransisco ",
+      "title": "Software Engineering Internship - San Francisco ",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
       "location": "San Francisco - SF9",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"

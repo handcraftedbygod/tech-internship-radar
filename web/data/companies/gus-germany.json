@@ -2,21 +2,21 @@
   "slug": "gus-germany",
   "name": "Gus Germany",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eec8b3e9d59c6375617e298dfab86c32aca251ed",
+      "title": "Working Student-Real Estate Software & Data Integration",
+      "url": "https://www.arbeitnow.com/jobs/companies/gus-germany/working-student-real-estate-software-data-integration-berlin-237844",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+    },
     {
       "id": "763a237ce5edc6613d97d12a05dc9fb239d62d96",
       "title": "Working Student-Real Estate Software & Data Integration",
