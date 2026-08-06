@@ -2,18 +2,18 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "design",
@@ -45,13 +45,27 @@
     0,
     0,
     1,
-    7,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "806779bdcb36a0f39f4fa3e6cc6ad20e88c6f38e",
+      "title": "Software Engineering Internship - San Francisco ",
+      "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-internship-san-francisco",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-08-06T06:29:13.112Z"
+    },
+    {
+      "id": "df4e07763ba1c14ab996b2db845f5f75a6e8d6c1",
+      "title": "Software Engineer I (New Grad)",
+      "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
+      "location": "London - UK2",
+      "firstSeenAt": "2026-08-06T06:29:13.112Z"
+    },
     {
       "id": "19c4893ec8bc4946c850b0fe3284bc49a3e87784",
       "title": "Software Engineering Internship - London",

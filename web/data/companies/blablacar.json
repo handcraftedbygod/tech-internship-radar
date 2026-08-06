@@ -2,20 +2,25 @@
   "slug": "blablacar",
   "name": "BlaBlaCar",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "000d3ff8269e53b24868f471537fb0462e72cb89",
+      "title": "Stagiaire Marketing & Réseaux Sociaux France",
+      "url": "https://jobs.lever.co/blablacar/f40b93ed-ad63-457f-81de-ec6ec3fbe85e",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-06T06:29:13.112Z"
+    },
     {
       "id": "869183c7df2cf28e21e0cdc5f79e69cf52c7ee16",
       "title": "Junior Backend Engineer - Care",

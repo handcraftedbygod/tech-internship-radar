@@ -1,0 +1,45 @@
+{
+  "slug": "quora",
+  "name": "Quora",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-06T06:29:13.112Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c2166c608e84be1276e153ef22d88af7bfe089b2",
+      "title": "New Grad: Software Engineer",
+      "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
+      "location": "Remote",
+      "firstSeenAt": "2026-08-06T06:29:13.112Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 87,
+  "currentOpenings": 88,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 87,
+  "totalPostings": 88,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 77
+      "count": 78
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 63
+      "count": 64
     },
     {
       "id": "ai",
@@ -41,13 +41,20 @@
     0,
     0,
     0,
-    87,
+    88,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a40408eaec4536a062e3e49501a987324bf4e06c",
+      "title": "Backend Software Engineer Intern (Creation Platform) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-intern-creation-platform-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-06T06:29:13.112Z"
+    },
     {
       "id": "b35765c43c59bb534104cc34b4c084c8055e8599",
       "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
@@ -108,13 +115,6 @@
       "id": "d0d748297a19d42d8ae6a20e37c6777afc8e8f38",
       "title": "Software Engineer Intern, Code Graph and Quality Validation",
       "url": "https://lifeattiktok.com/search/7667935738376227077",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "2e8703e1cf1f45a359b5105b087227f3e4e1f1cf",
-      "title": "Software Engineer Intern, Privacy and Security",
-      "url": "https://lifeattiktok.com/search/7667935739300317493",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
