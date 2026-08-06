@@ -15,6 +15,7 @@ import vanshb03 from "./vanshinternships.ts";
 import cvrve from "./cvrvenewgrad.ts";
 import usajobs from "./usajobs.ts";
 import arbeitsamt from "./arbeitsamt.ts";
+import freehire from "./freehire.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
 export const fetchers: Fetcher[] = [
@@ -34,4 +35,5 @@ export const fetchers: Fetcher[] = [
   cvrve,
   usajobs,
   arbeitsamt,
+  freehire,
 ];

@@ -51,7 +51,7 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
 // the source repo itself (same division of labor as config/companies.json,
 // just crowdsourced instead of hand-picked) -- gating them would drop the
 // PM/quant roles that are part of what the list is for.
-// arbeitsamt is a general-purpose German government board, not
+// arbeitsamt/freehire are general-purpose or broad-aggregator boards, not
 // tech-exclusive, same reasoning as adzuna/arbeitnow.
 const BROAD_SOURCES = new Set([
   "adzuna",
@@ -64,6 +64,7 @@ const BROAD_SOURCES = new Set([
   "remoteok",
   "usajobs",
   "arbeitsamt",
+  "freehire",
 ]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
