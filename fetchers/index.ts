@@ -17,6 +17,7 @@ import usajobs from "./usajobs.ts";
 import arbeitsamt from "./arbeitsamt.ts";
 import freehire from "./freehire.ts";
 import aidevjobs from "./aidevjobs.ts";
+import aijobs from "./artificialintelligencejobs.ts";
 
 // Add a new source: write one file implementing Fetcher, then add it here.
 export const fetchers: Fetcher[] = [
@@ -38,4 +39,5 @@ export const fetchers: Fetcher[] = [
   arbeitsamt,
   freehire,
   aidevjobs,
+  aijobs,
 ];
