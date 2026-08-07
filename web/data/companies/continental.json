@@ -1,22 +1,22 @@
 {
   "slug": "continental",
-  "name": "Continental AG",
+  "name": "Continental",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,34 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0eac5ae8515998d3023d24625809faea1e238c8c",
+      "title": "Mandatory Internship – Cybersecurity Reporting, Training & Awareness",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000141413829-mandatory-internship-cybersecurity-reporting-training-awareness?utm_source=freehire.me",
+      "location": "Hannover, NDS, de",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "830733f772ac9c69fbe56b4805fc0db63d9fea0d",
+      "title": "Mandatory Internship – Cybersecurity Reporting, Training & Awareness - REF98629N",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000141417650-mandatory-internship-cybersecurity-reporting-training-awareness-ref98629n?utm_source=freehire.me",
+      "location": "Hannover, NDS, de",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "6dc36f6ad4d8dab2b01c12143bc80f31b12c9e1a",
+      "title": "Mandatory Internship – Cybersecurity Reporting, Training & Awareness",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12745-961537731-S",
+      "location": "Hannover",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "e7a89767cb45c904e536eaf677afef5ef038a998",
       "title": "Mandatory Internship – Cybersecurity Reporting, Training & Awareness (Informatiker/in)",

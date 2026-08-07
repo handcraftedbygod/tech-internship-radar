@@ -1,0 +1,69 @@
+{
+  "slug": "sap",
+  "name": "SAP",
+  "tier": "notable",
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "06c0c5d789d85f8cd2a220784edbad4d0be380ca",
+      "title": "Working Student (f/m/d) AI and Data Scientist in PhD Programs and Embedded Research",
+      "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-ai-and-data-scientist-in-phd-programs-and-embedded-research-sap-69190-walldorf--2390278.html",
+      "location": "Walldorf, Baden",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "e55613c65443f1ab2ebbe57f4a62c3b26a98ffac",
+      "title": "SAP iXp Intern (f/m/d) - Strategic Innovation Projects - Data Scientist",
+      "url": "https://www.jobstairs.de/de/stellenangebot-sap-ixp-intern-fmd-strategic-innovation-projects-data-scientist-sap-potsdam--2390899.html",
+      "location": "Potsdam",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "3407fce31a74b97d7aeee26d7c377277658c8b4f",
+      "title": "Werkstudent (w/m/d) - Cloud Software SAP SuccessFactors",
+      "url": "https://www.jobstairs.de/de/stellenangebot-werkstudent-wmd-cloud-software-sap-successfactors-sap-68789-st-leon-rot--2392769.html",
+      "location": "St. Leon-Rot",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

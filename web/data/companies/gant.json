@@ -1,14 +1,18 @@
 {
   "slug": "gant",
-  "name": "GANT AB",
+  "name": "Gant AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Stockholm",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee05a6342c41762a8dd57ddbf0451b5a60fd2635",
+      "title": "Junior Product Developer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31313442?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "9fd2e855d25d2d56fa7750c01a8f62b80854a5a9",
       "title": "Junior Product Developer",

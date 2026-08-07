@@ -1,0 +1,68 @@
+{
+  "slug": "itol-recruit",
+  "name": "ITOL Recruit",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3d3ade7b0217866072436afb97daf4b7177071ca",
+      "title": "Junior AI Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-ai-developer/57197835?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "4507993d6173a5adbd0d1de00edc1f948ca94d01",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57198442?utm_source=freehire.me",
+      "location": "Nuneaton",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "a7e173c8e6e9bca296ebc59576eae968c0f20b0c",
+      "title": "Web Developer Trainee",
+      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57198011?utm_source=freehire.me",
+      "location": "Stockport",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

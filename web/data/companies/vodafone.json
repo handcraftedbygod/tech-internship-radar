@@ -1,0 +1,57 @@
+{
+  "slug": "vodafone",
+  "name": "Vodafone GmbH",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "cd25b64269af42415d14b4b3d71b24c33f9e0a56",
+      "title": "Praktikant Data Science & Predictive Analytics (Schwerpunkt Cos. Experience) (m/w/d) in Düsseldorf",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44362822-86-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "fd8aec9f8950213dc01182ba6afeb7d1fe5f17b0",
+      "title": "Praktikant Frontend-Entwicklung & UX Design für Netzwerkanalyse-Plattform (m/w/d) in Stuttgart",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44350988-731-S",
+      "location": "Stuttgart",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "bmw",
+  "name": "BMW AG",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "544f9b4558251dca30e7a5c474a209c9645cd86f",
+      "title": "Praktikant Software Integration E/E Systeme (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1608580-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "034930e0fc209f47e85676bbdf14513fd8b84679",
+      "title": "Werkstudent/in Software Integration (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1608588-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

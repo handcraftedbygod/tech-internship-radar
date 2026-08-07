@@ -2,21 +2,21 @@
   "slug": "sourcevise",
   "name": "Sourcevise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5101e928bed6ef065ac1f1ec8693f16e13adf694",
+      "title": "Junior Product Engineer (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/sourcevise/junior-product-engineer-munchen-62988?utm_source=freehire.me",
+      "location": "München",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "0924efded3e6be3f3c1a3b6b6d4d07522e5a3eef",
       "title": "Junior Product Engineer (m/f/d)",

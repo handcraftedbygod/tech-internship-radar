@@ -1,22 +1,22 @@
 {
   "slug": "experis",
-  "name": "Experis AB",
+  "name": "Experis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d0fab725a24dd6bb8f9970565b19347eead612d",
+      "title": "Junior Developer på stort bolag i Lund",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31322561?utm_source=freehire.me",
+      "location": "Malmö, Skåne län, Sverige",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "bf46bb6bab8d9f412e1b6cab34dc4842d5286779",
       "title": "Junior Developer på stort bolag i Lund",

@@ -2,21 +2,21 @@
   "slug": "alexander-thamm",
   "name": "Alexander Thamm GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e6d74799b5eb29bf08ded87142a387a0421c0af",
+      "title": "(Junior) Data Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/junior-data-engineer-berlin-476263?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "58b5a8eacdb8c58be364eb0d72442e495f868ce3",
       "title": "(Junior) Data Engineer (m/w/d)",

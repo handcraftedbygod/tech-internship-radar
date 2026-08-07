@@ -1,0 +1,71 @@
+{
+  "slug": "mercedes-benz",
+  "name": "Mercedes-Benz Group AG",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "696200c67db3410108c1b4ebfc26f84d10801bf0",
+      "title": "Praktikant*in Data Science & Analytics Global Market Intelligence (Pflicht-Praktikum)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1606535-1-S",
+      "location": "Stuttgart",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "ef4f38b5d0f6ea9797170ddd9260234810911fab",
+      "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-1-S",
+      "location": "Immendingen",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "cf926a7f6b9e7c7e6e39e92c7d30a8b0acb2dc90",
+      "title": "Praktikant*in Software Engineering: Analyse- & KI-Tools",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1596159-2-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "58faf051a314dc6bdf8a0052d010eb793c97d4e3",
+      "title": "Werkstudent*in Software Entwicklung ADAS/Fahrerassistenzsysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1606907-1-S",
+      "location": "Immendingen",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

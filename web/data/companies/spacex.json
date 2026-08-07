@@ -2,21 +2,21 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57fdc02c2fa09d75dd954dc6f7b1ef3236543c25",
+      "title": "Software Engineer Intern, Fleet Health Instrumentation",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621756002",
+      "location": "Remote",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "be30fdd530ef41feb675699c1bb7743a2968d0cf",
       "title": "Spring 2027 Software Engineering Internship/Co-op",

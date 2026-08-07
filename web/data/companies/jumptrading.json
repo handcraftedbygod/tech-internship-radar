@@ -1,0 +1,69 @@
+{
+  "slug": "jumptrading",
+  "name": "Jumptrading",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5f55ffb80e6cea7ab913d3f29c4b83e56a664fd6",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-data-engineer-intern-london-14681?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "b9658b8bcc806b20da7bb4fa421b6426f62119c3",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-software-engineer-intern-london-328008?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "ad3f7735987b8dda7cb6dc498a6666b6ae85f011",
+      "title": "Campus UI Software Engineer (Intern)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-ui-software-engineer-intern-london-417728?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

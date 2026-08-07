@@ -2,21 +2,21 @@
   "slug": "abrio",
   "name": "ABRIO GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bf41a59fb03a3e19ddaa0759f773f2e098806d47",
+      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-frontend-developer-e-commerce-shopify-frankfurt-145745?utm_source=freehire.me",
+      "location": "Frankfurt",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "196fb8ada1ddd19f22e7dc92bea29d84a9f0de50",
       "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",

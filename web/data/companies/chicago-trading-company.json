@@ -2,14 +2,14 @@
   "slug": "chicago-trading-company",
   "name": "Chicago Trading Company",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3dea320e3c6c03be3c0b0cfe4a51bea40e25aca2",
+      "title": "Quant Trading Intern",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "9af4d0ba30c45f98354c27d6b9e0a335498c360b",
       "title": "New Grad 2027: Associate Engineer",

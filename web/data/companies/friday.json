@@ -1,0 +1,45 @@
+{
+  "slug": "friday",
+  "name": "Friday",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-07T05:39:42.829Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Stockholm",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1f0f9daa07e94c0d09955586b2d7c20df3298c01",
+      "title": "Junior Fullstack Developer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31325108?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    }
+  ]
+}

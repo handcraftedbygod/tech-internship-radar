@@ -2,21 +2,21 @@
   "slug": "acemateai",
   "name": "acemate.ai",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86a90b2d233ee8468250b3b3c55056395d3dd57f",
+      "title": "Software Engineer (Intern / Working Student)",
+      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/software-engineer-intern-working-student-berlin-125086?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "dbcb202bcf17d21626b53f1a679bca3d9e2974a2",
       "title": "Software Engineer (Intern / Working Student)",

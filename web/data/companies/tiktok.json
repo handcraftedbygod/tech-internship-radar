@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 88,
+  "currentOpenings": 91,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 88,
+  "totalPostings": 91,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 78
+      "count": 81
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 64
+      "count": 67
     },
     {
       "id": "ai",
@@ -41,13 +41,34 @@
     0,
     0,
     0,
-    88,
+    91,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4b1be8836009688565ff62b5cefe46019cf9409a",
+      "title": "Software Engineer Intern (Foundation Platform) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-foundation-platform-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "620f6b852a65a9253f32cc4ef4d51b8e905f5f76",
+      "title": "Software Engineer Intern (Media Engine) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-media-engine-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
+    {
+      "id": "b4d4e7cf22582c680a1c84dce6dd35b97a6ccf34",
+      "title": "Software Engineer Intern (Ads Infrastructure) - 2026 Summer (BS/MS)",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-ads-infrastructure-2026-summer-bsms",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+    },
     {
       "id": "a40408eaec4536a062e3e49501a987324bf4e06c",
       "title": "Backend Software Engineer Intern (Creation Platform) - 2027 Summer",
@@ -94,27 +115,6 @@
       "id": "0ab2b58aff2612b3cd80bb20524005cee36e596b",
       "title": "Software Engineer Intern, Business Integrity",
       "url": "https://lifeattiktok.com/search/7668584916620527925",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "3fe2b91070cad0820ada852f51c050b97532ae33",
-      "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
-      "url": "https://lifeattiktok.com/search/7668445566565321013",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "b02f0e6c43028cb02b9e19fa3703e188bf60f5e8",
-      "title": "Software Engineer Intern, Data Arch - E-commerce",
-      "url": "https://lifeattiktok.com/search/7668582146236631349",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "d0d748297a19d42d8ae6a20e37c6777afc8e8f38",
-      "title": "Software Engineer Intern, Code Graph and Quality Validation",
-      "url": "https://lifeattiktok.com/search/7667935738376227077",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
