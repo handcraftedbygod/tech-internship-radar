@@ -2,21 +2,21 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -37,13 +37,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cd0339a76764405ff7f078ab1c21b5e96d1da6d8",
+      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141719359-junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-business-intelligence-data-analytics?utm_source=freehire.me",
+      "location": "Gerlingen, BW, de",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "18b8acf2b7c03960c89a3bc2d8264f9ac4b8e7d3",
       "title": "Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software",

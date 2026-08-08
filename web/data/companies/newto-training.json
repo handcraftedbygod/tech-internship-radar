@@ -2,17 +2,17 @@
   "slug": "newto-training",
   "name": "Newto Training",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 16,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Other",
+      "count": 15
     },
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 1
     }
   ],
@@ -20,7 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 13
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -31,7 +36,7 @@
     0,
     0,
     0,
-    2,
+    16,
     0,
     0,
     0,
@@ -39,18 +44,74 @@
   ],
   "recentPostings": [
     {
-      "id": "5e6e6b1abd35e3dfcc6a582940bc05af28dcfdce",
-      "title": "Junior Network Engineer",
-      "url": "https://www.reed.co.uk/jobs/junior-network-engineer/57188636?utm_source=freehire.me",
-      "location": "Manchester",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+      "id": "ee2dcb8d7b62d2cbaffe32d7df02690f65c302fa",
+      "title": "Junior Cyber Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-cyber-security-engineer/57188276?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     },
     {
-      "id": "68db0eace0128821580d17bd7e50738f7edef2d4",
-      "title": "Junior Network Engineer",
-      "url": "https://newtotraining.com/landing/become-a-network-engineer-reed/?utm_source=freehire.me",
+      "id": "2b1139f73dbc5494ff5108335903d3e90e0f1e32",
+      "title": "Junior Data Scientist",
+      "url": "https://www.reed.co.uk/jobs/junior-data-scientist/57189425?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "df92259abf84946528cc3f1d03f8e8421aa21e48",
+      "title": "Junior Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-data-engineer/57189529?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "65242355d1e80c781090ffd28cd634d77cecf217",
+      "title": "Trainee Junior Network Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-junior-network-engineer/57188192?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "c5f1d77d999c33c9d33181ffc71805f274a40010",
+      "title": "Trainee Junior Infrastructure Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-junior-infrastructure-engineer/57188283?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "a9817e7051480f6f2a459609ae822099bdfb7640",
+      "title": "Junior Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-security-engineer/57188549?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "c9093eed286a41833751b8653871f4e2baa24bf2",
+      "title": "Trainee Network Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-network-security-engineer/57188148?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "12e956ef3b8236075da9ff513500229242d8751e",
+      "title": "Trainee Data Analyst Associate",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-associate/57189444?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "df78e22f3b52fe49473f1ee7fb98c19443937481",
+      "title": "Data Analyst Trainee",
+      "url": "https://newtotraining.com/landing/become-a-data-analyst-reed/?utm_source=freehire.me",
       "location": "London",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "745ca78c4bc25a807f0f1d1a617f1457b1ced5cc",
+      "title": "Trainee Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-engineer/57189534?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

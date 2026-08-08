@@ -2,14 +2,14 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -31,13 +36,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa897fdedc50d93898e4f8370f29a6850e0ab957",
+      "title": "Junior Salesforce Marketing Cloud Developer",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Data-Cloud-Consultant_14002623?utm_source=freehire.me",
+      "location": "Warsaw",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "110dc58efed3740371addfe22f339f47147cc137",
       "title": "Junior Software Engineer",

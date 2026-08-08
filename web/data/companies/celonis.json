@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 26,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 27.3,
+  "totalPostings": 29,
+  "avgPostingDurationDays": 18.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 19
+      "count": 21
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 13
+      "count": 15
     },
     {
       "id": "swe",
@@ -50,13 +50,27 @@
     0,
     0,
     27,
-    0,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d616d7eb7201923996edb93f39b2432a36ed571",
+      "title": "Marketing Database Operations Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7816963003?gh_jid=7816963003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "aecc554d7aaa4880243cecc23f1fbe9477b7c1b5",
+      "title": "Digital Marketing Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7816955003?gh_jid=7816955003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "148cfd0f68108b231d22790026c1c694fb2aff13",
       "title": "Working Student Corporate Law Specialist",
@@ -111,20 +125,6 @@
       "title": "Working Student Employment Law",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7767354003?gh_jid=7767354003",
       "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
-    },
-    {
-      "id": "f8fdfae33f2ec23a1bd22c346c464ba013ae4250",
-      "title": "Strategic Pricing Graduate Internship (12 months contract)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7807918003?gh_jid=7807918003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
-    },
-    {
-      "id": "e00fc0f43eea21efee8e3e627c1d4c8dc48b8d76",
-      "title": "Intern Sales Development Program (Turkish-Speaking)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7707970003?gh_jid=7707970003",
-      "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-24T18:21:15.798Z"
     }
   ]

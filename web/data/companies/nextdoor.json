@@ -1,0 +1,45 @@
+{
+  "slug": "nextdoor",
+  "name": "Nextdoor",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-08T04:55:09.600Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d5fc980c18fa23e99929045bd4a0f09a0b62b21a",
+      "title": "Machine Learning Engineer - New Grad 2026",
+      "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+      "location": "Dallas, TX; New York, NY; San Francisco, CA",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "bbc",
+  "name": "BBC",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-08T04:55:09.600Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e2f410e2924b9850d675d6140d84f0175c25f688",
+      "title": "Junior Software Engineer (iOS) – Mobile Apps",
+      "url": "https://4dayweek.io/job/junior-software-engineer-ios-mobile-apps-at-bbc-781c72ed?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    }
+  ]
+}

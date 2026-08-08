@@ -2,13 +2,17 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2b224f1b42a46ae618f4916102c96c963c2a644",
+      "title": "Software Test Engineer Intern",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Software-Test-Engineer-Intern_202608-120310?utm_source=freehire.me",
+      "location": "Sant Cugat del Vallès",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "84b7293d5b067174338811071773905d8de51578",
       "title": "Cybersecurity Analyst Intern",

@@ -2,26 +2,26 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 7,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,41 @@
     0,
     0,
     0,
-    7,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b79231648f0a22cb6d420839ddddcb67817c3115",
+      "title": "(Junior) DevOps Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445126_JB5212815-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "f29393f061f700aede087050d59668471fa1c09d",
+      "title": "(Junior) Backend-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5212872-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "5fda00895ccfdbd631a10193a8feffa029fdc6ed",
+      "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5212965-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "6730f6c3502a825dc56d33280c4cde54c1111802",
+      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446437_JB5212923-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "27fc53646d76880f1599a5b6a9d05aa4731aed82",
       "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
@@ -80,13 +108,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDM3X0pCNTIxMjkyMy1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "9eadf77f07d390cd56bbdd8200388a4718969c5e",
-      "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Informatiker/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MDM2X0pCNTIwNjMyNS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-03T06:58:28.460Z"
     }
   ]
 }

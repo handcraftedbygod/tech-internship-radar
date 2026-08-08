@@ -2,21 +2,21 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd4fcc13e36e3fb8bc0046506252e7375586eed0",
+      "title": "Ingénieur Production Applicative Junior - DevOps (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTgxOTUzMiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "4927afa05eba0c2ef3da77adb2d731e3e75ec91a",
+      "title": "Développeur Java Junior avec Compétences DevOps/Cloud (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjEyRkNSUyA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "c1a43d462de1083978efebc0a661b39975260eaa",
       "title": "Ingénieur devops junior (H/F)",

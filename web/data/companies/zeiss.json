@@ -2,21 +2,21 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d4b1f92686137c1f0ad1f1b980b1657de6eae3b3",
+      "title": "Internship Machine Learning",
+      "url": "https://www.adzuna.de/land/ad/5831197043?se=JLueIOWS8RG9ks23jnlnsA&utm_medium=api&utm_source=9141e2e6&v=017DFF1B82FD6AD365351BD33B1984E479E91D7A",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "2a2705a16e2e82448da868682b3a99f6e1afd226",
+      "title": "Internship Machine Learning",
+      "url": "https://www.adzuna.de/land/ad/5830834835?se=JLueIOWS8RG9ks23jnlnsA&utm_medium=api&utm_source=9141e2e6&v=694E87E4C0FCDA3CEADD7F52B186650B1B0471F1",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "11cd03c33e77420c7149f32e5db26ded152c12d4",
       "title": "Internship Machine Learning",

@@ -2,20 +2,30 @@
   "slug": "commerzbank",
   "name": "Commerzbank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -27,13 +37,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d539e5f1c2b07615cbccb3a24bac7da176a10f1",
+      "title": "Data Engineer Intern - BDAA Big Data  - TalentBank 2026",
+      "url": "https://commerzbank-poland.breezy.hr/p/be196bd44bc501-data-engineer-intern-bdaa-big-data--talentbank-2026?utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "aecb172fa43ee7fa2bd6916b429b052e21316677",
+      "title": "IT Trainee - Software Engineer/Developer",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-5-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "e19fe64cf14054c923f2162dc6214b6ac0de4f2a",
       "title": "Data Scientist / Quant Risk Modelling Intern - Cluster Risk Models & Calculations  - TalentBank 2026",

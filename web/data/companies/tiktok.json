@@ -2,25 +2,29 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 91,
+  "currentOpenings": 95,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 91,
+  "totalPostings": 95,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 81
+      "count": 82
     },
     {
       "hub": "Seattle",
-      "count": 10
+      "count": 12
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 67
+      "count": 71
     },
     {
       "id": "ai",
@@ -41,13 +45,41 @@
     0,
     0,
     0,
-    91,
+    95,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d1f2f76f6fcbc42a9e4a17e34a3a440e49c67d9",
+      "title": "Data Analyst Project Intern (TikTok Shop - User Product) - 2026 Start (BS/MS)",
+      "url": "https://aijobs.net/job/data-analyst-project-intern-tiktok-shop-user-product-2026-start-bsms-london-england-united-kingdom-269849/?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "fbc483d81af5180e1eee2b25a6c961d5cfe0df71",
+      "title": "Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/fullstack-software-engineer-intern-global-ecommerce-2027-summer-f536eb",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "fd0d8089261a5b788c931ee713afb0b947d51e6f",
+      "title": "Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-project-intern-global-ecommerce-search-infrastructure-2026-start",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
+    {
+      "id": "bdffd8aa3361ba37d8bcfe5d30e13a114831a73d",
+      "title": "Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/fullstack-software-engineer-intern-global-ecommerce-2027-summer",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-08T04:55:09.600Z"
+    },
     {
       "id": "4b1be8836009688565ff62b5cefe46019cf9409a",
       "title": "Software Engineer Intern (Foundation Platform) - 2027 Summer",
@@ -87,34 +119,6 @@
       "id": "92c451fd6a5e46ee0160d75fe8aa49e8cf135194",
       "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
       "url": "https://lifeattiktok.com/search/7668584161852229893",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "7e0735337b2f6368c609444f384cc26ac8f03e88",
-      "title": "Software Engineer Intern, Data Arch - E-commerce",
-      "url": "https://lifeattiktok.com/search/7668582086899763461",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "2782e9780d290064b0533a91002feb7323c9dc51",
-      "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
-      "url": "https://lifeattiktok.com/search/7668582031916435717",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "00a83ea2027d43f530ed43cbdb97f44b0bbd1ac3",
-      "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
-      "url": "https://lifeattiktok.com/search/7668642761473902901",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "0ab2b58aff2612b3cd80bb20524005cee36e596b",
-      "title": "Software Engineer Intern, Business Integrity",
-      "url": "https://lifeattiktok.com/search/7668584916620527925",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
