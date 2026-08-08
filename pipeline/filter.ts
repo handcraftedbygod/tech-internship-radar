@@ -51,12 +51,12 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
 // the source repo itself (same division of labor as config/companies.json,
 // just crowdsourced instead of hand-picked) -- gating them would drop the
 // PM/quant roles that are part of what the list is for.
-// arbeitsamt/freehire are general-purpose or broad-aggregator boards, not
-// tech-exclusive, same reasoning as adzuna/arbeitnow. aidevjobs/aijobs are
-// already AI/ML-scoped by construction (like usajobs' own server-side
-// Keyword scoping) but get gated too as defense-in-depth -- an AI-adjacent
-// title (e.g. "AI Sales Engineer") can still slip through a niche board's
-// own categorization.
+// arbeitsamt/freehire/reed are general-purpose or broad-aggregator boards,
+// not tech-exclusive, same reasoning as adzuna/arbeitnow. aidevjobs/aijobs/
+// findwork are already tech/AI-scoped by construction (like usajobs' own
+// server-side Keyword scoping) but get gated too as defense-in-depth -- an
+// adjacent title (e.g. "AI Sales Engineer") can still slip through a niche
+// board's own categorization.
 const BROAD_SOURCES = new Set([
   "adzuna",
   "arbeitnow",
@@ -71,6 +71,8 @@ const BROAD_SOURCES = new Set([
   "freehire",
   "aidevjobs",
   "aijobs",
+  "reed",
+  "findwork",
 ]);
 
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {

@@ -33,6 +33,8 @@ jobs:
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          REED_API_KEY: ${{ secrets.REED_API_KEY }}
+          FINDWORK_API_KEY: ${{ secrets.FINDWORK_API_KEY }}
 
       - name: Write job summary
         if: always()

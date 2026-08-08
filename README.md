@@ -92,9 +92,9 @@ A weekly market snapshot, generated straight from the pipeline, every Sunday:
   a code change. See [Contributing](#contributing) below.
 - Sources: Greenhouse, Lever, Ashby, Workday, SmartRecruiters, and Recruitee's public job board
   APIs for a curated company list, plus Adzuna, Arbeitnow, Remotive, The Muse, freehire, AI Dev
-  Jobs, Artificial Intelligence Jobs, EURES (the EU's official cross-border job portal),
-  Arbeitsamt (Germany's official job board), Remote OK, USAJOBS (US federal Pathways internships
-  and Recent Graduates postings), and the community-maintained
+  Jobs, Artificial Intelligence Jobs, Reed (UK), Findwork, EURES (the EU's official cross-border
+  job portal), Arbeitsamt (Germany's official job board), Remote OK, USAJOBS (US federal Pathways
+  internships and Recent Graduates postings), and the community-maintained
   [vanshb03/Summer-Internships](https://github.com/vanshb03/Summer2027-Internships) and
   [New-Grad](https://github.com/vanshb03/New-Grad-2027) listings for US/Canada coverage.
 
@@ -115,7 +115,7 @@ built from that same SQLite store: no extra database, no separate service.
 
 - **200 companies** tracked across curated ATS boards
 - **24 hubs** across Europe and North America
-- **19 data sources**: ATS company boards, aggregator job APIs, an EU, German, and US government
+- **21 data sources**: ATS company boards, aggregator job APIs, an EU, German, and US government
   portal, and community-maintained listing repos (full list under [Features](#features))
 - **Nightly automated pipeline**: GitHub Actions cron fetches, filters, dedupes, stores, and
   redeploys with zero manual steps
@@ -150,7 +150,7 @@ built from that same SQLite store: no extra database, no separate service.
 
 ```bash
 npm ci
-cp .env.example .env   # optionally fill in ADZUNA_APP_ID / ADZUNA_APP_KEY
+cp .env.example .env   # optionally fill in ADZUNA_APP_ID/KEY, REED_API_KEY, FINDWORK_API_KEY
 npm run pipeline       # fetch → filter → dedupe → store → export
 npx serve web
 ```
