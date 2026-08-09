@@ -2,9 +2,9 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -26,6 +30,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -36,13 +45,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e9c6a239a69881197331a315bb3885445104652",
+      "title": "Junior Consultant, Data Science and Machine Learning Engineering",
+      "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Data-Science---Machine-Learning-Engineering-Analyst---Strategy---Consulting_R00335624?utm_source=freehire.me",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "aa897fdedc50d93898e4f8370f29a6850e0ab957",
       "title": "Junior Salesforce Marketing Cloud Developer",

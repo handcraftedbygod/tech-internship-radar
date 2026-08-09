@@ -2,14 +2,14 @@
   "slug": "itol-recruit",
   "name": "ITOL Recruit",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 101,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 101,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 100
     },
     {
       "hub": "London",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 98
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -36,7 +36,7 @@
     0,
     0,
     0,
-    3,
+    101,
     0,
     0,
     0,
@@ -44,25 +44,74 @@
   ],
   "recentPostings": [
     {
-      "id": "3d3ade7b0217866072436afb97daf4b7177071ca",
-      "title": "Junior AI Developer",
-      "url": "https://www.reed.co.uk/jobs/junior-ai-developer/57197835?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "4507993d6173a5adbd0d1de00edc1f948ca94d01",
+      "id": "b3418e28d4032ab7e05cb99b74f92a3e9c604fae",
       "title": "Coding and Programming Trainee",
-      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57198442?utm_source=freehire.me",
-      "location": "Nuneaton",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143031",
+      "location": "RM82JN",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     },
     {
-      "id": "a7e173c8e6e9bca296ebc59576eae968c0f20b0c",
-      "title": "Web Developer Trainee",
-      "url": "https://www.reed.co.uk/jobs/web-developer-trainee/57198011?utm_source=freehire.me",
-      "location": "Stockport",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
+      "id": "84a552f61a13927cf9dddf311ba1b174c9da3c16",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143101",
+      "location": "SK176EL",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "4f3160c5589728a3a37c496b619d8bdf8a716e5d",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143103",
+      "location": "CM201WG",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "ceed0931d7e699d51dc6fd80e9adebde8283b52b",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143104",
+      "location": "BA12AF",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "a10a1fa89876fe45eb87fe5aac75feff296880c8",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143139",
+      "location": "SG12FQ",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "b3cbc508926e0c5de5df50f52a541a009718bd59",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57143141",
+      "location": "CH12HJ",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "cae15723fbd109fc83e6728e5f0794f26e8ed6d7",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57147495",
+      "location": "HA90AA",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "4fdf8b615e9361df5954010f1f142f6d5adb11e7",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57147544",
+      "location": "DE142EB",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "5d94cf08419df05e73206a4ddad2df3c496519b2",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57166226",
+      "location": "NW44BG",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "efd6e4a4a6723159902671b56fad5bae13188f30",
+      "title": "Coding and Programming Trainee",
+      "url": "https://www.reed.co.uk/jobs/coding-and-programming-trainee/57170723",
+      "location": "ME141TF",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

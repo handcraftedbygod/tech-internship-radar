@@ -2,21 +2,21 @@
   "slug": "abrio",
   "name": "ABRIO GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f8a6d252f4f289a405e74a5d4eea88f2c7f17cb",
+      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "url": "https://www.adzuna.de/details/5827233935?utm_medium=api&utm_source=freehire.me",
+      "location": "Bockenheim, Frankfurt am Main",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "bf41a59fb03a3e19ddaa0759f773f2e098806d47",
       "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",

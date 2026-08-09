@@ -2,30 +2,30 @@
   "slug": "newto-training",
   "name": "Newto Training",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 19,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,34 @@
     0,
     0,
     0,
-    16,
+    19,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d887d496a5799dfdce3861d8d69ea1db2ae7c7fb",
+      "title": "Junior AI Engineer / Machine Learning Engineer no experience needed",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5832938933?se=hOrsbneT8RGWPoJqQXFPnw&utm_medium=api&utm_source=freehire.me&v=DFBC7F0335B9A05DA5C53B374675B987AB2D7936",
+      "location": "Leeds, West Yorkshire",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "0a4b1f212357c605c63b4080ba61ad679b3dcd6a",
+      "title": "Trainee Network Engineer No Experience Required",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5830868041?se=eBjr36mT8RG9ks23jnlnsA&utm_medium=api&utm_source=freehire.me&v=CF47AC97706AB91FE5231A0820D09D537149F231",
+      "location": "Edinburgh, Scotland",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "e3f2d7868b571fb440afead20b034e1e9efd1ff2",
+      "title": "Trainee Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5831881493?utm_medium=api&utm_source=freehire.me",
+      "location": "Broadgate, Central London",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "ee2dcb8d7b62d2cbaffe32d7df02690f65c302fa",
       "title": "Junior Cyber Security Engineer",
@@ -89,27 +110,6 @@
       "id": "c9093eed286a41833751b8653871f4e2baa24bf2",
       "title": "Trainee Network Security Engineer",
       "url": "https://www.reed.co.uk/jobs/trainee-network-security-engineer/57188148?utm_source=freehire.me",
-      "location": "United Kingdom",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "12e956ef3b8236075da9ff513500229242d8751e",
-      "title": "Trainee Data Analyst Associate",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-associate/57189444?utm_source=freehire.me",
-      "location": "United Kingdom",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "df78e22f3b52fe49473f1ee7fb98c19443937481",
-      "title": "Data Analyst Trainee",
-      "url": "https://newtotraining.com/landing/become-a-data-analyst-reed/?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "745ca78c4bc25a807f0f1d1a617f1457b1ced5cc",
-      "title": "Trainee Data Engineer",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-engineer/57189534?utm_source=freehire.me",
       "location": "United Kingdom",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }

@@ -2,21 +2,21 @@
   "slug": "continental",
   "name": "Continental",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6517a7c4765812e74a3ce9bb14cfa631f7ac3a5",
+      "title": "Internship - Cybersecurity Reporting, Training & Awareness",
+      "url": "https://jobs.smartrecruiters.com/continental/744000141417650?utm_source=freehire.me",
+      "location": "Hannover, NDS",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "0eac5ae8515998d3023d24625809faea1e238c8c",
       "title": "Mandatory Internship – Cybersecurity Reporting, Training & Awareness",

@@ -2,21 +2,21 @@
   "slug": "zendesk",
   "name": "Zendesk",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "72beca53f2ba7029df965d531bc7588b0acd0e38",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://www.adzuna.de/details/5833702220?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "0f6b75172377956e532c6f1bdf92fa1355c357cd",
       "title": "Machine Learning Engineering Intern",

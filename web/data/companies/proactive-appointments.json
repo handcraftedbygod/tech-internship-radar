@@ -1,0 +1,45 @@
+{
+  "slug": "proactive-appointments",
+  "name": "Proactive Appointments",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-09T05:05:05.965Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1f5a0b909b52f4e0ae0917a27a19f3d5042fd854",
+      "title": "Junior Java Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-java-developer/57149631",
+      "location": "Weston-super-Mare",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    }
+  ]
+}

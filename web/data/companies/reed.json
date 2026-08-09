@@ -1,0 +1,52 @@
+{
+  "slug": "reed",
+  "name": "Reed",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-09T05:05:05.965Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7eb6501a8be23400ebc4225f293b85253291c72f",
+      "title": "Junior Data Scientist",
+      "url": "https://www.reed.co.uk/jobs/junior-data-scientist/57210409?utm_source=freehire.me",
+      "location": "City of London",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "85556e0e96dc0e5264e243b15c0a19ca8643ca50",
+      "title": "Junior Data Scientist",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5832205398?se=is9rsWaT8RG9ks23jnlnsA&utm_medium=api&utm_source=freehire.me&v=E23C4F906E0F376FFDA92E6B96DEDA38672A0FC8",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    }
+  ]
+}

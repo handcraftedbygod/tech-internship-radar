@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 95,
+  "currentOpenings": 96,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 95,
+  "totalPostings": 96,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 82
+      "count": 83
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 71
+      "count": 72
     },
     {
       "id": "ai",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    95,
+    96,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a42495809940ecd6135d576f07876d7f85e9cc0a",
+      "title": "Frontend Engineer Intern (Ads Interface) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/frontend-engineer-intern-ads-interface-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "7d1f2f76f6fcbc42a9e4a17e34a3a440e49c67d9",
       "title": "Data Analyst Project Intern (TikTok Shop - User Product) - 2026 Start (BS/MS)",
@@ -112,13 +119,6 @@
       "id": "b35765c43c59bb534104cc34b4c084c8055e8599",
       "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
       "url": "https://lifeattiktok.com/search/7668675500744837381",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
-    },
-    {
-      "id": "92c451fd6a5e46ee0160d75fe8aa49e8cf135194",
-      "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
-      "url": "https://lifeattiktok.com/search/7668584161852229893",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }

@@ -2,13 +2,17 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9598af2a4b7d949ef4f1f384286909b8e2ca3e46",
+      "title": "Machine Learning Intern",
+      "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=freehire.me",
+      "location": "BLANK,BLANK,Multiple Locations",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "83a10c374bed0f2f4dc113cf43bd57e91929262a",
       "title": "Machine Learning Intern",

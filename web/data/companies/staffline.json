@@ -1,0 +1,45 @@
+{
+  "slug": "staffline",
+  "name": "Staffline",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-09T05:05:05.965Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3bfe356c253146d9e981b53c7a38b0bb782f0b86",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5829059789?utm_medium=api&utm_source=freehire.me",
+      "location": "Cambus, Alloa",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    }
+  ]
+}

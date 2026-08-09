@@ -2,26 +2,26 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "hw",
@@ -37,13 +37,34 @@
     0,
     0,
     0,
-    5,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a735685ce11f2bfcd67fb82a0da29b0b561ea7a0",
+      "title": "Infrastructure & DevOps Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/boschgroup/744000140661950?utm_source=freehire.me",
+      "location": "Aveiro, PT",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "6804c05d94ae830ff7a553696d58e5a2fa66165a",
+      "title": "Software Development Intern (Full-Stack)",
+      "url": "https://jobs.smartrecruiters.com/boschgroup/744000141682414?utm_source=freehire.me",
+      "location": "Stuttgart, BW",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "0f85ee7e88eaf01f756b6008e5380cb6f278a2bc",
+      "title": "Data Science Intern",
+      "url": "https://jobs.smartrecruiters.com/boschgroup/744000141677619?utm_source=freehire.me",
+      "location": "Reutlingen, BW, DE",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
     {
       "id": "cd0339a76764405ff7f078ab1c21b5e96d1da6d8",
       "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics",

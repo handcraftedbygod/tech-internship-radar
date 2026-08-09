@@ -1,0 +1,66 @@
+{
+  "slug": "plum-personnel",
+  "name": "Plum Personnel",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-08-09T05:05:05.965Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "994773b3e4e2ec5f898951e781d5a5f9184791ec",
+      "title": "Junior Application Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-application-developer/57177686",
+      "location": "GU98AD",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "ade21403cf2ab16764bace05b605efeb0cdcd5a4",
+      "title": "Junior Software Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-software-developer/57127323",
+      "location": "GU98AD",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "0b15d7fc696eddf509707b6e7f7e789539f0a69b",
+      "title": "Junior Software Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-software-developer/57127322",
+      "location": "GU98AD",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    },
+    {
+      "id": "964cfd287010dfac8e46245aaea0e8e39c67b19f",
+      "title": "Junior Application Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-application-developer/57177687",
+      "location": "GU98AD",
+      "firstSeenAt": "2026-08-09T05:05:05.965Z"
+    }
+  ]
+}
