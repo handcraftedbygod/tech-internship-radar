@@ -172,6 +172,10 @@ export function filterJobs(
     // (company.html?slug=). Skip it instead: it's unusable either way.
     if (!raw.title) continue;
     if (!raw.company?.trim()) continue;
+    // freehire occasionally carries a bare internal listing ID (e.g. "130844")
+    // in the company field instead of a real name -- no real employer is
+    // registered as just a number, so this is unusable the same way.
+    if (/^\d+$/.test(raw.company.trim())) continue;
     if (isSpamCompany(raw.company)) continue;
 
     const categories = matchedCategories(raw, keywords);
@@ -183,6 +187,10 @@ export function filterJobs(
     const { descriptionText, ...rest } = raw;
     jobs.push({
       ...rest,
+      // freehire's aggregation sometimes carries a leading/trailing space on
+      // the company name (e.g. " nology") -- cosmetic, but shows up verbatim
+      // anywhere the name is displayed.
+      company: raw.company.trim(),
       id: computeId(raw),
       tags: matchedTags(raw, keywords),
       categories,

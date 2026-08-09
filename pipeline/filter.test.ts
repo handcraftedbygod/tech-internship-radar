@@ -74,6 +74,22 @@ test("skips a raw job with a blank company (breaks its company-page link otherwi
   assert.equal(result.length, 0);
 });
 
+test("trims leading/trailing whitespace from a company name", () => {
+  const result = filterJobs([job({ title: "Software Engineering Intern", company: " Nology " })], keywords, locations, settings);
+  assert.equal(result[0].company, "Nology");
+});
+
+test("skips a raw job whose company is a bare internal ID instead of a real name", () => {
+  const result = filterJobs(
+    [job({ title: "Software Engineering Intern", company: "130844" }), job({ title: "Praktikum", company: "Acme" })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+  assert.equal(result[0].company, "Acme");
+});
+
 test("drops known templated-spam companies regardless of source, even with an otherwise-matching title", () => {
   const result = filterJobs(
     [
