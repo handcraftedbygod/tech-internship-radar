@@ -157,6 +157,31 @@ test("buildWeeklyReport returns null topPay when there are no rows this week", (
   assert.equal(report.topPay, null);
 });
 
+test("buildWeeklyReport's headline prefers FAANG tier over a fresher NOTABLE-tier listing", () => {
+  const rows = [
+    row({ company: "Meta", title: "Older FAANG post", first_seen_at: daysAgo(5) }),
+    row({ company: "Wise", title: "Fresher NOTABLE post", first_seen_at: daysAgo(1) }),
+  ];
+  const report = buildWeeklyReport(rows, {}, TIERS, undefined, NOW);
+  assert.equal(report.headline?.company, "Meta");
+  assert.equal(report.headline?.badge, "FAANG");
+});
+
+test("buildWeeklyReport's headline falls back to the freshest listing when nothing tiered posted", () => {
+  const rows = [
+    row({ company: "Acme", title: "Older", first_seen_at: daysAgo(5) }),
+    row({ company: "Beta", title: "Newer", first_seen_at: daysAgo(1) }),
+  ];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.headline?.company, "Beta");
+  assert.equal(report.headline?.badge, null);
+});
+
+test("buildWeeklyReport returns null headline when there are no rows this week", () => {
+  const report = buildWeeklyReport([], {}, [], undefined, NOW);
+  assert.equal(report.headline, null);
+});
+
 test("buildWeeklyReport passes ycHiring through unchanged, defaulting to zero", () => {
   const withYc = buildWeeklyReport([], {}, [], { europe: 12, northAmerica: 8 }, NOW);
   assert.deepEqual(withYc.ycHiring, { europe: 12, northAmerica: 8 });

@@ -51,6 +51,12 @@ function reportCardHtml(report) {
         <span class="dotted-rule dotted-rule--flex" aria-hidden="true"></span>
         <span class="signal-track-label">${escapeHtml(pctLabel(report.pctChange))} VS. PRIOR WEEK</span>
       </div>
+      ${report.headline ? `
+      <a href="${escapeHtml(report.headline.url)}" target="_blank" rel="noreferrer" style="display:block;padding-bottom:18px;">
+        ${report.headline.badge ? `<span class="signal-pill">${escapeHtml(report.headline.badge)}</span> ` : ""}
+        <span class="row-role" style="font-size:14px">${escapeHtml(report.headline.title)} at ${escapeHtml(report.headline.company)}</span>
+        <span style="display:block;margin-top:4px;font-size:11px;color:rgba(244,247,249,0.5);">${escapeHtml(report.headline.hub)} · ${formatPayRange(report.headline)}</span>
+      </a>` : ""}
       <div class="stat-strip">
         <div class="stat-cell">
           <div class="stat-label">NEW LISTINGS</div>

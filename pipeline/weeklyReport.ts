@@ -44,6 +44,21 @@ export interface WeeklyReport {
     low: number;
     high: number;
   } | null;
+  // One editorial pick for the top of every draft: the freshest listing from
+  // a FAANG/notable-tier company this week (falling back to the single
+  // freshest listing overall if none posted), not just "the highest usdMid"
+  // -- that's what topPay already covers, and repeating it here would make
+  // the two fields redundant instead of complementary.
+  headline: {
+    company: string;
+    title: string;
+    url: string;
+    hub: string;
+    badge: "FAANG" | "NOTABLE" | null;
+    currency: "eur" | "usd";
+    low: number;
+    high: number;
+  } | null;
 }
 
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
@@ -144,6 +159,34 @@ export function buildWeeklyReport(
     };
   }
 
+  let headline: WeeklyReport["headline"] = null;
+  const tiered = thisWeek
+    .map((r) => ({ r, tier: tierForCompany(r.company, tiers) }))
+    .filter((x): x is { r: ReportRow; tier: CompanyTier } => x.tier !== null);
+  const headlinePool = tiered.length ? tiered : thisWeek.map((r) => ({ r, tier: null as CompanyTier | null }));
+  // Prefer FAANG (elite) tier over trading/notable over untiered, then the
+  // most recently seen -- "the freshest big-name opening", not just "the
+  // freshest listing, period".
+  const tierRank = (t: CompanyTier | null) => (t?.id === "elite" ? 2 : t ? 1 : 0);
+  const pick = headlinePool.reduce<(typeof headlinePool)[number] | null>((best, cur) => {
+    if (!best) return cur;
+    if (tierRank(cur.tier) !== tierRank(best.tier)) return tierRank(cur.tier) > tierRank(best.tier) ? cur : best;
+    return cur.r.first_seen_at > best.r.first_seen_at ? cur : best;
+  }, null);
+  if (pick) {
+    const pay = estimatePay(pick.r, tiers);
+    headline = {
+      company: pick.r.company,
+      title: pick.r.title,
+      url: pick.r.url,
+      hub: hubFor(pick.r.location),
+      badge: tierBadge(pick.tier?.id ?? null),
+      currency: pay.currency,
+      low: Math.round(pay.low),
+      high: Math.round(pay.high),
+    };
+  }
+
   return {
     weekOf: cutoffThisWeek.slice(0, 10),
     newCount: thisWeek.length,
@@ -155,6 +198,7 @@ export function buildWeeklyReport(
     notableHiring,
     ycHiring,
     topPay,
+    headline,
   };
 }
 
@@ -172,21 +216,25 @@ function ycSummary(yc: WeeklyReport["ycHiring"]): string | null {
 
 const CURRENCY_SYMBOL: Record<string, string> = { eur: "€", usd: "$" };
 
-function formatPayRange(pay: NonNullable<WeeklyReport["topPay"]>): string {
+function formatPayRange(pay: { currency: "eur" | "usd"; low: number; high: number }): string {
   const symbol = CURRENCY_SYMBOL[pay.currency];
   return `${symbol}${pay.low}–${symbol}${pay.high}/h`;
+}
+
+// The one-line spotlight every draft leads with -- combines tier, pay, and
+// freshness into a single hook instead of a raw number dump.
+function headlineLine(h: NonNullable<WeeklyReport["headline"]>): string {
+  const tierPart = h.badge ? `${h.badge} · ` : "";
+  return `${tierPart}${h.title} at ${h.company} (${h.hub}) — ${formatPayRange(h)}`;
 }
 
 const TWITTER_LIMIT = 280;
 
 function buildTwitterDraft(r: WeeklyReport): string {
   const parts = [`This week on Tech Internship Radar: ${r.newCount} new listings (${pctLabel(r.pctChange)}).`];
-  const faang = r.notableHiring.filter((c) => c.badge === "FAANG");
-  const spotlight = faang.length ? faang : r.notableHiring;
-  if (spotlight.length) {
-    parts.push(`${spotlight[0].badge} hiring: ${spotlight.slice(0, 3).map((c) => c.name).join(", ")}.`);
-  }
-  if (r.topPay) parts.push(`Top pay: ${r.topPay.company} — ${formatPayRange(r.topPay)}.`);
+  // Twitter leads with the headline pick instead of separate FAANG/top-pay
+  // clauses -- it already synthesizes both, restating them burns characters.
+  if (r.headline) parts.push(`Standout: ${headlineLine(r.headline)}.`);
   const yc = ycSummary(r.ycHiring);
   if (yc) parts.push(yc);
   if (r.topHubs[0]) parts.push(`Top hub: ${r.topHubs[0].hub}.`);
@@ -201,6 +249,7 @@ function buildLinkedInDraft(r: WeeklyReport): string {
     "",
     `${r.newCount} new internship, new-grad and junior listings this week (${pctLabel(r.pctChange)} vs. last week).`,
   ];
+  if (r.headline) lines.push("", `Standout this week: ${headlineLine(r.headline)}`);
   if (r.notableHiring.length) {
     lines.push("", "FAANG / notable companies hiring:", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] (${c.count})`));
   }
@@ -220,6 +269,7 @@ function buildLinkedInDraft(r: WeeklyReport): string {
 
 function buildRedditGithubDraft(r: WeeklyReport): string {
   const lines = [`# Tech Internship Radar — week of ${r.weekOf}`, "", `**${r.newCount} new listings** this week (${pctLabel(r.pctChange)} vs. last week).`];
+  if (r.headline) lines.push("", `**Standout this week:** ${headlineLine(r.headline)}`);
   if (r.notableHiring.length) {
     lines.push("", "## FAANG / notable companies hiring", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] — ${c.count}`));
   }
