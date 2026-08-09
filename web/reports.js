@@ -66,6 +66,11 @@ function reportCardHtml(report) {
           <div class="stat-label">PRIOR WEEK</div>
           <div class="stat-value">${report.prevWeekCount}</div>
         </div>
+        ${typeof report.totalTracked === "number" ? `
+        <div class="stat-cell">
+          <div class="stat-label">TRACKED SINCE LAUNCH</div>
+          <div class="stat-value" style="font-size:18px">${report.totalTracked.toLocaleString()}</div>
+        </div>` : ""}
         ${report.newCompanies && report.newCompanies.totalCount ? `
         <div class="stat-cell">
           <div class="stat-label">NEW COMPANIES</div>

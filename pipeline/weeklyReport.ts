@@ -31,6 +31,10 @@ export interface WeeklyReport {
   newCount: number;
   prevWeekCount: number;
   pctChange: number;
+  // All-time count -- store.ts never deletes a row (see its own comment on
+  // storeJobs()), so this is a true running total since launch, not an
+  // estimate.
+  totalTracked: number;
   topHubs: { hub: string; count: number }[];
   topCompanies: { name: string; slug: string; count: number }[];
   // Companies whose earliest-ever tracked posting falls in this week's
@@ -242,6 +246,7 @@ export function buildWeeklyReport(
     newCount: thisWeek.length,
     prevWeekCount: lastWeek.length,
     pctChange: pctChange(thisWeek.length, lastWeek.length),
+    totalTracked: rows.length,
     topHubs,
     topCompanies,
     newCompanies,
@@ -305,6 +310,7 @@ function buildTwitterDraft(r: WeeklyReport): string {
   // Lowest priority -- rare enough that it's fine to be first trimmed by the
   // length cap below when the rest of the draft already fills the budget.
   if (r.earlyPick) parts.push(earlySummary(r.earlyPick));
+  parts.push(`${r.totalTracked.toLocaleString()} tracked since launch.`);
   const text = parts.join(" ");
   return text.length > TWITTER_LIMIT ? text.slice(0, TWITTER_LIMIT - 1) + "…" : text;
 }
@@ -332,6 +338,7 @@ function buildLinkedInDraft(r: WeeklyReport): string {
   if (r.fastestGrowingDiscipline) {
     lines.push("", `Fastest-growing discipline: ${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }
+  lines.push("", `${r.totalTracked.toLocaleString()} internships tracked since launch.`);
   lines.push("", SITE_URL);
   return lines.join("\n");
 }
@@ -359,6 +366,7 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
   if (r.fastestGrowingDiscipline) {
     lines.push("", `## Fastest-growing discipline`, `${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }
+  lines.push("", `${r.totalTracked.toLocaleString()} internships tracked since launch.`);
   lines.push("", `[${SITE_URL}](${SITE_URL})`);
   return lines.join("\n");
 }

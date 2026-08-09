@@ -40,6 +40,12 @@ test("buildWeeklyReport counts rows in the trailing 7-day window as newCount", (
   assert.equal(report.newCount, 2);
 });
 
+test("buildWeeklyReport's totalTracked counts every row ever, not just this week's", () => {
+  const rows = [row({ first_seen_at: daysAgo(1) }), row({ first_seen_at: daysAgo(6) }), row({ first_seen_at: daysAgo(400) })];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.totalTracked, 3);
+});
+
 test("buildWeeklyReport counts the prior 7-14 day window as prevWeekCount", () => {
   const rows = [row({ first_seen_at: daysAgo(1) }), row({ first_seen_at: daysAgo(9) }), row({ first_seen_at: daysAgo(13) })];
   const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
