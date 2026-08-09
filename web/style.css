@@ -236,6 +236,11 @@ a.brand { text-decoration: none; }
 }
 .stat-cell {
   flex: 1 1 96px;
+  /* Without a floor, flex-shrink lets a long label ("TRACKED SINCE LAUNCH")
+     get compressed below its own text width instead of wrapping the row --
+     the report card can carry up to 8 cells, unlike the 4 fixed ones in the
+     hero stats above, so cells need a real minimum before they cramp. */
+  min-width: 150px;
   padding: 16px 18px 14px 0;
   border-left: 1px solid rgba(244,247,249,0.1);
 }
