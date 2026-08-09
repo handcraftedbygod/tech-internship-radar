@@ -10,7 +10,13 @@
     "url": "https://github.com/handcraftedbygod/tech-internship-radar.git"
   },
   "license": "MIT",
-  "keywords": ["internship", "jobs", "tech", "students", "career"],
+  "keywords": [
+    "internship",
+    "jobs",
+    "tech",
+    "students",
+    "career"
+  ],
   "engines": {
     "node": ">=22"
   },
@@ -21,6 +27,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@types/node": "^22.10.0",
     "typescript": "^5.7.0"
   }

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { buildWeeklyReport } from "./weeklyReport.ts";
+import { buildWeeklyReport, formatDraft } from "./weeklyReport.ts";
 
 const NOW = new Date("2026-08-09T00:00:00.000Z");
 const DAY = 24 * 60 * 60 * 1000;
@@ -242,4 +242,19 @@ test("buildWeeklyReport passes ycHiring through unchanged, defaulting to zero", 
 
   const withoutYc = buildWeeklyReport([], {}, [], undefined, NOW);
   assert.deepEqual(withoutYc.ycHiring, { europe: 0, northAmerica: 0 });
+});
+
+test("formatDraft's Twitter section always keeps the full share URL, truncating the body instead", () => {
+  // An absurdly long title/company forces the headline clause alone past the
+  // 280-char budget, deterministically exercising the truncation path.
+  const longTitle = "Software Engineering Intern ".repeat(20);
+  const tiers = [{ id: "elite", mult: 1.35, names: ["Megacorp"] }];
+  const rows = [row({ company: "Megacorp", title: longTitle, first_seen_at: daysAgo(1) })];
+  const report = buildWeeklyReport(rows, {}, tiers, undefined, NOW);
+  const shareUrl = "https://handcraftedbygod.github.io/tech-internship-radar/reports/2026-08-02.html";
+
+  const draft = formatDraft(report, shareUrl);
+  const twitterSection = draft.split("## LinkedIn")[0];
+  assert.ok(twitterSection.includes(shareUrl), "share URL must survive truncation");
+  assert.ok(twitterSection.includes("…"), "body should actually be truncated for this test to be meaningful");
 });

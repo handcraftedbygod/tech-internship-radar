@@ -1,15 +1,18 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { openDb } from "./store.ts";
 import { loadCompanyAliases, loadTiers, tierForCompany, type CompanyTier } from "../config/load.ts";
 import { hubFor, disciplineFor, companySlug, tierBadge, estimatePay } from "./company.ts";
+import { renderOgCard, buildOgHtml } from "./ogCard.ts";
 
 const REPORTS_PATH = path.join(import.meta.dirname, "..", "web", "data", "reports.json");
 // Regenerated every run and gitignored, like pipeline-summary.md -- delivered
 // via $GITHUB_STEP_SUMMARY in the workflow step rather than committed.
 const DRAFT_PATH = path.join(import.meta.dirname, "..", "weekly-report-draft.md");
-const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
+export const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
+const OG_DIR = path.join(import.meta.dirname, "..", "web", "data", "og");
+const REPORTS_HTML_DIR = path.join(import.meta.dirname, "..", "web", "reports");
 // weekly-report runs as its own job (see .github/workflows/pipeline.yml),
 // separate from the nightly fetch -- it reads yc.json rather than refetching
 // yc-oss/api itself.
@@ -298,7 +301,7 @@ function newCompaniesSummary(nc: WeeklyReport["newCompanies"]): string | null {
 
 const TWITTER_LIMIT = 280;
 
-function buildTwitterDraft(r: WeeklyReport): string {
+function buildTwitterDraft(r: WeeklyReport, shareUrl: string): string {
   const parts = [`This week on Tech Internship Radar: ${r.newCount} new listings (${pctLabel(r.pctChange)}).`];
   // Twitter leads with the headline pick instead of separate FAANG/top-pay
   // clauses -- it already synthesizes both, restating them burns characters.
@@ -311,11 +314,17 @@ function buildTwitterDraft(r: WeeklyReport): string {
   // length cap below when the rest of the draft already fills the budget.
   if (r.earlyPick) parts.push(earlySummary(r.earlyPick));
   parts.push(`${r.totalTracked.toLocaleString()} tracked since launch.`);
-  const text = parts.join(" ");
-  return text.length > TWITTER_LIMIT ? text.slice(0, TWITTER_LIMIT - 1) + "…" : text;
+  const body = parts.join(" ");
+  // The URL is what makes the tweet unfurl into the week's actual OG card --
+  // it must never be the thing that gets cut, so the body is truncated to
+  // leave room for it instead of the other way around.
+  const suffix = ` ${shareUrl}`;
+  const budget = TWITTER_LIMIT - suffix.length;
+  const truncatedBody = body.length > budget ? body.slice(0, budget - 1) + "…" : body;
+  return truncatedBody + suffix;
 }
 
-function buildLinkedInDraft(r: WeeklyReport): string {
+function buildLinkedInDraft(r: WeeklyReport, shareUrl: string): string {
   const lines = [
     `Tech Internship Radar — week of ${r.weekOf}`,
     "",
@@ -339,11 +348,11 @@ function buildLinkedInDraft(r: WeeklyReport): string {
     lines.push("", `Fastest-growing discipline: ${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }
   lines.push("", `${r.totalTracked.toLocaleString()} internships tracked since launch.`);
-  lines.push("", SITE_URL);
+  lines.push("", shareUrl);
   return lines.join("\n");
 }
 
-function buildRedditGithubDraft(r: WeeklyReport): string {
+function buildRedditGithubDraft(r: WeeklyReport, shareUrl: string): string {
   const lines = [`# Tech Internship Radar — week of ${r.weekOf}`, "", `**${r.newCount} new listings** this week (${pctLabel(r.pctChange)} vs. last week).`];
   if (r.headline) lines.push("", `**Standout this week:** ${headlineLine(r.headline)}`);
   if (r.notableHiring.length) {
@@ -367,18 +376,20 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
     lines.push("", `## Fastest-growing discipline`, `${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }
   lines.push("", `${r.totalTracked.toLocaleString()} internships tracked since launch.`);
-  lines.push("", `[${SITE_URL}](${SITE_URL})`);
+  lines.push("", `[${shareUrl}](${shareUrl})`);
   return lines.join("\n");
 }
 
 // Three variants, not four: LinkedIn's plain text and the Reddit/GitHub
 // markdown draft would otherwise be near-duplicates. Twitter alone needs its
-// own pass for the character limit.
-export function formatDraft(report: WeeklyReport): string {
+// own pass for the character limit. shareUrl is the per-week share page
+// (see pipeline/ogCard.ts), not the bare homepage -- that's what makes the
+// link unfurl into that week's actual numbers instead of a generic preview.
+export function formatDraft(report: WeeklyReport, shareUrl: string): string {
   return [
-    "## Twitter / X", "", buildTwitterDraft(report), "",
-    "## LinkedIn", "", buildLinkedInDraft(report), "",
-    "## Reddit / GitHub Discussions", "", buildRedditGithubDraft(report), "",
+    "## Twitter / X", "", buildTwitterDraft(report, shareUrl), "",
+    "## LinkedIn", "", buildLinkedInDraft(report, shareUrl), "",
+    "## Reddit / GitHub Discussions", "", buildRedditGithubDraft(report, shareUrl), "",
   ].join("\n");
 }
 
@@ -412,7 +423,15 @@ function main() {
     // No reports.json yet -- first run.
   }
   writeFileSync(REPORTS_PATH, JSON.stringify([report, ...existing], null, 2));
-  writeFileSync(DRAFT_PATH, formatDraft(report));
+
+  mkdirSync(OG_DIR, { recursive: true });
+  mkdirSync(REPORTS_HTML_DIR, { recursive: true });
+  const imageUrl = `${SITE_URL}data/og/${report.weekOf}.png`;
+  const shareUrl = `${SITE_URL}reports/${report.weekOf}.html`;
+  writeFileSync(path.join(OG_DIR, `${report.weekOf}.png`), renderOgCard(report));
+  writeFileSync(path.join(REPORTS_HTML_DIR, `${report.weekOf}.html`), buildOgHtml(report, imageUrl, shareUrl));
+
+  writeFileSync(DRAFT_PATH, formatDraft(report, shareUrl));
 
   console.log(`Weekly report: ${report.newCount} new listings (${pctLabel(report.pctChange)}). Draft written to weekly-report-draft.md`);
 }
