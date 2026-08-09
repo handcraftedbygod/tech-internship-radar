@@ -86,8 +86,12 @@ A weekly market snapshot, generated straight from the pipeline, every Sunday:
   its full posting history in one place.
 - **Watchlist.** Watch a company from its page and a banner tells you the moment it posts
   something new. Stored on your device, no account, no email.
-- **Weekly reports**, every Sunday: new-listing counts, week-over-week change, the hottest hubs
-  and companies, and the fastest-growing discipline.
+- **Weekly reports**, every Sunday: new-listing counts and week-over-week change, which FAANG/
+  notable-tier companies are hiring, the week's top-paying listing, the first sighting of a
+  hiring cycle beyond the current year, brand-new companies posting for the first time, YC
+  startups hiring in Europe and North America, the hottest hubs and companies, and the
+  fastest-growing discipline. Each week gets its own shareable link with a real preview image,
+  auto-posted as ready-to-use drafts for Twitter/X, LinkedIn, and Reddit.
 - Every hub, keyword, and company lives in `config/`, so growing coverage is a data change, not
   a code change. See [Contributing](#contributing) below.
 - Sources: Greenhouse, Lever, Ashby, Workday, SmartRecruiters, and Recruitee's public job board
