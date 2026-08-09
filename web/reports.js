@@ -76,6 +76,11 @@ function reportCardHtml(report) {
           <div class="stat-label">TOP PAY</div>
           <div class="stat-value" style="font-size:18px" title="${escapeHtml(report.topPay.title)} at ${escapeHtml(report.topPay.company)}">${formatPayRange(report.topPay)}</div>
         </div>` : ""}
+        ${report.earlyPick ? `
+        <div class="stat-cell">
+          <div class="stat-label">EARLY BIRD</div>
+          <div class="stat-value" style="font-size:18px" title="${escapeHtml(report.earlyPick.title)} at ${escapeHtml(report.earlyPick.company)}">${escapeHtml(report.earlyPick.season)}</div>
+        </div>` : ""}
         ${discipline ? `
         <div class="stat-cell">
           <div class="stat-label">FASTEST GROWING</div>

@@ -22,6 +22,7 @@ interface ReportRow {
   url: string;
   categories: string[];
   advanced_degree: number | null;
+  season: string | null;
   first_seen_at: string;
 }
 
@@ -59,6 +60,10 @@ export interface WeeklyReport {
     low: number;
     high: number;
   } | null;
+  // The listing with the furthest-out hiring cycle spotted this week (season
+  // year beyond the current calendar year) -- the FOMO hook: applicants who
+  // want to be first in line for a cycle nobody else has noticed yet.
+  earlyPick: { company: string; title: string; url: string; season: string; hub: string } | null;
 }
 
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
@@ -69,6 +74,14 @@ const MIN_DISCIPLINE_COUNT = 3;
 function pctChange(current: number, previous: number): number {
   if (previous === 0) return current > 0 ? 100 : 0;
   return Math.round(((current - previous) / previous) * 1000) / 10;
+}
+
+// Mirrors web/app.js's isEarly() year check, reading the already-extracted
+// season column instead of re-parsing the title.
+function seasonYear(season: string | null): number | null {
+  if (!season) return null;
+  const match = season.match(/(20\d{2})/);
+  return match ? Number(match[1]) : null;
 }
 
 export function buildWeeklyReport(
@@ -187,6 +200,20 @@ export function buildWeeklyReport(
     };
   }
 
+  let earlyPick: WeeklyReport["earlyPick"] = null;
+  let earlyBestYear = -Infinity;
+  let earlyBestSeenAt = "";
+  const thisYear = now.getFullYear();
+  for (const r of thisWeek) {
+    const year = seasonYear(r.season);
+    if (year === null || year <= thisYear) continue;
+    if (year < earlyBestYear) continue;
+    if (year === earlyBestYear && r.first_seen_at <= earlyBestSeenAt) continue;
+    earlyBestYear = year;
+    earlyBestSeenAt = r.first_seen_at;
+    earlyPick = { company: r.company, title: r.title, url: r.url, season: r.season as string, hub: hubFor(r.location) };
+  }
+
   return {
     weekOf: cutoffThisWeek.slice(0, 10),
     newCount: thisWeek.length,
@@ -199,6 +226,7 @@ export function buildWeeklyReport(
     ycHiring,
     topPay,
     headline,
+    earlyPick,
   };
 }
 
@@ -228,6 +256,10 @@ function headlineLine(h: NonNullable<WeeklyReport["headline"]>): string {
   return `${tierPart}${h.title} at ${h.company} (${h.hub}) — ${formatPayRange(h)}`;
 }
 
+function earlySummary(e: NonNullable<WeeklyReport["earlyPick"]>): string {
+  return `First ${e.season} posting spotted: ${e.title} at ${e.company} (${e.hub}).`;
+}
+
 const TWITTER_LIMIT = 280;
 
 function buildTwitterDraft(r: WeeklyReport): string {
@@ -239,6 +271,9 @@ function buildTwitterDraft(r: WeeklyReport): string {
   if (yc) parts.push(yc);
   if (r.topHubs[0]) parts.push(`Top hub: ${r.topHubs[0].hub}.`);
   if (r.topCompanies[0]) parts.push(`Most active: ${r.topCompanies[0].name}.`);
+  // Lowest priority -- rare enough that it's fine to be first trimmed by the
+  // length cap below when the rest of the draft already fills the budget.
+  if (r.earlyPick) parts.push(earlySummary(r.earlyPick));
   const text = parts.join(" ");
   return text.length > TWITTER_LIMIT ? text.slice(0, TWITTER_LIMIT - 1) + "…" : text;
 }
@@ -256,6 +291,7 @@ function buildLinkedInDraft(r: WeeklyReport): string {
   if (r.topPay) {
     lines.push("", `Top-paying listing: ${r.topPay.title} at ${r.topPay.company} (${r.topPay.hub}) — ${formatPayRange(r.topPay)}`);
   }
+  if (r.earlyPick) lines.push("", earlySummary(r.earlyPick));
   const yc = ycSummary(r.ycHiring);
   if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "Top hiring hubs:", ...r.topHubs.map((h) => `- ${h.hub} (${h.count})`));
@@ -280,6 +316,7 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
       `**${r.topPay.title}** at **${r.topPay.company}** (${r.topPay.hub}) — ${formatPayRange(r.topPay)}`,
     );
   }
+  if (r.earlyPick) lines.push("", earlySummary(r.earlyPick));
   const yc = ycSummary(r.ycHiring);
   if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "## Top hiring hubs", ...r.topHubs.map((h) => `- ${h.hub} — ${h.count}`));
@@ -308,7 +345,7 @@ function main() {
   let rows: ReportRow[];
   try {
     const raw = db
-      .prepare("SELECT company, location, title, url, categories, advanced_degree, first_seen_at FROM jobs")
+      .prepare("SELECT company, location, title, url, categories, advanced_degree, season, first_seen_at FROM jobs")
       .all() as unknown as (Omit<ReportRow, "categories"> & { categories: string })[];
     rows = raw.map((r) => ({ ...r, categories: JSON.parse(r.categories) as string[] }));
   } finally {

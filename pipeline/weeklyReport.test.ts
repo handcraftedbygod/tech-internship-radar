@@ -17,6 +17,7 @@ function row(
     url: string;
     categories: string[];
     advanced_degree: number | null;
+    season: string | null;
     first_seen_at: string;
   }>,
 ) {
@@ -27,6 +28,7 @@ function row(
     url: "https://example.com/job/1",
     categories: ["internship"],
     advanced_degree: null,
+    season: null,
     first_seen_at: daysAgo(1),
     ...overrides,
   };
@@ -180,6 +182,29 @@ test("buildWeeklyReport's headline falls back to the freshest listing when nothi
 test("buildWeeklyReport returns null headline when there are no rows this week", () => {
   const report = buildWeeklyReport([], {}, [], undefined, NOW);
   assert.equal(report.headline, null);
+});
+
+test("buildWeeklyReport's earlyPick picks the furthest-out season, not just the first early one seen", () => {
+  const rows = [
+    row({ company: "Acme", title: "Summer 2027 role", season: "Summer 2027" }),
+    row({ company: "Beta", title: "Summer 2028 role", season: "Summer 2028" }),
+  ];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.earlyPick?.company, "Beta");
+  assert.equal(report.earlyPick?.season, "Summer 2028");
+});
+
+test("buildWeeklyReport's earlyPick ignores a season in the current or a past year", () => {
+  // NOW is 2026-08-09 -- 2026 is the current year, not "beyond" it.
+  const rows = [row({ company: "Acme", season: "Summer 2026" })];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.earlyPick, null);
+});
+
+test("buildWeeklyReport returns null earlyPick when nothing carries a season", () => {
+  const rows = [row({ company: "Acme", season: null })];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.earlyPick, null);
 });
 
 test("buildWeeklyReport passes ycHiring through unchanged, defaulting to zero", () => {
