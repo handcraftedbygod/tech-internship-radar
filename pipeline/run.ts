@@ -24,7 +24,10 @@ async function main() {
 
   const yc = await fetchYcHiring();
   mkdirSync(path.dirname(YC_OUT_PATH), { recursive: true });
-  writeFileSync(YC_OUT_PATH, JSON.stringify(yc.companies, null, 2));
+  writeFileSync(
+    YC_OUT_PATH,
+    JSON.stringify({ europe: yc.europe, northAmerica: yc.northAmerica }, null, 2),
+  );
 
   const summaryLines = [
     "## Pipeline run summary",
@@ -34,7 +37,7 @@ async function main() {
     ...results.map((r) => `| ${r.source} | ${r.jobs.length} | ${r.error ?? "-"} |`),
     "",
     `Matched internships after filter+dedupe: **${deduped.length}** (archived: ${archived}, exported: ${exportedCount})`,
-    `YC startups hiring (Europe): **${yc.companies.length}**${yc.error ? ` (error: ${yc.error})` : ""}`,
+    `YC startups hiring: Europe **${yc.europe.length}**, North America **${yc.northAmerica.length}**${yc.error ? ` (error: ${yc.error})` : ""}`,
   ];
   const summary = summaryLines.join("\n");
 

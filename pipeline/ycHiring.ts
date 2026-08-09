@@ -23,29 +23,41 @@ interface RawYcCompany {
   regions: string[];
 }
 
+function pickRegion(data: RawYcCompany[], region: string): YcCompany[] {
+  return data
+    .filter((c) => c.status === "Active" && c.regions?.includes(region))
+    .sort((a, b) => b.launched_at - a.launched_at)
+    .slice(0, LIMIT)
+    .map((c) => ({
+      name: c.name,
+      oneLiner: c.one_liner,
+      batch: c.batch,
+      location: c.all_locations,
+      url: c.url,
+    }));
+}
+
 // yc-oss/api mirrors YC's own Algolia search index (unofficial, no per-role
 // job data -- just a company-level "isHiring" flag), refreshed daily via its
 // own GitHub Action. Not a Fetcher/RawJob: there's no individual posting to
 // dedupe or store, so this bypasses filter/dedupe/store.ts entirely and is
 // written straight to its own web/data/yc.json.
-export async function fetchYcHiring(): Promise<{ companies: YcCompany[]; error?: string }> {
+export async function fetchYcHiring(): Promise<{
+  europe: YcCompany[];
+  northAmerica: YcCompany[];
+  error?: string;
+}> {
   try {
     const res = await fetch(HIRING_URL);
-    if (!res.ok) return { companies: [], error: `HTTP ${res.status}` };
+    if (!res.ok) return { europe: [], northAmerica: [], error: `HTTP ${res.status}` };
     const data = (await res.json()) as RawYcCompany[];
-    const companies = data
-      .filter((c) => c.status === "Active" && c.regions?.includes("Europe"))
-      .sort((a, b) => b.launched_at - a.launched_at)
-      .slice(0, LIMIT)
-      .map((c) => ({
-        name: c.name,
-        oneLiner: c.one_liner,
-        batch: c.batch,
-        location: c.all_locations,
-        url: c.url,
-      }));
-    return { companies };
+    return {
+      europe: pickRegion(data, "Europe"),
+      // The API's own region taxonomy uses "America / Canada", not "North
+      // America" (verified live against yc-oss/api's region value set).
+      northAmerica: pickRegion(data, "America / Canada"),
+    };
   } catch (err) {
-    return { companies: [], error: (err as Error).message };
+    return { europe: [], northAmerica: [], error: (err as Error).message };
   }
 }

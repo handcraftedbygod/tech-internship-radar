@@ -416,6 +416,7 @@ a.brand { text-decoration: none; }
   color: rgba(244,247,249,0.5);
 }
 .sort-row { display: flex; gap: 6px; font-size: 9.5px; letter-spacing: 0.16em; }
+.yc-region-row { display: flex; gap: 6px; font-size: 9.5px; letter-spacing: 0.16em; }
 .sort-btn {
   position: relative;
   background: none;

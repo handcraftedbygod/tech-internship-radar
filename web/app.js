@@ -453,6 +453,8 @@ const els = {
   missedList: document.getElementById("missed-list"),
   ycSection: document.getElementById("yc-hiring"),
   ycList: document.getElementById("yc-list"),
+  ycRegionEu: document.getElementById("yc-region-eu"),
+  ycRegionNa: document.getElementById("yc-region-na"),
   currencyToggle: document.getElementById("currency-toggle"),
   currencyGlyph: document.querySelector("#currency-toggle .currency-glyph"),
   watchBanner: document.getElementById("watch-banner"),
@@ -852,16 +854,22 @@ fetch("./data/closed.json")
     els.missedSection.hidden = true;
   });
 
-// YC startups currently hiring, Europe-tagged (see pipeline/ycHiring.ts) --
-// a company directory, not job listings: yc-oss/api has no per-role data,
-// so each row links out to the company's YC page rather than an apply URL.
-function renderYc(companies) {
-  if (!companies || companies.length === 0) {
+// YC startups currently hiring (see pipeline/ycHiring.ts) -- a company
+// directory, not job listings: yc-oss/api has no per-role data, so each row
+// links out to the company's YC page rather than an apply URL. Both regions
+// are fetched once; the toggle just switches which list is shown.
+let ycData = { europe: [], northAmerica: [] };
+let ycRegion = "europe";
+
+function renderYc() {
+  if (ycData.europe.length === 0 && ycData.northAmerica.length === 0) {
     els.ycSection.hidden = true;
     return;
   }
   els.ycSection.hidden = false;
-  els.ycList.innerHTML = companies
+  els.ycRegionEu.classList.toggle("active", ycRegion === "europe");
+  els.ycRegionNa.classList.toggle("active", ycRegion === "northAmerica");
+  els.ycList.innerHTML = ycData[ycRegion]
     .map(
       (c) => `
         <a class="yc-row" href="${escapeHtml(c.url)}" target="_blank" rel="noreferrer">
@@ -875,9 +883,21 @@ function renderYc(companies) {
     .join("");
 }
 
+els.ycRegionEu.addEventListener("click", () => {
+  ycRegion = "europe";
+  renderYc();
+});
+els.ycRegionNa.addEventListener("click", () => {
+  ycRegion = "northAmerica";
+  renderYc();
+});
+
 fetch("./data/yc.json")
   .then((res) => res.json())
-  .then((data) => renderYc(data))
+  .then((data) => {
+    ycData = { europe: data.europe ?? [], northAmerica: data.northAmerica ?? [] };
+    renderYc();
+  })
   .catch(() => {
     els.ycSection.hidden = true;
   });
