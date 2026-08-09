@@ -2,8 +2,8 @@ import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { openDb } from "./store.ts";
-import { loadCompanyAliases } from "../config/load.ts";
-import { hubFor, disciplineFor, companySlug } from "./company.ts";
+import { loadCompanyAliases, loadTiers, tierForCompany, type CompanyTier } from "../config/load.ts";
+import { hubFor, disciplineFor, companySlug, tierBadge } from "./company.ts";
 
 const REPORTS_PATH = path.join(import.meta.dirname, "..", "web", "data", "reports.json");
 // Regenerated every run and gitignored, like pipeline-summary.md -- delivered
@@ -26,6 +26,7 @@ export interface WeeklyReport {
   topHubs: { hub: string; count: number }[];
   topCompanies: { name: string; slug: string; count: number }[];
   fastestGrowingDiscipline: { id: string; label: string; pctChange: number } | null;
+  notableHiring: { name: string; slug: string; badge: "FAANG" | "NOTABLE"; count: number }[];
 }
 
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
@@ -41,6 +42,7 @@ function pctChange(current: number, previous: number): number {
 export function buildWeeklyReport(
   rows: ReportRow[],
   aliases: Record<string, string>,
+  tiers: CompanyTier[],
   now: Date = new Date(),
 ): WeeklyReport {
   const cutoffThisWeek = new Date(now.getTime() - WEEK_MS).toISOString();
@@ -93,6 +95,20 @@ export function buildWeeklyReport(
     }
   }
 
+  const notableCounts = new Map<string, { name: string; badge: "FAANG" | "NOTABLE"; count: number }>();
+  for (const r of thisWeek) {
+    const tier = tierForCompany(r.company, tiers);
+    if (!tier) continue;
+    const badge = tierBadge(tier.id);
+    if (!badge) continue;
+    const slug = companySlug(r.company, aliases);
+    const existing = notableCounts.get(slug);
+    notableCounts.set(slug, { name: r.company, badge, count: (existing?.count ?? 0) + 1 });
+  }
+  const notableHiring = [...notableCounts.entries()]
+    .map(([slug, v]) => ({ slug, name: v.name, badge: v.badge, count: v.count }))
+    .sort((a, b) => b.count - a.count);
+
   return {
     weekOf: cutoffThisWeek.slice(0, 10),
     newCount: thisWeek.length,
@@ -101,6 +117,7 @@ export function buildWeeklyReport(
     topHubs,
     topCompanies,
     fastestGrowingDiscipline,
+    notableHiring,
   };
 }
 
@@ -112,6 +129,11 @@ const TWITTER_LIMIT = 280;
 
 function buildTwitterDraft(r: WeeklyReport): string {
   const parts = [`This week on Tech Internship Radar: ${r.newCount} new listings (${pctLabel(r.pctChange)}).`];
+  const faang = r.notableHiring.filter((c) => c.badge === "FAANG");
+  const spotlight = faang.length ? faang : r.notableHiring;
+  if (spotlight.length) {
+    parts.push(`${spotlight[0].badge} hiring: ${spotlight.slice(0, 3).map((c) => c.name).join(", ")}.`);
+  }
   if (r.topHubs[0]) parts.push(`Top hub: ${r.topHubs[0].hub}.`);
   if (r.topCompanies[0]) parts.push(`Most active: ${r.topCompanies[0].name}.`);
   const text = parts.join(" ");
@@ -124,6 +146,9 @@ function buildLinkedInDraft(r: WeeklyReport): string {
     "",
     `${r.newCount} new internship, new-grad and junior listings this week (${pctLabel(r.pctChange)} vs. last week).`,
   ];
+  if (r.notableHiring.length) {
+    lines.push("", "FAANG / notable companies hiring:", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] (${c.count})`));
+  }
   if (r.topHubs.length) lines.push("", "Top hiring hubs:", ...r.topHubs.map((h) => `- ${h.hub} (${h.count})`));
   if (r.topCompanies.length) lines.push("", "Most active companies:", ...r.topCompanies.map((c) => `- ${c.name} (${c.count})`));
   if (r.fastestGrowingDiscipline) {
@@ -135,6 +160,9 @@ function buildLinkedInDraft(r: WeeklyReport): string {
 
 function buildRedditGithubDraft(r: WeeklyReport): string {
   const lines = [`# Tech Internship Radar — week of ${r.weekOf}`, "", `**${r.newCount} new listings** this week (${pctLabel(r.pctChange)} vs. last week).`];
+  if (r.notableHiring.length) {
+    lines.push("", "## FAANG / notable companies hiring", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] — ${c.count}`));
+  }
   if (r.topHubs.length) lines.push("", "## Top hiring hubs", ...r.topHubs.map((h) => `- ${h.hub} — ${h.count}`));
   if (r.topCompanies.length) lines.push("", "## Most active companies", ...r.topCompanies.map((c) => `- ${c.name} — ${c.count}`));
   if (r.fastestGrowingDiscipline) {
@@ -165,7 +193,8 @@ function main() {
     db.close();
   }
 
-  const report = buildWeeklyReport(rows, aliases);
+  const tiers = loadTiers().tiers;
+  const report = buildWeeklyReport(rows, aliases, tiers);
 
   let existing: WeeklyReport[] = [];
   try {

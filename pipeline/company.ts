@@ -51,6 +51,14 @@ export function hubFor(location: string): string {
   return hit ? hit.name : OTHER_HUB;
 }
 
+// Mirrors web/app.js's tierBadge() -- elite-tier names get the more specific
+// "FAANG" word instead of the generic NOTABLE pill (trading and notable tiers
+// both read as NOTABLE, same as the badge shown on the main table).
+export function tierBadge(tierId: string | null): "FAANG" | "NOTABLE" | null {
+  if (!tierId) return null;
+  return tierId === "elite" ? "FAANG" : "NOTABLE";
+}
+
 // Keyword classification, mirroring web/app.js's CATEGORY_PRESETS. Order
 // matters: more specific buckets (quant, hw) are checked before the broad
 // software/data catch-alls.

@@ -31,6 +31,8 @@ function pctLabel(pct) {
 function reportCardHtml(report) {
   const hubBars = barsHtml(report.topHubs.map((h) => ({ label: h.hub.toUpperCase(), n: h.count })));
   const companyBars = barsHtml(report.topCompanies.map((c) => ({ label: c.name.toUpperCase(), n: c.count })));
+  const notableHiring = report.notableHiring || [];
+  const notableBars = barsHtml(notableHiring.map((c) => ({ label: `${c.name.toUpperCase()} · ${c.badge}`, n: c.count })));
   const discipline = report.fastestGrowingDiscipline;
 
   return `
@@ -55,8 +57,9 @@ function reportCardHtml(report) {
           <div class="stat-value" style="font-size:18px">${escapeHtml(discipline.label)}</div>
         </div>` : ""}
       </div>
-      ${report.topHubs.length || report.topCompanies.length ? `
+      ${notableHiring.length || report.topHubs.length || report.topCompanies.length ? `
       <div class="signal-cols" style="padding-top: 24px">
+        ${notableHiring.length ? `<div class="signal-col"><div class="signal-col-label">FAANG / NOTABLE HIRING</div>${notableBars}</div>` : ""}
         ${report.topHubs.length ? `<div class="signal-col"><div class="signal-col-label">TOP HUBS</div>${hubBars}</div>` : ""}
         ${report.topCompanies.length ? `<div class="signal-col"><div class="signal-col-label">MOST ACTIVE COMPANIES</div>${companyBars}</div>` : ""}
       </div>` : ""}
