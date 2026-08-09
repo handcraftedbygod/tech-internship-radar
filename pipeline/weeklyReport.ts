@@ -422,7 +422,11 @@ function main() {
   } catch {
     // No reports.json yet -- first run.
   }
-  writeFileSync(REPORTS_PATH, JSON.stringify([report, ...existing], null, 2));
+  // Replace, not duplicate, if a report for this week already exists -- a
+  // manual re-run (workflow_dispatch, local testing) must be idempotent
+  // rather than piling up repeat entries for the same weekOf.
+  const withoutThisWeek = existing.filter((r) => r.weekOf !== report.weekOf);
+  writeFileSync(REPORTS_PATH, JSON.stringify([report, ...withoutThisWeek], null, 2));
 
   mkdirSync(OG_DIR, { recursive: true });
   mkdirSync(REPORTS_HTML_DIR, { recursive: true });
