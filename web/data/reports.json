@@ -1,5 +1,65 @@
 [
   {
+    "weekOf": "2026-08-02",
+    "newCount": 974,
+    "prevWeekCount": 38,
+    "pctChange": 2463.2,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 703
+      },
+      {
+        "hub": "San Francisco",
+        "count": 98
+      },
+      {
+        "hub": "London",
+        "count": 52
+      },
+      {
+        "hub": "Berlin",
+        "count": 21
+      },
+      {
+        "hub": "Munich",
+        "count": 21
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "it-career-switch",
+        "name": "IT Career Switch",
+        "count": 371
+      },
+      {
+        "slug": "itol-recruit",
+        "name": "ITOL Recruit",
+        "count": 101
+      },
+      {
+        "slug": "tiktok",
+        "name": "TikTok",
+        "count": 96
+      },
+      {
+        "slug": "newto-training",
+        "name": "NEWTO TRAINING LIMITED",
+        "count": 19
+      },
+      {
+        "slug": "samsara",
+        "name": "Samsara",
+        "count": 12
+      }
+    ],
+    "fastestGrowingDiscipline": {
+      "id": "ai",
+      "label": "Data / AI",
+      "pctChange": 4800
+    }
+  },
+  {
     "weekOf": "2026-07-26",
     "newCount": 32,
     "prevWeekCount": 28,
