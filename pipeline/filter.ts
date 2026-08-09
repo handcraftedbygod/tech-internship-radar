@@ -75,6 +75,18 @@ const BROAD_SOURCES = new Set([
   "findwork",
 ]);
 
+// UK IT-bootcamp/training lead-gen mills that mass-repost the same handful of
+// templated "Trainee X" titles across every UK postcode -- confirmed live
+// across multiple independent sources (Reed's own API, and again via
+// freehire's aggregation of other UK boards), so this is gated centrally
+// rather than as a per-fetcher blocklist.
+const SPAM_COMPANIES = ["IT Career Switch", "ITOL Recruit", "Newto Training"];
+
+function isSpamCompany(company: string): boolean {
+  const name = company.toLowerCase();
+  return SPAM_COMPANIES.some((spam) => hasKeyword(name, spam));
+}
+
 function isTechRelevant(job: RawJob, keywords: KeywordsConfig): boolean {
   if (!BROAD_SOURCES.has(job.source)) return true;
   if (!keywords.techGate) return true;
@@ -157,6 +169,7 @@ export function filterJobs(
     // crash the whole run here, since every downstream check assumes a
     // string title. Skip it instead: it's unusable either way.
     if (!raw.title) continue;
+    if (isSpamCompany(raw.company)) continue;
 
     const categories = matchedCategories(raw, keywords);
     if (categories.length === 0) continue;

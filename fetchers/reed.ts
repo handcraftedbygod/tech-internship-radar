@@ -5,10 +5,6 @@ const SOURCE = "reed";
 const SEARCH_URL = "https://www.reed.co.uk/api/1.0/search";
 const RESULTS_PER_PAGE = 100;
 const SEARCH_TERMS = ["internship", "graduate"];
-// IT-bootcamp lead-gen mills that mass-repost the same ~7 templated "Trainee
-// X" titles across every UK postcode -- verified live at 96% of Reed's raw
-// result volume, none of them real openings from a real employer.
-const SPAM_COMPANIES = new Set(["IT Career Switch", "ITOL Recruit"]);
 
 interface ReedJob {
   jobId: number;
@@ -53,7 +49,6 @@ const reed: Fetcher = async () => {
         const data = (await res.json()) as ReedResponse;
         const results = data.results ?? [];
         for (const job of results) {
-          if (SPAM_COMPANIES.has(job.employerName)) continue;
           jobs.push({
             externalId: String(job.jobId),
             title: job.jobTitle,

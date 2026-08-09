@@ -64,6 +64,22 @@ test("skips a raw job with no title instead of crashing the whole run", () => {
   assert.equal(result[0].title, "Praktikum");
 });
 
+test("drops known templated-spam companies regardless of source, even with an otherwise-matching title", () => {
+  const result = filterJobs(
+    [
+      job({ title: "Software Engineering Intern", company: "IT Career Switch", source: "reed" }),
+      job({ title: "Software Engineering Intern", company: "ITOL Recruit", source: "freehire" }),
+      job({ title: "Software Engineering Intern", company: "NEWTO TRAINING LIMITED", source: "freehire" }),
+      job({ title: "Software Engineering Intern", company: "Acme" }),
+    ],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 1);
+  assert.equal(result[0].company, "Acme");
+});
+
 test("matches the new-grad category independently of internship", () => {
   const result = filterJobs(
     [job({ title: "Software Engineer, New Grad Program" })],
