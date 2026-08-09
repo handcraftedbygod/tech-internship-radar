@@ -2,21 +2,21 @@
   "slug": "sutor-bank",
   "name": "Sutor Bank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "956cefe8f231f1308808e981b80ff1f4afd8d429",
+      "title": "Junior DevOps Platform Engineer (m/w/d)",
+      "url": "https://www.adzuna.de/details/5834355443?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg-Altstadt, Hamburg",
+      "firstSeenAt": "2026-08-09T16:54:47.547Z"
+    },
     {
       "id": "2e49324b84b7f1c9be4a86a9af20b97937fcea41",
       "title": "Junior DevOps Platform Engineer (m/w/d) (DevOps Engineer)",

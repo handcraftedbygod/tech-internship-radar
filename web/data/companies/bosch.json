@@ -8,8 +8,16 @@
   "avgPostingDurationDays": null,
   "topLocations": [
     {
+      "hub": "Reutlingen",
+      "count": 3
+    },
+    {
       "hub": "Other",
-      "count": 8
+      "count": 3
+    },
+    {
+      "hub": "Stuttgart",
+      "count": 2
     }
   ],
   "topDisciplines": [

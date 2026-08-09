@@ -2,21 +2,21 @@
   "slug": "keepmoat",
   "name": "Keepmoat",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ac72bb06849af85ce3e47896acfb666716bcd0f",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5830538032?se=nrvzk7qT8RGgjrsVzUYdEg&utm_medium=api&utm_source=freehire.me&v=184F7222F4A77EBEC3ACAC107B0DA3838955DC1A",
+      "location": "Temple Belwood, Belton",
+      "firstSeenAt": "2026-08-09T16:54:47.547Z"
+    },
     {
       "id": "1b849db3bc6ed12772842efae119637509060d76",
       "title": "Junior Data Engineer",
