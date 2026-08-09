@@ -155,6 +155,168 @@
         "badge": "NOTABLE",
         "count": 1
       }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    }
+  },
+  {
+    "weekOf": "2026-08-02",
+    "newCount": 970,
+    "prevWeekCount": 32,
+    "pctChange": 2931.3,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 649
+      },
+      {
+        "hub": "San Francisco",
+        "count": 108
+      },
+      {
+        "hub": "London",
+        "count": 52
+      },
+      {
+        "hub": "Berlin",
+        "count": 20
+      },
+      {
+        "hub": "Munich",
+        "count": 19
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "it-career-switch",
+        "name": "IT Career Switch",
+        "count": 371
+      },
+      {
+        "slug": "itol-recruit",
+        "name": "ITOL Recruit",
+        "count": 101
+      },
+      {
+        "slug": "tiktok",
+        "name": "TikTok",
+        "count": 95
+      },
+      {
+        "slug": "newto-training",
+        "name": "NEWTO TRAINING LIMITED",
+        "count": 19
+      },
+      {
+        "slug": "samsara",
+        "name": "Samsara",
+        "count": 12
+      }
+    ],
+    "fastestGrowingDiscipline": {
+      "id": "swe",
+      "label": "Software",
+      "pctChange": 4340
+    },
+    "notableHiring": [
+      {
+        "slug": "drw",
+        "name": "DRW",
+        "badge": "NOTABLE",
+        "count": 7
+      },
+      {
+        "slug": "roblox",
+        "name": "Roblox",
+        "badge": "NOTABLE",
+        "count": 6
+      },
+      {
+        "slug": "squarepoint-capital",
+        "name": "Squarepoint Capital",
+        "badge": "NOTABLE",
+        "count": 6
+      },
+      {
+        "slug": "spacex",
+        "name": "SpaceX",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "hudson-river-trading",
+        "name": "Hudson River Trading",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "jump-trading",
+        "name": "Jump Trading",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "cloudflare",
+        "name": "Cloudflare",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "tesla",
+        "name": "Tesla",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "microsoft",
+        "name": "Microsoft",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "shopify",
+        "name": "Shopify",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "imc-trading",
+        "name": "IMC Trading",
+        "badge": "NOTABLE",
+        "count": 1
+      }
     ]
   },
   {

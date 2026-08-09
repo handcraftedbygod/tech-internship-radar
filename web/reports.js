@@ -34,6 +34,8 @@ function reportCardHtml(report) {
   const notableHiring = report.notableHiring || [];
   const notableBars = barsHtml(notableHiring.map((c) => ({ label: `${c.name.toUpperCase()} · ${c.badge}`, n: c.count })));
   const discipline = report.fastestGrowingDiscipline;
+  const yc = report.ycHiring;
+  const ycTotal = yc ? yc.europe + yc.northAmerica : 0;
 
   return `
     <div class="report-card">
@@ -51,6 +53,11 @@ function reportCardHtml(report) {
           <div class="stat-label">PRIOR WEEK</div>
           <div class="stat-value">${report.prevWeekCount}</div>
         </div>
+        ${ycTotal ? `
+        <div class="stat-cell">
+          <div class="stat-label">YC STARTUPS HIRING</div>
+          <div class="stat-value" style="font-size:18px">${yc.europe} EU / ${yc.northAmerica} NA</div>
+        </div>` : ""}
         ${discipline ? `
         <div class="stat-cell">
           <div class="stat-label">FASTEST GROWING</div>

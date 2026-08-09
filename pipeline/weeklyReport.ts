@@ -10,6 +10,10 @@ const REPORTS_PATH = path.join(import.meta.dirname, "..", "web", "data", "report
 // via $GITHUB_STEP_SUMMARY in the workflow step rather than committed.
 const DRAFT_PATH = path.join(import.meta.dirname, "..", "weekly-report-draft.md");
 const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
+// weekly-report runs as its own job (see .github/workflows/pipeline.yml),
+// separate from the nightly fetch -- it reads yc.json rather than refetching
+// yc-oss/api itself.
+const YC_PATH = path.join(import.meta.dirname, "..", "web", "data", "yc.json");
 
 interface ReportRow {
   company: string;
@@ -27,6 +31,7 @@ export interface WeeklyReport {
   topCompanies: { name: string; slug: string; count: number }[];
   fastestGrowingDiscipline: { id: string; label: string; pctChange: number } | null;
   notableHiring: { name: string; slug: string; badge: "FAANG" | "NOTABLE"; count: number }[];
+  ycHiring: { europe: number; northAmerica: number };
 }
 
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
@@ -43,6 +48,7 @@ export function buildWeeklyReport(
   rows: ReportRow[],
   aliases: Record<string, string>,
   tiers: CompanyTier[],
+  ycHiring: WeeklyReport["ycHiring"] = { europe: 0, northAmerica: 0 },
   now: Date = new Date(),
 ): WeeklyReport {
   const cutoffThisWeek = new Date(now.getTime() - WEEK_MS).toISOString();
@@ -118,11 +124,20 @@ export function buildWeeklyReport(
     topCompanies,
     fastestGrowingDiscipline,
     notableHiring,
+    ycHiring,
   };
 }
 
 function pctLabel(pct: number): string {
   return `${pct > 0 ? "+" : ""}${pct}%`;
+}
+
+// Snapshot phrasing ("hiring right now"), not a week-over-week delta -- unlike
+// the job-row stats, yc.json is a current-state list (see pipeline/ycHiring.ts),
+// not events dated to this week.
+function ycSummary(yc: WeeklyReport["ycHiring"]): string | null {
+  if (!yc.europe && !yc.northAmerica) return null;
+  return `Y Combinator startups hiring right now: ${yc.europe} in Europe, ${yc.northAmerica} in North America.`;
 }
 
 const TWITTER_LIMIT = 280;
@@ -134,6 +149,8 @@ function buildTwitterDraft(r: WeeklyReport): string {
   if (spotlight.length) {
     parts.push(`${spotlight[0].badge} hiring: ${spotlight.slice(0, 3).map((c) => c.name).join(", ")}.`);
   }
+  const yc = ycSummary(r.ycHiring);
+  if (yc) parts.push(yc);
   if (r.topHubs[0]) parts.push(`Top hub: ${r.topHubs[0].hub}.`);
   if (r.topCompanies[0]) parts.push(`Most active: ${r.topCompanies[0].name}.`);
   const text = parts.join(" ");
@@ -149,6 +166,8 @@ function buildLinkedInDraft(r: WeeklyReport): string {
   if (r.notableHiring.length) {
     lines.push("", "FAANG / notable companies hiring:", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] (${c.count})`));
   }
+  const yc = ycSummary(r.ycHiring);
+  if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "Top hiring hubs:", ...r.topHubs.map((h) => `- ${h.hub} (${h.count})`));
   if (r.topCompanies.length) lines.push("", "Most active companies:", ...r.topCompanies.map((c) => `- ${c.name} (${c.count})`));
   if (r.fastestGrowingDiscipline) {
@@ -163,6 +182,8 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
   if (r.notableHiring.length) {
     lines.push("", "## FAANG / notable companies hiring", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] — ${c.count}`));
   }
+  const yc = ycSummary(r.ycHiring);
+  if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "## Top hiring hubs", ...r.topHubs.map((h) => `- ${h.hub} — ${h.count}`));
   if (r.topCompanies.length) lines.push("", "## Most active companies", ...r.topCompanies.map((c) => `- ${c.name} — ${c.count}`));
   if (r.fastestGrowingDiscipline) {
@@ -194,7 +215,14 @@ function main() {
   }
 
   const tiers = loadTiers().tiers;
-  const report = buildWeeklyReport(rows, aliases, tiers);
+  let ycHiring: WeeklyReport["ycHiring"] = { europe: 0, northAmerica: 0 };
+  try {
+    const yc = JSON.parse(readFileSync(YC_PATH, "utf8")) as { europe?: unknown[]; northAmerica?: unknown[] };
+    ycHiring = { europe: yc.europe?.length ?? 0, northAmerica: yc.northAmerica?.length ?? 0 };
+  } catch {
+    // No yc.json yet, or the nightly fetch errored -- report without it.
+  }
+  const report = buildWeeklyReport(rows, aliases, tiers, ycHiring);
 
   let existing: WeeklyReport[] = [];
   try {

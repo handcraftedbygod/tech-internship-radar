@@ -21,29 +21,29 @@ function row(overrides: Partial<{ company: string; location: string; title: stri
 
 test("buildWeeklyReport counts rows in the trailing 7-day window as newCount", () => {
   const rows = [row({ first_seen_at: daysAgo(1) }), row({ first_seen_at: daysAgo(6) }), row({ first_seen_at: daysAgo(10) })];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.equal(report.newCount, 2);
 });
 
 test("buildWeeklyReport counts the prior 7-14 day window as prevWeekCount", () => {
   const rows = [row({ first_seen_at: daysAgo(1) }), row({ first_seen_at: daysAgo(9) }), row({ first_seen_at: daysAgo(13) })];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.equal(report.prevWeekCount, 2);
 });
 
 test("buildWeeklyReport computes pctChange relative to the prior week", () => {
   const rows = [row({ first_seen_at: daysAgo(1) }), row({ first_seen_at: daysAgo(2) }), row({ first_seen_at: daysAgo(9) })];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.equal(report.newCount, 2);
   assert.equal(report.prevWeekCount, 1);
   assert.equal(report.pctChange, 100);
 });
 
 test("buildWeeklyReport treats a zero prior week as +100% when there's any growth, 0% when flat", () => {
-  const grew = buildWeeklyReport([row({ first_seen_at: daysAgo(1) })], {}, [], NOW);
+  const grew = buildWeeklyReport([row({ first_seen_at: daysAgo(1) })], {}, [], undefined, NOW);
   assert.equal(grew.pctChange, 100);
 
-  const flat = buildWeeklyReport([], {}, [], NOW);
+  const flat = buildWeeklyReport([], {}, [], undefined, NOW);
   assert.equal(flat.pctChange, 0);
 });
 
@@ -55,7 +55,7 @@ test("buildWeeklyReport tallies topHubs and topCompanies for the current week on
     // Outside the window -- must not count.
     row({ location: "Berlin", company: "Acme", first_seen_at: daysAgo(20) }),
   ];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.deepEqual(report.topHubs[0], { hub: "Berlin", count: 2 });
   assert.equal(report.topCompanies[0].name, "Acme");
   assert.equal(report.topCompanies[0].count, 2);
@@ -73,13 +73,13 @@ test("buildWeeklyReport excludes a discipline from fastestGrowingDiscipline belo
     row({ title: "Software Engineering Intern", first_seen_at: daysAgo(9) }),
     row({ title: "Software Engineering Intern", first_seen_at: daysAgo(10) }),
   ];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.equal(report.fastestGrowingDiscipline?.id, "swe");
 });
 
 test("buildWeeklyReport returns null fastestGrowingDiscipline when nothing clears the floor", () => {
   const rows = [row({ title: "Product Manager Intern", first_seen_at: daysAgo(1) })];
-  const report = buildWeeklyReport(rows, {}, [], NOW);
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
   assert.equal(report.fastestGrowingDiscipline, null);
 });
 
@@ -88,7 +88,7 @@ test("buildWeeklyReport applies company aliases when tallying topCompanies", () 
     row({ company: "Facebook Inc", first_seen_at: daysAgo(1) }),
     row({ company: "Meta", first_seen_at: daysAgo(2) }),
   ];
-  const report = buildWeeklyReport(rows, { facebook: "Meta" }, [], NOW);
+  const report = buildWeeklyReport(rows, { facebook: "Meta" }, [], undefined, NOW);
   assert.equal(report.topCompanies.length, 1);
   assert.equal(report.topCompanies[0].count, 2);
 });
@@ -105,7 +105,7 @@ test("buildWeeklyReport tallies notableHiring with the FAANG/NOTABLE badge split
     row({ company: "Wise", first_seen_at: daysAgo(1) }),
     row({ company: "NotTracked Inc", first_seen_at: daysAgo(1) }),
   ];
-  const report = buildWeeklyReport(rows, {}, TIERS, NOW);
+  const report = buildWeeklyReport(rows, {}, TIERS, undefined, NOW);
   assert.deepEqual(
     report.notableHiring.map((c) => [c.name, c.badge, c.count]),
     [
@@ -119,6 +119,14 @@ test("buildWeeklyReport does not false-positive tier-match a company name substr
   // "Innowise" contains "Wise" as a substring but is not Wise -- word-boundary
   // matching in tierForCompany() must keep it out of notableHiring.
   const rows = [row({ company: "Innowise", first_seen_at: daysAgo(1) })];
-  const report = buildWeeklyReport(rows, {}, TIERS, NOW);
+  const report = buildWeeklyReport(rows, {}, TIERS, undefined, NOW);
   assert.equal(report.notableHiring.length, 0);
+});
+
+test("buildWeeklyReport passes ycHiring through unchanged, defaulting to zero", () => {
+  const withYc = buildWeeklyReport([], {}, [], { europe: 12, northAmerica: 8 }, NOW);
+  assert.deepEqual(withYc.ycHiring, { europe: 12, northAmerica: 8 });
+
+  const withoutYc = buildWeeklyReport([], {}, [], undefined, NOW);
+  assert.deepEqual(withoutYc.ycHiring, { europe: 0, northAmerica: 0 });
 });
