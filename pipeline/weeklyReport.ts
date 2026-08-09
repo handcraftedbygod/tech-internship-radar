@@ -33,6 +33,11 @@ export interface WeeklyReport {
   pctChange: number;
   topHubs: { hub: string; count: number }[];
   topCompanies: { name: string; slug: string; count: number }[];
+  // Companies whose earliest-ever tracked posting falls in this week's
+  // window -- a discovery signal distinct from topCompanies (which just
+  // rewards whoever posts the most, new or not). Needs the FULL row set
+  // (not just thisWeek) to know a company's true first appearance.
+  newCompanies: { totalCount: number; sample: { name: string; slug: string }[] };
   fastestGrowingDiscipline: { id: string; label: string; pctChange: number } | null;
   notableHiring: { name: string; slug: string; badge: "FAANG" | "NOTABLE"; count: number }[];
   ycHiring: { europe: number; northAmerica: number };
@@ -117,6 +122,24 @@ export function buildWeeklyReport(
     .map(([slug, v]) => ({ slug, name: v.name, count: v.count }))
     .sort((a, b) => b.count - a.count)
     .slice(0, 5);
+
+  const firstSeenBySlug = new Map<string, { name: string; firstSeenAt: string }>();
+  for (const r of rows) {
+    // filter.ts now rejects blank company names at ingest, but the DB is the
+    // full historical archive (see store.ts) -- rows written before that fix
+    // stick around until pruneStale ages them out, so still guard here too.
+    if (!r.company.trim()) continue;
+    const slug = companySlug(r.company, aliases);
+    const existing = firstSeenBySlug.get(slug);
+    if (!existing || r.first_seen_at < existing.firstSeenAt) {
+      firstSeenBySlug.set(slug, { name: r.company, firstSeenAt: r.first_seen_at });
+    }
+  }
+  const newCompanyList = [...firstSeenBySlug.entries()]
+    .filter(([, v]) => v.firstSeenAt >= cutoffThisWeek)
+    .map(([slug, v]) => ({ slug, name: v.name }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+  const newCompanies = { totalCount: newCompanyList.length, sample: newCompanyList.slice(0, 5) };
 
   const disciplineThisWeek = new Map<string, { label: string; count: number }>();
   for (const r of thisWeek) {
@@ -221,6 +244,7 @@ export function buildWeeklyReport(
     pctChange: pctChange(thisWeek.length, lastWeek.length),
     topHubs,
     topCompanies,
+    newCompanies,
     fastestGrowingDiscipline,
     notableHiring,
     ycHiring,
@@ -260,6 +284,13 @@ function earlySummary(e: NonNullable<WeeklyReport["earlyPick"]>): string {
   return `First ${e.season} posting spotted: ${e.title} at ${e.company} (${e.hub}).`;
 }
 
+function newCompaniesSummary(nc: WeeklyReport["newCompanies"]): string | null {
+  if (nc.totalCount === 0) return null;
+  const names = nc.sample.map((c) => c.name).join(", ");
+  const more = nc.totalCount > nc.sample.length ? `, and ${nc.totalCount - nc.sample.length} more` : "";
+  return `${nc.totalCount} ${nc.totalCount === 1 ? "company" : "companies"} posted for the first time this week: ${names}${more}.`;
+}
+
 const TWITTER_LIMIT = 280;
 
 function buildTwitterDraft(r: WeeklyReport): string {
@@ -296,6 +327,8 @@ function buildLinkedInDraft(r: WeeklyReport): string {
   if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "Top hiring hubs:", ...r.topHubs.map((h) => `- ${h.hub} (${h.count})`));
   if (r.topCompanies.length) lines.push("", "Most active companies:", ...r.topCompanies.map((c) => `- ${c.name} (${c.count})`));
+  const newCompanies = newCompaniesSummary(r.newCompanies);
+  if (newCompanies) lines.push("", newCompanies);
   if (r.fastestGrowingDiscipline) {
     lines.push("", `Fastest-growing discipline: ${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }
@@ -321,6 +354,8 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
   if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "## Top hiring hubs", ...r.topHubs.map((h) => `- ${h.hub} — ${h.count}`));
   if (r.topCompanies.length) lines.push("", "## Most active companies", ...r.topCompanies.map((c) => `- ${c.name} — ${c.count}`));
+  const newCompanies = newCompaniesSummary(r.newCompanies);
+  if (newCompanies) lines.push("", newCompanies);
   if (r.fastestGrowingDiscipline) {
     lines.push("", `## Fastest-growing discipline`, `${r.fastestGrowingDiscipline.label} (${pctLabel(r.fastestGrowingDiscipline.pctChange)})`);
   }

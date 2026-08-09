@@ -76,6 +76,29 @@ test("buildWeeklyReport tallies topHubs and topCompanies for the current week on
   assert.equal(report.topCompanies[0].count, 2);
 });
 
+test("buildWeeklyReport counts a company as new only if its earliest-ever posting falls in this week's window", () => {
+  const rows = [
+    // Truly new: first ever seen this week.
+    row({ company: "Fresh Co", first_seen_at: daysAgo(1) }),
+    // Established: also posted this week, but has an old posting too.
+    row({ company: "Old Co", first_seen_at: daysAgo(1) }),
+    row({ company: "Old Co", first_seen_at: daysAgo(30) }),
+  ];
+  const report = buildWeeklyReport(rows, {}, [], undefined, NOW);
+  assert.equal(report.newCompanies.totalCount, 1);
+  assert.equal(report.newCompanies.sample[0].name, "Fresh Co");
+});
+
+test("buildWeeklyReport's newCompanies respects company aliases when checking first appearance", () => {
+  const rows = [
+    row({ company: "Facebook Inc", first_seen_at: daysAgo(30) }),
+    row({ company: "Meta", first_seen_at: daysAgo(1) }),
+  ];
+  const report = buildWeeklyReport(rows, { facebook: "Meta" }, [], undefined, NOW);
+  // Same company via the alias table -- true first appearance was 30 days ago, not new.
+  assert.equal(report.newCompanies.totalCount, 0);
+});
+
 test("buildWeeklyReport excludes a discipline from fastestGrowingDiscipline below the minimum-N floor", () => {
   // 1 -> 2 postings is a "+100%" swing but far too small a sample to headline.
   const rows = [

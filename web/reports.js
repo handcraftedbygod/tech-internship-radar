@@ -66,6 +66,11 @@ function reportCardHtml(report) {
           <div class="stat-label">PRIOR WEEK</div>
           <div class="stat-value">${report.prevWeekCount}</div>
         </div>
+        ${report.newCompanies && report.newCompanies.totalCount ? `
+        <div class="stat-cell">
+          <div class="stat-label">NEW COMPANIES</div>
+          <div class="stat-value" title="${escapeHtml(report.newCompanies.sample.map((c) => c.name).join(", "))}">${report.newCompanies.totalCount}</div>
+        </div>` : ""}
         ${ycTotal ? `
         <div class="stat-cell">
           <div class="stat-label">YC STARTUPS HIRING</div>
