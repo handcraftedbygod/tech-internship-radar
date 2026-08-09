@@ -64,6 +64,16 @@ test("skips a raw job with no title instead of crashing the whole run", () => {
   assert.equal(result[0].title, "Praktikum");
 });
 
+test("skips a raw job with a blank company (breaks its company-page link otherwise)", () => {
+  const result = filterJobs(
+    [job({ title: "Software Engineering Intern", company: "" }), job({ title: "Praktikum", company: "  " })],
+    keywords,
+    locations,
+    settings,
+  );
+  assert.equal(result.length, 0);
+});
+
 test("drops known templated-spam companies regardless of source, even with an otherwise-matching title", () => {
   const result = filterJobs(
     [

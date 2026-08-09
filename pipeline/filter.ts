@@ -165,10 +165,13 @@ export function filterJobs(
 
   for (const raw of rawJobs) {
     // A fetcher never throws, but its source API can still hand back a
-    // malformed entry (e.g. a posting with no title) -- one bad job used to
+    // malformed entry (e.g. a posting with no title, or freehire's Telegram-
+    // sourced postings with a blank company field) -- one bad job used to
     // crash the whole run here, since every downstream check assumes a
-    // string title. Skip it instead: it's unusable either way.
+    // string title, and a blank company breaks its company-page link
+    // (company.html?slug=). Skip it instead: it's unusable either way.
     if (!raw.title) continue;
+    if (!raw.company?.trim()) continue;
     if (isSpamCompany(raw.company)) continue;
 
     const categories = matchedCategories(raw, keywords);
