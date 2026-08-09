@@ -9,11 +9,24 @@ function daysAgo(n: number): string {
   return new Date(NOW.getTime() - n * DAY).toISOString();
 }
 
-function row(overrides: Partial<{ company: string; location: string; title: string; first_seen_at: string }>) {
+function row(
+  overrides: Partial<{
+    company: string;
+    location: string;
+    title: string;
+    url: string;
+    categories: string[];
+    advanced_degree: number | null;
+    first_seen_at: string;
+  }>,
+) {
   return {
     company: "Acme",
     location: "Berlin",
     title: "Software Engineering Intern",
+    url: "https://example.com/job/1",
+    categories: ["internship"],
+    advanced_degree: null,
     first_seen_at: daysAgo(1),
     ...overrides,
   };
@@ -121,6 +134,27 @@ test("buildWeeklyReport does not false-positive tier-match a company name substr
   const rows = [row({ company: "Innowise", first_seen_at: daysAgo(1) })];
   const report = buildWeeklyReport(rows, {}, TIERS, undefined, NOW);
   assert.equal(report.notableHiring.length, 0);
+});
+
+const PAY_TIERS = [{ id: "trading", mult: 2.0, names: ["DRW"] }];
+
+test("buildWeeklyReport picks the highest-usdMid listing as topPay, not the highest raw base", () => {
+  const rows = [
+    // San Francisco has the higher base rate (45 vs 33) but no tier multiplier.
+    row({ company: "Generic Co", location: "San Francisco", url: "https://example.com/sf" }),
+    // Zurich's lower base is more than offset by DRW's trading-tier 2x multiplier.
+    row({ company: "DRW", location: "Zurich", url: "https://example.com/zurich" }),
+  ];
+  const report = buildWeeklyReport(rows, {}, PAY_TIERS, undefined, NOW);
+  assert.equal(report.topPay?.company, "DRW");
+  assert.equal(report.topPay?.hub, "Zurich");
+  assert.equal(report.topPay?.currency, "eur");
+  assert.equal(report.topPay?.url, "https://example.com/zurich");
+});
+
+test("buildWeeklyReport returns null topPay when there are no rows this week", () => {
+  const report = buildWeeklyReport([], {}, [], undefined, NOW);
+  assert.equal(report.topPay, null);
 });
 
 test("buildWeeklyReport passes ycHiring through unchanged, defaulting to zero", () => {

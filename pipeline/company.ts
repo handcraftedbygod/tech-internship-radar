@@ -7,43 +7,48 @@ import { tierForCompany, type CompanyTier } from "../config/load.ts";
 // Barcelona via its "Spain" alias. Browser JS can't import this module, so
 // this list stays hand-kept in sync with app.js -- same tradeoff as
 // tierForCompany() between config/load.ts and app.js.
-const HUB_TOKENS = [
-  { name: "Tallinn", match: ["tallinn"] },
-  { name: "Berlin", match: ["berlin"] },
-  { name: "Munich", match: ["munich", "münchen", "munchen"] },
-  { name: "Amsterdam", match: ["amsterdam"] },
-  { name: "Dublin", match: ["dublin"] },
-  { name: "London", match: ["london"] },
-  { name: "Paris", match: ["paris"] },
-  { name: "Stockholm", match: ["stockholm"] },
-  { name: "Helsinki", match: ["helsinki"] },
-  { name: "Warsaw", match: ["warsaw", "warszawa"] },
-  { name: "Barcelona", match: ["barcelona"] },
-  { name: "Lisbon", match: ["lisbon", "lisboa"] },
-  { name: "Zurich", match: ["zurich", "zürich"] },
-  { name: "Madrid", match: ["madrid"] },
-  { name: "Stuttgart", match: ["stuttgart"] },
-  { name: "Frankfurt", match: ["frankfurt"] },
-  { name: "Hannover", match: ["hannover", "hanover"] },
-  { name: "Karlsruhe", match: ["karlsruhe"] },
-  { name: "Bremen", match: ["bremen"] },
-  { name: "Düsseldorf", match: ["düsseldorf", "dusseldorf"] },
-  { name: "Reutlingen", match: ["reutlingen"] },
-  { name: "Krakow", match: ["krakow", "kraków"] },
-  { name: "Katowice", match: ["katowice"] },
-  { name: "Lodz", match: ["lodz", "łódź"] },
-  { name: "New York", match: ["new york", "nyc"] },
-  { name: "San Francisco", match: ["san francisco", "bay area", "san jose", "silicon valley", "san mateo", "palo alto"] },
-  { name: "Seattle", match: ["seattle"] },
-  { name: "Austin", match: ["austin"] },
-  { name: "Boston", match: ["boston"] },
-  { name: "Los Angeles", match: ["los angeles"] },
-  { name: "Chicago", match: ["chicago"] },
-  { name: "Toronto", match: ["toronto"] },
-  { name: "Vancouver", match: ["vancouver"] },
-  { name: "Montreal", match: ["montreal", "montréal"] },
+const HUB_TOKENS: { name: string; region: "eu" | "na"; match: string[] }[] = [
+  { name: "Tallinn", region: "eu", match: ["tallinn"] },
+  { name: "Berlin", region: "eu", match: ["berlin"] },
+  { name: "Munich", region: "eu", match: ["munich", "münchen", "munchen"] },
+  { name: "Amsterdam", region: "eu", match: ["amsterdam"] },
+  { name: "Dublin", region: "eu", match: ["dublin"] },
+  { name: "London", region: "eu", match: ["london"] },
+  { name: "Paris", region: "eu", match: ["paris"] },
+  { name: "Stockholm", region: "eu", match: ["stockholm"] },
+  { name: "Helsinki", region: "eu", match: ["helsinki"] },
+  { name: "Warsaw", region: "eu", match: ["warsaw", "warszawa"] },
+  { name: "Barcelona", region: "eu", match: ["barcelona"] },
+  { name: "Lisbon", region: "eu", match: ["lisbon", "lisboa"] },
+  { name: "Zurich", region: "eu", match: ["zurich", "zürich"] },
+  { name: "Madrid", region: "eu", match: ["madrid"] },
+  { name: "Stuttgart", region: "eu", match: ["stuttgart"] },
+  { name: "Frankfurt", region: "eu", match: ["frankfurt"] },
+  { name: "Hannover", region: "eu", match: ["hannover", "hanover"] },
+  { name: "Karlsruhe", region: "eu", match: ["karlsruhe"] },
+  { name: "Bremen", region: "eu", match: ["bremen"] },
+  { name: "Düsseldorf", region: "eu", match: ["düsseldorf", "dusseldorf"] },
+  { name: "Reutlingen", region: "eu", match: ["reutlingen"] },
+  { name: "Krakow", region: "eu", match: ["krakow", "kraków"] },
+  { name: "Katowice", region: "eu", match: ["katowice"] },
+  { name: "Lodz", region: "eu", match: ["lodz", "łódź"] },
+  { name: "New York", region: "na", match: ["new york", "nyc"] },
+  { name: "San Francisco", region: "na", match: ["san francisco", "bay area", "san jose", "silicon valley", "san mateo", "palo alto"] },
+  { name: "Seattle", region: "na", match: ["seattle"] },
+  { name: "Austin", region: "na", match: ["austin"] },
+  { name: "Boston", region: "na", match: ["boston"] },
+  { name: "Los Angeles", region: "na", match: ["los angeles"] },
+  { name: "Chicago", region: "na", match: ["chicago"] },
+  { name: "Toronto", region: "na", match: ["toronto"] },
+  { name: "Vancouver", region: "na", match: ["vancouver"] },
+  { name: "Montreal", region: "na", match: ["montreal", "montréal"] },
 ];
 const OTHER_HUB = "Other";
+
+const HUB_REGION: Record<string, "eu" | "na"> = HUB_TOKENS.reduce(
+  (acc, hub) => ({ ...acc, [hub.name]: hub.region }),
+  {},
+);
 
 export function hubFor(location: string): string {
   const text = location.toLowerCase();
@@ -78,6 +83,87 @@ export function disciplineFor(title: string): { id: string; label: string } {
     if (preset.keywords.some((kw) => text.includes(kw))) return { id: preset.id, label: preset.label };
   }
   return { id: "swe", label: "Software" };
+}
+
+const TRACK_IDS: Record<string, string> = { internship: "intern", "new-grad": "newgrad", junior: "junior" };
+
+// Mirrors web/app.js's trackFor() -- categories[0] wins when a title matches
+// more than one category (e.g. "Graduate Program Intern" matches both).
+export function trackFor(categories: string[]): string {
+  return TRACK_IDS[categories[0]] ?? "intern";
+}
+
+// --- Estimated pay ----------------------------------------------------------
+// Mirrors web/app.js's estimatePay()/marketFor() -- same "nothing exposes a
+// real salary" reasoning as there (see the comment on HUB_BASE in app.js).
+// Kept hand-synced since the browser can't import this module.
+const HUB_BASE: Record<string, number> = {
+  Zurich: 33, London: 22, Dublin: 21, Amsterdam: 19, Munich: 18, Stockholm: 17,
+  Berlin: 17, Helsinki: 16, Paris: 15, Barcelona: 12, Madrid: 12, Lisbon: 10,
+  Warsaw: 10, Tallinn: 10,
+  "San Francisco": 45, Seattle: 42, "New York": 42, Boston: 38, Austin: 35, "Los Angeles": 35,
+  Chicago: 32, Vancouver: 30, Toronto: 30, Montreal: 27,
+};
+
+const NA_TOKENS = [
+  "united states", "u.s.", "usa", ", us", "canada", "ontario", "quebec", "british columbia",
+  "california", "washington", "new york", "texas", "massachusetts", "illinois", "colorado",
+  "georgia", "florida", "virginia", "new jersey", "utah", "arizona", "oregon", "michigan",
+  ", ca", ", ny", ", wa", ", tx", ", ma", ", nj", ", ut", ", il", ", co", ", or",
+];
+
+const EUR_TO_USD = 1.08;
+const TRACK_PAY_MULT: Record<string, number> = { intern: 1, junior: 1.35, newgrad: 1.6 };
+const CATEGORY_MULT: Record<string, number> = { quant: 1.35, ai: 1.15, swe: 1, hw: 0.95, product: 1, design: 0.85, biz: 0.8 };
+const SPREAD_KNOWN = 0.11;
+const SPREAD_LOOSE = 0.18;
+
+export interface PayEstimate {
+  currency: "eur" | "usd";
+  low: number;
+  high: number;
+  // Normalised so a Berlin euro band and a San Francisco dollar one compare
+  // on the same scale instead of ordering by raw number.
+  usdMid: number;
+  loose: boolean;
+}
+
+export function estimatePay(
+  job: {
+    company: string;
+    location: string;
+    title: string;
+    categories: string[];
+    advancedDegree?: number | null;
+  },
+  tiers: CompanyTier[],
+): PayEstimate {
+  const hub = hubFor(job.location);
+  const base = HUB_BASE[hub];
+  const known = base !== undefined;
+  const na = NA_TOKENS.some((token) => job.location.toLowerCase().includes(token));
+  const currency: "eur" | "usd" = (known ? HUB_REGION[hub] : na ? "na" : "eu") === "na" ? "usd" : "eur";
+  const marketBase = known ? (base as number) : na ? 32 : 14;
+
+  const tier = tierForCompany(job.company, tiers);
+  const track = trackFor(job.categories);
+  const discipline = disciplineFor(job.title).id;
+
+  const mid =
+    marketBase *
+    (tier ? tier.mult : 1) *
+    (TRACK_PAY_MULT[track] ?? 1) *
+    (CATEGORY_MULT[discipline] ?? 1) *
+    (job.advancedDegree ? 1.25 : 1);
+
+  const spread = known ? SPREAD_KNOWN : SPREAD_LOOSE;
+  return {
+    currency,
+    low: mid * (1 - spread),
+    high: mid * (1 + spread),
+    usdMid: currency === "eur" ? mid * EUR_TO_USD : mid,
+    loose: !known || !tier,
+  };
 }
 
 // Legal-form suffixes stripped from free-text company strings (aggregator

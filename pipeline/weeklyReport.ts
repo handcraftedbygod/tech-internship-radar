@@ -3,7 +3,7 @@ import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { openDb } from "./store.ts";
 import { loadCompanyAliases, loadTiers, tierForCompany, type CompanyTier } from "../config/load.ts";
-import { hubFor, disciplineFor, companySlug, tierBadge } from "./company.ts";
+import { hubFor, disciplineFor, companySlug, tierBadge, estimatePay } from "./company.ts";
 
 const REPORTS_PATH = path.join(import.meta.dirname, "..", "web", "data", "reports.json");
 // Regenerated every run and gitignored, like pipeline-summary.md -- delivered
@@ -19,6 +19,9 @@ interface ReportRow {
   company: string;
   location: string;
   title: string;
+  url: string;
+  categories: string[];
+  advanced_degree: number | null;
   first_seen_at: string;
 }
 
@@ -32,6 +35,15 @@ export interface WeeklyReport {
   fastestGrowingDiscipline: { id: string; label: string; pctChange: number } | null;
   notableHiring: { name: string; slug: string; badge: "FAANG" | "NOTABLE"; count: number }[];
   ycHiring: { europe: number; northAmerica: number };
+  topPay: {
+    company: string;
+    title: string;
+    url: string;
+    hub: string;
+    currency: "eur" | "usd";
+    low: number;
+    high: number;
+  } | null;
 }
 
 const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
@@ -115,6 +127,23 @@ export function buildWeeklyReport(
     .map(([slug, v]) => ({ slug, name: v.name, badge: v.badge, count: v.count }))
     .sort((a, b) => b.count - a.count);
 
+  let topPay: WeeklyReport["topPay"] = null;
+  let bestUsdMid = -Infinity;
+  for (const r of thisWeek) {
+    const pay = estimatePay(r, tiers);
+    if (pay.usdMid <= bestUsdMid) continue;
+    bestUsdMid = pay.usdMid;
+    topPay = {
+      company: r.company,
+      title: r.title,
+      url: r.url,
+      hub: hubFor(r.location),
+      currency: pay.currency,
+      low: Math.round(pay.low),
+      high: Math.round(pay.high),
+    };
+  }
+
   return {
     weekOf: cutoffThisWeek.slice(0, 10),
     newCount: thisWeek.length,
@@ -125,6 +154,7 @@ export function buildWeeklyReport(
     fastestGrowingDiscipline,
     notableHiring,
     ycHiring,
+    topPay,
   };
 }
 
@@ -140,6 +170,13 @@ function ycSummary(yc: WeeklyReport["ycHiring"]): string | null {
   return `Y Combinator startups hiring right now: ${yc.europe} in Europe, ${yc.northAmerica} in North America.`;
 }
 
+const CURRENCY_SYMBOL: Record<string, string> = { eur: "€", usd: "$" };
+
+function formatPayRange(pay: NonNullable<WeeklyReport["topPay"]>): string {
+  const symbol = CURRENCY_SYMBOL[pay.currency];
+  return `${symbol}${pay.low}–${symbol}${pay.high}/h`;
+}
+
 const TWITTER_LIMIT = 280;
 
 function buildTwitterDraft(r: WeeklyReport): string {
@@ -149,6 +186,7 @@ function buildTwitterDraft(r: WeeklyReport): string {
   if (spotlight.length) {
     parts.push(`${spotlight[0].badge} hiring: ${spotlight.slice(0, 3).map((c) => c.name).join(", ")}.`);
   }
+  if (r.topPay) parts.push(`Top pay: ${r.topPay.company} — ${formatPayRange(r.topPay)}.`);
   const yc = ycSummary(r.ycHiring);
   if (yc) parts.push(yc);
   if (r.topHubs[0]) parts.push(`Top hub: ${r.topHubs[0].hub}.`);
@@ -166,6 +204,9 @@ function buildLinkedInDraft(r: WeeklyReport): string {
   if (r.notableHiring.length) {
     lines.push("", "FAANG / notable companies hiring:", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] (${c.count})`));
   }
+  if (r.topPay) {
+    lines.push("", `Top-paying listing: ${r.topPay.title} at ${r.topPay.company} (${r.topPay.hub}) — ${formatPayRange(r.topPay)}`);
+  }
   const yc = ycSummary(r.ycHiring);
   if (yc) lines.push("", yc);
   if (r.topHubs.length) lines.push("", "Top hiring hubs:", ...r.topHubs.map((h) => `- ${h.hub} (${h.count})`));
@@ -181,6 +222,13 @@ function buildRedditGithubDraft(r: WeeklyReport): string {
   const lines = [`# Tech Internship Radar — week of ${r.weekOf}`, "", `**${r.newCount} new listings** this week (${pctLabel(r.pctChange)} vs. last week).`];
   if (r.notableHiring.length) {
     lines.push("", "## FAANG / notable companies hiring", ...r.notableHiring.map((c) => `- ${c.name} [${c.badge}] — ${c.count}`));
+  }
+  if (r.topPay) {
+    lines.push(
+      "",
+      `## Top-paying listing`,
+      `**${r.topPay.title}** at **${r.topPay.company}** (${r.topPay.hub}) — ${formatPayRange(r.topPay)}`,
+    );
   }
   const yc = ycSummary(r.ycHiring);
   if (yc) lines.push("", yc);
@@ -209,7 +257,10 @@ function main() {
   const aliases = loadCompanyAliases();
   let rows: ReportRow[];
   try {
-    rows = db.prepare("SELECT company, location, title, first_seen_at FROM jobs").all() as unknown as ReportRow[];
+    const raw = db
+      .prepare("SELECT company, location, title, url, categories, advanced_degree, first_seen_at FROM jobs")
+      .all() as unknown as (Omit<ReportRow, "categories"> & { categories: string })[];
+    rows = raw.map((r) => ({ ...r, categories: JSON.parse(r.categories) as string[] }));
   } finally {
     db.close();
   }

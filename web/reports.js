@@ -28,6 +28,13 @@ function pctLabel(pct) {
   return (pct > 0 ? "+" : "") + pct + "%";
 }
 
+const CURRENCY_SYMBOL = { eur: "€", usd: "$" };
+
+function formatPayRange(pay) {
+  const symbol = CURRENCY_SYMBOL[pay.currency];
+  return `${symbol}${pay.low}–${symbol}${pay.high}/h`;
+}
+
 function reportCardHtml(report) {
   const hubBars = barsHtml(report.topHubs.map((h) => ({ label: h.hub.toUpperCase(), n: h.count })));
   const companyBars = barsHtml(report.topCompanies.map((c) => ({ label: c.name.toUpperCase(), n: c.count })));
@@ -57,6 +64,11 @@ function reportCardHtml(report) {
         <div class="stat-cell">
           <div class="stat-label">YC STARTUPS HIRING</div>
           <div class="stat-value" style="font-size:18px">${yc.europe} EU / ${yc.northAmerica} NA</div>
+        </div>` : ""}
+        ${report.topPay ? `
+        <div class="stat-cell">
+          <div class="stat-label">TOP PAY</div>
+          <div class="stat-value" style="font-size:18px" title="${escapeHtml(report.topPay.title)} at ${escapeHtml(report.topPay.company)}">${formatPayRange(report.topPay)}</div>
         </div>` : ""}
         ${discipline ? `
         <div class="stat-cell">
