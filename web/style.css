@@ -406,6 +406,8 @@ a.brand { text-decoration: none; }
   border-color: #F4F7F9;
 }
 .chip.active:hover { background: #FFFFFF; }
+.chip--more { border-style: dashed; color: rgba(244,247,249,0.42); }
+.chip--more:hover { color: rgba(244,247,249,0.66); }
 
 /* result line + sort */
 .result-line {

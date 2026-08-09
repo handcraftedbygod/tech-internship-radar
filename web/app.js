@@ -430,6 +430,14 @@ const PAGE_SIZE = 20;
 let visibleCount = PAGE_SIZE;
 let lastFilterKey = "";
 
+// EU has far more hubs than NA (24 vs 9 at time of writing) -- past this cap
+// a chip row wraps onto multiple ragged lines instead of NA's clean single
+// row. Collapse behind a "+N more" toggle instead; hubNames isn't
+// track-filtered (see render()), so this doesn't need resetting alongside
+// visibleCount.
+const HUB_CHIP_CAP = 11;
+let hubExpanded = { eu: false, na: false };
+
 const els = {
   trackTabs: document.getElementById("track-tabs"),
   search: document.getElementById("search"),
@@ -590,7 +598,23 @@ function render() {
     const names = hubNames.filter((h) => HUB_REGION[h] === region);
     row.hidden = names.length === 0;
     const items = [{ id: allId, label: allLabel }].concat(toItems(names));
-    renderChipRow(chips, items, state.hub, onHubSelect);
+
+    const expanded = hubExpanded[region];
+    const overflow = items.length - 1 - HUB_CHIP_CAP; // city chips beyond the cap; "All X hubs" doesn't count against it
+    const visible = !expanded && overflow > 0 ? items.slice(0, 1 + HUB_CHIP_CAP) : items;
+    renderChipRow(chips, visible, state.hub, onHubSelect);
+
+    if (overflow > 0) {
+      const toggle = document.createElement("button");
+      toggle.type = "button";
+      toggle.className = "chip chip--more";
+      toggle.textContent = expanded ? "Show less" : `+${overflow} more`;
+      toggle.addEventListener("click", () => {
+        hubExpanded[region] = !expanded;
+        render();
+      });
+      chips.appendChild(toggle);
+    }
   });
 
   // toggles
