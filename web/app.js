@@ -129,9 +129,20 @@ const COMPANY_TIERS = [
   ] },
 ].map((tier) => ({ ...tier, names: tier.names.map((n) => n.toLowerCase()) }));
 
+function escapeRegExp(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Word-boundary, not plain substring -- mirrors config/load.ts's
+// tierForCompany() fix (plain .includes() false-positived "Rheinmetall AG"
+// into FAANG via "Meta", "Innowise" into NOTABLE via "Wise", etc.).
 function tierFor(job) {
   const company = job.company.toLowerCase();
-  return COMPANY_TIERS.find((tier) => tier.names.some((name) => company.includes(name))) || null;
+  return (
+    COMPANY_TIERS.find((tier) =>
+      tier.names.some((name) => new RegExp(`\\b${escapeRegExp(name)}\\b`).test(company)),
+    ) || null
+  );
 }
 
 // Elite-tier names get the more specific "FAANG" word instead of the generic

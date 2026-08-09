@@ -83,11 +83,23 @@ export function loadCompanyAliases(): Record<string, string> {
   return readJson<Record<string, string>>("companyAliases.json");
 }
 
-// Case-insensitive substring match against the company name, first tier wins.
-// Shared by the pipeline (archive gate) and mirrored in web/app.js for the
-// browser, which can't import TS -- config/tiers.json is the single source of
-// truth for both.
+function escapeRegExp(str: string): string {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Case-insensitive, word-boundary match against the company name, first tier
+// wins. Plain substring used to false-positive badly -- "Rheinmetall AG"
+// contains "Meta", "Innowise"/"Workwise GmbH" contain "Wise",
+// "Quberesearchandtechnologies" contains "Uber", "Tenth Revolution Group"
+// contains "Revolut" (the "revolution" prefix) -- all verified live matches
+// against real company names in the tracked data. Shared by the pipeline
+// (archive gate) and mirrored in web/app.js for the browser, which can't
+// import TS -- config/tiers.json is the single source of truth for both.
 export function tierForCompany(company: string, tiers: CompanyTier[]): CompanyTier | null {
   const name = company.toLowerCase();
-  return tiers.find((tier) => tier.names.some((n) => name.includes(n.toLowerCase()))) ?? null;
+  return (
+    tiers.find((tier) =>
+      tier.names.some((n) => new RegExp(`\\b${escapeRegExp(n.toLowerCase())}\\b`).test(name)),
+    ) ?? null
+  );
 }
