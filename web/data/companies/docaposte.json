@@ -1,0 +1,52 @@
+{
+  "slug": "docaposte",
+  "name": "DOCAPOSTE",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2ddee857387e902d2ced7ebce36f411a2c57c878",
+      "title": "Data Engineer / Architecte Data Junior — Databricks Cloud",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__149977696__7079?geoID=4569&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Neuilly sur Seine, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "6f4284419ecd1bfd169494aa5e78f297d0580879",
+      "title": "Data Engineer / Architecte Data Junior F/H",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__149970990__7079?geoID=4569&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Neuilly sur Seine, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

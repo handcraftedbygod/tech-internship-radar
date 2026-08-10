@@ -1,0 +1,52 @@
+{
+  "slug": "jobluxe",
+  "name": "JobLuxe",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d541098feb7e05d0fe0bb57366f13e01f3d2fcfe",
+      "title": "Data Engineer Intern",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__144534177__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "811e221175aa6148b0d38a20225d2e6dec70ef20",
+      "title": "Data Engineer Intern: Build Pipelines & SQL (3–6 Months)",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__145832209__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

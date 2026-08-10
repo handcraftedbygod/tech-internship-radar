@@ -1,0 +1,52 @@
+{
+  "slug": "hived",
+  "name": "HIVED Ltd",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3bb9d49c5df210ae4885ccc9d00f0055086a6164",
+      "title": "Junior Backend Engineer (CX Squad)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447725725__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "033d88c93d707703e09f7fb116ce55b09b5b88f5",
+      "title": "Junior Backend Engineer - Real-Time Delivery (CX Squad)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447752302__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

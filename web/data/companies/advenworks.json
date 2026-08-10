@@ -1,0 +1,52 @@
+{
+  "slug": "advenworks",
+  "name": "Advenworks",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "edd4d043dda71e22d6d0d234ae5bd319aad51fdc",
+      "title": "Data Engineer - International Internship",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__143919871__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "546295290d3fd9a159f127b4bee142874b8794d0",
+      "title": "Remote Data Engineer Internship: Analytics & Dashboards",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__144080725__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

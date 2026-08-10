@@ -1,0 +1,70 @@
+{
+  "slug": "institut-f2i",
+  "name": "Institut F2I",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "71204109224f8be880a6526b871a6c3f8d039406",
+      "title": "Junior Data Engineer – ETL & Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__145834640__7079?geoID=4568&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Puteaux, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "2a45c75057e00ad377ba767b5aec543ea678250e",
+      "title": "Apprentissage: Junior Data Engineer – ETL & Big Data",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__145832893__7079?geoID=4490&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Boulogne Billancourt, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "9f33834c2d0769a5e905512e77de3b06cf471891",
+      "title": "Data Engineer Junior (H/F) - Alternance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__144042223__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "0432b1ba247eff8ef90ddf12fe56ead5c628f909",
+      "title": "Data Engineer Junior en Alternance — ETL & Big Data",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__143957978__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "hunter-bond",
+  "name": "Hunter Bond",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "25f64634de122b2bd086c559fa79dc466721ab46",
+      "title": "Junior Front-End (React) Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__471365937__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "11cba826ecfba9ddcb131a86a0c7b03456dfeff2",
+      "title": "Junior Front-End Engineer (React) - Remote & Mentorship",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__471366116__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

@@ -2,26 +2,26 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,41 @@
     0,
     0,
     0,
-    4,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5718668b60909550061c1fbd30a685505c5d988c",
+      "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
+      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-linux-c-java-london/57214384",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "8a91c904da771ba524b4669c228f788e5247f964",
+      "title": "Graduate / Junior Developer, Python, JavaScript, PHP - London",
+      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-javascript-php-london/57214441",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "851147f9d50d72ea929829452e9fb558d73ccef8",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57214421",
+      "location": "M11AR",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "26a25d6f95cad5edc5d6c93ab1a87bd185251b0d",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57214425",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
     {
       "id": "4b48bb906cbc877221f588cc0bbf1b0f829f456c",
       "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",

@@ -1,0 +1,57 @@
+{
+  "slug": "trg",
+  "name": "trg.",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3a29eca527bb4a1a02673c85cd0b1e7a58b9bc3f",
+      "title": "Junior Backend Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__493173685__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "beb9590a532cf0eb7cf88a23c95b56b70b933500",
+      "title": "Junior Backend Engineer - Fintech AI Savings (UK)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__493173077__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

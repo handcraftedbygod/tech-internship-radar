@@ -2,11 +2,15 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 4
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,41 @@
     0,
     0,
     0,
-    1,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d6dc45a16b472ca0d8bc34aba6ceda1700af2c57",
+      "title": "Informatiker als Junior Berater Data Engineering - Konzeption & Realisierung (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__475924149__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "308ff9c1b54d8cd6febd55826ee4ba09a39f228a",
+      "title": "Junior Berater Data Engineering BI (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__475924155__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "a81ce8ebbaf2399496cc3124d117af2a799509bc",
+      "title": "Data Engineering Consultant Junior (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__475924153__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "63c9379e009047b664b276aa1f507c1357e90e95",
+      "title": "Junior Consultant Data Engineering (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__475924148__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
     {
       "id": "781b9ee4d3d5710a0ec840ce5dc6897a6dd1c56f",
       "title": "Trainee Data Engineer / Data Scientist (m/w/d)",

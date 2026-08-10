@@ -1,0 +1,52 @@
+{
+  "slug": "cogna",
+  "name": "Cogna",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "66d0f104bcb2be7f67e35e4aebdbfe02b6731a76",
+      "title": "Junior Backend Engineer (App Delivery)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447733021__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "bf1587190ef01d6401a04c4bb37f6bff2f586590",
+      "title": "Junior Backend Engineer: AI-Driven SaaS for Critical Industries",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447721361__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

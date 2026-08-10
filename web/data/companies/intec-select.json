@@ -2,21 +2,25 @@
   "slug": "intec-select",
   "name": "INTEC SELECT LIMITED",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab3ede1d326a6b75d8bc0844749ba180c1dc5132",
+      "title": "Junior DevOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__499832011__7082?geoID=530&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Maidstone, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "70c83b3215f404dff44a93b1551c7527f2e486a6",
+      "title": "Junior DevOps Engineer – AWS & Cloud Automation",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__499832661__7082?geoID=530&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Maidstone, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
     {
       "id": "f946b10e90ada675187d44aed8ca1d4f024338ff",
       "title": "Junior Software Engineer",

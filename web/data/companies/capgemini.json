@@ -2,21 +2,25 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Katowice",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7ba1a2528cf80688a6cfb6f4e4637aabda223e8",
+      "title": "Junior Full-Stack Java Developer | Agile & Impact",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__143697019__7079?geoID=3860&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Brest, France",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
     {
       "id": "b147cf9be8d69dbe22833af192ad80f6b3ea5053",
       "title": "Junior Infrastructure Engineer (with German)",

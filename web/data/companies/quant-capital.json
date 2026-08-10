@@ -1,0 +1,52 @@
+{
+  "slug": "quant-capital",
+  "name": "Quant Capital",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-10T05:27:06.486Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "875d5b5df4c0a1b70bc3a1beb03a238d035484c9",
+      "title": "Junior Java Analyst Developer / Technical Consultant",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__473813280__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
+    {
+      "id": "e29c6f381268458cffbb023a8eb0b2ed23e64c58",
+      "title": "Junior Java Analyst Developer — FinTech Consultant (Remote)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__473813866__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    }
+  ]
+}

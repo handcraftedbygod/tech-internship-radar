@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 96,
+  "currentOpenings": 97,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 96,
+  "totalPostings": 97,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 83
+      "count": 84
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 72
+      "count": 73
     },
     {
       "id": "ai",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    96,
+    97,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ebb5866880fa4faf34fd1961eb16fd92a693029",
+      "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-developer-platform-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-08-10T05:27:06.486Z"
+    },
     {
       "id": "a42495809940ecd6135d576f07876d7f85e9cc0a",
       "title": "Frontend Engineer Intern (Ads Interface) - 2027 Summer",
@@ -114,13 +121,6 @@
       "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-intern-creation-platform-2027-summer",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "b35765c43c59bb534104cc34b4c084c8055e8599",
-      "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
-      "url": "https://lifeattiktok.com/search/7668675500744837381",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
   ]
 }
