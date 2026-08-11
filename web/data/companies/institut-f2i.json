@@ -2,17 +2,17 @@
   "slug": "institut-f2i",
   "name": "Institut F2I",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Paris",
-      "count": 2
+      "hub": "Other",
+      "count": 4
     },
     {
-      "hub": "Other",
+      "hub": "Paris",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,27 @@
     0,
     0,
     0,
-    4,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4fc79233e79d1c76a548240647a24a52b520df5",
+      "title": "Data Engineer Junior (H/F) - Alternance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__145845786__7079?geoID=4568&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Puteaux, France",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "0a9f396657af248f41d92dd70943c04d1665fc94",
+      "title": "Data Engineer Junior (H/F) - Alternance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__143905455__7079?geoID=4490&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Boulogne Billancourt, France",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "71204109224f8be880a6526b871a6c3f8d039406",
       "title": "Junior Data Engineer – ETL & Pipelines",

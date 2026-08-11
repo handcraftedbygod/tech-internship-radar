@@ -1,0 +1,68 @@
+{
+  "slug": "talan",
+  "name": "Talan Group",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-11T05:08:26.876Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7e0860a5dae1332153269983a8d6f790a144a384",
+      "title": "Junior Spark Data Engineer — ETL & Data Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__23630474__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "431f9ab2eea82543d84b1a1cb5309fbedb46a22b",
+      "title": "Junior Data Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__23645616__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "93bad707c6a41dddedcf2b4b0489a367040a7c92",
+      "title": "Junior Backend Developer - Spring Microservices",
+      "url": "https://es.whatjobs.com/pub_api__cpl__339577525__7107?geoID=425&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Málaga, Spain",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    }
+  ]
+}

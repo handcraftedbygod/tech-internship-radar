@@ -2,21 +2,21 @@
   "slug": "teksystems",
   "name": "TEKsystems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8df324eca06272af913374a5160bb3c670e43f26",
+      "title": "Early Career - Mobile Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__499834453__7082?geoID=835&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "2e56784c1147c3a502d7fd98f0c90e28cac30829",
       "title": "Junior Mobile Developer - React Native & Flutter",

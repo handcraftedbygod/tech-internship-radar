@@ -2,20 +2,25 @@
   "slug": "imc-trading",
   "name": "IMC Trading",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7fb5f54aad73c6cf53adaca8f762f276540f0e0a",
+      "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101?utm_source=freehire.me",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "a7431767bc34ceee36cd004ae5efbb71f0be8a63",
       "title": "Software Engineer Intern",

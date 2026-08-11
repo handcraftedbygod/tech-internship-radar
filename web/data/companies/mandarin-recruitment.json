@@ -2,13 +2,17 @@
   "slug": "mandarin-recruitment",
   "name": "Mandarin Recruitment",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f1f4d5a81ee4e89aa995987aa26e1bc7074efa9",
+      "title": "Junior Mobile Developer (Mandarin Speaking, £35k, Information Technology and Services, London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__480357381__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "361fe2cbba2de4daa80ad8f7f2b8775bcbed186d",
       "title": "Junior Magento Backend Developer – Grow with a Web Team",

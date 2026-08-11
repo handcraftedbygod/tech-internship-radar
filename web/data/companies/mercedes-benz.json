@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Stuttgart",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe834194968a54d36ef872a20f6bcb19897bb53f",
+      "title": "Werkstudent*in in MB.OS Developer Journey",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616891-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "696200c67db3410108c1b4ebfc26f84d10801bf0",
       "title": "Praktikant*in Data Science & Analytics Global Market Intelligence (Pflicht-Praktikum)",

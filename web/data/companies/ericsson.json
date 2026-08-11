@@ -2,25 +2,25 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Krakow",
-      "count": 2
+      "hub": "Lodz",
+      "count": 3
     },
     {
-      "hub": "Lodz",
-      "count": 1
+      "hub": "Krakow",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ae460b6f63d3cd2dfbb09515c2c6042526c0919",
+      "title": "Junior Software Tester L1 Radio",
+      "url": "https://jobs.ericsson.com/careers/job/563121775810573-junior-software-tester-l1-radio-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Łódź,Łódź,Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "802979432b80ea536d295d66bad98cc347bae3f7",
+      "title": "Junior Software Tester",
+      "url": "https://jobs.ericsson.com/careers/job/563121775810573?utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "08912bc2301f4fc7d5a506f1d62bb4562d72f906",
       "title": "Junior C Developer-  6G Simulator",

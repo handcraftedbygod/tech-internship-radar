@@ -1,0 +1,52 @@
+{
+  "slug": "northgravity",
+  "name": "NorthGravity",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-11T05:08:26.876Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Krakow",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b216c632de84fe0f0885b1efafda360471745060",
+      "title": "DevOps Engineer Intern",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28265121__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "753cc97217f32a9d6304e1a41e9f5d8418fdde82",
+      "title": "DevOps Engineer Intern — Hands-On Cloud & Automation",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28266144__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    }
+  ]
+}

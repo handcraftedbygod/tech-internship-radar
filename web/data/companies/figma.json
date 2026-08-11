@@ -2,20 +2,25 @@
   "slug": "figma",
   "name": "Figma",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "91c472702e1a6c9c8e2c5a807202ef32f6a28a9d",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "439cf27e7b7dcbaeb03098b36cf647be4f587cfa",
       "title": "Inside Sales Representative - Early Career (2026)",

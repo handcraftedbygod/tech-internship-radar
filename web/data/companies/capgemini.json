@@ -2,17 +2,25 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Katowice",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
+      "count": 4
+    },
+    {
+      "hub": "Warsaw",
+      "count": 3
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -20,7 +28,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -31,7 +49,7 @@
     0,
     0,
     0,
-    3,
+    12,
     0,
     0,
     0,
@@ -39,25 +57,74 @@
   ],
   "recentPostings": [
     {
+      "id": "d8f25b3b96987142732fcd4609537310aba5f323",
+      "title": "Intern Full-stack Developer (Java)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27803599__7143?geoID=1013&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Katowice, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "ae8850a54c7ad8bd6e511a3c23525f8786e1b001",
+      "title": "Hybrid Intern: Full-Stack Developer (Angular/Java)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27804364__7143?geoID=1013&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Katowice, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "2b484ddebde47f2c0ce587b910804fd1308314b5",
+      "title": "Intern DevOps Engineer (with German)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27785858__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "651e023941710c915b0d69a43c2d7f8c8b872f8e",
+      "title": "Intern DevOps Engineer (with German) @ Capgemini",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28357637__7143?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Dolnośląskie, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "2fa0fda6c5745866580fa0129a5ee40091a359fd",
+      "title": "Aspiring DevOps Engineer — Learn CI/CD & Linux (Intern)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27785422__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "891be65b028246d1739a126398edfb7a6a43d9b6",
+      "title": "Data Engineer Intern",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26242314__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "b0ff573929dabe5e5f7b42b09961eec642065cd5",
+      "title": "Data Engineer Intern: Build Data Models & Cloud Skills",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26242392__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "67f8803d6abeaac9e3e1389f5853effa07014e17",
+      "title": "Data Science & Engineering Intern — Cloud + Modeling",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26241185__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "5aaa3558e2419968919eb295181037baad472a8f",
+      "title": "Data Engineering Intern: Pipelines & Data Quality",
+      "url": "https://es.whatjobs.com/pub_api__cpl__339754655__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
       "id": "b7ba1a2528cf80688a6cfb6f4e4637aabda223e8",
       "title": "Junior Full-Stack Java Developer | Agile & Impact",
       "url": "https://fr.whatjobs.com/pub_api__cpl__143697019__7079?geoID=3860&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Brest, France",
       "firstSeenAt": "2026-08-10T05:27:06.486Z"
-    },
-    {
-      "id": "b147cf9be8d69dbe22833af192ad80f6b3ea5053",
-      "title": "Junior Infrastructure Engineer (with German)",
-      "url": "https://justjoin.it/job-offer/capgemini-junior-infrastructure-engineer-with-german--katowice-support?utm_source=freehire.me",
-      "location": "Katowice",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "a1bd7f7772e3e0322458cec79f5a951e4a8b3003",
-      "title": "Intern Full-stack Developer (Java)",
-      "url": "https://justjoin.it/job-offer/capgemini-intern-full-stack-developer-java--katowice-java?utm_source=freehire.me",
-      "location": "Katowice",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

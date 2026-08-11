@@ -1,0 +1,45 @@
+{
+  "slug": "lemmy",
+  "name": "Lemmy",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-11T05:08:26.876Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dcf23f59f89b6025db1e2bf23179fba7c1a32327",
+      "title": "Intern Frontend Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__24951214__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    }
+  ]
+}

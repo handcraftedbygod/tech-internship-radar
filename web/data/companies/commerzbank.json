@@ -1,22 +1,31 @@
 {
   "slug": "commerzbank",
-  "name": "Commerzbank",
+  "name": "Commerzbank AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Frankfurt",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
     {
       "id": "quant",
       "label": "Quant",
@@ -25,11 +34,6 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -41,13 +45,34 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "26f238eac2d957b9307a06707eb2a64aed99dc72",
+      "title": "Hybrid Data Engineer Intern - Cloud & Big Data",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27798832__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "5f2a26a07adaa0c86cb4be303892d6459bbe75ee",
+      "title": "Data Engineer Intern - BDAA Big Data - TalentBank 2026",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27803009__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "ec0bfd1b2f685d5b5bd4b7f4a053b180ba6a2450",
+      "title": "Data Engineer Intern - BDAA Big Data - TalentBank 2026 @ CommerzBank",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28349663__7143?geoID=16&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódzkie, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "1d539e5f1c2b07615cbccb3a24bac7da176a10f1",
       "title": "Data Engineer Intern - BDAA Big Data  - TalentBank 2026",

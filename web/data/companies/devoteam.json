@@ -2,11 +2,15 @@
   "slug": "devoteam",
   "name": "Devoteam",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Krakow",
+      "count": 3
+    },
     {
       "hub": "Lisbon",
       "count": 1
@@ -18,13 +22,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -36,13 +40,34 @@
     0,
     0,
     0,
-    2,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7405baadd5fd22b14dc5494623299cd74e1dbc31",
+      "title": "Junior Data Engineer (Data & AI Factory)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26259309__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "1cfaf7fd2919d60a0ad8ada48ef232c0e0ed2c0f",
+      "title": "Junior Data Engineer — Data & AI Factory (Shift-Based)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26262328__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "aa0086f34c2f2a57cc9f75a3fbd607b1931325e9",
+      "title": "Junior Data Engineer (Data & AI Factory)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__26434336__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "00c8dd4a085a393a59680f5902b72d2db29f360d",
       "title": "Junior Google Cloud Data Engineer",

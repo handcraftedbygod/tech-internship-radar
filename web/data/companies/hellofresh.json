@@ -2,21 +2,21 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 13,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 14.7,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
     },
     {
-      "hub": "Amsterdam",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "054727bac4a7c4579b8fced604177b0b936ad94d",
+      "title": "Junior Planning Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/8074260?gh_jid=8074260",
+      "location": "Derby, England, United Kingdom",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "8a314c35c4e231a89d41e66fd3aa577677179abb",
       "title": "Operations and Campaign Junior Manager - Retail Media",

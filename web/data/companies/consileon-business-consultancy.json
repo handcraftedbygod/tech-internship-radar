@@ -2,21 +2,21 @@
   "slug": "consileon-business-consultancy",
   "name": "Consileon Business Consultancy GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f49667f99e73600d265034e4b5fa1f2308509cfd",
+      "title": "Fullstack Entwickler Junior (w/m/d)",
+      "url": "https://himalayas.app/companies/consileon-business-consultancy-gmbh/jobs/fullstack-entwickler-junior-w-m-d-1348920297?utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "d8b1e07911fd110224f08b5917649d6e9482b726",
       "title": "Fullstack Entwickler Junior (w/m/d)",

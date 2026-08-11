@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ffe6b366ade66e351265c9f45d845b20bdf7205d",
+      "title": "Junior IT-Servicetechniker - Software / Kundensupport (m/w/d) (IT-Kundenbetreuer/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkxMjQxNjgwOS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "2e35aa871049df446d8008696b6ce31137915455",
       "title": "Junior Consultant EHS - Software / Arbeitssicherheit (m/w/d) (Fachkraft - Arbeitssicherheit)",

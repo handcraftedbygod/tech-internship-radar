@@ -1,0 +1,52 @@
+{
+  "slug": "aldia",
+  "name": "Aldia",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-11T05:08:26.876Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Madrid",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9d3043a5d8309d86120f26cccf8a73e4daf3571d",
+      "title": "Junior Devops Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__339601652__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "17cb54cb6d9b30a3f9de26c7c08fee2f208fb117",
+      "title": "Junior DevOps Engineer – Remote (IoT & Microservices)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__339571396__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    }
+  ]
+}

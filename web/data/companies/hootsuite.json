@@ -2,9 +2,9 @@
   "slug": "hootsuite",
   "name": "Hootsuite",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     },
     {
       "id": "design",
@@ -36,13 +40,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a11663c0a2ace2a36dfb49d48ebcd7e60a8e5632",
+      "title": "Junior IT Operations Administrator",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8119913",
+      "location": "Vancouver, Toronto",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "a413f36cb4ad754dab8f74742179289ae16b2566",
       "title": "Co-op/Intern, Product Design - Fall 2026",

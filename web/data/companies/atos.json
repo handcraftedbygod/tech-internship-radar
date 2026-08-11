@@ -2,14 +2,14 @@
   "slug": "atos",
   "name": "Atos",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86a7807b0a88ac9ae9b5fed2a5c2783b06e7c769",
+      "title": "Junior Automation Engineer — DevOps Training & Growth",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__122859172__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "a2f811f301c8a9f29730b7a6e3c643536303a13d",
       "title": "AI & Data Engineer — Junior to Confirmed, Cloud & AI",

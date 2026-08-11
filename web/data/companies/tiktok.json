@@ -2,9 +2,9 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 97,
+  "currentOpenings": 99,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 97,
+  "totalPostings": 99,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 73
+      "count": 75
     },
     {
       "id": "ai",
@@ -45,13 +45,27 @@
     0,
     0,
     0,
-    97,
+    99,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89ec9e82ceaef5a86dc394f0cc7b8148e4439ead",
+      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-global-ecommercesearch-2027-summer",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "85cab830194e30d527b2097c2c68a1ab66d45963",
+      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-global-ecommercesearch-2027-fall",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "1ebb5866880fa4faf34fd1961eb16fd92a693029",
       "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
@@ -107,20 +121,6 @@
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-media-engine-2027-summer",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "b4d4e7cf22582c680a1c84dce6dd35b97a6ccf34",
-      "title": "Software Engineer Intern (Ads Infrastructure) - 2026 Summer (BS/MS)",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-ads-infrastructure-2026-summer-bsms",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "a40408eaec4536a062e3e49501a987324bf4e06c",
-      "title": "Backend Software Engineer Intern (Creation Platform) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/backend-software-engineer-intern-creation-platform-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
     }
   ]
 }

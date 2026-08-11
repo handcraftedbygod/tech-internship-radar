@@ -1,0 +1,45 @@
+{
+  "slug": "pricenow",
+  "name": "Pricenow",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-11T05:08:26.876Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8de75e6e52693342946c78649709b9101c1c61b6",
+      "title": "Working Student Data Engineering (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pricenow/working-student-data-engineering-munich-60415",
+      "location": "Munich",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    }
+  ]
+}

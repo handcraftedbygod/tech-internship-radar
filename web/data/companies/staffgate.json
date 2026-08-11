@@ -2,21 +2,21 @@
   "slug": "staffgate",
   "name": "Staffgate Oy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,41 @@
     0,
     0,
     0,
-    1,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3afd4f7e601b87c6cb5e73566c4d4210449ff687",
+      "title": "Junior Full-Stack Developer - Grow with Modern Web Apps",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__947815__7123?geoID=2832&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lahti, Finland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "cf7635a264f922e272e9758d38b46358fb303183",
+      "title": "Junior Full-Stack Developer — Grow with Modern Web & Cloud",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__951157__7123?geoID=2832&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lahti, Finland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "a1eb7585e4dd3e09437be425df192a92509631bc",
+      "title": "Full Stack Developer Junior / Trainee",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__950855__7123?geoID=2832&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lahti, Finland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
+    {
+      "id": "dc317b4ff0b7343a8911611e22d117c3ede6a065",
+      "title": "Full Stack Developer Junior / Trainee",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__947741__7123?geoID=2832&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lahti, Finland",
+      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+    },
     {
       "id": "c4ad33fe5f65ed4d7c6b8881eb36a7fbf25af2e9",
       "title": "Full Stack Developer Junior / Trainee",
