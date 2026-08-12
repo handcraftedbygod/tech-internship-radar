@@ -2,21 +2,21 @@
   "slug": "1komma5",
   "name": "1KOMMA5˚",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-29T06:29:39.313Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a3a85c4b8ac1754bc312c8d387b156f54ce55d8f",
+      "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/junior-data-engineer-data-platform-berlin-266979?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "1d6efa3b4a766155d79e5bf6a5133245137ba165",
       "title": "(Junior) Data Engineer - Data Platform (m/f/d)",

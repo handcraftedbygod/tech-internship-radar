@@ -2,21 +2,21 @@
   "slug": "zenova",
   "name": "Zenova",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74a35bbe79261c60a74c9dcf9a3f084714236fd3",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__340545753__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "54b63e2a44d77fd6a5fc89630f6a854792115dec",
       "title": "Junior Full Stack Engineer",

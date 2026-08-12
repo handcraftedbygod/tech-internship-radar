@@ -2,21 +2,30 @@
   "slug": "sixt",
   "name": "Sixt",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +36,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4b684f2af7b1b4f7bc5ad3e7dbe08832657477cd",
+      "title": "Working Student Data Science (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000142810760",
+      "location": "Pullach, , Germany",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "13d7b388f5c1154c32b89422cf3f81cbf702b4cb",
+      "title": "Working Student (m/f/d) – Web Frontend Engineering",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000142816253",
+      "location": "Munich, BY, Germany",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "1a4e93ff0134a0f1a0f020aeb2e33bd5044a2cf6",
       "title": "Trainee Software Development Digital Experience (m/f/d)",

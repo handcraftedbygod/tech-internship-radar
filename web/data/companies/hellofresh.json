@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 14.7,
   "topLocations": [
     {
@@ -16,6 +16,10 @@
       "count": 2
     },
     {
+      "hub": "Berlin",
+      "count": 2
+    },
+    {
       "hub": "Amsterdam",
       "count": 1
     }
@@ -24,12 +28,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -40,13 +44,27 @@
     0,
     0,
     5,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae0d73f2f3974a647f739a0f352622fc88cb9d8a",
+      "title": "Werkstudent - Partnerships & Influencer Operations (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8120152?gh_jid=8120152",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "8c8b10117fdb3e987ee36cf43411aecc9af1b0b5",
+      "title": "Junior Photographer (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8114245?gh_jid=8114245",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "054727bac4a7c4579b8fced604177b0b936ad94d",
       "title": "Junior Planning Manager",

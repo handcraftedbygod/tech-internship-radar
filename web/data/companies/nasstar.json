@@ -2,21 +2,21 @@
   "slug": "nasstar",
   "name": "nasstar",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "afabe60f43fe3af0678896050d3a8cda42ae09a0",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5829338113?utm_medium=api&utm_source=freehire.me",
+      "location": "Holborn, Central London",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "7e178c08f8bf52ec73524a67e2e5116f162e4b8a",
       "title": "Junior Data Engineer",

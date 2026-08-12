@@ -2,21 +2,25 @@
   "slug": "docaposte",
   "name": "DOCAPOSTE",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70185a0e56b8339cc6d03fe0b1e7e4190671fe15",
+      "title": "Data Engineer / Architecte Data Junior F/H",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__151180120__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "2ddee857387e902d2ced7ebce36f411a2c57c878",
       "title": "Data Engineer / Architecte Data Junior — Databricks Cloud",

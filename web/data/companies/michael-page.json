@@ -2,30 +2,30 @@
   "slug": "michael-page",
   "name": "Michael Page",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b70f6f9935405544a640016935671934c1bc0631",
+      "title": "JUNIOR DATA ENGINEER - ANALITYCS (Hibrido Madrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__340154341__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "94a97b84b34c1781350ad216289a715cafe91888",
+      "title": " (Junior) Controller / Financial Data Analyst (m/w/d) (Finanzwirt/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDMtMkxfNjE1NTM3LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "a9c4ab48bcdaf84a15c5f85b9371d7000820667f",
       "title": "Junior Data Engineer - PySpark & Cloud Pipelines (Hybrid)",

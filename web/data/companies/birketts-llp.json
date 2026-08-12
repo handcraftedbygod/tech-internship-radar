@@ -2,21 +2,21 @@
   "slug": "birketts-llp",
   "name": "Birketts LLP",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "167c4598880f696894b3de661c2635cda8815a85",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5832205129?se=fK0RHtyV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=freehire.me&v=CD48F9924B919D004AF7E592870CF67B4E0F2EB4",
+      "location": "Ipswich, Suffolk",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "6b004381e97104d29e679a11743f9c1660277c81",
       "title": "Junior Data Engineer",

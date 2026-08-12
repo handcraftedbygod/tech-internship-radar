@@ -2,21 +2,21 @@
   "slug": "allianz",
   "name": "Allianz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08405ab51d2892a5da8bb2f224063ae155c409ce",
+      "title": "Working Student Data Engineering (m/f/d)",
+      "url": "https://careers.allianz.com/global/en/job/AISAIPGB102980EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Unterföhring (bei München)",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "876f50cce210ae5852ea1dbcc962b8ec3b6c3e43",
       "title": "Intern in Software and Data Engineering (m/f/d)",

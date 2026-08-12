@@ -2,21 +2,29 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Zurich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -27,13 +35,27 @@
     0,
     0,
     0,
-    5,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da878f250bde3fe582f62d1857779998cd560fe5",
+      "title": "Internship Data Scientist in Zurich (f/m/x)",
+      "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Zurich/Internship-Data-Scientist-in-Zurich--f-m-x-_JR_1049900?utm_source=freehire.me",
+      "location": "Zurich",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "329ed4fa16b836d24830c0126f8c4d151fa8de98",
+      "title": "Internship Data Scientist in Zurich (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5837091981?se=sjVOzQ6W8RGbOuxrzDNdaA&utm_medium=api&utm_source=9141e2e6&v=D3E97D1D3574BDAAA0B036297B60D26D822B003A",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "baa3f8bb38b829b4c5f40de98c3b8ded1f290053",
       "title": "Internship Machine Learning",

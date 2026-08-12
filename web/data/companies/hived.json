@@ -2,21 +2,21 @@
   "slug": "hived",
   "name": "HIVED Ltd",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9638b06f354bc8e4a347bfcf6bf3fb83c2d58d4d",
+      "title": "Junior Backend Engineer (CX Squad)",
+      "url": "https://jobs.ashbyhq.com/hived/6b167b58-5eeb-4121-adcf-48a3bc49aa0d?utm_source=freehire.me",
+      "location": "London HQ",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "371c73890fbba1debe66723d08966a0e994bc5f9",
       "title": "Junior Backend Engineer (CX Squad)",

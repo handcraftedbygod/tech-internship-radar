@@ -2,21 +2,21 @@
   "slug": "second-window",
   "name": "Second Window",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "22d4553bfb4c9ffe637d3bf6d23169bc68fbf00d",
+      "title": "Programador/a Java / Fullstack Junior (100% Remoto)",
+      "url": "https://www.infojobs.net/madrid/programador-java-fullstack-junior-100-remoto/of-i7fafd6a23342489949bded2002ba04?utm_source=freehire.me",
+      "location": "Madrid",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "1b09df6bc9c2cabac271f7a772d5501c654c544a",
       "title": "Remote DevOps Junior Engineer - Cloud, CI/CD & Kubernetes",

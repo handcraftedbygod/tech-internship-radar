@@ -2,21 +2,21 @@
   "slug": "mitiga-solutions",
   "name": "Mitiga Solutions",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89f078025b6aa0116dd582250a92c0d9aa2fe70d",
+      "title": "Junior DevOps Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341044101__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "fcce42a1e53fa97fbc1af9d11d42a8fe243062ee",
+      "title": "Junior DevOps Engineer - Climate Tech, Cloud & CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341066517__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "ad358301f91e6a75ce550572899e996359c93f05",
       "title": "Junior DevOps Engineer",

@@ -2,9 +2,9 @@
   "slug": "commerzbank",
   "name": "Commerzbank AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Frankfurt",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Other",
@@ -24,16 +24,16 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
-    },
-    {
-      "id": "quant",
-      "label": "Quant",
-      "count": 1
+      "count": 5
     },
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
       "count": 1
     }
   ],
@@ -45,13 +45,27 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f85a7bea2bc154f3d46880307274b1f057883a7",
+      "title": "Praktikant*in im Bereich Big Data & Advanced Analytics - Projektcontrolling Artificial Intelligence",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1616845-1-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
+    {
+      "id": "59ee9b3e9915e25229e22de83b16c0f3d772215d",
+      "title": "IT Trainee - Software Engineer/Developer",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-6-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "26f238eac2d957b9307a06707eb2a64aed99dc72",
       "title": "Hybrid Data Engineer Intern - Cloud & Big Data",

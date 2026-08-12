@@ -2,13 +2,17 @@
   "slug": "cloudferro-sa",
   "name": "CloudFerro S.A.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43fc5311e8fb65055658d73df7e2a9537c6b890a",
+      "title": "Junior DevOps Engineer",
+      "url": "https://cloudferro.traffit.com/public/an/006db19c991aa784f836fe508b09996d526f5966?source=career_page&utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-08-12T05:32:37.326Z"
+    },
     {
       "id": "1d14f4757649ab7cf7f2ca426a53b06d9590dc3a",
       "title": "Junior DevOps Engineer",
