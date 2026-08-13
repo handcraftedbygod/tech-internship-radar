@@ -1,0 +1,52 @@
+{
+  "slug": "starapple",
+  "name": "Starapple",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-13T05:41:36.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "831cf31f77c1e330b73d472562f83ed7636f953b",
+      "title": "Starter/Junior Java developer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__150134662__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "672b113133ff939ed41f3429e141756d73e63c61",
+      "title": "Junior Java Developer: Mentored Path to Microservices",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__150134781__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    }
+  ]
+}

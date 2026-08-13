@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 99,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 99,
-  "avgPostingDurationDays": null,
+  "totalPostings": 100,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "San Francisco",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "London",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 21
     },
     {
       "id": "biz",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    99,
+    100,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15f0dc4e910668ba780e1f8a9a0393cc8b46aeba",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-recommendation-mall-2027-start-phd",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "89ec9e82ceaef5a86dc394f0cc7b8148e4439ead",
       "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Summer",
@@ -112,13 +119,6 @@
       "id": "4b1be8836009688565ff62b5cefe46019cf9409a",
       "title": "Software Engineer Intern (Foundation Platform) - 2027 Summer",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-foundation-platform-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "620f6b852a65a9253f32cc4ef4d51b8e905f5f76",
-      "title": "Software Engineer Intern (Media Engine) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-media-engine-2027-summer",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }

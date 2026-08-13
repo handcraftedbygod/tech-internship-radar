@@ -2,21 +2,21 @@
   "slug": "constructortech",
   "name": "constructortech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Bremen",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "408b4e97144abf2b8cdd201c101aa743f9691751",
+      "title": "Software Engineer (Intern, C#)",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructortech/software-engineer-intern-c-bremen-449247?utm_source=freehire.me",
+      "location": "Bremen",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "a20f2b71be8f0a936b7029c700cb9296a75f0c43",
       "title": "Frontend Engineer (Intern)",

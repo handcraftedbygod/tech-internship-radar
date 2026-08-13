@@ -1,22 +1,22 @@
 {
   "slug": "jobgether",
-  "name": "Jobgether",
+  "name": "jobgether",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d65cfd7816e5bf68664d723c836dd27e09e7a560",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/11fda0bb-a160-4f24-836e-4e0e3844dabc?utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "70ef3ab347475a898a3b8425484c091855be1bd6",
       "title": "Junior Full Stack Engineer (Remote EU)",

@@ -2,11 +2,15 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Berlin",
       "count": 1
@@ -14,17 +18,13 @@
     {
       "hub": "Munich",
       "count": 1
-    },
-    {
-      "hub": "Other",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -35,13 +35,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d1fadf688493b5628cdb04b95a8d8caf7869f8c",
+      "title": "(Junior) Software Entwickler (m/w/d)",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000143128718",
+      "location": "Dortmund, Nordrhein-Westfalen, Germany",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "e1498fa5f733291db6ab495ce4312fa5f70eaf38",
       "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",

@@ -2,14 +2,14 @@
   "slug": "commerzbank",
   "name": "Commerzbank AG",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Frankfurt",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "quant",
@@ -45,13 +45,27 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "503174442154c3f679318c3330550b50a35cd0c9",
+      "title": "Hybrid Java Developer Intern – Cloud & Microservices",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27799330__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "71be862915cc900990587a285d90de917c4e6f43",
+      "title": "Java Developer Intern - Process Platform & Automation - TalentBank 2026",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27803254__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "2f85a7bea2bc154f3d46880307274b1f057883a7",
       "title": "Praktikant*in im Bereich Big Data & Advanced Analytics - Projektcontrolling Artificial Intelligence",

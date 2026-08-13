@@ -2,21 +2,21 @@
   "slug": "telnyx",
   "name": "Telnyx",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "397caf600ad7f4a7dbfd290c57099d2c03791d00",
+      "title": "Junior Software Engineer, Elixir ",
+      "url": "https://job-boards.greenhouse.io/telnyx54/jobs/7751258003?utm_source=freehire.me",
+      "location": "Dublin, Ireland; Amsterdam, Netherlands",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "8ddbfed2144b8f193f9bf544e2d5b74c470a792e",
       "title": "Junior Elixir Backend Engineer",

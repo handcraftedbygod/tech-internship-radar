@@ -2,21 +2,21 @@
   "slug": "dataiku",
   "name": "Dataiku",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c1b70a4f7c4feb74a1166442a1de84ee4ab7b38",
+      "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__502327657__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "a54efda30dc4c9b46bc19f7630f172d270d900ee",
       "title": "NLP & Frontend Engineer Intern",

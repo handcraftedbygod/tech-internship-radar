@@ -2,14 +2,14 @@
   "slug": "jump-trading",
   "name": "Jump Trading",
   "tier": "trading",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,13 +37,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9f312cedd4d7cdd9cfd3b9c98d841ed1eec6e88d",
+      "title": "Campus Software Engineer (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026&utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "ea72e836cf71988eaaa795cdcd9a93863c6140a3",
       "title": "Campus UI Software Engineer (Intern)",

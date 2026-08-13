@@ -2,21 +2,21 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Montreal",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4e6199fd58ae20b25a145bcc118bb88de282f20b",
+      "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+      "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-391e92",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "e7a2f8c5e5195bd53a150a74a2e8de4f7dc510ea",
       "title": "Stagiaire en Développement Cloud, Intern Cloud Developer - FCAP",

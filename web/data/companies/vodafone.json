@@ -1,18 +1,18 @@
 {
   "slug": "vodafone",
-  "name": "Vodafone",
+  "name": "Vodafone GmbH",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Stuttgart",
-      "count": 2
+      "hub": "Düsseldorf",
+      "count": 3
     },
     {
-      "hub": "Düsseldorf",
+      "hub": "Stuttgart",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ab4f6d490026fd5cf83c55e3dd4ba0f02118789",
+      "title": "Praktikant Innovation Garage mit Schwerpunkt IoT Backend Development & Design (m/w/d) in Düsseldorf",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44373985-812-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "8175361922742c156eb555f4e23d849511551ee1",
       "title": "Data Science & Predictive Analytics Intern, Customer Experience",

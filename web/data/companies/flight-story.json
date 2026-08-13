@@ -1,0 +1,45 @@
+{
+  "slug": "flight-story",
+  "name": "Flight Story",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-13T05:41:36.924Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8b475534a8046b1092d8eb7685a0537cbbe87403",
+      "title": "Junior Software Engineer",
+      "url": "https://flightstory.teamtailor.com/jobs/8163173-junior-software-engineer?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    }
+  ]
+}

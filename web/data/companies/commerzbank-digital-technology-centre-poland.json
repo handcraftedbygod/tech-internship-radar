@@ -2,20 +2,25 @@
   "slug": "commerzbank-digital-technology-centre-poland",
   "name": "Commerzbank Digital Technology Centre Poland",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "02acf77eebf0c6952c5c9a24306438886f3f0c83",
+      "title": "Java Developer Intern: Document Lifecycle (Hybrid)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27807871__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "a797e5dcc4b57ca4b8b708b210dfb82e094f14e6",
+      "title": "Java Developer Intern - Document Lifecycle - TalentBank 2026",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27807740__7143?geoID=3277&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "f70e1257275d2111c6adecf15b88e3b023861eb5",
       "title": "Data Engineer Intern - BDAA Big Data - TalentBank 2026",

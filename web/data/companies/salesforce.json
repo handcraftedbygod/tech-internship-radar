@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
@@ -14,18 +14,26 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +44,27 @@
     0,
     0,
     1,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5bf19f1c26c1a0b9b4f209253eeacd97dfafdfe7",
+      "title": "Software Engineering Intern - Future Pathways",
+      "url": "https://www.themuse.com/jobs/salesforce/software-engineering-intern-future-pathways",
+      "location": "San Francisco, CA, Seattle, WA",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "a6f634720ad213f96fa664d061dd2a36799a206f",
+      "title": "Sales Intern - Dutch Speaker",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Sales-Intern---Dutch-Speaker_JR335817-1",
+      "location": "Netherlands - Amsterdam",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "0bb03724d229656ac67e832b1ac7d2829e909bf1",
       "title": "Junior Technical Support Engineer【障害者採用】",

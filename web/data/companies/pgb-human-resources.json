@@ -1,0 +1,45 @@
+{
+  "slug": "pgb-human-resources",
+  "name": "PGB Human Resources",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-13T05:41:36.924Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d2ef8529c518d4bc53261d8cae468027d43740f5",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__23592216__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    }
+  ]
+}

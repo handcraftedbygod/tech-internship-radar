@@ -2,21 +2,21 @@
   "slug": "the-big-jobsite",
   "name": "The BIG Jobsite",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5aab44cd32316dc0dd7bc96c3736da7e056ce9b",
+      "title": "Data Engineer Internship (M/F/X)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341726509__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "b5eb46c7d5bddd272386b21e9d3c80374f1efa6e",
       "title": "Data Engineer Internship (m/f/x)",

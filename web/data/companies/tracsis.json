@@ -1,0 +1,52 @@
+{
+  "slug": "tracsis",
+  "name": "Tracsis",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-13T05:41:36.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "985aa6a7040adbbb3c5cd072a955d18f36da1de9",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__459533368__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "c3ab6c5d78825a9859d1c9d4cb870b1bd6ae1e60",
+      "title": "Junior Java Developer – Rail Tech, Cloud & REST Services",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__459533638__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    }
+  ]
+}

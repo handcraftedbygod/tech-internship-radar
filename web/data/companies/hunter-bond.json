@@ -2,21 +2,21 @@
   "slug": "hunter-bond",
   "name": "Hunter Bond",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb7321918e543df4af5839bc7acf7391d3140857",
+      "title": "Junior Python Developer – Elite Trading Startup (up to £100K + Bonus + Hybrid)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447508687__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "25f64634de122b2bd086c559fa79dc466721ab46",
       "title": "Junior Front-End (React) Engineer",

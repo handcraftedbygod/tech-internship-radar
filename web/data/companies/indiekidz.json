@@ -1,14 +1,18 @@
 {
   "slug": "indiekidz",
-  "name": "IndieKidz GmbH",
+  "name": "IndieKidz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86fc3e1f60b2d4c5e5d8ecb2d50dccf0762c7b07",
+      "title": "Mandatory Internship(Unpaid): Agentic Backend / Full-Stack Developer(NodeJS/Type",
+      "url": "https://himalayas.app/companies/indiekidz/jobs/mandatory-internship-unpaid-agentic-backend-full-stack-developer-nodejs-type?utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "2ab2927b1618d90273fb3dd83e0faa1896679af9",
       "title": "Mandatory Internship(Unpaid): Agentic Backend / Full-Stack Developer(NodeJS/Typescript) for AI SaaS",

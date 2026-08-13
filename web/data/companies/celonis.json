@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 17,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 29,
-  "avgPostingDurationDays": 21.9,
+  "totalPostings": 30,
+  "avgPostingDurationDays": 20.6,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -18,13 +18,17 @@
     {
       "hub": "Paris",
       "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 15
+      "count": 16
     },
     {
       "id": "swe",
@@ -50,13 +54,20 @@
     0,
     0,
     27,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "047518410701d38a5ba6e148c882fa01462b2786",
+      "title": "Business Development Representative Sales Intern (Part-Time) ",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7667306003?gh_jid=7667306003",
+      "location": "New York, US, New York",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "7d616d7eb7201923996edb93f39b2432a36ed571",
       "title": "Marketing Database Operations Intern",
@@ -119,13 +130,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-28T06:25:31.354Z"
-    },
-    {
-      "id": "91bd8ccfde5729a65ef615e5e19a47ea726e8133",
-      "title": "Working Student Employment Law",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7767354003?gh_jid=7767354003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
     }
   ]
 }

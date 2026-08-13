@@ -2,21 +2,21 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -37,13 +37,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86bc8b0cbf7fbd2099a757f8e624aca020b94452",
+      "title": "Junior Software Engineer: Mediation & Data Integration",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27483336__7143?geoID=632&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Gliwice, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "06c0c5d789d85f8cd2a220784edbad4d0be380ca",
       "title": "Working Student (f/m/d) AI and Data Scientist in PhD Programs and Embedded Research",

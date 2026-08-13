@@ -2,21 +2,21 @@
   "slug": "back-to-work",
   "name": "Back TO Work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08e8c4a83b9fef0b9c156a2f376268a184c842e5",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5830421671?se=NoxQTJSW8RGZjegz1di2Mg&utm_medium=api&utm_source=freehire.me&v=4E5964C76B1BBB12A7AA32E7AF8C5DA41F0D0A6A",
+      "location": "Stanley, Liverpool",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "6f0c6eb575e083c2dd1bbbf83f7a74bf8a9e762f",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5831881847?utm_medium=api&utm_source=freehire.me",
+      "location": "Hazel Grove, Stockport",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "a82f2d6cffb62feaf98ed08c4b9195c2df2c9a91",
       "title": "Junior Data Analyst",

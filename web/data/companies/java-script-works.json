@@ -2,14 +2,14 @@
   "slug": "java-script-works",
   "name": "Java Script Works",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -18,6 +18,11 @@
   ],
   "topDisciplines": [
     {
+      "id": "quant",
+      "label": "Quant",
+      "count": 2
+    },
+    {
       "id": "biz",
       "label": "Business",
       "count": 1
@@ -25,11 +30,6 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
-    },
-    {
-      "id": "quant",
-      "label": "Quant",
       "count": 1
     },
     {
@@ -46,13 +46,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f538dfc74a47e2f2ba2f5010167fb247c205a520",
+      "title": "Junior Python Developer in London - Quant Capital",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__456495977__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "f21e60fcd7521e7fd6b0d5e4985a5653203957ff",
       "title": "Junior C# Stack Developer – Azure, SQL & UI Tools",

@@ -2,9 +2,9 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Zurich",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -35,13 +35,20 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ceb7d50413335eb4124a37fe4d57c14f38fd1667",
+      "title": "Internship Data Scientist in Zurich (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5837091981?se=3IFfOdmW8RGqC9vxFa8eKw&utm_medium=api&utm_source=9141e2e6&v=D3E97D1D3574BDAAA0B036297B60D26D822B003A",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "da878f250bde3fe582f62d1857779998cd560fe5",
       "title": "Internship Data Scientist in Zurich (f/m/x)",

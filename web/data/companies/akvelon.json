@@ -2,21 +2,21 @@
   "slug": "akvelon",
   "name": "Akvelon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,34 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2848fd4740aa7f21b7eb82e2cb3a45b5c4956977",
+      "title": "Junior Software Development Engineer 8460",
+      "url": "https://akvelon.peopleforce.io/careers/v/230892-junior-software-development-engineer-8460?utm_source=freehire.me",
+      "location": "Poland/Serbia/Croatia/Portugal/Kazakhstan/Georgia/Armenia/Brazil/Montenegro/Bulgaria/Spain",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "53f0dbdd162a6ac4de025b0d5cb4b07e9698fca9",
+      "title": "Junior Site Reliability Engineer 8451",
+      "url": "https://akvelon.peopleforce.io/careers/v/230886-junior-site-reliability-engineer-8451?utm_source=freehire.me",
+      "location": "Georgia/Armenia/Kazakhstan/Egypt/Poland/Serbia",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "749199ab5ae1e1451828c1dc967ceb967c5d50d0",
+      "title": "Frontend Internship 2026",
+      "url": "https://akvelon.peopleforce.io/careers/v/230871-frontend-internship-2026?utm_source=freehire.me",
+      "location": "Poland/Egypt/Georgia/Armenia",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "d01b39748d99eab3594bea0e04beca98c9dda52f",
       "title": "Junior Site Reliability Engineer 7849 M",

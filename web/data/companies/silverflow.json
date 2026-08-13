@@ -2,21 +2,21 @@
   "slug": "silverflow",
   "name": "Silverflow",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3adb3315ead2f4121fb6a58cb277038d059ad4c0",
+      "title": "Junior Data Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__149567097__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "2dc637eeb6927ef1af0bd834d39fbd1415b02534",
       "title": "Junior Data Engineer: ETL & Cloud Data Pipelines",

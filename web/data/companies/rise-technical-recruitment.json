@@ -2,21 +2,21 @@
   "slug": "rise-technical-recruitment",
   "name": "Rise Technical Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5336ff38f34b4db12ab400bbf678f047a85dd098",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5830331861?utm_medium=api&utm_source=freehire.me",
+      "location": "Westminster, South West London",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "849af251ab9aa8cdeb1c144870cfa3d9223a033b",
       "title": "Junior Data Engineer",

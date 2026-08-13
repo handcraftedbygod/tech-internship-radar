@@ -2,29 +2,29 @@
   "slug": "proactiveit-appointments",
   "name": "Proactive.IT Appointments Limited",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "design",
-      "label": "Design",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3957ba7a5f8ae2e268d55b64a53a65f4ac222202",
+      "title": "Junior Java Developer – 11610AW",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__447702330__7082?geoID=22&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Bristol, United Kingdom",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "874372ca63c46b7808a09172977916602469dc38",
       "title": "Junior Java Developer - Full-Stack, Cloud Projects (Hybrid)",

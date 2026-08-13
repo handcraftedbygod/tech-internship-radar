@@ -2,14 +2,14 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Krakow",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     },
     {
       "id": "biz",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    9,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6ba5d4c8cda2748e307a11d8f2f89dcb51e6341a",
+      "title": "Cybersecurity Consultant Internship Program (She/He/They)",
+      "url": "https://justjoin.it/job-offer/accenture-cybersecurity-consultant-internship-program-she-he-they--warszawa-security?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "297e5c5b530dfeb68bd4cc2885c211f4e8c850e8",
       "title": "Junior Salesforce Marketing Cloud Developer",

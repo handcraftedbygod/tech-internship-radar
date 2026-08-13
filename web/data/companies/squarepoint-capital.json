@@ -2,21 +2,21 @@
   "slug": "squarepoint-capital",
   "name": "Squarepoint Capital",
   "tier": "trading",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "quant",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "292bb394ad86c60f60042fbc194fc1c6d9e906f0",
+      "title": "Intern Software Developer - London - 2027",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?gh_jid=7231006&id=7231006&utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "e2013a015d494e351d3da91899903b20f3efee8e",
       "title": "Junior SRE",

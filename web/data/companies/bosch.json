@@ -2,17 +2,17 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Reutlingen",
-      "count": 3
+      "hub": "Other",
+      "count": 5
     },
     {
-      "hub": "Other",
+      "hub": "Reutlingen",
       "count": 3
     },
     {
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 4
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
     },
     {
       "id": "hw",
@@ -45,13 +45,27 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b3f392fc833543d78309275ea371b6827695fa4",
+      "title": "DevOps Engineer Internship",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143128206-devops-engineer-internship?utm_source=freehire.me",
+      "location": "Ovar, pt",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
+    {
+      "id": "e51f132a06313c1f5a89d0cc961fcce71ac34b67",
+      "title": "C# Developer - Internship",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143129049-c-developer-internship?utm_source=freehire.me",
+      "location": "Ovar, pt",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "a735685ce11f2bfcd67fb82a0da29b0b561ea7a0",
       "title": "Infrastructure & DevOps Engineer Intern",

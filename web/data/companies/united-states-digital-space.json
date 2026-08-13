@@ -2,9 +2,9 @@
   "slug": "united-states-digital-space",
   "name": "United States Digital Space LLC",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 4
     },
     {
-      "hub": "London",
-      "count": 2
+      "hub": "Warsaw",
+      "count": 3
     },
     {
-      "hub": "Warsaw",
+      "hub": "London",
       "count": 2
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5f67819dd17a85ada147e2ec46636db6bafc026",
+      "title": "Junior Software Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28287355__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-13T05:41:36.924Z"
+    },
     {
       "id": "3a74becb8645d5630284c3a6e0800a28f07b0769",
       "title": "Junior Cloud Frontend Developer – Learn & Grow in Tech",
