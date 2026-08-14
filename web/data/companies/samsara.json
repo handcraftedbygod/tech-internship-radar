@@ -2,9 +2,9 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -29,7 +29,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
@@ -45,13 +45,20 @@
     0,
     0,
     1,
-    12,
+    13,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "37cc97eae0747af66feea3d4824252a61be015ce",
+      "title": "Entry Level Tech Sales - Benelux Market (work from the UK, Netherlands, Germany or France - Dutch speaking role) ",
+      "url": "https://www.samsara.com/company/careers/roles/8127985?gh_jid=8127985",
+      "location": "Remote - France; Remote - Germany; Remote - Netherlands; Remote - UK",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "f91d128c7b06d970e0bbd9bd0f349a766f869519",
       "title": "Software Engineer I (New Grad)",
@@ -113,13 +120,6 @@
       "title": "Software Engineering Interns - London",
       "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-interns-london",
       "location": "London, United Kingdom",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "ec141af93187780c360f06f4858e3d3b5446bd2c",
-      "title": "Software Engineering Internship - London",
-      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
-      "location": "London - UK2",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]

@@ -2,21 +2,26 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "442f16ec48df549b95e48a5e5e16996ac3cfc75d",
+      "title": "Working student in the car body development with Python programming (f/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617422-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "e78420fc0ce39eda2b431f6ed7c4a5262044a293",
+      "title": "Werkstudent Data Analytics im Qualitätsmanagement für Digitale Dienste (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617420-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "544f9b4558251dca30e7a5c474a209c9645cd86f",
       "title": "Praktikant Software Integration E/E Systeme (w/m/x)",

@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 15,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Reutlingen",
@@ -18,18 +18,26 @@
     {
       "hub": "Stuttgart",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -45,13 +53,48 @@
     0,
     0,
     0,
-    10,
+    15,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5307626a18efc2e1a7825e11c7b145201ae92d2f",
+      "title": "Junior AI Software Engineer",
+      "url": "https://aijobs.net/job/junior-ai-software-engineer-lisbon-braga-portugal-281608/?utm_source=freehire.me",
+      "location": "Lisbon | Braga, Portugal",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "f7685d19149e213e06705a82ae989d4c5ef3b59c",
+      "title": "C# Developer - Internship",
+      "url": "https://echojobs.io/job/bosch-c-developer-internship-jbbxa?utm_source=freehire.me",
+      "location": "Ovar, PT, PT",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "91650b3214cb582aab638c2fb355ce1ba596630b",
+      "title": "DevOps Engineer Internship",
+      "url": "https://echojobs.io/job/bosch-devops-engineer-internship-okiaz?utm_source=freehire.me",
+      "location": "Ovar, PT, PT",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "4df50f1a58fd8c7240b3cbdb6d500ea4243c7a6d",
+      "title": "Internship in the Field of Full Stack Engineering",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143271509-internship-in-the-field-of-full-stack-engineering?utm_source=freehire.me",
+      "location": "Ulm, BW, de",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "b20d8252975dea704397b9ed79fa2bd1d2435bf3",
+      "title": "IT Internship (BackEnd, Java) (f/m)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?utm_source=freehire.me",
+      "location": "Warszawa, Województwo mazowieckie, pl",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "7b3f392fc833543d78309275ea371b6827695fa4",
       "title": "DevOps Engineer Internship",
@@ -86,41 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/boschgroup/744000141677619?utm_source=freehire.me",
       "location": "Reutlingen, BW, DE",
       "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "cd0339a76764405ff7f078ab1c21b5e96d1da6d8",
-      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141719359-junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-business-intelligence-data-analytics?utm_source=freehire.me",
-      "location": "Gerlingen, BW, de",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "18b8acf2b7c03960c89a3bc2d8264f9ac4b8e7d3",
-      "title": "Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141476667-mandatory-internship-full-stack-development-for-release-automation-of-automotive-embedded-middleware-software?utm_source=freehire.me",
-      "location": "Abstatt, BW, de",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "adf07c123754df5beb980571b15e09f87f960219",
-      "title": "Internship Data Science in Manufacturing",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141677619-internship-data-science-in-manufacturing?utm_source=freehire.me",
-      "location": "Reutlingen, BW, de",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "c291eca16d239488fe90bf8d85f51c5ac1acbe73",
-      "title": "Praktikum im Bereich Data Science in der Fertigung (w/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141677630-praktikum-im-bereich-data-science-in-der-fertigung-w-m-div-?utm_source=freehire.me",
-      "location": "Reutlingen, BW, de",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "8f6f67038a5b72142412c23c0502260ab242b46c",
-      "title": "Mandatory Internship Automotive Networking Innovation & Software-Defined Vehicle Technologies",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141680290-mandatory-internship-automotive-networking-innovation-software-defined-vehicle-technologies?utm_source=freehire.me",
-      "location": "Stuttgart, BW, de",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "slug": "squarepoint-capital",
   "name": "Squarepoint Capital",
   "tier": "trading",
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 7
+      "count": 8
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "quant",
@@ -32,13 +36,27 @@
     0,
     0,
     0,
-    7,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e935deb59440434f18b501e4103adf3d46f86fc4",
+      "title": "Junior Platform DevOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__505576378__7082?geoID=33051&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "City of Westminster, United Kingdom",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "9ec2a8cf3af746e758f2f7a3226504f296707bff",
+      "title": "Intern Software Developer - London - 2027",
+      "url": "https://www.adzuna.co.uk/jobs/details/5838474364?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "292bb394ad86c60f60042fbc194fc1c6d9e906f0",
       "title": "Intern Software Developer - London - 2027",

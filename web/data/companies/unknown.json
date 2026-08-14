@@ -2,21 +2,21 @@
   "slug": "unknown",
   "name": "Unknown",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e351c966204cfef2f136212aacd8301109ca3b7c",
+      "title": "Internship Tactical Asset Allocation - Data Analytics (m/f/d)*",
+      "url": "https://www.adzuna.de/land/ad/5839361902?se=kASMFqKX8RGEv9vgDIeD8g&utm_medium=api&utm_source=9141e2e6&v=1FB6C007C908DCE059ED58334C8ABF191EC9CAF2",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "22eab614f392430b3f46ddf1d0450e65b3f4da21",
       "title": "Internship Tactical Asset Allocation - Data Analytics (m/f/d)*",

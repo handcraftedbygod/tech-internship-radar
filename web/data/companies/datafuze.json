@@ -2,21 +2,21 @@
   "slug": "datafuze",
   "name": "DataFuze",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "79bc119535589610da94521faf5ac3453e808c02",
+      "title": "Junior Data Engineer",
+      "url": "https://justjoin.it/job-offer/datafuze-junior-data-engineer-warszawa-data-2cbf7dc1?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "002cd0dd7670d6ed4219748e0a1cb86c7bbc1466",
       "title": "Junior Data Engineer",

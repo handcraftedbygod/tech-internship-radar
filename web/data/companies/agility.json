@@ -2,21 +2,21 @@
   "slug": "agility",
   "name": "Agility",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3db51c8e8c6633a35adcaad2e1ae869e4ac8571f",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5838672388?utm_medium=api&utm_source=freehire.me",
+      "location": "Nuneaton, Warwickshire",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "31f8f9c16a8313d8f5e5278e1fa0b94684384f35",
       "title": "Junior Data Analyst",

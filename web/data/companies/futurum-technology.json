@@ -2,21 +2,21 @@
   "slug": "futurum-technology",
   "name": "Futurum Technology Ltd.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7dd9f421579978b9069bf4e5b5c63c6049bbda0a",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27931617__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "a6a9f16994fe2f92bb4ae85d97c08f67c3a67982",
       "title": "Junior Java Developer (Spring) — Flexible Hours, Small Teams",

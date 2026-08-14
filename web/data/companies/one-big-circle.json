@@ -2,21 +2,21 @@
   "slug": "one-big-circle",
   "name": "One Big Circle Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86873a4bc4175c33909539a404467f86cb9d2b5f",
+      "title": "Junior Device Software Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5840202842?utm_medium=api&utm_source=freehire.me",
+      "location": "Bishopsworth, Bristol",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "3919f8e4dfff887cdccdf17d77d61b730b2c7f52",
       "title": "Junior Device Software Developer",

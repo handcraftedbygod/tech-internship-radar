@@ -2,18 +2,18 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 14.7,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 15.6,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    },
     {
       "hub": "London",
       "count": 3
-    },
-    {
-      "hub": "Other",
-      "count": 2
     },
     {
       "hub": "Berlin",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
+      "id": "swe",
+      "label": "Software",
       "count": 5
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
+      "id": "biz",
+      "label": "Business",
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -44,13 +44,27 @@
     0,
     0,
     5,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65469beaf179109ea4c004d1876d5804b358e8c5",
+      "title": "Junior Facility Employee (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8128063?gh_jid=8128063",
+      "location": "Bleiswijk, South Holland, Netherlands",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "1290cd60dd9f64c4b4879dbe414bcdfc32ef18ed",
+      "title": "Junior Facilitair Medewerker (v/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8128171?gh_jid=8128171",
+      "location": "Bleiswijk, South Holland, Netherlands",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "ae0d73f2f3974a647f739a0f352622fc88cb9d8a",
       "title": "Werkstudent - Partnerships & Influencer Operations (all genders)",

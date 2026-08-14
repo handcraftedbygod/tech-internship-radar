@@ -2,13 +2,17 @@
   "slug": "castleton-commodities-international",
   "name": "Castleton Commodities International",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
+      "count": 2
+    },
+    {
+      "hub": "London",
       "count": 2
     }
   ],
@@ -16,7 +20,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +36,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fa4ad60a61987acaf1c8ae01233ea2c49f9e31af",
+      "title": "Front Office Software Engineer Internship (Summer 2027)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5839363743?utm_medium=api&utm_source=freehire.me",
+      "location": "The City, Central London",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "b6a67cb1ab659cf5dcb4cc2592b70ce1fc3991ca",
+      "title": "Data Engineering Internship (Summer 2027)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5839364216?utm_medium=api&utm_source=freehire.me",
+      "location": "The City, Central London",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "98e166de08adb191a01f25a22d98682a35602d52",
       "title": "Data Engineering Intern",

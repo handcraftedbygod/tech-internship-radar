@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Stuttgart",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fccc5486ed611eb4aec14952a9402fd82478ba25",
+      "title": "Werkstudent - Data Analytics & Business Intelligence (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1617929-1-S",
+      "location": "Leinfelden-Echterdingen",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "cd04603eca1ee651b8376f0996a250d4d60b7fd8",
       "title": "Praktikant*in Fullstack-Entwicklung",
@@ -108,13 +115,6 @@
       "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-1-S",
       "location": "Immendingen",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "cf926a7f6b9e7c7e6e39e92c7d30a8b0acb2dc90",
-      "title": "Praktikant*in Software Engineering: Analyse- & KI-Tools",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1596159-2-S",
-      "location": "Sindelfingen",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]

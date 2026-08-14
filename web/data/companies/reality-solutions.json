@@ -2,21 +2,21 @@
   "slug": "reality-solutions",
   "name": "Reality Solutions Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5c134ee0a749c593a4b01d9f9608d56a5dce79df",
+      "title": "Junior Software Developer (.NET / Power Platform)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5840200337?utm_medium=api&utm_source=freehire.me",
+      "location": "Garden Village, Hull",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "ec4fd91f35426c623951019e99e1eac0a91a4c24",
       "title": "Junior Software Developer (.NET / Power Platform)",

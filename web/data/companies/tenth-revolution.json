@@ -2,21 +2,21 @@
   "slug": "tenth-revolution",
   "name": "Tenth Revolution Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5739384f3bd3a4d357458ca6b7bb8f87fd18eb41",
+      "title": "Junior Data Engineer - AWS - £40k",
+      "url": "https://www.adzuna.co.uk/jobs/details/5838626009?utm_medium=api&utm_source=freehire.me",
+      "location": "Gateshead, Tyne & Wear",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "f73be2545478e85b4532afdce624429bfa98b5bd",
       "title": "Junior Data Engineer - AWS - &#163;40k",

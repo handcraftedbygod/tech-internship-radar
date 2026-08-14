@@ -2,21 +2,21 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -37,13 +37,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "93c2e1ff4330673114c490f36edea533697343c2",
+      "title": "Junior Software Engineer (Mediation Zone)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27361727__7143?geoID=632&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Gliwice, Poland",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "86bc8b0cbf7fbd2099a757f8e624aca020b94452",
       "title": "Junior Software Engineer: Mediation & Data Integration",

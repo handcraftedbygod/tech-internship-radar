@@ -2,21 +2,21 @@
   "slug": "notarpartner",
   "name": "NotarPartner GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "efc28a9f8745a52072dc47046a56b332da26aed7",
+      "title": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI 100% Remote",
+      "url": "https://www.adzuna.de/details/5835923512?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg-Altstadt, Hamburg",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "f353634c0e1e4b122a31f7ecffc940baf76cf5d8",
       "title": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  100% Remote",

@@ -2,13 +2,17 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Bremen",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef1b55ca0437de0ed8b53d102f2f26ecdff8ed22",
+      "title": "Werkstudent TacNet-Software (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634843-7878-4645-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "feaef360d00fc51b31c54e8eba54f7eef675150d",
       "title": "Junior Engineering Application Developer (m/w/d) (Application-Engineer/-Manager/in)",

@@ -2,21 +2,21 @@
   "slug": "brown-brothers-harriman",
   "name": "Brown Brothers Harriman",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac5eccecd54515b858af0bd870400ffa2201e8de",
+      "title": "Junior DevOps Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28400811__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
+    {
+      "id": "01b2bb224261f88038a03b358650663878110c48",
+      "title": "Hybrid Junior DevOps Engineer — Kraków",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28400810__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+    },
     {
       "id": "8d2c3b03f51a46377e4f0417d65329b6990454e6",
       "title": "Technology Internship - Software Engineer with Java",
