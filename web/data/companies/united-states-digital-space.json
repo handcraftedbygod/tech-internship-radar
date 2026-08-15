@@ -2,14 +2,14 @@
   "slug": "united-states-digital-space",
   "name": "United States Digital Space LLC",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Warsaw",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    10,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43722ef14f9f983d1bbc6473111bd1a967ad00ac",
+      "title": "Hybrid Junior .NET Developer – Internal Apps & DevOps",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__474159483__7082?geoID=8803&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Croydon, United Kingdom",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "23340757d0c898821f152bcf27d655a8961dde7c",
       "title": "Junior Cloud Frontend Developer – Learn & Grow in Tech",
@@ -107,13 +114,6 @@
       "id": "ee203039ed374acc39acb6a8d9f148861d47ddb4",
       "title": "Junior Backend Engineer (CX Squad)",
       "url": "https://uk.whatjobs.com/pub_api__cpl__475704836__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-08-10T05:27:06.486Z"
-    },
-    {
-      "id": "ed434ff4e6cbf0a406d2b4f1c9b1e4adba43074b",
-      "title": "Junior Backend Engineer (Go) — Ship Real-Time Updates",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__475705544__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-08-10T05:27:06.486Z"
     }

@@ -2,10 +2,10 @@
   "slug": "drw",
   "name": "DRW",
   "tier": "trading",
-  "currentOpenings": 7,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": null,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Chicago",
@@ -18,13 +18,21 @@
     {
       "hub": "New York",
       "count": 1
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "quant",
@@ -40,13 +48,27 @@
     0,
     0,
     0,
-    7,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dde1d9f0f5f6df0a926ddad54da963ce874fa53e",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/7942281?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "b74c63f0412c544a6267c67f216ae2d85875711a",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8020364?utm_source=freehire.me",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "3fd2b0f4528293669cf16e042cde021136252bde",
       "title": "Software Developer Intern",

@@ -2,21 +2,21 @@
   "slug": "squarepointcapital",
   "name": "Squarepointcapital",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T16:54:47.547Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7fba7ad739f60a35637ac8b41b0f6812d2416f0d",
+      "title": "Intern Software Developer - London - 2027",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/intern-software-developer-london-2027-28242?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "012b1fc50c4becb1161a285d1ccfceb5f6bf3fb8",
       "title": "Junior Software Developer - Front-end",

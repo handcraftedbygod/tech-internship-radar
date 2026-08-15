@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 15.6,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Amsterdam",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -44,13 +44,20 @@
     0,
     0,
     5,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5b0d2da7bf1a05f17f582a3e4ed970692c6d1bc",
+      "title": "Junior Price & Discount Strategy Manager (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8114195?gh_jid=8114195",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "65469beaf179109ea4c004d1876d5804b358e8c5",
       "title": "Junior Facility Employee (f/m/x)",
@@ -113,13 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8066662?gh_jid=8066662",
       "location": "London, England, United Kingdom",
       "firstSeenAt": "2026-07-26T06:34:48.431Z"
-    },
-    {
-      "id": "5580bcb1e62016c3d74a0cc3557cb37c234bbf56",
-      "title": "Fleet Performance Improvement Intern (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8076713?gh_jid=8076713",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "firstSeenAt": "2026-07-22T06:26:06.326Z"
     }
   ]
 }

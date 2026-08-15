@@ -2,21 +2,25 @@
   "slug": "sabina-divosi-headhunter-talent-partner",
   "name": "Sabina Divosi - Headhunter & Talent Partner",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 7
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,41 @@
     0,
     0,
     0,
-    4,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1f7dfe057a70ecb493e874b2d87364ea040905c",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342341856__7107?geoID=4336&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "JADRAQUE, Spain",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "5db1407d625c2c8c73d05247e9bc0185d0a6b6b6",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - distrito moncloa-aravaca",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342436658__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "8ff3b8ce8b2296e991e76f0c3058abf56f21936c",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342448262__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "a8c470e4302109ad093d7b4fd8f0c2382b9faf87",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - Sabina Divosi - Headhunter & Talent Partner",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342417818__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "8ce63327ab95a610f05c4f9941834609cdfce659",
       "title": "Junior Data Engineer & BI | Build Scalable Data Pipelines",

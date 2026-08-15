@@ -4,12 +4,12 @@
   "tier": "notable",
   "currentOpenings": 6,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 30,
-  "avgPostingDurationDays": 23.4,
+  "totalPostings": 31,
+  "avgPostingDurationDays": 24,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Munich",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -54,13 +54,20 @@
     0,
     0,
     27,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e7617f717daf0c5ae7a68699909ba9133bc3fdd6",
+      "title": "Global Content Graduated Internship (12 months)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7853256003?gh_jid=7853256003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "047518410701d38a5ba6e148c882fa01462b2786",
       "title": "Business Development Representative Sales Intern (Part-Time) ",
@@ -123,13 +130,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7739944003?gh_jid=7739944003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-29T06:29:39.313Z"
-    },
-    {
-      "id": "961bc023e6ead0e30915c146daba696f8c5ef4c3",
-      "title": "Intern Legal Operations and Technology",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7813096003?gh_jid=7813096003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-07-28T06:25:31.354Z"
     }
   ]
 }

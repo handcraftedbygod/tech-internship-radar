@@ -2,21 +2,21 @@
   "slug": "friday-v-st",
   "name": "Friday Väst AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b88f52b62d076fea562c0ca46463c64f1a6c2a7",
+      "title": "Junior Systemingenjör DevOps",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjIzNzA5MCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "4dc688d046987c65b577f0fbd43b7ee5c0402be3",
       "title": "Junior Fullstack Developer",

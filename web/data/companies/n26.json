@@ -2,14 +2,14 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 21.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Barcelona",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "biz",
@@ -40,13 +40,27 @@
     0,
     0,
     3,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "060d41acb6e6d0008b602f06dda5203f55974e98",
+      "title": "Junior Data Analyst - Customer Identity",
+      "url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483&utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "bab2c53c5a406dd1b90377ead513e142fe221074",
+      "title": "Junior Data Analyst - Customer Identity",
+      "url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "6473c20e47315d8e1e2bc033f09f0e99cc4d0fe2",
       "title": "Junior Backend Engineer - Customer Identity",

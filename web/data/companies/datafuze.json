@@ -2,21 +2,21 @@
   "slug": "datafuze",
   "name": "DataFuze",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2fd36d102ae2e298d0bef13e58e05887fcd5b702",
+      "title": "Junior Data Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28496577__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
+    {
+      "id": "697842a0014c52b9a2f771aa585c4a9a6f84ce82",
+      "title": "Junior Data Engineer: SQL & Snowflake Start",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28497373__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "79bc119535589610da94521faf5ac3453e808c02",
       "title": "Junior Data Engineer",

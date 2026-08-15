@@ -2,14 +2,18 @@
   "slug": "emagine",
   "name": "emagine",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Lisbon",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -22,6 +26,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,13 +41,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "063b3cf784ba3e7d7a29eb8b589f2e5c779315ae",
+      "title": "Junior Data Engineer / Analyst",
+      "url": "https://portal.emagine.org/jobs/179292/junior-data-engineer-analyst?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "f2a9e4181da8333a4c17540be449723971b27c22",
       "title": "Junior Salesforce Marketing Cloud Developer / Business Analyst",

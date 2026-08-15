@@ -2,9 +2,9 @@
   "slug": "commerzbank",
   "name": "Commerzbank AG",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Frankfurt",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 5
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 4
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 5
     },
     {
       "id": "quant",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    10,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b5c80600dad2025de5934b4575cf8f243733844",
+      "title": "IT Trainee - Software Engineer/Developer",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-7-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "503174442154c3f679318c3330550b50a35cd0c9",
       "title": "Hybrid Java Developer Intern – Cloud & Microservices",
@@ -114,13 +121,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-5-S",
       "location": "Frankfurt am Main",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "e19fe64cf14054c923f2162dc6214b6ac0de4f2a",
-      "title": "Data Scientist / Quant Risk Modelling Intern - Cluster Risk Models & Calculations  - TalentBank 2026",
-      "url": "https://commerzbank-poland.breezy.hr/p/7aeadeeb30a901-data-scientist-quant-risk-modelling-intern-cluster-risk-models-calculations--talentbank-2026?utm_source=freehire.me",
-      "location": "Łódź, Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

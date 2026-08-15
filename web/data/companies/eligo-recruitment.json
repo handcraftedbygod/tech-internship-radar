@@ -2,13 +2,17 @@
   "slug": "eligo-recruitment",
   "name": "Eligo Recruitment Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e01d8a9c2a18298a2421062f7e231388c48b0616",
+      "title": "IT Data Analyst Intern / Student Placement Year",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__492017918__7082?geoID=5426&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Bruntingthorpe, United Kingdom",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "bb9e4e4f1e2ea5128414fa14e040710c3fbf606e",
       "title": "IT Data Analyst Intern",

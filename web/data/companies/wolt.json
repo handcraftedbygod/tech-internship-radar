@@ -2,21 +2,25 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Berlin",
       "count": 3
+    },
+    {
+      "hub": "Helsinki",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -32,13 +36,20 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7fa7dffc787bdd54b835f8c9bef988e9fbdfe351",
+      "title": "(Senior) Corporate Legal Trainee",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8113851",
+      "location": "Helsinki, Finland",
+      "firstSeenAt": "2026-08-15T04:30:16.064Z"
+    },
     {
       "id": "2f32404442684ef1a1ef82e4877bb19d0dcf5e87",
       "title": "Intern - Compliance (w/m/d)",
