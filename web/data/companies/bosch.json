@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Reutlingen",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -53,13 +53,20 @@
     0,
     0,
     0,
-    15,
+    16,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "882d4928f72c7a345e854de4927627dda11fe6f1",
+      "title": "DevOps Engineer - Internship (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455469-devops-engineer-internship-f-m-div-?utm_source=freehire.me",
+      "location": "Ovar, pt",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
     {
       "id": "5307626a18efc2e1a7825e11c7b145201ae92d2f",
       "title": "Junior AI Software Engineer",
@@ -121,13 +128,6 @@
       "title": "Software Development Intern (Full-Stack)",
       "url": "https://jobs.smartrecruiters.com/boschgroup/744000141682414?utm_source=freehire.me",
       "location": "Stuttgart, BW",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "0f85ee7e88eaf01f756b6008e5380cb6f278a2bc",
-      "title": "Data Science Intern",
-      "url": "https://jobs.smartrecruiters.com/boschgroup/744000141677619?utm_source=freehire.me",
-      "location": "Reutlingen, BW, DE",
       "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]

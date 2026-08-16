@@ -2,21 +2,21 @@
   "slug": "trusteq",
   "name": "Trusteq Gmbh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,34 @@
     0,
     0,
     0,
-    4,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7cb7421c703b24bba4f6e6a0e485fedcaa0c62f",
+      "title": "Cybersecurity Intern (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-262547",
+      "location": "München",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
+    {
+      "id": "40ef182ebc0eafc8c8c019a879772350997a3163",
+      "title": "Cybersecurity Working Student (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-351085",
+      "location": "München",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
+    {
+      "id": "4276481a690b81330138bef8bf4f45d3928ee48c",
+      "title": "Data Platform Engineer Working Student (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-496680",
+      "location": "München",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
     {
       "id": "24527341c86284945f5e1797a1f44db6b563d63c",
       "title": "Cybersecurity Intern (m/w/d)",

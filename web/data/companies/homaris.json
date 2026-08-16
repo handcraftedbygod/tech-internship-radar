@@ -2,21 +2,21 @@
   "slug": "homaris",
   "name": "Homaris",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "db5af64824da8f8f934e6047e25cef7dd4837810",
+      "title": "(Junior) Finance Data Analyst (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/homaris/junior-finance-data-analyst-all-genders-berlin-235448?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
+    {
+      "id": "b704109b830359286cef9b3d05426fc66e5ebad9",
+      "title": "(Junior) Finance Data Analyst (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/homaris/junior-finance-data-analyst-all-genders-berlin-235448",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-16T04:35:44.674Z"
+    },
     {
       "id": "649d8b11e58112ed01304b1beedb7bf549e7e29f",
       "title": "(Junior) Finance Data Analyst (all genders)",
