@@ -1,5 +1,189 @@
 [
   {
+    "weekOf": "2026-08-09",
+    "newCount": 952,
+    "prevWeekCount": 481,
+    "pctChange": 97.9,
+    "totalTracked": 1505,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 467
+      },
+      {
+        "hub": "Madrid",
+        "count": 82
+      },
+      {
+        "hub": "London",
+        "count": 66
+      },
+      {
+        "hub": "Warsaw",
+        "count": 60
+      },
+      {
+        "hub": "Barcelona",
+        "count": 55
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "isr-information-products",
+        "name": "ISR Information Products AG",
+        "count": 13
+      },
+      {
+        "slug": "united-states-digital-space",
+        "name": "United States Digital Space LLC",
+        "count": 11
+      },
+      {
+        "slug": "capgemini",
+        "name": "Capgemini",
+        "count": 10
+      },
+      {
+        "slug": "sabina-divosi-headhunter-talent-partner",
+        "name": "Sabina Divosi - Headhunter & Talent Partner",
+        "count": 9
+      },
+      {
+        "slug": "mercedes-benz",
+        "name": "Mercedes-Benz Group AG",
+        "count": 8
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 439,
+      "sample": [
+        {
+          "slug": "4ad-studio",
+          "name": "4ad Studio"
+        },
+        {
+          "slug": "93ft",
+          "name": "93ft Ltd."
+        },
+        {
+          "slug": "academic-work",
+          "name": "Academic Work"
+        },
+        {
+          "slug": "academic-work-sweden",
+          "name": "ACADEMIC WORK SWEDEN AB"
+        },
+        {
+          "slug": "acaisoft-poland-sp-z-oo",
+          "name": "Acaisoft Poland Sp. z o.o."
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "ai",
+      "label": "Data / AI",
+      "pctChange": 192
+    },
+    "notableHiring": [
+      {
+        "slug": "revolut",
+        "name": "Revolut",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "squarepoint-capital",
+        "name": "SQUAREPOINT CAPITAL",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "drw",
+        "name": "DRW",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "figma",
+        "name": "Figma",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "agile-robots-se-personio",
+        "name": "Agile Robots SE - Personio",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "imc-trading",
+        "name": "IMC Trading",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "cloudflare",
+        "name": "Cloudflare",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "jump-trading",
+        "name": "Jump Trading",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Jackson Hogg Ltd",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5840201209?utm_medium=api&utm_source=freehire.me",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 58,
+      "high": 72
+    },
+    "headline": {
+      "company": "Celonis",
+      "title": "Global Content Graduated Internship (12 months)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7853256003?gh_jid=7853256003",
+      "hub": "Madrid",
+      "badge": "NOTABLE",
+      "currency": "eur",
+      "low": 12,
+      "high": 15
+    },
+    "earlyPick": {
+      "company": "Replit",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+      "season": "Summer 2027",
+      "hub": "Other"
+    }
+  },
+  {
     "weekOf": "2026-08-02",
     "newCount": 486,
     "prevWeekCount": 32,
