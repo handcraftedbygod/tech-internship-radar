@@ -2,21 +2,21 @@
   "slug": "travelcircus",
   "name": "Travelcircus",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T16:54:47.547Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99c48be6c6fe074725ea14ef0338f6bb471029e8",
+      "title": "Junior Backend Engineer (m/f/x)",
+      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-47746",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "0133cdbf7ed7c6d8a22e0b9c2cd310a780e50dae",
       "title": "Junior Backend Engineer (m/f/x)",

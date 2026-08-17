@@ -2,14 +2,14 @@
   "slug": "t-systems-iberia",
   "name": "T-Systems Iberia",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Madrid",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -31,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5bdca0af3586bbd1dd22de87474c30542d418689",
+      "title": "Junior Full-Stack Developer — Hybrid, Growth & Impact",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343098068__7107?geoID=751&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Granada, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "1d5b0efe218dccb4eb8b11b4e3e75fa726e8c6bc",
       "title": "Junior Android Software Engineer",

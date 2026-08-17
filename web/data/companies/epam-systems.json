@@ -2,21 +2,21 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f865970fb20c1985816efd69019adc39fdc4a6b",
+      "title": "Remote Java Developer Trainee — Spring, Core & Clean Code",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__27723833__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "93a61d2adae80c776077e7f834200bf38c2bc712",
       "title": "Junior Software Engineer",

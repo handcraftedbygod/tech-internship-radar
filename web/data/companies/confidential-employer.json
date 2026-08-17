@@ -1,0 +1,52 @@
+{
+  "slug": "confidential-employer",
+  "name": "Confidential employer",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-17T04:41:48.092Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a687a62e95dd1c4c7a951604d0d3cdc237c91bab",
+      "title": "Junior Full Stack Developer in Palma",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343112280__7107?geoID=10492&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Islas Baleares, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
+    {
+      "id": "60ebe196a5bbce6d3532f408b7568088baa92db0",
+      "title": "Palma: Junior Full-Stack Developer (React + Node)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343112712__7107?geoID=10492&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Islas Baleares, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    }
+  ]
+}

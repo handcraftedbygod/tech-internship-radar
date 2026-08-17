@@ -2,21 +2,21 @@
   "slug": "nobia",
   "name": "Nobia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9e790506deff4f6962e7a407bc5fff64ed39ae6",
+      "title": "Junior Network Engineer",
+      "url": "https://nobiaab-magnet.teamtailor.com/jobs/8204691-junior-network-engineer?utm_source=freehire.me",
+      "location": "Darlington, GB",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "20216f2ed306b9b376c5d0c8456dda2753d31015",
       "title": "Junior Network Engineer",

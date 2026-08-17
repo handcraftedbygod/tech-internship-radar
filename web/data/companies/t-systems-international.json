@@ -2,21 +2,21 @@
   "slug": "t-systems-international",
   "name": "T-Systems International",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "485151478522b10571f91a90953a2784592d158a",
+      "title": "Junior Android Software Engineer with English (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000143063829-junior-android-software-engineer-with-english-m-f-d-?utm_source=freehire.me",
+      "location": "A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla y Valencia, es",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "c434e4b1a70749bb4c43880b8958291c737ade2f",
       "title": "Junior Android Software Developer with English (m/f/d)",

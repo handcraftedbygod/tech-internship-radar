@@ -2,21 +2,21 @@
   "slug": "instaffo",
   "name": "Instaffo GmbH",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7236d9ee5eeb687f97015a73c0f15eeb252ccb7",
+      "title": "Customer Success Internship (m/w/d) - Software Startup",
+      "url": "https://www.adzuna.de/land/ad/5836626548?se=qMB9h_WZ8RGvPf9QuXggpg&utm_medium=api&utm_source=9141e2e6&v=7FB9F4E8795DC9BD010F1373114E398EB86FE4ED",
+      "location": "Alt-Treptow, Berlin",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "663d79cd1817df3a1688a132b78980aa374f611b",
       "title": "Customer Success Internship (m/w/d) - Software Startup",

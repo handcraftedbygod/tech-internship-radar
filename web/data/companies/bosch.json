@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Reutlingen",
@@ -20,11 +20,11 @@
       "count": 2
     },
     {
-      "hub": "Warsaw",
-      "count": 1
+      "hub": "Lisbon",
+      "count": 2
     },
     {
-      "hub": "Lisbon",
+      "hub": "Warsaw",
       "count": 1
     }
   ],
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -53,13 +53,27 @@
     0,
     0,
     0,
-    16,
+    18,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "008b074ddeba343103e218930873d6226e0de1a2",
+      "title": "Junior AI Software Engineer (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455199-junior-ai-software-engineer-f-m-div-?utm_source=freehire.me",
+      "location": "Lisbon | Braga, pt",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
+    {
+      "id": "1915a593c8447392291e393ec36f6f4c119d84c0",
+      "title": "C# Developer - Internship (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?utm_source=freehire.me",
+      "location": "Ovar, pt",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "882d4928f72c7a345e854de4927627dda11fe6f1",
       "title": "DevOps Engineer - Internship (f/m/div.)",
@@ -115,20 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143129049-c-developer-internship?utm_source=freehire.me",
       "location": "Ovar, pt",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "a735685ce11f2bfcd67fb82a0da29b0b561ea7a0",
-      "title": "Infrastructure & DevOps Engineer Intern",
-      "url": "https://jobs.smartrecruiters.com/boschgroup/744000140661950?utm_source=freehire.me",
-      "location": "Aveiro, PT",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "6804c05d94ae830ff7a553696d58e5a2fa66165a",
-      "title": "Software Development Intern (Full-Stack)",
-      "url": "https://jobs.smartrecruiters.com/boschgroup/744000141682414?utm_source=freehire.me",
-      "location": "Stuttgart, BW",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

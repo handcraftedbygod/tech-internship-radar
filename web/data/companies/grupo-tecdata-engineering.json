@@ -2,21 +2,25 @@
   "slug": "grupo-tecdata-engineering",
   "name": "Grupo TECDATA Engineering",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,34 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "46ea3a41815bbd3231322c7f447f847a54129c9c",
+      "title": "Stage - Junior Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343208214__7107?geoID=8128&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "ABANQUEIRO, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
+    {
+      "id": "5a85f50bf5c60f6d989cb398ad4157236993f574",
+      "title": "Data Engineer Junior (stage)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343180672__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
+    {
+      "id": "f9be4eecd9e96e969665a09813ad3ef2151ebcb7",
+      "title": "STAGE - JUNIOR DATA ENGINEER (H/F)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343166321__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "46567c116743cb72ae7b17a2262c056c12b2d8ef",
       "title": "Data Engineer Junior",

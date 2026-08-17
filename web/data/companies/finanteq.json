@@ -2,21 +2,21 @@
   "slug": "finanteq",
   "name": "FINANTEQ",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df3315a9145e78320c3be18a7a52b6e3677e3637",
+      "title": "Junior Backend Developer (Java)",
+      "url": "https://justjoin.it/job-offer/finanteq-junior-backend-developer-java--lublin-java?utm_source=freehire.me",
+      "location": "Lublin",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "a3c0e38a4af94d67499d0268be7c7259c069f501",
       "title": "Junior Mobile Developer (Kotlin Multiplatform)",

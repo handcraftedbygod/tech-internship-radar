@@ -2,21 +2,21 @@
   "slug": "check24-vergleichsportal",
   "name": "CHECK24 Vergleichsportal GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c56ccd1f8c0f05cc08619820a3db3675bccc07f0",
+      "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000143463308--junior-qa-engineer-software-tester-m-w-d-produktqualitat-testautomatisierung?utm_source=freehire.me",
+      "location": "Dortmund, Nordrhein-Westfalen, de",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "c6f5fdf42b8657d97eadb03278f63328c27542ee",
       "title": "(Junior) Software Entwickler (m/w/d)",

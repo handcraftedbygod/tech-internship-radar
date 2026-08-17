@@ -2,21 +2,21 @@
   "slug": "revolut",
   "name": "Revolut",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eaf9c78645cf27f891e4c60142d82feac0d6969c",
+      "title": "Internship Programme 2027: Software Engineer (Java)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837143534?se=mAbadxeW8RG9foEqHKpc2A&utm_medium=api&utm_source=freehire.me&v=063F26D44DA3DB4092A6BED154719524C4AE2FE2",
+      "location": "UK",
+      "firstSeenAt": "2026-08-17T04:41:48.092Z"
+    },
     {
       "id": "f0c2442679e6357675e0c3af57072d678ed01849",
       "title": "Internship Programme 2027: Software Engineer (Android)",
