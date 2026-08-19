@@ -81,6 +81,8 @@ const HUBS = [
   { name: "Montreal", region: "na", match: ["montreal", "montréal"] },
 ];
 const OTHER_HUB = "Other";
+const OTHER_EU_HUB = "Other (EU)";
+const OTHER_NA_HUB = "Other (NA)";
 
 // Hub name -> region, so the chip renderer can bucket hub names coming back
 // from the listings without re-running the location matcher.
@@ -88,11 +90,46 @@ const HUB_REGION = HUBS.reduce((acc, hub) => {
   acc[hub.name] = hub.region;
   return acc;
 }, {});
+HUB_REGION[OTHER_EU_HUB] = "eu";
+HUB_REGION[OTHER_NA_HUB] = "na";
+
+// A job whose city isn't one of the specific HUBS above still usually has a
+// clear country, so "All EU hubs"/"All NA hubs" shouldn't lose it -- only
+// truly ambiguous ones (bare "Remote", non-EU/NA countries) stay in the
+// region-less "Other" bucket. Country code first since it's cheap and exact
+// when a source reports one; free-text country name second for the sources
+// that leave it null but still put the country in the location string.
+const EU_COUNTRY_CODES = new Set([
+  "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE", "GR", "HU",
+  "IE", "IT", "LV", "LT", "LU", "MT", "NL", "PL", "PT", "RO", "SK", "SI", "ES",
+  "SE", "GB", "CH", "NO", "IS", "UA",
+]);
+const NA_COUNTRY_CODES = new Set(["US", "CA"]);
+const EU_TEXT_HINTS = [
+  "germany", "deutschland", "france", "united kingdom", "netherlands", "nederland",
+  "switzerland", "sweden", "sverige", "poland", "spain", "portugal", "finland",
+  "ireland", "ukraine", "estonia", "italy", "belgium", "austria", "denmark",
+  "norway", "europe",
+];
+
+function regionForOther(job) {
+  const code = (job.country || "").toUpperCase();
+  if (EU_COUNTRY_CODES.has(code)) return "eu";
+  if (NA_COUNTRY_CODES.has(code)) return "na";
+  const text = job.location.toLowerCase();
+  if (NA_TOKENS.some((token) => text.includes(token))) return "na";
+  if (EU_TEXT_HINTS.some((token) => text.includes(token))) return "eu";
+  return null;
+}
 
 function hubFor(job) {
   const text = job.location.toLowerCase();
   const hit = HUBS.find((hub) => hub.match.some((token) => text.includes(token)));
-  return hit ? hit.name : OTHER_HUB;
+  if (hit) return hit.name;
+  const region = regionForOther(job);
+  if (region === "eu") return OTHER_EU_HUB;
+  if (region === "na") return OTHER_NA_HUB;
+  return OTHER_HUB;
 }
 
 // Best-effort inference from free text -- sources don't expose a clean
