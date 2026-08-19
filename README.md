@@ -58,6 +58,12 @@ Tech Internship Radar closes that gap:
   <img src="docs/screenshots/listings.png" alt="Tech Internship Radar listing table" width="100%" />
 </p>
 
+Roles at top-tier companies that closed get archived instead of deleted, so you can still see what was posted:
+
+<p align="center">
+  <img src="docs/screenshots/missed-it.png" alt="Tech Internship Radar Missed It archive" width="100%" />
+</p>
+
 Watch a company and its full hiring history is one click away:
 
 <p align="center">
