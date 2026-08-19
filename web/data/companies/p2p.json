@@ -1,0 +1,52 @@
+{
+  "slug": "p2p",
+  "name": "P2P",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "475e367731ff2a3baf3dc361237690d024a0e590",
+      "title": "Data Engineer Intern: Build Clean Data Pipelines (London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509735754__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "8535e5cc281b82ae39f9f94db82ba407ac312626",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509733063__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

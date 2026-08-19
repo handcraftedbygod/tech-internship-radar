@@ -2,9 +2,9 @@
   "slug": "java-script-works",
   "name": "Java Script Works",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,13 +13,18 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     },
     {
@@ -46,13 +51,27 @@
     0,
     0,
     0,
-    5,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7979f2d0db9dec7a2dbe7e216ec3442b1cf27b22",
+      "title": "Junior Data Engineer: Build Scalable Data Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509753215__7082?geoID=33047&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cardiff, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "d71c3d4c9cafcad1e3d1dd2c955423b0e678e533",
+      "title": "Junior Data Engineer in Cardiff - Admiral",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509748170__7082?geoID=33047&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cardiff, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "f538dfc74a47e2f2ba2f5010167fb247c205a520",
       "title": "Junior Python Developer in London - Quant Capital",

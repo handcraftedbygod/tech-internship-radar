@@ -2,25 +2,25 @@
   "slug": "n-ix",
   "name": "N-iX",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0621dbe886ba28ab0706507f082eeb3ab83f2bd",
+      "title": "Trainee Big Data Engineer",
+      "url": "https://careers.n-ix.com/jobs/4952864101?gh_jid=4952864101&utm_source=freehire.me",
+      "location": "Ukraine",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "b4ba2c4a48391dc316bb6994cc96b7f7f4cae9c2",
       "title": "Junior Big Data Engineer ",

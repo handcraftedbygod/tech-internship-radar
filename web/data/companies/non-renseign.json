@@ -2,14 +2,14 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "921515d7e92afc6590488af684d7d08630f4e0a7",
+      "title": "Stagiaire- Data Engineering Intern (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjEyTkZSViA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "dd4fcc13e36e3fb8bc0046506252e7375586eed0",
       "title": "Ingénieur Production Applicative Junior - DevOps (H/F)",

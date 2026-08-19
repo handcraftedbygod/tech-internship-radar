@@ -2,13 +2,17 @@
   "slug": "softwaremind",
   "name": "softwaremind",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d2fc5b3de8de046c47804bed1a5574819ec5e48",
+      "title": "AI-Driven Software Engineer Intern",
+      "url": "https://echojobs.io/job/softwaremind-rtc-intern-ai-driven-software-engineer-aqwge?utm_source=freehire.me",
+      "location": "PL",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "0e8221daf172a321e0681fa3ff42dfa6e3d22b11",
       "title": "[RTC] Intern AI-Driven Software Engineer",

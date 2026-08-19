@@ -2,14 +2,14 @@
   "slug": "sixt",
   "name": "Sixt",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "85f1814a4eca6da34a3c2f0b26052ae72bcbbd84",
+      "title": "Trainee Software Development Digital Experience (m/f/d) ",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000144027649",
+      "location": "Munich, BY, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "4b684f2af7b1b4f7bc5ad3e7dbe08832657477cd",
       "title": "Working Student Data Science (m/f/d)",

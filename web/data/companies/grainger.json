@@ -1,0 +1,52 @@
+{
+  "slug": "grainger",
+  "name": "Grainger",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "44f4d77966fe4ac04c41a5b793adafdad6c2dde0",
+      "title": "GTG Intern - Cybersecurity",
+      "url": "https://www.themuse.com/jobs/grainger/gtg-intern-cybersecurity-ac25d4",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "3c6c4598a7c990cbd43e3093d9813ca0f3671383",
+      "title": "GTG Intern - Software Engineer",
+      "url": "https://www.themuse.com/jobs/grainger/gtg-intern-software-engineer-aa5637",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

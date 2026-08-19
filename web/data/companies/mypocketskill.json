@@ -1,0 +1,52 @@
+{
+  "slug": "mypocketskill",
+  "name": "MyPocketSkill",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a750aa2ba395eba49079bb6cbd1ac260f8bd86a1",
+      "title": "Junior Full Stack Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509738267__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e869cd621c6cbed9369a6175043712816f98f8eb",
+      "title": "Junior Full-Stack Developer: AI-Driven Fintech/EdTech",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509743627__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

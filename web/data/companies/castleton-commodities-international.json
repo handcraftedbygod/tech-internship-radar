@@ -2,17 +2,17 @@
   "slug": "castleton-commodities-international",
   "name": "Castleton Commodities International",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
-      "hub": "New York",
-      "count": 2
+      "hub": "London",
+      "count": 5
     },
     {
-      "hub": "London",
+      "hub": "New York",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     },
     {
       "id": "swe",
@@ -36,13 +36,34 @@
     0,
     0,
     0,
-    4,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61e94e59f4e9e1313bb170d56d48d838f59c123c",
+      "title": "Data Engineering Internship: Build Scalable Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509736159__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "b559d2019e7183f84656606a51827fe96b221916",
+      "title": "Data Engineering Internship (Summer 2027)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509748186__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "abe4fc264caa938b09ab8673d3f72bdb94c35189",
+      "title": "Data Engineering Internship (Summer 2027)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509742334__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "fa4ad60a61987acaf1c8ae01233ea2c49f9e31af",
       "title": "Front Office Software Engineer Internship (Summer 2027)",

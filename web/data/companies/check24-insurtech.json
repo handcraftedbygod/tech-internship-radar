@@ -2,21 +2,21 @@
   "slug": "check24-insurtech",
   "name": "CHECK24 - InsurTech",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0fd117164e1027166c112e13734ea8026f60244c",
+      "title": "Junior Fullstack Developer (m/w/d) KI-Fokus, InsurTech, CHECK24 Versicherung... (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjMxNTY0Ny1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "4639fdf22792d78a9c18da6d5539780abc20bba2",
+      "title": "Werkstudent (m/w/d) Software Engineering - Greenfield, InsurTech, CHECK24 Versicherung... (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjMxNjQ0OS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "3b5bc05d3c4deba60c0a762b36a46493e0bb4954",
       "title": "Werkstudent (m/w/d) Software Developer - Next Gen InsurTech, CHECK24 Versicherungen Gesundheit (Softwareentwickler/in)",

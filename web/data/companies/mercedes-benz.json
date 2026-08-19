@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Stuttgart",
@@ -18,18 +18,22 @@
     {
       "hub": "Berlin",
       "count": 1
+    },
+    {
+      "hub": "Karlsruhe",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -40,13 +44,27 @@
     0,
     0,
     0,
-    12,
+    14,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8955d76c47a500b3ac5490c91599350f6238ff0c",
+      "title": "Werkstudent Machine Learning Engineering (d/m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619152-1-S",
+      "location": "Karlsruhe, Baden",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "93d1b7503512695518da519b2bccb78c4cb386cd",
+      "title": "Werkstudent*in Data Analyst im Bereich HR",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618921-1-S",
+      "location": "Rastatt",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "fccc5486ed611eb4aec14952a9402fd82478ba25",
       "title": "Werkstudent - Data Analytics & Business Intelligence (m/w/d)",
@@ -102,20 +120,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616891-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "696200c67db3410108c1b4ebfc26f84d10801bf0",
-      "title": "Praktikant*in Data Science & Analytics Global Market Intelligence (Pflicht-Praktikum)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1606535-1-S",
-      "location": "Stuttgart",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "ef4f38b5d0f6ea9797170ddd9260234810911fab",
-      "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-1-S",
-      "location": "Immendingen",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

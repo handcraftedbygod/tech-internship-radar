@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": null,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "488d8a2eb63cb55c9f673cbdc9fe4c74abab7410",
+      "title": "Junior Java Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5847084824?utm_medium=api&utm_source=freehire.me",
+      "location": "Stoke-On-Trent, Staffordshire",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "a48938d0edb954dcecc0505cf671a09c94b71560",
       "title": "Junior Java Developer: Mentored Backend Growth",

@@ -2,21 +2,21 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b639448111a9a99acc3414ab23ac8c580dde4a7",
+      "title": "Junior DevOps Engineer",
+      "url": "https://jobs.smartrecruiters.com/KPN/744000144141425-junior-devops-engineer-?utm_source=freehire.me",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "6760962b2c43ffa29461e2fba36a41111bf84de9",
       "title": "Junior DevOps Engineer",

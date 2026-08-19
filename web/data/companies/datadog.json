@@ -1,0 +1,57 @@
+{
+  "slug": "datadog",
+  "name": "Datadog",
+  "tier": "notable",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8ae0aae740a4deec20bab89004bd28a45a725a55",
+      "title": "Software Engineering Intern (Winter)",
+      "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "102b858e5fced33a49c3933d37b09dcba9ebeef7",
+      "title": "Product Management Intern",
+      "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+      "location": "New York, New York, USA",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

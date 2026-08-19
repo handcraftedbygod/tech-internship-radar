@@ -2,14 +2,14 @@
   "slug": "aldia",
   "name": "Aldia",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be1caacf1646f6fbea021c9f0809728180de33c0",
+      "title": "Junior Devops Engineer",
+      "url": "https://www.careers-page.com/aldiagrp/job/YXXW59?utm_source=freehire.me",
+      "location": "Madrid, MD, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "f63c1168323b2b5029d9a89cbafaa8b9c4f48a21",
       "title": "Junior Devops Engineer – Remote (Iot & Microservices)",

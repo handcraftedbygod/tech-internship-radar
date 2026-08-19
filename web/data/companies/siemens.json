@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -20,12 +20,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "985eefde90ceb0849833cfc0b709822d921da22b",
+      "title": "Werkstudent (w/m/d) Cybersecurity Governance & Risk Management",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619747-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "b800326f533fd51156f9aff340ec63a3674b41d1",
+      "title": "Werkstudent (w/m/d) Business Analytics und Data Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619749-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "a0ff377993cbfe0429b808d44b5689d59b84c2f1",
       "title": "Werkstudent*in (w/m/d) Data Analytics, Digital Transformation & Organizational Development",

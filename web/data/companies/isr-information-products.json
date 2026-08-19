@@ -2,25 +2,25 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 14,
-  "avgPostingDurationDays": null,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 12,
   "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 13
+    },
     {
       "hub": "Other",
       "count": 10
-    },
-    {
-      "hub": "Berlin",
-      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 23
     }
   ],
   "hiringMonths": [
@@ -31,7 +31,7 @@
     0,
     0,
     0,
-    14,
+    23,
     0,
     0,
     0,
@@ -39,74 +39,74 @@
   ],
   "recentPostings": [
     {
+      "id": "6e4917863b3bb07107f41074547cf0c80d663216",
+      "title": "IT-Spezialist als Trainee Data Engineer / Data Scientist (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148733__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "f26e98491fc723ec71a0e80334ce36903876a9d0",
+      "title": "Informatiker als Trainee Data Engineer / Data Scientist (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148732__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "973d67e5c6788b612b2beac92926713d50981cfd",
+      "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148731__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "8864e7cab94d65eec4b703c4dac5a61711698833",
+      "title": "IT-Spezialist als Trainee Data Engineer - SAP BW, Data-Warehouse (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148695__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "d200d13fe7205094af8c377c38d47db2409b4e43",
+      "title": "Wirtschaftsinformatiker als Trainee Data Engineer - SAP Analytics Cloud (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148693__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e5178c03595bbefde63fd854e8e8088cc7c079b4",
+      "title": "Trainee Data Engineer / Data Scientist (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148692__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e6bfa2735505b36abd9b903ec68739e4a30e108b",
+      "title": "Trainee Data Scientist / Data Engineering (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148730__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e3d458ad656096c7d95090361e67d31b9aef7b9a",
+      "title": "Wirtschaftsinformatiker als Trainee Data Engineering SAP / Azure (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148698__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "a58bf779c357ae99577d6d68bd6ba1b865890a5e",
+      "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__478148696__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
       "id": "64564f58fec0524ca80ed4a5ef00d2ade398219e",
       "title": "IT-Spezialist als Trainee Data Engineer / Data Scientist (m/w/d)",
       "url": "https://de.whatjobs.com/pub_api__cpl__478148733__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Hamburg, Germany",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "f6ef7d2ae25e6e48a7ffdeda8a8fcae3e09e5a0c",
-      "title": "Informatiker als Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148732__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "8bfa4feb79717c3538abca909ee4b32067cfd3b4",
-      "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148731__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "05d7704971e1ed34697cc796c5d4dcebd5bb90bb",
-      "title": "IT-Spezialist als Trainee Data Engineer - SAP BW, Data-Warehouse (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148695__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "11c06343c6a005bf3b807a1ea6714b97d6d354bd",
-      "title": "Wirtschaftsinformatiker als Trainee Data Engineer - SAP Analytics Cloud (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148693__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "a3440ed569e8e7f050508e20f6de4950846deaa6",
-      "title": "Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148692__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "82a54cfaa23e121a1d52aafe86d70820beea5931",
-      "title": "Trainee Data Scientist / Data Engineering (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148730__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "8289c0f66917fc3b8305a6c5d54a76b3129dff57",
-      "title": "Wirtschaftsinformatiker als Trainee Data Engineering SAP / Azure (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148698__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "12afb09f9418e45a0fe008588e04629776d1f9ba",
-      "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148696__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "d6dc45a16b472ca0d8bc34aba6ceda1700af2c57",
-      "title": "Informatiker als Junior Berater Data Engineering - Konzeption & Realisierung (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__475924149__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-10T05:27:06.486Z"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "slug": "neverhack-spain",
   "name": "NEVERHACK Spain",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 3
+      "count": 6
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,41 @@
     0,
     0,
     0,
-    3,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b13a27d5350222bba2088f32e55130d4e32dfd2",
+      "title": "Data Engineer Junior (Google Cloud & IA)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341799091__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "7c5dea3d5519c0c604e648f94bc668212d95a74c",
+      "title": "Data Engineer Junior (Google Cloud & IA)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342811949__7107?geoID=4336&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "JADRAQUE, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e19c9a7e0a87915826be901bf0ff7505f5c2723e",
+      "title": "Data Engineer Junior - Gcp & Ia",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341936507__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "7f6951a8403ca5bd2a5b71f74d9fc90baf92e0c7",
+      "title": "Data Engineer Junior - Cloud",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343373636__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "9ea5f74be109b90f6b662cded8937f2d6abe3c57",
       "title": "Data Engineer Junior - GCP & IA (LLMs)",

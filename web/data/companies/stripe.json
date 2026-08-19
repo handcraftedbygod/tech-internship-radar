@@ -2,13 +2,21 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
+      "count": 1
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +35,27 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9dd0c6ed82280f628bc2eb9617878d593ca8eb1",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833&utm_source=freehire.me",
+      "location": "Bengaluru",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "5c3f604ba7b89ffaec1d9f8290f0a77cb26a8afe",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+      "location": "Dublin",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "c6097138bf00527e1f8d8732d2f761595a66ba52",
       "title": "Software Engineer, New Grad, Developer & End User Experience Platform",

@@ -2,21 +2,21 @@
   "slug": "rise-technical-recruitment",
   "name": "Rise Technical Recruitment",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,34 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19d3cfa6b9c99ce9a4df84680cae413a172a621a",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509744050__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "2e19fbc1e44d1e9c2423c7c706e3bab4d82d5941",
+      "title": "Hybrid Junior Data Engineer - Sports Tech & Cloud",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509739361__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "927d1ee25e990ecaff7a1d5859f05beb7c4c7578",
+      "title": "Hybrid Junior Data Engineer - Python, SQL & Cloud",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509729951__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "5336ff38f34b4db12ab400bbf678f047a85dd098",
       "title": "Junior Data Engineer",

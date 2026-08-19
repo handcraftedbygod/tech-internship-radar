@@ -2,21 +2,21 @@
   "slug": "jobgether",
   "name": "jobgether",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,55 @@
     0,
     0,
     0,
-    2,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ecda2407cfa5c28a8929dd21a0868cc1ce41e148",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/3dcd61f4-e673-45c6-9ce2-bc84c225ecff?utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "cc6dca0d5b06e85908484fe84d9139565b250f9a",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/f926d39f-0e86-4825-897c-09d97b835486?utm_source=freehire.me",
+      "location": "Ireland",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "3a6833d6bf6c18a757b9e3756765736836f72e74",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/ad055f21-3889-432e-81bf-d4225e37972a?utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "b3a45f99e247147cb58597c73240b1be3b4a5743",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/cf9c6fbe-1874-4fa4-99d0-ed407add6610?utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "0863690abd7e083e406a4d154c80211984acad2e",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/39457f3b-faad-46db-9b2e-67d3478d463e?utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "562a94eff0e7417ea4a553fb7623bc158b22130c",
+      "title": "Junior Manual QA Engineer (Web, CRM)",
+      "url": "https://jobs.lever.co/jobgether/23f81799-fb84-412b-8666-aa6115d1e1bc?utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "d65cfd7816e5bf68664d723c836dd27e09e7a560",
       "title": "Junior Manual QA Engineer (Web, CRM)",

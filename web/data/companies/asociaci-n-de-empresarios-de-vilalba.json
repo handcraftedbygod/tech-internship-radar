@@ -2,26 +2,26 @@
   "slug": "asociaci-n-de-empresarios-de-vilalba",
   "name": "Asociación de Empresarios de Vilalba",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a8e48b7b7cfd59448ab17f830500e0898db28bf2",
+      "title": "Junior Tech Developer / Full-Stack & Data Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__341789115__7107?geoID=9045&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lugo, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "49f0a54450c08677d2228d74277943e55e14bb2d",
       "title": "Junior Full-Stack Developer for AI & Data",

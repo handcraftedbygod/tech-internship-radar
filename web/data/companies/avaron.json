@@ -1,0 +1,56 @@
+{
+  "slug": "avaron",
+  "name": "Avaron AB",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Stockholm",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dcf569772ba875bdcbfbb20d44a748b4fe91fd95",
+      "title": "Junior Backend Developer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31366866?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "f3188e31c500261185ad2c87ef9b1e71e0561850",
+      "title": "Junior Backend Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0MTc3NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "intec-select",
   "name": "INTEC SELECT LIMITED",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,27 @@
     0,
     0,
     0,
-    5,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d4ee1e762c5210798b84e65cd60ec05c1fbddca2",
+      "title": "Junior Golang Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-golang-developer/57248687?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "f435fc1185778f3f8cd3f1f422fb10b8b94c2913",
+      "title": "Junior Golang Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5846668993?se=6BzEbXab8RGOT7wveH3eag&utm_medium=api&utm_source=freehire.me&v=1BA88E3AAD8BEF6EBD8A8FDEEE3E19C83779AD5A",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "ab3ede1d326a6b75d8bc0844749ba180c1dc5132",
       "title": "Junior DevOps Engineer",

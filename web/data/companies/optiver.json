@@ -1,0 +1,56 @@
+{
+  "slug": "optiver",
+  "name": "Optiver",
+  "tier": "trading",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6beb02d5ce00b1510e8c8abd69ff29a387dd41fc",
+      "title": "Software Engineer Internship (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002&utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "792397f6805319d7f97dc152c7a6ee49d8111063",
+      "title": "Software Engineer Internship (2027 Start)",
+      "url": "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002&utm_source=freehire.me",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

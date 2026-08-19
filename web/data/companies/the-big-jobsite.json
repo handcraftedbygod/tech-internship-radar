@@ -2,14 +2,14 @@
   "slug": "the-big-jobsite",
   "name": "The BIG Jobsite",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a11112db86ee97e7c45f06a9b02f9060e888c37",
+      "title": "Junior Google Cloud Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343388624__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "14cc6fb7ace845b936bc1153ccec8c1972bfef6e",
       "title": "Desarrollador de BackEnd Junior",

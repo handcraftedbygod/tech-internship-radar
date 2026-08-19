@@ -1,0 +1,79 @@
+{
+  "slug": "google",
+  "name": "Google",
+  "tier": "elite",
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-08-19T04:37:06.222Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    },
+    {
+      "hub": "Zurich",
+      "count": 1
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d2711f962d6aa5b0ef4acd0dc1012bdbf556b188",
+      "title": "Software Engineering or SRE, PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "410de62e586322981740bbc1e7b1d2a485cd3186",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "6d52d238bc7fddd02841e9a702dd8c79d731da24",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/132149998191026886?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "16bd395108fee86c5d3b0f60ea1ba43a16fa713d",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    }
+  ]
+}

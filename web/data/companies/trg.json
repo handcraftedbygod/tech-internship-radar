@@ -2,25 +2,29 @@
   "slug": "trg",
   "name": "trg.",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -32,13 +36,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cebcf97872d51c42708c8535f893a607d94f66f1",
+      "title": "Junior Backend Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__510626427__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "9a2f6d00e1fa41623073cc102f85602fdc330371",
+      "title": "Junior Backend Engineer for AI-Powered Fintech Platform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__510626546__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "3a29eca527bb4a1a02673c85cd0b1e7a58b9bc3f",
       "title": "Junior Backend Engineer",

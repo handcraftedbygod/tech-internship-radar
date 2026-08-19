@@ -2,21 +2,21 @@
   "slug": "heyclue",
   "name": "HeyClue",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cced2ba8129bcdc6a308b447de209a93993d6592",
+      "title": "Growth-Oriented Spark Backend Developer (Junior)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__340799900__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "8760dcc6231c7c5389437b711615117377d23441",
       "title": "Growth-Oriented Spark Backend Developer (Junior)",

@@ -2,30 +2,30 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 6,
+  "totalPostings": 15,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 10
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -36,7 +36,7 @@
     0,
     0,
     0,
-    6,
+    15,
     0,
     0,
     0,
@@ -44,46 +44,74 @@
   ],
   "recentPostings": [
     {
+      "id": "ddcc4f8f7f12cb099ef8c6eb78edabdbcfc252f5",
+      "title": "Desarrollador De Backend Junior - Palma De Mallorca",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342895011__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "f9f7fb445cae2ef2e30c8d7c9f8ccb9f52037ba9",
+      "title": "Data Engineer Junior - Vigo",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342902893__7107?geoID=6394&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Vigo, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "9c68a6ec68ce1af182da6e2d52d892a13d0e1698",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343382369__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "5d9abe5f7d19da9533338ed074ac5aea92f6c89d",
+      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - distrito moncloa-aravaca",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343396252__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "7070b6182a03343d915dd47fe06c133a8d39e0dc",
+      "title": "Junior DevOps Engineer hybrid Madrid. International Projects - ALTEN Delivery Centre Spain",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343530631__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "e360a38190ae0b4cf65e818615a3dac7ba508fd7",
+      "title": "Junior Data Engineer | Bi & Data - Compañía Digital Sector Fintech - Madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343436331__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "902cd953a0e86bf1a40c8643e912a424afafb3b8",
+      "title": "Junior Data Engineer | Bi & Data - Compañía Digital Sector Fintech - Distrito Moncloa-Aravaca",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343436775__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "6be93eab5b9574e55b9f6d5e0257dcb37581f5ee",
+      "title": "Data Engineer Junior (Google Cloud & IA) - NEVERHACK Spain",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343711164__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "d3b59024255b788ac5de43260bcf1b24864a6b0d",
+      "title": "IA | Backend Development | Others Internship",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343708851__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
       "id": "027b72af7b2e4958e106829fcba2cbacaac3063b",
       "title": "Junior Data Engineer",
       "url": "https://es.whatjobs.com/pub_api__cpl__343170512__7107?geoID=751&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Granada, Spain",
       "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "ca1353abecb8a64fa2796c757b7051c419bc2420",
-      "title": "Junior Data Engineer - Dragados SA",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343171967__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "40101f388e2d3714124f8243af17f1254485b3f0",
-      "title": "IA | Backend Development | Others Internship - comunidad valenciana",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343215252__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Valencia, Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "0ca19967d230b60bd9145741360b6881f87d513b",
-      "title": "Desarrollador de BackEnd Junior - almería",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342595698__7107?geoID=932&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Almería, Spain",
-      "firstSeenAt": "2026-08-16T04:35:44.674Z"
-    },
-    {
-      "id": "9dfcb0990ef492e8514413c4120c4747c6c70542",
-      "title": "Data Engineer Junior - córdoba",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342583324__7107?geoID=1509&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Córdoba, Spain",
-      "firstSeenAt": "2026-08-16T04:35:44.674Z"
-    },
-    {
-      "id": "d38718922866828c6375ca847d02de5bf6378ec2",
-      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - Sabina Divosi - Headhunter & Talent Partner",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342578813__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-16T04:35:44.674Z"
     }
   ]
 }

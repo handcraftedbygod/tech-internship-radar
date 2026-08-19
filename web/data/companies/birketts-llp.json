@@ -2,21 +2,21 @@
   "slug": "birketts-llp",
   "name": "Birketts LLP",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,41 @@
     0,
     0,
     0,
-    4,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbf7b62709dad9f5c1b46c3e26e1288c7e0e898c",
+      "title": "Junior Data Engineer: Azure Data Pipelines & BI",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509735686__7082?geoID=126&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "829bac3be32238c8c8df8e996bb89b4fe233820d",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509734852__7082?geoID=126&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "731bf21b9da180ba11d12f378541dc29bfc8b9be",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509735685__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "5da3f0357fef9a3aeae0e53d7c92bfd1e6292c96",
+      "title": "Junior Data Engineer – Azure & BI Focus",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509753632__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "167c4598880f696894b3de661c2635cda8815a85",
       "title": "Junior Data Engineer",

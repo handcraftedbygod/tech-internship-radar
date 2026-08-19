@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": null,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Frankfurt",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -45,13 +45,20 @@
     0,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "049ee4c4318157c3fee2ebbac858c4f4429c7208",
+      "title": "Java Developer Intern - Process Platform & Automation - TalentBank 2026",
+      "url": "https://commerzbank-poland.breezy.hr/p/730ab7a0852c01-java-developer-intern-process-platform-automation--talentbank-2026?utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "6b5c80600dad2025de5934b4575cf8f243733844",
       "title": "IT Trainee - Software Engineer/Developer",
@@ -113,13 +120,6 @@
       "title": "Data Engineer Intern - BDAA Big Data  - TalentBank 2026",
       "url": "https://commerzbank-poland.breezy.hr/p/be196bd44bc501-data-engineer-intern-bdaa-big-data--talentbank-2026?utm_source=freehire.me",
       "location": "Łódź, Poland",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "aecb172fa43ee7fa2bd6916b429b052e21316677",
-      "title": "IT Trainee - Software Engineer/Developer",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-5-S",
-      "location": "Frankfurt am Main",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]

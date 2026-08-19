@@ -2,18 +2,18 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 24,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 25.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Munich",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Paris",
@@ -33,12 +33,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -54,13 +54,27 @@
     0,
     0,
     27,
-    4,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47183814f3994a48b3eb5cfcf6e8dbbe0adf2788",
+      "title": "Intern / Working Student Online Training Translation (Korean speaking)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886106003?gh_jid=7886106003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
+    {
+      "id": "c53686784d6717a6f10d350032d02b74836bed5a",
+      "title": "(Graduated) Intern Online Training Translation (Korean speaking)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886290003?gh_jid=7886290003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+    },
     {
       "id": "e7617f717daf0c5ae7a68699909ba9133bc3fdd6",
       "title": "Global Content Graduated Internship (12 months)",
@@ -105,7 +119,7 @@
     },
     {
       "id": "8233cd1999efa50768e4e042e06f9037609c404f",
-      "title": "Intern Competitive Value Engineering & Management Consulting",
+      "title": "Intern AI & Management Consulting (Competitive Engagement)",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7807025003?gh_jid=7807025003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-31T06:42:23.386Z"
@@ -116,20 +130,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7767361003?gh_jid=7767361003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-31T06:42:23.386Z"
-    },
-    {
-      "id": "0761b59e27798ed0a6f5ac9eec619f99a6d0cb9c",
-      "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7777192003?gh_jid=7777192003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
-    },
-    {
-      "id": "d80ff1bcc071e0ea4eb7a9f6e1f426d4f704d8fe",
-      "title": "Intern Strategic Project Management and Operations",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7739944003?gh_jid=7739944003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-07-29T06:29:39.313Z"
     }
   ]
 }
