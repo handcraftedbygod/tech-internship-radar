@@ -2,14 +2,14 @@
   "slug": "carta",
   "name": "Carta",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-07-26T06:34:48.431Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Toronto",
@@ -20,7 +20,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -31,13 +36,27 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f917e7e72215524b3c712f82d73f605349cf905e",
+      "title": " Junior Paralegal, Contracts",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7902413003",
+      "location": "Seattle,WA; Sandy,UT",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
+    {
+      "id": "7e21ca67f512f5f8af38dbdfdcdba229553d6a43",
+      "title": "Junior Inbound Compliance Analyst (KYC)",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7904721003",
+      "location": "Sandy, Utah; Seattle, Washington",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "6b0b97220ef79b007bc07948f61837e04cd5d3eb",
       "title": "Junior Paralegal, Contracts",

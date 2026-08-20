@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": null,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef1597734dfd39285f2c98045559775003538487",
+      "title": "Praktikum Digitalisierung & Data Analytics - Gesamtfahrzeug BMW Motorrad (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1620693-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "442f16ec48df549b95e48a5e5e16996ac3cfc75d",
       "title": "Working student in the car body development with Python programming (f/m/x)",

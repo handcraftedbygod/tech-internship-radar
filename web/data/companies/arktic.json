@@ -2,21 +2,21 @@
   "slug": "arktic",
   "name": "Arktic",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,34 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae6c220576743cdea99bdbe861be864fe01b067d",
+      "title": "Remote Junior Java Backend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343045808__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
+    {
+      "id": "be96d97d8b94149c5b4a1b5a78ba6a71b4f92040",
+      "title": "Remote Junior Backend Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342969666__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
+    {
+      "id": "4b867edfa17e853ccaa746f4ba294a9ff7ca8001",
+      "title": "Remote/Backend Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__342972205__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "80b9f7674252bae9116452c66697bfb9b8f71b41",
       "title": "Remote Junior Java Backend Developer",

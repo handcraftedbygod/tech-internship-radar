@@ -2,14 +2,14 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -35,13 +35,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e56252e90a36119cbee67fb91d6e9f9f0ec9e05f",
+      "title": "Werkstudent (m/w/d) Software Entwicklung Mietwagen",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000144346261",
+      "location": "Augsburg, Bayern, Germany",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "32a03e6e733381acc5c22d3ac62e008f61b818ea",
       "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",

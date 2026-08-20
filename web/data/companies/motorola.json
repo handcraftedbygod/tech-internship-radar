@@ -2,21 +2,21 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9e055e27bf41cdceed825d3bd3d997e3d77e15d",
+      "title": "Intern Software Developer (Java)",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R67325?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "8710b7d986d80f4d4891b7b0ffa9259e6a61a39b",
       "title": "Intern Software Developer (Java)",

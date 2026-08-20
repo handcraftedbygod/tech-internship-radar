@@ -2,13 +2,17 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eac06984c1de873b7df0f7df531da6e86fa20488",
+      "title": "Software Engineering Intern, Test Automation — Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "8ff67af089f32b22430ce4c57216adf9eda6c82b",
       "title": "Software Engineering Intern, Dynamo",

@@ -1,15 +1,15 @@
 {
   "slug": "academic-work-sweden",
-  "name": "Academic Work Sweden AB",
+  "name": "ACADEMIC WORK SWEDEN AB",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Stockholm",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5678e1ecefd7017cde57689c4a1a3bfeca58d7fb",
+      "title": "Junior Remedy/Helix-Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0MzQxNSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "e0b51dde6064bc918eff2521918a4525ac5105e9",
       "title": "Junior Cybersecurity Specialist – Identity & Access to Big Bank!",

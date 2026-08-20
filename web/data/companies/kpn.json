@@ -2,21 +2,21 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e172abe9ce013a05ebd809e9d7f774d6d373cba",
+      "title": "Junior DevOps Engineer Mobile Core Voice",
+      "url": "https://jobs.smartrecruiters.com/KPN/744000144302599-junior-devops-engineer-mobile-core-voice?utm_source=freehire.me",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "1b639448111a9a99acc3414ab23ac8c580dde4a7",
       "title": "Junior DevOps Engineer",

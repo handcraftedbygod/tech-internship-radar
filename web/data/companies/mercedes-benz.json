@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 14,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Stuttgart",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -44,13 +44,20 @@
     0,
     0,
     0,
-    14,
+    15,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0220506deb7726875372002f1bfde9d2086e329e",
+      "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "8955d76c47a500b3ac5490c91599350f6238ff0c",
       "title": "Werkstudent Machine Learning Engineering (d/m/w/x)",
@@ -113,13 +120,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616860-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "fe834194968a54d36ef872a20f6bcb19897bb53f",
-      "title": "Werkstudent*in in MB.OS Developer Journey",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616891-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "virtuetech-recruitment",
   "name": "VirtueTech Recruitment Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7838b5f406ff20f3f85a0e097ccfa0fe27efeddf",
+      "title": "Junior Data Engineer – Databricks & Azure (Energy Trading)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__511180511__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "54294ed5c69d8c7941695ec6b130f448a75364f2",
       "title": "Junior Data Engineer | Commodities & Energy Trading | Databricks, Azure | Up to £45K + Bonus + [...]",

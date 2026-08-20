@@ -2,13 +2,17 @@
   "slug": "state-street",
   "name": "State Street",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b07108bc67e8af6d9d26e9902078a0510ba37e81",
+      "title": "Junior Software Engineer",
+      "url": "https://careers.statestreet.com/global/en/job/STSTGLOBALR793923EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Gdansk, Pomeranian",
+      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+    },
     {
       "id": "c60f2779ec004306eb01a44f69e9974ada2379da",
       "title": "Junior QA Engineer - Cloud, Data & API Testing (Hybrid)",
