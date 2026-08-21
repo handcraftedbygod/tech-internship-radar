@@ -70,7 +70,7 @@ const HUBS = [
   { name: "Katowice", region: "eu", match: ["katowice"] },
   { name: "Lodz", region: "eu", match: ["lodz", "łódź"] },
   { name: "New York", region: "na", match: ["new york", "nyc"] },
-  { name: "San Francisco", region: "na", match: ["san francisco", "bay area", "san jose", "silicon valley", "san mateo", "palo alto"] },
+  { name: "San Francisco", region: "na", match: ["san francisco", "bay area", "san jose", "silicon valley", "san mateo", "palo alto", "santa clara", "foster city", "sf office"] },
   { name: "Seattle", region: "na", match: ["seattle"] },
   { name: "Austin", region: "na", match: ["austin"] },
   { name: "Boston", region: "na", match: ["boston"] },
@@ -112,6 +112,10 @@ const EU_TEXT_HINTS = [
   "norway", "europe",
 ];
 
+// Word-boundary, not NA_TOKENS' plain .includes() -- a bare "us"/"ca" substring
+// check would false-positive on e.g. "Brussels"/"Canada"-adjacent EU text.
+const BARE_NA_COUNTRY = /\b(us|usa|ca)\b/;
+
 function regionForOther(job) {
   const code = (job.country || "").toUpperCase();
   if (EU_COUNTRY_CODES.has(code)) return "eu";
@@ -119,6 +123,7 @@ function regionForOther(job) {
   const text = job.location.toLowerCase();
   if (NA_TOKENS.some((token) => text.includes(token))) return "na";
   if (EU_TEXT_HINTS.some((token) => text.includes(token))) return "eu";
+  if (BARE_NA_COUNTRY.test(text)) return "na";
   return null;
 }
 
