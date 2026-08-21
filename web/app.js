@@ -520,6 +520,7 @@ const els = {
   savedExpiredSection: document.getElementById("saved-expired"),
   savedExpiredLabel: document.getElementById("saved-expired-label"),
   savedExpiredList: document.getElementById("saved-expired-list"),
+  savedExpiredClear: document.getElementById("saved-expired-clear"),
   ycSection: document.getElementById("yc-hiring"),
   ycList: document.getElementById("yc-list"),
   ycRegionEu: document.getElementById("yc-region-eu"),
@@ -849,6 +850,12 @@ els.savedExpiredList.addEventListener("click", (e) => {
   render();
 });
 
+els.savedExpiredClear.addEventListener("click", () => {
+  expiredSavedIds().forEach((id) => delete state.saved[id]);
+  persistSaved(state.saved);
+  render();
+});
+
 // Runs once on load, independent of the filter/render cycle -- diffs the
 // watchlist against today's listings client-side, no backend, no accounts.
 function renderWatchBanner() {
@@ -960,14 +967,17 @@ function renderMissedIt(closed) {
 // row-save handler below) so this can show and unsave them either way --
 // closed.json fills in a date for the top-tier subset it archives, older
 // saves from before the snapshot fall back to a plain "no longer available".
+function expiredSavedIds() {
+  const liveIds = new Set(LISTINGS.map((r) => r.id));
+  return Object.keys(state.saved).filter((id) => state.saved[id] && !liveIds.has(id));
+}
+
 function renderSavedExpired() {
   if (!state.savedOnly) {
     els.savedExpiredSection.hidden = true;
     return;
   }
-  const liveIds = new Set(LISTINGS.map((r) => r.id));
-  const expiredIds = Object.keys(state.saved)
-    .filter((id) => state.saved[id] && !liveIds.has(id));
+  const expiredIds = expiredSavedIds();
   if (expiredIds.length === 0) {
     els.savedExpiredSection.hidden = true;
     return;
