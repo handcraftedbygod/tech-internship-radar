@@ -83,6 +83,7 @@ const HUBS = [
 const OTHER_HUB = "Other";
 const OTHER_EU_HUB = "Other (EU)";
 const OTHER_NA_HUB = "Other (NA)";
+const REAL_HUB_NAMES = new Set(HUBS.map((hub) => hub.name));
 
 // Hub name -> region, so the chip renderer can bucket hub names coming back
 // from the listings without re-running the location matcher.
@@ -633,11 +634,13 @@ function render() {
   );
   renderChipRow(els.hubChipsBase, baseItems, state.hub, onHubSelect);
 
+  // "Other (EU)"/"Other (NA)" aren't real cities -- they still roll into
+  // "All EU hubs"/"All NA hubs" via HUB_REGION, just without their own chip.
   [
     { region: "eu", row: els.hubRowEu, chips: els.hubChipsEu, allId: "eu-all", allLabel: "All EU hubs" },
     { region: "na", row: els.hubRowNa, chips: els.hubChipsNa, allId: "na-all", allLabel: "All NA hubs" },
   ].forEach(({ region, row, chips, allId, allLabel }) => {
-    const names = hubNames.filter((h) => HUB_REGION[h] === region);
+    const names = hubNames.filter((h) => HUB_REGION[h] === region && REAL_HUB_NAMES.has(h));
     row.hidden = names.length === 0;
     const items = [{ id: allId, label: allLabel }].concat(toItems(names));
 
@@ -738,7 +741,7 @@ function render() {
 
   els.hubBars.innerHTML = barsHtml(
     hubNames
-      .filter((h) => hubCounts[h])
+      .filter((h) => hubCounts[h] && REAL_HUB_NAMES.has(h))
       .map((h) => ({ label: h.toUpperCase(), n: hubCounts[h] }))
       .sort((a, b) => b.n - a.n)
       .slice(0, 7),
