@@ -826,8 +826,25 @@ els.rows.addEventListener("click", (e) => {
   const btn = e.target.closest(".row-save");
   if (!btn) return;
   const id = btn.dataset.id;
-  if (state.saved[id]) delete state.saved[id];
-  else state.saved[id] = 1;
+  if (state.saved[id]) {
+    delete state.saved[id];
+  } else {
+    // Snapshot the listing's display fields at save time, not just its id --
+    // otherwise a listing that later expires (falls out of LISTINGS, and
+    // isn't in the curated/capped closed.json) leaves nothing to show for it.
+    const r = LISTINGS.find((row) => row.id === id);
+    state.saved[id] = r
+      ? { company: r.company, companySlug: r.companySlug, role: r.role, hub: r.hub }
+      : 1;
+  }
+  persistSaved(state.saved);
+  render();
+});
+
+els.savedExpiredList.addEventListener("click", (e) => {
+  const btn = e.target.closest(".saved-expired-remove");
+  if (!btn) return;
+  delete state.saved[btn.dataset.id];
   persistSaved(state.saved);
   render();
 });
@@ -936,10 +953,13 @@ function renderMissedIt(closed) {
     .join("");
 }
 
-// A saved job's star just tracks its id, so once the job ages out of
+// A saved job's star used to track only its id, so once the job aged out of
 // LISTINGS the star count and the visible saved-only table silently
-// disagree (5 saved, 1 shown). Splits the gap out: closed.json has full
-// details for the top-tier subset, everything else just shows as gone.
+// disagreed (5 saved, 1 shown), with no way to tell what the other 4 even
+// were or clear them out. Saving now snapshots company/role/hub (see the
+// row-save handler below) so this can show and unsave them either way --
+// closed.json fills in a date for the top-tier subset it archives, older
+// saves from before the snapshot fall back to a plain "no longer available".
 function renderSavedExpired() {
   if (!state.savedOnly) {
     els.savedExpiredSection.hidden = true;
@@ -956,16 +976,18 @@ function renderSavedExpired() {
   els.savedExpiredLabel.textContent = expiredIds.length + " EXPIRED";
   els.savedExpiredList.innerHTML = expiredIds
     .map((id) => {
-      const c = CLOSED_BY_ID[id];
-      const dateLabel = c && c.closedAt
-        ? new Date(c.closedAt).toLocaleDateString(undefined, { month: "short", day: "numeric" })
+      const saved = state.saved[id];
+      const cached = saved && typeof saved === "object" ? saved : null;
+      const archived = CLOSED_BY_ID[id];
+      const dateLabel = archived && archived.closedAt
+        ? new Date(archived.closedAt).toLocaleDateString(undefined, { month: "short", day: "numeric" })
         : "";
       return `
         <div class="missed-row">
-          <span class="missed-check" aria-hidden="true">&times;</span>
-          <span class="missed-company">${escapeHtml(c ? c.company : "Expired listing")}</span>
-          <span class="missed-role">${escapeHtml(c ? c.title : "No longer available")}</span>
-          <span class="missed-loc">${escapeHtml(c ? c.location : "")}</span>
+          <button type="button" class="missed-check saved-expired-remove" data-id="${escapeHtml(id)}" title="Remove from saved">&times;</button>
+          <span class="missed-company">${escapeHtml(cached?.company || archived?.company || "Expired listing")}</span>
+          <span class="missed-role">${escapeHtml(cached?.role || archived?.title || "No longer available")}</span>
+          <span class="missed-loc">${escapeHtml(cached?.hub || archived?.location || "")}</span>
           <span class="missed-date">${escapeHtml(dateLabel)}</span>
         </div>`;
     })

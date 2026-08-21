@@ -739,6 +739,16 @@ a.brand { text-decoration: none; }
   color: rgba(244,247,249,0.5);
 }
 .missed-check { color: rgba(244,247,249,0.4); font-size: 11px; }
+.saved-expired-remove {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 7px;
+  margin: -7px;
+  font: inherit;
+  justify-self: start;
+}
+.saved-expired-remove:hover { color: rgba(244,247,249,0.8); }
 .missed-company {
   font-family: 'Bodoni Moda', serif;
   font-size: 15px;
