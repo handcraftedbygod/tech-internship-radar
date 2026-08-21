@@ -460,6 +460,10 @@ const state = {
 };
 
 let LISTINGS = [];
+// id -> archived-listing details, for saved jobs that fell out of LISTINGS.
+// Only covers the top-tier companies closed.json keeps (see pipeline/export.ts);
+// a saved job that expired outside that set has no details left anywhere.
+let CLOSED_BY_ID = {};
 
 const DEFAULT_TRACK = "intern";
 
@@ -513,6 +517,9 @@ const els = {
   loadMore: document.getElementById("load-more"),
   missedSection: document.getElementById("missed-it"),
   missedList: document.getElementById("missed-list"),
+  savedExpiredSection: document.getElementById("saved-expired"),
+  savedExpiredLabel: document.getElementById("saved-expired-label"),
+  savedExpiredList: document.getElementById("saved-expired-list"),
   ycSection: document.getElementById("yc-hiring"),
   ycList: document.getElementById("yc-list"),
   ycRegionEu: document.getElementById("yc-region-eu"),
@@ -715,6 +722,8 @@ function render() {
   const remaining = rows.length - visibleCount;
   els.loadMoreRow.hidden = remaining <= 0;
   if (remaining > 0) els.loadMore.textContent = `LOAD MORE (${remaining})`;
+
+  renderSavedExpired();
 
   // signal density
   els.signalTrackLabel.textContent = trackLabel.toUpperCase();
@@ -927,9 +936,49 @@ function renderMissedIt(closed) {
     .join("");
 }
 
+// A saved job's star just tracks its id, so once the job ages out of
+// LISTINGS the star count and the visible saved-only table silently
+// disagree (5 saved, 1 shown). Splits the gap out: closed.json has full
+// details for the top-tier subset, everything else just shows as gone.
+function renderSavedExpired() {
+  if (!state.savedOnly) {
+    els.savedExpiredSection.hidden = true;
+    return;
+  }
+  const liveIds = new Set(LISTINGS.map((r) => r.id));
+  const expiredIds = Object.keys(state.saved)
+    .filter((id) => state.saved[id] && !liveIds.has(id));
+  if (expiredIds.length === 0) {
+    els.savedExpiredSection.hidden = true;
+    return;
+  }
+  els.savedExpiredSection.hidden = false;
+  els.savedExpiredLabel.textContent = expiredIds.length + " EXPIRED";
+  els.savedExpiredList.innerHTML = expiredIds
+    .map((id) => {
+      const c = CLOSED_BY_ID[id];
+      const dateLabel = c && c.closedAt
+        ? new Date(c.closedAt).toLocaleDateString(undefined, { month: "short", day: "numeric" })
+        : "";
+      return `
+        <div class="missed-row">
+          <span class="missed-check" aria-hidden="true">&times;</span>
+          <span class="missed-company">${escapeHtml(c ? c.company : "Expired listing")}</span>
+          <span class="missed-role">${escapeHtml(c ? c.title : "No longer available")}</span>
+          <span class="missed-loc">${escapeHtml(c ? c.location : "")}</span>
+          <span class="missed-date">${escapeHtml(dateLabel)}</span>
+        </div>`;
+    })
+    .join("");
+}
+
 fetch("./data/closed.json")
   .then((res) => res.json())
-  .then((data) => renderMissedIt(data))
+  .then((data) => {
+    renderMissedIt(data);
+    CLOSED_BY_ID = Object.fromEntries(data.map((c) => [c.id, c]));
+    render();
+  })
   .catch(() => {
     els.missedSection.hidden = true;
   });
