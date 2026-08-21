@@ -2,21 +2,21 @@
   "slug": "confidential-employer",
   "name": "Confidential employer",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ce9cef56838ac354d6d8f68414f3a5e5fbdb99f",
+      "title": "Palma: Junior Full-Stack Developer (React + Node)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__343180537__7107?geoID=2641&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Palma de Mallorca, Spain",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "a687a62e95dd1c4c7a951604d0d3cdc237c91bab",
       "title": "Junior Full Stack Developer in Palma",

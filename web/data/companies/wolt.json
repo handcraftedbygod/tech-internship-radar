@@ -2,14 +2,14 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14.6,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Helsinki",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a1520fd1868e25b6cd65ac56b7455ced1f516e2",
+      "title": "Ads & Promotions Intern",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8143628",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "7fa7dffc787bdd54b835f8c9bef988e9fbdfe351",
       "title": "(Senior) Corporate Legal Trainee",

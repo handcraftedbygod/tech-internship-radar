@@ -2,14 +2,14 @@
   "slug": "castleton-commodities-international",
   "name": "Castleton Commodities International",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "New York",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa6b160bd0f57379b6ac1798b207d3df2fb0aa12",
+      "title": "Front Office Software Engineer Internship",
+      "url": "https://www.adzuna.co.uk/jobs/details/5848067786?utm_medium=api&utm_source=freehire.me",
+      "location": "Monument, Central London",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "926f5804c04e54b07fe1a42ad16bc5b80393dc87",
       "title": "Data Engineering Internship (Summer 2027)",

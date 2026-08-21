@@ -2,17 +2,21 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Berlin",
+      "count": 2
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     },
     {
       "id": "swe",
@@ -36,13 +40,34 @@
     0,
     0,
     0,
-    5,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd9b3a4ad09d6f90c43584f92f1356175fef76b3",
+      "title": "Working Student (f/m/d) Data Analytics & IT Automation",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
+    {
+      "id": "6a5adfbe632c28b86dafc474053a92c0b14c2e0d",
+      "title": "Werkstudent (w/m/d) Factory Digitalization Data Analytics",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1621462-1-S",
+      "location": "Nürnberg, Mittelfranken",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
+    {
+      "id": "d8b1200aa4f2431febd0d48ef85142f679ba1125",
+      "title": "Werkstudent (w/m/d) Data Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1590357-2-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "985eefde90ceb0849833cfc0b709822d921da22b",
       "title": "Werkstudent (w/m/d) Cybersecurity Governance & Risk Management",

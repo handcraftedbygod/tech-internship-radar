@@ -2,14 +2,14 @@
   "slug": "avaron",
   "name": "Avaron AB",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     },
     {
       "hub": "Stockholm",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -31,13 +36,34 @@
     0,
     0,
     0,
-    4,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e0a7e3290b19c8a542d8ee3c2df7d84d39647bc1",
+      "title": "Junior Data Engineer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31377417?utm_source=freehire.me",
+      "location": "Lund, Skåne län, Sverige",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
+    {
+      "id": "26dc5211f5e47bff8ddd42cb9c1b05e1e47db52f",
+      "title": "Junior Data Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NjIxMyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
+    {
+      "id": "a701c4fe1e6eb6999ab9012481f086950d026a4b",
+      "title": "Junior Creative AI Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NTYwMiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "99a5015e79c1f7960f4a86bb961bbd0864519822",
       "title": "Junior Backend Developer",

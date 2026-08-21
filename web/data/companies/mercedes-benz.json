@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Stuttgart",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -44,13 +44,20 @@
     0,
     0,
     0,
-    15,
+    16,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68f3fc0ce440fb468ebcca9d8fc1c6fe2c5f1212",
+      "title": "Praktikant*in Data Engineering im Investcontrolling",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1587680-2-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "0220506deb7726875372002f1bfde9d2086e329e",
       "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
@@ -112,13 +119,6 @@
       "title": "Werkstudent (m/w/d) Software Engineering – Interne Anwendungen & Tooling",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616973-1-S",
       "location": "Berlin",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "2dced7a7960c90392273c2d6e4546f9b9cb821f1",
-      "title": "Werkstudent*in im Vertragsmanagement Halbleiter & Software im Einkauf",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616860-1-S",
-      "location": "Sindelfingen",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]

@@ -2,25 +2,25 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Other",
+      "hub": "Madrid",
       "count": 8
     },
     {
-      "hub": "Madrid",
-      "count": 7
+      "hub": "Other",
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "swe",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    15,
+    16,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b25819346afb1d57c39d47c1aafbe8dc27c5c43",
+      "title": "Data Engineer Junior - PrimeIT España",
+      "url": "https://es.whatjobs.com/pub_api__cpl__344148243__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "ddcc4f8f7f12cb099ef8c6eb78edabdbcfc252f5",
       "title": "Desarrollador De Backend Junior - Palma De Mallorca",
@@ -105,13 +112,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__343708851__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Valencia, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "027b72af7b2e4958e106829fcba2cbacaac3063b",
-      "title": "Junior Data Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343170512__7107?geoID=751&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Granada, Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
     }
   ]
 }

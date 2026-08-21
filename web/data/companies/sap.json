@@ -2,14 +2,14 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -37,13 +37,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f77963d63baf60478c2d3a6b06d9de3a182cd911",
+      "title": "Working Student (f/m/d) - Data Analyst / Data Science in Adopt-2-Consume Insights & Data Foundation",
+      "url": "https://aijobs.net/job/working-student-fmd-data-analyst-data-science-in-adopt-2-consume-insights-data-foundation-walldorf-de-69190-292318/?utm_source=freehire.me",
+      "location": "Walldorf, DE, 69190",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "93c2e1ff4330673114c490f36edea533697343c2",
       "title": "Junior Software Engineer (Mediation Zone)",

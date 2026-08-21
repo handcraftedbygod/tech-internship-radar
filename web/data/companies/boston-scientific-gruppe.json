@@ -2,21 +2,21 @@
   "slug": "boston-scientific-gruppe",
   "name": "Boston Scientific Gruppe",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd30a93bd535e7fdb397010306b52083dad00a9e",
+      "title": "Data & AI Platform Engineer Intern | Hybrid Madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__344139900__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "ff14c1a913ce5ba3063aaa4aa8f0e3ae3e456c02",
       "title": "Data & AI Platform Engineer Intern",

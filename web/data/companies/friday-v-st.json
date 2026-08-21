@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c9ffb6d6bb73c5960a566a51a7b5ba91cbfe2ab",
+      "title": "Junior Data Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NjQ5NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "3b88f52b62d076fea562c0ca46463c64f1a6c2a7",
       "title": "Junior Systemingenjör DevOps",

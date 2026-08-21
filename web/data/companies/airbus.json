@@ -2,21 +2,21 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbee27c5a31ce1eceed5c1114adf70081f751aac",
+      "title": "Junior Data Scientist / AI engineer  (m/w/d) in the field of Data Processing & Analytics",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Junior-Data-Scientist---AI-engineer---m-w-d--in-the-field-of-Data-Processing---Analytics_JR10433316?utm_source=freehire.me",
+      "location": "Toulouse Area",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "af97f6f049092c0459e42d055053dab2d5a33e49",
       "title": "Junior Cybersecurity Systems Engineer",

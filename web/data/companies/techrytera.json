@@ -2,17 +2,22 @@
   "slug": "techrytera",
   "name": "Techrytera AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "swe",
       "label": "Software",
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "48d649538333252f5d2da3ee27d63928f1ad303a",
+      "title": "Junior Data Engineer - Data Management AI & Analytics",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31378446?utm_source=freehire.me",
+      "location": "Lund, Skåne län, Sverige",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
+    {
+      "id": "82cdc17c6b94c13b112b5393ce4dd8724071364f",
+      "title": "Junior Data Engineer - Data Management AI & Analytics",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NjYzMSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "1d0d1f6ed054ff4945203b172ad8273e64db68eb",
       "title": "Junior Remedy/​Helix Developer",

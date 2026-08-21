@@ -2,21 +2,21 @@
   "slug": "techxperts-recruitment",
   "name": "TECHXPERTS RECRUITMENT LTD",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "582399dc379b517fea98ef37b08609a30938c046",
+      "title": "Junior Software Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-software-developer/57253831?utm_source=freehire.me",
+      "location": "Monmouth",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "2ccf0a3cb72754d1260511adbe34cd103827531f",
       "title": "Junior Software Developer",

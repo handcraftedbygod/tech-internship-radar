@@ -2,14 +2,14 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,13 +37,20 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63f3352f93a72bc25d76be35dfdb017816422756",
+      "title": "Software Engineering Intern (2027 Start) - Winter",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "e3484f3590a8556fced35fadac55919583641341",
       "title": "Associate Product Manager, New Grad (2027 Start)",

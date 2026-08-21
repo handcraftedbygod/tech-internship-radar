@@ -2,21 +2,21 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac3760ba2f1263ff873b24f9d2b1ae239fdecf1a",
+      "title": "Data Science | AI internship: audit automation solutions",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---AI-internship--audit-automation-solutions_J-00349576?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+    },
     {
       "id": "fff167db2158e2ad4dfd5237f7ee54043cce1b0a",
       "title": "Data Science | Psychology internship: behavioral insights analytics",
