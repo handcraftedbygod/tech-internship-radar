@@ -136,6 +136,26 @@ function isRecentEnough(job: RawJob, maxAgeDays: number): boolean {
   return ageMs <= maxAgeDays * 24 * 60 * 60 * 1000;
 }
 
+const US_STATE_CODES = new Set([
+  "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN", "IA",
+  "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+  "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT",
+  "VA", "WA", "WV", "WI", "WY", "DC",
+]);
+
+// "City, ST" job-board formatting for the many US cities with no dedicated hub
+// entry (Denver, Dallas, Bellevue, ...). Checked against the ORIGINAL
+// (not lowercased) text and only on a comma-prefixed two-letter token, so a
+// common word that happens to equal a state code ("or", "in", "hi", "me")
+// can't false-positive -- that shape only occurs after a comma in a real
+// postal-style address, confirmed against real vanshb03/cvrve drops.
+function hasUSStateCode(location: string): boolean {
+  for (const match of location.matchAll(/,\s*([A-Z]{2})\b/g)) {
+    if (US_STATE_CODES.has(match[1])) return true;
+  }
+  return false;
+}
+
 function matchesLocation(job: RawJob, locations: LocationsConfig): boolean {
   const text = `${job.location} ${job.country ?? ""}`.toLowerCase();
   const hubMatch = locations.hubs.some(
@@ -145,13 +165,16 @@ function matchesLocation(job: RawJob, locations: LocationsConfig): boolean {
       (job.country && job.country.toUpperCase() === hub.country),
   );
   if (hubMatch) return true;
+  if (!locations.allowRemoteGlobal) return false;
   // "canada"/"remote" added after the vanshb03/cvrve community lists showed real
   // entries with location text of just "Canada" or "Remote" -- no city, no "USA"/
-  // "US"/"CA" token, so the existing alternation silently dropped them.
-  return (
-    locations.allowRemoteGlobal &&
-    /europe|\beu\b|north america|canada|remote|\b(usa|us|ca)\b/.test(text)
-  );
+  // "US"/"CA" token, so the existing alternation silently dropped them. Same
+  // story for "united states"/"washington, d.c." -- neither contains a bare
+  // "us"/"usa" token on its own.
+  if (/europe|\beu\b|north america|canada|remote|\b(usa|us|ca)\b|united states|washington,? d\.?c\.?/.test(text)) {
+    return true;
+  }
+  return hasUSStateCode(job.location);
 }
 
 export function filterJobs(
