@@ -2,20 +2,25 @@
   "slug": "jpmorgan-chase",
   "name": "JPMorgan Chase",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
       "count": 1
     }
   ],
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cd1a335f2943149a165fe9eb0f9c9ca1fd13f669",
+      "title": "Quantitative Research, Markets, Summer Internship - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "1fa6f36434e4537b8ceaee48c9eb1e66f55c1102",
+      "title": "Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship - United States",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/code-for-good-hackathon-software-engineer-program-2027-summer-internship-united-states",
+      "location": "Chicago, IL, Columbus, OH, Houston, TX, Jersey City, NJ, New York, NY, Palo Alto, CA, Plano, TX, Tampa, FL, Wilmington, DE",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "fe1f396c6c2652bc2295a18ae447e6b468af3ef3",
       "title": "2027 Code for Good Hackathon - Software Engineer Program - Summer Internship - United States",

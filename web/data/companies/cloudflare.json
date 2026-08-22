@@ -2,14 +2,14 @@
   "slug": "cloudflare",
   "name": "Cloudflare",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8149c70d6d9520a49543151576d099852ed1945a",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cloudflare/jobs/8052785",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "51cc94561933532143bc313cd89b1e2ab646e8f2",
       "title": "Software Engineer Intern (Fall 2026)",

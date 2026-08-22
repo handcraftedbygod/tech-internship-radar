@@ -2,21 +2,21 @@
   "slug": "tracetronic",
   "name": "tracetronic GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e29d42a06017d50d6fb77d107d72d67a7ec43f2",
+      "title": "Junior Consultant - Software & Systems Transformation (m/w/d) (Berater/in - Smart City)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTE5NTYtMzAyMjY4MTc4NzA5MDQwMS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "13750e5317b8cdb20bbc2a3c92d3eda97f475a75",
       "title": "Junior Consultant - Software & Systems Transformation (m/w/d) (Berater/in - Smart City)",

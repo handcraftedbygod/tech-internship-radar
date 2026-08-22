@@ -2,21 +2,21 @@
   "slug": "keepmoat",
   "name": "Keepmoat",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49e8f68c750ed4a45e60d16812efad411f23e5d0",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__512956164__7082?geoID=898&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Doncaster, United Kingdom",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "3299d8d633c3f4f87652209de46d78cf20df5aed",
       "title": "Junior Data Engineer",

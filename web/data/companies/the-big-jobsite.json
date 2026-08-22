@@ -2,9 +2,9 @@
   "slug": "the-big-jobsite",
   "name": "The BIG Jobsite",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd76c145291fab81e8ca4852f06ba1c5758c96c3",
+      "title": "IA | Backend Development | Others Internship",
+      "url": "https://es.whatjobs.com/pub_api__cpl__344721805__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "5a11112db86ee97e7c45f06a9b02f9060e888c37",
       "title": "Junior Google Cloud Data Engineer",

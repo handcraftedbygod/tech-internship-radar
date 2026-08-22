@@ -2,21 +2,21 @@
   "slug": "birger",
   "name": "Birger AB",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 3,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,48 @@
     0,
     0,
     0,
-    3,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47234302b1bbee535392d29560e82b3639464aee",
+      "title": "Fullstack Developer Intern  Bygg digitala produkter från grunden",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzA3NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "bfd1f9df8893319ed329dedc487eecba396a66c5",
+      "title": "Product Developer Intern",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzA3NyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "180b18251bdb7f0f545314ce023ddccc63efdce3",
+      "title": "Lovable Developer Intern",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzA3OSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "b516c10076750fcfa685722c498016195d486a85",
+      "title": "Junior Fullstack Developer Intern",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzA3NiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "4ca33a1f97841e612760bd450278ec6bbf023047",
+      "title": "Software Developer Intern",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzA3OCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "5cb5d47485dccb38f5a969a9051255de3e3fd373",
       "title": "Junior Fullstack Developer Intern",

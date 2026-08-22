@@ -1,15 +1,15 @@
 {
   "slug": "experis",
-  "name": "Experis",
+  "name": "Experis AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e72b6b3e78e900c6486ee81f4cfa8d95cbdf303",
+      "title": "Junior Data Engineer | Azure | Databricks | Power BI",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0NzU5MCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "8d0fab725a24dd6bb8f9970565b19347eead612d",
       "title": "Junior Developer på stort bolag i Lund",

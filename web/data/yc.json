@@ -213,6 +213,13 @@
   ],
   "northAmerica": [
     {
+      "name": "Covera",
+      "oneLiner": "AI-native OS for insurance brokers",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/covera"
+    },
+    {
       "name": "Hemlock",
       "oneLiner": "Force-sensing wristband for training robotic AI",
       "batch": "Fall 2026",
@@ -267,6 +274,13 @@
       "batch": "Summer 2026",
       "location": "Chicago, IL, USA",
       "url": "https://www.ycombinator.com/companies/rise-reforming"
+    },
+    {
+      "name": "Vestris",
+      "oneLiner": "AI native platform for real estate closings",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/vestris"
     },
     {
       "name": "screenpipe",
@@ -407,20 +421,6 @@
       "batch": "Spring 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/anoria"
-    },
-    {
-      "name": "Rudus",
-      "oneLiner": "AI Takeoffs for Concrete",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/rudus"
-    },
-    {
-      "name": "KugelAudio",
-      "oneLiner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/kugelaudio"
     }
   ]
 }

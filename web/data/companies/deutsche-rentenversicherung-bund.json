@@ -2,13 +2,17 @@
   "slug": "deutsche-rentenversicherung-bund",
   "name": "Deutsche Rentenversicherung Bund",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a756906c9360c42a62a8780e0a3f2b19f67c64da",
+      "title": "Junior Data Scientist (m/w/div) (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNzU4OTY1Ni1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "325a85cd427d8f4e4497f0f62e692b311a5080bc",
       "title": "Junior Data Scientist (m/w/div)",

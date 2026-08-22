@@ -2,17 +2,27 @@
   "slug": "american-express",
   "name": "American Express",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 5
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "product",
       "label": "Product",
@@ -27,13 +37,41 @@
     0,
     0,
     0,
-    1,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b4356ae9c0f011a7a1c03f04077cdbd0cf09eee4",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "e86ee5c65776e44e64c43f1439f20a32890eec90",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "a7ad3f054a5fe0a5cd642a4edd48a49ac7e9299e",
+      "title": "Software Engineer Intern, Technology",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "72a3135b30871bd0dc598b296252ba5364cff9b0",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "ba32873ef6aba3f3284f590973146b949bb17903",
       "title": "Product Management Intern",

@@ -2,14 +2,14 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 2
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -37,13 +37,20 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b6bcc034d624b61b382b29398af0cafa42df66db",
+      "title": "Software Engineering Intern",
+      "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+      "location": "Bellevue, Washington, Mountain View, California, San Francisco, California",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "63f3352f93a72bc25d76be35dfdb017816422756",
       "title": "Software Engineering Intern (2027 Start) - Winter",

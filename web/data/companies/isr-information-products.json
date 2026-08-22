@@ -2,9 +2,9 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 18,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 23
+      "count": 24
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    23,
+    24,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a88c240218782c19fbb52cbec9035c39e422a34",
+      "title": "Informatiker als Trainee Data Scientist - Konzeption und Realisierung / Azure Cloud (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5850453274?se=nJ5DH22d8RGfQpohglHoaw&utm_medium=api&utm_source=freehire.me&v=81479A1A647FF78584DF1089A17307F747E28FB4",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "6e4917863b3bb07107f41074547cf0c80d663216",
       "title": "IT-Spezialist als Trainee Data Engineer / Data Scientist (m/w/d)",
@@ -100,13 +107,6 @@
       "url": "https://de.whatjobs.com/pub_api__cpl__478148696__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "64564f58fec0524ca80ed4a5ef00d2ade398219e",
-      "title": "IT-Spezialist als Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148733__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Hamburg, Germany",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

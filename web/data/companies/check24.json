@@ -2,9 +2,9 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 4
     },
     {
-      "hub": "Berlin",
-      "count": 1
+      "hub": "Munich",
+      "count": 3
     },
     {
-      "hub": "Munich",
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -24,7 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,13 +40,27 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "60507a2bad83dcc9eb841bf9f75713082343d9e2",
+      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000144717658",
+      "location": "München, Bayern, Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "f9503ffa260d816f548a2e5721fa4f4ca23b290e",
+      "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000144719238",
+      "location": "München, Bayern, Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "e56252e90a36119cbee67fb91d6e9f9f0ec9e05f",
       "title": "Werkstudent (m/w/d) Software Entwicklung Mietwagen",

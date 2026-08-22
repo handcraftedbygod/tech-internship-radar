@@ -2,9 +2,9 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 8
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     },
     {
       "id": "swe",
@@ -36,13 +40,20 @@
     0,
     0,
     0,
-    16,
+    17,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "934e9e0e56d9f0d4ea80d95af06bad79842b13d2",
+      "title": "Data Engineer (internship - Graduate Program) - OgilvyES",
+      "url": "https://es.whatjobs.com/pub_api__cpl__344731417__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "3b25819346afb1d57c39d47c1aafbe8dc27c5c43",
       "title": "Data Engineer Junior - PrimeIT España",
@@ -104,13 +115,6 @@
       "title": "Data Engineer Junior (Google Cloud & IA) - NEVERHACK Spain",
       "url": "https://es.whatjobs.com/pub_api__cpl__343711164__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "d3b59024255b788ac5de43260bcf1b24864a6b0d",
-      "title": "IA | Backend Development | Others Internship",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343708851__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Valencia, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

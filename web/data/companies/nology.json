@@ -2,21 +2,21 @@
   "slug": "nology",
   "name": "_nology",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "biz",
@@ -32,13 +32,27 @@
     0,
     0,
     0,
-    5,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33ed2af27d29d8108ac8679a52bd783d997a2826",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__512940791__7082?geoID=835&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "f6b539a14f1068e41190c4e7551fc681414d2591",
+      "title": "Junior Java Developer - Kickstart Your Backend Career",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__512940832__7082?geoID=835&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "488d8a2eb63cb55c9f673cbdc9fe4c74abab7410",
       "title": "Junior Java Developer",

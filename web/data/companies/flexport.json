@@ -2,21 +2,21 @@
   "slug": "flexport",
   "name": "Flexport",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": 7.9,
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b9939d9f8e37d77cb5f017a64c9a2d1dc23256d9",
+      "title": "Inbound Sales Development Representative - New Grad",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/5850324",
+      "location": "Chicago, Illinois, United States",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "6ceb25d8dfb30d7746d58e80c721511b7d33e5f4",
       "title": "Sales Development Representative - New Grad",

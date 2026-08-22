@@ -2,13 +2,17 @@
   "slug": "varda-space-industries",
   "name": "Varda Space Industries",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Los Angeles",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15e3ab35b5fc1c6c4a379be515f0803483ccbb9f",
+      "title": "Applications Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "5dc845250dd65d080c898939b1aed53674530e19",
       "title": "Cybersecurity Internship - Spring 2027",

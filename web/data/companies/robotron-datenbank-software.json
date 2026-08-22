@@ -2,21 +2,21 @@
   "slug": "robotron-datenbank-software",
   "name": "Robotron Datenbank-Software GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ddcccd257605eecf33188d4daaf252329072e299",
+      "title": "Robotron Datenbank-Software GmbH: Junior Cloud Engineer für Azure (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20808-3032561787263200-S?utm_source=freehire.me",
+      "location": "Dresden, SACHSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "2632c98e09d44f4428d4cf516a459f85e0283077",
       "title": "Junior Cloud Engineer für Azure (m/w/d) (Cloud-Architect)",

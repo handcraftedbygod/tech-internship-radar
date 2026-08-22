@@ -2,21 +2,21 @@
   "slug": "baumann",
   "name": "Baumann GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "521fa7a663fd81d7ea444b87509831ceda26276b",
+      "title": "Junior Entwicklungsingenieur (m/w/d) Simulation & Data Science (Ingenieur/in - Automatisierungstechnik)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjg1NjM1LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "f0dba2e575fcc0cd547f693d3fd71ecfa3e281af",
       "title": "Junior Entwicklungsingenieur (m/w/d) Simulation & Data Science  (Ingenieur/in - Maschinenbau)",

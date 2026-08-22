@@ -1,0 +1,70 @@
+{
+  "slug": "amd",
+  "name": "AMD",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-08-22T04:33:07.684Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "630bfd5bf2313927243e671502bf4b54aaeccc03",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/90891",
+      "location": "Santa Clara, CA, San Jose, CA",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "149725d07fd2a1dfc11115879ad39765c31c6759",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/90947",
+      "location": "Austin, TX, Boxborough, MA, Fort Collins, CO, Longmont, CO, Fishkill, NY, Rochester, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "c4e39e42aaceca4accc9f9aa6a9845239a05fa2f",
+      "title": "Software Engineer Intern, Co-op",
+      "url": "https://careers.amd.com/careers-home/jobs/91176",
+      "location": "Santa Clara, CA, San Jose, CA",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "55f45aa833d889d03b0a6f6361a410e077322b70",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/91180",
+      "location": "Austin, TX, Boxborough, MA, Rochester, NY, Fort Collins, CO, Longmont, CO, Fishkill, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    }
+  ]
+}

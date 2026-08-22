@@ -2,9 +2,9 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 20,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -40,13 +40,20 @@
     0,
     0,
     3,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c84803def17a5b0cc3ddb42443805ce57e2f2852",
+      "title": "AFC Intern - Spanish Market",
+      "url": "https://n26.com/en-eu/careers/positions/8144130?gh_jid=8144130",
+      "location": "Madrid",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "060d41acb6e6d0008b602f06dda5203f55974e98",
       "title": "Junior Data Analyst - Customer Identity",

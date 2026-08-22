@@ -2,20 +2,25 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b81fe16375539ba51ec0622d047e58e385a1a12",
+      "title": "Junior Software Engineer - Tieto Caretech (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000144698774-junior-software-engineer-tieto-caretech-m-f-d-?utm_source=freehire.me",
+      "location": "Tampere, Pirkanmaa, fi",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "06640c6957998be364be0e326af9d9259c7f2c73",
       "title": "Junior Software Engineer,  C embedded - Tieto Tech Consulting (m/f/d)",

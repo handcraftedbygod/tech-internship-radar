@@ -2,14 +2,14 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Bremen",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -31,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "94d762e2563c40a3807b8431d9d81e97e8bde48b",
+      "title": "Werkstudent Embedded Software & Hardware-Support (m/w/d) (Software-Architect)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTU5MzktQkItNjM0OTU1LTc4NzgtNzUxNi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "ef1b55ca0437de0ed8b53d102f2f26ecdff8ed22",
       "title": "Werkstudent TacNet-Software (m/w/d)",

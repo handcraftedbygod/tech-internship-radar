@@ -2,21 +2,21 @@
   "slug": "tantive",
   "name": "tantive",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "36e12087f4c3b833eda2583431dd6cd9ce637683",
+      "title": "Junior Fullstack Entwickler (m/w/d) – Fokus Backend (Java / Spring Boot) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtODYzOTUzMTNfSkI1MjI2MzYyLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "3125a6c03f1c0f74b29cf8dc41e4a0ffc99f2adf",
       "title": "Junior Fullstack Entwickler (m/w/d) – Fokus Backend (Java / Spring Boot)",

@@ -1,0 +1,59 @@
+{
+  "slug": "capital-one",
+  "name": "Capital One",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-22T04:33:07.684Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "deeeb470541cdf19c6a5df3176053f562ddede38",
+      "title": "Backend Software Engineer Intern, Team Interstellar",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "9ecbe3f29d6ce92028bdbaa5c8cfc91b192a86d8",
+      "title": "Software Engineer Intern, Mobile",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
+    {
+      "id": "d513710e9dd12257014f1039da86cc5e7d1e15c0",
+      "title": "Software Engineer Intern, Team Pickle",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    }
+  ]
+}

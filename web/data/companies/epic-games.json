@@ -2,9 +2,9 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Montreal",
+      "count": 2
     },
     {
-      "hub": "Montreal",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -35,13 +35,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "34fb838731f427678df873c44627e547d9384e1c",
+      "title": "Machine Learning Research Intern",
+      "url": "https://www.epicgames.com/site/careers/jobs/6138140004?gh_jid=6138140004",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "12138ab57947848a1fb983085f3c53c10e4a8ed6",
       "title": "Machine Learning Intern",

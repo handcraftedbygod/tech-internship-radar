@@ -2,21 +2,25 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Bremen",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -32,13 +36,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c12a64d0c7f43a38a52d84d546259cace51eede",
+      "title": "Junior Backend Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-965368917-S?utm_source=freehire.me",
+      "location": "Bremen, BREMEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "033b0088fba61b23ca155ed9510d9f630c514f3d",
       "title": "Intern (d/f/m) Artificial Intelligence",

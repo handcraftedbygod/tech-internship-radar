@@ -2,13 +2,17 @@
   "slug": "dv",
   "name": "DV Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "New York",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "163cb808ec9b1e47c425fe475cb6bbd1998437bf",
+      "title": "Software Engineer Intern, Commodities",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+    },
     {
       "id": "662de81e362e298a237a2ee437446312608644d3",
       "title": "Quantitative Risk Intern",
