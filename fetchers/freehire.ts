@@ -7,7 +7,9 @@ const PAGE_SIZE = 100;
 // offset+limit caps at 10,000 per freehire's own docs.
 const MAX_PAGES = 10;
 
-const REGIONS = ["eu", "uk"];
+// "ca"/"na"/"north-america" all return zero results live -- freehire has no
+// Canada region code, so "us" is the only NA coverage available from them.
+const REGIONS = ["eu", "uk", "us"];
 const SENIORITY_LEVELS = ["intern", "junior"];
 
 interface FreehireJob {
