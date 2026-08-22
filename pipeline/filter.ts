@@ -17,6 +17,17 @@ function hasKeyword(text: string, keyword: string): boolean {
   return new RegExp(`\\b${escapeRegExp(keyword.toLowerCase())}\\b`).test(text);
 }
 
+// vanshb03/cvrve are each single-purpose community lists (Summer-Internships /
+// New-Grad) that already curate for the right career stage, but plenty of
+// their entries are titled like "Software Development Co-op" or "Software
+// Engineer I" -- no literal "intern"/"new grad" wording for title-matching to
+// catch. Force the category their source name implies, same trust already
+// extended to them for the tech gate below.
+const SOURCE_CATEGORY: Record<string, string> = {
+  vanshb03: "internship",
+  cvrve: "new-grad",
+};
+
 // Matching is title-only, not full description: ATS boilerplate (e.g. "this
 // benefit is not available for interns/working students" in a benefits list)
 // mentions internship terms on plenty of non-internship postings. The title
@@ -29,6 +40,8 @@ function matchedCategories(job: RawJob, keywords: KeywordsConfig): string[] {
     const excluded = (list.exclude ?? []).some((kw) => hasKeyword(text, kw));
     if (included && !excluded) categories.push(name);
   }
+  const sourceCategory = SOURCE_CATEGORY[job.source];
+  if (sourceCategory && !categories.includes(sourceCategory)) categories.push(sourceCategory);
   return categories;
 }
 
