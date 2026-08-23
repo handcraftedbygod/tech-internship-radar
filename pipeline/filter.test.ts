@@ -79,6 +79,18 @@ test("trims leading/trailing whitespace from a company name", () => {
   assert.equal(result[0].company, "Nology");
 });
 
+test("a URL-less job's id is stable regardless of whitespace on the company name", () => {
+  // Regression: computeId's fallback basis (no url) used the raw,
+  // untrimmed company, while the stored job.company is trimmed -- a source
+  // with inconsistent whitespace across runs (freehire does this) hashed a
+  // different id each time, creating a duplicate DB row instead of an
+  // upsert of the same listing.
+  const withoutUrl = (company: string) => job({ title: "Software Engineering Intern", company, url: "" });
+  const clean = filterJobs([withoutUrl("Acme")], keywords, locations, settings);
+  const padded = filterJobs([withoutUrl("  Acme  ")], keywords, locations, settings);
+  assert.equal(clean[0].id, padded[0].id);
+});
+
 test("skips a raw job whose company is a bare internal ID instead of a real name", () => {
   const result = filterJobs(
     [job({ title: "Software Engineering Intern", company: "130844" }), job({ title: "Praktikum", company: "Acme" })],
