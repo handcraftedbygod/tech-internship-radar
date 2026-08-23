@@ -454,7 +454,6 @@ function main() {
   const withoutThisWeek = existing.filter((r) => r.weekOf !== report.weekOf);
   const allReports = [report, ...withoutThisWeek];
   writeFileSync(REPORTS_PATH, JSON.stringify(allReports, null, 2));
-  writeSitemap(allReports.map((r) => r.weekOf));
 
   mkdirSync(OG_DIR, { recursive: true });
   mkdirSync(REPORTS_HTML_DIR, { recursive: true });
@@ -462,6 +461,10 @@ function main() {
   const shareUrl = `${SITE_URL}reports/${report.weekOf}.html`;
   writeFileSync(path.join(OG_DIR, `${report.weekOf}.png`), renderOgCard(report));
   writeFileSync(path.join(REPORTS_HTML_DIR, `${report.weekOf}.html`), buildOgHtml(report, imageUrl, shareUrl));
+
+  // Must run after the html page above is written -- writeSitemap only
+  // lists a week whose page already exists on disk (see its own comment).
+  writeSitemap(allReports.map((r) => r.weekOf));
 
   writeFileSync(DRAFT_PATH, formatDraft(report, shareUrl));
 
