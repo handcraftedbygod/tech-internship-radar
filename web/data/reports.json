@@ -1,5 +1,231 @@
 [
   {
+    "weekOf": "2026-08-16",
+    "newCount": 614,
+    "prevWeekCount": 952,
+    "pctChange": -35.5,
+    "totalTracked": 2119,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 330
+      },
+      {
+        "hub": "London",
+        "count": 51
+      },
+      {
+        "hub": "Berlin",
+        "count": 35
+      },
+      {
+        "hub": "Madrid",
+        "count": 27
+      },
+      {
+        "hub": "Munich",
+        "count": 26
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "american-express",
+        "name": "American Express",
+        "count": 18
+      },
+      {
+        "slug": "jobrapido",
+        "name": "Jobrapido",
+        "count": 14
+      },
+      {
+        "slug": "tiktok",
+        "name": "TikTok",
+        "count": 13
+      },
+      {
+        "slug": "isr-information-products",
+        "name": "ISR Information Products AG",
+        "count": 11
+      },
+      {
+        "slug": "eon-grid-solutions",
+        "name": "E.ON Grid Solutions GmbH",
+        "count": 10
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 219,
+      "sample": [
+        {
+          "slug": "adria-solutions",
+          "name": "Adria Solutions"
+        },
+        {
+          "slug": "agile-resources",
+          "name": "Agile Resources AB"
+        },
+        {
+          "slug": "aida-recruitment",
+          "name": "AIDA Recruitment"
+        },
+        {
+          "slug": "airbus-helicopters-deutschland",
+          "name": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH"
+        },
+        {
+          "slug": "all-for-one",
+          "name": "All for One"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "hw",
+      "label": "Hardware",
+      "pctChange": 233.3
+    },
+    "notableHiring": [
+      {
+        "slug": "google",
+        "name": "Google",
+        "badge": "FAANG",
+        "count": 4
+      },
+      {
+        "slug": "millennium",
+        "name": "Millennium",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "datadog",
+        "name": "Datadog",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "optiver",
+        "name": "Optiver",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "databricks",
+        "name": "Databricks",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "figma",
+        "name": "Figma",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "revolut",
+        "name": "Revolut",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "agile-robots-se-personio",
+        "name": "Agile Robots SE - Personio",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "qube-research-technologies",
+        "name": "Qube Research & Technologies",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "drw-holdings",
+        "name": "DRW Holdings",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap",
+        "name": "Sap",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "point72",
+        "name": "Point72",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "cloudflare",
+        "name": "Cloudflare",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "robinhood",
+        "name": "Robinhood",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Point72",
+      "title": "Quantitative Developer Intern",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 101,
+      "high": 126
+    },
+    "headline": {
+      "company": "Databricks",
+      "title": "Software Engineering Intern",
+      "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+      "hub": "San Francisco",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 54,
+      "high": 67
+    },
+    "earlyPick": {
+      "company": "Notion",
+      "title": "Data Science Intern (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+      "season": "Winter 2027",
+      "hub": "San Francisco"
+    }
+  },
+  {
     "weekOf": "2026-08-09",
     "newCount": 952,
     "prevWeekCount": 481,
