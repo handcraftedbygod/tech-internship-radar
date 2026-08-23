@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { DatabaseSync } from "node:sqlite";
-import { mkdtempSync, rmSync } from "node:fs";
+import { mkdtempSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import path from "node:path";
 import { storeJobs, pruneStale, openDb } from "./store.ts";
@@ -123,6 +123,18 @@ test("an archived listing that gets reposted leaves the archive", () => {
     };
     db.close();
     assert.equal(row.closed_at, null);
+  });
+});
+
+test("storeJobs surfaces the real error instead of a no-transaction ROLLBACK failure", () => {
+  // Regression: SCHEMA/migrate/prepare ran inside the try but before BEGIN,
+  // so a failure there hit an unconditional ROLLBACK with no active
+  // transaction -- which itself throws and masks the original error.
+  withTempDb((dbPath) => {
+    writeFileSync(dbPath, "not a sqlite database");
+    assert.throws(() => storeJobs([job({})], dbPath), (err: Error) => {
+      return !/rollback|no transaction/i.test(err.message);
+    });
   });
 });
 
