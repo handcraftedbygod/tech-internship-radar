@@ -188,6 +188,19 @@ test("buildWeeklyReport returns null topPay when there are no rows this week", (
   assert.equal(report.topPay, null);
 });
 
+test("buildWeeklyReport's topPay applies the advanced-degree pay multiplier", () => {
+  // Regression: estimatePay reads advancedDegree (camelCase); a DB row comes
+  // in as advanced_degree (snake_case) and must be mapped, or this silently
+  // never applies.
+  const baseline = buildWeeklyReport([row({ location: "Berlin" })], {}, [], undefined, NOW);
+  const withDegree = buildWeeklyReport([row({ location: "Berlin", advanced_degree: 1 })], {}, [], undefined, NOW);
+  // Rounded low/high on small Berlin base rates leaves a bit of slack --
+  // this only needs to distinguish "multiplier applied" (~1.25x) from "not
+  // applied at all" (1x), not assert an exact ratio.
+  const ratio = withDegree.topPay!.low / baseline.topPay!.low;
+  assert.ok(Math.abs(ratio - 1.25) < 0.05, `expected a ~1.25x multiplier, got ${ratio}`);
+});
+
 test("buildWeeklyReport's headline prefers FAANG tier over a fresher NOTABLE-tier listing", () => {
   const rows = [
     row({ company: "Meta", title: "Older FAANG post", first_seen_at: daysAgo(5) }),
