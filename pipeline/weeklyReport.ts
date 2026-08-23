@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { openDb } from "./store.ts";
@@ -13,6 +13,7 @@ const DRAFT_PATH = path.join(import.meta.dirname, "..", "weekly-report-draft.md"
 export const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
 const OG_DIR = path.join(import.meta.dirname, "..", "web", "data", "og");
 const REPORTS_HTML_DIR = path.join(import.meta.dirname, "..", "web", "reports");
+const SITEMAP_PATH = path.join(import.meta.dirname, "..", "web", "sitemap.xml");
 // weekly-report runs as its own job (see .github/workflows/pipeline.yml),
 // separate from the nightly fetch -- it reads yc.json rather than refetching
 // yc-oss/api itself.
@@ -393,6 +394,31 @@ export function formatDraft(report: WeeklyReport, shareUrl: string): string {
   ].join("\n");
 }
 
+// Regenerated from reports.json every run so a new dated report page always
+// gets indexed -- a hand-maintained list went stale on the very first week
+// after a new report was added and this one wasn't.
+function writeSitemap(weeksOf: string[]): void {
+  // reports.json can outlive its html page (e.g. an entry written before this
+  // page-generation step existed) -- only list pages that actually exist.
+  const livePages = weeksOf.filter((weekOf) => existsSync(path.join(REPORTS_HTML_DIR, `${weekOf}.html`)));
+  const urls = [
+    { loc: SITE_URL, changefreq: "daily", priority: "1.0" },
+    { loc: `${SITE_URL}reports.html`, changefreq: "weekly", priority: "0.6" },
+    ...livePages.map((weekOf) => ({
+      loc: `${SITE_URL}reports/${weekOf}.html`,
+      changefreq: "never",
+      priority: "0.3",
+    })),
+  ];
+  const body = urls
+    .map((u) => `  <url>\n    <loc>${u.loc}</loc>\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>`)
+    .join("\n");
+  writeFileSync(
+    SITEMAP_PATH,
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`,
+  );
+}
+
 function main() {
   const db = openDb();
   const aliases = loadCompanyAliases();
@@ -426,7 +452,9 @@ function main() {
   // manual re-run (workflow_dispatch, local testing) must be idempotent
   // rather than piling up repeat entries for the same weekOf.
   const withoutThisWeek = existing.filter((r) => r.weekOf !== report.weekOf);
-  writeFileSync(REPORTS_PATH, JSON.stringify([report, ...withoutThisWeek], null, 2));
+  const allReports = [report, ...withoutThisWeek];
+  writeFileSync(REPORTS_PATH, JSON.stringify(allReports, null, 2));
+  writeSitemap(allReports.map((r) => r.weekOf));
 
   mkdirSync(OG_DIR, { recursive: true });
   mkdirSync(REPORTS_HTML_DIR, { recursive: true });
