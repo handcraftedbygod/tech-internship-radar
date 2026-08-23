@@ -237,7 +237,10 @@ export function buildWeeklyReport(
   let earlyPick: WeeklyReport["earlyPick"] = null;
   let earlyBestYear = -Infinity;
   let earlyBestSeenAt = "";
-  const thisYear = now.getFullYear();
+  // Every other date in this file is UTC (see cutoffThisWeek/cutoffLastWeek
+  // above) -- getFullYear() reads the runner's local timezone instead, which
+  // can disagree with thisWeek's UTC window right at a year boundary.
+  const thisYear = now.getUTCFullYear();
   for (const r of thisWeek) {
     const year = seasonYear(r.season);
     if (year === null || year <= thisYear) continue;
