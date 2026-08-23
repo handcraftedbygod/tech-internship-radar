@@ -189,7 +189,10 @@ export function buildWeeklyReport(
   let topPay: WeeklyReport["topPay"] = null;
   let bestUsdMid = -Infinity;
   for (const r of thisWeek) {
-    const pay = estimatePay(r, tiers);
+    // estimatePay expects advancedDegree (camelCase, matching web/app.js's
+    // mirrored copy and the exported JSON field) -- ReportRow comes straight
+    // from the DB as advanced_degree, so it must be mapped here.
+    const pay = estimatePay({ ...r, advancedDegree: r.advanced_degree }, tiers);
     if (pay.usdMid <= bestUsdMid) continue;
     bestUsdMid = pay.usdMid;
     topPay = {
@@ -218,7 +221,7 @@ export function buildWeeklyReport(
     return cur.r.first_seen_at > best.r.first_seen_at ? cur : best;
   }, null);
   if (pick) {
-    const pay = estimatePay(pick.r, tiers);
+    const pay = estimatePay({ ...pick.r, advancedDegree: pick.r.advanced_degree }, tiers);
     headline = {
       company: pick.r.company,
       title: pick.r.title,
