@@ -1,0 +1,52 @@
+{
+  "slug": "kpn-new-business",
+  "name": "KPN New Business",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-23T04:36:48.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2c502d7906fe0dadcdc1c11bcc247af09ea56918",
+      "title": "Junior DevOps Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__153071480__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "aabef08a1b16b2f32885a7cec4e99fa1c97a1b4a",
+      "title": "Junior DevOps Engineer – Netwerkautomatisering (Python)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__153071150__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "check24-services-personal",
+  "name": "CHECK24 Services Personal GmbH",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-23T04:36:48.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "32de5b160433787fb66936a87fbe7af3989334df",
+      "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-50e689aec5ea4bd2a6d-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "084b5da4589aa083a9299107357e4fe5512d1295",
+      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-936886f00b3a4fcebc3-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    }
+  ]
+}

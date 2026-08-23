@@ -2,14 +2,14 @@
   "slug": "jpmorgan-chase",
   "name": "JPMorgan Chase",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "db6522d804b0260bea58abb82e0871e624b0954f",
+      "title": "Quantitative Research, Asset Management Summer Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
     {
       "id": "cd1a335f2943149a165fe9eb0f9c9ca1fd13f669",
       "title": "Quantitative Research, Markets, Summer Internship - Analyst",

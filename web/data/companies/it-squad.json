@@ -1,0 +1,52 @@
+{
+  "slug": "it-squad",
+  "name": "IT Squad",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-23T04:36:48.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b00efa310c47d9bcbd51071ced7ea22deb21067f",
+      "title": "Junior Data Engineer Tableau",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28921055__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "3b03a6dc3e24cfa82c27c89eff3b3d0fd40017f0",
+      "title": "Junior Data Engineer - Tableau & Snowflake BI",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28921614__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    }
+  ]
+}

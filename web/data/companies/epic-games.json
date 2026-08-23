@@ -2,9 +2,9 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
@@ -12,12 +12,12 @@
       "count": 2
     },
     {
-      "hub": "Montreal",
+      "hub": "Other",
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Montreal",
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,6 +25,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,13 +40,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b10b6d889c1783ae0d1dbab0c1db03f6cddece31",
+      "title": "Gameplay Programmer Intern",
+      "url": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004",
+      "location": "Cary, United States",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
     {
       "id": "34fb838731f427678df873c44627e547d9384e1c",
       "title": "Machine Learning Research Intern",

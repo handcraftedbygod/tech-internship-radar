@@ -2,21 +2,21 @@
   "slug": "1komma5grad",
   "name": "1Komma5Grad",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "baa03ca4eabf73631d00f78f259ba4d95512b90f",
+      "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347?utm_source=freehire.me",
+      "location": "Remote",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "04131e334ad1cf1ee46b1e2333828b4ab2ffdd50",
+      "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-104347",
+      "location": "Remote",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
     {
       "id": "cd6780729df39cf11d43f0645265c65dd9461496",
       "title": "(Junior) Data Engineer - Data Platform (m/f/d)",

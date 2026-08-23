@@ -2,7 +2,7 @@
   "europe": [
     {
       "name": "Ooak Data",
-      "oneLiner": "We turn company data into RL environnements.",
+      "oneLiner": "We turn company data into training data",
       "batch": "Summer 2026",
       "location": "Paris, Île-de-France, France",
       "url": "https://www.ycombinator.com/companies/ooak-data"
@@ -13,6 +13,13 @@
       "batch": "Spring 2026",
       "location": "Manchester, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/revnu"
+    },
+    {
+      "name": "Elyra",
+      "oneLiner": "AI Reservation System for Restaurants ",
+      "batch": "Spring 2026",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "url": "https://www.ycombinator.com/companies/elyra"
     },
     {
       "name": "Dayjob",
@@ -202,13 +209,6 @@
       "batch": "Winter 2025",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/sammy-labs"
-    },
-    {
-      "name": "Hey Telo",
-      "oneLiner": "Voice AI for Home Services",
-      "batch": "Winter 2025",
-      "location": "BY, Germany",
-      "url": "https://www.ycombinator.com/companies/hey-telo"
     }
   ],
   "northAmerica": [
@@ -262,18 +262,18 @@
       "url": "https://www.ycombinator.com/companies/traceforce"
     },
     {
+      "name": "Aktoria Robotics",
+      "oneLiner": "Human as API for robots",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/aktoria-robotics"
+    },
+    {
       "name": "Torus",
       "oneLiner": "Legora for physical engineering firms",
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/torus"
-    },
-    {
-      "name": "Rise Reforming",
-      "oneLiner": "We turn waste gases into valuable supply-secure chemicals ",
-      "batch": "Summer 2026",
-      "location": "Chicago, IL, USA",
-      "url": "https://www.ycombinator.com/companies/rise-reforming"
     },
     {
       "name": "Vestris",

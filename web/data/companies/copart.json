@@ -1,0 +1,52 @@
+{
+  "slug": "copart",
+  "name": "Copart",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-23T04:36:48.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "70da3c6ebf288d4ab8b2de3087ec86a4027cecd9",
+      "title": "QA Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "70e38348a7bb0f32c3c14c8c0c3ad93ec695fb9f",
+      "title": "DevOps Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    }
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "slug": "sumup",
-  "name": "SumUp",
+  "name": "sumup",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "product",
       "label": "Product",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "588a34e344d8689a405ac23f01ba06f36350acc6",
+      "title": "Product Engineer — Working Student",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/product-engineer-working-student-berlin-301119",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
     {
       "id": "e89042ef7bce7625b192ce70e97df4f7736de463",
       "title": "Product Engineer — Working Student",

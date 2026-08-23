@@ -2,14 +2,14 @@
   "slug": "intec-select",
   "name": "INTEC SELECT LIMITED",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad2308343b74b5a0621956d1e8985b7f9586ee67",
+      "title": "Junior Golang Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5846668993?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
     {
       "id": "d4ee1e762c5210798b84e65cd60ec05c1fbddca2",
       "title": "Junior Golang Developer",

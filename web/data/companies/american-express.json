@@ -2,11 +2,15 @@
   "slug": "american-express",
   "name": "American Express",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 5,
+  "totalPostings": 19,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 14
+    },
     {
       "hub": "New York",
       "count": 5
@@ -16,17 +20,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 8
     },
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -37,7 +41,7 @@
     0,
     0,
     0,
-    5,
+    19,
     0,
     0,
     0,
@@ -45,39 +49,74 @@
   ],
   "recentPostings": [
     {
-      "id": "b4356ae9c0f011a7a1c03f04077cdbd0cf09eee4",
+      "id": "48580482a1daeaf170964d473ef35f67dfd85a9e",
+      "title": "Product Management Intern, Global Merchant & Network Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "7174473aa2d6d27f029007f81a93a33d76b8c445",
       "title": "AI Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+      "location": "Sunrise, FL",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     },
     {
-      "id": "e86ee5c65776e44e64c43f1439f20a32890eec90",
+      "id": "a52b2088c31e2cae5929477a034fd43b5dae0708",
       "title": "AI Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     },
     {
-      "id": "a7ad3f054a5fe0a5cd642a4edd48a49ac7e9299e",
-      "title": "Software Engineer Intern, Technology",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+      "id": "28f75ac7f2887488b0ef08c6d1a4293bbf491f0d",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     },
     {
-      "id": "72a3135b30871bd0dc598b296252ba5364cff9b0",
+      "id": "7ee7280a105d77e70723cf744a277585cfea358a",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+      "location": "Sunrise, FL",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "eac109e98037322a1c49d1cdfb447aff0a0e0571",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "991ef209c18743ceb28ac03df10d28c05f7c10b8",
+      "title": "AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "480344ace199c9c5af6beba258d6bc244a588df6",
       "title": "Software Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     },
     {
-      "id": "ba32873ef6aba3f3284f590973146b949bb17903",
-      "title": "Product Management Intern",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
+      "id": "4daa3cbbf3df21020164293c6f8d8dab34353539",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "75dc0a6dcbabc905e0937f9ad6f7f8d5ca7bebe5",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+      "location": "Sunrise, FL",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "campbell-soup-company",
+  "name": "Campbell Soup Company",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-23T04:36:48.924Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "40abf445f9808c17a7a8603ecfbf87dadbff7038",
+      "title": "Data Engineer Intern, DA&AI Co-Op",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
+      "location": "Camden, NJ",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    },
+    {
+      "id": "931f517e5934a2cc1c96766fd04c1bf589d01a83",
+      "title": "Agentic AI Engineer Co-Op",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+      "location": "Remote",
+      "firstSeenAt": "2026-08-23T04:36:48.924Z"
+    }
+  ]
+}
