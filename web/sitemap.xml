@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ponytail: report URLs are listed by hand, add the new file here when weeklyReport.ts writes one -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://handcraftedbygod.github.io/tech-internship-radar/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://handcraftedbygod.github.io/tech-internship-radar/reports.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://handcraftedbygod.github.io/tech-internship-radar/reports/2026-08-02.html</loc>
+    <changefreq>never</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://handcraftedbygod.github.io/tech-internship-radar/reports/2026-08-09.html</loc>
+    <changefreq>never</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
