@@ -3,7 +3,11 @@ import type { RawJob, Job } from "../types/job.ts";
 import type { KeywordsConfig, LocationsConfig, SettingsConfig } from "../config/load.ts";
 
 function computeId(job: RawJob): string {
-  const basis = job.url?.trim() || `${job.company}|${job.title}|${job.location}`;
+  // company must match the trimmed value actually stored (see the Job push
+  // below) -- a source with inconsistent whitespace on the same listing
+  // (freehire does this) would otherwise hash a different id run to run for
+  // a URL-less job, creating a duplicate row instead of upserting it.
+  const basis = job.url?.trim() || `${job.company.trim()}|${job.title}|${job.location}`;
   return createHash("sha1").update(basis).digest("hex");
 }
 
