@@ -99,31 +99,37 @@ export function storeJobs(jobs: Job[], dbPath: string = DB_PATH): void {
     db.exec(SCHEMA);
     migrate(db);
     const stmt = db.prepare(UPSERT);
+    // BEGIN's own try/catch is scoped to start after BEGIN succeeds -- a
+    // failure in the setup above (schema/migration/prepare) has no active
+    // transaction, and an unconditional ROLLBACK there would itself throw
+    // ("cannot rollback - no transaction is active"), masking the real error.
     db.exec("BEGIN");
-    for (const job of jobs) {
-      stmt.run(
-        job.id,
-        job.externalId,
-        job.title,
-        job.company,
-        job.location,
-        job.country,
-        job.url,
-        job.source,
-        job.postedDate,
-        job.season ?? null,
-        job.advancedDegree ? 1 : null,
-        JSON.stringify(job.tags),
-        JSON.stringify(job.categories),
-        job.firstSeenAt,
-        job.fetchedAt,
-        job.fetchedAt,
-      );
+    try {
+      for (const job of jobs) {
+        stmt.run(
+          job.id,
+          job.externalId,
+          job.title,
+          job.company,
+          job.location,
+          job.country,
+          job.url,
+          job.source,
+          job.postedDate,
+          job.season ?? null,
+          job.advancedDegree ? 1 : null,
+          JSON.stringify(job.tags),
+          JSON.stringify(job.categories),
+          job.firstSeenAt,
+          job.fetchedAt,
+          job.fetchedAt,
+        );
+      }
+      db.exec("COMMIT");
+    } catch (err) {
+      db.exec("ROLLBACK");
+      throw err;
     }
-    db.exec("COMMIT");
-  } catch (err) {
-    db.exec("ROLLBACK");
-    throw err;
   } finally {
     db.close();
   }
