@@ -2,21 +2,21 @@
   "slug": "allscreens-nationwide",
   "name": "Allscreens Nationwide Ltd",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ed5019b8e15996281d1e8bb54894de4048fd403",
+      "title": "Graduate Data Engineer Trainee — Hybrid, Impactful Analytics",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__514668231__7082?geoID=31733&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wigan, United Kingdom",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "96ea258ee18c23fe86e105cb9b0fb1175b772471",
+      "title": "Graduate Trainee– Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__514668183__7082?geoID=31733&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wigan, United Kingdom",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "1ffeac59d8240821e9477e4680fba466e38e163e",
       "title": "Junior Data Engineer: Build Healthcare Data Pipelines",

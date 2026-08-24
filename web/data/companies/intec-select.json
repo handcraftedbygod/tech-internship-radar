@@ -2,25 +2,25 @@
   "slug": "intec-select",
   "name": "INTEC SELECT LIMITED",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,27 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56eeb60168254459c7a88e44fed60adbaf932f24",
+      "title": "Junior Golang Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5846665821?se=oMLV8R-f8RGkw7aNMMxh3Q&utm_medium=api&utm_source=freehire.me&v=B4593478AEB9496D0E05A29FA8C78EC780C58B76",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "ef1c2d3ccba1e5a997ade462d4a5cf0fc12824bc",
+      "title": "Junior Golang Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5849542091?utm_medium=api&utm_source=freehire.me",
+      "location": "Chequers Centre, Maidstone",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "ad2308343b74b5a0621956d1e8985b7f9586ee67",
       "title": "Junior Golang Developer",

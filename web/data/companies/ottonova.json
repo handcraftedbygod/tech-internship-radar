@@ -1,22 +1,22 @@
 {
   "slug": "ottonova",
-  "name": "ottonova",
+  "name": "Ottonova",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "087efd292542752ff6dd1646e3bc802c5124a18d",
+      "title": "Junior Software Engineer (m/f/d) - focus on iOS",
+      "url": "https://www.arbeitnow.com/jobs/companies/ottonova/junior-software-engineer-focus-on-ios-munchen-455964",
+      "location": "München",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "bdcae7425309df881bc1d6e1e4975db137d037ea",
       "title": "Junior Software Engineer (m/w/d) - Schwerpunkt iOS",

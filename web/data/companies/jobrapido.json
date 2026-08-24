@@ -2,17 +2,17 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Madrid",
-      "count": 8
+      "hub": "Other",
+      "count": 9
     },
     {
-      "hub": "Other",
+      "hub": "Madrid",
       "count": 8
     },
     {
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    17,
+    18,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08b5b4bd437bfa02d3b1fd49260da0ae0f9c20c2",
+      "title": "Junior DevOps & Cloud Engineer - euskadi",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345166277__7107?geoID=9570&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Bilbao, Spain",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "934e9e0e56d9f0d4ea80d95af06bad79842b13d2",
       "title": "Data Engineer (internship - Graduate Program) - OgilvyES",
@@ -107,13 +114,6 @@
       "id": "902cd953a0e86bf1a40c8643e912a424afafb3b8",
       "title": "Junior Data Engineer | Bi & Data - Compañía Digital Sector Fintech - Distrito Moncloa-Aravaca",
       "url": "https://es.whatjobs.com/pub_api__cpl__343436775__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "6be93eab5b9574e55b9f6d5e0257dcb37581f5ee",
-      "title": "Data Engineer Junior (Google Cloud & IA) - NEVERHACK Spain",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343711164__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

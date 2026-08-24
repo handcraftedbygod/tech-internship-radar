@@ -2,25 +2,25 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 20,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 27,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 14
+    },
     {
       "hub": "Berlin",
       "count": 13
-    },
-    {
-      "hub": "Other",
-      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 25
+      "count": 27
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,27 @@
     0,
     0,
     0,
-    25,
+    27,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27e9c81e95c65bb80cdac6307d3acba24cff57fd",
+      "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5851140037?se=zg5-sVuf8RGZfcGiONvJew&utm_medium=api&utm_source=freehire.me&v=EA154FB63C78E448BAB65DD138DE0392045AC947",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "e9aaee01cf0fdf8797ce20c3f55f374c5e738681",
+      "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5851140055?se=ZLNj8B-f8RGuhb29SBmEeQ&utm_medium=api&utm_source=freehire.me&v=FD3CC9275D0AD7056244DBA1AAA674E4C6C63F96",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "a198c6c26fb632a2942a520ad8734ccb355ece2a",
       "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
@@ -91,20 +105,6 @@
       "id": "e5178c03595bbefde63fd854e8e8088cc7c079b4",
       "title": "Trainee Data Engineer / Data Scientist (m/w/d)",
       "url": "https://de.whatjobs.com/pub_api__cpl__478148692__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "e6bfa2735505b36abd9b903ec68739e4a30e108b",
-      "title": "Trainee Data Scientist / Data Engineering (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148730__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "e3d458ad656096c7d95090361e67d31b9aef7b9a",
-      "title": "Wirtschaftsinformatiker als Trainee Data Engineering SAP / Azure (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148698__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

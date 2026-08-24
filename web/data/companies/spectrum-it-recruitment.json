@@ -2,21 +2,25 @@
   "slug": "spectrum-it-recruitment",
   "name": "Spectrum IT Recruitment",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd7d5be87b6463163f175c735b2d67e5a0c171fa",
+      "title": "Junior Software Developer - Trading",
+      "url": "https://www.adzuna.co.uk/jobs/details/5849542167?utm_medium=api&utm_source=freehire.me",
+      "location": "Chilworth Science Park, Chilworth",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "3c68b1d99c9c75c19a1f44702b060f465c1c8a91",
       "title": "Junior Software Developer - Trading",

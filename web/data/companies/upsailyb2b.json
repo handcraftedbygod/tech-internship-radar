@@ -1,0 +1,52 @@
+{
+  "slug": "upsailyb2b",
+  "name": "Upsaily.b2b",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-24T04:44:21.499Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Krakow",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d850672a415404d327dddb5f1086b4182be9eb9b",
+      "title": "Junior DevOps Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28929154__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "5b9d64ae333f77138668b2077d30281f1ca0de1f",
+      "title": "Remote Junior DevOps Engineer - Cloud & CI/CD",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28929170__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    }
+  ]
+}

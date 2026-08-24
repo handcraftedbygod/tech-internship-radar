@@ -1,22 +1,22 @@
 {
   "slug": "jobcubby",
-  "name": "Jobcubby",
+  "name": "JobCubby",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4dbaf8e76a7b5f40dafe227eb2c61102bf32e496",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28929025__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "68c48c7ee1b887866e5bdeee82dea3df76610a08",
+      "title": "Junior Java Developer — Flexible Hours, Spring & Impact",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28929105__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "5c4ad51eba75d2779ee5c34dad4e92841f6b49aa",
       "title": "Junior Java Developer (Spring) — Flexible Hours",

@@ -1,13 +1,6 @@
 {
   "europe": [
     {
-      "name": "Ooak Data",
-      "oneLiner": "We turn company data into training data",
-      "batch": "Summer 2026",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.ycombinator.com/companies/ooak-data"
-    },
-    {
       "name": "Revnu",
       "oneLiner": "The growth infrastructure for the autonomous business",
       "batch": "Spring 2026",
@@ -209,6 +202,13 @@
       "batch": "Winter 2025",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/sammy-labs"
+    },
+    {
+      "name": "Hey Telo",
+      "oneLiner": "Voice AI for Home Services",
+      "batch": "Winter 2025",
+      "location": "BY, Germany",
+      "url": "https://www.ycombinator.com/companies/hey-telo"
     }
   ],
   "northAmerica": [
@@ -267,6 +267,13 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/aktoria-robotics"
+    },
+    {
+      "name": "Ooak Data",
+      "oneLiner": "We turn company data into training data",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/ooak-data"
     },
     {
       "name": "Torus",
@@ -414,13 +421,6 @@
       "batch": "Spring 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/agentphone"
-    },
-    {
-      "name": "ANORIA",
-      "oneLiner": "The first wearable that reads your emotions to enhance your EQ. ",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/anoria"
     }
   ]
 }

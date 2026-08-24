@@ -2,21 +2,21 @@
   "slug": "b-ttcher",
   "name": "Böttcher AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d98726d4682cf821dde3ea5dfe5ee9efbe06b5e",
+      "title": "Junior Backend-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003579308-S?utm_source=freehire.me",
+      "location": "Zöllnitz bei Jena, THUERINGEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "3ea50be632b8c1e189a0d4191e9add4bc838a3af",
       "title": "Junior Backend-Entwickler (m/w/d)",

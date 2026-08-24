@@ -2,26 +2,26 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 8,
+  "totalPostings": 12,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 9
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,13 +32,41 @@
     0,
     0,
     0,
-    8,
+    12,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6c02a6a09f4f03263220779c422d4bcae805d5d",
+      "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
+      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-linux-c-java-london/57267408",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "6489f13c0e78b583719bdaf436f3dcaafe220162",
+      "title": "Graduate / Junior Developer, Python, JavaScript, PHP - London",
+      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-javascript-php-london/57267434",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "5c463e91e2ec897fd9ed6302bb45fc1cefe116b1",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57267372",
+      "location": "EC3R8EE",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
+    {
+      "id": "585ca2f28b3b969898972bf942582780f5b0b5af",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57267425",
+      "location": "M11AR",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "5718668b60909550061c1fbd30a685505c5d988c",
       "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
@@ -78,20 +106,6 @@
       "id": "908ec6aff7a2321818eeb42b0fb02efd61a11c9d",
       "title": "Graduate / Junior Developer, Python, JavaScript, PHP - London",
       "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-javascript-php-london/57160881",
-      "location": "EC3R8EE",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "99433e7a057c98bfca342dc1275e60e469b913b4",
-      "title": ".NET Developer, Graduate / Junior",
-      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57160887",
-      "location": "M11AR",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "04fa6da137b42f8128c3cc653e16bd07fee926fb",
-      "title": ".NET Developer, Graduate / Junior",
-      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57160869",
       "location": "EC3R8EE",
       "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }

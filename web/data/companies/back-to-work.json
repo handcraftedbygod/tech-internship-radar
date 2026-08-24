@@ -2,21 +2,21 @@
   "slug": "back-to-work",
   "name": "Back TO Work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6476fc154d38ce493f9678e9be0f98b2a2d4c395",
+      "title": "Junior Cybersecurity & Networking Technician",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5849614909?se=8KdHtFuf8RGEK9FY8gse-g&utm_medium=api&utm_source=freehire.me&v=0A985BA3F522C358DCC910D5C318F641F01A84A7",
+      "location": "Wolverley Village, Wolverley",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "d8cc31ca30e20027601424fd0fe37c5c0a6dcb43",
       "title": "Junior Cybersecurity & Networking Technician",

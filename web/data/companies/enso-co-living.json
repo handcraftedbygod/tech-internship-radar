@@ -2,21 +2,21 @@
   "slug": "enso-co-living",
   "name": "Enso Co-living",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "10cd44ddfbed12e92ddd28e9d5525ea060c023e2",
+      "title": "Full-Stack Developer Intern: Build Real Features",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345129461__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "48b0dd5a2dde9b060ecb906b66cf703f98ec92a1",
       "title": "Full Stack Developer Intern - Enso Co-living",

@@ -2,21 +2,21 @@
   "slug": "poppe-potthoff",
   "name": "Poppe + Potthoff GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24f02491eb7a49f6d92a1f069975878949097235",
+      "title": "Junior Data Engineer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5853258545?se=BBjlvMOe8RGfQpohglHoaw&utm_medium=api&utm_source=freehire.me&v=66E8BD3112F2FF7FE92D5178824222C0569451E3",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "d69bd5a96b4cd1fedf85245ce1ef2b7ccb10ee7d",
       "title": "Junior Data Engineer (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "qa",
   "name": "QA",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09be7ab773d0ea713cc0438cdd52cb4b12af39cb",
+      "title": "Junior Data Analyst Apprentice",
+      "url": "https://www.adzuna.co.uk/jobs/details/5847311932?utm_medium=api&utm_source=freehire.me",
+      "location": "Elland, West Yorkshire",
+      "firstSeenAt": "2026-08-24T04:44:21.499Z"
+    },
     {
       "id": "f2ed3f5643817afa6dd42e612d1160ea1ad25e24",
       "title": "Junior Data Analyst Apprentice",
