@@ -1,0 +1,52 @@
+{
+  "slug": "qonto",
+  "name": "Qonto",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-24T21:11:48.426Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "38538da7658f9f28d88e3de62ca128e972e1d744",
+      "title": "Legal Intern - Product & AI",
+      "url": "https://jobs.lever.co/qonto/354fa50e-2741-4936-82f5-0d1ce5fb8be3",
+      "location": "Paris",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
+    {
+      "id": "9724077632c9cf7c1dd447333eb214337f0726e9",
+      "title": "Legal Intern - Commercial",
+      "url": "https://jobs.lever.co/qonto/ba688ab4-66b1-4d6a-9aa7-537e191ea392",
+      "location": "Paris",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    }
+  ]
+}

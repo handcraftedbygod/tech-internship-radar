@@ -2,21 +2,21 @@
   "slug": "bloxd",
   "name": "Bloxd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4dd4de354768180027bcd686322ce1a8c6f5c24e",
+      "title": "New Grad Software Engineer",
+      "url": "https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "3fb6c3f01507f96334c31e3d9f646a6f6e5bf6a0",
       "title": "Software Engineering Intern",

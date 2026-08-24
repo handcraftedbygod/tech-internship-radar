@@ -2,9 +2,9 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 14.6,
   "topLocations": [
     {
@@ -13,19 +13,19 @@
     },
     {
       "hub": "Helsinki",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
       "id": "biz",
       "label": "Business",
       "count": 3
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,27 @@
     0,
     0,
     3,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d05ddeab2ac9fd5db427639a579b9d330e43a2ce",
+      "title": "Junior Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8147122?utm_source=freehire.me",
+      "location": "Helsinki, Finland",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
+    {
+      "id": "93058327dae3f6587610113995e37132a3ef335f",
+      "title": "Junior Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8147122",
+      "location": "Helsinki, Finland",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "5a1520fd1868e25b6cd65ac56b7455ced1f516e2",
       "title": "Ads & Promotions Intern",

@@ -2,14 +2,14 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 27,
+  "totalPostings": 28,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 27
+      "count": 28
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    27,
+    28,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a7a478b368a21fc16ed52b16289b9e1ca69e5378",
+      "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5851140037?se=Fn1F4YWf8RGudvrwySLB7g&utm_medium=api&utm_source=freehire.me&v=EA154FB63C78E448BAB65DD138DE0392045AC947",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "27e9c81e95c65bb80cdac6307d3acba24cff57fd",
       "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
@@ -98,13 +105,6 @@
       "id": "d200d13fe7205094af8c377c38d47db2409b4e43",
       "title": "Wirtschaftsinformatiker als Trainee Data Engineer - SAP Analytics Cloud (m/w/d)",
       "url": "https://de.whatjobs.com/pub_api__cpl__478148693__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "e5178c03595bbefde63fd854e8e8088cc7c079b4",
-      "title": "Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148692__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

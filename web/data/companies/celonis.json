@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 33,
+  "totalPostings": 35,
   "avgPostingDurationDays": 25.1,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Munich",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "New York",
@@ -28,12 +28,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 16
+      "count": 17
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -54,13 +54,27 @@
     0,
     0,
     27,
-    6,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5d1ee8bd0b267858e45efd899c757b63d03b165",
+      "title": "Marketing Database Operations Graduated Internship (12 months)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7913331003?gh_jid=7913331003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
+    {
+      "id": "7970999c048a03d19386ecdab7d8339848a720d0",
+      "title": "Intern Technology & Management Consulting (Value Engineering)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "47183814f3994a48b3eb5cfcf6e8dbbe0adf2788",
       "title": "Intern / Working Student Online Training Translation (Korean speaking)",
@@ -115,20 +129,6 @@
       "title": "Intern Payroll & HR Administration (EMEA & APJ)",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7643399003?gh_jid=7643399003",
       "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
-    },
-    {
-      "id": "8233cd1999efa50768e4e042e06f9037609c404f",
-      "title": "Intern AI & Management Consulting (Competitive Engagement)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7807025003?gh_jid=7807025003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
-    },
-    {
-      "id": "ae5c4528ec8958efd6593a2bc2c8c1a7de5fdc2c",
-      "title": "Employment Law Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7767361003?gh_jid=7767361003",
-      "location": "Madrid, Spain",
       "firstSeenAt": "2026-07-31T06:42:23.386Z"
     }
   ]

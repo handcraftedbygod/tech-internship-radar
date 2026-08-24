@@ -2,13 +2,17 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Lodz",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a677bac1424b5029d83c4b94f874a5a08afda73",
+      "title": "Junior OT Cybersecurity Specialist/ (Industrial Control Systems / DCS Security)",
+      "url": "https://careers.abb/global/en/job/ABB1GLOBALJR00042770EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Wroclaw, Lower Silesian",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "af685e017fb462dbd28f96142afd9d66f8b933a3",
       "title": "Student Internship: Software Testing",

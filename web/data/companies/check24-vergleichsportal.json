@@ -2,21 +2,21 @@
   "slug": "check24-vergleichsportal",
   "name": "CHECK24 Vergleichsportal GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c37849249d83944af4200d7e8d26bbd7734f5d5",
+      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145289358--junior-data-analyst-bi-analyst-m-w-d-reise?utm_source=freehire.me",
+      "location": "Leipzig, Sachsen, de",
+      "firstSeenAt": "2026-08-24T21:11:48.426Z"
+    },
     {
       "id": "c56ccd1f8c0f05cc08619820a3db3675bccc07f0",
       "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",
