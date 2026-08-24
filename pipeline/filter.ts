@@ -224,9 +224,8 @@ export function filterJobs(
     if (!matchesLocation(raw, locations)) continue;
     if (!isRecentEnough(raw, settings.maxAgeDays)) continue;
 
-    const { descriptionText, ...rest } = raw;
     jobs.push({
-      ...rest,
+      ...raw,
       // freehire's aggregation sometimes carries a leading/trailing space on
       // the company name (e.g. " nology") -- cosmetic, but shows up verbatim
       // anywhere the name is displayed.

@@ -15,7 +15,7 @@ export interface RawJob {
   descriptionText?: string;
 }
 
-export interface Job extends Omit<RawJob, "descriptionText"> {
+export interface Job extends RawJob {
   id: string;
   tags: string[];
   categories: string[];

@@ -1,7 +1,7 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync, rmSync } from "node:fs";
 import path from "node:path";
 import { openDb } from "./store.ts";
-import { loadTiers, tierForCompany, loadCompanyAliases } from "../config/load.ts";
+import { loadTiers, tierForCompany, loadCompanyAliases, loadSettings } from "../config/load.ts";
 import { companySlug, buildCompanySummaries, type CompanyJobRow } from "./company.ts";
 
 const OUT_PATH = path.join(import.meta.dirname, "..", "web", "data", "jobs.json");
@@ -10,6 +10,8 @@ const META_PATH = path.join(import.meta.dirname, "..", "web", "data", "meta.json
 const COMPANIES_DIR = path.join(import.meta.dirname, "..", "web", "data", "companies");
 const FEED_PATH = path.join(import.meta.dirname, "..", "web", "feed.xml");
 const FEED_HTML_PATH = path.join(import.meta.dirname, "..", "web", "feed.html");
+const JOBS_DIR = path.join(import.meta.dirname, "..", "web", "jobs");
+const JOBS_SITEMAP_PATH = path.join(import.meta.dirname, "..", "web", "sitemap-jobs.xml");
 const SITE_URL = "https://handcraftedbygod.github.io/tech-internship-radar/";
 
 interface FeedJob {
@@ -138,6 +140,7 @@ interface JobRow {
   tags: string;
   categories: string;
   first_seen_at: string;
+  description: string | null;
 }
 
 interface ClosedRow {
@@ -157,6 +160,130 @@ const CLOSED_LIMIT = 20;
 // at "notable" was tried and buried enviable misses (Databricks, Stripe)
 // under routine closures (see .hermes/plans backlog notes).
 const MISSED_IT_TIERS = ["trading", "elite"];
+
+// Google requires JobPosting structured data to live on its own "leaf" page,
+// never on a listing page with multiple postings -- doing otherwise risks a
+// Search Console structured-data policy violation / manual action against
+// the whole site. So each job with source-provided description text (not
+// every fetcher captures one -- see fetchers/*.ts) gets its own static page
+// here, separate from the existing SPA (index.html/app.js never link to
+// these; they exist purely for search engines and whoever clicks through
+// from one).
+function decodeEntities(text: string): string {
+  return text
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;/gi, "'");
+}
+
+// Some sources (e.g. Greenhouse's `content` field) come back double
+// HTML-escaped -- a real "<p>" arrives as the literal text "&lt;p&gt;" -- so
+// entities are decoded once up front to reveal any such tags before
+// stripping, then decoded again afterward to clean up entities that were
+// themselves inside those now-revealed tags (e.g. "&amp;amp;" -> "&amp;" ->
+// "&"). A no-op on already-plain HTML, so this is safe for both.
+export function cleanDescription(raw: string): string {
+  const revealed = decodeEntities(raw);
+  const stripped = revealed
+    .replace(/<\/(p|div|li|h[1-6])>/gi, "\n\n")
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<[^>]+>/g, "");
+  return decodeEntities(stripped)
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+interface JobPostingEntry {
+  loc: string;
+  lastmod: string;
+}
+
+function buildJobPostingPage(row: JobRow, description: string, maxAgeDays: number): string {
+  const loc = `${SITE_URL}jobs/${row.id}.html`;
+  const datePosted = row.posted_date ?? row.first_seen_at;
+  const validThrough = new Date(new Date(datePosted).getTime() + maxAgeDays * 24 * 60 * 60 * 1000).toISOString();
+  const isRemote = /remote/i.test(row.location);
+
+  const jsonLd: Record<string, unknown> = {
+    "@context": "https://schema.org/",
+    "@type": "JobPosting",
+    title: row.title,
+    description,
+    datePosted,
+    validThrough,
+    identifier: { "@type": "PropertyValue", name: row.company, value: row.id },
+    hiringOrganization: { "@type": "Organization", name: row.company },
+    jobLocation: {
+      "@type": "Place",
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: row.location,
+        ...(row.country ? { addressCountry: row.country } : {}),
+      },
+    },
+    ...(isRemote ? { jobLocationType: "TELECOMMUTE" } : {}),
+  };
+
+  const paragraphs = description
+    .split("\n\n")
+    .map((p) => `<p>${escapeXml(p).replace(/\n/g, "<br />")}</p>`)
+    .join("\n      ");
+
+  return `<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>${escapeXml(row.title)} at ${escapeXml(row.company)} — Tech Internship Radar</title>
+  <meta name="description" content="${escapeXml(`${row.title} at ${row.company} — ${row.location}`)}" />
+  <link rel="canonical" href="${loc}" />
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+  <script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+</head>
+<body>
+  <p><a href="../index.html">&larr; Tech Internship Radar</a></p>
+  <h1>${escapeXml(row.title)}</h1>
+  <p>${escapeXml(row.company)} — ${escapeXml(row.location)}</p>
+  <p><a href="${escapeXml(row.url)}" rel="noopener">Apply on ${escapeXml(row.source)}</a></p>
+  <div>
+      ${paragraphs}
+  </div>
+</body>
+</html>
+`;
+}
+
+function writeJobsSitemap(entries: JobPostingEntry[]): void {
+  const body = entries
+    .map((e) => `  <url>\n    <loc>${e.loc}</loc>\n    <lastmod>${e.lastmod}</lastmod>\n    <changefreq>daily</changefreq>\n  </url>`)
+    .join("\n");
+  writeFileSync(
+    JOBS_SITEMAP_PATH,
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${body}\n</urlset>\n`,
+  );
+}
+
+// Regenerated from scratch every run (not upserted) so a job that closes or
+// stops matching loses its page immediately -- leaving a stale JobPosting
+// page live past its validThrough is exactly what Google's freshness
+// guidelines warn against.
+function writeJobPostingPages(rows: JobRow[], maxAgeDays: number): void {
+  rmSync(JOBS_DIR, { recursive: true, force: true });
+  mkdirSync(JOBS_DIR, { recursive: true });
+
+  const entries: JobPostingEntry[] = [];
+  for (const row of rows) {
+    const description = row.description ? cleanDescription(row.description) : "";
+    if (!description) continue;
+    writeFileSync(path.join(JOBS_DIR, `${row.id}.html`), buildJobPostingPage(row, description, maxAgeDays));
+    entries.push({ loc: `${SITE_URL}jobs/${row.id}.html`, lastmod: row.first_seen_at });
+  }
+  writeJobsSitemap(entries);
+}
 
 export function exportJson(): number {
   const db = openDb();
@@ -234,6 +361,12 @@ export function exportJson(): number {
     writeFileSync(META_PATH, JSON.stringify({ generatedAt: new Date().toISOString() }, null, 2));
     writeFileSync(FEED_PATH, buildFeed(jobs));
     writeFileSync(FEED_HTML_PATH, buildFeedHtml(jobs));
+
+    // Same scope as jobs.json (categories.length > 0) -- a job-detail page
+    // should exist only for what's actually shown as a live listing.
+    const jobIds = new Set(jobs.map((j) => j.id));
+    writeJobPostingPages(rows.filter((row) => jobIds.has(row.id)), loadSettings().maxAgeDays);
+
     return jobs.length;
   } finally {
     db.close();

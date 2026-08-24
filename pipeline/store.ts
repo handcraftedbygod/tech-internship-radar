@@ -23,7 +23,8 @@ CREATE TABLE IF NOT EXISTS jobs (
   first_seen_at TEXT NOT NULL,
   last_seen_at  TEXT NOT NULL,
   fetched_at    TEXT NOT NULL,
-  closed_at     TEXT
+  closed_at     TEXT,
+  description   TEXT
 );
 CREATE INDEX IF NOT EXISTS idx_jobs_company ON jobs(company);
 CREATE INDEX IF NOT EXISTS idx_jobs_source ON jobs(source);
@@ -39,8 +40,8 @@ CREATE INDEX IF NOT EXISTS idx_jobs_closed ON jobs(closed_at);
 `;
 
 const UPSERT = `
-INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, season, advanced_degree, tags, categories, first_seen_at, last_seen_at, fetched_at)
-VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+INSERT INTO jobs (id, external_id, title, company, location, country, url, source, posted_date, season, advanced_degree, tags, categories, first_seen_at, last_seen_at, fetched_at, description)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(id) DO UPDATE SET
   external_id = excluded.external_id,
   title = excluded.title,
@@ -56,6 +57,7 @@ ON CONFLICT(id) DO UPDATE SET
   categories = excluded.categories,
   last_seen_at = excluded.last_seen_at,
   fetched_at = excluded.fetched_at,
+  description = excluded.description,
   -- A previously-archived listing that shows up again is live once more, so it
   -- must leave the "Missed It" archive rather than appear in both places.
   closed_at = NULL;
@@ -68,6 +70,7 @@ const ADDED_COLUMNS = [
   { name: "season", type: "TEXT" },
   { name: "advanced_degree", type: "INTEGER" },
   { name: "closed_at", type: "TEXT" },
+  { name: "description", type: "TEXT" },
 ];
 
 // ponytail: salary turned out not to be worth showing (near-always empty --
@@ -123,6 +126,7 @@ export function storeJobs(jobs: Job[], dbPath: string = DB_PATH): void {
           job.firstSeenAt,
           job.fetchedAt,
           job.fetchedAt,
+          job.descriptionText ?? null,
         );
       }
       db.exec("COMMIT");
