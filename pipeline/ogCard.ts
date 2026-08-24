@@ -95,6 +95,10 @@ export function buildOgHtml(report: WeeklyReport, imageUrl: string, pageUrl: str
     descriptionParts.push(`Standout: ${report.headline.title} at ${report.headline.company} — ${payRangeText(report.headline)}.`);
   }
   const description = descriptionParts.join(" ");
+  // reports.html now shows one week at a time (a chip picker, not an
+  // endless stack), so the redirect must ask for this specific week or a
+  // shared link would land on whatever's most recent instead.
+  const redirectUrl = `../reports.html?week=${encodeURIComponent(report.weekOf)}`;
 
   return `<!doctype html>
 <html lang="en">
@@ -111,12 +115,12 @@ export function buildOgHtml(report: WeeklyReport, imageUrl: string, pageUrl: str
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(description)}">
 <meta name="twitter:image" content="${esc(imageUrl)}">
-<meta http-equiv="refresh" content="0; url=../reports.html">
-<link rel="canonical" href="../reports.html">
+<meta http-equiv="refresh" content="0; url=${esc(redirectUrl)}">
+<link rel="canonical" href="${esc(redirectUrl)}">
 </head>
 <body>
-<p><a href="../reports.html">Continue to the weekly reports page</a>…</p>
-<script>location.replace("../reports.html");</script>
+<p><a href="${esc(redirectUrl)}">Continue to the weekly reports page</a>…</p>
+<script>location.replace(${JSON.stringify(redirectUrl)});</script>
 </body>
 </html>
 `;

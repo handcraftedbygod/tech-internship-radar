@@ -258,6 +258,25 @@ a.brand { text-decoration: none; }
   font-size: 26px;
   margin-top: 6px;
 }
+/* Report cards show every value at the same size (unlike the hero strip
+   above, which only ever holds 4 short values) -- so a longer one like
+   "30 EU / 30 NA" needs its cell to size to its content instead of being
+   force-stretched to match its neighbors and wrapping mid-word. */
+.report-card .stat-cell {
+  flex: 0 0 auto;
+}
+.report-card .stat-value {
+  white-space: nowrap;
+}
+/* Same font-size as every other stat-value, but Bodoni Moda's "$", "/", and
+   ascenders (the "t"/"h" in "Winter"/"h") draw taller than plain digits do
+   at that size, so text-valued stats (as opposed to a plain count like
+   "614") read as visibly bigger even though no CSS size actually differs --
+   confirmed via computed styles, not guessed. Nudged down slightly to
+   compensate for that optical difference, not a real inconsistency. */
+.stat-value--text {
+  font-size: 22px;
+}
 
 .hero-globe {
   position: relative;
@@ -708,7 +727,14 @@ a.brand { text-decoration: none; }
   padding: 11px 0;
   border-bottom: 1px solid rgba(244,247,249,0.06);
 }
-.bar-label { font-size: 10.5px; letter-spacing: 0.1em; color: rgba(244,247,249,0.7); }
+.bar-label {
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  color: rgba(244,247,249,0.7);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 .bar-track {
   height: 9px;
   background-image: radial-gradient(rgba(244,247,249,0.16) 1px, transparent 1.2px);

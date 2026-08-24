@@ -5,10 +5,14 @@ function escapeHtml(str) {
 const els = {
   empty: document.getElementById("reports-empty"),
   list: document.getElementById("reports-list"),
+  picker: document.getElementById("week-picker"),
 };
 
 // Mirrors app.js's inline bar-row template -- same .bar-row/.bar-track/
-// .bar-fill classes used everywhere else on the site.
+// .bar-fill classes used everywhere else on the site. .bar-label truncates
+// with an ellipsis in its fixed-width column (see style.css), so long names
+// like "Hudson River Trading" get a title tooltip for the full text instead
+// of wrapping the row onto two lines.
 function barsHtml(entries) {
   const max = entries.reduce((m, e) => Math.max(m, e.n), 1);
   return entries
@@ -16,7 +20,7 @@ function barsHtml(entries) {
       const w = Math.max(4, Math.round((e.n / max) * 100)) + "%";
       return `
         <div class="bar-row">
-          <span class="bar-label">${escapeHtml(e.label)}</span>
+          <span class="bar-label" title="${escapeHtml(e.label)}">${escapeHtml(e.label)}</span>
           <span class="bar-track"><span class="bar-fill" style="width:${w}"></span></span>
           <span class="bar-count">${e.n}</span>
         </div>`;
@@ -39,7 +43,7 @@ function reportCardHtml(report) {
   const hubBars = barsHtml(report.topHubs.map((h) => ({ label: h.hub.toUpperCase(), n: h.count })));
   const companyBars = barsHtml(report.topCompanies.map((c) => ({ label: c.name.toUpperCase(), n: c.count })));
   const notableHiring = report.notableHiring || [];
-  const notableBars = barsHtml(notableHiring.map((c) => ({ label: `${c.name.toUpperCase()} · ${c.badge}`, n: c.count })));
+  const notableBars = barsHtml(notableHiring.map((c) => ({ label: c.name.toUpperCase(), n: c.count })));
   const discipline = report.fastestGrowingDiscipline;
   const yc = report.ycHiring;
   const ycTotal = yc ? yc.europe + yc.northAmerica : 0;
@@ -52,6 +56,7 @@ function reportCardHtml(report) {
         <span class="signal-track-label">${escapeHtml(pctLabel(report.pctChange))} VS. PRIOR WEEK</span>
       </div>
       ${report.headline ? `
+      <div class="signal-track-label" style="padding-bottom:6px">THIS WEEK'S STANDOUT</div>
       <a href="${escapeHtml(report.headline.url)}" target="_blank" rel="noreferrer" style="display:block;padding-bottom:18px;">
         ${report.headline.badge ? `<span class="signal-pill">${escapeHtml(report.headline.badge)}</span> ` : ""}
         <span class="row-role" style="font-size:14px">${escapeHtml(report.headline.title)} at ${escapeHtml(report.headline.company)}</span>
@@ -68,8 +73,8 @@ function reportCardHtml(report) {
         </div>
         ${typeof report.totalTracked === "number" ? `
         <div class="stat-cell">
-          <div class="stat-label">TRACKED SINCE LAUNCH</div>
-          <div class="stat-value" style="font-size:18px">${report.totalTracked.toLocaleString()}</div>
+          <div class="stat-label">TOTAL LISTINGS</div>
+          <div class="stat-value">${report.totalTracked.toLocaleString()}</div>
         </div>` : ""}
         ${report.newCompanies && report.newCompanies.totalCount ? `
         <div class="stat-cell">
@@ -79,22 +84,22 @@ function reportCardHtml(report) {
         ${ycTotal ? `
         <div class="stat-cell">
           <div class="stat-label">YC STARTUPS HIRING</div>
-          <div class="stat-value" style="font-size:18px">${yc.europe} EU / ${yc.northAmerica} NA</div>
+          <div class="stat-value stat-value--text">${yc.europe} EU / ${yc.northAmerica} NA</div>
         </div>` : ""}
         ${report.topPay ? `
         <div class="stat-cell">
           <div class="stat-label">TOP PAY</div>
-          <div class="stat-value" style="font-size:18px" title="${escapeHtml(report.topPay.title)} at ${escapeHtml(report.topPay.company)}">${formatPayRange(report.topPay)}</div>
+          <div class="stat-value stat-value--text" title="${escapeHtml(report.topPay.title)} at ${escapeHtml(report.topPay.company)}">${formatPayRange(report.topPay)}</div>
         </div>` : ""}
         ${report.earlyPick ? `
         <div class="stat-cell">
           <div class="stat-label">EARLY BIRD</div>
-          <div class="stat-value" style="font-size:18px" title="${escapeHtml(report.earlyPick.title)} at ${escapeHtml(report.earlyPick.company)}">${escapeHtml(report.earlyPick.season)}</div>
+          <div class="stat-value stat-value--text" title="${escapeHtml(report.earlyPick.title)} at ${escapeHtml(report.earlyPick.company)}">${escapeHtml(report.earlyPick.season)}</div>
         </div>` : ""}
         ${discipline ? `
         <div class="stat-cell">
           <div class="stat-label">FASTEST GROWING</div>
-          <div class="stat-value" style="font-size:18px">${escapeHtml(discipline.label)}</div>
+          <div class="stat-value stat-value--text">${escapeHtml(discipline.label)}</div>
         </div>` : ""}
       </div>
       ${notableHiring.length || report.topHubs.length || report.topCompanies.length ? `
@@ -119,6 +124,47 @@ const brandLink = document.getElementById("brand-link");
 if (backLink) backLink.addEventListener("click", smartBack);
 if (brandLink) brandLink.addEventListener("click", smartBack);
 
+// "2026-08-16" -> "AUG 16". T00:00:00Z + timeZone:"UTC" so a viewer west of
+// UTC doesn't see the date roll back a day.
+function weekChipLabel(weekOf) {
+  return new Date(`${weekOf}T00:00:00Z`)
+    .toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })
+    .toUpperCase();
+}
+
+let allReports = [];
+let activeWeek = null;
+
+function renderPicker() {
+  els.picker.innerHTML = allReports
+    .map(
+      (r) =>
+        `<button type="button" class="chip${r.weekOf === activeWeek ? " active" : ""}" data-week="${r.weekOf}">${weekChipLabel(r.weekOf)}</button>`,
+    )
+    .join("");
+}
+
+function renderActiveCard() {
+  const report = allReports.find((r) => r.weekOf === activeWeek);
+  els.list.innerHTML = report ? reportCardHtml(report) : "";
+}
+
+function selectWeek(weekOf) {
+  activeWeek = weekOf;
+  const url = new URL(location.href);
+  url.searchParams.set("week", weekOf);
+  history.replaceState(null, "", url);
+  renderPicker();
+  renderActiveCard();
+}
+
+if (els.picker) {
+  els.picker.addEventListener("click", (e) => {
+    const btn = e.target.closest(".chip");
+    if (btn) selectWeek(btn.dataset.week);
+  });
+}
+
 fetch("./data/reports.json")
   .then((res) => res.json())
   .then((reports) => {
@@ -126,7 +172,14 @@ fetch("./data/reports.json")
       els.empty.hidden = false;
       return;
     }
-    els.list.innerHTML = reports.map(reportCardHtml).join("");
+    allReports = reports;
+    // reports.json is newest-first (see weeklyReport.ts), so reports[0] is
+    // the default -- unless the URL asks for a specific week (e.g. shared
+    // from that week's og:image link, see ogCard.ts's buildOgHtml()).
+    const requested = new URLSearchParams(location.search).get("week");
+    activeWeek = requested && reports.some((r) => r.weekOf === requested) ? requested : reports[0].weekOf;
+    renderPicker();
+    renderActiveCard();
   })
   .catch(() => {
     els.empty.hidden = false;
