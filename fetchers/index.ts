@@ -6,6 +6,11 @@ import workday from "./workday.ts";
 import smartrecruiters from "./smartrecruiters.ts";
 import recruitee from "./recruitee.ts";
 import icims from "./icims.ts";
+import workable from "./workable.ts";
+import teamtailor from "./teamtailor.ts";
+import deel from "./deel.ts";
+import rippling from "./rippling.ts";
+import glovo from "./glovo.ts";
 import adzuna from "./adzuna.ts";
 import arbeitnow from "./arbeitnow.ts";
 import remotive from "./remotive.ts";
@@ -31,6 +36,11 @@ export const fetchers: Fetcher[] = [
   smartrecruiters,
   recruitee,
   icims,
+  workable,
+  teamtailor,
+  deel,
+  rippling,
+  glovo,
   adzuna,
   arbeitnow,
   remotive,
