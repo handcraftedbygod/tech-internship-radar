@@ -2,14 +2,14 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 28
+      "count": 29
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    28,
+    29,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57b97d6d307091406bf55956f0d92c0ab7fe420c",
+      "title": "Data Engineer Consultant Junior Level (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__482046622__7078?geoID=5082&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "a7a478b368a21fc16ed52b16289b9e1ca69e5378",
       "title": "IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence (m/w/d)",
@@ -98,13 +105,6 @@
       "id": "8864e7cab94d65eec4b703c4dac5a61711698833",
       "title": "IT-Spezialist als Trainee Data Engineer - SAP BW, Data-Warehouse (m/w/d)",
       "url": "https://de.whatjobs.com/pub_api__cpl__478148695__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "d200d13fe7205094af8c377c38d47db2409b4e43",
-      "title": "Wirtschaftsinformatiker als Trainee Data Engineer - SAP Analytics Cloud (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148693__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

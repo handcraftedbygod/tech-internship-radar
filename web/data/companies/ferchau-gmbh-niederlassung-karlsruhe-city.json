@@ -2,14 +2,14 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Karlsruhe",
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    12,
+    13,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a23991fd5987bb0624f90c986e739b206e57fbe4",
+      "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Informatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MDM2X0pCNTIyNzEyNS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "37627a8db2a005ad98ac8f8104d17c2db60f19c0",
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
@@ -103,13 +110,6 @@
       "id": "6239b55b1ae112d0f2a4016003084ea53c7a4b9a",
       "title": "(Junior) Software Developer Python (m/w/d) (Softwareentwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEwX0pCNTIxMjkxOC1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "297d56857930613e9dcab78d0a3cdf08c2f44c8c",
-      "title": "(Junior) Software Developer Java (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEzX0pCNTIxMjkxOS1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }

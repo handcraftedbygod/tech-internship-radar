@@ -2,25 +2,29 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -32,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7dac8f45f705a53fb88cdf12841e76e03482fb1a",
+      "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTBlNjg5YWVjNWVhNGJkMmE2ZC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "32de5b160433787fb66936a87fbe7af3989334df",
       "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",

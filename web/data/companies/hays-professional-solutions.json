@@ -2,21 +2,21 @@
   "slug": "hays-professional-solutions",
   "name": "Hays Professional Solutions GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7412de06d171f88ebeb35ed1dd3030b11e824d9c",
+      "title": "Junior AI and Data Engineer  (m/f/d) (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTMzMTktODkwNjc2LzFfNjIwOTA0TFMtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "0a8903fbc3307769c09b29475adc568ee040cfd1",
       "title": "Junior AI and Data Engineer  (m/f/d)",

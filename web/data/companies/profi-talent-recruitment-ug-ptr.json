@@ -2,21 +2,21 @@
   "slug": "profi-talent-recruitment-ug-ptr",
   "name": "Profi Talent Recruitment UG PTR",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8dda8c5c1fb29fb43f99ad42736890f3a03bfaf7",
+      "title": "Teamcenter® Engineer (m/w/d) – Junior bis Senior / 100% remote (Software-Architect)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzU3NzkyMS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "727608e6d5e8036fb180046f2242b81cf03b7606",
       "title": "Teamcenter® Engineer (m/w/d) – Junior bis Senior / 100% remote (Software-Architect)",

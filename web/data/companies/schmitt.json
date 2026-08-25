@@ -2,13 +2,17 @@
   "slug": "schmitt",
   "name": "Schmitt GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c1fa2566b5218dacc2cae7eecf93a977b24ab7da",
+      "title": "Junior Data Engineer (m/w/d) (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTk4MjEtNEdKNjQwTjFYTkEyME1GNy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "464f0758d0d9d336cea34bc0a9977d000c877cc8",
       "title": "Junior Data Engineer (m/w/d)",

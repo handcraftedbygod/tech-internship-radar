@@ -2,21 +2,21 @@
   "slug": "kpler",
   "name": "kpler",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e0c3376bc9ffd6e348c553db01e75affc3f459a",
+      "title": "Junior Market Data Analyst – Chartering",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/junior-market-data-analyst-chartering-united-kingdom-164308",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "fe430a0d5b936e20ca4e86cf991b801b388137e5",
       "title": "Junior Market Data Analyst – Chartering",

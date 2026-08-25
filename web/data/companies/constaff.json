@@ -2,13 +2,17 @@
   "slug": "constaff",
   "name": "Constaff GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed7e38011f5af880d1f83c936ad87c0ab35be6e6",
+      "title": "#14795 Junior Data Engineer (m/w/d) (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTUyMjAtMjAyNi0xNDc5NS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "0b9d3d37d73227d47eb35dcc37bb0dc9e22097fe",
       "title": "#14795 Junior Data Engineer (m/w/d)",

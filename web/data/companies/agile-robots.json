@@ -1,21 +1,26 @@
 {
   "slug": "agile-robots",
-  "name": "Agile Robots SE",
+  "name": "Agile Robots Se",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca3152952098dae5c7272adf39f03b4a9a48e2bd",
+      "title": "Intern (m/f/d) Vision Software Development",
+      "url": "https://www.arbeitnow.com/jobs/companies/agile-robots-se/intern-vision-software-development-germany-munich-hq-206646",
+      "location": "Germany, Munich (HQ)",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "d4cc34aaf2fc1431bd79cf9f86488607361e1386",
       "title": "Intern (m/f/d) Robot Teaching & VLA Data Engineering",

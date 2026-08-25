@@ -2,13 +2,17 @@
   "slug": "client-server",
   "name": "Client Server",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1a79c46f8e82c3a04775dbb7395e217bb8de2be",
+      "title": "Junior Software Engineer C++ MedTech",
+      "url": "https://www.adzuna.co.uk/jobs/details/5850919825?utm_medium=api&utm_source=freehire.me",
+      "location": "Oldbrook, Milton Keynes",
+      "firstSeenAt": "2026-08-25T04:39:11.466Z"
+    },
     {
       "id": "978894b655d1f19618f90bfd85ef24b5ccac1a66",
       "title": "Junior Java Developer - Trading",
