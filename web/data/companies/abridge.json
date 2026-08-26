@@ -2,21 +2,25 @@
   "slug": "abridge",
   "name": "Abridge",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "589b2b4083e1f5d3f31acdaaae07602fee810578",
+      "title": "Software Engineer, Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "ef03e7ebb3c1107350e6ef84153ccb26dcab1619",
       "title": "Software Engineer, Intern",

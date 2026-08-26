@@ -2,29 +2,29 @@
   "slug": "notion",
   "name": "Notion",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "New York",
-      "count": 1
+      "hub": "San Francisco",
+      "count": 2
     },
     {
-      "hub": "San Francisco",
+      "hub": "New York",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "baa86bccabc2a1c0f6299122df4180da39bb8f3b",
+      "title": "Data Science Intern (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "ed514b724948e09743c390da8c8f1a5d0e994a74",
       "title": "Data Science Intern (Winter 2027)",

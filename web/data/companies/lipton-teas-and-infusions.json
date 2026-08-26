@@ -1,22 +1,22 @@
 {
   "slug": "lipton-teas-and-infusions",
-  "name": "LIPTON Teas and Infusions",
+  "name": "Lipton Teas and Infusions",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Katowice",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fec9333b595b1c2798c90ca8b5660914073d0091",
+      "title": "Junior Data Platform Engineer — Azure & Databricks",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28944326__7143?geoID=1013&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Katowice, Poland",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "38cffef81195a5ac1fa870acd9fdcdba7f1eda86",
+      "title": "18.05.2026 IT & Digital Junior Data Platform Engineer (M/F) Katowice, Poland ID2306",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28944085__7143?geoID=1013&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Katowice, Poland",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "3220639f2fd0890298917561e7d9fc40e1401c60",
       "title": "Junior Data Platform Engineer (M/F)",

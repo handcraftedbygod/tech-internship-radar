@@ -4,15 +4,15 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 12,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
-      "hub": "Madrid",
-      "count": 3
+      "hub": "Other",
+      "count": 4
     },
     {
-      "hub": "Other",
+      "hub": "Madrid",
       "count": 3
     }
   ],
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82abc617a8854afdab65577b0952808c0c88bd33",
+      "title": "Junior DevOps & Cloud Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345477380__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "ef7f604a6ccfa2448932d138f0943106ac83c0df",
       "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech",

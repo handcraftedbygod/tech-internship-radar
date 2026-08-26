@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "14ddf257a18289208a57c6e88fac2fe132868b56",
+      "title": "Werkstudent (w/m/d) Software Development, AI & Data Integration",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1576660-3-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "dd9b3a4ad09d6f90c43584f92f1356175fef76b3",
       "title": "Working Student (f/m/d) Data Analytics & IT Automation",

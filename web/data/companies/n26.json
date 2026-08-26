@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 18.2,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 17.2,
   "topLocations": [
     {
       "hub": "Berlin",
       "count": 4
     },
     {
-      "hub": "Barcelona",
-      "count": 2
+      "hub": "Madrid",
+      "count": 3
     },
     {
-      "hub": "Madrid",
+      "hub": "Barcelona",
       "count": 2
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -40,13 +40,20 @@
     0,
     0,
     3,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "375089559bd76db97db1c969aad563e7a08ccf51",
+      "title": "KYCO Intern",
+      "url": "https://n26.com/en-eu/careers/positions/8009939?gh_jid=8009939",
+      "location": "Madrid",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "c84803def17a5b0cc3ddb42443805ce57e2f2852",
       "title": "AFC Intern - Spanish Market",

@@ -2,21 +2,21 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
-    },
-    {
-      "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Montreal",
+      "count": 3
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 7
     },
     {
       "id": "swe",
@@ -40,13 +40,27 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eae52d02324ef1c636f2c8b6965da3de2ae58266",
+      "title": "Machine Learning Intern",
+      "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "7866f2fe18138f764a2206f1d9313b87a437eb3f",
+      "title": "Machine Learning Intern",
+      "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+      "location": "London, UK",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "b10b6d889c1783ae0d1dbab0c1db03f6cddece31",
       "title": "Gameplay Programmer Intern",

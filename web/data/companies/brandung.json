@@ -2,21 +2,21 @@
   "slug": "brandung",
   "name": "Brandung",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3768c4deca5fab32716b0412ed9320fa502d1dd1",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-398719",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "00072589464bf433d5ad3537407d73e83be75ee1",
       "title": "Trainee Frontend Development (m/w/d)",

@@ -2,13 +2,17 @@
   "slug": "it-international-mobility",
   "name": "IT International Mobility",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e331d4b5280e00bdb3367aaea3398b0db9462e1c",
+      "title": "Junior Software Engineer: Global Tech & DevOps (Madrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345351494__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "cd43ce8706e1f60caeb7520c232e21494a6191c6",
       "title": "Junior Software Engineer: Global Tech & DevOps (Madrid)",

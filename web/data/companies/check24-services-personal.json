@@ -2,9 +2,9 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -26,6 +26,11 @@
       "id": "swe",
       "label": "Software",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -36,13 +41,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cad4ba82d9d77274e006e204fc851f25c846dae7",
+      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise (Business-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTZlZmI1NDk0ZGRlNGFjOGFiNS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "7dac8f45f705a53fb88cdf12841e76e03482fb1a",
       "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International (Data Scientist)",

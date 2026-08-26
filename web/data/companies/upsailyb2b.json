@@ -2,21 +2,21 @@
   "slug": "upsailyb2b",
   "name": "Upsaily.b2b",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-24T04:44:21.499Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b6b2dd28df272a47257eaa87c7f714ee9fbe06e4",
+      "title": "Remote Junior DevOps Engineer: Cloud, Terraform & Kubernetes",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28963097__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "d850672a415404d327dddb5f1086b4182be9eb9b",
       "title": "Junior DevOps Engineer",

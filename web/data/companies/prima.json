@@ -2,17 +2,22 @@
   "slug": "prima",
   "name": "Prima",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0efdc94e8b69ccb3cf1dcc77e66ff4c07a6bd832",
+      "title": "Junior Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/junior-software-engineer-london-459866?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "0545246c99310585cbb6604ccd224aff1c797b9d",
+      "title": "Junior Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prima/junior-software-engineer-london-459866",
+      "location": "London",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "c8891d9d33f66406e63818a8cd4d1edfb775ed65",
       "title": "Junior Data Engineer",

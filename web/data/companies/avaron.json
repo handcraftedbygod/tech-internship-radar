@@ -2,14 +2,14 @@
   "slug": "avaron",
   "name": "Avaron AB",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Stockholm",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
@@ -36,13 +36,27 @@
     0,
     0,
     0,
-    7,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a32b516f4c5ce21191c8052fb7e01468e6a00107",
+      "title": "Junior HIL Rig Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI1MzMzMCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "5e2962f72d704b0569258db7f3cc116879a5f282",
+      "title": "Junior Test Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI1NDI1MSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "e0a7e3290b19c8a542d8ee3c2df7d84d39647bc1",
       "title": "Junior Data Engineer",

@@ -2,14 +2,14 @@
   "slug": "sia",
   "name": "Sia",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "88086b99720a651c4f858aa0852f9372c86b99a9",
+      "title": "Final year internship - Marketing Data Scientist",
+      "url": "https://jobs.smartrecruiters.com/Sia/744000145545719-final-year-internship-marketing-data-scientist?utm_source=freehire.me",
+      "location": "Paris, IDF, fr",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "ba187895742a71fadd38162d9a0a06afed5582b8",
       "title": "Junior Software Engineer",

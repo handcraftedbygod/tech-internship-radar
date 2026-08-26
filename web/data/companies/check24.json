@@ -2,18 +2,18 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 12.3,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "ai",
@@ -40,13 +40,27 @@
     0,
     0,
     0,
-    9,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbd487378e54a6c012ec73455bebd19f4d842615",
+      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145521845",
+      "location": "Leipzig, Sachsen, Germany",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "fcdd6c13c5f734a14dee99d83978ec3a00047ce5",
+      "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145525349",
+      "location": "München, Bayern, Germany",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "b1f15b01c2c45d3903637f19f8956ec99dc9e680",
       "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
@@ -101,13 +115,6 @@
       "title": "Werkstudent (m/w/d) Data Analyst - Internet ",
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000139998229",
       "location": "München, Bayern, Germany",
-      "firstSeenAt": "2026-08-02T06:33:18.541Z"
-    },
-    {
-      "id": "ebf1bb7eaa87b8dc87af7d8654e63607f005389c",
-      "title": "(Junior) Fullstack Engineer (m/f/d) for a New Product – PHP Focus",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000140864123",
-      "location": "Berlin, Land Berlin, Germany",
       "firstSeenAt": "2026-08-02T06:33:18.541Z"
     }
   ]

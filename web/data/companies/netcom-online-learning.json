@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    9,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f7f0a6c84a8dc5283e84e8d324a62f060b82e2e",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57272374",
+      "location": "Sheffield",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
+    {
+      "id": "b2d841b7f306935c2a229df2bfa92c334c046a19",
+      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57272383",
+      "location": "Sheffield",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "253a835badb4f9f22b7c96eb5f8ee06f9786f132",
       "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
@@ -89,13 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5840287788?se=6lbUMH-X8RGpppjqq-iSvg&utm_medium=api&utm_source=freehire.me&v=A0D34C3A74C12AF460A154D547759D8BEF5B14F9",
       "location": "Sheffield, South Yorkshire",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "c20ea28945c5797ac569e11d299f511e6611bf1f",
-      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57175987",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

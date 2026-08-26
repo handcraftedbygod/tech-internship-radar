@@ -4,19 +4,23 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 7,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ab6d811979c83d7fe4f6c281c3a554b66888da3",
+      "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145525349--junior-full-stack-engineer-m-w-d-zahlungssysteme?utm_source=freehire.me",
+      "location": "München, Bayern, de",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "1c37849249d83944af4200d7e8d26bbd7734f5d5",
       "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",

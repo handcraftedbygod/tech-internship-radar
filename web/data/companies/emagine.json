@@ -2,9 +2,9 @@
   "slug": "emagine",
   "name": "emagine",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Lisbon",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
@@ -41,13 +41,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a8af26f3e148ab6901e9e38d1cb4a0f00913fcc",
+      "title": "Junior .NET Developer",
+      "url": "https://portal.emagine.org/jobs/179525/junior-net-developer?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "063b3cf784ba3e7d7a29eb8b589f2e5c779315ae",
       "title": "Junior Data Engineer / Analyst",

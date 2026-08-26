@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 10,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 35,
-  "avgPostingDurationDays": 25.1,
+  "totalPostings": 36,
+  "avgPostingDurationDays": 21.9,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -22,6 +22,10 @@
     {
       "hub": "New York",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -33,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
@@ -54,13 +58,20 @@
     0,
     0,
     27,
-    8,
+    9,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6bebacee9d5ffa2b24f4456789abb21490c681a4",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+      "location": "Remote, US, Massachusetts",
+      "firstSeenAt": "2026-08-26T04:39:57.262Z"
+    },
     {
       "id": "c5d1ee8bd0b267858e45efd899c757b63d03b165",
       "title": "Marketing Database Operations Graduated Internship (12 months)",
@@ -121,13 +132,6 @@
       "id": "148cfd0f68108b231d22790026c1c694fb2aff13",
       "title": "Working Student Corporate Law Specialist",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7813081003?gh_jid=7813081003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
-    },
-    {
-      "id": "662db15f1cb266a47699a857516d5c03174f7611",
-      "title": "Intern Payroll & HR Administration (EMEA & APJ)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7643399003?gh_jid=7643399003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-07-31T06:42:23.386Z"
     }
