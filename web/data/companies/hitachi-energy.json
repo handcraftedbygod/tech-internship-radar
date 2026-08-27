@@ -2,17 +2,26 @@
   "slug": "hitachi-energy",
   "name": "Hitachi Energy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "Krakow",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -27,13 +36,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc41c9a4f23f9130321a4dae9f6e94819f0f8e88",
+      "title": "Junior R&D Engineer - FPGA Developer",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Senior-R-D-Engineer---FPGA-Developer_R0116074?utm_source=freehire.me",
+      "location": "Krakow, Lesser Poland, Poland",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "36070c3c2b9a553d2563b4936dfce27f3fd818a0",
+      "title": "Internship – Full-stack Software Engineer",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Internship---Full-stack-Software-Engineer_R0142565-1?utm_source=freehire.me",
+      "location": "Krakow, Lesser Poland, Poland",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "0ea7d82d6e74654cb4552e807d938129b88a1efa",
       "title": "Intern – Data Engineer for automatic selection of radio networks",

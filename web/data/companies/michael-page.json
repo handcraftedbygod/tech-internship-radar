@@ -2,30 +2,30 @@
   "slug": "michael-page",
   "name": "Michael Page",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
-      "hub": "Madrid",
+      "hub": "Other",
       "count": 3
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Madrid",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 3
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "71850f86c2bc2d6795557ca088e329456ba29dcf",
+      "title": " (Junior) Controller / Financial Data Analyst (m/w/d) (Finanzwirt/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDMtM0xfNjE1NTM3LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "b70f6f9935405544a640016935671934c1bc0631",
       "title": "JUNIOR DATA ENGINEER - ANALITYCS (Hibrido Madrid)",

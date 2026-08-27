@@ -1,15 +1,15 @@
 {
   "slug": "incluso",
-  "name": "Incluso",
+  "name": "Incluso AB",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52d20982ad177c6cced973d5ced16c72f02afd6d",
+      "title": "Junior Test Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI1NTAyOCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "65fd274a508945ffc63950c28eea75ec41f8b40b",
       "title": "Junior Data Engineer - Data Management AI &amp; Analytics",

@@ -2,9 +2,9 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stuttgart",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Berlin",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -44,13 +44,20 @@
     0,
     0,
     0,
-    16,
+    17,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "610cea8bbd1d6722974cf29edf8d1051ec96ee45",
+      "title": "Werkstudent Data Engineering (d/m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1622758-1-S",
+      "location": "Stuttgart",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "68f3fc0ce440fb468ebcca9d8fc1c6fe2c5f1212",
       "title": "Praktikant*in Data Engineering im Investcontrolling",
@@ -112,13 +119,6 @@
       "title": "Werkstudent*in Systemintegration - Testen aller Software-Komponenten des elektrischen Antriebstrangs",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616912-1-S",
       "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "52a2a638c13b472ecdb6b77f61bc916a2d9bb0d7",
-      "title": "Werkstudent (m/w/d) Software Engineering – Interne Anwendungen & Tooling",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616973-1-S",
-      "location": "Berlin",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]

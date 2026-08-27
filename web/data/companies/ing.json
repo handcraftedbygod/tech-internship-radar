@@ -1,14 +1,18 @@
 {
   "slug": "ing",
-  "name": "ING",
+  "name": "ing",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Katowice",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "103288f30bbe8a7930f83b9456d051cdf7a8f555",
+      "title": "Junior Data Scientist",
+      "url": "https://ing.wd3.myworkdayjobs.com/JVSGBLCOR/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426?utm_source=freehire.me",
+      "location": "ACT (Amsterdam - Acanthus)",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "f5ee7446e819142c1ba99fa5e1873ea7ea83f0b3",
       "title": "Data Analyst Intern",

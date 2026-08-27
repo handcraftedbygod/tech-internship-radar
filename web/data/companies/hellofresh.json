@@ -2,14 +2,14 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "London",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -44,13 +44,20 @@
     0,
     0,
     5,
-    6,
+    7,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "002ae76c945fc684412e84d8281f6eb2bfc6a38b",
+      "title": "Junior Maintenance Engineer",
+      "url": "https://careers.hellofresh.com/global/en/job/8146919?gh_jid=8146919",
+      "location": "Derby, England, United Kingdom",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "f5b0d2da7bf1a05f17f582a3e4ed970692c6d1bc",
       "title": "Junior Price & Discount Strategy Manager (all genders)",
@@ -111,13 +118,6 @@
       "id": "4796a9d39f956a5fdbe3635892ba0b34019814a8",
       "title": "Junior Growth Manager",
       "url": "https://careers.hellofresh.com/global/en/job/7953647?gh_jid=7953647",
-      "location": "London, England, United Kingdom",
-      "firstSeenAt": "2026-07-26T06:34:48.431Z"
-    },
-    {
-      "id": "dc563428b891f3a3f1decdc21147788a55a10dbc",
-      "title": "Junior Affiliate Marketing Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8066662?gh_jid=8066662",
       "location": "London, England, United Kingdom",
       "firstSeenAt": "2026-07-26T06:34:48.431Z"
     }

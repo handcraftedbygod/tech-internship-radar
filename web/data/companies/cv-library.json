@@ -2,21 +2,21 @@
   "slug": "cv-library",
   "name": "CV-Library",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2b348803217de3aa9f8d0f52a6c30137abb388f",
+      "title": "Junior DevOps & Cloud Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345461290__7107?geoID=6779&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "CARDEÑAJIMENO, Spain",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "5ab4fa4a670466cca257080c1e322ad3e2088c2a",
       "title": "Junior DevOps & Cloud Engineer",

@@ -2,9 +2,9 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Bremen",
       "count": 1
+    },
+    {
+      "hub": "Düsseldorf",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -36,13 +40,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee60586f711f17b6c126ac625657185f5931e917",
+      "title": "Werkstudent Backend Entwicklung (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635007-7878-7700-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "94d762e2563c40a3807b8431d9d81e97e8bde48b",
       "title": "Werkstudent Embedded Software & Hardware-Support (m/w/d) (Software-Architect)",

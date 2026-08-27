@@ -2,21 +2,21 @@
   "slug": "aktion-mensch-ev",
   "name": "Aktion Mensch e.V.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-25T04:39:11.466Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fea863983dec14ad6bb8658d5cd04b1326250f38",
+      "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/data-engineer-junior-schwerpunkt-datenpipelines-bonn-113303?utm_source=freehire.me",
+      "location": "Bonn",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "917bcd136c27dd9dc87d4f04a8f34c22f58dfd87",
       "title": "Data Engineer Junior - Schwerpunkt Datenpipelines (m/w/d) (Data Engineer)",

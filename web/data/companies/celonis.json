@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 21,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 36,
-  "avgPostingDurationDays": 21.9,
+  "totalPostings": 37,
+  "avgPostingDurationDays": 19.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 17
+      "count": 18
     },
     {
       "id": "swe",
@@ -58,13 +58,20 @@
     0,
     0,
     27,
-    9,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "db0edffbb630b9d5827d6c0100caf74f46f63f60",
+      "title": "(Graduated) Intern Academy Operations & Technology",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977932003?gh_jid=7977932003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "6bebacee9d5ffa2b24f4456789abb21490c681a4",
       "title": "Engineering Intern",
@@ -127,13 +134,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7816955003?gh_jid=7816955003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "148cfd0f68108b231d22790026c1c694fb2aff13",
-      "title": "Working Student Corporate Law Specialist",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7813081003?gh_jid=7813081003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
     }
   ]
 }

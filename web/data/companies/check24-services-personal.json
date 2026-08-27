@@ -2,14 +2,14 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "biz",
@@ -41,13 +41,20 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "523ae34836db071204f219fc449360ba6f39f9d3",
+      "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-66a127cf519c44cfaa1-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "cad4ba82d9d77274e006e204fc851f25c846dae7",
       "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise (Business-Analyst/in)",

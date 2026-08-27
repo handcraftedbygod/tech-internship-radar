@@ -2,9 +2,9 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -31,13 +31,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d628d89c217d2a868f406a50c1c1e7105911e8ba",
+      "title": "Vulnerability and Exposure Management Cybersecurity Internship  - RDT Security Monitoring & Incident Response",
+      "url": "https://roche.wd3.myworkdayjobs.com/rog_conf/job/Kaiseraugst/Vulnerability-and-Exposure-Management-Cybersecurity-Internship----RDT-Security-Monitoring---Incident-Response_202608-121776?utm_source=freehire.me",
+      "location": "Kaiseraugst",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "59288ceb2e1df5fedd32c339c21a23336cef1e62",
       "title": "Manual Software Test Engineer intern",

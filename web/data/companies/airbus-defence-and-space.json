@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 7
     },
     {
       "hub": "Bremen",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,41 @@
     0,
     0,
     0,
-    4,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7bdd05cbb9b008bddc07cdcd54803e38346cd763",
+      "title": "Werkstudent Manufacturing Engineering Aerostructures Data Analytics & Management Support (d/m/w)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-966325533-S",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "5998f24933ae4f61653e9aa18655ac11f7921f2a",
+      "title": "Intern in Space-Software Unit Testing & Migration (d/f/m)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-966341551-S",
+      "location": "Immenstaad am Bodensee",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "9f2f20c6aeb3cf36620c0bbe8dbae9c555e630f4",
+      "title": "Werkstudent Manufacturing Engineering Aerostructures Data Analytics & Management Support (d/m/w) (Elektroniker/in - Luftfahrttechnische Systeme)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY2MzI1NTMzLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "219c843751b321a83e4b75fb0ed9eed8bcec1fa0",
+      "title": "Intern in Space-Software Unit Testing & Migration (d/f/m) (Ingenieur/in - Luft- und Raumfahrttechnik)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY2MzQxNTUxLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "3c12a64d0c7f43a38a52d84d546259cace51eede",
       "title": "Junior Backend Engineer (m/w/d)",

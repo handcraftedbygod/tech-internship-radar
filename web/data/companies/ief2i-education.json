@@ -2,13 +2,17 @@
   "slug": "ief2i-education",
   "name": "IEF2I Education",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63718144d0464179cff145ab28d87c4dca209632",
+      "title": "Data Analyst Junior (H/F) - Alternance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__152483712__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "768a59183f26c89f5f223ba1fde2f60f8edc4cba",
       "title": "Data Engineer Junior (H/F) - Alternance",

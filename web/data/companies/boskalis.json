@@ -2,20 +2,25 @@
   "slug": "boskalis",
   "name": "boskalis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "90a6a6d097b512467a98a419da696e4531f20c13",
+      "title": "Practical Internship: Simulation Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Boskalis/744000145699677-practical-internship-simulation-software-engineer?utm_source=freehire.me",
+      "location": "Papendrecht, ZH, nl",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "6c6af2bf68efe1ae3a090adfe207311e7fa34565",
       "title": "AI & Machine Learning Internship",

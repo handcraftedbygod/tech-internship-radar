@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Berlin",
@@ -24,12 +24,17 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -40,13 +45,27 @@
     0,
     0,
     0,
-    9,
+    11,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f46cac572bd79df8ad8247a62ac0425fd9452d8",
+      "title": "Werkstudent (w/m/d) Developer, IT-Consultant, AI & Data Integration",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623102-1-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "6c693beb75b6c09ac6a8cadf1db05428e0a81692",
+      "title": "Werkstudent (w/m/d) für Embedded Software Entwicklung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623966-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "14ddf257a18289208a57c6e88fac2fe132868b56",
       "title": "Werkstudent (w/m/d) Software Development, AI & Data Integration",
@@ -102,13 +121,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1617465-1-S",
       "location": "Erlangen",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "749575033594fbd29ae5c42b3475478119ea431a",
-      "title": "Werkstudent (w/m/d) Software-Entwicklung/Testing",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1609189-1-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

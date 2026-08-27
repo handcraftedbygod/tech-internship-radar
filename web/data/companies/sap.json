@@ -2,26 +2,26 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 3
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
     },
     {
       "id": "hw",
@@ -37,13 +37,27 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f5863ee5cd2258f56637472c1d845bd4b14377a",
+      "title": "Working Student (f/m/d) - AI Engineering & Data Science",
+      "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-ai-engineering-data-science-sap-69190-walldorf--2403836.html",
+      "location": "Walldorf, Baden",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "c4be43486309f2bf67b00d67471ffca17b3e4a4f",
+      "title": "Working Student (f/m/d) - Data Analyst / Data Science in Adopt-2-Consume Insights & Data Foundation",
+      "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-data-analyst-data-science-in-adopt-2-consume-insights-data-foundation-sap-69190-walldorf--2403837.html",
+      "location": "Walldorf, Baden",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "f77963d63baf60478c2d3a6b06d9de3a182cd911",
       "title": "Working Student (f/m/d) - Data Analyst / Data Science in Adopt-2-Consume Insights & Data Foundation",

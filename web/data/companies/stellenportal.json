@@ -1,0 +1,45 @@
+{
+  "slug": "stellenportal",
+  "name": "Stellenportal",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-08-27T15:01:46.813Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b14ac8cf6bcfe5624b6245dc895386a7a8fdad5f",
+      "title": "(Junior) Software Entwickler (m/w/d)",
+      "url": "https://www.adzuna.de/details/5854474404?utm_medium=api&utm_source=freehire.me",
+      "location": "Gelnhausen, Main-Kinzig-Kreis",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    }
+  ]
+}

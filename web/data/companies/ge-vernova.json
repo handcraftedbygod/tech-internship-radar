@@ -2,21 +2,21 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -32,13 +32,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "430413578ef36435c5bf04b471be567430c9f175",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-35dfc5",
+      "location": "Flexible / Remote, Marrakesh, Morocco",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
+    {
+      "id": "a9768324c3ee997a2bec3de5c561fec8c6000128",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-6db9fb",
+      "location": "Flexible / Remote, I-n-Salah, Algeria",
+      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+    },
     {
       "id": "8890509078518e085d856a9435e839b6983a3715",
       "title": "GE Vernova GridOS  Software Test Engineer - Intern - Summer 2027",
