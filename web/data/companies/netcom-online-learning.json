@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68b3f54689636a2f6b6640ec41a44e8cd4496741",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57285385",
+      "location": "Liverpool",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "7f7f0a6c84a8dc5283e84e8d324a62f060b82e2e",
       "title": "Trainee Data Analyst",
@@ -95,13 +102,6 @@
       "title": "Trainee Data Analyst",
       "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57231973",
       "location": "Sheffield",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "11107ccfaf82332692467333b77b7581ec1f4ce3",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840287788?se=6lbUMH-X8RGpppjqq-iSvg&utm_medium=api&utm_source=freehire.me&v=A0D34C3A74C12AF460A154D547759D8BEF5B14F9",
-      "location": "Sheffield, South Yorkshire",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]

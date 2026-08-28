@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -44,13 +44,20 @@
     0,
     0,
     5,
-    7,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04102eda82c611f4613716b64ad42d70c44ce589",
+      "title": "Junior Growth Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/8050737?gh_jid=8050737",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "002ae76c945fc684412e84d8281f6eb2bfc6a38b",
       "title": "Junior Maintenance Engineer",
@@ -112,13 +119,6 @@
       "title": "(Junior) People Business Partner (all genders)",
       "url": "https://careers.hellofresh.com/global/en/job/8053360?gh_jid=8053360",
       "location": "Verden, Niedersachsen, Germany",
-      "firstSeenAt": "2026-07-26T06:34:48.431Z"
-    },
-    {
-      "id": "4796a9d39f956a5fdbe3635892ba0b34019814a8",
-      "title": "Junior Growth Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/7953647?gh_jid=7953647",
-      "location": "London, England, United Kingdom",
       "firstSeenAt": "2026-07-26T06:34:48.431Z"
     }
   ]

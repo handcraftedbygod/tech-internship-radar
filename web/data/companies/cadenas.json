@@ -2,21 +2,21 @@
   "slug": "cadenas",
   "name": "CADENAS GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a39c8c7205b4b09156a08f2db796852501deac5a",
+      "title": "(junior) Erp Developer (m/w/d) Microsoft Business Central",
+      "url": "https://www.adzuna.de/land/ad/5854942364?se=omT3LTSi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=freehire.me&v=3D137122D36EF5B9655608672D89C3A9E3415F5D",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "eb925b8339d053a866d891d70812dc4a9a4204b2",
       "title": "(junior) Erp Developer (m/w/d) Microsoft Business Central",

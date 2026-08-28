@@ -2,14 +2,14 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Madrid",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    18,
+    19,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04248816f14f41b3b6d9c8b61de44af5e9bdef7c",
+      "title": "Junior DevOps & Cloud Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345461290__7107?geoID=5243&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Sant Cugat del Vallés, Spain",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "08b5b4bd437bfa02d3b1fd49260da0ae0f9c20c2",
       "title": "Junior DevOps & Cloud Engineer - euskadi",
@@ -107,13 +114,6 @@
       "id": "e360a38190ae0b4cf65e818615a3dac7ba508fd7",
       "title": "Junior Data Engineer | Bi & Data - Compañía Digital Sector Fintech - Madrid",
       "url": "https://es.whatjobs.com/pub_api__cpl__343436331__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "902cd953a0e86bf1a40c8643e912a424afafb3b8",
-      "title": "Junior Data Engineer | Bi & Data - Compañía Digital Sector Fintech - Distrito Moncloa-Aravaca",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343436775__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

@@ -2,30 +2,30 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 13,
+  "totalPostings": 20,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 8
+      "hub": "Karlsruhe",
+      "count": 12
     },
     {
-      "hub": "Karlsruhe",
-      "count": 5
+      "hub": "Other",
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 14
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,62 @@
     0,
     0,
     0,
-    13,
+    20,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "856fb3742e660d06c75ead56799cf7cab7395caa",
+      "title": "(Junior) DevOps Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445126_JB5233138-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "208d4e7e773f791f2152a0b2dc6e74e45b000b94",
+      "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5233286-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "f041137cabd804c910a41ab1044be2064ceb3f42",
+      "title": "(Junior) Software Developer C#.NET (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445153_JB5233142-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "c575cd164fea4fdc7e6ae3122f6b34f81a143346",
+      "title": "(Junior) Backend-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5233195-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "ea080d29bd66ff8258371e57f323eec39d5cb262",
+      "title": "(Junior) Software Developer Python (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446410_JB5233241-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "5a0bb5927d0f699e0b5ce6089e2b7a6392691c73",
+      "title": "(Junior) Software Developer Java (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446413_JB5233242-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "b5e78260e6ebe3937de5e7f01e6316eedd9d40ec",
+      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446437_JB5233246-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "a23991fd5987bb0624f90c986e739b206e57fbe4",
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Informatiker/in)",
@@ -63,55 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445126_JB5212815-S?utm_source=freehire.me",
       "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "f29393f061f700aede087050d59668471fa1c09d",
-      "title": "(Junior) Backend-Entwickler (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5212872-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "5fda00895ccfdbd631a10193a8feffa029fdc6ed",
-      "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5212965-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "6730f6c3502a825dc56d33280c4cde54c1111802",
-      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446437_JB5212923-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, Baden-Württemberg, Deutschland",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "27fc53646d76880f1599a5b6a9d05aa4731aed82",
-      "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTI2X0pCNTIxMjgxNS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "9e93fdf07262d4a7ba4d12b4997d565e1803ba38",
-      "title": "(Junior) Software Developer C#.NET (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTUzX0pCNTIxMjgxOS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "1ec673ddcc8e75f45163423703c5617170283dcf",
-      "title": "(Junior) Testingenieur / Software Tester (m/w/d) (IT-Tester/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ3NTQxX0pCNTIxMjk2NS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "6239b55b1ae112d0f2a4016003084ea53c7a4b9a",
-      "title": "(Junior) Software Developer Python (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEwX0pCNTIxMjkxOC1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]
 }

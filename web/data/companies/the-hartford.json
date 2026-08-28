@@ -2,21 +2,21 @@
   "slug": "the-hartford",
   "name": "The Hartford",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03b32f3abc04b1b422b2badbea6b0c696e17b301",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
+      "url": "https://www.themuse.com/jobs/thehartford/tech-data-program-summer-2027-software-engineer-intern-charlotte",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "e8d74f68801fa2e7dd2ef5689243791e061b94aa",
+      "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus)",
+      "url": "https://www.themuse.com/jobs/thehartford/tech-data-program-summer-2027-software-engineer-intern-columbus",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "cefcd68870928ed1bf5394d1c6e6f946eb7db59b",
       "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",

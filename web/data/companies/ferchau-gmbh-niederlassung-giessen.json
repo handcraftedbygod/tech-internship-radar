@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-giessen",
   "name": "FERCHAU GmbH Niederlassung Giessen",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "271939fd9599b1782fc475c4a4d65c6b190074a4",
+      "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-350605_JB5233041-S?utm_source=freehire.me",
+      "location": "Gießen, Lahn, HESSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "00a9b8368fdeb7030071938579814dc0196e1314",
       "title": "Junior Entwickler Hard- und Software Automotive (m/w/d) (Softwareentwickler/in)",

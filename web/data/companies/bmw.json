@@ -2,14 +2,18 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,13 +36,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e36e25685c96e5fb30fa8e837469c3a8d80b8751",
+      "title": "Praktikant Business Intelligence im Umfeld Data Analytics (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1624945-1-S",
+      "location": "Leipzig",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "ef1597734dfd39285f2c98045559775003538487",
       "title": "Praktikum Digitalisierung & Data Analytics - Gesamtfahrzeug BMW Motorrad (w/m/x)",

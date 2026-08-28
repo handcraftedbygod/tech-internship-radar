@@ -2,9 +2,9 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 32,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Lisbon",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 31
     },
     {
       "id": "biz",
@@ -44,13 +44,20 @@
     0,
     0,
     0,
-    32,
+    33,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe830a15562d2805f731436bae6fb1d219fd256c",
+      "title": "Intern Account Manager Groceries & Specialties Portugal",
+      "url": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149/",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "cdad4005fb5b05f28f599ec9b143ca4e585f82f0",
       "title": "Brands Ads Intern Spain",
@@ -112,13 +119,6 @@
       "title": "Account Manager Intern - Q Commerce Groceries",
       "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-groceries-in-madrid-spain-jid-744000143164389/",
       "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "68e533d0005c96fe86f2b4fd0659f5bf573d4c9c",
-      "title": "Intern Partner Experience Global",
-      "url": "https://careers.glovoapp.com/job/intern-partner-experience-global-in-barcelona-spain-jid-744000132640474/",
-      "location": "Barcelona, Spain",
       "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]

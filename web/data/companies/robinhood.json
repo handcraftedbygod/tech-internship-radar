@@ -2,20 +2,25 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +32,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a8b4dc97c93c84a87f9de4df0bc1d88adb0ac362",
+      "title": "Customer Experience Associate (New Grad)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8163432?t=gh_src=&gh_jid=8163432",
+      "location": "Denver, CO; Westlake, TX",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "24ec308557af7306f53ecfb5c8f67427de0c222c",
       "title": "Business Analyst (New Grad) ",

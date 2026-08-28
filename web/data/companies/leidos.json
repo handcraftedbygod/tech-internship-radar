@@ -2,21 +2,26 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 1,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,76 @@
     0,
     0,
     0,
-    1,
+    10,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b8d540e5f2abd7203b598c0d552a43ac355830a",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-fc9032",
+      "location": "Reynoldsburg, OH",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "88a05488f470fbb0cb1b309786d2f78b32cdf9aa",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-5931b9",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "15dcafb3e407a436cecc36427fc33358aa7fa3ac",
+      "title": "Transport Network Engineer Intern",
+      "url": "https://www.themuse.com/jobs/leidos/transport-network-engineer-intern-9631ae",
+      "location": "O'Fallon, IL",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "ba9f3d1d55dd55fedba1ad9f5281e207821c64b6",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-ffaaf5",
+      "location": "Honolulu, HI",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "5d37fbdbb51e0ba7e9348fc0254115ba3dee514d",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-400489",
+      "location": "Gambrills, MD",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "e4cc5d1c30afce8662cb01011d2995a46877e724",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-317ae8",
+      "location": "Flexible / Remote",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "0ca9d3f24ce16e4177851a7eac4c8b66477c1798",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-1d091f",
+      "location": "Gambrills, MD",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "945a3b210ee22e6f77988253ff1af8dfb1bbb6ec",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern",
+      "location": "O'Fallon, IL",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "7b1b399331008654b8ec6101f305bb6006d6b226",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-2baab0",
+      "location": "O'Fallon, IL",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "bc8eb63945e79354a712df122de9a3c8f5075304",
       "title": "Engineering Intern",

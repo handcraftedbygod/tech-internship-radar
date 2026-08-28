@@ -2,13 +2,17 @@
   "slug": "knorr-bremse-systeme-f-r-schienenfahrzeuge",
   "name": "Knorr-Bremse Systeme für Schienenfahrzeuge GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -27,13 +36,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58b35fc9c5583ed9f8dce8fbdfcff7d0f9ae14d4",
+      "title": "Werkstudent Software Tools & Systemtest (m/w/d)",
+      "url": "https://studyflix.de/jobs/angebote/496984?l=884451&utm_source=ba",
+      "location": "Leonberg, Württemberg",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "689dafe9f0c04241a37ea67453a8b8db41256f44",
       "title": "Werkstudent Data Analytics (m/w/d)",

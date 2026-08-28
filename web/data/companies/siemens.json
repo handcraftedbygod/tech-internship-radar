@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 11,
+  "totalPostings": 17,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 14
     },
     {
       "hub": "Berlin",
@@ -24,17 +24,17 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -45,13 +45,55 @@
     0,
     0,
     0,
-    11,
+    17,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4b3c6c5698cddc12bb1d2c57c3ab01accc0b897b",
+      "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623962-1-S?utm_source=freehire.me",
+      "location": "Erlangen, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "03d2760270593960598354dc437ccebfb44cd792",
+      "title": "Junior Software Developer (m/w/d) für SIMATIC AX",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623961-1-S?utm_source=freehire.me",
+      "location": "Erlangen, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "458ebd8b02e003d7eed03ca61943d71f26fe94df",
+      "title": "Working Student (f/m/d) Business Developer Industrial AI in Automation",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623957-1-S",
+      "location": "Fürth, Odenwald",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "9fd240f43d7cc412a89988125ebc50a322733786",
+      "title": "Working Student (f/m/d) eMobility Software",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1624574-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "4a929d8dbdf042c4bae55559896acbc9de365b9a",
+      "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme (Embedded-Systems-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2Mi0xLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "0cd44b3d047b526ca26a338f53d5367fe2515e7c",
+      "title": "Junior Software Developer (m/w/d) für SIMATIC AX (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2MS0xLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "1f46cac572bd79df8ad8247a62ac0425fd9452d8",
       "title": "Werkstudent (w/m/d) Developer, IT-Consultant, AI & Data Integration",
@@ -79,48 +121,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-1-S",
       "location": "München",
       "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "6a5adfbe632c28b86dafc474053a92c0b14c2e0d",
-      "title": "Werkstudent (w/m/d) Factory Digitalization Data Analytics",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1621462-1-S",
-      "location": "Nürnberg, Mittelfranken",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "d8b1200aa4f2431febd0d48ef85142f679ba1125",
-      "title": "Werkstudent (w/m/d) Data Engineering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1590357-2-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "985eefde90ceb0849833cfc0b709822d921da22b",
-      "title": "Werkstudent (w/m/d) Cybersecurity Governance & Risk Management",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619747-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "b800326f533fd51156f9aff340ec63a3674b41d1",
-      "title": "Werkstudent (w/m/d) Business Analytics und Data Engineering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619749-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "a0ff377993cbfe0429b808d44b5689d59b84c2f1",
-      "title": "Werkstudent*in (w/m/d) Data Analytics, Digital Transformation & Organizational Development",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1617008-1-S",
-      "location": "Forchheim, Oberfranken",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "0995c6edc04e058e2cc7048220b5d4cdc7ff9a85",
-      "title": "Werkstudent (w/m/d) Reporting & Data Analytics",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1617465-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

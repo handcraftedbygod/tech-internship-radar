@@ -2,21 +2,21 @@
   "slug": "nology",
   "name": "_nology",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -32,13 +32,20 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dfcb0c97cd492e919552e69ec111a6ab491955e9",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__501095877__7082?geoID=328&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, United Kingdom",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "33ed2af27d29d8108ac8679a52bd783d997a2826",
       "title": "Junior Java Developer",

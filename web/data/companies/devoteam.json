@@ -2,9 +2,9 @@
   "slug": "devoteam",
   "name": "Devoteam",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 3
     },
     {
-      "hub": "Lisbon",
-      "count": 1
+      "hub": "Madrid",
+      "count": 2
     },
     {
-      "hub": "Madrid",
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -40,13 +40,20 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "741f7b54dcfb40bbe27e99e71b21ce4db543190d",
+      "title": "Junior DevOps Consultant",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000146171248-junior-devops-consultant?utm_source=freehire.me",
+      "location": "Madrid, MD, es",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "7405baadd5fd22b14dc5494623299cd74e1dbc31",
       "title": "Junior Data Engineer (Data & AI Factory)",

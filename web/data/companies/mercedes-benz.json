@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 11.7,
+  "totalPostings": 19,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Stuttgart",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -44,13 +44,27 @@
     0,
     0,
     0,
-    17,
+    19,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27201de558cf73cb2343f6334281b6cc210c9e47",
+      "title": "Werkstudent*in Data Engineering & Business Intelligence",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1623842-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "b1190d42816dff9eef26a91e5bd5d53fd8658571",
+      "title": "Werkstudent*in MB.OS Software-Produktdatenmanagement",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1624979-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "610cea8bbd1d6722974cf29edf8d1051ec96ee45",
       "title": "Werkstudent Data Engineering (d/m/w/x)",
@@ -105,20 +119,6 @@
       "title": "Werkstudent*in Data Analytics (ADAS Customer Function)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616944-1-S",
       "location": "Böblingen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "3520a144d7d65c8b6f02f602e6344bf6d8a66d98",
-      "title": "Praktikant*in Systemintegration - Testen aller Software-Komponenten des elektrischen Antriebstrangs",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616923-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "62156431032363a6510cfe2a894af15f4137fcca",
-      "title": "Werkstudent*in Systemintegration - Testen aller Software-Komponenten des elektrischen Antriebstrangs",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616912-1-S",
-      "location": "Sindelfingen",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]

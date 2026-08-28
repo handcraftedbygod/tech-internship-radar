@@ -2,21 +2,21 @@
   "slug": "hectronic",
   "name": "Hectronic GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "17e3a13afea9b55dd93e22c1eb0a8f0d3986dda5",
+      "title": "Junior Cloud & Platform Engineer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5855468823?se=-kitXmai8RGfx5bEd-nhPg&utm_medium=api&utm_source=freehire.me&v=7E8CACFEB4FD413DA24F38E004CFD846544763A7",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
+    {
+      "id": "36e3dd95a4759b2fd9df71b062500b84c4341cb7",
+      "title": "Junior Cloud & Platform Engineer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5855640722?se=3rq3P2ai8RGJ35lZBgd8oQ&utm_medium=api&utm_source=freehire.me&v=17CCB2205C3A07C6D9D7CB37F7D6F02F55E02716",
+      "location": "Bonndorf im Schwarzwald, Waldshut (Kreis)",
+      "firstSeenAt": "2026-08-28T15:57:00.356Z"
+    },
     {
       "id": "d6d74ceca8ec2242257e77cc37bb66380f35b616",
       "title": "Junior Cloud & Platform Engineer (m/w/d)",
