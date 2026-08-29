@@ -2,21 +2,21 @@
   "slug": "christundcompany",
   "name": "Christundcompany",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63a898b490415ed39bde92045b8a87235e6d1aba",
+      "title": "Praktikum - Political Data Engineering (w/d/m)",
+      "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/praktikum-political-data-engineering-berlin-401525",
+      "location": "Berlin",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
     {
       "id": "93b7c827cd75c8b753a4af99e54675cc778ef51f",
       "title": "Praktikum - Political Data Engineering (w/d/m)",

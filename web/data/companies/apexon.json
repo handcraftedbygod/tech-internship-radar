@@ -2,21 +2,21 @@
   "slug": "apexon",
   "name": "Apexon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "37013912b954f63dacfbb5b757a55c96058f55b2",
+      "title": "Junior AWS Cloud DevOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__519659424__7082?geoID=835&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
+    {
+      "id": "ecc86f60bf994399f239a6f234578a87fb068763",
+      "title": "Junior AWS Cloud DevOps Engineer - Automation & CI/CD",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__519658345__7082?geoID=835&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
     {
       "id": "a0c0015bfb40e9460fc0f47997ef454076905b02",
       "title": "Junior Java Full Stack Developer",

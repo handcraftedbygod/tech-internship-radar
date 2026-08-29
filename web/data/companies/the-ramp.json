@@ -2,21 +2,21 @@
   "slug": "the-ramp",
   "name": "The Ramp",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e39fa7f796519fa731d7f6d9656c6041e2367fbf",
+      "title": "Software Engineer Internship, Android",
+      "url": "https://www.adzuna.com/land/ad/5857722049?se=roKO6paj8RGAD-anx9tglg&utm_medium=api&utm_source=9141e2e6&v=DBEBAEF92D2EB1ACE13B24EE6DBD52AAA161BFEC",
+      "location": "New York City, New York",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
     {
       "id": "6a7afa53e855658450cc94bfccca24e47948fada",
       "title": "Software Engineer Internship, Android",

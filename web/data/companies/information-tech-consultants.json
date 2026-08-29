@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": null,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "946fd795faa4d264ba5376309e0dc82c690f8b3f",
+      "title": "Junior Java Developer – Backend & Microservices (Onsite London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__519657817__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
     {
       "id": "edc4bc16df56fa8c40afa55d811b7560005cb97e",
       "title": "Junior Java Developer - Onsite Spring Boot & Microservices",

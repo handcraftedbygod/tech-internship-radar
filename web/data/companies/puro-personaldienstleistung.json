@@ -2,21 +2,21 @@
   "slug": "puro-personaldienstleistung",
   "name": "puro Personaldienstleistung GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eacfad1c20ddffebee5c5d8702756e6127fd953b",
+      "title": "Junior Datacenter Engineer (m/w/d) OSS (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NjktNFhBSlJXUERGTDRMRkhMMC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-08-29T10:49:33.976Z"
+    },
     {
       "id": "f83a9f091448f7b433aa0d224daff568eb31bdd9",
       "title": "Junior Datacenter Engineer (m/w/d) OSS (Data Engineer)",
