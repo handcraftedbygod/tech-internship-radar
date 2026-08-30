@@ -1,5 +1,153 @@
 [
   {
+    "weekOf": "2026-08-23",
+    "newCount": 425,
+    "prevWeekCount": 614,
+    "pctChange": -30.8,
+    "totalTracked": 2544,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 240
+      },
+      {
+        "hub": "Madrid",
+        "count": 25
+      },
+      {
+        "hub": "Munich",
+        "count": 24
+      },
+      {
+        "hub": "London",
+        "count": 22
+      },
+      {
+        "hub": "Barcelona",
+        "count": 21
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "glovo",
+        "name": "Glovo",
+        "count": 33
+      },
+      {
+        "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
+        "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
+        "count": 14
+      },
+      {
+        "slug": "siemens",
+        "name": "Siemens AG",
+        "count": 9
+      },
+      {
+        "slug": "leidos",
+        "name": "Leidos",
+        "count": 9
+      },
+      {
+        "slug": "noir",
+        "name": "Noir",
+        "count": 7
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 156,
+      "sample": [
+        {
+          "slug": "321-med",
+          "name": "321 MED GmbH"
+        },
+        {
+          "slug": "acaisoft",
+          "name": "Acaisoft"
+        },
+        {
+          "slug": "accenture-polska",
+          "name": "Accenture Polska"
+        },
+        {
+          "slug": "acontis-technologies",
+          "name": "acontis technologies GmbH"
+        },
+        {
+          "slug": "adidas",
+          "name": "Adidas"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "design",
+      "label": "Design",
+      "pctChange": 66.7
+    },
+    "notableHiring": [
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "robinhood",
+        "name": "Robinhood",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Retell AI",
+      "title": "Software Engineer (New Grad)",
+      "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463/application",
+      "hub": "San Francisco",
+      "currency": "usd",
+      "low": 64,
+      "high": 80
+    },
+    "headline": {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://www.themuse.com/jobs/salesforce/summer-2027-intern-software-engineer-401e46",
+      "hub": "New York",
+      "badge": "NOTABLE",
+      "currency": "usd",
+      "low": 43,
+      "high": 54
+    },
+    "earlyPick": {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://www.themuse.com/jobs/salesforce/summer-2027-intern-software-engineer-401e46",
+      "season": "Summer 2027",
+      "hub": "New York"
+    }
+  },
+  {
     "weekOf": "2026-08-16",
     "newCount": 614,
     "prevWeekCount": 952,
