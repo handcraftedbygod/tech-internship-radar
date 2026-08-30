@@ -2,21 +2,21 @@
   "slug": "manpower-uk",
   "name": "Manpower UK Ltd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d90f0b137360d92e060dc7df5d6d580d2795f5b",
+      "title": "Junior Data Analyst",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__505621352__7082?geoID=90&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Renfrewshire, United Kingdom",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
     {
       "id": "46077beff86f8bb8384e7cdc7ef3bb419ee584a1",
       "title": "Junior Data Analyst",

@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
@@ -22,17 +22,21 @@
     {
       "hub": "San Francisco",
       "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     }
   ],
@@ -44,13 +48,20 @@
     0,
     0,
     1,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5be9389abe03520c5a1188d634d8c565df9fa6d",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://www.themuse.com/jobs/salesforce/summer-2027-intern-software-engineer-401e46",
+      "location": "Atlanta, GA, Bellevue, WA, Burlington, MA, Indianapolis, IN, New York, NY, Palo Alto, CA, San Francisco, CA, Seattle, WA",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
     {
       "id": "5bf19f1c26c1a0b9b4f209253eeacd97dfafdfe7",
       "title": "Software Engineering Intern - Future Pathways",

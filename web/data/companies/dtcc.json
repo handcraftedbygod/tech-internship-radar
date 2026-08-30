@@ -1,0 +1,52 @@
+{
+  "slug": "dtcc",
+  "name": "DTCC",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-30T09:46:54.503Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "85ed1a3a4d0632b08d13e4f6a365cff6f09649ac",
+      "title": "Application Developer Intern [2027 Intern Program]",
+      "url": "https://www.themuse.com/jobs/dtcc/application-developer-intern-2027-intern-program",
+      "location": "Dallas, TX, Jersey City, NJ",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "cd382727eaf09c27c291a2c55843cb4ddfe9ef45",
+      "title": "Infrastructure Engineer Intern [2027 Intern Program]",
+      "url": "https://www.themuse.com/jobs/dtcc/infrastructure-engineer-intern-2027-intern-program",
+      "location": "Dallas, TX, Jersey City, NJ",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    }
+  ]
+}

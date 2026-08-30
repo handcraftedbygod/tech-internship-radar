@@ -2,21 +2,34 @@
   "slug": "mindmatch",
   "name": "MindMatch",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
+      "hub": "Other",
+      "count": 4
+    },
+    {
       "hub": "Madrid",
+      "count": 1
+    },
+    {
+      "hub": "Barcelona",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +40,48 @@
     0,
     0,
     0,
-    1,
+    6,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "abb919e0db246799966a86b49af49801434d1869",
+      "title": "Junior DevOps Engineer hybrid Madrid. International Projects",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346373075__7107?geoID=10337&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alcobendas, Spain",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "598b6bd222862bc202190cbb137156dcd1ff30f5",
+      "title": "Junior DevOps & Cloud Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346325636__7107?geoID=8700&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "MARZAN, Spain",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "76ff1f9ce4ae4d35b6f14e9d2a6b989013ca91b9",
+      "title": "Data Engineer Junior (Google Cloud IA)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346424817__7107?geoID=10337&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alcobendas, Spain",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "57df837e12eb47ba5b807b28f9937f1b6e74057d",
+      "title": "IA | Backend Development | Others Internship",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346349327__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "c5659a84b0e610e4dfdbd20c31a8816440cfe125",
+      "title": "Full Stack Developer Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346326472__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
     {
       "id": "07d318b0474d0d63b90d9848e81f52f55c2e1a0a",
       "title": "Data Engineer Internship (m/f/x)",

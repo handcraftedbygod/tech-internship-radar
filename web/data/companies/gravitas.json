@@ -1,0 +1,52 @@
+{
+  "slug": "gravitas",
+  "name": "Gravitas Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-08-30T09:46:54.503Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2a897dc4b734c14f8c627a7d1f4e8b6266cb584e",
+      "title": "Autonomous Junior Fullstack Engineer – Node/React",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__520242691__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
+    {
+      "id": "29c9e4fc4f89dbd79e3a82274de13ed7a71a5450",
+      "title": "Junior Fullstack Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__520243387__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    }
+  ]
+}

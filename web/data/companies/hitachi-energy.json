@@ -2,14 +2,14 @@
   "slug": "hitachi-energy",
   "name": "Hitachi Energy",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -36,13 +36,20 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eaa32cfe969d610867e3f6038d4df7320a4617a4",
+      "title": "Internship - Full-stack Software Engineer",
+      "url": "https://www.themuse.com/jobs/hitachienergy/internship-fullstack-software-engineer-c01744",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-08-30T09:46:54.503Z"
+    },
     {
       "id": "fc41c9a4f23f9130321a4dae9f6e94819f0f8e88",
       "title": "Junior R&D Engineer - FPGA Developer",
