@@ -2,21 +2,21 @@
   "slug": "quantum-systems",
   "name": "Quantum-Systems GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +27,20 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "31db06c47b1753a65c3504494b5161973578fb79",
+      "title": "Working Student - Software Engineering (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-software-engineering-gilching-304963",
+      "location": "Gilching, Bayern, Germany",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
     {
       "id": "51277f35f7929100dfe3a8b6b85d7fccda4a1610",
       "title": "Working Student Full-Stack Software Development (m/f/d)",

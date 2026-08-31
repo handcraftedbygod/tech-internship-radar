@@ -1,6 +1,13 @@
 {
   "europe": [
     {
+      "name": "KugelAudio",
+      "oneLiner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
+      "batch": "Spring 2026",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.ycombinator.com/companies/kugelaudio"
+    },
+    {
       "name": "Revnu",
       "oneLiner": "The growth infrastructure for the autonomous business",
       "batch": "Spring 2026",
@@ -20,6 +27,13 @@
       "batch": "Spring 2026",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/dayjob"
+    },
+    {
+      "name": "Complir",
+      "oneLiner": "Vanta for physical products",
+      "batch": "Spring 2026",
+      "location": "Copenhagen, Denmark",
+      "url": "https://www.ycombinator.com/companies/complir"
     },
     {
       "name": "Sitefire",
@@ -195,23 +209,16 @@
       "batch": "Winter 2025",
       "location": "BY, Germany",
       "url": "https://www.ycombinator.com/companies/mercura"
-    },
-    {
-      "name": "SAMMY Labs",
-      "oneLiner": "Computational Law",
-      "batch": "Winter 2025",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.ycombinator.com/companies/sammy-labs"
-    },
-    {
-      "name": "Hey Telo",
-      "oneLiner": "Voice AI for Home Services",
-      "batch": "Winter 2025",
-      "location": "BY, Germany",
-      "url": "https://www.ycombinator.com/companies/hey-telo"
     }
   ],
   "northAmerica": [
+    {
+      "name": "The Subvocal Company",
+      "oneLiner": "Talk to your computer without talking",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/the-subvocal-company"
+    },
     {
       "name": "Covera",
       "oneLiner": "AI-native OS for insurance brokers",
@@ -263,7 +270,7 @@
     },
     {
       "name": "Rational",
-      "oneLiner": "AI Employees for Accounting",
+      "oneLiner": "AI Employees for In-House Enterprise Accounting",
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/rational"
@@ -319,7 +326,7 @@
     },
     {
       "name": "Bloomy",
-      "oneLiner": "AI-powered mastery learning for K-12",
+      "oneLiner": "AI-driven 1-to-1 learning for every student",
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/bloomy"
@@ -330,6 +337,13 @@
       "batch": "Spring 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/ploy"
+    },
+    {
+      "name": "Prescience, Inc.",
+      "oneLiner": "Healthcare for the age of abundant intelligence.",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/prescience-inc"
     },
     {
       "name": "Miso Labs",
@@ -407,20 +421,6 @@
       "batch": "Spring 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/characterquilt"
-    },
-    {
-      "name": "AgentPhone",
-      "oneLiner": "Phone Numbers for AI Agents",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/agentphone"
-    },
-    {
-      "name": "ANORIA",
-      "oneLiner": "The first wearable that reads your emotions to enhance your EQ. ",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/anoria"
     }
   ]
 }

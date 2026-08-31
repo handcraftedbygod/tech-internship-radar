@@ -2,21 +2,25 @@
   "slug": "jobcubby",
   "name": "JobCubby",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Krakow",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -27,13 +31,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a22639db91377e43ec34aa30f8707a17b5eee0fb",
+      "title": "Intern Java Developer (Angular, Cloud)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29026311__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
+    {
+      "id": "1657a0ea1d981fc061fa2f51102206598a39f7d9",
+      "title": "Java Developer Intern — Cloud, Angular & Microservices",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29026108__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
     {
       "id": "4dbaf8e76a7b5f40dafe227eb2c61102bf32e496",
       "title": "Junior Java Developer",

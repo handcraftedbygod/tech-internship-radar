@@ -1,0 +1,64 @@
+{
+  "slug": "talanto",
+  "name": "Talanto",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-08-31T10:33:12.712Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a39a8498892f4f1a72b7befc213f14a8e4719718",
+      "title": "Junior Frontend Developer z j. niemieckim (TypeScript) - Recruitment Technologies (B2B)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29033016__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
+    {
+      "id": "0a8910017ebfd7a7c2654d2c1b80815f454a3bf8",
+      "title": "Hybrid/Remote Junior Frontend Developer (TypeScript)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29032790__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
+    {
+      "id": "59621cd2fe64eda5d411bb719d410583075421eb",
+      "title": "Junior Backend Engineer: Java, Spring & Postgres",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29034282__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    }
+  ]
+}

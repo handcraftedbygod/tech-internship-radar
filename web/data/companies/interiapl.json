@@ -1,18 +1,23 @@
 {
   "slug": "interiapl",
-  "name": "Interia.pl Group",
+  "name": "INTERIA.PL",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9cda3a6b927109a779ac62c53970e1f7daa20c6c",
+      "title": "Junior Frontend Developer/ka",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29026388__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
+    {
+      "id": "ce68ff2dd6c8d0f3c979e4781286b2359c2f9b8a",
+      "title": "Junior Frontend Developer – Remote (React/Next.js)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29025950__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
     {
       "id": "8f2feed3409e43ad6bfcddb453e755e0bf39a736",
       "title": "Junior Frontend Developer — Remote, React/Next.js & Growth",

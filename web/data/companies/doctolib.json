@@ -2,14 +2,14 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "biz",
       "label": "Business",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -27,13 +32,27 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a48773add5a0f32bdbd094dfadea452242356f2",
+      "title": "Junior Customer Success Manager (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7648739003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
+    {
+      "id": "ec9eb2c5e6dce1943d4eb85d30435203d25f68b2",
+      "title": "Junior Customer Experience Consultant (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7737188003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+    },
     {
       "id": "592f6f59dc7ca3684f960c4570a39e58e8d51664",
       "title": "Werkstudent Projektmanagement & Sales Prozesse (x/f/m)",
