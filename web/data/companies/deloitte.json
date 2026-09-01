@@ -2,13 +2,17 @@
   "slug": "deloitte",
   "name": "Deloitte GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Düsseldorf",
+      "count": 1
+    },
+    {
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5a4c506b9766b309e8f1dac770ff0d524047c23",
+      "title": "Praktikant AI & Data Engineering (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15794-471579_50440-1-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "03d7eb37e144c3562c68be9c7e5ccc348c2a5c4c",
       "title": "Praktikant / Werkstudent Data Analytics - Innovation & Transformation (m/w/d)",

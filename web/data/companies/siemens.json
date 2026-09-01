@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Berlin",
@@ -35,6 +35,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -46,12 +51,19 @@
     0,
     0,
     17,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae1d68e4140f5e15d833f63879d68202c938023f",
+      "title": "Werkstudent (w/m/d) im Bereich Grid Software Sales Operations & Enablement",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601255-2-S",
+      "location": "Nürnberg, Mittelfranken",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "4b3c6c5698cddc12bb1d2c57c3ab01accc0b897b",
       "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme",
@@ -114,13 +126,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1576660-3-S",
       "location": "Braunschweig",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "dd9b3a4ad09d6f90c43584f92f1356175fef76b3",
-      "title": "Working Student (f/m/d) Data Analytics & IT Automation",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

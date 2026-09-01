@@ -2,13 +2,17 @@
   "slug": "venture-up",
   "name": "Venture Up",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "987810354d07af2b5d6a048d7d7cd1a7f75801b3",
+      "title": "Junior Java Developer: Greenfield Projects & Lucrative Pay",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__522507039__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "937c13b640563ec770113f65ebbe872a9ef8b36a",
       "title": "Junior Java Developer",

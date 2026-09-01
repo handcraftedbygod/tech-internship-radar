@@ -2,30 +2,30 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 5,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Munich",
-      "count": 3
+      "hub": "Other",
+      "count": 9
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Munich",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "biz",
@@ -42,12 +42,61 @@
     0,
     0,
     5,
-    0,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "719f03c6584e752fd264abb20fa494c1806215bd",
+      "title": "(Junior) DevOps Engineer (m/w/d) Mobilfunk (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtM2JhY2RjNTA1YjFlNDJjMDljMy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "38b04453fca5ee6d07531a12ae850ca2adb9fec9",
+      "title": "(Junior) Fullstack Software Engineer (m/w/d) Factory (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNDVkNjEzYTMxZDMyNGE4ZGI2OS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "fc6585aa427f6b55eea6e1d7be930eb84148e2fc",
+      "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtN2E4MTI2YzU4Y2YwNGY0ZWI4Yi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "95c059bf8a532847385a2fb71ece9c04b06246fd",
+      "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNWQyMzhjMzJiNzMxNDkxOWI5Yy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "48a299d643d61ef3d7f3de23180b0d92e7d235ec",
+      "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtZDgyMThlNTdkNWEyNGIzMDljYy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "dc91369a807ecbaa3fa300a206075d483a44f704",
+      "title": "(Junior) Softwareentwickler (m/w/d) CTO Taskforce Team (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNjMzNjVmNTg1YTkxNGQxNmEzYS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "fd96bdc3af95884ae7a58b1018d3ab65c2e3a546",
+      "title": "(Junior) Softwareentwickler (m/w/d) AI Forge (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtMGEwZTFhNzRhMzFiNGUxODgzOC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "523ae34836db071204f219fc449360ba6f39f9d3",
       "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
@@ -68,20 +117,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTBlNjg5YWVjNWVhNGJkMmE2ZC1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-25T04:39:11.466Z"
-    },
-    {
-      "id": "32de5b160433787fb66936a87fbe7af3989334df",
-      "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-50e689aec5ea4bd2a6d-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "084b5da4589aa083a9299107357e4fe5512d1295",
-      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-936886f00b3a4fcebc3-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

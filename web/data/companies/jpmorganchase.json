@@ -1,0 +1,67 @@
+{
+  "slug": "jpmorganchase",
+  "name": "JPMorganChase",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-09-01T09:11:49.631Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Dublin",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7a7346322dd155989493e46216b96320ba4ad2f8",
+      "title": "2027 Software Engineer Immersion Program - Summer Internship - Glasgow",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210774813?utm_source=freehire.me",
+      "location": "GLASGOW, LANARKSHIRE, United Kingdom",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "d7c37cc89404a72b7383f8244f36cae130ad7225",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210774716?utm_source=freehire.me",
+      "location": "LONDON, LONDON, United Kingdom",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "4c31e27ff1a498c01e86ee997c3bcb91dc2086ec",
+      "title": "2027 Software Engineer Program - Summer Internship - Dublin",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210776172?utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    }
+  ]
+}

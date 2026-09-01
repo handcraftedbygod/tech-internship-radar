@@ -1,0 +1,52 @@
+{
+  "slug": "ibm",
+  "name": "IBM",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-01T09:11:49.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2addbe3f9aa9ba814f26e856d57410026faecbf5",
+      "title": "Backend Developer Intern — Build Real-World Systems",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__517104619__7082?geoID=499&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Winchester, United Kingdom",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "9ee5e78328e88bf75aabae60d2cb534eee5d5431",
+      "title": "Hybrid Backend Engineer Intern - Learn & Build",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__509668396__7082?geoID=15476&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Hursley, United Kingdom",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    }
+  ]
+}

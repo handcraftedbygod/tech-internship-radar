@@ -2,21 +2,21 @@
   "slug": "hiberus",
   "name": "hiberus",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     },
     {
       "id": "biz",
@@ -33,12 +33,26 @@
     0,
     0,
     9,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ce695382a54831f5838391dfee8b7430ba4a7ec",
+      "title": "Azure DevOps Engineer - Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346895884__7107?geoID=7531&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Pontevedra, Spain",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "fa7a6028a3e652ba45ba2f48078c66b104318d10",
+      "title": "Junior Azure DevOps Engineer — Terraform & Landing Zones",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346896837__7107?geoID=390&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cádiz, Spain",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "102c9621f91f03ce4982596a8ca6e1350a21933a",
       "title": "Junior Azure DevOps Engineer - Hybrid, Learning & Growth",
@@ -94,13 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__340896327__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "7e4cde5e5b242a12f66e66087308d62e40b8f959",
-      "title": "Azure DevOps Junior Engineer — Flexible Hybrid Role",
-      "url": "https://es.whatjobs.com/pub_api__cpl__339896112__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Amsterdam",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     5,
     8,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "40e364f772c11909cfff8a8da8d46ffe5ae02239",
+      "title": "Junior Cook (x/f/m)",
+      "url": "https://careers.hellofresh.com/global/en/job/8156206?gh_jid=8156206",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "04102eda82c611f4613716b64ad42d70c44ce589",
       "title": "Junior Growth Manager",
@@ -113,13 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8050739?gh_jid=8050739",
       "location": "London, England, United Kingdom",
       "firstSeenAt": "2026-07-28T06:25:31.354Z"
-    },
-    {
-      "id": "f4cb9c9b44b392ddd553ddbdac83d381acb239e6",
-      "title": "(Junior) People Business Partner (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8053360?gh_jid=8053360",
-      "location": "Verden, Niedersachsen, Germany",
-      "firstSeenAt": "2026-07-26T06:34:48.431Z"
     }
   ]
 }

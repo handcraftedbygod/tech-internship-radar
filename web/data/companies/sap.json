@@ -4,19 +4,19 @@
   "tier": "notable",
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -38,12 +38,19 @@
     0,
     0,
     8,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5b7dcf2018380f3450b8db4fbadacdc52d625d90",
+      "title": "Junior Data Scientist (Domain Models) - Data Labs (m/f/d) (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTEwNzAtMTYyNTI4OS0xLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "7f5863ee5cd2258f56637472c1d845bd4b14377a",
       "title": "Working Student (f/m/d) - AI Engineering & Data Science",

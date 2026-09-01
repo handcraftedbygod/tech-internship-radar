@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 6,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 12.6,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     11,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ee4b5b5a7fe88d7d371f6ab4fa375056fcbcba2",
+      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000146643968",
+      "location": "Münster, Nordrhein-Westfalen, Germany",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
     {
       "id": "bbd487378e54a6c012ec73455bebd19f4d842615",
       "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
@@ -109,13 +116,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000141261238",
       "location": "Dortmund, Nordrhein-Westfalen, Germany",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "e1ceced8d024a625b44327bd431e343c5a02f03e",
-      "title": "Werkstudent (m/w/d) Data Analyst - Internet ",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000139998229",
-      "location": "München, Bayern, Germany",
-      "firstSeenAt": "2026-08-02T06:33:18.541Z"
     }
   ]
 }

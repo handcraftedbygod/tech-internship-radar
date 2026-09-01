@@ -2,29 +2,37 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 3,
+  "totalPostings": 13,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -36,32 +44,81 @@
     0,
     1,
     2,
-    0,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "d9dd0c6ed82280f628bc2eb9617878d593ca8eb1",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833&utm_source=freehire.me",
-      "location": "Bengaluru",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+      "id": "3002c09590827346ce172340872a07c819fcb46a",
+      "title": "Software Engineer, New Grad - Frontend",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130927&utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     },
     {
-      "id": "5c3f604ba7b89ffaec1d9f8290f0a77cb26a8afe",
-      "title": "Software Engineer, Intern (Summer)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8097801",
-      "location": "Dublin",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
+      "id": "16ee9b7872c47628116ac17467b982f6295a9b29",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130922&utm_source=freehire.me",
+      "location": "Bucharest",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     },
     {
-      "id": "c6097138bf00527e1f8d8732d2f761595a66ba52",
-      "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=7991718",
+      "id": "49e50de3ec77d30ea6c10cbeccb4855264bffdbc",
+      "title": "Software Engineer, New Grad - Frontend",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "bd084af4264af432cb9fde3183542ee15b051fa8",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "location": "London",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "f67b7710c7f4c9fd6e49ee9acc505b036e56ae14",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
       "location": "Toronto",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "66a614c9afa4cc3d7315064384606f010c165adb",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "location": "Dublin",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "c16e246f2d317e892f2290f846edafbf70dc9878",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "location": "San Francisco, Seattle, New York",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "fbca5d740624e4a041d46a7e5a75612cc962a252",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "Toronto",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "bb368df55346c4b03e6735ec3da406da68d63dec",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "location": "San Francisco, Seattle, New York City",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
+    },
+    {
+      "id": "ab593a02bad025d146f5e91e210d8afa8e1a34fb",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+      "location": "London",
+      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]
 }
