@@ -2,21 +2,21 @@
   "slug": "future-impact",
   "name": "Future Impact",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3176743d1ec372318321a8ed446a1c1b2d8ea17e",
+      "title": "Junior Data Engineer (Business Excellence)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156554682__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "0e6141511ef67f775a349d9e49d63814d4060479",
+      "title": "Junior Data Engineer - Manufacturing Analytics & Business Excellence",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156552772__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "7e13921cb6aa78b141ab912b291a9998377e4143",
       "title": "Junior Data Engineer",

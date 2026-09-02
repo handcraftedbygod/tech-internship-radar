@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 33,
+  "currentOpenings": 35,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 33,
+  "totalPostings": 35,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 14
+      "count": 16
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 31
+      "count": 33
     },
     {
       "id": "biz",
@@ -45,12 +45,26 @@
     0,
     0,
     33,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f475deb20efd7ba3cff5bcc46580db960eaee71f",
+      "title": "Junior Occupational Health and Safety",
+      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000146655829/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "97987c432e180bb6b860ef46a4c4b5eb658e2c77",
+      "title": "Junior Health & Safety Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-health-safety-analyst-in-barcelona-spain-jid-744000146655779/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "fe830a15562d2805f731436bae6fb1d219fd256c",
       "title": "Intern Account Manager Groceries & Specialties Portugal",
@@ -105,20 +119,6 @@
       "title": "Junior Labour Lawyer",
       "url": "https://careers.glovoapp.com/job/junior-labour-lawyer-in-barcelona-spain-jid-744000138914549/",
       "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "74b4800e765615f23cfdbde3dc550c3da49222b0",
-      "title": "Intern Health & Safety Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-health-safety-global-hq-in-barcelona-spain-jid-744000131392744/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "06ed3c85ddfe7c76dbdbc8f51c4eef8ea6699b28",
-      "title": "Account Manager Intern - Q Commerce Groceries",
-      "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-groceries-in-madrid-spain-jid-744000143164389/",
-      "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]

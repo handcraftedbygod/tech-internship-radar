@@ -1,0 +1,57 @@
+{
+  "slug": "c3-ai",
+  "name": "C3 AI",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0a560b6f747be845c33ec0ed0751297327ac47ee",
+      "title": "Software Engineer - Intern (Summer 2027)",
+      "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
+      "location": "Redwood City, CA",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "2e5132cc6ebeb6f044ff222f53c11230322a3166",
+      "title": "Data Science - Intern (Summer 2027)",
+      "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002",
+      "location": "Redwood City, CA",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "grupo-serviall",
   "name": "Grupo Serviall",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52804178b0334efb93640f64a5577323590f6b3b",
+      "title": "Desarrollador De Backend Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346171371__7107?geoID=5596&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valladolid, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "6b1d5a71793dcdb117bb722713587bf1e74c16b6",
       "title": "Desarrollador de BackEnd Junior",

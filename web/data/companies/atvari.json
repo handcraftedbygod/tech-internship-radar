@@ -2,21 +2,21 @@
   "slug": "atvari",
   "name": "atvari GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ace6a9a3836b31fdf97ccea160ddb5f4a9807ea",
+      "title": "DevOps Engineering Intern (Nix, NixOS, Nixpkgs, Rust)",
+      "url": "https://www.adzuna.de/details/5858661053?utm_medium=api&utm_source=freehire.me",
+      "location": "Altstadt, Lüneburg",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "9db306f27ea1b735e577dd99bf92109ac97ce5d5",
       "title": "DevOps Engineering Intern (Nix, NixOS, Nixpkgs, Rust)",

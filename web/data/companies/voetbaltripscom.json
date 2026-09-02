@@ -1,0 +1,52 @@
+{
+  "slug": "voetbaltripscom",
+  "name": "Voetbaltrips.com",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4b4098e1e807562accbaac27e7904b3c5337d633",
+      "title": "(Junior/Medior) Backend Developer (Node.js & React)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156529999__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "299b75c5c0896ee9970a051e92f5a7e7e726ef19",
+      "title": "Junior Backend Engineer (Node.js/React) - Scale e-commerce",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156523958__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

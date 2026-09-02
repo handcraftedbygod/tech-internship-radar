@@ -2,21 +2,21 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5480474d807f05a373b0a39fdf95ce2174849723",
+      "title": "Sales Graduate Program Recruitment Day (Paris) 💫",
+      "url": "https://jobs.ashbyhq.com/alan/da063092-f787-451c-892f-2b724c627f5f",
+      "location": "Paris, France; Bordeaux, France",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "df6a547f470815b70e9997c5cc95ff3a0050596d",
       "title": "Insurance Legal - Internship",

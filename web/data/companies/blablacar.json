@@ -2,21 +2,21 @@
   "slug": "blablacar",
   "name": "BlaBlaCar",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "design",
@@ -33,12 +33,19 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "71e7e5cb6e3c43adff224b838ae9a89fe0a65a75",
+      "title": "Stagiaire Communication & Relations Publiques (6 mois) - Paris, France",
+      "url": "https://jobs.lever.co/blablacar/517fe4e3-2611-4fed-933c-ef0455b46aad",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "000d3ff8269e53b24868f471537fb0462e72cb89",
       "title": "Stagiaire Marketing & Réseaux Sociaux France",

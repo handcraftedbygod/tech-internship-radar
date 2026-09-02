@@ -1,0 +1,52 @@
+{
+  "slug": "studentjob",
+  "name": "StudentJob",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2f14e1b986725d0a7176a504a0c84162580ba603",
+      "title": "Junior DevOps Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156544568__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "0303899890be4dbf594c9bd55ecc090eed51586c",
+      "title": "Junior DevOps Engineer: Kubernetes & GitOps Starter",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156541691__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

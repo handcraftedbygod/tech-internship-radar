@@ -2,21 +2,21 @@
   "slug": "altkom-software",
   "name": "Altkom Software",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -33,12 +33,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d069408adaac7718e2be9cfdeb33117e3d698754",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__28970472__7143?geoID=43714&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "f2ee90ea6003ea534d2a05c19fb9406197d1eb3c",
       "title": "Remote Junior Java Developer | Bank Tech & AI Growth",

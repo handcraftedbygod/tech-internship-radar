@@ -1,0 +1,45 @@
+{
+  "slug": "polkomtel",
+  "name": "Polkomtel",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "08f42dbf8f6432989cce652124988e76eb4293c0",
+      "title": "Java Backend Developer (Junior) - Rozwój w Mikroserwisach",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29060562__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

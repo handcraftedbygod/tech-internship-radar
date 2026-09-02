@@ -2,14 +2,14 @@
   "slug": "softwaremind",
   "name": "softwaremind",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "793e33fff71d41a2f4cf6d6a1b42c5c980869e3d",
+      "title": "[RTC] Intern AI-Driven Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/SoftwareMind/744000146148409--rtc-intern-ai-driven-software-engineer?utm_source=freehire.me",
+      "location": "Kraków, Lesser Poland Voivodeship, pl",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "1d2fc5b3de8de046c47804bed1a5574819ec5e48",
       "title": "AI-Driven Software Engineer Intern",

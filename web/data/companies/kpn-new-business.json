@@ -2,21 +2,21 @@
   "slug": "kpn-new-business",
   "name": "KPN New Business",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78d37bd1ee24bb0b1679264febeb5935d9d47752",
+      "title": "Junior DevOps Engineer Mobile Core Voice",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156535583__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "9de25fa154e889a8f7d316b28b56c5a6b57f76e1",
+      "title": "Junior DevOps Engineer Voice – AI, 5G & Automation",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156509803__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "2c502d7906fe0dadcdc1c11bcc247af09ea56918",
       "title": "Junior DevOps Engineer",

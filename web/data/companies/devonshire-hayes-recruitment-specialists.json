@@ -2,21 +2,21 @@
   "slug": "devonshire-hayes-recruitment-specialists",
   "name": "Devonshire Hayes Recruitment Specialists Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5aa92037ea3096492b1980d1978d3db3c2d0e6ba",
+      "title": "Junior Full Stack Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5858177302?utm_medium=api&utm_source=freehire.me",
+      "location": "Upminster, Essex",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "3ad89110dbafce9187c8cad0a782a0fc2f049431",
       "title": "Junior Full Stack Developer",

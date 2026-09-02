@@ -2,21 +2,21 @@
   "slug": "sngular",
   "name": "Sngular",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0ac8da6b6eec0b2e4e8babf903349280d7bfdf5d",
+      "title": "Junior Devops & Cloud Engineer - €20.000 - €25.000 Al Año",
+      "url": "https://es.whatjobs.com/pub_api__cpl__346236093__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "8412a6f3ec8f3eacb17d2d7dd8ff463f4301a078",
+      "title": "Junior DevOps & Cloud Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__345051920__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "8d4c6df0754666099d727ca43fbf2b8840e9701b",
       "title": "Junior DevOps & Cloud Engineer: Azure & Kubernetes",

@@ -2,21 +2,21 @@
   "slug": "social-you",
   "name": "Social You",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     7,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "058640525fb6740ef3b88812a6a38dacf2bc3507",
+      "title": "Junior Java Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__344059112__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "65d19a1956180d68893295ec48c6d46aad8a7692",
       "title": "Junior Frontend Developer",

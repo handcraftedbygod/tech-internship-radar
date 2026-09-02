@@ -4,12 +4,12 @@
   "tier": "notable",
   "currentOpenings": 23,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 37,
-  "avgPostingDurationDays": 18.4,
+  "totalPostings": 38,
+  "avgPostingDurationDays": 18.8,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 25
+      "count": 26
     },
     {
       "hub": "Munich",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -59,12 +59,19 @@
     0,
     27,
     10,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c70896f5cbc0982feeeaa9c3b11b470a85b29834",
+      "title": "Intern Global Customer Advocacy",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7821371003?gh_jid=7821371003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "db0edffbb630b9d5827d6c0100caf74f46f63f60",
       "title": "(Graduated) Intern Academy Operations & Technology",
@@ -125,13 +132,6 @@
       "id": "7d616d7eb7201923996edb93f39b2432a36ed571",
       "title": "Marketing Database Operations Intern",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7816963003?gh_jid=7816963003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "aecc554d7aaa4880243cecc23f1fbe9477b7c1b5",
-      "title": "Digital Marketing Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7816955003?gh_jid=7816955003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }

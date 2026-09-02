@@ -1,0 +1,57 @@
+{
+  "slug": "waving",
+  "name": "Waving",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4436ec1e6a564927544f0ed290dbce08ea6399bb",
+      "title": "Junior Backend Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156513538__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "99004a93c5d82c532edb6f3bf151024ceb65ebe0",
+      "title": "Junior Backend Engineer: Data Pipelines & AI Training",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156522992__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

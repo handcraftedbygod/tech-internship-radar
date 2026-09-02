@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 6,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 11.8,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     11,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8495ee6d7cb04339d536fd88776a3cc346befd8e",
+      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
+      "url": "https://aijobs.net/job/junior-data-analyst-project-manager-mwd-hotel-munster-nordrhein-westfalen-germany-312195/?utm_source=freehire.me",
+      "location": "Münster, Nordrhein-Westfalen, Germany",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "5ee4b5b5a7fe88d7d371f6ab4fa375056fcbcba2",
       "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
@@ -109,13 +116,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000143128718",
       "location": "Dortmund, Nordrhein-Westfalen, Germany",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "e1498fa5f733291db6ab495ce4312fa5f70eaf38",
-      "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000141261238",
-      "location": "Dortmund, Nordrhein-Westfalen, Germany",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]
 }

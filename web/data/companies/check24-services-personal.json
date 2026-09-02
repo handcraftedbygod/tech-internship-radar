@@ -2,14 +2,14 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5b8ccb0472e4dcc0c77bce4ab97665ab9b78042",
+      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-35c9e91e72a84d5a8c9-S?utm_source=freehire.me",
+      "location": "Münster, Westfalen, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "719f03c6584e752fd264abb20fa494c1806215bd",
       "title": "(Junior) DevOps Engineer (m/w/d) Mobilfunk (Fullstack-Entwickler/in)",
@@ -110,13 +117,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTZlZmI1NDk0ZGRlNGFjOGFiNS1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "7dac8f45f705a53fb88cdf12841e76e03482fb1a",
-      "title": "(Junior) Data Scientist (m/w/d) – Generative AI Mietwagen International (Data Scientist)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTBlNjg5YWVjNWVhNGJkMmE2ZC1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-25T04:39:11.466Z"
     }
   ]
 }

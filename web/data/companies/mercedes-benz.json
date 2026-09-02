@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Stuttgart",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,19 @@
     0,
     0,
     19,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e8b898766b7374277e361042fc903e50d57e1712",
+      "title": "Praktikant*in Data Analytics & Business Intelligence",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625930-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "27201de558cf73cb2343f6334281b6cc210c9e47",
       "title": "Werkstudent*in Data Engineering & Business Intelligence",
@@ -112,13 +119,6 @@
       "title": "Praktikant*in Fullstack-Entwicklung",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1617526-1-S",
       "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "6e58ad37cf484f1b8e5774648d959c8fa17031a4",
-      "title": "Werkstudent*in Data Analytics (ADAS Customer Function)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1616944-1-S",
-      "location": "Böblingen",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]

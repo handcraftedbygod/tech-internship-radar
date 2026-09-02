@@ -1,0 +1,52 @@
+{
+  "slug": "exxellence",
+  "name": "Exxellence",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6b3026978259195bec110b8ece93bf32ad0a953b",
+      "title": "Junior Java Developer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156551616__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "c9372db26488ea5917df61999c5582a9afed584c",
+      "title": "Junior Java Developer: Cloud-Native & Microservices",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156532328__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

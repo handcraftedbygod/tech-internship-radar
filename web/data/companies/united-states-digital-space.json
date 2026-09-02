@@ -2,14 +2,14 @@
   "slug": "united-states-digital-space",
   "name": "United States Digital Space LLC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     12,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70b0f1baf20c5501246ec8705f68ef72e138de56",
+      "title": "Junior Research Software Engineer for Sustainability Science - Full Stack",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156547699__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "2c7c0abf9b3432d14bf9655adde55e137825efc9",
       "title": "Junior Go Backend Engineer for Cloud Delivery Platform",
@@ -108,13 +115,6 @@
       "title": "Junior Data Engineer: Grow with Data & AI Solutions",
       "url": "https://nl.whatjobs.com/pub_api__cpl__140715161__7137?geoID=1772&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Breda, Netherlands",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "a2ab41f3ae273e95f919620c5bfb0720f3bfb97a",
-      "title": "Junior DevOps Engineer: CI/CD, Kubernetes & Cloud",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__38415520__7095?geoID=1766&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Sankt Gallen, Switzerland",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]

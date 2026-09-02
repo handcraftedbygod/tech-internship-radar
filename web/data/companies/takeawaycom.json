@@ -1,0 +1,52 @@
+{
+  "slug": "takeawaycom",
+  "name": "Takeaway.com",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-02T08:26:00.692Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3689f96627bceeb1e6c7e9ef9335b880ea93a3b4",
+      "title": "Hybrid Junior Data Engineer: Build Scalable Data Pipelines",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156530477__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
+    {
+      "id": "33e77d7d50b4f5df679f3205ea6b47f901633552",
+      "title": "Country Analytics - Junior Data Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__156520063__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    }
+  ]
+}

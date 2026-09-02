@@ -2,21 +2,21 @@
   "slug": "procar-automobile-wuppertal",
   "name": "Procar Automobile Wuppertal GmbH & Co. KG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bc207c2866ef121e61361de1fcba49cddceb9acb",
+      "title": "Junior Data Engineer im Controlling (m/w/d) in Velbert",
+      "url": "https://de.whatjobs.com/pub_api__cpl__483868333__7078?geoID=13866&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Velbert, Germany",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "5e4345cd948470a1a3e966c504b3567f374014fb",
       "title": "Junior Data Engineer im Controlling (m/w/d) in Velbert (Controller/in)",

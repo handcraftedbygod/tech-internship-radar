@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "76b6212403187fd5e66919fa0241905be6e0d16a",
+      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
+      "url": "https://jobs.smartrecruiters.com/CHECK24/744000146643968--junior-data-analyst-project-manager-m-w-d-hotel?utm_source=freehire.me",
+      "location": "Münster, Nordrhein-Westfalen, de",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "7ab6d811979c83d7fe4f6c281c3a554b66888da3",
       "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",

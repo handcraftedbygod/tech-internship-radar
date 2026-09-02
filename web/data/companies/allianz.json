@@ -4,12 +4,16 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 16.1,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 2
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5154bc94b0e8f263c1e31702338732b2510bea38",
+      "title": "ACDC Governance - Customer Frontend & Reporting Internship (m/f/d)",
+      "url": "https://careers.allianz.com/global/en/job/AISAIPGB96118EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "BARCELONA, Barcelona",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "08405ab51d2892a5da8bb2f224063ae155c409ce",
       "title": "Working Student Data Engineering (m/f/d)",

@@ -2,21 +2,21 @@
   "slug": "adac",
   "name": "ADAC SE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e88bb7809026fbc90fac0604d286d101f929bcb2",
+      "title": "Werkstudent Power BI & Data Analytics (w|m|d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18349-46953_16_JB5236481-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-02T08:26:00.692Z"
+    },
     {
       "id": "afbe166b1de74d909d38c104883015e8036bdf92",
       "title": "Werkstudent Power BI & Data Analytics (w|m|d), ADAC Zentrale",
