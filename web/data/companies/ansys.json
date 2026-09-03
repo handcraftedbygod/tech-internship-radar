@@ -2,21 +2,21 @@
   "slug": "ansys",
   "name": "Ansys",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "138f0714ee8d074217a250e3226b56d18b48773a",
+      "title": "Digital Mission Engineering Software Development Internship",
+      "url": "https://www.themuse.com/jobs/ansys/digital-mission-engineering-software-development-internship",
+      "location": "Exton, PA",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "be37996f7f147af5bfd81a529c16ad1a77b048ac",
       "title": "Frontend Software Developer Intern - Fall 2026",

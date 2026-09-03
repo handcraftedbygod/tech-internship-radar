@@ -2,14 +2,14 @@
   "slug": "roblox",
   "name": "Roblox",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 6,
+  "totalPostings": 10,
   "avgPostingDurationDays": 22.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 6
+      "count": 10
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,16 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +43,40 @@
     0,
     0,
     6,
-    0,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8aa19778c41bb7b312741e8661d4a577174aacad",
+      "title": "[Summer 2027] Product Management Intern",
+      "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "ee32ac05b08418f3e845490552793476ccca27eb",
+      "title": "[Summer 2027] Product Design Intern",
+      "url": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "ac36c14cdacdeecd2c62ddff1e4b1f949105a85b",
+      "title": "[2027] Associate Product Manager, Early Career",
+      "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "7f25f4f3cc5db2274beb1928b31c3a6b4ce911d1",
+      "title": "[2027] Associate Product Designer, Early Career",
+      "url": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "bbbbdea3c240dbec18c05827bcc37e0871e6fa65",
       "title": "Software Engineer Intern",

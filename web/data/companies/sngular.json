@@ -2,21 +2,21 @@
   "slug": "sngular",
   "name": "Sngular",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c177ada4c72b109daa1aa5ef26e5a7859e1118a6",
+      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & Azure",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347379186__7107?geoID=10127&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Santander, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "0ac8da6b6eec0b2e4e8babf903349280d7bfdf5d",
       "title": "Junior Devops & Cloud Engineer - €20.000 - €25.000 Al Año",

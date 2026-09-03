@@ -2,9 +2,9 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 23,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 38,
+  "totalPostings": 39,
   "avgPostingDurationDays": 18.8,
   "topLocations": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 18
+      "count": 19
     },
     {
       "id": "swe",
@@ -59,12 +59,19 @@
     0,
     27,
     10,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "35cfa2fdf55b3eca21786548b0dfb772f950cc10",
+      "title": "Field Marketing Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003",
+      "location": "New York, US, New York",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "c70896f5cbc0982feeeaa9c3b11b470a85b29834",
       "title": "Intern Global Customer Advocacy",
@@ -127,13 +134,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7667306003?gh_jid=7667306003",
       "location": "New York, US, New York",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "7d616d7eb7201923996edb93f39b2432a36ed571",
-      "title": "Marketing Database Operations Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7816963003?gh_jid=7816963003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

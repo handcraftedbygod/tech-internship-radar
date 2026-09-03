@@ -2,14 +2,14 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Munich",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a44bbf39d52ab9b8c656992a5426f8fe631105a8",
+      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtMzVjOWU5MWU3MmE4NGQ1YThjOS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "f5b8ccb0472e4dcc0c77bce4ab97665ab9b78042",
       "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
@@ -110,13 +117,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-66a127cf519c44cfaa1-S?utm_source=freehire.me",
       "location": "München, BAYERN, DEUTSCHLAND",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "cad4ba82d9d77274e006e204fc851f25c846dae7",
-      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise (Business-Analyst/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNTZlZmI1NDk0ZGRlNGFjOGFiNS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

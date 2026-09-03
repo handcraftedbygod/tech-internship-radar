@@ -2,21 +2,21 @@
   "slug": "merkle",
   "name": "Merkle",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ab664bd0e7176014487f0be6c1fc7fb94176f68",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347204723__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "bfaf19cf6861677236fcdc1a296d2b4d2f73331e",
       "title": "Junior Java Developer",

@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Stuttgart",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,19 @@
     0,
     0,
     19,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8bad79fc94dff31f739b06eaa7da0df87aa8e372",
+      "title": "Praktikant*in MO360 Product Owner Team – Fokus Data Analytics & Applikationsentwicklung...",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625336-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "e8b898766b7374277e361042fc903e50d57e1712",
       "title": "Praktikant*in Data Analytics & Business Intelligence",
@@ -113,13 +120,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1617929-1-S",
       "location": "Leinfelden-Echterdingen",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "cd04603eca1ee651b8376f0996a250d4d60b7fd8",
-      "title": "Praktikant*in Fullstack-Entwicklung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1617526-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

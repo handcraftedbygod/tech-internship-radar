@@ -1,0 +1,45 @@
+{
+  "slug": "serpapi",
+  "name": "SerpApi",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-03T08:35:20.473Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dae7a35e218cd430e1567aea6ee32760fb2dcda3",
+      "title": "Junior to Senior Fullstack Engineer multiple positions",
+      "url": "https://findwork.dev/Q6YAKOn/junior-to-senior-fullstack-engineer-multiple-positions-at-serpapi",
+      "location": "Based in Austin, TX but remote-first structure",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    }
+  ]
+}

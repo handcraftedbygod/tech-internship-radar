@@ -2,21 +2,21 @@
   "slug": "arktic",
   "name": "Arktic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 6,
+  "totalPostings": 14,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,68 @@
     0,
     0,
     6,
-    0,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3b8cb5181d49df87100c5963b0c6fbc7ed531e0",
+      "title": "Remote Junior Backend Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347094756__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "f1fec3cad90455733bfb785b35c92f3acdc40237",
+      "title": "Remote Junior Java Backend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347096571__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "524c93971a7fd2395a55fec6365343f2ee05c195",
+      "title": "Remote/Backend Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347090058__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "c2c94c4acff6f5046a2181776458564606204158",
+      "title": "Remote/Backend Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347077214__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "f15e422db24e1e0940ecfbc458feaf7d19f2e0e6",
+      "title": "Remote Junior Backend Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347081256__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "3095e9bf76e7bf47c594e28ede86595a9616e19b",
+      "title": "Remote Junior Java Backend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347101999__7107?geoID=8686&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Vitoria Gasteiz, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "88663cdf47b81c9fa0d7b166a210da3d2501d0d0",
+      "title": "Remote/Backend Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347079871__7107?geoID=8686&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Vitoria Gasteiz, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "91640de7c1b423494838cca9d25de2cd5d132a90",
+      "title": "Remote Junior Java Backend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347087552__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "ae6c220576743cdea99bdbe861be864fe01b067d",
       "title": "Remote Junior Java Backend Developer",
@@ -47,34 +103,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__342969666__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "4b867edfa17e853ccaa746f4ba294a9ff7ca8001",
-      "title": "Remote/Backend Junior Java Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342972205__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "80b9f7674252bae9116452c66697bfb9b8f71b41",
-      "title": "Remote Junior Java Backend Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343180690__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "1a5c04f9e536c28b2677774a054496fcabc89a09",
-      "title": "Remote/Backend Junior Java Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343166366__7107?geoID=10648&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Foz, Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "2e2fda265bc9d429b048820cdc5d32896956d3ea",
-      "title": "Remote Junior Backend Java Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343166312__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
     }
   ]
 }

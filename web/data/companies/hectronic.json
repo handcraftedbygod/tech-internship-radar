@@ -2,21 +2,21 @@
   "slug": "hectronic",
   "name": "Hectronic GmbH",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77d4daaf4176df27d82519326f56bf8318e96862",
+      "title": "Junior Cloud & Platform Engineer (m/w/d) (Cloud-Consultant)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkyODc0OTI4Mi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "29b2071f05fda2242778a8f0e4d5e9581ac1d7b9",
       "title": "Junior Cloud & Platform Engineer (m/w/d)",

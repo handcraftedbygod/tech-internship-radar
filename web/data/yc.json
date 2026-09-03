@@ -213,6 +213,13 @@
   ],
   "northAmerica": [
     {
+      "name": "Orca Aerospace",
+      "oneLiner": "AI spacecraft operators that lives onboard the vehicle",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/orca-aerospace"
+    },
+    {
       "name": "The Subvocal Company",
       "oneLiner": "Talk to your computer without talking",
       "batch": "Fall 2026",
@@ -414,13 +421,6 @@
       "batch": "Spring 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/characterquilt"
-    },
-    {
-      "name": "AgentPhone",
-      "oneLiner": "Phone Numbers for AI Agents",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/agentphone"
     }
   ]
 }

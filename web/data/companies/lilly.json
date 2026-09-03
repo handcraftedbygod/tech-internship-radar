@@ -2,20 +2,25 @@
   "slug": "lilly",
   "name": "lilly",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8a021bf523e19852993ea2857a8e2d2e9b177f38",
+      "title": "Intern – Data Analyst",
+      "url": "https://lilly.wd115.myworkdayjobs.com/CMP/job/Ireland-Kinsale/Intern---Data-Analyst_R-111286-1?utm_source=freehire.me",
+      "location": "Ireland, Kinsale",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "c6dcb4004b1ae4bb1d875d959fcbb1fc8b6f155d",
       "title": "Intern – Data Analytics",

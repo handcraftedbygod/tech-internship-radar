@@ -1,0 +1,57 @@
+{
+  "slug": "vanrath",
+  "name": "VANRATH",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-03T08:35:20.473Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bb022f9d69847c32b84fedeef6dfb730c7ca24cc",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__524173974__7082?geoID=936&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Belfast, United Kingdom",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "9187018082649fb74fa9ece276cc0ee9255c6a98",
+      "title": "Junior Software Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__524533267__7082?geoID=936&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Belfast, United Kingdom",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    }
+  ]
+}

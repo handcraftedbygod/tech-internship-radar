@@ -2,21 +2,21 @@
   "slug": "manpower-uk",
   "name": "Manpower UK Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e552e8f3b2b53423debb80e748be1b309f90f4c",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5858152209?utm_medium=api&utm_source=freehire.me",
+      "location": "Cowley, Uxbridge",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "9d90f0b137360d92e060dc7df5d6d580d2795f5b",
       "title": "Junior Data Analyst",

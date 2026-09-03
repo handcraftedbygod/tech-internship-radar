@@ -2,21 +2,21 @@
   "slug": "starling-bank",
   "name": "Starling Bank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6439872781dfe810f453b3d446b415c2f724367a",
+      "title": "Junior Technical Project Manager - Engine by Starling",
+      "url": "https://apply.workable.com/j/A57043FDA8",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "f7047a9facdbe647d2d4a476cb153c935fa47a22",
       "title": "Junior Information Security Analyst (GRC) - Engine by Starling",

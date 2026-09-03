@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 35,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 35,
+  "totalPostings": 38,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 16
+      "count": 19
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 33
+      "count": 36
     },
     {
       "id": "biz",
@@ -45,12 +45,33 @@
     0,
     0,
     33,
-    2,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65c1dfa48c6a5e32aa09a16981ed03853acdba4a",
+      "title": "Junior Health & Safety Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-health-safety-analyst-in-barcelona-spain-jid-744000146999551/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "d8218cb61a6ea8e3e1afa5cf72ad5d916228f641",
+      "title": "Junior Privacy Counsel",
+      "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000147004989/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "ab4e0a3672a97e44b35ff4d46f82301a0874c465",
+      "title": "Junior Occupational Health and Safety",
+      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000147001089/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "f475deb20efd7ba3cff5bcc46580db960eaee71f",
       "title": "Junior Occupational Health and Safety",
@@ -99,27 +120,6 @@
       "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-las-palmas-de-gran-canaria-spain-jid-744000145903669/",
       "location": "Las Palmas de Gran Canaria, Spain",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "afbac495408a390b2458df7ac0517aa8573136a2",
-      "title": "Intern Brands Ads Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000145906479/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "681a72c5d8e6e86c4c21b91beb2c354591597873",
-      "title": "Intern Real State",
-      "url": "https://careers.glovoapp.com/job/intern-real-state-in-barcelona-spain-jid-744000129182974/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "3931b968c28623480374a093d73e393ae4ff75b6",
-      "title": "Junior Labour Lawyer",
-      "url": "https://careers.glovoapp.com/job/junior-labour-lawyer-in-barcelona-spain-jid-744000138914549/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]
 }

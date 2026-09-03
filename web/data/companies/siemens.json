@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Munich",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -51,12 +51,19 @@
     0,
     0,
     17,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8192a4540bf16af9f72362f634e76b37f61bbb74",
+      "title": "Werkstudent (w/m/d) Software Engineering für AI-gestützte Cost & Value Engineering Anwendungen",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1625979-1-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "ae1d68e4140f5e15d833f63879d68202c938023f",
       "title": "Werkstudent (w/m/d) im Bereich Grid Software Sales Operations & Enablement",
@@ -119,13 +126,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623966-1-S",
       "location": "Erlangen",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "14ddf257a18289208a57c6e88fac2fe132868b56",
-      "title": "Werkstudent (w/m/d) Software Development, AI & Data Integration",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1576660-3-S",
-      "location": "Braunschweig",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

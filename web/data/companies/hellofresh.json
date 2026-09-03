@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 14.7,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 5
     },
     {
-      "hub": "London",
-      "count": 4
+      "hub": "Berlin",
+      "count": 5
     },
     {
-      "hub": "Berlin",
+      "hub": "London",
       "count": 4
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -45,15 +45,22 @@
     0,
     5,
     8,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
     {
+      "id": "5904927dd5e6a49c6bbfffda898d6dd648555065",
+      "title": " Junior Food Stylist - (x/f/m) ",
+      "url": "https://careers.hellofresh.com/global/en/job/8169165?gh_jid=8169165",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
       "id": "40e364f772c11909cfff8a8da8d46ffe5ae02239",
-      "title": "Junior Cook (x/f/m)",
+      "title": "Junior Cook/Koch (x/f/m)",
       "url": "https://careers.hellofresh.com/global/en/job/8156206?gh_jid=8156206",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
@@ -113,13 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8074260?gh_jid=8074260",
       "location": "Derby, England, United Kingdom",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "8a314c35c4e231a89d41e66fd3aa577677179abb",
-      "title": "Operations and Campaign Junior Manager - Retail Media",
-      "url": "https://careers.hellofresh.com/global/en/job/8050739?gh_jid=8050739",
-      "location": "London, England, United Kingdom",
-      "firstSeenAt": "2026-07-28T06:25:31.354Z"
     }
   ]
 }

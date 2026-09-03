@@ -2,21 +2,33 @@
   "slug": "jpmorgan-chase",
   "name": "JPMorgan Chase",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "New York",
       "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     },
     {
       "id": "quant",
@@ -33,12 +45,33 @@
     0,
     0,
     4,
-    0,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38ec87f836558cc3b70bb0a50035e1897968dbdb",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/2027-software-engineer-program-summer-internship-glasgow-london",
+      "location": "Glasgow, United Kingdom, London, United Kingdom",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "025f05824fb9aefa608f4c742c431578a295745e",
+      "title": "2027 Software Engineer Program - Summer Internship - Dublin",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/2027-software-engineer-program-summer-internship-dublin",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "112d5ca1e9b9081564e42d8f918a03a3e2e6d68c",
+      "title": "2027 Software Engineer Immersion Program - Summer Internship - Glasgow",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/2027-software-engineer-immersion-program-summer-internship-glasgow",
+      "location": "Glasgow, United Kingdom",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "db6522d804b0260bea58abb82e0871e624b0954f",
       "title": "Quantitative Research, Asset Management Summer Analyst",

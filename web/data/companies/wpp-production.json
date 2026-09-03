@@ -2,21 +2,21 @@
   "slug": "wpp-production",
   "name": "WPP Production",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d945a659e17c60df6f1b81b03c40fe027f7a4080",
+      "title": "Trainee Frontend Developer",
+      "url": "https://www.wppproduction.com/careers/jobs/5994298004?gh_jid=5994298004&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "2e7fadb5a54b47cecd54a4fb878f5ddda4b64035",
       "title": "Trainee Frontend Developer",

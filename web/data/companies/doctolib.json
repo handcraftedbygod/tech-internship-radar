@@ -2,14 +2,14 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45259a67e37e546a3738fbdb2cbb4ed0b79fde37",
+      "title": "Praktikum Human Resources  (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7984297003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "7a48773add5a0f32bdbd094dfadea452242356f2",
       "title": "Junior Customer Success Manager (x/f/m)",

@@ -2,21 +2,21 @@
   "slug": "sutor-bank",
   "name": "Sutor Bank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d143ac0dcab7bb307d600af564e5ec227cf1762",
+      "title": "Junior DevOps Platform Engineer (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkyODUxNDk0OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "956cefe8f231f1308808e981b80ff1f4afd8d429",
       "title": "Junior DevOps Platform Engineer (m/w/d)",

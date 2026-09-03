@@ -2,14 +2,14 @@
   "slug": "papernest",
   "name": "papernest",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,16 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +38,26 @@
     0,
     0,
     3,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0141e75b348f7a41b4c6871ae72a2f7918af3169",
+      "title": "Business Developer Intern",
+      "url": "https://papernest.wd502.myworkdayjobs.com/External_Careers_Global/job/Barcelona/Business-Developer-Intern_JR100129-6?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
+    {
+      "id": "f567ecd853db26eeb2bd6232458d4d901facd34e",
+      "title": "Data Analyst Intern – English-Speaking – BCN",
+      "url": "https://papernest.wd502.myworkdayjobs.com/External_Careers_Global/job/Barcelona/Data-Analyst_JR100024-3?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-09-03T08:35:20.473Z"
+    },
     {
       "id": "acbfd1ef90a1e81611e3ace8c815453f04cb1555",
       "title": "Junior Data Engineer: Data Flow & Architecture",
