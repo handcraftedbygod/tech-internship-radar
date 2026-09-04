@@ -2,25 +2,25 @@
   "slug": "booz-allen",
   "name": "Booz Allen",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "707e66f50390d3ebb0bb4b4c59566eeaac369847",
+      "title": "University - 2027 Summer Games Systems Engineer Intern - Rome, NY",
+      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386?utm_source=freehire.me",
+      "location": "Rome, NY",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "dd505b08078ae6e3cccf10ee98f04098fc389e20",
       "title": "University, 2027 Summer Games Software Developer Intern",

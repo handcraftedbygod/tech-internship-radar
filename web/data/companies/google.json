@@ -2,14 +2,14 @@
   "slug": "google",
   "name": "Google",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Zurich",
@@ -17,6 +17,10 @@
     },
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -29,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -41,12 +45,26 @@
     0,
     0,
     4,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c44dade8d096fa4ab13bcf6e19b0e1a201ca1d5",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "b5838ebc65780a03306125bc2db36956d22400e0",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726?utm_source=freehire.me",
+      "location": "Zürich, Switzerland; Munich, Germany; Paris, France; Dublin, Ireland; Stockholm, Sweden",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "d2711f962d6aa5b0ef4acd0dc1012bdbf556b188",
       "title": "Software Engineering or SRE, PhD Intern, 2027",

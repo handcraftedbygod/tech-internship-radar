@@ -2,21 +2,21 @@
   "slug": "devops-excellence",
   "name": "devops excellence",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99b4f6e4aa3470d510d5cd658dfd563e803ea076",
+      "title": "Junior DevOps Engineer (m/w/d) (IT-Systemadministrator/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMTk3MjQtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "90ff53be5faf7f40c033565dcdf183367f757780",
       "title": "Junior DevOps Engineer (m/w/d) - System Engineering / Admin, Ingenieur",

@@ -1,21 +1,26 @@
 {
   "slug": "consense",
-  "name": "ConSense GmbH",
+  "name": "ConSense",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "69af6304fccedec36ae99004aa19d11ee13dc412",
+      "title": "Junior Product Manager Software (m/w/d) (Produktmanager/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzA5OTk4LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "d5e2d3c412f342a842a0d3a5e10d3804de4a041a",
       "title": "Junior Software Trainer & Consultant (m/w/d) (Anwendungssystemberater/in)",

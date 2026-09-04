@@ -2,21 +2,21 @@
   "slug": "autarcenergy",
   "name": "Autarcenergy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "db1877998995c2f814b6f3f81ff0af1e57002a37",
+      "title": "Praktikum Software Vertrieb im Bereich Erneuerbare Energien",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/praktikum-software-vertrieb-im-bereich-erneuerbare-energien-berlin-35677",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "5324aa95768cfcc8bd1fe618c0a0323b3416fd48",
       "title": "Praktikum Software Vertrieb im Bereich Erneuerbare Energien",

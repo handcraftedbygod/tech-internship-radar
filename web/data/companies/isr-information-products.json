@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 29,
-  "avgPostingDurationDays": 9.1,
+  "totalPostings": 30,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 29
+      "count": 30
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     29,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8aa5f2c039d5403eddbb3a2225e7ceb10020b032",
+      "title": "Junior Consultant Data Engineering (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5869973769?se=DHtHrSmo8RGW1dd598LFyQ&utm_medium=api&utm_source=freehire.me&v=9043C9531E784EF41AD9335327B0D1C4606259D4",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "57b97d6d307091406bf55956f0d92c0ab7fe420c",
       "title": "Data Engineer Consultant Junior Level (m/w/d)",
@@ -98,13 +105,6 @@
       "id": "973d67e5c6788b612b2beac92926713d50981cfd",
       "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
       "url": "https://de.whatjobs.com/pub_api__cpl__478148731__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "8864e7cab94d65eec4b703c4dac5a61711698833",
-      "title": "IT-Spezialist als Trainee Data Engineer - SAP BW, Data-Warehouse (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__478148695__7078?geoID=1122&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

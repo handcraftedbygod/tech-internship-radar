@@ -2,21 +2,21 @@
   "slug": "carel-deutschland",
   "name": "Carel Deutschland GmbH",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc8276456f7cf3334950d6c16930ea0683662780",
+      "title": "(Junior) Software Entwickler (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5864795643?se=dJCWrimo8RGxWp4A46G3QA&utm_medium=api&utm_source=freehire.me&v=30D1EEA476BF0B03F2E7D78A393ED346BE346593",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "d650bb7ded70ab55a30e6ad9e5c0a878f7ad707e",
       "title": "(Junior) Software Entwickler (m/w/d)",

@@ -1,22 +1,22 @@
 {
   "slug": "icalia-solutions-by-izertis",
-  "name": "Icalia Solutions By Izertis",
+  "name": "Icalia Solutions by Izertis",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "40ab4802f11be0325f0db3027b76f3dc34bf2b5b",
+      "title": "Junior Azure DevOps Engineer — Remote & Flexible",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347290127__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "d35628bd9e3bc18f47095987184949860588d4ae",
+      "title": "Azure DevOps Engineer (Junior) - Remote & Flexible Hours",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347288221__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "de6b6f5e94b4114ba35f2c1b1fbe3d7be40b5e52",
       "title": "Junior Azure DevOps Engineer — Remote & Flexible",

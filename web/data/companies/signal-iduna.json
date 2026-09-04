@@ -2,21 +2,21 @@
   "slug": "signal-iduna",
   "name": "SIGNAL IDUNA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "abd0d52e1657a9269a88d6a4b218660f1f9fa4e6",
+      "title": "Werkstudent IT (m/w/d) Platform Engineering / Developer Tooling (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkyODgzMjg4OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "53bda5cf14bfcd9a90a6608f91a4c1e2a4838690",
       "title": "Werkstudent IT (m/w/d) Platform Engineering / Developer Tooling (Fachinformatiker/in - Anwendungsentwicklung)",

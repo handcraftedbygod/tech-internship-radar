@@ -2,14 +2,14 @@
   "slug": "grupo-tecdata-engineering",
   "name": "Grupo TECDATA Engineering",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 21
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     11,
-    9,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "449a6c99bc3d9d13479d8e968cb2f7499597b93e",
+      "title": "Data Engineer Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347766633__7107?geoID=9095&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "BOIRO, Spain",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "3f6e3966014cef5e54f283ddb073a7d7bda84649",
       "title": "Stage - Junior Data Engineer",
@@ -100,13 +107,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__347096561__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "d8c0a1ba618a46962cc6d11f59f995496e22ac1c",
-      "title": "Stage - Junior Data Engineer (H/F)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__346159703__7107?geoID=9045&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Lugo, Spain",
-      "firstSeenAt": "2026-08-30T09:46:54.503Z"
     }
   ]
 }

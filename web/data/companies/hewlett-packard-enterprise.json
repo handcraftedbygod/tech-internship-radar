@@ -2,21 +2,21 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3841f55986b4689094a67c059b85fae317aa5b3a",
+      "title": "Systems/Software Engineer (Internship)",
+      "url": "https://careers.hpe.com/us/en/job/HPE1US1214490EXTERNALENUS?utm_source=freehire.me",
+      "location": "Galway, Galway",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "af01b4884de7fba88ecaf6b28ce06cc10082c8a7",
       "title": "Cloud Engineer - Intern Conversion",

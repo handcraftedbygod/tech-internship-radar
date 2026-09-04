@@ -1,22 +1,22 @@
 {
   "slug": "manning-global",
-  "name": "Manning Global AG",
+  "name": "Manning Global Ag",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "add183bdfce7510cb1f54e0d4a0569a1f31dc10e",
+      "title": "Junior Wireless Network Engineer – Data & Optimization",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347216185__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "59246e343fd7f8ff36d915c2591ba90be031be1b",
       "title": "Junior Wireless Network Engineer – Data & Optimization",

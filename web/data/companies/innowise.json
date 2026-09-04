@@ -2,14 +2,14 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0783d51ca4cf34aa487e1c606b3ac8bfec19ea66",
+      "title": "Trainee GenAI Low-code Developer (Copilot Studio)",
+      "url": "https://nofluffjobs.com/job/trainee-genai-low-code-developer-copilot-studio-innowise-warsaw?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "0868995daccd2c1102cbdf515f583dcf9b4372a0",
       "title": "Trainee React developer",

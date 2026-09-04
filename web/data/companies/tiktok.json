@@ -2,18 +2,18 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 114,
-  "avgPostingDurationDays": 14.2,
+  "totalPostings": 122,
+  "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 92
+      "count": 98
     },
     {
       "hub": "Seattle",
-      "count": 20
+      "count": 22
     },
     {
       "hub": "London",
@@ -24,12 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 86
+      "count": 88
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 24
+      "count": 30
     },
     {
       "id": "biz",
@@ -46,12 +46,68 @@
     0,
     0,
     114,
-    0,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "291a9d091345e214e42074c7c95eafc818857fe4",
+      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-data-infra-2027-fall",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "9d035dacc1c175f2d87b9f37b56068f341a1dd9f",
+      "title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-supply-chain-logisticsllmagent-2027-start-phd-08f944",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "8f2ac7186ecae9f2ce07fb775d2b4666b7d5e19c",
+      "title": "Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-knowledge-graph-2027-start-phd",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "8814f691fdbab2d69f84f825a8687ef536118f6a",
+      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-ai-search-visual-search-infra-team-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "b7e973edf1f5f333ace2e5640e5b1d273b87db9a",
+      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-data-infra-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "e43cf173f2d32b3fc911176a0906ea6b72c79a90",
+      "title": "Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommerce-quality-platform-ai-test-automation-2027-summer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "83abcf94dc1e83e397c4704d9a08445f5b371ebb",
+      "title": "Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-knowledge-graph-2027-start-phd-4bdca5",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "6f178cfc2cbbeb8a2836a42d5751c95df0f94785",
+      "title": "Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer",
+      "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommercequality-platform-ai-test-automation-2027-summer",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "45b04bfdb0e6160ca1f65ac9824776c1f622a36d",
       "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
@@ -64,62 +120,6 @@
       "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
       "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-architecture-feeds-infrastructure-2027-summer",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "b4f848c5628fdf329012c684f5f90c09839a8e92",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-architecture-feeds-infrastructure-2027-fall-865ee0",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "27faa10070eafca3e0e22b5cbdaec94207f27819",
-      "title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-supply-chain-logisticsllm-agent-2027-start-phd",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "2bb5dcae7829571e643317cd9c186b0144764bf1",
-      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-architecture-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "de925200c05d4a76662766304dcebaa8ecbd683b",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-architecture-feeds-infrastructure-2027-fall",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "ee983171c2a90ce0d717b44de0d70f27d9e88123",
-      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Fall",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-architecture-2027-fall",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "d6812512fc5514e2273fedf9ff51b6347d16be5a",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-architecture-feeds-infrastructure-2027-summer-395c81",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "b73c2f06ff5643d9b0bce7a2a0ee8d08e5623ab7",
-      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Fall",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-infra-performance-efficiency-2027-fall",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "1f73001db8bd648ecb0e551ab3deb386bb4888af",
-      "title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-supply-chain-logisticsllmagent-2027-start-phd",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]

@@ -2,13 +2,17 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Stuttgart",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc94497cc3c35f36f81166adc239575da3cab256",
+      "title": "(Junior) AI Software Engineer (all gender)",
+      "url": "https://jobs.smartrecruiters.com/ALTEN/744000146926079--junior-ai-software-engineer-all-gender-?utm_source=freehire.me",
+      "location": "Stuttgart, BW, de",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "a2b7ced66ad9f39b91ffa9e68dad1717299e1cac",
       "title": "Junior Software Developer",

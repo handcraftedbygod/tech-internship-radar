@@ -2,13 +2,17 @@
   "slug": "gusto",
   "name": "Gusto",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 21.4,
   "topLocations": [
     {
       "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c868675a65574614ff3d0dbf05d25318206a7e9",
+      "title": "Gusto Pro Core, Junior Account Manager",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8100353",
+      "location": "Denver, CO;Atlanta, GA;Phoenix, AZ",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "05e6001e0795df13aea328aad4c643e328cee275",
       "title": "Future Opportunities: Early Career Sales Talent",

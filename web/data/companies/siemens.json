@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 19,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "Berlin",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "hw",
@@ -51,12 +51,26 @@
     0,
     0,
     17,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6e7dc1c2921635348b539efd277d42bc758380c",
+      "title": "Werkstudent (w/m/d) Cybersecurity",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-2-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
+    {
+      "id": "17566e1bc76405f896a844f7e96e33ce921d3cb8",
+      "title": "Working Student (f/m/d) Operational Technology Cybersecurity",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628599-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "8192a4540bf16af9f72362f634e76b37f61bbb74",
       "title": "Werkstudent (w/m/d) Software Engineering für AI-gestützte Cost & Value Engineering Anwendungen",
@@ -112,20 +126,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2MS0xLVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "1f46cac572bd79df8ad8247a62ac0425fd9452d8",
-      "title": "Werkstudent (w/m/d) Developer, IT-Consultant, AI & Data Integration",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623102-1-S",
-      "location": "Braunschweig",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "6c693beb75b6c09ac6a8cadf1db05428e0a81692",
-      "title": "Werkstudent (w/m/d) für Embedded Software Entwicklung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623966-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

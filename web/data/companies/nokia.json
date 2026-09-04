@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bec5afca9d54748932f5c286ac0eca473605da68",
+      "title": "AI-Native DevOps Engineer Trainee",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38204?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "99620b49ed17796675fc571ddb50b66b53beaafa",
       "title": "Junior Software Engineer C++",

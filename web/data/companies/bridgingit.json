@@ -1,22 +1,22 @@
 {
   "slug": "bridgingit",
-  "name": "BridgingIT GmbH",
+  "name": "BridgingIT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03cbf9047dfec40f7233064e49999959405f3d8d",
+      "title": "Junior Cloud & DevOps Engineer (w|m|d) (IT-Systemadministrator/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMTkxMDE5LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "57350c5db8b3a91adaf44a3aec828241263b2f26",
       "title": "(Junior) Fullstack Developer - Java & Angular  (w|m|d) (Softwareentwickler/in)",

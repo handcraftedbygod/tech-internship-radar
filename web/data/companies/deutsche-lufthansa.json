@@ -2,13 +2,17 @@
   "slug": "deutsche-lufthansa",
   "name": "Deutsche Lufthansa AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Frankfurt",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f13e0a0916fd264e683e870ee7deb520b29024d4",
+      "title": "Praktikum im Bereich Data Science and AI",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1628520-1-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "117ccdbd171ac36d3d1b2815fed67ddfccf2e5e4",
       "title": "Internship eLearning & Artificial Intelligence",

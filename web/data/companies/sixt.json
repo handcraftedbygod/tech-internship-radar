@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 9.4,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     8,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e56d52cd812e911378811ac438bb66658575ea3",
+      "title": "Trainee Software Development Digital Experience (m/f/d) ",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000147234998",
+      "location": "Munich, BY, Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "b54abc6ba2e45a0520d782479c78249a9e942a60",
       "title": "Working Student (m/f/d) – Web Frontend Engineering",

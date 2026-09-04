@@ -2,17 +2,17 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 14.7,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 5
+      "hub": "Berlin",
+      "count": 6
     },
     {
-      "hub": "Berlin",
+      "hub": "Other",
       "count": 5
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     5,
     8,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "217b6179ebe8d879248d7630795427a9e520448e",
+      "title": "Junior Recipe Developer (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8159710?gh_jid=8159710",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "5904927dd5e6a49c6bbfffda898d6dd648555065",
       "title": " Junior Food Stylist - (x/f/m) ",
@@ -113,13 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8114245?gh_jid=8114245",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "054727bac4a7c4579b8fced604177b0b936ad94d",
-      "title": "Junior Planning Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8074260?gh_jid=8074260",
-      "location": "Derby, England, United Kingdom",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

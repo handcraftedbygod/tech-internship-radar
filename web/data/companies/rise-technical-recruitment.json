@@ -2,9 +2,9 @@
   "slug": "rise-technical-recruitment",
   "name": "Rise Technical Recruitment",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     8,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "db0e90213b951d1475e38b6d845837379c6d9638",
+      "title": "Junior Software Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5868766889?utm_medium=api&utm_source=freehire.me",
+      "location": "St. Augustines, Bristol",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "bce238f98faccfae6131d3deb04b1cc4f51208ea",
       "title": "Junior Software Developer",

@@ -2,21 +2,21 @@
   "slug": "link",
   "name": "Link Group",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8b58149f7807d317929f05c00397fdea0cdb9b8",
+      "title": "Junior Java Developer",
+      "url": "https://nofluffjobs.com/job/junior-java-developer-link-group-lower-silesian?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "998a3d72338db0f6d6750d72fbe89aecffb41b04",
       "title": "Junior Angular Developer",

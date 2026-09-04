@@ -2,9 +2,9 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 17.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Barcelona",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "biz",
@@ -41,12 +41,19 @@
     0,
     3,
     6,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c76adf7b669f0b58bdcc909495bd9dc8dc38754",
+      "title": "Vendor Management Internship",
+      "url": "https://n26.com/en-eu/careers/positions/8015153?gh_jid=8015153",
+      "location": "Madrid",
+      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+    },
     {
       "id": "b6754653f73847c95eb4964fefd2c178b08494ba",
       "title": "Junior iOS Engineer - Payments",
@@ -109,13 +116,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8041239?gh_jid=8041239",
       "location": "Berlin",
       "firstSeenAt": "2026-07-16T06:15:31.956Z"
-    },
-    {
-      "id": "068d50c0c4aa358aa68167ca56912bc396daea93",
-      "title": "Working Student - OCC Team",
-      "url": "https://n26.com/en-eu/careers/positions/8025772?gh_jid=8025772",
-      "location": "Berlin",
-      "firstSeenAt": "2026-07-07T23:12:31.455Z"
     }
   ]
 }
