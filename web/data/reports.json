@@ -1,5 +1,189 @@
 [
   {
+    "weekOf": "2026-08-30",
+    "newCount": 465,
+    "prevWeekCount": 388,
+    "pctChange": 19.8,
+    "totalTracked": 2972,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 304
+      },
+      {
+        "hub": "London",
+        "count": 25
+      },
+      {
+        "hub": "Barcelona",
+        "count": 20
+      },
+      {
+        "hub": "Berlin",
+        "count": 18
+      },
+      {
+        "hub": "Madrid",
+        "count": 16
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "grupo-tecdata-engineering",
+        "name": "Grupo TECDATA Engineering",
+        "count": 12
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "count": 10
+      },
+      {
+        "slug": "check24-services-personal",
+        "name": "CHECK24 Services Personal GmbH",
+        "count": 9
+      },
+      {
+        "slug": "eaton",
+        "name": "Eaton",
+        "count": 8
+      },
+      {
+        "slug": "arktic",
+        "name": "Arktic",
+        "count": 8
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 181,
+      "sample": [
+        {
+          "slug": "abalia",
+          "name": "Abalia"
+        },
+        {
+          "slug": "achmea-bank",
+          "name": "Achmea Bank"
+        },
+        {
+          "slug": "act-digital",
+          "name": "act digital"
+        },
+        {
+          "slug": "adac",
+          "name": "ADAC SE"
+        },
+        {
+          "slug": "adidas",
+          "name": "Adidas"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "product",
+      "label": "Product",
+      "pctChange": 100
+    },
+    "notableHiring": [
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 10
+      },
+      {
+        "slug": "roblox",
+        "name": "Roblox",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "google",
+        "name": "Google",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "bookingcom",
+        "name": "Booking.com",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "nike",
+        "name": "NIKE, Inc.",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap-fioneer",
+        "name": "SAP Fioneer",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 81,
+      "high": 101
+    },
+    "headline": {
+      "company": "Google",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726?utm_source=freehire.me",
+      "hub": "Munich",
+      "badge": "FAANG",
+      "currency": "eur",
+      "low": 22,
+      "high": 27
+    },
+    "earlyPick": {
+      "company": "Roblox",
+      "title": "[Summer 2027] Product Design Intern",
+      "url": "https://careers.roblox.com/jobs/8143984?gh_jid=8143984",
+      "season": "Summer 2027",
+      "hub": "San Francisco"
+    }
+  },
+  {
     "weekOf": "2026-08-23",
     "newCount": 425,
     "prevWeekCount": 614,
