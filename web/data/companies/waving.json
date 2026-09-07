@@ -2,25 +2,25 @@
   "slug": "waving",
   "name": "Waving",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9892054c0eab6227ee65c72e9d49ed7a522c7877",
+      "title": "Junior Backend Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__157405325__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "4436ec1e6a564927544f0ed290dbce08ea6399bb",
       "title": "Junior Backend Engineer",

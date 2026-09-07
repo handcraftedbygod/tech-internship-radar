@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 16.3,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d708168f2bddf080ba3795dd723d8f17e06edc90",
+      "title": "Junior Data Engineer (KDB) @ GFT Poland",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29351564__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "b90dffa295b942e65774cae96a5d52153910b40a",
       "title": "Junior Data Engineer (KDB)",

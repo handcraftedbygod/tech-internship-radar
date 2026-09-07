@@ -2,21 +2,21 @@
   "slug": "fortech-software",
   "name": "FORTecH Software",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b6f32a0ac0efba75a5dc2f7984616aaaa47ff8b",
+      "title": "Junior Software Entwickler - Embedded Systems (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5869963761?se=yigRE1yo8RGmsIujE42SGA&utm_medium=api&utm_source=freehire.me&v=D931E396E06EE3D5A7ADEA4D22BD3CF240DDC89B",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "05bd0c664357de2e4753071a33d726f9b13f9ad3",
       "title": "Junior Software Entwickler - Embedded Systems (m/w/d) (Anwendungsprogrammierer/in)",

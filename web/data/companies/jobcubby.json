@@ -2,10 +2,10 @@
   "slug": "jobcubby",
   "name": "JobCubby",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Krakow",
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,19 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63717a32c0ba2c89b38b546a1c65e83d32d3210f",
+      "title": "Junior Software Developer (Java)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__527060821__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "a22639db91377e43ec34aa30f8707a17b5eee0fb",
       "title": "Intern Java Developer (Angular, Cloud)",

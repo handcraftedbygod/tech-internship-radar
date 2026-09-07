@@ -2,21 +2,21 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1bb278e42590dbba5f0389c9889e4ac14f32a38f",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024810EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Galway",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "0cdf8ce464d9dc81915a5e206677fa76bd63e2fa",
       "title": "Software Engineer - Intern",

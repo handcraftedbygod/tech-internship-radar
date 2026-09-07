@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": null,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 15.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cad95fe1dd94b52f5c9d9ddba530eb5de825b4c9",
+      "title": "Junior DevOps & Cloud Engineer: Azure & Kubernetes",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347142092__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "c177ada4c72b109daa1aa5ef26e5a7859e1118a6",
       "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & Azure",

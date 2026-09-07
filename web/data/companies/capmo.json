@@ -2,21 +2,21 @@
   "slug": "capmo",
   "name": "Capmo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8bf1205c8bc7a3615bcb6cdd404f9b1651183e14",
+      "title": "Werkstudent Bauexperte für SaaS Software (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/capmo/werkstudent-bauexperte-fur-saas-software-munich-46226",
+      "location": "Munich",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "2f71f0e54adbca7ab8a77673174fdf204056e3fb",
       "title": "Werkstudent Bauexperte für SaaS Software (m/w/d)",

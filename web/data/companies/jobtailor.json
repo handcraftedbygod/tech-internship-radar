@@ -2,9 +2,9 @@
   "slug": "jobtailor",
   "name": "Jobtailor",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Helsinki",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +41,19 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d78473d3e5eb6005825fcb6e90cb3ba77847b6b3",
+      "title": "Junior Software Developer – Managed Services",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__986769__7123?geoID=46&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Helsinki, Finland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "62d04e8c51bc7e66def09390271e415c408eaca9",
       "title": "Junior Data Engineer",

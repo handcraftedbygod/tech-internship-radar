@@ -2,21 +2,21 @@
   "slug": "eaton",
   "name": "Eaton",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89ba8229813f37a52aea5aad13c2c51cc2b11c34",
+      "title": "Internship Program: Power Systems Engineer",
+      "url": "https://www.themuse.com/jobs/eaton/internship-program-power-systems-engineer-e0a0a0",
+      "location": "Chester, PA",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
+      "id": "b63db7cfd98835e7053f1155642a3b7cce51f918",
+      "title": "Internship Program: Power Systems Engineer",
+      "url": "https://www.themuse.com/jobs/eaton/internship-program-power-systems-engineer-2f2d90",
+      "location": "Coraopolis, PA",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "789c2f919738adda810b6b406ae09af04f7fa0a0",
       "title": "Internship Program: Power Systems Engineer",

@@ -2,21 +2,21 @@
   "slug": "verita-hr",
   "name": "Verita HR",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dbabdfe9bae5e432d710ad9f1511dacb228fe58b",
+      "title": "Junior Data Engineer @ Verita HR",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29351730__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "bd8cbc49df943ed5a0a0f0a212699c86e0842b34",
       "title": "Junior Data Engineer",

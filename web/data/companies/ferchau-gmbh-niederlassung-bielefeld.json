@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-bielefeld",
   "name": "FERCHAU GmbH Niederlassung Bielefeld",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f862f83ca14f02ce44f1a35c3f3e6436dccb32d2",
+      "title": "Junior Cloud Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-236238_JB5240666-S?utm_source=freehire.me",
+      "location": "Gütersloh, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "ce0e8e24c42af21400258b1c49b582b02cb9e6b0",
       "title": "Junior Cloud Engineer (m/w/d) (Cloud-Architect)",

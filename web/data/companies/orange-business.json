@@ -1,0 +1,52 @@
+{
+  "slug": "orange-business",
+  "name": "Orange Business",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-07T10:41:15.202Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0da58db1254ccbe2473e1e96e3c9c4316b3ec58d",
+      "title": "Ingénieur DevOps junior",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__153430897__7079?geoID=3639&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cesson Sévigné, France",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
+      "id": "cb3bc84a2db61270bb5f536f807ae25be5de207b",
+      "title": "Ingénieur DevOps Junior - Kubernetes/Rancher",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__153433563__7079?geoID=3639&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cesson Sévigné, France",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    }
+  ]
+}

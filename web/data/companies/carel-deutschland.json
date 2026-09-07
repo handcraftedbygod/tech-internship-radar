@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fef9fc315928ac497f5e08fca7bf35ffe2cc129a",
+      "title": "(Junior) Software Entwickler (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5864795643?se=VjhDsreo8RGogquEo3zAlQ&utm_medium=api&utm_source=freehire.me&v=30D1EEA476BF0B03F2E7D78A393ED346BE346593",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "dc8276456f7cf3334950d6c16930ea0683662780",
       "title": "(Junior) Software Entwickler (m/w/d)",

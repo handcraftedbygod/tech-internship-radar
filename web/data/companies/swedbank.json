@@ -1,0 +1,45 @@
+{
+  "slug": "swedbank",
+  "name": "Swedbank",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-07T10:41:15.202Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Tallinn",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "70bba6adb527f53824cfe2711c51dbb7b9483a88",
+      "title": "Junior Infrastructure Engineer (MS SQL)",
+      "url": "https://jobs.swedbank.com/jobs/27795-junior-infrastructure-engineer-ms-sql?utm_source=freehire.me",
+      "location": "Tallinn, EE",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    }
+  ]
+}

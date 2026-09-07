@@ -1,0 +1,57 @@
+{
+  "slug": "back-market",
+  "name": "Back Market",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-07T10:41:15.202Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3a6cc7a9acc8b568160ee3d5cedf841317aef231",
+      "title": "Sustainability and Public Affairs Intern (Paris )",
+      "url": "https://jobs.ashbyhq.com/backmarket/68d98b54-27d2-468a-9ae2-ace32cbb90d7",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
+      "id": "713d97de29d0de1fd6e585710657e50a07d354f7",
+      "title": "Legal Intern / Juriste Droit des Affaires (Paris)",
+      "url": "https://jobs.ashbyhq.com/backmarket/653540bb-f183-4f3e-a4c0-2ff083469eb5",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    }
+  ]
+}

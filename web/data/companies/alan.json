@@ -2,21 +2,21 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,17 +28,24 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
     {
+      "id": "4ee5ac56331a1ce03bb2f608517044d09423f12d",
+      "title": "Sales Graduate Program Recruitment Day (Paris) 💫",
+      "url": "https://jobs.ashbyhq.com/alan/9ed3a312-9cf7-4964-8973-f34101783deb",
+      "location": "Paris, France; Bordeaux, France",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
       "id": "5480474d807f05a373b0a39fdf95ce2174849723",
       "title": "Sales Graduate Program Recruitment Day (Paris) 💫",
       "url": "https://jobs.ashbyhq.com/alan/da063092-f787-451c-892f-2b724c627f5f",
-      "location": "Paris, France; Bordeaux, France",
+      "location": "Paris, France",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
     },
     {

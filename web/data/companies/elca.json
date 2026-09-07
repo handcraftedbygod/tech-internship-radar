@@ -2,13 +2,17 @@
   "slug": "elca",
   "name": "ELCA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Zurich",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -28,12 +37,26 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cce1dc482dd2d1252319a475c5955fa6bce684d0",
+      "title": "Internship: Web Developer",
+      "url": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/2891?utm_source=freehire.me",
+      "location": "Geneva, Switzerland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
+      "id": "7d48920b170031b51a9e04ff9a70654e9dab74c8",
+      "title": "Internship: Web Developer",
+      "url": "https://iaaras.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/2891?utm_source=freehire.me",
+      "location": "Geneva, Switzerland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "fa155b54080d051aeb3ffe304fb95298bd61744f",
       "title": "Junior Data Engineer",

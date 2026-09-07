@@ -2,21 +2,21 @@
   "slug": "mint-tower-capital-management",
   "name": "Mint Tower Capital Management",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f680a0f21f8f3453fc0ea2b3c86157d02246ebe7",
+      "title": "Junior DevOps Engineer – FinTech Automation & Monitoring",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__158262356__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "6281912fe92f844bbcedbc70af631a78154b9253",
       "title": "Junior DevOps Engineer",

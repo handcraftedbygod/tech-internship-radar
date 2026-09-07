@@ -1,0 +1,52 @@
+{
+  "slug": "symphony",
+  "name": "symphony",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-07T10:41:15.202Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b97dd7787e4686a82c46a8038205cee2caaa9bdb",
+      "title": "Software Developer Intern — Mentored, Hands-on Projects",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__528161723__7082?geoID=7&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
+    {
+      "id": "0d257cc8a1453fddb02a80b930ee00dc7339e649",
+      "title": "Intern, Software Developer",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__153425591__7079?geoID=645&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valbonne, France",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    }
+  ]
+}

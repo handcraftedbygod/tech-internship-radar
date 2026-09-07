@@ -2,21 +2,21 @@
   "slug": "ededge-groups",
   "name": "Ededge Groups",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "715d120322ff86c2ade5eafb6a798224ca886c15",
+      "title": "Data Analyst Training & Internship Program",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__526489473__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "b0d49fddcb18be7308a7921d52e517a8d370d4f2",
       "title": "Data Analyst Intern",

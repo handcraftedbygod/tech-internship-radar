@@ -2,21 +2,21 @@
   "slug": "kellton-europe",
   "name": "Kellton Europe",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e115d7d27082537688cf0ff2bf41e119b99187f8",
+      "title": "Junior Software Engineer @ Kellton Europe",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29351450__7143?geoID=4320&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Polska, Poland",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "faebcf35930d80a716b13de70fc408ba5790b702",
       "title": "Junior Software Engineer",

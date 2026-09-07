@@ -2,13 +2,17 @@
   "slug": "decathlon-digital-fr",
   "name": "Decathlon Digital FR",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0aa772953044a47e1adebbfef58524573e9d4f7",
+      "title": "Junior Data Scientist - Downstream Demand Forecast - Value Chain (f/m/d)",
+      "url": "https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4968921101?utm_source=freehire.me",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-09-07T10:41:15.202Z"
+    },
     {
       "id": "839454428839751299824191d7725ae4127ad4c9",
       "title": "Junior Software Development Engineer - Apprenticeship (f/m/d)",
