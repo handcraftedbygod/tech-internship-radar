@@ -2,14 +2,14 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 16.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "biz",
@@ -41,12 +41,19 @@
     0,
     3,
     6,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "baa21d49602f0f598ac46ac16d6bf6625dd1c538",
+      "title": "Junior Android Engineer - Payments",
+      "url": "https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941",
+      "location": "Berlin, Barcelona",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "6c76adf7b669f0b58bdcc909495bd9dc8dc38754",
       "title": "Vendor Management Internship",
@@ -109,13 +116,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505",
       "location": "Barcelona",
       "firstSeenAt": "2026-07-26T06:34:48.431Z"
-    },
-    {
-      "id": "64cd9e3c336162c252007d27019fb3fb211ca6b1",
-      "title": "Internal Audit Working Student",
-      "url": "https://n26.com/en-eu/careers/positions/8041239?gh_jid=8041239",
-      "location": "Berlin",
-      "firstSeenAt": "2026-07-16T06:15:31.956Z"
     }
   ]
 }

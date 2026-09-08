@@ -2,14 +2,14 @@
   "slug": "mindmatch",
   "name": "MindMatch",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
@@ -41,12 +41,26 @@
     0,
     0,
     6,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d4e2f57979acf2f985022015e8f12469a3906a8",
+      "title": "Junior DevOps Engineer — Hybrid/Remote, Global Payments",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349239436__7107?geoID=10337&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alcobendas, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "7402137e73a38cd79ca7e2eb9545965c16312f72",
+      "title": "Junior Devops Engineer Hybrid Madrid. International Projects",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349239366__7107?geoID=10337&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alcobendas, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "abb919e0db246799966a86b49af49801434d1869",
       "title": "Junior DevOps Engineer hybrid Madrid. International Projects",

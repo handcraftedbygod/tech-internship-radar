@@ -2,21 +2,21 @@
   "slug": "social-you",
   "name": "Social You",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     7,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7974b18ae8fe5938e5048072d8f6bb4c923674b0",
+      "title": "Junior Java Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349238644__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "058640525fb6740ef3b88812a6a38dacf2bc3507",
       "title": "Junior Java Software Developer",

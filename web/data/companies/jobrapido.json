@@ -2,14 +2,14 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 13
+      "count": 14
     },
     {
       "id": "swe",
@@ -41,12 +41,19 @@
     0,
     0,
     20,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "75fd7d5ca1f79132af8db1dc0d9bb77ba63aec0f",
+      "title": "Junior Data Engineer - león",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349067884__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "ebe42d758d189fed16fa73b59245d33f15f13844",
       "title": "Junior Data Engineer - madrid",
@@ -107,13 +114,6 @@
       "id": "5d9abe5f7d19da9533338ed074ac5aea92f6c89d",
       "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - distrito moncloa-aravaca",
       "url": "https://es.whatjobs.com/pub_api__cpl__343396252__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "7070b6182a03343d915dd47fe06c133a8d39e0dc",
-      "title": "Junior DevOps Engineer hybrid Madrid. International Projects - ALTEN Delivery Centre Spain",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343530631__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

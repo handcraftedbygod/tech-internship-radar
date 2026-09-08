@@ -2,21 +2,26 @@
   "slug": "sngular",
   "name": "Sngular",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 6,
+  "totalPostings": 12,
   "avgPostingDurationDays": 15.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 11
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,54 @@
     0,
     0,
     2,
-    4,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "140294c16295b4ad4005240c370860f64d6f9839",
+      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & Azure",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347856194__7107?geoID=10127&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Santander, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "36610418ba25eaf088a68e51713cd76dfe1b0c28",
+      "title": "Junior Devops Engineer (Cloud Aws)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349237160__7107?geoID=1301&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Córdoba, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "321aab2d97eb4c8efd6d806c2bb7c122a9a8ca55",
+      "title": "Junior DevOps & Cloud Engineer: Remoto & Crecimiento",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349256923__7107?geoID=5625&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Zaragoza, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "e917c659536edde514178e790da3b8f859c7a991",
+      "title": "Junior DevOps Engineer – Cloud & CI/CD (AWS/Azure)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349239492__7107?geoID=1301&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Córdoba, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "c267e5c252a70b6c33382ac719077c8b0c607386",
+      "title": "Junior DevOps & Cloud Engineer — Remote & Growth-ready",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349256727__7107?geoID=527&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Almería, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "6fdea7ac6537cb1e2a23bba9d7404c8bcb5ff1d9",
+      "title": "Junior DevOps & Cloud Engineer - Sngular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347827446__7107?geoID=8686&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Vitoria Gasteiz, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "cad95fe1dd94b52f5c9d9ddba530eb5de825b4c9",
       "title": "Junior DevOps & Cloud Engineer: Azure & Kubernetes",
@@ -61,20 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__345051920__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "8d4c6df0754666099d727ca43fbf2b8840e9701b",
-      "title": "Junior DevOps & Cloud Engineer: Azure & Kubernetes",
-      "url": "https://es.whatjobs.com/pub_api__cpl__345678152__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "e744786c4b7e8881dba6448295abe684b5d45c68",
-      "title": "Junior DevOps & Cloud Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__345001544__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

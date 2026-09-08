@@ -2,21 +2,21 @@
   "slug": "hiberus",
   "name": "hiberus",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "biz",
@@ -33,12 +33,26 @@
     0,
     0,
     9,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "209bed68a1fb90f6372826695d6bc506feaa8d66",
+      "title": "Azure DevOps Engineer - Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__348015737__7107?geoID=7531&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Pontevedra, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "8d852b482c6622fd75e743a7df41237f1f8c0bcf",
+      "title": "Junior Azure DevOps Engineer — Terraform & Landing Zones",
+      "url": "https://es.whatjobs.com/pub_api__cpl__348018279__7107?geoID=390&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cádiz, Spain",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "1ce695382a54831f5838391dfee8b7430ba4a7ec",
       "title": "Azure DevOps Engineer - Junior",
@@ -94,20 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__343986987__7107?geoID=13&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Galicia, Spain",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "eb491b468d9d872c50fee1a9ae4d8afb4247ea9a",
-      "title": "DevOps Azure junior",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342343217__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-15T04:30:16.064Z"
-    },
-    {
-      "id": "5ccde0f2f69b49b8d658f847adddac0d85afe875",
-      "title": "Azure DevOps Junior Engineer — Flexible Hybrid Role",
-      "url": "https://es.whatjobs.com/pub_api__cpl__340896327__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-heilbronn",
   "name": "FERCHAU GmbH Niederlassung Heilbronn",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d0bc8ec4646576527f2c6ac1f655d2e4838a48e",
+      "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtMjkyNDU2X0pCNTI0MDc1MS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "028d14399fb53661e493a666780a6e0238ae36bf",
       "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d)",

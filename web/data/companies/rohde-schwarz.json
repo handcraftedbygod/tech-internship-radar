@@ -2,20 +2,25 @@
   "slug": "rohde-schwarz",
   "name": "Rohde & Schwarz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8be3567eee4c7056442f3aed3755ec70d561e09b",
+      "title": "(Junior) Systems Engineer Integration Naval Systems (m/f/d)",
+      "url": "https://job.rohde-schwarz.com/job/Kiel-%28Junior%29-Systems-Engineer-Integration-Naval-Systems-%28mfd%29-24118/1420202433/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "aa0e7faaeab74ba60c2654ad1f070db24dda0367",
       "title": "Junior Data Scientist (m/w/d)",

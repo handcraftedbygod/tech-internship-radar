@@ -2,14 +2,14 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "biz",
       "label": "Business",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d4878064b29d338c598811451bae7620040b566",
+      "title": "People Associate (internship)",
+      "url": "https://jobs.ashbyhq.com/alan/71fa3e9d-1f5f-4e3f-a1de-e68b3c85803a",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "4ee5ac56331a1ce03bb2f608517044d09423f12d",
       "title": "Sales Graduate Program Recruitment Day (Paris) 💫",

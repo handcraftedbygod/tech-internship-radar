@@ -2,14 +2,14 @@
   "slug": "united-states-digital-space",
   "name": "United States Digital Space LLC",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     12,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5c60ed88eb8cd7eb347b7a72c40409a849eae61",
+      "title": "Junior Research Software Engineer for Sustainability Science - Full Stack",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__160022665__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "a56039f4a4895c8282900e5ebc6a23cb1c86baf1",
       "title": "Software Engineer, New Grad",
@@ -108,13 +115,6 @@
       "title": "Junior Data Engineer / R",
       "url": "https://pl.whatjobs.com/pub_api__cpl__27783839__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Warszawa, Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "9e0988588c9373e43deea65f418a703a7871747e",
-      "title": "Junior Data Engineer",
-      "url": "https://nl.whatjobs.com/pub_api__cpl__140687913__7137?geoID=1772&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Breda, Netherlands",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]

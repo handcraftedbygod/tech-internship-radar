@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -13,10 +13,14 @@
     },
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 3
     },
     {
       "hub": "Munich",
+      "count": 2
+    },
+    {
+      "hub": "Frankfurt",
       "count": 1
     }
   ],
@@ -39,7 +43,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -51,12 +55,19 @@
     0,
     0,
     17,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d6193f6d6a55a3b8e08028f6c9681e889dce1f0a",
+      "title": "Werkstudent (w/m/d) für Software, Digitalisierung & Sales Enablement",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628596-1-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "c6e7dc1c2921635348b539efd277d42bc758380c",
       "title": "Werkstudent (w/m/d) Cybersecurity",
@@ -68,7 +79,7 @@
       "id": "17566e1bc76405f896a844f7e96e33ce921d3cb8",
       "title": "Working Student (f/m/d) Operational Technology Cybersecurity",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628599-1-S",
-      "location": "Berlin",
+      "location": "München",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
     },
     {
@@ -117,13 +128,6 @@
       "id": "4a929d8dbdf042c4bae55559896acbc9de365b9a",
       "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme (Embedded-Systems-Entwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2Mi0xLVMgMQ?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "0cd44b3d047b526ca26a338f53d5367fe2515e7c",
-      "title": "Junior Software Developer (m/w/d) für SIMATIC AX (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2MS0xLVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }

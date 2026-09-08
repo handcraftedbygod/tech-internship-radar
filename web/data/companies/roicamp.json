@@ -1,0 +1,57 @@
+{
+  "slug": "roicamp",
+  "name": "ROIcamp",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-08T08:38:59.782Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e65862abbc070e54f539d59b9b29e65e94c38f8f",
+      "title": "Junior QA Engineer",
+      "url": "https://djinni.co/jobs/847105-junior-qa-engineer/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "e62019fc584ad90cae7f1138c0dc7efccfef4519",
+      "title": "Junior QA Engineer (Tracking & Analytics)",
+      "url": "https://djinni.co/jobs/847126-junior-qa-engineer-tracking-analytics/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    }
+  ]
+}

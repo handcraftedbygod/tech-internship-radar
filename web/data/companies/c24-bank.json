@@ -2,21 +2,25 @@
   "slug": "c24-bank",
   "name": "C24 Bank GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27757d1625b29600ea3003cdc07b0fc180b02255",
+      "title": "(junior) Php Backend Entwickler (m/w/d) C24 Bank",
+      "url": "https://www.adzuna.de/land/ad/5874187339?se=Pq2ZQhyr8RGyxtY0rUukWA&utm_medium=api&utm_source=freehire.me&v=661262CDADEAF28C96E04C10CDC566F8CFC2A729",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "2a8f6f502e70c86e5162c825965806b791307828",
+      "title": "(Junior) PHP Backend Entwickler (m/w/d) C24 Bank",
+      "url": "https://de.whatjobs.com/pub_api__cpl__485772087__7078?geoID=3671&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "6339971a4f2c86c64195b69ac50725706b328a76",
       "title": "(Junior) PHP Backend Entwickler (m/w/d) C24 Bank",

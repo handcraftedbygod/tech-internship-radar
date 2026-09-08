@@ -2,21 +2,21 @@
   "slug": "n-people",
   "name": "nü people GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe953c2e9ce0b138d880d3bc44e2e6772a91bc57",
+      "title": "Junior Cybersecurity Consultant (m/w/d) (Cyber-Security-Consultant)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjA1MjctMjY2LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "1f5a833ad136a777405adbb386d6787683309eee",
       "title": "Junior Cybersecurity Consultant (m/w/d)",

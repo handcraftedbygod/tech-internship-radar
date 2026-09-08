@@ -2,21 +2,21 @@
   "slug": "vantage-ai",
   "name": "Vantage AI",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 15.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f085ef7b28bfdf3e62c828dc814e993e0c30e2c4",
+      "title": "Junior Data Engineer - Fast-Track with Mentorship",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__158690849__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "a0bedf960405b3e0457d70566f258037d012a6ea",
       "title": "Junior Data Engineer - Fast-Track with Mentorship",

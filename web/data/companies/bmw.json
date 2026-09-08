@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Other",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,33 @@
     0,
     0,
     6,
-    0,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ecf820795e38b14ad74e0037715e679d5d4ab8d5",
+      "title": "Praktikant Data Science Einsatzänderungssteuerung (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1629006-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "e18b7e4a7ebfbaabac6e38401ccaf3e0f40df860",
+      "title": "Praktikant Machine Learning für Fahrzeugeffizienz (m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1630330-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
+    {
+      "id": "004011822db4db982a196e3a503443557b0c7053",
+      "title": "Werkstudent Software-Integration Fahrzeug (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1629016-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-08T08:38:59.782Z"
+    },
     {
       "id": "e36e25685c96e5fb30fa8e837469c3a8d80b8751",
       "title": "Praktikant Business Intelligence im Umfeld Data Analytics (w/m/x)",
