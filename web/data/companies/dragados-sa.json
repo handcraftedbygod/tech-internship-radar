@@ -2,21 +2,25 @@
   "slug": "dragados-sa",
   "name": "Dragados SA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 1,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 5
+    },
+    {
+      "hub": "Madrid",
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,68 @@
     0,
     0,
     1,
-    0,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e11ffa02608cc1f0535eabc5621232d85fa5a1ef",
+      "title": "Junior Big Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349437421__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "07abdf2933357097f6c168b6d8e6cb8b7972cfb3",
+      "title": "Junior SQL Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349418647__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "50fbc557295d19f40b8577317a6f91cf89fc072a",
+      "title": "Junior Data Engineer required with AWS, Python and SQL experience",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349428674__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "bbdbaa3089d33120ca989bf0be22e179d934fe45",
+      "title": "Junior Data Science Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349436780__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "1fe61629ed9657bf08b66fcc7a2c064d2fe1e620",
+      "title": "Junior SQL Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349291228__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "ab1895bf4da98bb29dc683c3d520f838e782428a",
+      "title": "Junior Big Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349291213__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "64a894c82d08c26b7d6602c42d8de84743d4076b",
+      "title": "Junior Data Engineer required with AWS, Python and SQL experience",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349315599__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "224b51ad47a9f25d3f5c956bf8b99bba363ac682",
+      "title": "Junior Data Science Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349306845__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "e84524b4af5ac784496e62beac60cbb5a6896257",
       "title": "Junior Data Engineer - gijón",

@@ -2,14 +2,14 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,12 +38,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cda37dda8da57075fba54ebfe4a348afbe95b154",
+      "title": "Data Analyst / Business Analyst Junior - Dataiku & Agile (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjEzTkhaWSA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "921515d7e92afc6590488af684d7d08630f4e0a7",
       "title": "Stagiaire- Data Engineering Intern (H/F)",

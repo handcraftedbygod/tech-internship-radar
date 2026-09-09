@@ -2,21 +2,21 @@
   "slug": "p",
   "name": "P",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "30743721c0bb4da31b314f56c4adcacf0c7ce3ec",
+      "title": "Data Engineer Intern: Azure & Analytics in Madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349437928__7107?geoID=425&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Málaga, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "d4809afe80d33ad8cf3662456b64639b9bad59d6",
       "title": "Data Engineer Intern: Azure & Analytics in Madrid",

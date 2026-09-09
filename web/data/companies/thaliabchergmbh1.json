@@ -2,21 +2,21 @@
   "slug": "thaliabchergmbh1",
   "name": "ThaliaBcherGmbH1",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51584c4e82299a08a66abd81562abc72c14d267d",
+      "title": "Werkstudent KI & Data Science (m/w/d)",
+      "url": "https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000148148749-werkstudent-ki-data-science-m-w-d-?utm_source=freehire.me",
+      "location": "Münster, NRW, de",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "f0b4684bba1909163dbb8ef6249b319cb552ec2a",
       "title": "Werkstudent KI & Data Science (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "sanderson-recruitment",
   "name": "Sanderson Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09a7c802607b8067b7cc1bdf6da044cfa78fa6c0",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__530051882__7082?geoID=31117&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Westminster, United Kingdom",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "46d6414369c2cafb312eea1397af488a8f4750f0",
       "title": "Junior Data Engineer",

@@ -2,11 +2,15 @@
   "slug": "inmize",
   "name": "inmize",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
     {
       "hub": "Barcelona",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,33 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "341caaee2d82c066246faeb734fbe4627b4decd8",
+      "title": "Developer / Software Developer / Junior Software Developer (Permanent)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349410567__7107?geoID=6823&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "SALLENT, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "4e83e65c44849f346ddde757d0eba6d5b89aa2da",
+      "title": "Developer / Software Developer / Junior Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349409421__7107?geoID=6823&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "SALLENT, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "ed12af46c94a7d8dbb2b18a5d1bbd2995dc18a73",
+      "title": "Junior software developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349039123__7107?geoID=9395&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "ARENAS DE IGUÑA, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "bc31cadddb5cd6e368f07a20d9fb4456f75b8b4d",
       "title": "Junior Software Developer",

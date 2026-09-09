@@ -2,21 +2,21 @@
   "slug": "roicamp",
   "name": "ROIcamp",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4abb6f33eec01b7fc0a92d11ff839933b9fc577a",
+      "title": "Junior QA Engineer (Platform & Analytics)",
+      "url": "https://djinni.co/jobs/847126-junior-qa-engineer-platform-analytics/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "e65862abbc070e54f539d59b9b29e65e94c38f8f",
       "title": "Junior QA Engineer",

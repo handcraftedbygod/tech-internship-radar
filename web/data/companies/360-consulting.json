@@ -2,13 +2,17 @@
   "slug": "360-consulting",
   "name": "360 Consulting GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "575c9600106af5a5ff5e1660f2e2aabe0a1b900b",
+      "title": "Praktikum für angehende Software- und Game Developer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20738-2162026-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "c4d093a76bf093c8ddbe117b916c66a9e784ec15",
       "title": "Praktikum für angehende Software- und Game Developer (m/w/d)",

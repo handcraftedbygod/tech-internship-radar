@@ -2,21 +2,21 @@
   "slug": "criteo-technology",
   "name": "Criteo Technology",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0297a1f2f2ad80b7655c454288c3098ded5b1e88",
+      "title": "Data Analyst Intern: Build Tools & Data Pipelines (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349440406__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "bd7b3da146f4d5a9155a9609fa17feb6fb910f9f",
       "title": "Data Analyst Intern: Build Tools & Data Pipelines (Hybrid)",

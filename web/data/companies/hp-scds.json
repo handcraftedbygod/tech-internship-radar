@@ -2,21 +2,25 @@
   "slug": "hp-scds",
   "name": "HP SCDS",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 9
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,68 @@
     0,
     0,
     1,
-    1,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2d8e46cfef4f34c2df0fc9fd3c2c919c65463834",
+      "title": "Junior SQL Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349271343__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "8f859daf0a5ae7ce4d8194f3706276cc60d9340e",
+      "title": "Junior Big Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349263097__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "5c6fd900b648c0ccd7eace68fa872c48e46272cb",
+      "title": "Junior Data Engineer required with AWS, Python and SQL experience",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349283547__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "527d883d8a738cf218970a7957a10ac5cec1179a",
+      "title": "Junior Data Science Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349276197__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "b94facfd1dff1aae8e94b8235ea2181342cb5043",
+      "title": "Junior SQL Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349407677__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "44b1808ee6beb6498723035d6d305b38fa17d0b2",
+      "title": "Junior Big Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349608131__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "76bed325577c03513374dfde5b3fae87c471eb8a",
+      "title": "Junior Data Engineer required with AWS, Python and SQL experience",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349596411__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "15d83142f30db283f5a1322b368d43eeb05ad174",
+      "title": "Junior Data Science Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349608387__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "87336a3e75269a1fe006588389f99a2957ed6d81",
       "title": "Junior Data Engineer",

@@ -2,9 +2,9 @@
   "slug": "c24-bank",
   "name": "C24 Bank GmbH",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1441c25c857e2d28ed51c320400078887a9bcc14",
+      "title": "(Junior) PHP Backend Entwickler (m/w/d) C24 Bank",
+      "url": "https://www.adzuna.de/land/ad/5875728572?se=wOV96Bes8RGifYq7VNE_hg&utm_medium=api&utm_source=freehire.me&v=EAF9A254CEA924F4DD5EF54E10BF733958D9E0AA",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "27757d1625b29600ea3003cdc07b0fc180b02255",
       "title": "(junior) Php Backend Entwickler (m/w/d) C24 Bank",

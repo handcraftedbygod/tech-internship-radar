@@ -2,21 +2,25 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 12.6,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
       "count": 5
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -33,12 +37,19 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fdc4d2e507fafe3eee4732fd5ed18bff48bdff36",
+      "title": "Working Student / Internship (f/m/d) – OT Cybersecurity & Vulnerability Management",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Berlin/Working-Student---Internship--f-m-d----OT-Cybersecurity---Vulnerability-Management_R5052047-2?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "430413578ef36435c5bf04b471be567430c9f175",
       "title": "Grid Automation & Software Intern",

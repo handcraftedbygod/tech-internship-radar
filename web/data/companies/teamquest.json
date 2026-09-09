@@ -1,0 +1,52 @@
+{
+  "slug": "teamquest",
+  "name": "TeamQuest",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-09T08:39:56.533Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "59c05425b0fda60859ba0fdd0b13b7bab949fd88",
+      "title": "Junior DevOps Engineer",
+      "url": "https://solid.jobs/o/kauheye7/freehire?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "966ab7e3a5dc8c1db26b6bc9d6b18686bdc40712",
+      "title": "Junior DevOps Engineer",
+      "url": "https://solid.jobs/o/d1oghlaw/freehire?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    }
+  ]
+}

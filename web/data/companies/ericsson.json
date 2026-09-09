@@ -2,9 +2,9 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Krakow",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,26 @@
     0,
     0,
     5,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28f13696319d32fa91068caf022b6ea4409def90",
+      "title": "Junior Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121776836269-junior-software-developer-g%C3%B6teborg-v%C3%A4stra-g%C3%B6taland-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Göteborg,Västra Götaland,Sweden",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "0026e983ac5323711678bcd3a1efa829c14a21d8",
+      "title": "Junior Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI3OTAzNyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "2ae460b6f63d3cd2dfbb09515c2c6042526c0919",
       "title": "Junior Software Tester L1 Radio",

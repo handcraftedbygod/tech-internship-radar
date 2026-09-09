@@ -1,14 +1,18 @@
 {
   "slug": "izertis",
-  "name": "IZERTIS",
+  "name": "Izertis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d0c1b700df7f7083e8cfbd5dd988ed05a5a054d",
+      "title": "Data Engineer Intern – Cloud & Data Pipelines (GCP)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349638102__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "02476704f3d06f0e18db9be74e46848a1232b192",
       "title": "Junior Java Developer – Remote | AWS",

@@ -2,9 +2,9 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Barcelona",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 15
     },
     {
       "id": "swe",
@@ -41,12 +41,19 @@
     0,
     0,
     20,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "818879454a7cf2d0df6e8bcc7c04a8e4c1cc7a76",
+      "title": "Junior Data Engineer - madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349435770__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "75fd7d5ca1f79132af8db1dc0d9bb77ba63aec0f",
       "title": "Junior Data Engineer - león",
@@ -107,13 +114,6 @@
       "id": "9c68a6ec68ce1af182da6e2d52d892a13d0e1698",
       "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - madrid",
       "url": "https://es.whatjobs.com/pub_api__cpl__343382369__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "5d9abe5f7d19da9533338ed074ac5aea92f6c89d",
-      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - distrito moncloa-aravaca",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343396252__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }

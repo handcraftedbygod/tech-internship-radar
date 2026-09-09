@@ -2,14 +2,14 @@
   "slug": "avaron",
   "name": "Avaron AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 9
     },
     {
       "hub": "Stockholm",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "ai",
@@ -37,12 +37,26 @@
     0,
     0,
     9,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8259cab3a4a933df28b6f34a8e14cd8565d28828",
+      "title": "Junior DevOps Software Engineer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31451754?utm_source=freehire.me",
+      "location": "Göteborg, Västra Götalands län, Sverige",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "5867016f4311d7c47336e6f7f89d15c2ffca6505",
+      "title": "Junior DevOps Software Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI3ODMwMiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "a32b516f4c5ce21191c8052fb7e01468e6a00107",
       "title": "Junior HIL Rig Developer",
@@ -97,13 +111,6 @@
       "title": "Junior Backend Developer",
       "url": "https://arbetsformedlingen.se/platsbanken/annonser/31366866?utm_source=freehire.me",
       "location": "Stockholm, Stockholms län, Sverige",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "f3188e31c500261185ad2c87ef9b1e71e0561850",
-      "title": "Junior Backend Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI0MTc3NSAxMjE?lang=en",
-      "location": "Sweden",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

@@ -2,10 +2,10 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 14,
-  "avgPostingDurationDays": 14.6,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    9,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "890f345e1ff56794a3e09a1137db92fc9acbd361",
+      "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-baea7b4704c54d21b7b-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "a44bbf39d52ab9b8c656992a5426f8fe631105a8",
       "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel (Data Scientist)",
@@ -110,13 +117,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtMGEwZTFhNzRhMzFiNGUxODgzOC1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "523ae34836db071204f219fc449360ba6f39f9d3",
-      "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-66a127cf519c44cfaa1-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

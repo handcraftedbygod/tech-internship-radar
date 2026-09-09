@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 26,
+  "currentOpenings": 25,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 41,
-  "avgPostingDurationDays": 18.8,
+  "totalPostings": 43,
+  "avgPostingDurationDays": 27,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -16,11 +16,11 @@
       "count": 9
     },
     {
-      "hub": "Paris",
-      "count": 2
+      "hub": "New York",
+      "count": 3
     },
     {
-      "hub": "New York",
+      "hub": "Paris",
       "count": 2
     },
     {
@@ -37,12 +37,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -64,12 +64,26 @@
     0,
     27,
     10,
-    4,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd298a6bfd3b860a9e61d89aea77adedae54a213",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627681003?gh_jid=7627681003",
+      "location": "New York, US, New York",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "ded1c7ae8505c92cda637ff72cbff8fda5c09c8a",
+      "title": "AI & Management Consulting Intern (Value Engineering - UKI Market)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7986192003?gh_jid=7986192003",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "0bd821f6b6425cf19b7ac26533de3f26b2929294",
       "title": "Intern Product Management - Business Apps Finance",
@@ -79,7 +93,7 @@
     },
     {
       "id": "6087ab85ac6b7fcb9e222e79495e4b5ce8474118",
-      "title": "Intern Business Development (Portuguese-Speaking) – 2027 Intake",
+      "title": "Intern Business Development (Brazilian Market) – 2027 Intake",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7611834003?gh_jid=7611834003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
@@ -125,20 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003",
       "location": "Paris, France",
       "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "47183814f3994a48b3eb5cfcf6e8dbbe0adf2788",
-      "title": "Intern / Working Student Online Training Translation (Korean speaking)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886106003?gh_jid=7886106003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "c53686784d6717a6f10d350032d02b74836bed5a",
-      "title": "(Graduated) Intern Online Training Translation (Korean speaking)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7886290003?gh_jid=7886290003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

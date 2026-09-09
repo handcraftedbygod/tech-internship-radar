@@ -2,21 +2,21 @@
   "slug": "peac",
   "name": "PEAC  GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4158a48bbd6256c75c709b670d6018b8f7acd7cd",
+      "title": "Junior Software Engineer SAP/ LISA (m/w/d) - Schwerpunkt Fakturierung und Abrechnung -",
+      "url": "https://www.adzuna.de/land/ad/5875729304?se=sGIv4xes8RG2Z-sv6w0mSQ&utm_medium=api&utm_source=freehire.me&v=E9B3E0FC506DAC5CE5BA3A95F3E0D1E99FFFBCE7",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "64b7fe225b76b5b8de1b49dbf695ef1ca1c20698",
       "title": "Junior Software Engineer SAP/ LISA (m/w/d) - Schwerpunkt Fakturierung und Abrechnung -",

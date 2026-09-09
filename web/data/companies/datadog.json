@@ -2,26 +2,34 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
+      "hub": "Paris",
+      "count": 4
+    },
+    {
       "hub": "New York",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "product",
-      "label": "Product",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 6
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +41,54 @@
     0,
     0,
     2,
-    0,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12a8e0db2d7a1e505fa2f606dde16c56e35161ff",
+      "title": "Software Engineering Intern (Summer)",
+      "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "bd34f5c2790c302dc15696b108398723b7ea96e7",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "97ef482d0679ac4efff782fc24f3d2e48970898f",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "76231848d27e745033612b1cad3bed9b056bdaf9",
+      "title": "Product Management Intern",
+      "url": "https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "9526f7746183d895da86f78d691371d5b21c4bd6",
+      "title": "IT Support Technician Intern",
+      "url": "https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
+    {
+      "id": "9d10b61298bd05f7cada08b30451bda8cf110ca4",
+      "title": "Applied Science Intern",
+      "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-09T08:39:56.533Z"
+    },
     {
       "id": "8ae0aae740a4deec20bab89004bd28a45a725a55",
       "title": "Software Engineering Intern (Winter)",
