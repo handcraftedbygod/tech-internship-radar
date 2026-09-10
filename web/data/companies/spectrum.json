@@ -2,21 +2,21 @@
   "slug": "spectrum",
   "name": "Spectrum",
   "tier": null,
-  "currentOpenings": 22,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 22,
+  "totalPostings": 28,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 28
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 26
     },
     {
       "id": "biz",
@@ -33,12 +33,54 @@
     0,
     0,
     0,
-    22,
+    28,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45c00803f63379aa2d5851dfbc92924e4fb326ad",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-4df3dc",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "bc26079955857359c6e14d0dcaa109fe75bd32d3",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-50546b",
+      "location": "Maryland Heights, MO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "ac33ed8841e12f5c616404f466d99a8d22527389",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-8caacc",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "49be30b86c316f2449adc66a49388281e158b9f2",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-be7eee",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "278d5668a663e027a993e9edd10a1dc6950d9138",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-3a25a0",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "63bdf64e5d23a05578abc012b4f9d238792d978e",
+      "title": "2027 Summer Intern: Software Engineer",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-d2ad6e",
+      "location": "St. Louis, MO",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "9531f7b2ca0c03b7c0c7b89c9a485c6eba87629a",
       "title": "2027 Summer Intern: Software Engineer",
@@ -66,48 +108,6 @@
       "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-f3a544",
       "location": "Englewood, CO",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "cc92baaebd5001212e40c8ce59611973c7e43829",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-453631",
-      "location": "Maryland Heights, MO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "110fb28a6d2b120509a147524251b73689998f3a",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-1137e2",
-      "location": "Greenwood Village, CO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "6181c32a45000b88ee58e9fc3764360a1d784ebe",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-53e92b",
-      "location": "Greenwood Village, CO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "78c4bdcd820c14623be399dd7cbdf06800d122fb",
-      "title": "2027 Summer Intern: Network Engineer I",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-network-engineer-i",
-      "location": "Englewood, CO",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "725519772496d0fe529f03cc786c28d9b7971eff",
-      "title": "2027 Summer Intern:Security Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-internsecurity-engineer",
-      "location": "Greenwood Village, CO",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "bb8a4ebd1e9b722c660894b6da2e97013c2cd7d9",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-ba2321",
-      "location": "St. Louis, MO",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
     }
   ]
 }

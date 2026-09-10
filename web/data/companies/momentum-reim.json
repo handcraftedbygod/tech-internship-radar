@@ -2,21 +2,21 @@
   "slug": "momentum-reim",
   "name": "Momentum Reim",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2988acd67520f4203c6f6f3b55356baa6a412c06",
+      "title": "Desarrollador Backend Junior | Hybrid y Crecimiento",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349873808__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "1ea7179d2136cf00899277e1517c0c6cd16a9e67",
       "title": "Desarrollador Backend Junior",

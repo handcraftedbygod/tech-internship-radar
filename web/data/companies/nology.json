@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 13.1,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -33,12 +33,19 @@
     0,
     0,
     9,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb345ef7f6086beab805f8d0abf394f0760ecaf8",
+      "title": "Junior DevOps Engineer - Accelerator Academy (ENG25)",
+      "url": "https://apply.workable.com/j/A85D576F10?utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, England, United Kingdom",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "938fbfcf0777dc3e9dab1d483d437309e87d72db",
       "title": "Birmingham Junior Java Developer | Spring Boot & AWS",
@@ -101,13 +108,6 @@
       "url": "https://uk.whatjobs.com/pub_api__cpl__499834486__7082?geoID=328&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Newcastle upon Tyne, United Kingdom",
       "firstSeenAt": "2026-08-10T05:27:06.486Z"
-    },
-    {
-      "id": "3c27982682f92fdb986d77faac9c8c22bc677206",
-      "title": "Junior DevOps Engineer - Accelerator Academy (ENG25)",
-      "url": "https://www.adzuna.co.uk/jobs/details/5828061436?utm_medium=api&utm_source=freehire.me",
-      "location": "Newcastle Upon Tyne, Tyne & Wear",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

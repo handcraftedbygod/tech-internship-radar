@@ -2,14 +2,14 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "product",
@@ -41,12 +41,19 @@
     0,
     0,
     2,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c3afc785241dac5304b5bc8cc4d495116d0b3cd",
+      "title": "Software Engineering Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-74277",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "12a8e0db2d7a1e505fa2f606dde16c56e35161ff",
       "title": "Software Engineering Intern (Summer)",

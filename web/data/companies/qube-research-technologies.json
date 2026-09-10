@@ -2,20 +2,25 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6d9d3a42c6c5e07de102f1e5a50be9e1372fcfe",
+      "title": "2027 - Internship, Data Engineering",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002?utm_source=freehire.me",
+      "location": "Paris, London",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "25e2479edf58e0bc7e90cfa29d7aff62a02943d6",
       "title": "2026 Internship - Software Engineer",

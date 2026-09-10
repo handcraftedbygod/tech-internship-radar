@@ -2,21 +2,21 @@
   "slug": "replit",
   "name": "Replit",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 19.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57daa12f90b98a8b6f683bcd904d6b082206a686",
+      "title": "Software Engineer - New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "ed0ffaf69fe27db876328fdb9e96338b8dc3669b",
       "title": "Software Engineering Intern",

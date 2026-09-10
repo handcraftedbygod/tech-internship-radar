@@ -2,9 +2,9 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 36,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 40,
+  "totalPostings": 42,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
@@ -13,11 +13,11 @@
     },
     {
       "hub": "Madrid",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Lisbon",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 36
+      "count": 37
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,26 @@
     0,
     0,
     33,
-    7,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f968b113259f5e624823d9411fdc8dd65ab64a35",
+      "title": "Category Management Intern Groceries Spain",
+      "url": "https://careers.glovoapp.com/job/category-management-intern-groceries-spain-in-madrid-spain-jid-744000148554410/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "d2573d6fb9ba54ce0ab86f0f46ecd1c40ec53f2d",
+      "title": "Intern- SMB Ads Sales Portugal",
+      "url": "https://careers.glovoapp.com/job/intern-smb-ads-sales-portugal-in-lisbon-portugal-jid-744000148437074/",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "daea2f7e86fa4178c292c6a490d88643c9dfe597",
       "title": "SMB Ads Sales Intern Portugal",
@@ -106,20 +120,6 @@
       "url": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149/",
       "location": "Lisbon, Portugal",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "cdad4005fb5b05f28f599ec9b143ca4e585f82f0",
-      "title": "Brands Ads Intern Spain",
-      "url": "https://careers.glovoapp.com/job/brands-ads-intern-spain-in-madrid-spain-jid-744000145942759/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "c67726382b6fd00f09c47e2d5080a26376a00023",
-      "title": "Intern Regions Spain",
-      "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-madrid-spain-jid-744000145903559/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

@@ -2,26 +2,26 @@
   "slug": "sngular",
   "name": "Sngular",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 17,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 24
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 20
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,61 @@
     0,
     0,
     2,
-    15,
+    22,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f05829178089774cbf68cbc18feb231712c6715",
+      "title": "Junior Cloud & DevOps Engineer - Remote & Growth Path",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349874202__7107?geoID=10492&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Islas Baleares, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "302d1e43aaca2f27dcaf25d75e9025893206673b",
+      "title": "Junior DevOps & Cloud Engineer - Azure, Kubernetes & GCP",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349873057__7107?geoID=9852&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "NAVA, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "9a25e54d9a63638f7b8f6ecbc881cf80e45a1e96",
+      "title": "Junior DevOps & Cloud Engineer — Remote & Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349875152__7107?geoID=10338&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alicante, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "293e344532796a0315b02d49d2cce24db035e77a",
+      "title": "Junior DevOps & Cloud Engineer: Remote-Ready",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349873899__7107?geoID=8371&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "OÑA, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "bcec3cdc99a23fa1d5719e8f04447fb184937838",
+      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349874429__7107?geoID=10144&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Gijón, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "2a1599fb489da43268bbf59e53b63150955c3f79",
+      "title": "Junior DevOps & Cloud Engineer — Grow in Multi-Cloud &CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349874262__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "af8f7a6cf415ef13ff53d733ca6d45b00bf58c36",
+      "title": "Junior DevOps & Cloud Engineer - euskadi",
+      "url": "https://es.whatjobs.com/pub_api__cpl__349936178__7107?geoID=5&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Basque Country, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "b264b60714a04486d6f65b9045ef1970fd35876c",
       "title": "Junior Cloud DevOps Engineer",
@@ -59,55 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__349316031__7107?geoID=1509&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Córdoba, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "3411766b23e2026949ed6a876cd7affab49eb608",
-      "title": "Junior DevOps & Cloud Engineer: Remoto & Crecimiento",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349425006__7107?geoID=5625&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Zaragoza, Spain",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "ee3aac09ed15dac2af92e8d12e70e82c6e1fddf1",
-      "title": "Junior DevOps & Cloud Engineer — Remote & Growth-ready",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349450615__7107?geoID=932&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Almería, Spain",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "140294c16295b4ad4005240c370860f64d6f9839",
-      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & Azure",
-      "url": "https://es.whatjobs.com/pub_api__cpl__347856194__7107?geoID=10127&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Santander, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "36610418ba25eaf088a68e51713cd76dfe1b0c28",
-      "title": "Junior Devops Engineer (Cloud Aws)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349237160__7107?geoID=1301&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Córdoba, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "321aab2d97eb4c8efd6d806c2bb7c122a9a8ca55",
-      "title": "Junior DevOps & Cloud Engineer: Remoto & Crecimiento",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349256923__7107?geoID=5625&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Zaragoza, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "e917c659536edde514178e790da3b8f859c7a991",
-      "title": "Junior DevOps Engineer – Cloud & CI/CD (AWS/Azure)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349239492__7107?geoID=1301&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Córdoba, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "c267e5c252a70b6c33382ac719077c8b0c607386",
-      "title": "Junior DevOps & Cloud Engineer — Remote & Growth-ready",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349256727__7107?geoID=527&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Almería, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]
 }

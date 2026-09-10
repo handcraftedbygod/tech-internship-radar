@@ -2,14 +2,14 @@
   "slug": "cadence",
   "name": "Cadence",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1cef39ad6b70fb9d4c17b0351de5f608ae9e818d",
+      "title": "Graduate Student Intern - Software Engineering",
+      "url": "https://www.themuse.com/jobs/cadence/graduate-student-intern-software-engineering-fce35b",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "9d2648c1eebef9de40a675ffd29037a682cbbe3e",
       "title": "Software Intern",

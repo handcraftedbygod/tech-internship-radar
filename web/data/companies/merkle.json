@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 9.7,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18edbf086639e438ad8cb8df1a02f89b2c00158d",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350130457__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "7ab664bd0e7176014487f0be6c1fc7fb94176f68",
       "title": "Junior Java Developer",

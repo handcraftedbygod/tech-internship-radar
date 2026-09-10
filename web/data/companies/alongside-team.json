@@ -2,20 +2,25 @@
   "slug": "alongside-team",
   "name": "alongside-team",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b230ce10875a6d3bada158c26d982cbddde48276",
+      "title": "Junior Fullstack Developer - AI Focus",
+      "url": "https://apply.workable.com/j/D0474AE211?utm_source=freehire.me",
+      "location": "Porto, Porto District, Portugal",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "9098e1bb9aa35be3da8b7d29e47991afd53352ff",
       "title": "Junior Fullstack Developer (AI-Driven)",

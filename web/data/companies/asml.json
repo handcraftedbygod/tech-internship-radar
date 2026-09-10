@@ -2,21 +2,21 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d4aad4e3a48e8b811c85ff2cdf38c74fb7da7410",
+      "title": "Engineering | Data Analytics internship: Business Intelligence Analyst",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Engineering---Data-Analytics-internship--Business-Intelligence-Analyst_J-00350781?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "ac3760ba2f1263ff873b24f9d2b1ae239fdecf1a",
       "title": "Data Science | AI internship: audit automation solutions",

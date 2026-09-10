@@ -2,14 +2,14 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,12 +37,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53156889963f82f8ee38c7e6350c22ef76eebe75",
+      "title": "Junior Data Analytics & BI Specialist",
+      "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Data-Analytics---BI-Specialist_JR00046196?utm_source=freehire.me",
+      "location": "Aleksandrow Lodzki, Lodz, Poland",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "3a677bac1424b5029d83c4b94f874a5a08afda73",
       "title": "Junior OT Cybersecurity Specialist/ (Industrial Control Systems / DCS Security)",

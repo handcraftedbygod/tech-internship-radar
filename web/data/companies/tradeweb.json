@@ -1,0 +1,59 @@
+{
+  "slug": "tradeweb",
+  "name": "Tradeweb",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-09-10T08:41:45.967Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "da53bfa4a99b8b8df4994e67d38abd4a00031d51",
+      "title": "Summer 2027 Java Developer Internship",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "fcccd354dc0f4e0c774c0707f879f78255532688",
+      "title": "Summer 2027 C++ Developer Internship",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "92e83e9784d9c16e016bf453dd00f99743b36fae",
+      "title": "Summer 2027 Site Reliability Internship",
+      "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301897?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    }
+  ]
+}

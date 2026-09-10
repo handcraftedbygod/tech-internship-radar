@@ -2,21 +2,21 @@
   "slug": "appian",
   "name": "Appian",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a214a03cb2ba7b90a93cd544ca804b9574d05f6e",
+      "title": "Information Security Engineer Intern",
+      "url": "https://www.themuse.com/jobs/appian/information-security-engineer-intern-b1ecd8",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "3821b6475425a7f26e736061c0a1d12b61c2e9fb",
       "title": "Software Engineering Intern",

@@ -2,21 +2,26 @@
   "slug": "navy-federal-credit-union",
   "name": "Navy Federal Credit Union",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 1,
+  "totalPostings": 12,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 9
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,18 +33,81 @@
     0,
     0,
     1,
-    0,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "bdc0919364e0a54989d486c41f04922d9629006a",
-      "title": "Data Engineering Intern",
-      "url": "https://echojobs.io/job/navy-federal-credit-union-intern-year-round-data-engineering-tq1nj?utm_source=freehire.me",
-      "location": "Vienna, VA, US",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
+      "id": "7f43262d510516fd982ae49ba2355ceb62ce6963",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32434?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "5aa0a724f95eefd4bbf935f6a5314d1f8b5cab60",
+      "title": "Summer Associate Internship (Mobile Developer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "5bcc4b9609a4bef3a709ed9dc98f640ac5a2eec9",
+      "title": "Summer Associate Internship (Internal Audit - Data Analytics)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32355?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "9ffd58d9372c4505898e4b95ebbc92f6de1400a2",
+      "title": "Summer Associate Internship (Data Scientist)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "33e8c50046d6215ececce20455f0e71fdec5cd20",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32334?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "068dbe1b391652d11e77586f9eeb6623cafa1d99",
+      "title": "Summer Associate Internship (Associate Data Engineer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "050ad265d75048486a19101c7d54319bdca85d61",
+      "title": "Summer Associate Internship (Data Scientist)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "e56e80026d52c911b8554a0aabd24f53e5be0b23",
+      "title": "Summer Associate Internship (Data Scientist)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "d83baf848bdafdd52080e647135561779ccebdee",
+      "title": "Summer Associate Internship (Data Engineer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "41ff1f57c588dcb3008f8612b82655c8d3e16595",
+      "title": "Summer Associate Internship (Data Scientist)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

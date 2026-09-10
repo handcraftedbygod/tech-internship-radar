@@ -2,20 +2,25 @@
   "slug": "ing-bank",
   "name": "ING Bank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38692a835a4c15e9ac5a2d0a9bdd38ffbf4845b4",
+      "title": "Junior Data Scientist",
+      "url": "https://careers.ing.com/en/job/amsterdam/junior-data-scientist/3121/44361166016?utm_source=freehire.me",
+      "location": "Amsterdam, NL",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "9eeb977c4771006f9fa992deeb7bef08dbfde0e7",
       "title": "INTERNSHIP SOFTWARE ENGINEER",

@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 11.8,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -33,12 +33,19 @@
     0,
     0,
     10,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f21f74ac13d5b3179a4c5bf972edd968c3532d82",
+      "title": "Software Developer Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-28cf06",
+      "location": "Annapolis Junction, MD",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "1b8d540e5f2abd7203b598c0d552a43ac355830a",
       "title": "Cybersecurity Analyst Intern",
@@ -101,13 +108,6 @@
       "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-2baab0",
       "location": "O'Fallon, IL",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "bc8eb63945e79354a712df122de9a3c8f5075304",
-      "title": "Engineering Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern_R-00189691",
-      "location": "Huntsville, AL",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

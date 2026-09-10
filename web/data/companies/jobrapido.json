@@ -2,14 +2,14 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 22,
+  "totalPostings": 23,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Madrid",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,19 @@
     0,
     0,
     20,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac83035fcd851180fd7ebd8b8b924b36dd861211",
+      "title": "Junior DevOps & Cloud Engineer - Sngular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350089590__7107?geoID=8766&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Santiago de Compostela, Spain",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "818879454a7cf2d0df6e8bcc7c04a8e4c1cc7a76",
       "title": "Junior Data Engineer - madrid",
@@ -108,13 +115,6 @@
       "title": "Data Engineer Junior - Vigo",
       "url": "https://es.whatjobs.com/pub_api__cpl__342902893__7107?geoID=6394&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Vigo, Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "9c68a6ec68ce1af182da6e2d52d892a13d0e1698",
-      "title": "Junior Data Engineer | BI & Data - Compañía Digital Sector Fintech - madrid",
-      "url": "https://es.whatjobs.com/pub_api__cpl__343382369__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

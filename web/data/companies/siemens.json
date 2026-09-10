@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 22,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Berlin",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Frankfurt",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 11
     },
     {
       "id": "swe",
@@ -55,12 +55,26 @@
     0,
     0,
     17,
-    5,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "064de6ea7de8f0a1cc9717525be08328a8593706",
+      "title": "Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im...",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1630777-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
+    {
+      "id": "5dae6c5c6e7e19ce799df017adca421b125941a9",
+      "title": "Working Student (f/m/d) Data Analytics & IT Automation",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-2-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "d6193f6d6a55a3b8e08028f6c9681e889dce1f0a",
       "title": "Werkstudent (w/m/d) für Software, Digitalisierung & Sales Enablement",
@@ -115,20 +129,6 @@
       "title": "Working Student (f/m/d) Business Developer Industrial AI in Automation",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623957-1-S",
       "location": "Fürth, Odenwald",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "9fd240f43d7cc412a89988125ebc50a322733786",
-      "title": "Working Student (f/m/d) eMobility Software",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1624574-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "4a929d8dbdf042c4bae55559896acbc9de365b9a",
-      "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme (Embedded-Systems-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NjUtMTYyMzk2Mi0xLVMgMQ?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

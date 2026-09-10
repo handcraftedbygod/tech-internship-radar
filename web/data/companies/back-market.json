@@ -2,25 +2,25 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d9af926e4a528c7e4f849d6485b183871ff4cfc",
+      "title": "Fraud and Risk Officer Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/40a80901-b0e4-4bc5-8208-1c396c1c8384",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "3a6cc7a9acc8b568160ee3d5cedf841317aef231",
       "title": "Sustainability and Public Affairs Intern (Paris )",

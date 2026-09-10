@@ -2,21 +2,21 @@
   "slug": "farfetch",
   "name": "Farfetch",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "145d93871a48986b9fb74b8665c431244037260d",
+      "title": "Junior Software Engineer - BackEnd",
+      "url": "https://jobs.lever.co/farfetch/24c412e5-d433-4ca2-8fa4-bcd2069f9dcd?utm_source=freehire.me",
+      "location": "Porto",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "0ef89fe051e8d402c0e463bb90f393121e3098d8",
       "title": "Junior Software Engineer - Back End",

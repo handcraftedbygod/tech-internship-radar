@@ -2,14 +2,14 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Munich",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    10,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f655cb41081d878cb0c11d9ba895d5891ce3a12",
+      "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge (Data Scientist)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtYmFlYTdiNDcwNGM1NGQyMWI3Yi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-10T08:41:45.967Z"
+    },
     {
       "id": "890f345e1ff56794a3e09a1137db92fc9acbd361",
       "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge",
@@ -108,13 +115,6 @@
       "id": "dc91369a807ecbaa3fa300a206075d483a44f704",
       "title": "(Junior) Softwareentwickler (m/w/d) CTO Taskforce Team (Fullstack-Entwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNjMzNjVmNTg1YTkxNGQxNmEzYS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "fd96bdc3af95884ae7a58b1018d3ab65c2e3a546",
-      "title": "(Junior) Softwareentwickler (m/w/d) AI Forge (Fullstack-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtMGEwZTFhNzRhMzFiNGUxODgzOC1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
