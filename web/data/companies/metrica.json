@@ -2,21 +2,21 @@
   "slug": "metrica",
   "name": "Metrica",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7211220f32a9e15ff1e39c6e915a52408610bedf",
+      "title": "Desarrollador Full Stack Junior: Java, Node, React, Angular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347235532__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "4c759d6d711351efcdd21efca8d5fb1b9880ef89",
       "title": "Programador/a Junior Full Stack",

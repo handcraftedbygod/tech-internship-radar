@@ -2,21 +2,21 @@
   "slug": "social-you",
   "name": "Social You",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 10
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     7,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c86dc6c5c7b85e711a4099d1dc446c3313431ea9",
+      "title": "Junior Java Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__347859487__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "1ec86ddb479b831e73cd4a3b496f627dd98716af",
+      "title": "Junior Frontend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350348112__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "dd16d2e8210e8d9380fa6bc77427faf1f75f10bd",
       "title": "Junior Java Software Developer",
@@ -87,20 +101,6 @@
       "id": "355325207cd9542bf4cc55e243d2e0ee5735b2bb",
       "title": "Junior Frontend Developer",
       "url": "https://es.whatjobs.com/pub_api__cpl__342237013__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-15T04:30:16.064Z"
-    },
-    {
-      "id": "e998e98c73b27b248043670955c3dd13dd4e4e40",
-      "title": "Junior Java Software Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342147539__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-15T04:30:16.064Z"
-    },
-    {
-      "id": "41958bc356a875c9e05c7b8d65f83b96e3f3607d",
-      "title": "Junior Java Software Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342237688__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-08-15T04:30:16.064Z"
     }

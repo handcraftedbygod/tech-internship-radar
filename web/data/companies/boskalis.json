@@ -2,21 +2,21 @@
   "slug": "boskalis",
   "name": "boskalis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -33,12 +33,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f7088720d3565b367b2a83d16359a23c74a6f8c",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobs.smartrecruiters.com/Boskalis/744000148808850-junior-systems-engineer?utm_source=freehire.me",
+      "location": "Papendrecht, ZH, nl",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "ac711f14f1d93255c6530c504954e1e9c7797eb1",
       "title": "Practical Internship: Simulation Software Engineer",

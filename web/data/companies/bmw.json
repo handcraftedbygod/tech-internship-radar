@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 7
     },
     {
       "id": "swe",
@@ -37,12 +37,26 @@
     0,
     0,
     6,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98f22961aea686c24277619c3d5fa52246aeb788",
+      "title": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631161-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "78ec8fe2588f6e57a9d06f3d6ca2a554b44a9985",
+      "title": "Werkstudent Data Science (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631645-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "ecf820795e38b14ad74e0037715e679d5d4ab8d5",
       "title": "Praktikant Data Science Einsatzänderungssteuerung (w/m/x)",
@@ -96,13 +110,6 @@
       "id": "544f9b4558251dca30e7a5c474a209c9645cd86f",
       "title": "Praktikant Software Integration E/E Systeme (w/m/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1608580-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "034930e0fc209f47e85676bbdf14513fd8b84679",
-      "title": "Werkstudent/in Software Integration (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1608588-1-S",
       "location": "München",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }

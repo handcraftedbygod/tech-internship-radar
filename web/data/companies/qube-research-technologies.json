@@ -2,21 +2,21 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "ai",
@@ -33,12 +33,26 @@
     0,
     0,
     1,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19d4ae61ab8f019acfba3a6a3964b21f109c73f1",
+      "title": "2027 – Graduate or Internship, Infrastructure Engineer ",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002?utm_source=freehire.me",
+      "location": "London, Paris",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "996886fcdc666dd64dd6c918715635a2dd885e53",
+      "title": "2027 Internship – Security Engineer ",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002?utm_source=freehire.me",
+      "location": "London, Paris",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "c6d9d3a42c6c5e07de102f1e5a50be9e1372fcfe",
       "title": "2027 - Internship, Data Engineering",

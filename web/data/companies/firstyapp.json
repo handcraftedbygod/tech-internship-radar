@@ -2,21 +2,21 @@
   "slug": "firstyapp",
   "name": "firsty.app",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 16.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2598277cae075c866b54d088d42e083180194826",
+      "title": "Data Engineer (Junior) Amsterdam",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__160409176__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "8fca4196e72d32327981a3dd3279d2f8beb80906",
       "title": "Junior Data Engineer: Build Global Data Pipelines",

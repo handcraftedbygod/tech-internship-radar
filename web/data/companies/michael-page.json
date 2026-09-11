@@ -1,15 +1,15 @@
 {
   "slug": "michael-page",
-  "name": "Michael Page",
+  "name": "Michael Page GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     6,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4648e94b4c72a6cce95e6bb3dae6878a9dc8a25d",
+      "title": " (Junior) Controller / Financial Data Analyst (m/w/d) (Finanzwirt/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDMtNExfNjE1NTM3LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "71850f86c2bc2d6795557ca088e329456ba29dcf",
       "title": " (Junior) Controller / Financial Data Analyst (m/w/d) (Finanzwirt/in)",

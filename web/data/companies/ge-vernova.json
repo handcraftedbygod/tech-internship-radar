@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -37,12 +37,26 @@
     0,
     0,
     5,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "336e34a50700d45b03a283ced2e14d5e45e7690e",
+      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+      "url": "https://www.themuse.com/jobs/gevernova/ge-vernova-energy-optimization-software-engineer-intern-summer-2027-c232d5",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "2a7b9cf66a79207f14e2e125aa3342545a3871e8",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-c08fe7",
+      "location": "Flexible / Remote, I-n-Salah, Algeria",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "fdc4d2e507fafe3eee4732fd5ed18bff48bdff36",
       "title": "Working Student / Internship (f/m/d) – OT Cybersecurity & Vulnerability Management",

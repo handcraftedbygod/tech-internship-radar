@@ -2,21 +2,21 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -33,12 +33,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea26a1629c12096f0b62492e3ab0e32b72a7dbaf",
+      "title": "Junior Data Analyst and AI Specialist (h/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1?utm_source=freehire.me",
+      "location": "Toulouse Area",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "fbee27c5a31ce1eceed5c1114adf70081f751aac",
       "title": "Junior Data Scientist / AI engineer  (m/w/d) in the field of Data Processing & Analytics",

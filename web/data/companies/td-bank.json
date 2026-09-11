@@ -2,25 +2,25 @@
   "slug": "td-bank",
   "name": "TD Bank",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,33 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee9f919c1db499a1667379b9886ef20b346327ed",
+      "title": "Software Engineer Intern/Co-op (Winter 2027)",
+      "url": "https://www.themuse.com/jobs/tdbank/software-engineer-interncoop-winter-2027",
+      "location": "London, Canada, Mississauga, Canada, Toronto, Canada",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "7bc56709aefa8bad807d84756c4648032bea3618",
+      "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
+      "url": "https://www.themuse.com/jobs/tdbank/mobile-software-engineer-interncoop-winter-2027",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "d4311da51201c8401625bd6c7b1c74eaf5a3ce42",
+      "title": "Cloud/DevOps Intern/Co-op​ (Winter 2027)",
+      "url": "https://www.themuse.com/jobs/tdbank/clouddevops-interncoop-winter-2027",
+      "location": "Mississauga, Canada, Toronto, Canada",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "b3078832a976d66178d8685f1214c0eb91504c04",
       "title": "Mobile Software Engineer Co-op / Intern​ (Winter 2027)",

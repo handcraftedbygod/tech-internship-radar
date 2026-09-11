@@ -2,14 +2,14 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     11,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42ed25b1f783474dec3a67fb8d46f3cac30cfc30",
+      "title": "Junior Software Engineer (m/w/d) Greenfield, InsurTech",
+      "url": "https://www.adzuna.de/land/ad/5879376848?se=Cm9peKmt8RGWn_T67fT_Ug&utm_medium=api&utm_source=freehire.me&v=2AF6C2A794F7D98B84800731FBD84F3C2493D2AB",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "ecefdd719d8a8e334de3ac0cbc5de3e125a10741",
       "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge",
@@ -109,13 +116,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000144346261",
       "location": "Augsburg, Bayern, Germany",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "32a03e6e733381acc5c22d3ac62e008f61b818ea",
-      "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000143463308",
-      "location": "Dortmund, Nordrhein-Westfalen, Germany",
-      "firstSeenAt": "2026-08-15T04:30:16.064Z"
     }
   ]
 }

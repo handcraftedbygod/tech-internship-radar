@@ -2,10 +2,10 @@
   "slug": "talanto",
   "name": "Talanto",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": null,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
@@ -14,13 +14,17 @@
     {
       "hub": "Katowice",
       "count": 1
+    },
+    {
+      "hub": "Krakow",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -42,12 +46,19 @@
     0,
     0,
     3,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eae601e8676cdbab2c299d8a2ddb3fb5c587ac90",
+      "title": "Junior Java Software Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29621079__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "e0897a53d1eaea3e468f014e8bd929ee3ee37824",
       "title": "Junior Data Engineer - AI Analytics & Pipelines",

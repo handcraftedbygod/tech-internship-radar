@@ -2,9 +2,9 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 25,
+  "currentOpenings": 27,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 43,
+  "totalPostings": 45,
   "avgPostingDurationDays": 27,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 9
+      "count": 11
     },
     {
       "hub": "New York",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -64,12 +64,26 @@
     0,
     27,
     10,
-    6,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c91131b26fe28039a35fa3b5bd8fe9d6a6e2cb8",
+      "title": "Intern Technology Consultant - Data & AI",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "eaa29a2b9f1ac28836beea2d0d0492a7c8de18a6",
+      "title": "Intern Deployment Engineer - Data & AI",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "fd298a6bfd3b860a9e61d89aea77adedae54a213",
       "title": "Associate Deployment Engineer - Galaxy Graduate Program",
@@ -125,20 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
       "location": "Remote, US, Massachusetts",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "c5d1ee8bd0b267858e45efd899c757b63d03b165",
-      "title": "Marketing Database Operations Graduated Internship (12 months)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7913331003?gh_jid=7913331003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "7970999c048a03d19386ecdab7d8339848a720d0",
-      "title": "Intern Technology & Management Consulting (Value Engineering)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7962340003?gh_jid=7962340003",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]
 }

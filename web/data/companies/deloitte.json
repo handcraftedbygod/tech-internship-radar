@@ -2,9 +2,9 @@
   "slug": "deloitte",
   "name": "Deloitte GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Berlin",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,12 +41,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3783e6307381da231032b5e0397157ec41678cf2",
+      "title": "Junior Software Developer",
+      "url": "https://deloitte.zohorecruit.eu/jobs/Careers/43151000027744762?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "d5a4c506b9766b309e8f1dac770ff0d524047c23",
       "title": "Praktikant AI & Data Engineering (m/w/d)",

@@ -2,14 +2,18 @@
   "slug": "jpmorgan-chase",
   "name": "JPMorgan Chase",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "New York",
       "count": 4
+    },
+    {
+      "hub": "London",
+      "count": 2
     },
     {
       "hub": "Other",
@@ -18,17 +22,13 @@
     {
       "hub": "Dublin",
       "count": 1
-    },
-    {
-      "hub": "London",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "quant",
@@ -45,12 +45,19 @@
     0,
     0,
     4,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "018fa9ed3bcaf3ad773221d28da54f27dd56fa3d",
+      "title": "2027 Software Engineer Program - Summer Internship - Glasgow, London",
+      "url": "https://www.themuse.com/jobs/jpmorganchase/2027-software-engineer-program-summer-internship-glasgow-london-9834c5",
+      "location": "Glasgow, United Kingdom, London, United Kingdom",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "38ec87f836558cc3b70bb0a50035e1897968dbdb",
       "title": "2027 Software Engineer Program - Summer Internship - Glasgow & London",

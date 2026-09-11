@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 38,
+  "currentOpenings": 39,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 42,
-  "avgPostingDurationDays": 11.2,
+  "totalPostings": 44,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Madrid",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 37
+      "count": 39
     },
     {
       "id": "biz",
@@ -45,12 +45,26 @@
     0,
     0,
     33,
-    9,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15b978f3765d2894d65ad56fb05a93a28431487e",
+      "title": "Account Manager Intern Specialties Spain",
+      "url": "https://careers.glovoapp.com/job/account-manager-intern-specialties-spain-in-madrid-spain-jid-744000148807773/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "ce2a53d32a9db0450b69097a4416c226609005c3",
+      "title": "Junior Privacy Counsel",
+      "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000148795474/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "f968b113259f5e624823d9411fdc8dd65ab64a35",
       "title": "Category Management Intern Groceries Spain",
@@ -106,20 +120,6 @@
       "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000146655829/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "97987c432e180bb6b860ef46a4c4b5eb658e2c77",
-      "title": "Junior Health & Safety Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-health-safety-analyst-in-barcelona-spain-jid-744000146655779/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "fe830a15562d2805f731436bae6fb1d219fd256c",
-      "title": "Intern Account Manager Groceries & Specialties Portugal",
-      "url": "https://careers.glovoapp.com/job/intern-account-manager-groceries-specialties-portugal-in-lisbon-portugal-jid-744000146156149/",
-      "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

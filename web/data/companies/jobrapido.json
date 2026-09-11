@@ -2,14 +2,14 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Madrid",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,19 @@
     0,
     0,
     20,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b47dcbc7ebc448bfd83c5a61e0e749b09d2e127c",
+      "title": "Junior DevOps & Cloud Engineer - Sngular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350467417__7107?geoID=4612&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Tarragona, Spain",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "ac83035fcd851180fd7ebd8b8b924b36dd861211",
       "title": "Junior DevOps & Cloud Engineer - Sngular",
@@ -108,13 +115,6 @@
       "title": "Desarrollador De Backend Junior - Palma De Mallorca",
       "url": "https://es.whatjobs.com/pub_api__cpl__342895011__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "f9f7fb445cae2ef2e30c8d7c9f8ccb9f52037ba9",
-      "title": "Data Engineer Junior - Vigo",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342902893__7107?geoID=6394&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Vigo, Spain",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

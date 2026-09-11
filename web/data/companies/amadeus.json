@@ -1,0 +1,78 @@
+{
+  "slug": "amadeus",
+  "name": "amadeus",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-09-11T08:36:12.324Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 5
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b136b789e53552598fdfab484345cc7521bd96cb",
+      "title": "Internship - Software Engineer",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Software-Engineer_R37331?utm_source=freehire.me",
+      "location": "Nice",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "f3890152578e31c3b0a6331807de10e76a568ac0",
+      "title": "Internship - Data engineer",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-engineer_R37334?utm_source=freehire.me",
+      "location": "Nice",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "c1f0313c022f988c5e739075475ab34bc6c033b4",
+      "title": "Internship - Data scientist",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Data-scientist_R37333?utm_source=freehire.me",
+      "location": "Nice",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "4d597210d9a92ebdb57913fa64dd404af80c1254",
+      "title": "Internship - DevOps Engineer",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---DevOps-Engineer_R37332?utm_source=freehire.me",
+      "location": "Nice",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "1bcd11c96bfb05d946200fd8a3e4e44634585698",
+      "title": "Internship - Security engineer",
+      "url": "https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Internship---Security-engineer_R37336?utm_source=freehire.me",
+      "location": "Nice",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    }
+  ]
+}

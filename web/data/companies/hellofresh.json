@@ -2,14 +2,14 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Other",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,26 @@
     0,
     5,
     8,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5308ed504f6261997cb90c8c9a1d3350dfe6b67",
+      "title": "Menu Planner Working Student (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
+    {
+      "id": "0b36963d3a6bf3ab0ac86f059a96c80ae1f242d9",
+      "title": "Editorial Operations Intern (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8169099?gh_jid=8169099",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "217b6179ebe8d879248d7630795427a9e520448e",
       "title": "Junior Recipe Developer (all genders)",
@@ -106,20 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8128171?gh_jid=8128171",
       "location": "Bleiswijk, South Holland, Netherlands",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "ae0d73f2f3974a647f739a0f352622fc88cb9d8a",
-      "title": "Werkstudent - Partnerships & Influencer Operations (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8120152?gh_jid=8120152",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "8c8b10117fdb3e987ee36cf43411aecc9af1b0b5",
-      "title": "Junior Photographer (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8114245?gh_jid=8114245",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

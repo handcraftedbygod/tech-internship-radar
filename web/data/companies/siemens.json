@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 24,
-  "avgPostingDurationDays": 11.2,
+  "totalPostings": 25,
+  "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Berlin",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "hw",
@@ -55,12 +55,19 @@
     0,
     0,
     17,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d51d427d05a70146c808e5b39b92f9011c28f04b",
+      "title": "Working Student (f/m/d) eMobility Software",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1624574-2-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "064de6ea7de8f0a1cc9717525be08328a8593706",
       "title": "Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im...",
@@ -122,13 +129,6 @@
       "title": "Junior Software Developer (m/w/d) für SIMATIC AX",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623961-1-S?utm_source=freehire.me",
       "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "458ebd8b02e003d7eed03ca61943d71f26fe94df",
-      "title": "Working Student (f/m/d) Business Developer Industrial AI in Automation",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623957-1-S",
-      "location": "Fürth, Odenwald",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e646a7c7d24ef6c9ecf229ef15bd3590e8cbf617",
+      "title": "Junior business data scientist - Marketing & commercial effectiveness",
+      "url": "https://www.arbeitnow.fr/jobs/companies/ekimetrics/junior-business-data-scientist-marketing-commercial-effectiveness-paris-293047",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-11T08:36:12.324Z"
+    },
     {
       "id": "cdd7cf24bb00014346c975e933da3f0f616224ff",
       "title": "Junior business data scientist - Marketing & commercial effectiveness",
