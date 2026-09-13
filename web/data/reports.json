@@ -1,5 +1,165 @@
 [
   {
+    "weekOf": "2026-09-06",
+    "newCount": 571,
+    "prevWeekCount": 428,
+    "pctChange": 33.4,
+    "totalTracked": 3543,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 344
+      },
+      {
+        "hub": "London",
+        "count": 33
+      },
+      {
+        "hub": "Munich",
+        "count": 26
+      },
+      {
+        "hub": "New York",
+        "count": 21
+      },
+      {
+        "hub": "Barcelona",
+        "count": 19
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "spectrum",
+        "name": "Spectrum",
+        "count": 28
+      },
+      {
+        "slug": "coinbase",
+        "name": "Coinbase",
+        "count": 25
+      },
+      {
+        "slug": "sngular",
+        "name": "Sngular",
+        "count": 20
+      },
+      {
+        "slug": "navy-federal-credit-union",
+        "name": "Navy Federal Credit Union",
+        "count": 17
+      },
+      {
+        "slug": "careervalue-ict-recruitment",
+        "name": "CareerValue ICT Recruitment",
+        "count": 9
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 183,
+      "sample": [
+        {
+          "slug": "1-tech-staffing",
+          "name": "1 Tech Staffing Ltd"
+        },
+        {
+          "slug": "1dea",
+          "name": "1dea"
+        },
+        {
+          "slug": "360-consulting",
+          "name": "360 Consulting GmbH"
+        },
+        {
+          "slug": "abstract",
+          "name": "Abstract"
+        },
+        {
+          "slug": "ad-warrior",
+          "name": "Ad Warrior Ltd"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "biz",
+      "label": "Business",
+      "pctChange": 125
+    },
+    "notableHiring": [
+      {
+        "slug": "coinbase",
+        "name": "Coinbase",
+        "badge": "NOTABLE",
+        "count": 25
+      },
+      {
+        "slug": "datadog",
+        "name": "Datadog",
+        "badge": "NOTABLE",
+        "count": 7
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "qube-research-technologies",
+        "name": "Qube Research & Technologies",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "scale-ai",
+        "name": "Scale AI",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "google-ireland",
+        "name": "Google Ireland Ltd",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Scale AI",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+      "hub": "San Francisco",
+      "currency": "usd",
+      "low": 74,
+      "high": 92
+    },
+    "headline": {
+      "company": "Google Ireland Ltd",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__5689420__7127?geoID=253&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "hub": "Dublin",
+      "badge": "FAANG",
+      "currency": "eur",
+      "low": 25,
+      "high": 31
+    },
+    "earlyPick": {
+      "company": "TD Bank",
+      "title": "Cloud/DevOps Intern/Co-op​ (Winter 2027)",
+      "url": "https://www.themuse.com/jobs/tdbank/clouddevops-interncoop-winter-2027",
+      "season": "Winter 2027",
+      "hub": "Toronto"
+    }
+  },
+  {
     "weekOf": "2026-08-30",
     "newCount": 465,
     "prevWeekCount": 388,
