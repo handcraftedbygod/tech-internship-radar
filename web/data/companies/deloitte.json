@@ -1,10 +1,10 @@
 {
   "slug": "deloitte",
-  "name": "Deloitte GmbH",
+  "name": "Deloitte",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
@@ -18,6 +18,10 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -29,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -41,12 +45,19 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a7c341311fe72a0f0876eaf1035607d4083d31d5",
+      "title": "Junior Cybersecurity | Tecnologia & Transformación - Empieza tu carrera con impacto | Barcelona",
+      "url": "https://empleo.es.deloitte.com/job/Barcelona-Junior-Cybersecurity-Tecnologia-&-Transformaci%C3%B3n-Empieza-tu-carrera-con-impacto-Barcelona/1436208933/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "3783e6307381da231032b5e0397157ec41678cf2",
       "title": "Junior Software Developer",

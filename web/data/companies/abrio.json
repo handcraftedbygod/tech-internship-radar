@@ -2,21 +2,21 @@
   "slug": "abrio",
   "name": "ABRIO GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "782fcc81670dd5fe0b738db715b64c07ae53a7ae",
+      "title": "Junior Fullstack Developer",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-483282",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "4f8a6d252f4f289a405e74a5d4eea88f2c7f17cb",
       "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",

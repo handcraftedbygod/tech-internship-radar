@@ -2,13 +2,17 @@
   "slug": "la-belle-empreinte",
   "name": "LA BELLE EMPREINTE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d56b4285d3c0b3cfb6666befa805cc57bc73671",
+      "title": "DEVELOPPEUR JUNIOR FULL STACK & IA",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__154334337__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "0c0791a030bbce1f2f69b679bb97232f95cff5be",
       "title": "DEVELOPPEUR JUNIOR FULL STACK & IA (H/F)",

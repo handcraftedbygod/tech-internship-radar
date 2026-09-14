@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 27,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 45,
+  "totalPostings": 46,
   "avgPostingDurationDays": 27,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 27
+      "count": 28
     },
     {
       "hub": "Munich",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -64,12 +64,19 @@
     0,
     27,
     10,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49b3103e4272a2d96ce4de1e8655f888c6305cc6",
+      "title": "Intern Strategic Program Management",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7990967003?gh_jid=7990967003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "6c91131b26fe28039a35fa3b5bd8fe9d6a6e2cb8",
       "title": "Intern Technology Consultant - Data & AI",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7977932003?gh_jid=7977932003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "6bebacee9d5ffa2b24f4456789abb21490c681a4",
-      "title": "Engineering Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
-      "location": "Remote, US, Massachusetts",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

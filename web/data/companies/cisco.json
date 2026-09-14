@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,26 @@
     0,
     0,
     1,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8e56cf6e16d7648a790fe37a0970d308e3f86ae",
+      "title": "Junior Platform Software Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer_2024616?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "5fb75f47b34ed6b2682b1df124e13ef041bcf4ac",
+      "title": "Junior Cloud Automation Software Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Cloud-Automation-Software-Engineer_2024610?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "b912e07080b247048f8e4ddc95ce939d0ca62a52",
       "title": "Junior Software Engineer (Go + Cloud)",

@@ -2,14 +2,14 @@
   "slug": "spectrum",
   "name": "Spectrum",
   "tier": null,
-  "currentOpenings": 28,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 28,
+  "totalPostings": 30,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 30
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,26 @@
     0,
     0,
     0,
-    28,
+    30,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de1f9baf8a433c66d706e96ba6ede30215ce4d3a",
+      "title": "2027 Summer Intern:Associate DevOps Engineer​ (Customer Operations)",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-internassociate-devops-engineer-customer-operations",
+      "location": "Maryland Heights, MO",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "bcee6f39b5ec1a643c5165c19d3d220c74dc68f4",
+      "title": "2027 Summer Intern:Associate DevOps Engineer​ (Customer Operations)",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-internassociate-devops-engineer-customer-operations-7ab516",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "45c00803f63379aa2d5851dfbc92924e4fb326ad",
       "title": "2027 Summer Intern: Software Engineer",
@@ -93,20 +107,6 @@
       "title": "2027 Summer Intern: Systems Engineer - Video",
       "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-systems-engineer-video",
       "location": "Greenwood Village, CO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "d461c7205d3a3b5ae019ca0b0efb21ba06f701f4",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-c8b20b",
-      "location": "Greenwood Village, CO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "bd3b7ca7aef1cfc47388af1edb715cb51931a5a1",
-      "title": "2027 Summer Intern: Software Engineer",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-f3a544",
-      "location": "Englewood, CO",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]

@@ -2,17 +2,21 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 13
     },
     {
       "hub": "Bremen",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 9
     },
     {
       "id": "ai",
@@ -42,12 +46,40 @@
     0,
     0,
     8,
-    3,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7d9a8e411f54de0994627210feed97992a54b92",
+      "title": "Junior Backend Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970420688-S?utm_source=freehire.me",
+      "location": "Immenstaad am Bodensee, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "c57974318e40af6a8f9bb706a9efe550d1c1c371",
+      "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970272818-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "170fd291f2254276feac54f5340fbd9f03366930",
+      "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d) (Cloud-Consultant)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTcwMjcyODE4LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "df4755dc6b83f1dd5bcd49863512fe7132411407",
+      "title": "Junior Backend Engineer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTcwNDIwNjg4LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "3a867815620a291b81115ded555bf772ee7b7357",
       "title": "Working Student (d/f/m) Simulation Control UI Software Infrastructure",
@@ -89,34 +121,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY2MzI1NTMzLVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "219c843751b321a83e4b75fb0ed9eed8bcec1fa0",
-      "title": "Intern in Space-Software Unit Testing & Migration (d/f/m) (Ingenieur/in - Luft- und Raumfahrttechnik)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY2MzQxNTUxLVMgMQ?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "3c12a64d0c7f43a38a52d84d546259cace51eede",
-      "title": "Junior Backend Engineer (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-965368917-S?utm_source=freehire.me",
-      "location": "Bremen, BREMEN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "033b0088fba61b23ca155ed9510d9f630c514f3d",
-      "title": "Intern (d/f/m) Artificial Intelligence",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-961842022-S",
-      "location": "Donauwörth",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "dca58e5b892cc27bf89d3886f12198a41fab749e",
-      "title": "Intern (d/f/m) within the mission software department",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-961842981-S",
-      "location": "Donauwörth",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

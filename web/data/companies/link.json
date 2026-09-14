@@ -2,21 +2,21 @@
   "slug": "link",
   "name": "Link Group",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4df2261a4df06441a02395064ec07e4c82aac1ea",
+      "title": "Junior Python Developer @ Link Group",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29714215__7143?geoID=4320&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Polska, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "21b52ff17f019c54a555d83183a72269b8b26d4d",
       "title": "Junior Java Developer @ Link Group",

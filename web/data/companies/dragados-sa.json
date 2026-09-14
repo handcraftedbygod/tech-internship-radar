@@ -2,9 +2,9 @@
   "slug": "dragados-sa",
   "name": "Dragados SA",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "939e2b8da0cb779e7e3d1b8dcc437606606656c1",
+      "title": "Junior Data Engineer required with AWS, Python and SQL experience",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350659690__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "e11ffa02608cc1f0535eabc5621232d85fa5a1ef",
       "title": "Junior Big Data Engineer",

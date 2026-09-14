@@ -2,9 +2,9 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Bremen",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Düsseldorf",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
@@ -41,12 +41,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3055f875184ec90884da244910bff3f4ac840383",
+      "title": "Werkstudent im Bereich IT und DevOps (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635317-7878-5093-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "ee60586f711f17b6c126ac625657185f5931e917",
       "title": "Werkstudent Backend Entwicklung (m/w/d)",

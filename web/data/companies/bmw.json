@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "swe",
@@ -37,12 +37,19 @@
     0,
     0,
     6,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d8bd5a6006f9cac9e6d920aebab5730f2605811",
+      "title": "Praktikant Data Science & AI in der Montageplanung (m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631637-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "98f22961aea686c24277619c3d5fa52246aeb788",
       "title": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
@@ -105,13 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617420-1-S",
       "location": "München",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "544f9b4558251dca30e7a5c474a209c9645cd86f",
-      "title": "Praktikant Software Integration E/E Systeme (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1608580-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

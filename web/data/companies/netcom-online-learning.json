@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     13,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ddb9ff41cf34d07d0f02b1e78fed68b4db58b7bc",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57340691",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "bb29f7aebb6da20be59eb223f856ba7c83b18b70",
+      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57340709",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "fde6af8df46428aea845210039cd87d5639cc88a",
       "title": "Trainee Data Analyst",
@@ -88,20 +102,6 @@
       "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
       "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57248899",
       "location": "Sheffield",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "7985584c701f7e65095008567a80b4720ce60d66",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57248905",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "e27ee11e2b0119a388d6f0881763f707375e0e28",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840287788?se=OnzUHN6a8RGB8rnM-OiTpQ&utm_medium=api&utm_source=freehire.me&v=A0D34C3A74C12AF460A154D547759D8BEF5B14F9",
-      "location": "Sheffield, South Yorkshire",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

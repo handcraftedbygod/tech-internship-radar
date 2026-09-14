@@ -2,9 +2,9 @@
   "slug": "bending-spoons",
   "name": "Bending Spoons",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Warsaw",
       "count": 1
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92fb47ad058f63fa0c431f6fb81c5e4b72854a1b",
+      "title": "Junior Data Scientist - AI, Data Pipelines & Insights",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351462481__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "e767cb3da1933b7179bf46e5908357a0a040d70b",
       "title": "Junior Data Scientist - AI-Driven Analytics & Pipelines",

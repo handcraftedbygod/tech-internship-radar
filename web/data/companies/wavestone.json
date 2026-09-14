@@ -2,17 +2,17 @@
   "slug": "wavestone",
   "name": "Wavestone",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Paris",
+      "count": 2
     },
     {
-      "hub": "Paris",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -37,12 +37,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2e80625c5bd95d044e6b36629dcdae05d35ad64b",
+      "title": "Account Manager junior | Artificial Intelligence & Digital Transformation",
+      "url": "https://jobs.smartrecruiters.com/Wavestone1/744000148695210-account-manager-junior-artificial-intelligence-digital-transformation?utm_source=freehire.me",
+      "location": "Paris, Île-de-France, fr",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "6676d41277eea8f849af5788e868a63b8ae8cc89",
       "title": "Cybersecurity - Consultant.e junior",

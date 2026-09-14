@@ -2,10 +2,10 @@
   "slug": "symphony-communication-services",
   "name": "Symphony Communication Services",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
   "totalPostings": 2,
-  "avgPostingDurationDays": 7,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
@@ -16,7 +16,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -36,7 +41,7 @@
   "recentPostings": [
     {
       "id": "ec2282e7807d109b5b373d280479af5dc152b183",
-      "title": "Intern, Devops",
+      "title": "Intern, Development Operations DevOps",
       "url": "https://symphony.com/company/apply?gh_jid=8121110&utm_source=freehire.me",
       "location": "Sophia Antipolis",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"

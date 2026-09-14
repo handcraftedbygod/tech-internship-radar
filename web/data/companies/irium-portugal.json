@@ -2,21 +2,21 @@
   "slug": "irium-portugal",
   "name": "IRIUM Portugal",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c556449678b8b111615588d2b47ddc2213a42faa",
+      "title": "Junior DevOps / ELK Engineer",
+      "url": "https://iriumportugal.applytojob.com/apply/1cN2qtMA5Q/Junior-DevOps-ELK-Engineer?utm_source=freehire.me",
+      "location": "Lisbon, Lisbon",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "fabd7b6523cd861553d13bf26a3c9acbcc14af20",
       "title": "Java Full Stack – Junior",

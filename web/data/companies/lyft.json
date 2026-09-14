@@ -1,0 +1,130 @@
+{
+  "slug": "lyft",
+  "name": "Lyft",
+  "tier": "notable",
+  "currentOpenings": 15,
+  "firstTrackedAt": "2026-09-14T09:36:22.352Z",
+  "totalPostings": 15,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 6
+    },
+    {
+      "hub": "Montreal",
+      "count": 4
+    },
+    {
+      "hub": "New York",
+      "count": 3
+    },
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 9
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 5
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    15,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "07c61f56ca29643380a829c38c63306a7aef3ddf",
+      "title": "UX Research Intern (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "2aea6bad8bfa90a919d1df69a4b4fbd5bad8e0f1",
+      "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "5e0efee3d2d2940e7572e41956279c42dbd68baa",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "fcfbfee6443cf8a46b080c45712e3eed448685d6",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "52793d40fa7ab7ee702109c778e6d4a5798a4bf7",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "ff46245b80489bdd0ca3406e824cebdbb2e4f29c",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "cb1c6f6dab5d87299928906027bb724a11bcf45a",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "9cdf36534617b6e793fdf3919d31a351c0005e4a",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "c4ad74680f0889973e88a0b097eaf2c1ade8d240",
+      "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "8c6cd476bbedb5e5da671244e9b6b2da40ebece5",
+      "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    }
+  ]
+}

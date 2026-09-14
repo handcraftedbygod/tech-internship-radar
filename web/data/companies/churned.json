@@ -1,0 +1,52 @@
+{
+  "slug": "churned",
+  "name": "Churned",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-14T09:36:22.352Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3c5a7e8b5570afd3f58cf45307fd6a8c727c1e62",
+      "title": "Data Engineer Intern",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__161233136__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "84f92788935a2f7f1fb34a42c11edcf2fd1d5f0e",
+      "title": "Data Engineer Intern - Hybrid, AI-Powered Data Platform",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__161242779__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    }
+  ]
+}

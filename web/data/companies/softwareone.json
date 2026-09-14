@@ -2,21 +2,21 @@
   "slug": "softwareone",
   "name": "SoftwareOne",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28e81667193539355646fa2c0f2f8c32c43017f7",
+      "title": "Junior Cybersecurity Analyst",
+      "url": "https://powertofly.com/jobs/detail/2544367?utm_source=freehire.me",
+      "location": "Warsaw, Mazovia, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "7b98c11cf108f71ac616e13ddc95ab4bd7643aa9",
       "title": "Flexera / Snow Software - Junior Technical Consultant",

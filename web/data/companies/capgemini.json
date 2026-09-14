@@ -2,17 +2,17 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
-      "hub": "Katowice",
-      "count": 4
+      "hub": "Other",
+      "count": 6
     },
     {
-      "hub": "Other",
+      "hub": "Katowice",
       "count": 4
     },
     {
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -54,12 +54,26 @@
     0,
     0,
     12,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20cea3427f649fa9001a021491b93a9531bc9048",
+      "title": "Intern Data Engineer / Data Scientist",
+      "url": "https://careers.capgemini.com/job/Gda%C5%84sk-Intern-Data-Engineer-Data-Scientist/1412742533/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "a6adf6835ff0bc1b06f80aa9e9a132b96c7f8dbe",
+      "title": "Intern DevOps Engineer (with German)",
+      "url": "https://careers.capgemini.com/job/Gda%C5%84sk-Intern-DevOps-Engineer-%28with-German%29/1173420001/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "01d599d2e3cf38d5a137299be41dd411093b34e9",
       "title": "Werkstudent DevOps Engineering (w/m/d)",
@@ -114,20 +128,6 @@
       "title": "Data Engineer Intern: Build Data Models & Cloud Skills",
       "url": "https://pl.whatjobs.com/pub_api__cpl__26242392__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Warszawa, Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "67f8803d6abeaac9e3e1389f5853effa07014e17",
-      "title": "Data Science & Engineering Intern — Cloud + Modeling",
-      "url": "https://pl.whatjobs.com/pub_api__cpl__26241185__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Warszawa, Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "5aaa3558e2419968919eb295181037baad472a8f",
-      "title": "Data Engineering Intern: Pipelines & Data Quality",
-      "url": "https://es.whatjobs.com/pub_api__cpl__339754655__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]

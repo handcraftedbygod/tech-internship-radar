@@ -213,6 +213,13 @@
   ],
   "northAmerica": [
     {
+      "name": "Vyra",
+      "oneLiner": "Autonomous video editing for non-editors.",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/vyra"
+    },
+    {
       "name": "Orca Aerospace",
       "oneLiner": "AI spacecraft operators that lives onboard the vehicle",
       "batch": "Fall 2026",
@@ -225,6 +232,20 @@
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/the-subvocal-company"
+    },
+    {
+      "name": "Workers IO",
+      "oneLiner": "Simulation Environments for Verifying Mission Critical Software",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/workers-io"
+    },
+    {
+      "name": "Sentient OS",
+      "oneLiner": "On-device AI that knows your entire life and does your work overnight.",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/sentient-os"
     },
     {
       "name": "Covera",
@@ -251,7 +272,7 @@
       "name": "Luca IQ",
       "oneLiner": "API-first tax engine for CPA firms and developers",
       "batch": "Summer 2026",
-      "location": "Boston, MA, USA",
+      "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/luca-iq"
     },
     {
@@ -290,6 +311,13 @@
       "url": "https://www.ycombinator.com/companies/ooak-data"
     },
     {
+      "name": "ProvenMetal",
+      "oneLiner": "AI-native electronics manufacturing for the American industrial base",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/provenmetal"
+    },
+    {
       "name": "Torus",
       "oneLiner": "Legora for physical engineering firms",
       "batch": "Summer 2026",
@@ -304,6 +332,13 @@
       "url": "https://www.ycombinator.com/companies/screenpipe"
     },
     {
+      "name": "LemonLime",
+      "oneLiner": "Fully automated GTM for small business",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/lemonlime"
+    },
+    {
       "name": "83 Sciences",
       "oneLiner": "AI-native materials discovery powered by unpublished experimental data",
       "batch": "Summer 2026",
@@ -316,6 +351,13 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/locke"
+    },
+    {
+      "name": "Denta",
+      "oneLiner": "Dental Insurance",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/denta"
     },
     {
       "name": "Simantic",
@@ -337,6 +379,13 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/bloomy"
+    },
+    {
+      "name": "Marble",
+      "oneLiner": "The autonomous back-of-house for restaurants.",
+      "batch": "Summer 2026",
+      "location": "New York City, NY, USA",
+      "url": "https://www.ycombinator.com/companies/joinmarble"
     },
     {
       "name": "Glen",
@@ -372,55 +421,6 @@
       "batch": "Spring 2026",
       "location": "New York City, NY, USA",
       "url": "https://www.ycombinator.com/companies/soria"
-    },
-    {
-      "name": "Uno Wallet",
-      "oneLiner": "The AI mobile wallet that replaces Apple Pay",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/uno-wallet"
-    },
-    {
-      "name": "River Markets",
-      "oneLiner": "Prime brokerage for prediction markets",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/river-markets"
-    },
-    {
-      "name": "KelAI",
-      "oneLiner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
-      "batch": "Spring 2026",
-      "location": "New York City, NY, USA",
-      "url": "https://www.ycombinator.com/companies/kelai"
-    },
-    {
-      "name": "AquaShield",
-      "oneLiner": "AI water leak detection for buildings",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/aquashield"
-    },
-    {
-      "name": "Arlo Industries",
-      "oneLiner": "Track drones and missiles without radars - Accurate, Passive, Scalable",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/arlo-industries"
-    },
-    {
-      "name": "Astraea",
-      "oneLiner": "AI Operating System for Clinical Development",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/astraea"
-    },
-    {
-      "name": "Aseon Labs",
-      "oneLiner": "Robotic pitstops for self-driving cars",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/aseon-labs"
     }
   ]
 }

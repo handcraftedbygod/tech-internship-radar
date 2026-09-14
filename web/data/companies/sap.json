@@ -2,21 +2,21 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -38,12 +38,19 @@
     0,
     0,
     8,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "670edbeb790187bd53663f582314c630c425d3ce",
+      "title": "(Junior) Applied AI Developer (f/m/d) for the AI Frontrunner team",
+      "url": "https://jobs.sap.com/job/Potsdam-%28Junior%29-Applied-AI-Developer-%28fmd%29-for-the-AI-Frontrunner-team-14469/1435648533/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "5b7dcf2018380f3450b8db4fbadacdc52d625d90",
       "title": "Junior Data Scientist (Domain Models) - Data Labs (m/f/d) (Data Scientist)",

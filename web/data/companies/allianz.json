@@ -2,9 +2,9 @@
   "slug": "allianz",
   "name": "Allianz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 16.1,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "Barcelona",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -25,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -37,12 +41,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58e1ee0c3d0bcab8cd33bcf1becdb586a78731da",
+      "title": "Working Student Software Developer (m/f/d)",
+      "url": "https://internal-careers.allianz.com/job/Unterf%C3%B6hring-%28bei-M%C3%BCnchen%29-Working-Student-Software-Developer-%28mfd%29-85774/1435742533/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "5154bc94b0e8f263c1e31702338732b2510bea38",
       "title": "ACDC Governance - Customer Frontend & Reporting Internship (m/f/d)",

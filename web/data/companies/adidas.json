@@ -1,14 +1,18 @@
 {
   "slug": "adidas",
-  "name": "Adidas",
+  "name": "adidas",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-30T09:46:54.503Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5783ef00caacfd21086bd1ff7a9d9e5ce1e8247a",
+      "title": "Intern - Software Engineer",
+      "url": "https://jobs.adidas-group.com/job/Amsterdam-Intern-Software-Engineer-NH/1435323033/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "9e3635ccdceecd9a1411bb7bb84011a7ac424e8d",
       "title": "Junior Data Scientist - Supply Chain Advanced Analytics AI/ML",

@@ -2,14 +2,14 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
@@ -41,12 +41,19 @@
     0,
     0,
     11,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68a6cbe1192bb3e7a89a1b9b28971b45af10b422",
+      "title": "Junior Software Engineer (m/w/d) Greenfield, InsurTech",
+      "url": "https://www.adzuna.de/land/ad/5879376848?se=gDtoXtyt8RG674nn_gfysw&utm_medium=api&utm_source=freehire.me&v=2AF6C2A794F7D98B84800731FBD84F3C2493D2AB",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "42ed25b1f783474dec3a67fb8d46f3cac30cfc30",
       "title": "Junior Software Engineer (m/w/d) Greenfield, InsurTech",
@@ -109,13 +116,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000144719238",
       "location": "München, Bayern, Germany",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "e56252e90a36119cbee67fb91d6e9f9f0ec9e05f",
-      "title": "Werkstudent (m/w/d) Software Entwicklung Mietwagen",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000144346261",
-      "location": "Augsburg, Bayern, Germany",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
     }
   ]
 }

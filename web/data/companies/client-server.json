@@ -2,14 +2,14 @@
   "slug": "client-server",
   "name": "Client Server",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5cfda383bb437c37276b2a766a00104d737b0453",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__533385205__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "d1a79c46f8e82c3a04775dbb7395e217bb8de2be",
       "title": "Junior Software Engineer C++ MedTech",

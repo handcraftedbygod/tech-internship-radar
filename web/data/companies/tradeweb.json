@@ -2,21 +2,25 @@
   "slug": "tradeweb",
   "name": "Tradeweb",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,54 @@
     0,
     0,
     0,
-    3,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f83abcd80602df50a1b0b20c2f54f04b7133067",
+      "title": "Summer 2027 C++ Distributed Systems Developer Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-c-distributed-systems-developer-internship",
+      "location": "Jersey City, NJ",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "d12c951d9b436b108f1f27a6523115a2af10d754",
+      "title": "Summer 2027 Node.JS Developer Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-nodejs-developer-internship",
+      "location": "Jersey City, NJ",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "8fc484d93ee9ea810749f115e710a93fbc29670b",
+      "title": "Summer 2027 C++ Developer Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-c-developer-internship",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "2d7be0fba1f8be2e549a505274ff2ba4dd651deb",
+      "title": "Summer 2027 IFI Application Software Engineering Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-ifi-application-software-engineering-internship",
+      "location": "Jersey City, NJ",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "ac72dfd8c8269acd9367ff98303cfdf175948f99",
+      "title": "Summer 2027 SRE - Observability Engineering Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-sre-observability-engineering-internship",
+      "location": "Jersey City, NJ",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "2110653e0cbc7fd1fbb998f0c1370139870c890d",
+      "title": "Summer 2027 Java Developer Internship",
+      "url": "https://www.themuse.com/jobs/tradeweb/summer-2027-java-developer-internship",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "da53bfa4a99b8b8df4994e67d38abd4a00031d51",
       "title": "Summer 2027 Java Developer Internship",

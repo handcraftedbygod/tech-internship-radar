@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 18,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 12
     },
     {
       "hub": "Reutlingen",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -54,12 +54,26 @@
     0,
     0,
     18,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8a43b133978ed22d20675173aa723b8e2e7a64eb",
+      "title": "Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148963738-extracurricular-internship-agile-moderator-data-engineering-f-m-div-?utm_source=freehire.me",
+      "location": "Aveiro, pt",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "36245e0b07212ef8f98d58863c9b8c6eab60bfba",
+      "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769-extracurricular-internship-infrastructure-devops-engineer-f-m-div-?utm_source=freehire.me",
+      "location": "Aveiro, pt",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "008b074ddeba343103e218930873d6226e0de1a2",
       "title": "Junior AI Software Engineer (f/m/div.)",
@@ -115,20 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?utm_source=freehire.me",
       "location": "Warszawa, Województwo mazowieckie, pl",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "7b3f392fc833543d78309275ea371b6827695fa4",
-      "title": "DevOps Engineer Internship",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143128206-devops-engineer-internship?utm_source=freehire.me",
-      "location": "Ovar, pt",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "e51f132a06313c1f5a89d0cc961fcce71ac34b67",
-      "title": "C# Developer - Internship",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143129049-c-developer-internship?utm_source=freehire.me",
-      "location": "Ovar, pt",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70eff4163084cff48dc04b50d95b0fa6a0842752",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "9ab36f77b0f442e293fea5c64ad159f8c1d90b08",
       "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",

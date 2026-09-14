@@ -2,25 +2,30 @@
   "slug": "altkom-software",
   "name": "Altkom Software",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -33,12 +38,26 @@
     0,
     0,
     2,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce316ff8e15714aea7c7df1bc01d9192510172eb",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29696416__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "3614aaccf915ac09562e973f40d4330707231fd2",
+      "title": "Junior Java Developer – Banking Tech & Growth",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29696283__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "d069408adaac7718e2be9cfdeb33117e3d698754",
       "title": "Junior Java Developer",

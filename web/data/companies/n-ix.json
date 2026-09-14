@@ -2,26 +2,26 @@
   "slug": "n-ix",
   "name": "N-iX",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 17.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ac5ae8f89527ff854c667662542ed97337b948c",
+      "title": "Junior Automation QA Engineer",
+      "url": "https://careers.n-ix.com/jobs/4971852101?gh_jid=4971852101&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "b0621dbe886ba28ab0706507f082eeb3ab83f2bd",
       "title": "Trainee Big Data Engineer",

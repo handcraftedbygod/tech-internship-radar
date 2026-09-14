@@ -1,0 +1,45 @@
+{
+  "slug": "gmv",
+  "name": "GMV",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-14T09:36:22.352Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Madrid",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2500e2f6ccf7dc22bef980e1c311024234cc1016",
+      "title": "Internship: Software engineer",
+      "url": "https://www.adzuna.es/details/5879432015?utm_medium=api&utm_source=9141e2e6",
+      "location": "Tres Cantos, Madrid",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    }
+  ]
+}

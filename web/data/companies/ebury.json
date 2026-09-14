@@ -2,14 +2,14 @@
   "slug": "ebury",
   "name": "Ebury",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Düsseldorf",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Frankfurt",
@@ -24,7 +24,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -36,12 +36,19 @@
     0,
     0,
     6,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56669e5ae00d8724a409409dd5be3401c2488923",
+      "title": "Business Developer - Junior FX Sales (m/w/d)",
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4971518101?utm_source=freehire.me",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "1d78137dfacfeb47433fd8e66429548ae30ff59d",
       "title": "Business Developer - Junior FX Sales (m/w/d)",

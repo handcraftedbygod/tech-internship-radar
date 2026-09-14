@@ -2,26 +2,26 @@
   "slug": "sngular",
   "name": "Sngular",
   "tier": null,
-  "currentOpenings": 22,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 25,
+  "totalPostings": 33,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 25
+      "count": 33
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 27
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,68 @@
     0,
     0,
     2,
-    23,
+    31,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78cb76bf84ef0404929df957c1b61ca98bbb4a31",
+      "title": "Junior Cloud & DevOps Engineer - Remote & Growth Path",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350383062__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "f424bd7323d894d0ca43f83581183adc813614b7",
+      "title": "Junior DevOps & Cloud Engineer — Remote & Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350472749__7107?geoID=10338&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alicante, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "2ae400353f7f9b2a6d4c2018b579be7a72d9159a",
+      "title": "Junior DevOps & Cloud Engineer: Remote-Ready",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350398838__7107?geoID=8371&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "OÑA, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "3ff8eedc0aaff79aa10273a21925f09c1694f961",
+      "title": "Junior DevOps & Cloud Engineer — Grow in Multi-Cloud &CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350425520__7107?geoID=9570&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Bilbao, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "35bea64cf4b9c3613b7405764e97641185d4d1ec",
+      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350418780__7107?geoID=10144&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Gijón, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "9a9a2c9696eb3169cfdb142a2de31d51a876ab68",
+      "title": "Junior DevOps & Cloud Engineer - Azure, Kubernetes & GCP",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350394994__7107?geoID=9852&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "NAVA, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "2169c3f8205fdadb7f51124b31bb1b5c08999055",
+      "title": "Junior DevOps & Cloud Engineer: Multi-Cloud & IaC Pro",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351464540__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "7ac662e9b347039be0318a0d5574851a450893c7",
+      "title": "Junior Devops & Cloud Engineer - €20.000 - €25.000 Al Año",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351464472__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "b43c37bbc09e6f7e613e1aef93064e49b2d87221",
       "title": "Junior DevOps / Cloud Engineer (Remoto)",
@@ -52,62 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__349874202__7107?geoID=10492&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Islas Baleares, Spain",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "302d1e43aaca2f27dcaf25d75e9025893206673b",
-      "title": "Junior DevOps & Cloud Engineer - Azure, Kubernetes & GCP",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349873057__7107?geoID=9852&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "NAVA, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "9a25e54d9a63638f7b8f6ecbc881cf80e45a1e96",
-      "title": "Junior DevOps & Cloud Engineer — Remote & Growth",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349875152__7107?geoID=10338&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Alicante, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "293e344532796a0315b02d49d2cce24db035e77a",
-      "title": "Junior DevOps & Cloud Engineer: Remote-Ready",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349873899__7107?geoID=8371&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "OÑA, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "bcec3cdc99a23fa1d5719e8f04447fb184937838",
-      "title": "Junior DevOps & Cloud Engineer - Multi-Cloud & CI/CD",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349874429__7107?geoID=10144&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Gijón, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "2a1599fb489da43268bbf59e53b63150955c3f79",
-      "title": "Junior DevOps & Cloud Engineer — Grow in Multi-Cloud &CI/CD",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349874262__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "af8f7a6cf415ef13ff53d733ca6d45b00bf58c36",
-      "title": "Junior DevOps & Cloud Engineer - euskadi",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349936178__7107?geoID=5&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Basque Country, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "b264b60714a04486d6f65b9045ef1970fd35876c",
-      "title": "Junior Cloud DevOps Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349456455__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Valencia, Spain",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "3d5d2b8b9e900357c7f7441f59896d3430525689",
-      "title": "Junior DevOps / Cloud Engineer (Remoto)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349428731__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Valencia, Spain",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]
 }

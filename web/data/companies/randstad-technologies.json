@@ -2,13 +2,17 @@
   "slug": "randstad-technologies",
   "name": "Randstad Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f36bc023e27e47664d36b1ad1c0fa0f909531b35",
+      "title": "Junior Data Scientist (Power BI)",
+      "url": "https://www.reed.co.uk/jobs/junior-data-scientist-power-bi/57336599",
+      "location": "Leicestershire",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "5dcd8727de4da9a3a01a1bd16ff6de83a0991805",
       "title": "Junior FullStack Developer",

@@ -1,30 +1,30 @@
 {
   "slug": "izertis",
-  "name": "Izertis",
+  "name": "IZERTIS",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Madrid",
+      "count": 2
     },
     {
-      "hub": "Madrid",
+      "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -37,12 +37,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70687c83d970c3f1a6134cdc71eb33d53acd9e7e",
+      "title": "Data Engineer Intern – Cloud & Data Pipelines (GCP)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__350071609__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
     {
       "id": "3d0c1b700df7f7083e8cfbd5dd988ed05a5a054d",
       "title": "Data Engineer Intern – Cloud & Data Pipelines (GCP)",

@@ -1,0 +1,52 @@
+{
+  "slug": "olive",
+  "name": "Olive",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-14T09:36:22.352Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3fd60eda91c6702682a569366218d47051e03901",
+      "title": "Junior Manual QA Engineer",
+      "url": "https://djinni.co/jobs/847857-junior-manual-qa-engineer/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    },
+    {
+      "id": "85324d4c5ed8b2cfb345b1222b4f113c68066c69",
+      "title": "Junior / Trainee JavaScript Developer - Web Data Scraping",
+      "url": "https://djinni.co/jobs/813752-junior-trainee-javascript-developer-web-data-/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-09-14T09:36:22.352Z"
+    }
+  ]
+}
