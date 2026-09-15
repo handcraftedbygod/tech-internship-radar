@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "swe",
@@ -37,12 +37,19 @@
     0,
     0,
     6,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c55b189cca92c91f98decd3f6bba4d862ab4683e",
+      "title": "Praktikant Data Analytics & agiles Projektmanagement (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1632094-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "9d8bd5a6006f9cac9e6d920aebab5730f2605811",
       "title": "Praktikant Data Science & AI in der Montageplanung (m/w/x)",
@@ -103,13 +110,6 @@
       "id": "442f16ec48df549b95e48a5e5e16996ac3cfc75d",
       "title": "Working student in the car body development with Python programming (f/m/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617422-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "e78420fc0ce39eda2b431f6ed7c4a5262044a293",
-      "title": "Werkstudent Data Analytics im Qualitätsmanagement für Digitale Dienste (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617420-1-S",
       "location": "München",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }

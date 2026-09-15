@@ -2,14 +2,14 @@
   "slug": "nimber",
   "name": "Nimber",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce8ed38447de553c2f175c1f334657f39d63e607",
+      "title": "Junior Backend Engineer C++",
+      "url": "https://www.careers-page.com/nimber/job/RY94RXY6?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "53318a8a93f231a39bd414e20953c1cd802d3ce1",
       "title": "Junior Java Developer (Test Automation)",

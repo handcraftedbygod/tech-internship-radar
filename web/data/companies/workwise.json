@@ -2,21 +2,21 @@
   "slug": "workwise",
   "name": "Workwise GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4548dfdd8b83d4b718449269b2dd09c53cb9d96",
+      "title": "Junior Customer Success Manager - Software / B2B (m/w/d) (Customer-Experience-Manager/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkzNDIyNzY3Ni1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "ffe6b366ade66e351265c9f45d845b20bdf7205d",
       "title": "Junior IT-Servicetechniker - Software / Kundensupport (m/w/d) (IT-Kundenbetreuer/in)",

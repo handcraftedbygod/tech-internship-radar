@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 39,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 44,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 46,
+  "avgPostingDurationDays": 15.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Madrid",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Lisbon",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Other",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,26 @@
     0,
     0,
     33,
-    11,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3feb6e03a7d36e84472fee9aa175e7c577076b3e",
+      "title": "Intern Sales Developer Representative Portugal",
+      "url": "https://careers.glovoapp.com/job/intern-sales-developer-representative-portugal-in-lisbon-portugal-jid-744000149521289/",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "f9351efe7f0ea899c68ee7b14092e69e072ccf65",
+      "title": "Intern Marketing and Growth",
+      "url": "https://careers.glovoapp.com/job/intern-marketing-and-growth-in-barcelona-spain-jid-744000149286679/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "15b978f3765d2894d65ad56fb05a93a28431487e",
       "title": "Account Manager Intern Specialties Spain",
@@ -106,20 +120,6 @@
       "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000147004989/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "ab4e0a3672a97e44b35ff4d46f82301a0874c465",
-      "title": "Junior Occupational Health and Safety",
-      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000147001089/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "f475deb20efd7ba3cff5bcc46580db960eaee71f",
-      "title": "Junior Occupational Health and Safety",
-      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000146655829/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

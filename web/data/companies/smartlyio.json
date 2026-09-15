@@ -2,9 +2,9 @@
   "slug": "smartlyio",
   "name": "Smartly.io",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,23 +13,23 @@
     },
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
+      "count": 5
     },
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -42,12 +42,26 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a1508c03daacfb98326ed03139394f0fd3bfd13",
+      "title": "Product Marketing Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6191886004",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "eb92d82f4230770466591778620bcfd4298a4d1b",
+      "title": "Creative Strategy Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6191935004",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "d04869def76bba1ffa52836b097ca166f5842e25",
       "title": "Sales Development Representative Intern",

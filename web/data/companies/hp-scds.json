@@ -2,14 +2,14 @@
   "slug": "hp-scds",
   "name": "HP SCDS",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    10,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3da239d92cd27051b33a01e696d3f6317a8b2579",
+      "title": "Junior Data Engineer - 3D Data Pipelines (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351755879__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "e5dcde95fb24d64a2ae9813b3a932e4cefdbbbdb",
       "title": "Junior SQL Data Engineer",
@@ -100,13 +107,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__349608387__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "LEON, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "87336a3e75269a1fe006588389f99a2957ed6d81",
-      "title": "Junior Data Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__346753636__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "LEON, Spain",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

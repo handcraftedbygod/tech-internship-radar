@@ -2,25 +2,43 @@
   "slug": "figma",
   "name": "Figma",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 16.5,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 4
+      "count": 7
+    },
+    {
+      "hub": "London",
+      "count": 3
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 7
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 2
     },
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -33,12 +51,61 @@
     0,
     1,
     3,
-    0,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "995eb6c9844b8c27d4ab7cf825bd638345c02a0f",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
+      "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004&utm_source=freehire.me",
+      "location": "London, England",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "09aa064abac893517af4abab080f563a38df248e",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/software-engineer-intern-london-united-kingdom-summer-2027-65172",
+      "location": "London",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "031e918615445520f9c3d0094ee117217b343adc",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "37bb2ba4509ce012cb5ef769a2e478118eabadcf",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
+      "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
+      "location": "London, England",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "690012940d65eae401d06ca1be004658a4c6574a",
+      "title": "Product Design Intern (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "ce627d9ab9adfa5bc17116738e9ce39814a608fc",
+      "title": "Data Science Intern (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "6f20be1da2f860780b75308fead9521857752a46",
+      "title": "Brand Design Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6144755004?gh_jid=6144755004",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "5e7fc02a08c8ee334213a21e8bc56592469295e4",
       "title": "Software Engineer Intern",
@@ -59,13 +126,6 @@
       "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
       "location": "San Francisco, CA • New York, NY",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "439cf27e7b7dcbaeb03098b36cf647be4f587cfa",
-      "title": "Inside Sales Representative - Early Career (2026)",
-      "url": "https://boards.greenhouse.io/figma/jobs/5977327004?gh_jid=5977327004",
-      "location": "San Francisco, CA • New York, NY",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
     }
   ]
 }

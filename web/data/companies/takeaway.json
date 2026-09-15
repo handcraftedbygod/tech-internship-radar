@@ -2,20 +2,25 @@
   "slug": "takeaway",
   "name": "takeaway",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6363d3aba0afc5e0e8507e44a2c07ddfe0f416ef",
+      "title": "Junior Master Data Analyst",
+      "url": "https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Amsterdam-Office/Junior-Master-Data-Analyst_R_053500?utm_source=freehire.me",
+      "location": "Amsterdam Office",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "8d3a6e5c9abbc781bc01dca7102831801722b10c",
       "title": "Country Analytics - Junior Data Engineer",

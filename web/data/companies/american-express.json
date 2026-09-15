@@ -2,25 +2,29 @@
   "slug": "american-express",
   "name": "American Express",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 19,
+  "totalPostings": 21,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "New York",
       "count": 5
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ai",
@@ -42,12 +46,26 @@
     0,
     0,
     19,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "294ad0387bf38378815cd19e3c17a3e51d147f57",
+      "title": "Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - London)",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=freehire.me",
+      "location": "LONDON, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "9641d19a64bd547bc2985a3b0ec46ec3db6f0d34",
+      "title": "Campus - Internship Programme - Undergraduate Information Security Engineer - 2027 (UK - Burgess Hill)",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761?utm_source=freehire.me",
+      "location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "48580482a1daeaf170964d473ef35f67dfd85a9e",
       "title": "Product Management Intern, Global Merchant & Network Services",
@@ -102,20 +120,6 @@
       "title": "Software Engineer Intern, Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
       "location": "Charlotte, NC",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "4daa3cbbf3df21020164293c6f8d8dab34353539",
-      "title": "Software Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
-      "location": "Phoenix, AZ",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "75dc0a6dcbabc905e0937f9ad6f7f8d5ca7bebe5",
-      "title": "Software Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
-      "location": "Sunrise, FL",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]

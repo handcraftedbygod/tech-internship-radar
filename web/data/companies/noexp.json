@@ -1,0 +1,56 @@
+{
+  "slug": "noexp",
+  "name": "NOEXP",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-15T09:14:39.865Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "90b1edc8ee7762d54a03f27ab27ffee2fb23e7c5",
+      "title": "Junior .NET Developer — Hybrid Backend Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29734671__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "1c3ea028149764f38efb0413512febd1e0b6cca3",
+      "title": "Junior Full Stack Dev — Java/Spring, Angular, Kubernetes",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29726603__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    }
+  ]
+}

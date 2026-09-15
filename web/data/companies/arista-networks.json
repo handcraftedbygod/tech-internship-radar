@@ -2,17 +2,17 @@
   "slug": "arista-networks",
   "name": "Arista Networks",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Dublin",
+      "count": 2
     },
     {
-      "hub": "Dublin",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6f14420af93708aeafb2a5f5ca9e75601cbee055",
+      "title": "Network Engineer - Test (Intern)",
+      "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149023238-network-engineer-test-intern-?utm_source=freehire.me",
+      "location": "Dublin, County Dublin, ie",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "2ccc2ca6874963f90d79761744566433ba2e6352",
       "title": "Software Engineer Intern 2026/2027",

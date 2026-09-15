@@ -2,13 +2,17 @@
   "slug": "zalando",
   "name": "Zalando SE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca06df43366b684a6ad537e93b4623bb8d9f2e19",
+      "title": "Junior Software Engineer (All genders)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18251-33057-S?utm_source=freehire.me",
+      "location": "Berlin, BERLIN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "629e80eeac7f87505b69102397c5ed70dae3bc8d",
       "title": "Junior Software Engineer (all genders)",

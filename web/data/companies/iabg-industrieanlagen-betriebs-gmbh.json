@@ -2,14 +2,14 @@
   "slug": "iabg-industrieanlagen-betriebs-gmbh",
   "name": "IABG Industrieanlagen Betriebs-GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -20,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -32,12 +37,33 @@
     0,
     0,
     0,
-    2,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f09464c83b16328f3920b35da90026776f48ebe",
+      "title": "(Junior) Data Analyst Waffensystemdaten (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003703208-S?utm_source=freehire.me",
+      "location": "Dresden, SACHSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "635b4372af35d5583b8766e017a14f245eb740c4",
+      "title": "(Junior) Data Analyst Waffensystemdaten (m/w/d) (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzcwMzIwOC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "57e04f9e3eaf294a6dedf047f725be5303d4fc5a",
+      "title": "(Junior) Analyst fliegende Waffensysteme (m/w/d) (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzcwMzY5My1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "55489b485b5ea507d7ec09be4af1de5e55c6b078",
       "title": "Junior Data Analyst militärische Fahrzeuge (m/w/d)",

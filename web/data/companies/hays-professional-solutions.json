@@ -2,14 +2,14 @@
   "slug": "hays-professional-solutions",
   "name": "Hays Professional Solutions GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "277ecf0b73cc492909721608389d7c5a02294b73",
+      "title": "(Junior) Cyber Security Engineer - Produktsicherheit (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-893978/1_622971LS-S?utm_source=freehire.me",
+      "location": "Bocholt, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "7412de06d171f88ebeb35ed1dd3030b11e824d9c",
       "title": "Junior AI and Data Engineer  (m/f/d) (Data Scientist)",

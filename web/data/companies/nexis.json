@@ -1,22 +1,22 @@
 {
   "slug": "nexis",
-  "name": "Nexis Group GmbH",
+  "name": "Nexis GmbH",
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f22f86cdaf93eda14f9c361bbd79c48714648f82",
+      "title": "Junior DevOps & Infrastruktur Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/nexis-gmbh/junior-devops-infrastruktur-engineer-regensburg-378164?utm_source=freehire.me",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "0208656dd426f5b09c7f9c99cecf8b2af759bcdb",
       "title": "Junior DevOps & Infrastruktur Engineer (m/w/d) (Informatiker/in)",

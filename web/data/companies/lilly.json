@@ -2,25 +2,25 @@
   "slug": "lilly",
   "name": "lilly",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c8ff452a14e03f9c0dadfa9207c561cf0a33237",
+      "title": "Intern -  Software Developer",
+      "url": "https://lilly.wd115.myworkdayjobs.com/CMP/job/Ireland-Limerick/Intern----Software-Developer_R-111446-1?utm_source=freehire.me",
+      "location": "Ireland, Limerick",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "8a021bf523e19852993ea2857a8e2d2e9b177f38",
       "title": "Intern – Data Analyst",

@@ -2,14 +2,14 @@
   "slug": "softwaremind",
   "name": "softwaremind",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac223805aeb5766e1ed552669ae8a4bdf3d204b1",
+      "title": "[RPG] Junior AI-Driven Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/SoftwareMind/744000149290949--rpg-junior-ai-driven-software-engineer?utm_source=freehire.me",
+      "location": "Kraków, Lesser Poland Voivodeship, pl",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "32aca193da14d1e642df87285f329f22b7a4b2d0",
       "title": "[RTC] Junior AI-Driven Software Engineer",

@@ -1,0 +1,57 @@
+{
+  "slug": "doordash",
+  "name": "DoorDash",
+  "tier": "notable",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-15T09:14:39.865Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "81ba588cd10ec0630067dc60d002a7a71711fb2c",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "12e682953c173678ccf8ab7336ecb0ff75bed12b",
+      "title": "Product Design, Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
+      "location": "San Francisco, CA; New York, NY",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    }
+  ]
+}

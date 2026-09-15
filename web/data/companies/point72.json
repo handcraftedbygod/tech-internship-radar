@@ -2,21 +2,21 @@
   "slug": "point72",
   "name": "Point72",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d68481c0abf3d81d726c069447a81e769c90a44",
+      "title": "Quantitative Software Developer Intern",
+      "url": "https://www.whatjobs.com/pub_api__cpl__3057540065__7065?geoID=35&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "New York, United States",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "593b48b65d4c06979932b739bfd6e47df52571e9",
       "title": "Quantitative Developer Intern",

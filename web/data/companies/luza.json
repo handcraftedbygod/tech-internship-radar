@@ -2,13 +2,17 @@
   "slug": "luza",
   "name": "LUZA Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e14374123f3395a536b6287c68b80964f04c07b5",
+      "title": "Junior DevOps / ELK Engineer",
+      "url": "https://www.careers-page.com/luza-group/job/5W839XWR?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "32b255333fb0c8e36728d4c39c8a43dfef1df918",
       "title": "Junior Fullstack Developer",

@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "hw",
@@ -54,12 +54,19 @@
     0,
     0,
     18,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2bcf8ff3166b70aa764f213561e04116a338ecdb",
+      "title": "Junior AI & Data Analytics Specialist for Quality Management (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149064114-junior-ai-data-analytics-specialist-for-quality-management-f-m-div-?utm_source=freehire.me",
+      "location": "Aveiro, Aveiro, pt",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "8a43b133978ed22d20675173aa723b8e2e7a64eb",
       "title": "Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.)",
@@ -121,13 +128,6 @@
       "title": "Internship in the Field of Full Stack Engineering",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143271509-internship-in-the-field-of-full-stack-engineering?utm_source=freehire.me",
       "location": "Ulm, BW, de",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "b20d8252975dea704397b9ed79fa2bd1d2435bf3",
-      "title": "IT Internship (BackEnd, Java) (f/m)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143272044-it-internship-backend-java-f-m-?utm_source=freehire.me",
-      "location": "Warszawa, Województwo mazowieckie, pl",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]

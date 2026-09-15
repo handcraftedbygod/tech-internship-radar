@@ -2,21 +2,29 @@
   "slug": "scale-ai",
   "name": "Scale AI",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
+      "hub": "London",
+      "count": 3
+    },
+    {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +36,40 @@
     0,
     0,
     0,
-    2,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c388f69e68be3a50f6f884208f15534f31965fd",
+      "title": "Software Engineering Intern (Summer 2027) ",
+      "url": "https://artificialintelligencejobs.co/jobs/scale-ai-software-engineering-intern-summer-2027-4c5b466b",
+      "location": "London, UK",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "03d961a39abb9768c233d940ab463dfb67b1070d",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005?utm_source=freehire.me",
+      "location": "Doha, Qatar",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "2f3d74f448defb7a14faa11506eeb9f51d838460",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730862005",
+      "location": "London, UK",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "4c5b466b02b36bf35f4cec3df12ed42851777ceb",
+      "title": "Software Engineering Intern (Summer 2027) ",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
+      "location": "London, UK",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "00fda2129c7bd685bf3a51ca68b705bc6de91d26",
       "title": "Software Engineer - New Grad",

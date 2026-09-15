@@ -2,21 +2,25 @@
   "slug": "ekimetrics",
   "name": "Ekimetrics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1418c99e029f9c1c76c897deb128cac2d05ca1fb",
+      "title": "Junior Data Scientist & Marketing Effectiveness - Jan-March 2027 Start date",
+      "url": "https://jobs.lever.co/ekimetrics/23ede62a-a4c9-41e9-924f-0bb283438b5f?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "e646a7c7d24ef6c9ecf229ef15bd3590e8cbf617",
       "title": "Junior business data scientist - Marketing & commercial effectiveness",

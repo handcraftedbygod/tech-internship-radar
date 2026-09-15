@@ -2,21 +2,21 @@
   "slug": "okta",
   "name": "Okta",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b12d083f70b045a8f219640bbc1a741fa0c9f5b8",
+      "title": "Developer Support Associate (New Grad)",
+      "url": "https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506",
+      "location": "Chicago, Illinois",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "2d4e9cd843067a37b795894c6ed02e764e039661",
       "title": "Technical Account Manager Analyst (New Grad)",

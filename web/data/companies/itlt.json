@@ -1,0 +1,45 @@
+{
+  "slug": "itlt",
+  "name": "ITLT",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-15T09:14:39.865Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "00043ff2bdfeea0da1f753a405ea5177880c45ae",
+      "title": "Junior DevOps Engineer: OpenShift, Kubernetes & CI/CD",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29730011__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    }
+  ]
+}

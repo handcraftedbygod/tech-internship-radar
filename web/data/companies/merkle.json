@@ -2,21 +2,21 @@
   "slug": "merkle",
   "name": "Merkle",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab4053766d788c935cdeaec5ae54e95994cc5fb0",
+      "title": "Junior Java Backend Developer — Hybrid, TDD & Spring",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351750030__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "18edbf086639e438ad8cb8df1a02f89b2c00158d",
       "title": "Junior Java Developer",

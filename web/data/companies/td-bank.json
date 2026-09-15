@@ -2,9 +2,9 @@
   "slug": "td-bank",
   "name": "TD Bank",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,19 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d8140069bf5c2b05a795abb8d5ee95f94d5ea9c",
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
+      "url": "https://www.themuse.com/jobs/tdbank/2027-summer-internship-program-global-technology-solutions-software-engineer-swe",
+      "location": "Marlton, NJ",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "ee9f919c1db499a1667379b9886ef20b346327ed",
       "title": "Software Engineer Intern/Co-op (Winter 2027)",

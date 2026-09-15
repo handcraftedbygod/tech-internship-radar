@@ -2,9 +2,9 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 26,
+  "totalPostings": 27,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Karlsruhe",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     26,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c34066027470a8e743f51555df6878b27479988",
+      "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445036_JB5247368-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "55bd469b6b74f4c2e35d5226cfe72c51439cf060",
       "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
@@ -103,13 +110,6 @@
       "id": "f041137cabd804c910a41ab1044be2064ceb3f42",
       "title": "(Junior) Software Developer C#.NET (m/w/d)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445153_JB5233142-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "c575cd164fea4fdc7e6ae3122f6b34f81a143346",
-      "title": "(Junior) Backend-Entwickler (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5233195-S?utm_source=freehire.me",
       "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }

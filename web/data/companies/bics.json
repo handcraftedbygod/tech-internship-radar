@@ -1,0 +1,52 @@
+{
+  "slug": "bics",
+  "name": "BICS",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-15T09:14:39.865Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Madrid",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0768a68304b7fa086202a8306302b68b0bce0dca",
+      "title": "Telecom & DevOps Engineer (Junior)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351760524__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "ec2b46940cd14417dae8691d0f441edb06b88f79",
+      "title": "Junior Telecom & DevOps Engineer — Hybrid (Madrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351760117__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    }
+  ]
+}

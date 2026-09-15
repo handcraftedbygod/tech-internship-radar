@@ -2,21 +2,21 @@
   "slug": "bwi",
   "name": "BWI GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,33 @@
     0,
     0,
     0,
-    2,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f837e38936254e80a85077c0b88659fd04610412",
+      "title": "Junior Cyber Security Developer / Anwendungsentwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-000021112c2001-S?utm_source=freehire.me",
+      "location": "Rheinbach, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "2063eadff93a7c9bb3fb9b83a567ce6c8dcb3005",
+      "title": "Junior Cyber Security Developer / Anwendungsentwickler (m/w/d) (Anwendungsprogrammierer/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM1MDktMDAwMDIxMTEyYzIwMDEtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "d6427518db08e4c30e6732f3d1ac49804801d10f",
+      "title": "Junior Cyber Security Developer / Anwendungsentwickler (m/w/d) (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkzNDU5MDA5MC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "b9b1170c1c857faa96b88677046c9b8c1907dcf4",
       "title": "Junior Golang Developer (m/w/d)",

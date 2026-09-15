@@ -2,21 +2,26 @@
   "slug": "quant-capital",
   "name": "Quant Capital",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 8
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,61 @@
     0,
     0,
     2,
-    0,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "367475c09c0367e62eddfefada559f2641357f4b",
+      "title": "Junior Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534461784__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "c85cd7ecac9a2a77328415eb4376b502808c8ac0",
+      "title": "Junior / Grad Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534452058__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "4f2f43c0797e16b64f9d5fe3fc73b6b47e391890",
+      "title": "Junior Java Developer – Fintech",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534465521__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "5f253e7f780e3fed6aee532b7f0ce1658ab32998",
+      "title": "Junior Core Java Developer Big Data Fintech",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534458485__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "584997054d441766ff3ba00664778116f4a632a8",
+      "title": "Junior Java Developer –Python, Ruby, Fintech50",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534453432__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "5fe42fc7c5b53d824ce66b2807e3a2c18fd24f02",
+      "title": "Junior Java Analyst Developer / Technical Consultant",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534458584__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
+    {
+      "id": "817f8bba7440e09debd9573194357ae1860c1b22",
+      "title": "Junior Java Software Engineer – Data Engineering",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534492105__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "875d5b5df4c0a1b70bc3a1beb03a238d035484c9",
       "title": "Junior Java Analyst Developer / Technical Consultant",

@@ -2,21 +2,21 @@
   "slug": "the-opportunity-hub-uk",
   "name": "The Opportunity Hub UK",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     4,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce8aef5cebdaf63ddfff7e06e87c1be8cc07bfcb",
+      "title": "Back-End Developer/Java Engineer Internship",
+      "url": "https://www.adzuna.co.uk/jobs/details/5882088920?utm_medium=api&utm_source=freehire.me",
+      "location": "Surrey, South East England",
+      "firstSeenAt": "2026-09-15T09:14:39.865Z"
+    },
     {
       "id": "01df5ef1c25d874c1fe1673fa709255170d103b5",
       "title": "Front-End Developer/React Specialist Internship",
