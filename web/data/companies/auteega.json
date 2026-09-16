@@ -2,21 +2,25 @@
   "slug": "auteega",
   "name": "auteega Gmbh",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Karlsruhe",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b990d1dbf1cbd4bfef31ccd355dde835283a18e0",
+      "title": "Junior DevOps Engineer (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkzNDE0MjcwNi1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, Germany",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "3961664eb1c5b98027bd40635e9267db2ed7f9ce",
       "title": "Junior DevOps Engineer (m/w/d) (DevOps Engineer)",

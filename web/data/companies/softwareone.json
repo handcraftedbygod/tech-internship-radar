@@ -2,21 +2,25 @@
   "slug": "softwareone",
   "name": "SoftwareOne",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61ee0ae8a9e45bf98d1cb8792ce420f2470d015e",
+      "title": "Junior Cloud Engineer, GCP & DevOps — Remote/Hybrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352038170__7107?geoID=3&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Asturias, Spain",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "28e81667193539355646fa2c0f2f8c32c43017f7",
       "title": "Junior Cybersecurity Analyst",

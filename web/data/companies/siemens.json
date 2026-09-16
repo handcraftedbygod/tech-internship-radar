@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 25,
+  "totalPostings": 26,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 18
     },
     {
-      "hub": "Berlin",
-      "count": 3
+      "hub": "Munich",
+      "count": 4
     },
     {
-      "hub": "Munich",
+      "hub": "Berlin",
       "count": 3
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     },
     {
       "id": "swe",
@@ -55,12 +55,19 @@
     0,
     0,
     17,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "79d68de96ab851dfb68c628d0e50bd10edd0393d",
+      "title": "Working Student (f/m/d) Advanced Analytics and Artificial Intelligence",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633057-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "d51d427d05a70146c808e5b39b92f9011c28f04b",
       "title": "Working Student (f/m/d) eMobility Software",
@@ -121,13 +128,6 @@
       "id": "4b3c6c5698cddc12bb1d2c57c3ab01accc0b897b",
       "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623962-1-S?utm_source=freehire.me",
-      "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "03d2760270593960598354dc437ccebfb44cd792",
-      "title": "Junior Software Developer (m/w/d) für SIMATIC AX",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623961-1-S?utm_source=freehire.me",
       "location": "Erlangen, BAYERN, DEUTSCHLAND",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }

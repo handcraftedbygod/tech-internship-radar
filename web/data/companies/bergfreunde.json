@@ -2,21 +2,21 @@
   "slug": "bergfreunde",
   "name": "Bergfreunde GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3caa88b0b5d1c23c478f96398d2b7d2ff3dd983b",
+      "title": "Junior Business Data Analyst Einkauf (m/w/d) (Data-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY1NzYtMjAyNnVreHU0c2pjLTAwMC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "720e4d3120b507bcb551829b375dfe07c466bb14",
       "title": "Junior Business Data Analyst Einkauf (m/w/d)",

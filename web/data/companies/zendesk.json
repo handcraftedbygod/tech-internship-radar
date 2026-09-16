@@ -2,17 +2,22 @@
   "slug": "zendesk",
   "name": "Zendesk",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 3
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -28,12 +33,33 @@
     0,
     0,
     2,
-    0,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d03f895eac4b178471581dd4abc80ab540b6ef2",
+      "title": "Revenue Operations Business Operations Intern",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Madison-Wisconsin-United-States-of-America/Revenue-Operations-Business-Operations-Intern_R35533",
+      "location": "Madison, Wisconsin, United States of America",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "3c2f6f26ef08db4d964ab323def539a6b9e63206",
+      "title": "GTM Finance F&S Intern",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Madison-Wisconsin-United-States-of-America/GTM-Finance-F-S-Intern_R35523",
+      "location": "Madison, Wisconsin, United States of America",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "5a733b74dac76532b8cb95db2f7f4a450f8e26a4",
+      "title": "G&A Finance F&S Intern",
+      "url": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Madison-Wisconsin-United-States-of-America/G-A-Finance-F-S-Intern_R35532",
+      "location": "Madison, Wisconsin, United States of America",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "72beca53f2ba7029df965d531bc7588b0acd0e38",
       "title": "Machine Learning Engineering Intern",

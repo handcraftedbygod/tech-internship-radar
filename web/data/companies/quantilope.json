@@ -2,21 +2,21 @@
   "slug": "quantilope",
   "name": "quantilope",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a766e4c516f492e889a284353a463e8a6702807c",
+      "title": "(Junior) Data Scientist",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantilope-gmbh/remote-junior-data-scientist-14119",
+      "location": "Hybrid (Hamburg) or Remote (Germany)",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "a6ddfe0494987ec68677da21d6bf682075f88574",
       "title": "(Junior) Data Scientist",

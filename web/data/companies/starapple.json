@@ -2,21 +2,21 @@
   "slug": "starapple",
   "name": "Starapple",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "186550f8dcbbbc14878b8786978a8df129fbf681",
+      "title": "Junior software developer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__161823174__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "831cf31f77c1e330b73d472562f83ed7636f953b",
       "title": "Starter/Junior Java developer",

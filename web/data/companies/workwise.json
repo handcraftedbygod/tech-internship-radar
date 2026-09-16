@@ -2,21 +2,25 @@
   "slug": "workwise",
   "name": "Workwise GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Frankfurt",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2e9207ca0ae1e926cedfbabcd8a8bd0e60b3e8bf",
+      "title": "Junior Shopify Entwickler - E-Commerce / TypeScript (m/w/d) (Frontend-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDkzNDU4OTkwOC1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "a4548dfdd8b83d4b718449269b2dd09c53cb9d96",
       "title": "Junior Customer Success Manager - Software / B2B (m/w/d) (Customer-Experience-Manager/in)",

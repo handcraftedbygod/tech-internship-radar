@@ -2,9 +2,9 @@
   "slug": "ekimetrics",
   "name": "Ekimetrics",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "13ee392edfc90ebc037af9e71bad893eb9c2453b",
+      "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
+      "url": "https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "1418c99e029f9c1c76c897deb128cac2d05ca1fb",
       "title": "Junior Data Scientist & Marketing Effectiveness - Jan-March 2027 Start date",

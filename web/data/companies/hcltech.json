@@ -2,14 +2,14 @@
   "slug": "hcltech",
   "name": "HCLTech",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "60fc1f27a73b2aa3f8f2610450d71e1f623cea26",
+      "title": "Junior DevOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534848696__7082?geoID=31&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "City of Edinburgh, United Kingdom",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "576bb53dd649b050f6f3d84813ec6fbb875c3f28",
+      "title": "Junior DevOps Engineer - Cloud & CI/CD Enthusiast",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534848709__7082?geoID=31&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "City of Edinburgh, United Kingdom",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "fd50c760d00654901a343e3c3b8c4cbd131c70b6",
       "title": "Junior Java Fullstack Developer - Build Modern Web Apps",

@@ -2,9 +2,9 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "product",
@@ -41,12 +41,19 @@
     0,
     0,
     2,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a11874dcebf7da22015ef6d049bb2f2cba795bc",
+      "title": "Research Science Intern (PhD)",
+      "url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+      "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "2c3afc785241dac5304b5bc8cc4d495116d0b3cd",
       "title": "Software Engineering Intern",

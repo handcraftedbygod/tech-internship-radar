@@ -2,21 +2,25 @@
   "slug": "grupa-allegro-sp-z-o-o",
   "name": "Grupa Allegro Sp. z o. o.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87f31e7e4f893e3fa534e834604b093bca77a5e3",
+      "title": "Junior Data Scientist",
+      "url": "https://nofluffjobs.com/job/junior-data-scientist-grupa-allegro-warszawa?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "5a2b747b5ead5bf3b1014414012aadeb8fb29706",
       "title": "Junior Big Data Engineer (Java / Python) @ Grupa Allegro Sp. z o. o.",

@@ -1,0 +1,45 @@
+{
+  "slug": "spotsbooking",
+  "name": "SpotsBooking",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-16T09:06:53.007Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "04740d6adf397fd5f5f5dafc4b06538d72b74ef0",
+      "title": "Software Engineer (Intern)",
+      "url": "https://wellfound.com/jobs/4150339-software-engineer-intern?utm_source=freehire.me",
+      "location": "Amsterdam; Rotterdam",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "autonomous-teaming",
   "name": "autonomous-teaming",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-30T09:46:54.503Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c551445d22c9a3105a87c1c89744760bdf4398b8",
+      "title": "Robotics Software Engineer Intern – Swarm Systems (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/robotics-software-engineer-intern-swarm-systems-munich-deu-59619",
+      "location": "Munich (DEU)",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "97b7ae06085a6c4279f0300f5d74e2590c772897",
       "title": "Robotics Software Engineer Intern – Swarm Systems (m/f/d)",

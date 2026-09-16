@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Tallinn",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23bf408c20c9a2aee914b69197a69da857ed8304",
+      "title": "Junior Web Developer - Baltic Web Development &amp; Content team",
+      "url": "https://jobs.swedbank.com/jobs/27932-junior-web-developer-baltic-web-development-content-team?utm_source=freehire.me",
+      "location": "Tallinn, EE",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "70bba6adb527f53824cfe2711c51dbb7b9483a88",
       "title": "Junior Infrastructure Engineer (MS SQL)",

@@ -2,9 +2,9 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 32,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 33,
+  "totalPostings": 34,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Toronto",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 7
+      "count": 8
     },
     {
       "id": "product",
@@ -55,12 +55,19 @@
     0,
     0,
     2,
-    31,
+    32,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0599663cd9a371c43786167e328734d3f6ab993",
+      "title": "Finance and Strategy Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142",
+      "location": "Menlo Park, CA",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "1ea0d00f5cf9d29b812a00c6a41dc49512f66638",
       "title": "Software Developer Intern, Backend (Summer 2027)",
@@ -122,13 +129,6 @@
       "title": "Vendor Management Intern (Summer 2027)",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
       "location": "New York, NY",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "b2f9d91f011c4dd8d792894bfc70b77bb1dc2451",
-      "title": "Special Projects Intern (Summer 2027)",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262",
-      "location": "Menlo Park, CA",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]

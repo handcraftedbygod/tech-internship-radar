@@ -2,14 +2,14 @@
   "slug": "navy-federal-credit-union",
   "name": "Navy Federal Credit Union",
   "tier": null,
-  "currentOpenings": 18,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     1,
-    18,
+    19,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "acf46ccad1e5a0599e9fd0df0e604c3ea19fb105",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32619?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "b0905731e4a92f7f737bcad64ab3cc7fa5cc4e5e",
       "title": "Summer Associate Internship (Data Scientist)",
@@ -99,13 +106,6 @@
       "id": "5aa0a724f95eefd4bbf935f6a5314d1f8b5cab60",
       "title": "Summer Associate Internship (Mobile Developer)",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=freehire.me",
-      "location": "Vienna, VA, United States",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "5bcc4b9609a4bef3a709ed9dc98f640ac5a2eec9",
-      "title": "Summer Associate Internship (Internal Audit - Data Analytics)",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32355?utm_source=freehire.me",
       "location": "Vienna, VA, United States",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }

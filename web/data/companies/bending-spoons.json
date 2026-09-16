@@ -2,14 +2,14 @@
   "slug": "bending-spoons",
   "name": "Bending Spoons",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Warsaw",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -40,12 +40,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fad28e449ed688aca629738a698e051ea2c3dc4",
+      "title": "Junior Data Scientist — Build AI-Driven Data Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__154645776__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "c45e0dc8f9b6357a3519e7f398c80a131e2f969d",
       "title": "Junior Data Scientist - AI-Driven Data Pipelines",

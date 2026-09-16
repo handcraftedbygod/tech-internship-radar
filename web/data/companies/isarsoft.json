@@ -2,21 +2,21 @@
   "slug": "isarsoft",
   "name": "Isarsoft",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a8fd3dd312bb0eadcd430f539cdbefd386ff4a4d",
+      "title": "Working Student Application Software Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/isarsoft/working-student-application-software-engineer-munich-61928",
+      "location": "Munich",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "1fddf306373673f35937f1d42a5781fb956846d6",
       "title": "Working Student Application Software Engineer",

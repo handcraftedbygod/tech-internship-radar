@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 16,
-  "avgPostingDurationDays": 14,
+  "totalPostings": 17,
+  "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Munich",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    11,
+    12,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a31dc243896781d512c9d861fa329afedf27ca41",
+      "title": "(Junior) DevOps Engineer (m/w/d) Data Science – Hotel",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-5d929e06a5b64ecdb0b-S?utm_source=freehire.me",
+      "location": "Münster, Westfalen, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "7f655cb41081d878cb0c11d9ba895d5891ce3a12",
       "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge (Data Scientist)",
@@ -108,13 +115,6 @@
       "id": "48a299d643d61ef3d7f3de23180b0d92e7d235ec",
       "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtZDgyMThlNTdkNWEyNGIzMDljYy1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "dc91369a807ecbaa3fa300a206075d483a44f704",
-      "title": "(Junior) Softwareentwickler (m/w/d) CTO Taskforce Team (Fullstack-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNjMzNjVmNTg1YTkxNGQxNmEzYS1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }

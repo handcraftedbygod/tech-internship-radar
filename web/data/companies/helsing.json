@@ -2,21 +2,21 @@
   "slug": "helsing",
   "name": "Helsing",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 19.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "124b875549109a015498c58055a43d00d2edadf2",
+      "title": "Junior Software Engineer ",
+      "url": "https://helsing.ai/jobs/4976480101?gh_jid=4976480101&utm_source=freehire.me",
+      "location": "Berlin; London; Munich",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "7f80d642d5c7aa3170c49e4cf5cb6442d027fbb9",
       "title": "Junior Security Engineer",

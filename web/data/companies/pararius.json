@@ -2,21 +2,21 @@
   "slug": "pararius",
   "name": "Pararius",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ce9f98c0b7a9c952290e236adbcd66e67ce9964",
+      "title": "Junior Data Engineer: Grow with Google Cloud & BigQuery",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__163830201__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "4d77def14534d4b9e06857dff31c56ed6208f3dd",
       "title": "Junior Data Engineer",

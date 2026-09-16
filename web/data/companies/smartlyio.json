@@ -2,30 +2,30 @@
   "slug": "smartlyio",
   "name": "Smartly.io",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 8,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Chicago",
-      "count": 4
+      "hub": "New York",
+      "count": 6
     },
     {
-      "hub": "New York",
-      "count": 4
+      "hub": "Chicago",
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 5
+      "count": 7
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -42,12 +42,33 @@
     0,
     0,
     0,
-    8,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d46d4977bad808c1400645ab9156dee74a99bd05",
+      "title": "Revenue Operations Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192857004",
+      "location": "Chicago",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "1125de49b07df3bdcf7305188a70a1503c0cf618",
+      "title": "Recruiting Operations Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192859004",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "8ce19a96b2dd9b3f5901fb78a604f4e6c5928cbb",
+      "title": "Customer Onboarding Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6192858004",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "5a1508c03daacfb98326ed03139394f0fd3bfd13",
       "title": "Product Marketing Intern",
@@ -95,13 +116,6 @@
       "title": "Corporate Communications Intern",
       "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6186907004",
       "location": "New York, New York, United States",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "28777823a1fd4504d9df3e2987173bc5e51fb16c",
-      "title": "Business Analytics Intern",
-      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6186905004",
-      "location": "Chicago, Illinois, United States",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]

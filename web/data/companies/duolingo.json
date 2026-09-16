@@ -1,0 +1,68 @@
+{
+  "slug": "duolingo",
+  "name": "Duolingo",
+  "tier": "notable",
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-09-16T09:06:53.007Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f2cfb4bef89a4f18ce860dbd0ac2de42e7fc3bbb",
+      "title": "Software Engineer, Thrive Intern",
+      "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "08a78c612d62b24ed7107c41691cb76bae3a4bad",
+      "title": "Software Engineer, Intern",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+      "location": "New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
+    {
+      "id": "b1a994ba7a50b803a0d1e1cd9fac9086e00dff95",
+      "title": "Associate Product Manager, Intern",
+      "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    }
+  ]
+}

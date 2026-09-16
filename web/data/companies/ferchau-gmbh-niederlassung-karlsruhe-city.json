@@ -2,14 +2,14 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 27,
+  "totalPostings": 28,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Karlsruhe",
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     26,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b12515db47c6e0674b53d113e2167f4d93c7dec",
+      "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Informatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MDM2X0pCNTI0NzM2OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "6c34066027470a8e743f51555df6878b27479988",
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
@@ -103,13 +110,6 @@
       "id": "208d4e7e773f791f2152a0b2dc6e74e45b000b94",
       "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5233286-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "f041137cabd804c910a41ab1044be2064ceb3f42",
-      "title": "(Junior) Software Developer C#.NET (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445153_JB5233142-S?utm_source=freehire.me",
       "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }

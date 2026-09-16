@@ -2,14 +2,14 @@
   "slug": "lightspeed-studios",
   "name": "Lightspeed Studios",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e63da6a7a8490b5c98155c6c2db4a1e3642b5b7",
+      "title": "Gaming Data Engineer Intern: Real-Time Data Pipelines",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__161817030__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "fdbf152d9679a2dc32bb83b9a5e294a63a335643",
       "title": "Junior Data Engineer, 2026 Graduate",

@@ -2,13 +2,17 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
+      "count": 3
+    },
+    {
+      "hub": "New York",
       "count": 3
     },
     {
@@ -22,10 +26,6 @@
     {
       "hub": "London",
       "count": 2
-    },
-    {
-      "hub": "New York",
-      "count": 2
     }
   ],
   "topDisciplines": [
@@ -33,6 +33,11 @@
       "id": "swe",
       "label": "Software",
       "count": 13
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,12 +49,19 @@
     0,
     1,
     2,
-    10,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b10993d057bef9e877a6b11b5804cbbaacd1557b",
+      "title": "Product Manager: New Grad Accelerator",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+      "location": "San Francisco, New York City, Seattle",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "3002c09590827346ce172340872a07c819fcb46a",
       "title": "Software Engineer, New Grad - Frontend",
@@ -111,13 +123,6 @@
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745",
       "location": "San Francisco, Seattle, New York City",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "ab593a02bad025d146f5e91e210d8afa8e1a34fb",
-      "title": "Software Engineer, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-      "location": "London",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]

@@ -2,21 +2,21 @@
   "slug": "rs2i",
   "name": "RS2i",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82025f520e387c94c3cbf13abc9399dbb23c8335",
+      "title": "DÉVELOPPEUR JUNIOR FULL STACK (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/Njg5NTU3OCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "f96780d16c2f1be0fb4a35892142eef902d71a99",
       "title": "Développeur Full Stack Junior — Java/Angular, Cloud",

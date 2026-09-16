@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 46,
-  "avgPostingDurationDays": 15.9,
+  "totalPostings": 47,
+  "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 39
+      "count": 40
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     0,
     33,
-    13,
+    14,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dad365193ee10f2b15dd58175b8fc41733d5298",
+      "title": "Intern Demand Planning Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-demand-planning-global-hq-in-barcelona-spain-jid-744000149604315/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "3feb6e03a7d36e84472fee9aa175e7c577076b3e",
       "title": "Intern Sales Developer Representative Portugal",
@@ -111,13 +118,6 @@
       "id": "65c1dfa48c6a5e32aa09a16981ed03853acdba4a",
       "title": "Junior Health & Safety Analyst",
       "url": "https://careers.glovoapp.com/job/junior-health-safety-analyst-in-barcelona-spain-jid-744000146999551/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "d8218cb61a6ea8e3e1afa5cf72ad5d916228f641",
-      "title": "Junior Privacy Counsel",
-      "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000147004989/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }

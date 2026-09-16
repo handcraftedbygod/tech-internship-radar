@@ -2,13 +2,17 @@
   "slug": "bookingcom",
   "name": "Booking.com",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "898fc74e5387e1d386dc29b05d7ace3e31985419",
+      "title": "Junior Trust & Safety Analyst",
+      "url": "https://external-workingatbooking.icims.com/jobs/30248/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "0d64832cece8198c78d81e15569ce04f100f55b3",
       "title": "Junior Legal Counsel – Product (Trips)",

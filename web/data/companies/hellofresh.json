@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 18,
-  "avgPostingDurationDays": 16,
+  "totalPostings": 19,
+  "avgPostingDurationDays": 15.7,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,19 @@
     0,
     5,
     8,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f0a222cd862c29089939e719cff4df1546afefa3",
+      "title": "Junior Content Marketing specialist (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8203812?gh_jid=8203812",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-09-16T09:06:53.007Z"
+    },
     {
       "id": "b5308ed504f6261997cb90c8c9a1d3350dfe6b67",
       "title": "Menu Planner Working Student (all genders)",
@@ -111,13 +118,6 @@
       "id": "65469beaf179109ea4c004d1876d5804b358e8c5",
       "title": "Junior Facility Employee (f/m/x)",
       "url": "https://careers.hellofresh.com/global/en/job/8128063?gh_jid=8128063",
-      "location": "Bleiswijk, South Holland, Netherlands",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "1290cd60dd9f64c4b4879dbe414bcdfc32ef18ed",
-      "title": "Junior Facilitair Medewerker (v/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8128171?gh_jid=8128171",
       "location": "Bleiswijk, South Holland, Netherlands",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }

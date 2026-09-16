@@ -106,6 +106,13 @@
       "url": "https://www.ycombinator.com/companies/brickwise"
     },
     {
+      "name": "ComplyDo",
+      "oneLiner": "Global Compliance for Enterprises",
+      "batch": "Fall 2025",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.ycombinator.com/companies/complydo"
+    },
+    {
       "name": "Metorial",
       "oneLiner": "Agentic infrastructure to power AI-native companies.",
       "batch": "Fall 2025",
@@ -202,16 +209,16 @@
       "batch": "Spring 2025",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/cubic"
-    },
-    {
-      "name": "Artificial Societies",
-      "oneLiner": "We build networks of AIs to simulate high-value audiences",
-      "batch": "Winter 2025",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.ycombinator.com/companies/artificial-societies"
     }
   ],
   "northAmerica": [
+    {
+      "name": "Ignition Benefits",
+      "oneLiner": "The AI-Native Benefits Brokerage",
+      "batch": "Fall 2026",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.ycombinator.com/companies/ignition-benefits"
+    },
     {
       "name": "Vyra",
       "oneLiner": "Autonomous video editing for non-editors.",
@@ -281,6 +288,13 @@
       "batch": "Summer 2026",
       "location": "Durham, NC, USA",
       "url": "https://www.ycombinator.com/companies/synapse-semiconductor"
+    },
+    {
+      "name": "Waddle Labs",
+      "oneLiner": "LLMs that control robots",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/waddle-labs"
     },
     {
       "name": "HERA",
@@ -353,6 +367,13 @@
       "url": "https://www.ycombinator.com/companies/locke"
     },
     {
+      "name": "Petrarch",
+      "oneLiner": "Internal industrial company data for frontier labs",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/petrarch"
+    },
+    {
       "name": "Denta",
       "oneLiner": "Dental Insurance",
       "batch": "Summer 2026",
@@ -395,32 +416,11 @@
       "url": "https://www.ycombinator.com/companies/glen"
     },
     {
-      "name": "Ploy",
-      "oneLiner": "Ploy turns your website into your company's growth engine. ",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/ploy"
-    },
-    {
-      "name": "Prescience, Inc.",
-      "oneLiner": "Superintelligent health insurance that keeps employees healthy",
+      "name": "Hop Aero",
+      "oneLiner": "Rocket cargo delivery to contested environments",
       "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/prescience-inc"
-    },
-    {
-      "name": "Miso Labs",
-      "oneLiner": "Emotive foundation voice models",
-      "batch": "Spring 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/miso-labs"
-    },
-    {
-      "name": "Soria",
-      "oneLiner": "AI Financial Research Terminal built for Healthcare (and beyond)",
-      "batch": "Spring 2026",
-      "location": "New York City, NY, USA",
-      "url": "https://www.ycombinator.com/companies/soria"
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.ycombinator.com/companies/hop-aero"
     }
   ]
 }
