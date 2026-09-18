@@ -4,24 +4,24 @@
   "tier": null,
   "currentOpenings": 27,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 33,
-  "avgPostingDurationDays": 11.3,
+  "totalPostings": 35,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 33
+      "count": 35
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,26 @@
     0,
     0,
     2,
-    31,
+    33,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "242883d9459b7403d14f16d1c40ad56e3092dd9d",
+      "title": "Junior DevOps & Cloud Engineer — Remote & Multi-Cloud Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352211304__7107?geoID=13&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "5d6451f99326fd2bb59c3954d8fa92d793a71f14",
+      "title": "Junior DevOps & Cloud Engineer: Multi-Cloud & IaC Pro",
+      "url": "https://es.whatjobs.com/pub_api__cpl__351798176__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "78cb76bf84ef0404929df957c1b61ca98bbb4a31",
       "title": "Junior Cloud & DevOps Engineer - Remote & Growth Path",
@@ -94,20 +108,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__351464472__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Spain",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "b43c37bbc09e6f7e613e1aef93064e49b2d87221",
-      "title": "Junior DevOps / Cloud Engineer (Remoto)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__350175509__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "0f05829178089774cbf68cbc18feb231712c6715",
-      "title": "Junior Cloud & DevOps Engineer - Remote & Growth Path",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349874202__7107?geoID=10492&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Islas Baleares, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

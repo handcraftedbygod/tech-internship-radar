@@ -2,14 +2,14 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -37,12 +37,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc40e294c19474fb6b54bedda951f8f2d8e81e50",
+      "title": "Junior Data Engineer: Python, SQL & ML Dashboards",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__534868999__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "946fd795faa4d264ba5376309e0dc82c690f8b3f",
       "title": "Junior Java Developer – Backend & Microservices (Onsite London)",

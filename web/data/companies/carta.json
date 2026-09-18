@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-07-26T06:34:48.431Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 19,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 22.4,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Toronto",
@@ -24,7 +24,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -41,12 +41,19 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c4adb6991c4bd418fb8725c99168a5de36becec",
+      "title": "Junior Paralegal, Contracts",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7997383003",
+      "location": "Seattle,WA; Sandy,UT; Dallas,TX",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "f917e7e72215524b3c712f82d73f605349cf905e",
       "title": " Junior Paralegal, Contracts",

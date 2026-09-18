@@ -1,0 +1,52 @@
+{
+  "slug": "staffmill",
+  "name": "StaffMill",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-18T08:48:05.182Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c912af0054aa3efb9b38b106d4ebcb56050c0406",
+      "title": "Junior Software developer, Suomi",
+      "url": "https://staffmill-oy.breezy.hr/p/b6338a833671-junior-software-developer-suomi?utm_source=freehire.me",
+      "location": "Suomi, Finland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "24436614273baf4ce49eb4d7dc066acda9fbbcb1",
+      "title": "Junior Software developer, Suomi",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZWE4YjBhYTYtMTNlZC00Yjk0LWEyZWYtZDZlZDhmMjUxODMzIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    }
+  ]
+}

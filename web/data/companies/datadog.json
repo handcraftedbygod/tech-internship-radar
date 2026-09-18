@@ -2,14 +2,14 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 10,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": null,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 19.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "product",
@@ -41,12 +41,19 @@
     0,
     0,
     2,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c073e78265f6de6b20505009fc36108d6f6622f9",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "9a11874dcebf7da22015ef6d049bb2f2cba795bc",
       "title": "Research Science Intern (PhD)",
@@ -108,13 +115,6 @@
       "title": "Software Engineering Intern (Winter)",
       "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
       "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "102b858e5fced33a49c3933d37b09dcba9ebeef7",
-      "title": "Product Management Intern",
-      "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-      "location": "New York, New York, USA",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

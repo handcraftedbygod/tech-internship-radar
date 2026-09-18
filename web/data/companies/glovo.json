@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 47,
+  "totalPostings": 48,
   "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Madrid",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,19 @@
     0,
     0,
     33,
-    14,
+    15,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d41218da56f0573e96e803b3049f7598ce61c13",
+      "title": "Junior Operations Data Analyst Forecasting - AFR",
+      "url": "https://careers.glovoapp.com/job/junior-operations-data-analyst-forecasting-afr-in-barcelona-spain-jid-744000150294779/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "9dad365193ee10f2b15dd58175b8fc41733d5298",
       "title": "Intern Demand Planning Global HQ",
@@ -113,13 +120,6 @@
       "url": "https://careers.glovoapp.com/job/junior-tax-analyst-hq-in-barcelona-spain-jid-744000148261910/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "65c1dfa48c6a5e32aa09a16981ed03853acdba4a",
-      "title": "Junior Health & Safety Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-health-safety-analyst-in-barcelona-spain-jid-744000146999551/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }
   ]
 }

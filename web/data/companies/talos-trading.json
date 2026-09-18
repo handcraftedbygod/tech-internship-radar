@@ -1,0 +1,52 @@
+{
+  "slug": "talos-trading",
+  "name": "Talos Trading",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-18T08:48:05.182Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9b24d5ad6b15401408e2d03f1d0f90d0d3bec32e",
+      "title": "Software Engineer Intern, Infrastructure",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-infrastructure-london-123183?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "b476c7d19d026d86b17490ef777d1e7c1f2290dd",
+      "title": "Software Engineer Intern, Trading",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/talos-trading/software-engineer-intern-trading-london-123032?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    }
+  ]
+}

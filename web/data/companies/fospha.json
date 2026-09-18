@@ -2,20 +2,25 @@
   "slug": "fospha",
   "name": "Fospha",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 17.3,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e5eea38aa9420d2b439821e05c9777561120f80",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8207846?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "85792cfdd89617d64dadff73dc4ad443856f3a6e",
       "title": "Junior Data Scientist ",

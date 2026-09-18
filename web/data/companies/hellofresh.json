@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 15.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "London",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     5,
     8,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32af2575d2dc1cacb839cb7d3043e0df4f4ab742",
+      "title": "Operational Excellence & Transformation Junior Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/8077126?gh_jid=8077126",
+      "location": "Derby, England, United Kingdom",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "f0a222cd862c29089939e719cff4df1546afefa3",
       "title": "Junior Content Marketing specialist (f/m/x)",
@@ -113,13 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8114195?gh_jid=8114195",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-08-15T04:30:16.064Z"
-    },
-    {
-      "id": "65469beaf179109ea4c004d1876d5804b358e8c5",
-      "title": "Junior Facility Employee (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8128063?gh_jid=8128063",
-      "location": "Bleiswijk, South Holland, Netherlands",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]
 }

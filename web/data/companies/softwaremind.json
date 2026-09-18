@@ -2,14 +2,14 @@
   "slug": "softwaremind",
   "name": "softwaremind",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b269d795e91093dd0214a97beeaa57d45165f5fa",
+      "title": "[RPG] Junior AI-Driven Software Engineer (.Net)",
+      "url": "https://jobs.smartrecruiters.com/SoftwareMind/744000149847990--rpg-junior-ai-driven-software-engineer-net-?utm_source=freehire.me",
+      "location": "Kraków, Lesser Poland Voivodeship, pl",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "ac223805aeb5766e1ed552669ae8a4bdf3d204b1",
       "title": "[RPG] Junior AI-Driven Software Engineer",

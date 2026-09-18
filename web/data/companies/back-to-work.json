@@ -2,21 +2,21 @@
   "slug": "back-to-work",
   "name": "Back TO Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     9,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c043d0cdecd59dcf93e672fd2df29d427b3cfbf",
+      "title": "Junior Cybersecurity & Networking Technician",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5887647484?se=-lfWDMWy8RG-HvXocs6iYQ&utm_medium=api&utm_source=freehire.me&v=096EB788FF5B34BE8B5B2178CC098C7FF0E01812",
+      "location": "Grove, Leighton Buzzard",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "494001f3f69a527417c6627568b2c5b0258d8f91",
       "title": "Junior Cybersecurity & Networking Technician",

@@ -2,21 +2,21 @@
   "slug": "swile",
   "name": "Swile",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e4499610ae45060534f0184b5c117077755ef07",
+      "title": "Security Engineer Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/swile/security-engineer-intern-paris-france-249174",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "d7eb312ec24fb77cacafab47ba5b691b0d6332b4",
       "title": "Security Engineer Intern",

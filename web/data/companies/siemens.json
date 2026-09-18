@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 26,
+  "totalPostings": 27,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Munich",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "hw",
@@ -55,12 +55,19 @@
     0,
     0,
     17,
-    9,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a815dc5fe3af560e8a59a40132d1a1c46eb47825",
+      "title": "Working Student (f/m/d) Support in Service Management & DevOps Center Team",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633549-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "79d68de96ab851dfb68c628d0e50bd10edd0393d",
       "title": "Working Student (f/m/d) Advanced Analytics and Artificial Intelligence",
@@ -123,13 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601255-2-S",
       "location": "Nürnberg, Mittelfranken",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "4b3c6c5698cddc12bb1d2c57c3ab01accc0b897b",
-      "title": "Junior Embedded Software Developer (w/m/d) für SIMATIC S7 Automatisierungssysteme",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623962-1-S?utm_source=freehire.me",
-      "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

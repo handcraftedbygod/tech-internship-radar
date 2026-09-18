@@ -2,18 +2,22 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
+    },
+    {
+      "hub": "Dublin",
+      "count": 2
     },
     {
       "hub": "Amsterdam",
@@ -22,22 +26,18 @@
     {
       "hub": "San Francisco",
       "count": 1
-    },
-    {
-      "hub": "New York",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -49,12 +49,40 @@
     0,
     1,
     4,
-    0,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af5b466aa70911863b57dc3a47165178c1ecb9b9",
+      "title": "Summer 2027 Intern - Sales Development, Nonprofit",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Sales-Development--Nonprofit_JR359942-1",
+      "location": "Illinois - Chicago",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "4976c083927b161d56a96aa3df4ef7727131af8f",
+      "title": "Junior Technical Support Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR359301",
+      "location": "Japan - Remote",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "0d3c56b92789e7228d5373b182637606fd5ccba3",
+      "title": "Futureforce Events & Admin Trainee",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Apprentice_JR357940",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "38a0f3fde543dd559aa4efae7141be213313da38",
+      "title": "Sales Development Trainee - NGO PubSec",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Sales-Development-Trainee---NGO-PubSec_JR360374",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "b5be9389abe03520c5a1188d634d8c565df9fa6d",
       "title": "Summer 2027 Intern - Software Engineer",

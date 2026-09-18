@@ -2,13 +2,17 @@
   "slug": "itfs-sp-z-oo",
   "name": "ITFS Sp. z o.o.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 3
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,33 @@
     0,
     0,
     1,
-    0,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d4b4e22e659cea73238d91123d9eff65d4f936a",
+      "title": "Junior AWS Backend Developer",
+      "url": "https://nofluffjobs.com/job/junior-aws-backend-developer-itfs-remote?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "d6ce1d2700fc7e933949e39b7c00b5f4a80ff9ed",
+      "title": "Junior AWS DevOps Engineer",
+      "url": "https://nofluffjobs.com/job/junior-aws-devops-engineer-itfs-remote?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "01161b7d19839b46cde8824c17cfa40d5c0aedf5",
+      "title": "Junior AWS DevOps Engineer @ ITFS Sp. z o.o.",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29826079__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "44bd37a7fa365fda61fab0476c22690ef9b209ef",
       "title": "JavaScript Developer (Junior)",

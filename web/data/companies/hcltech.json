@@ -2,9 +2,9 @@
   "slug": "hcltech",
   "name": "HCLTech",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42809bf91ae9def66ec7d83a675faf725413a739",
+      "title": "Junior Software Engineer",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__42882464__7095?geoID=26&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "60fc1f27a73b2aa3f8f2610450d71e1f623cea26",
       "title": "Junior DevOps Engineer",

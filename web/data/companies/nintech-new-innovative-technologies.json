@@ -1,14 +1,18 @@
 {
   "slug": "nintech-new-innovative-technologies",
-  "name": "nintech – new innovative technologies GmbH",
+  "name": "nintech - new innovative technologies GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa0ec6a8a51707fbed17f6f85218f83336ccc022",
+      "title": "Junior Software Supporter – Homeoffice (m/w/d) (Anwendungssystemberater/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI3ODEtMTY0MTk2MDAtS0FMLVMgMQ?lang=en&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "af42edb36a0fe9ea9faf7e3919e51f48eea1d01c",
+      "title": "Junior Software Supporter – Homeoffice (m/w/d) (Anwendungssystemberater/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI3ODEtMTY0MTk2MDAtS0FMLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "a24a971c574e45489105472c1113a6033dffd1be",
       "title": "Junior Software Supporter - Homeoffice (m/w/d) (Projektassistenz, Digital Assistant o. ä.) (Projektassistent/in)",

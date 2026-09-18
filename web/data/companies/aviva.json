@@ -2,20 +2,25 @@
   "slug": "aviva",
   "name": "Aviva",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d9337313fc81f6561b8a68d727dcbc0eedc5792",
+      "title": "Investment Data Analyst Intern",
+      "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Investment-Data-Analyst-Intern_R-173119?utm_source=freehire.me",
+      "location": "Poland - Warsaw - ASEC",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "fba7c36c4404204296e1a9c7629729f34a4303a2",
       "title": "Junior Data Engineer - Hybrid, Snowflake Pipelines",

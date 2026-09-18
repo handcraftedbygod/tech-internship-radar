@@ -1,12 +1,16 @@
 {
   "slug": "vattenfall",
-  "name": "Vattenfall",
+  "name": "Vattenfall AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    },
     {
       "hub": "Berlin",
       "count": 1
@@ -16,7 +20,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,40 @@
     0,
     0,
     0,
-    1,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e3624dcad26368ea6032d01b21de4625188d3f6",
+      "title": "International Trainee - Hydro Power Optimisation and Data Analytics Engineer",
+      "url": "https://jobs.smartrecruiters.com/Vattenfall/744000149778499-international-trainee-hydro-power-optimisation-and-data-analytics-engineer?utm_source=freehire.me",
+      "location": "Luleå, Norrbotten County, se",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "725ceca04a8daccb3e7075fe17084a86b9703323",
+      "title": "International Trainee - Hydro Power Optimisation and Data Analytics",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5NTM3NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "6db2cb321758fbd99dcf38a2f72c69c7cc5b5222",
+      "title": "International Trainee - Asset and Business Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5NTM4MCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "fd56d7839dad4bfab69a72e4e47e3d9e178f2ce7",
+      "title": "International Trainee - Asset and Business Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5NTM4MiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "4c2d7c590577f580f496cf31495ec29e31dc6888",
       "title": "Working Student - Data Engineer (f/m/d)",

@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 23,
+  "totalPostings": 25,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Stuttgart",
@@ -22,18 +22,22 @@
     {
       "hub": "Karlsruhe",
       "count": 1
+    },
+    {
+      "hub": "Bremen",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -45,12 +49,26 @@
     0,
     0,
     19,
-    4,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae9c554862e8ba1214314ba24be5167ef76f9512",
+      "title": "Praktikant*in als Data Analyst - Produktionsversorgung Montage (Pflicht-Praktikum)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1633241-1-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "45d6c9e8466343e03a1101546cb148234cf3850c",
+      "title": "Werkstudent*in Data Engineering/ Data Science/ Softwareentwicklung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1633950-1-S",
+      "location": "Rastatt",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "29350a7426039cb2deb5a5ec5b6536771f319a17",
       "title": "Praktikant*in Drive Systems Software & Calibration Engineering – Development Process Steering",
@@ -106,20 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1587680-2-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "0220506deb7726875372002f1bfde9d2086e329e",
-      "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "8955d76c47a500b3ac5490c91599350f6238ff0c",
-      "title": "Werkstudent Machine Learning Engineering (d/m/w/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619152-1-S",
-      "location": "Karlsruhe, Baden",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

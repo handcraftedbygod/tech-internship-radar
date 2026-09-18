@@ -2,9 +2,9 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
@@ -12,19 +12,23 @@
       "count": 3
     },
     {
+      "hub": "Other",
+      "count": 3
+    },
+    {
       "hub": "Krakow",
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Stockholm",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -36,12 +40,26 @@
     0,
     0,
     5,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4359d957e65a1cdd156605bf99bb5a1dca53f3d0",
+      "title": "Junior Software Developer - Radio Synchronization",
+      "url": "https://jobs.ericsson.com/careers/job/563121777202467-junior-sw-developer-radio-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "4e57bef89504ce823085fa8ebbe6dc3b7dfc09f9",
+      "title": "Junior Software Developer - Radio Synchronization",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5MDkzNiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "28f13696319d32fa91068caf022b6ea4409def90",
       "title": "Junior Software Developer",

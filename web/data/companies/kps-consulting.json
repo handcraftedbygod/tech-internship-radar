@@ -2,21 +2,21 @@
   "slug": "kps-consulting",
   "name": "KPS Consulting",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": 13.5,
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0a7471f6a5d6fb194ee36a694d237062664495f",
+      "title": "Junior SAP Integration Developer (m/w/d) (Anwendungsprogrammierer/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzExMjg1LVMgMQ?lang=en&utm_source=freehire.me",
+      "location": "Dortmund, Germany",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "146cfcb560666a3a7e2d5b6bee571e974761f05d",
       "title": "Junior SAP Integration Developer (m/w/d) (Anwendungsprogrammierer/in)",

@@ -2,18 +2,18 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 14,
+  "totalPostings": 16,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "New York",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Dublin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     },
     {
       "id": "product",
@@ -49,12 +49,26 @@
     0,
     1,
     2,
-    11,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5bcf26a4407f113ff63c53b04cffabbc2f2332e9",
+      "title": "Software Engineer, Early Career — Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+      "location": "San Francisco, Seattle, New York",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "42f9734399e18980e87eb0592304d4140dfe1cac",
+      "title": "Software Engineer, Early Career — Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "location": "Toronto",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "b10993d057bef9e877a6b11b5804cbbaacd1557b",
       "title": "Product Manager: New Grad Accelerator",
@@ -109,20 +123,6 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744",
       "location": "San Francisco, Seattle, New York",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "fbca5d740624e4a041d46a7e5a75612cc962a252",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-      "location": "Toronto",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "bb368df55346c4b03e6735ec3da406da68d63dec",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "location": "San Francisco, Seattle, New York City",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]

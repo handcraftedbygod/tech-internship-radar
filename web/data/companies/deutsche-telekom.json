@@ -2,21 +2,21 @@
   "slug": "deutsche-telekom",
   "name": "Deutsche Telekom",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 7,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,47 @@
     0,
     0,
     1,
-    6,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c3c9cb876075e09a895255fdc365becade401adb",
+      "title": "Junior Data Engineer - GCP, Terraform & PySpark (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352339046__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "31a7dc48c3c9f0f76fb3c82432235131f9204c7a",
+      "title": "Junior Data Engineer: GCP & CI/CD Innovator",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352316333__7107?geoID=10144&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Gijón, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "85e86d5a3315a450949cba42b9e8386139103abc",
+      "title": "Junior Data Engineer — GCP, Python & Airflow (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352295813__7107?geoID=4679&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Reus, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "add913845d27540ddb3b62ca34f5579100fdadbb",
+      "title": "Junior Data Engineer: GCP, PySpark & Airflow | Hybrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352274861__7107?geoID=9919&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "A Coruña, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "985308ab69a8d06dcbabe12160617f839775a3fc",
+      "title": "GCP Data Engineer (Junior) – Hybrid, Coursera Training",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352053760__7107?geoID=751&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Granada, Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "69caf037dc8f764c6cf2ef36fbca1f34b5b652b2",
       "title": "Junior Data Engineer – GCP, Terraform, PySpark | Hybrid",
@@ -68,20 +103,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__352031422__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Valencia, Spain",
       "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "51b435e724cd43333308f2d68467247d46fa6f0a",
-      "title": "GCP Data Engineer (Junior) – Hybrid, Coursera Training",
-      "url": "https://es.whatjobs.com/pub_api__cpl__351760429__7107?geoID=751&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Granada, Spain",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "cd95dea4e91c0cf4c92494939a24d5abe88b44d3",
-      "title": "Praktikum / Flexikum AI & Data Analytics in der Strategieberatung (Data-Analyst/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI0NDQtNTYzNDY1Mzc0NDM1MzgwLURULVMgMQ?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 33,
+  "currentOpenings": 34,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 34,
+  "totalPostings": 35,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Toronto",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "biz",
@@ -55,12 +55,19 @@
     0,
     0,
     2,
-    32,
+    33,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bd05b43a6f40c61f89389e9c648a6e613c3da7b6",
+      "title": "Security Risk Management Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970",
+      "location": "Menlo Park, CA",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "b0599663cd9a371c43786167e328734d3f6ab993",
       "title": "Finance and Strategy Intern (Summer 2027)",
@@ -122,13 +129,6 @@
       "title": "Software Developer Intern, iOS (Summer 2027)",
       "url": "https://www.themuse.com/jobs/robinhood/software-developer-intern-ios-summer-2027",
       "location": "Toronto, Canada",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "ca520a33a62a8f01b197e2ee3512de8ee6b229a7",
-      "title": "Vendor Management Intern (Summer 2027)",
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097",
-      "location": "New York, NY",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]

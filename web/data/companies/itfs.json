@@ -2,21 +2,21 @@
   "slug": "itfs",
   "name": "ITFS",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cdb840923eb7073cdc72b21239a5fa610d268570",
+      "title": "Junior AWS DevOps Engineer",
+      "url": "https://solid.jobs/o/b1s7c0my/freehire?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "17ffcf123a56695d04776cb3f8661f75cf778b0b",
       "title": "Junior/ Mid Python Developer",

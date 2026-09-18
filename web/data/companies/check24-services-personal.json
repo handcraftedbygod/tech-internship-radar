@@ -2,14 +2,14 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Munich",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -42,12 +42,19 @@
     0,
     0,
     5,
-    12,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc91813d5e44511599811f8bbbafe536ee252147",
+      "title": "(Junior) DevOps Engineer (m/w/d) Data Science – Hotel (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNWQ5MjllMDZhNWI2NGVjZGIwYi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "a31dc243896781d512c9d861fa329afedf27ca41",
       "title": "(Junior) DevOps Engineer (m/w/d) Data Science – Hotel",
@@ -108,13 +115,6 @@
       "id": "95c059bf8a532847385a2fb71ece9c04b06246fd",
       "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNWQyMzhjMzJiNzMxNDkxOWI5Yy1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "48a299d643d61ef3d7f3de23180b0d92e7d235ec",
-      "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtZDgyMThlNTdkNWEyNGIzMDljYy1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -33,12 +33,19 @@
     0,
     0,
     3,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a88aa03b74296c6ef1bcbad95adfc9f82247dc7d",
+      "title": "Junior Java AWS Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5NDgwMiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "78c971d9449ec5d61b8ac2358a32afc192e48bfb",
       "title": "Junior SW Engineer, DevOps – Central Execution Environment",

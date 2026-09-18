@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     },
     {
       "id": "swe",
@@ -37,12 +37,19 @@
     0,
     0,
     6,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da18d94f0690b61da90af3ee0323648ddcff668b",
+      "title": "Praktikant Data Engineering und Frontend-Entwicklung (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1633895-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "c55b189cca92c91f98decd3f6bba4d862ab4683e",
       "title": "Praktikant Data Analytics & agiles Projektmanagement (w/m/x)",
@@ -105,13 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1620693-1-S",
       "location": "München",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "442f16ec48df549b95e48a5e5e16996ac3cfc75d",
-      "title": "Working student in the car body development with Python programming (f/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1617422-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]
 }

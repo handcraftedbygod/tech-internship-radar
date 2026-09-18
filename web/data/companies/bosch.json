@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 10
     },
     {
       "id": "hw",
@@ -54,12 +54,26 @@
     0,
     0,
     18,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55af395f643b6ba3256453f199196b638904d322",
+      "title": "Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?utm_source=freehire.me",
+      "location": "Wernau (Neckar), BW, de",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "07500c4b630a94e008598631b3d8896c0f6a941c",
+      "title": "Praktikum im Bereich Machine Learning für prädiktive Zuverlässigkeitsanalytik – Wärmepumpen (w/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149827009-praktikum-im-bereich-machine-learning-fur-pradiktive-zuverlassigkeitsanalytik-warmepumpen-w-m-div-?utm_source=freehire.me",
+      "location": "Wernau (Neckar), BW, de",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "2bcf8ff3166b70aa764f213561e04116a338ecdb",
       "title": "Junior AI & Data Analytics Specialist for Quality Management (f/m/div.)",
@@ -114,20 +128,6 @@
       "title": "C# Developer - Internship",
       "url": "https://echojobs.io/job/bosch-c-developer-internship-jbbxa?utm_source=freehire.me",
       "location": "Ovar, PT, PT",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "91650b3214cb582aab638c2fb355ce1ba596630b",
-      "title": "DevOps Engineer Internship",
-      "url": "https://echojobs.io/job/bosch-devops-engineer-internship-okiaz?utm_source=freehire.me",
-      "location": "Ovar, PT, PT",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "4df50f1a58fd8c7240b3cbdb6d500ea4243c7a6d",
-      "title": "Internship in the Field of Full Stack Engineering",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143271509-internship-in-the-field-of-full-stack-engineering?utm_source=freehire.me",
-      "location": "Ulm, BW, de",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]

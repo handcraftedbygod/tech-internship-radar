@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 13.4,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     1,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b638591bbe62ca9964753d0f9c7e46492d2bafc7",
+      "title": "General Secretary Associate intern",
+      "url": "https://jobs.ashbyhq.com/alan/142ad7db-6962-43d9-90f7-b69f0b66261f",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "0d4878064b29d338c598811451bae7620040b566",
       "title": "People Associate (internship)",

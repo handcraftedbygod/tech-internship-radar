@@ -2,21 +2,21 @@
   "slug": "myodoo",
   "name": "Myodoo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4ddfee152f41acfd1356a5c817ee69466ee84fb",
+      "title": "Junior Python Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29832881__7143?geoID=32761&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Sławińska, Poland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "234145a121eef48c5a9bd74aa486dca582b58024",
       "title": "Junior Python Developer",

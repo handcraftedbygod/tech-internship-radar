@@ -1,14 +1,18 @@
 {
   "slug": "qopla",
-  "name": "Qopla AB",
+  "name": "qopla AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "951843655556b68389c78cfc549b75c32e327a9a",
+      "title": "Junior Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI4ODc5MyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "6f67d221c6ef33c42cbfd65b43ed5047713f1657",
       "title": "Junior Software Developer",

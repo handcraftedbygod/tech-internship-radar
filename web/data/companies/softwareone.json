@@ -2,9 +2,9 @@
   "slug": "softwareone",
   "name": "SoftwareOne",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6735a00f04134de9c2d020c7086872d28a2537f",
+      "title": "Junior Cloud Engineer, GCP & DevOps — Remote/Hybrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352297190__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "61ee0ae8a9e45bf98d1cb8792ce420f2470d015e",
       "title": "Junior Cloud Engineer, GCP & DevOps — Remote/Hybrid",

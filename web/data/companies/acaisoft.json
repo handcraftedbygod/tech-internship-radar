@@ -4,19 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 14.2,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44944398d9c3e0c40a314630a9422f70a25e803b",
+      "title": "Junior DevOps Engineer",
+      "url": "https://nofluffjobs.com/job/junior-devops-engineer-acaisoft-remote-2?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "975fae73a237c8552ff49ed9dee85626b3c99934",
       "title": "Junior DevOps Engineer @ Acaisoft",

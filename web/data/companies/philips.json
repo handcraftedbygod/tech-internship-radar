@@ -2,13 +2,17 @@
   "slug": "philips",
   "name": "Philips",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0b0b9e53a141692b7cdfc3838c3aa577061004e",
+      "title": "Internship: Data Science for Multidimensional Market Modelling",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671?utm_source=freehire.me",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "178dec9f05faaf4413e9bc5cd741ded0e0f27c4a",
       "title": "Internship: Financial Data Analyst",

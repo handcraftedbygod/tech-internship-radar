@@ -2,11 +2,15 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    },
     {
       "hub": "San Francisco",
       "count": 1
@@ -20,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1b798f145426bcfe746f0151aab42e8e1814c7f",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "url": "https://artificialintelligencejobs.co/jobs/waymo-2027-summer-intern-ms-phd-machine-learning-simulation-realism-62e64be5",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
+    {
+      "id": "886b06ee1d292e1c7288b634a3d061ffdc244752",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465&utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "70eff4163084cff48dc04b50d95b0fa6a0842752",
       "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",

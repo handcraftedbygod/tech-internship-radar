@@ -2,14 +2,14 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,12 +38,19 @@
     0,
     0,
     1,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb43f3193fbe24cffa28bd9ab6cb80d1e2b3bd8a",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002?utm_source=freehire.me",
+      "location": "London, Paris, Wrocław, Zurich, Dubai",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "19d4ae61ab8f019acfba3a6a3964b21f109c73f1",
       "title": "2027 – Graduate or Internship, Infrastructure Engineer ",

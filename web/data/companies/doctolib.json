@@ -2,25 +2,29 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Berlin",
       "count": 6
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 3
     }
   ],
@@ -33,12 +37,19 @@
     0,
     0,
     5,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1927a113206613f522ed55501b564df692733971",
+      "title": "Stage - Junior Website Manager (x/f/m) - janvier 2027",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7994156003",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "45259a67e37e546a3738fbdb2cbb4ed0b79fde37",
       "title": "Praktikum Human Resources  (x/f/m)",

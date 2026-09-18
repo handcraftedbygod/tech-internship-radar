@@ -2,25 +2,25 @@
   "slug": "navy-federal-credit-union",
   "name": "Navy Federal Credit Union",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 10
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 11
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 10
     }
   ],
@@ -33,12 +33,19 @@
     0,
     0,
     1,
-    19,
+    20,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b95114fa049e0aef647f0b3f671b766d9dc9c6fd",
+      "title": "Summer Associate Internship (Product Security Engineer)",
+      "url": "https://www.themuse.com/jobs/navyfederalcreditunion/summer-associate-internship-product-security-engineer-7c1d91",
+      "location": "Vienna, VA",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "acf46ccad1e5a0599e9fd0df0e604c3ea19fb105",
       "title": "Summer Associate Internship (Product Security Engineer)",
@@ -99,13 +106,6 @@
       "id": "7f43262d510516fd982ae49ba2355ceb62ce6963",
       "title": "Summer Associate Internship (Product Security Engineer)",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32434?utm_source=freehire.me",
-      "location": "Vienna, VA, United States",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "5aa0a724f95eefd4bbf935f6a5314d1f8b5cab60",
-      "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=freehire.me",
       "location": "Vienna, VA, United States",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }

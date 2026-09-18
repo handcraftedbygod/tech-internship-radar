@@ -2,14 +2,14 @@
   "slug": "smartlyio",
   "name": "Smartly.io",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Chicago",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -42,12 +42,19 @@
     0,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f65e19b2e701694ec4cfbc35c94b01fc7bc2d7c3",
+      "title": "Customer Success Intern",
+      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6194716004",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+    },
     {
       "id": "d46d4977bad808c1400645ab9156dee74a99bd05",
       "title": "Revenue Operations Intern",
@@ -109,13 +116,6 @@
       "title": "Creative Operations Knowledge Migration Intern",
       "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6186911004",
       "location": "Chicago, Illinois, United States",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "9f3aa298ae94e65848932429b666d4dbe50c9ff8",
-      "title": "Corporate Communications Intern",
-      "url": "https://job-boards.greenhouse.io/smartlyio/jobs/6186907004",
-      "location": "New York, New York, United States",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
