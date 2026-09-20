@@ -2,21 +2,25 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 13,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
+      "hub": "San Francisco",
+      "count": 10
+    },
+    {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -28,18 +32,81 @@
     0,
     0,
     1,
-    0,
+    12,
     0,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "0df482d1a626b46d598d1b609562b2ea91330773",
-      "title": "Junior/Senior/Staff Software Engineer, Inference / Compute Infrastructure Engineering",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5213322007",
-      "location": "Amsterdam",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
+      "id": "106221211863ec35cecfa18583992f83367a5429",
+      "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238411007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "85c5b69de3c307d96d61b36f735376666b2aa796",
+      "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "daba66f515c6073a17ffdda968bd69a8f99429df",
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "818213fd8d8ed9de6cb6836cc6a8f49d04d6c6b6",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "443996c73b59ce6e16b67a494eaba8158d76be89",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "d64807a87f9fb5068430060763421c8890faaf7e",
+      "title": "Software Development In Test Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "b7e5c78c195ccfc73453a03b8c3a76a14bc0f40e",
+      "title": "Research Intern, Model Shaping (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
+      "location": "San Francisco, Amsterdam",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "803c6deab1e6d78adc6d539f42cd767c236ebd5c",
+      "title": "Research Intern, Model Shaping (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
+      "location": "San Francisco, Amsterdam",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "c85176c545f81d3d9b438018af9772b43fa3ada0",
+      "title": "Research Intern, Inference (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "7c131432e5243fbf0c0ee41cca2abb7c7f52ec4c",
+      "title": "Research Intern, Inference (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]
 }

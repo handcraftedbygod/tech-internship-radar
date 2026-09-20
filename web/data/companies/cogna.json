@@ -2,21 +2,21 @@
   "slug": "cogna",
   "name": "Cogna",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "26c1dffda1ef76641b7371340bf028d358292775",
+      "title": "Software Engineer Intern (2027 Cohort)",
+      "url": "https://apply.workable.com/j/45A6283F88?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "66d0f104bcb2be7f67e35e4aebdbfe02b6731a76",
       "title": "Junior Backend Engineer (App Delivery)",

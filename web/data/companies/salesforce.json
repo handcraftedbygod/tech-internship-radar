@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -16,28 +16,28 @@
       "count": 2
     },
     {
+      "hub": "San Francisco",
+      "count": 2
+    },
+    {
       "hub": "Dublin",
       "count": 2
     },
     {
       "hub": "Amsterdam",
       "count": 1
-    },
-    {
-      "hub": "San Francisco",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "biz",
+      "label": "Business",
       "count": 5
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 4
+      "id": "swe",
+      "label": "Software",
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -49,12 +49,19 @@
     0,
     1,
     4,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20d80b6c58544b6810ef1679e8be0dfdc3352718",
+      "title": "Summer 2027 Intern - Recruiting Data Intelligence",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Recruiting-Data-Intelligence_JR360432-1",
+      "location": "California - San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "af5b466aa70911863b57dc3a47165178c1ecb9b9",
       "title": "Summer 2027 Intern - Sales Development, Nonprofit",

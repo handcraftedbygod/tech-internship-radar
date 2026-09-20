@@ -2,21 +2,21 @@
   "slug": "peagle",
   "name": "Peagle GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42d7a3d764e526b3c7b516e21e53b9c4e9497a4e",
+      "title": "Junior Software Engineer (m/w/d) Top Tier Team",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003729622-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "8e546bd4528ef86cb396223c6071b0f48bfc633c",
       "title": "Junior Software Engineer (m/w/d) Top Tier Team",

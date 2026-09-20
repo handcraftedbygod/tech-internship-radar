@@ -2,21 +2,21 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 21.4,
   "topLocations": [
     {
       "hub": "Montreal",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "570d216d76a5e29a9a45eb3a19a2d5c5d6c50fe0",
+      "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",
+      "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-913e31",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "a6346ad2ce505ec62665582b19c7f78883999b56",
       "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",

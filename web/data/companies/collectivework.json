@@ -2,20 +2,25 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -28,12 +33,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff525c71053cd5d7f2bda8929b79dfd2837fb4cf",
+      "title": "Junior Data Scientist - PARIS - Anglais courant obligatoire - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzAzMDMwMCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "a382213b916451e98dac75008717669a79717b28",
+      "title": "Junior Data Scientist - PARIS - Anglais courant obligatoire - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzAzMDMwMCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "21b4ed2b30c31b39f146c7d2b60820f02c0d35c2",
       "title": "SRE Engineering Platform Devops Junior H/F - Freelance",

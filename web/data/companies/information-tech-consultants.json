@@ -2,9 +2,9 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     4,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7fd83f3a0463bb7691267ccab8dfd7ea76bfe123",
+      "title": "Junior Data Analyst",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__538913806__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "dc40e294c19474fb6b54bedda951f8f2d8e81e50",
       "title": "Junior Data Engineer: Python, SQL & ML Dashboards",

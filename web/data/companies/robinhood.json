@@ -2,9 +2,9 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 34,
+  "currentOpenings": 35,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 35,
+  "totalPostings": 36,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Toronto",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "biz",
@@ -55,12 +55,19 @@
     0,
     0,
     2,
-    33,
+    34,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3cf4c212ed737a7c2876db2d5f72f65c5b38b11b",
+      "title": "Offensive Security Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "bd05b43a6f40c61f89389e9c648a6e613c3da7b6",
       "title": "Security Risk Management Intern (Summer 2027)",
@@ -121,13 +128,6 @@
       "id": "a3a0fc7d4130d5b9a1dfb47647b6824768a5ea54",
       "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
       "url": "https://www.themuse.com/jobs/robinhood/software-developer-interncoop-backend-winter-2027",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "108efa21e7a9f6c7ebc30c79f1e39575c8b260ce",
-      "title": "Software Developer Intern, iOS (Summer 2027)",
-      "url": "https://www.themuse.com/jobs/robinhood/software-developer-intern-ios-summer-2027",
       "location": "Toronto, Canada",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }

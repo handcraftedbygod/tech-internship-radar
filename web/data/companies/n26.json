@@ -2,9 +2,9 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 19.2,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Barcelona",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "biz",
@@ -41,12 +45,19 @@
     0,
     3,
     6,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39696db5145965bdb63d070d10bfa644b762c258",
+      "title": "Junior Data Analyst - Customer Identity",
+      "url": "https://t.me/newdirections/7015?utm_source=freehire.me",
+      "location": "Германия",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "baa21d49602f0f598ac46ac16d6bf6625dd1c538",
       "title": "Junior Android Engineer - Payments",
@@ -109,13 +120,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8009935?gh_jid=8009935",
       "location": "Madrid",
       "firstSeenAt": "2026-08-03T06:58:28.460Z"
-    },
-    {
-      "id": "2cea4a0c0c95b81d9a7f53a48defa2f31a24a48c",
-      "title": "Junior Backend Engineer - Customer Identity",
-      "url": "https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505",
-      "location": "Barcelona",
-      "firstSeenAt": "2026-07-26T06:34:48.431Z"
     }
   ]
 }

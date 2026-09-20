@@ -1,0 +1,45 @@
+{
+  "slug": "hylight",
+  "name": "HyLight",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-20T09:06:52.490Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "37fdef9abd584e78398af20f6d33a2ad0bcda6d9",
+      "title": "Embedded Software Internship",
+      "url": "https://www.adzuna.fr/details/5889519096?utm_medium=api&utm_source=9141e2e6",
+      "location": "Paris, Ile-de-France",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    }
+  ]
+}

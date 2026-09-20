@@ -2,21 +2,21 @@
   "slug": "sunlife",
   "name": "sunlife",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e41421c24ce115304775cdf2f405b736b0250fa",
+      "title": "Data Engineering Intern",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering-Intern_JR00127686?utm_source=freehire.me",
+      "location": "Waterford, Waterford, Ireland",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "d97b5e6c202fefe7a86311f34b4e361376e09b38",
+      "title": "Data Engineering – Intern",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Data-Engineering---Intern_JR00127412?utm_source=freehire.me",
+      "location": "Waterford, Waterford, Ireland",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "3b0555094ae27725a82ef84715f9299d8ef9531c",
       "title": "Part time Data Junior Data Engineer",

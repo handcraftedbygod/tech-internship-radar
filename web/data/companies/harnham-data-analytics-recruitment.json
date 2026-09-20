@@ -2,14 +2,14 @@
   "slug": "harnham-data-analytics-recruitment",
   "name": "Harnham - Data & Analytics Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     4,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6216ba3494d1bf7715d3ea739b33a7654edf620a",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5884160418?se=UHlj5wCx8RG93IgDMWGShQ&utm_medium=api&utm_source=freehire.me&v=6FF0A11B4D46F272932D105BDD91B0D264716E83",
+      "location": "London, UK",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "4f1ee26ff1d28e1dfdf8efa96bca9c0226332cd6",
       "title": "Junior Data Engineer",

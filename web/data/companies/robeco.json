@@ -2,20 +2,25 @@
   "slug": "robeco",
   "name": "robeco",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45cd68ca7b0eaeebd7bd1c3aa82f26779c73b810",
+      "title": "Junior Azure Cloud Engineer",
+      "url": "https://robeco.wd3.myworkdayjobs.com/robecoexternalcareers/job/The-Netherlands-Rotterdam/Junior-Azure-Cloud-Engineer_R2246?utm_source=freehire.me",
+      "location": "The Netherlands, Rotterdam",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "7427ff04d1faf81162efa98cd036a251c5404f6b",
       "title": "Junior Climate Data Scientist",

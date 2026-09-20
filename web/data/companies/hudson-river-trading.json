@@ -2,21 +2,21 @@
   "slug": "hudson-river-trading",
   "name": "Hudson River Trading",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 45.1,
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e8a1cdda7c44f807116507754e204c3571c5838d",
+      "title": "Junior Trading Systems Engineer",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8046074&utm_source=freehire.me",
+      "location": "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "e4fb85569f687c60181767e116563e4ccd1c0d65",
       "title": "Software Engineering Internship (C++ or Python) – Summer 2027",

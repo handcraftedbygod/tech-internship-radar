@@ -1,0 +1,59 @@
+{
+  "slug": "gm-financial",
+  "name": "GM Financial",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-09-20T09:06:52.490Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8941221e91c05a5a202ed6806cec81902a2f4216",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://www.themuse.com/jobs/gmfinancial/intern-software-development-engineer-048763",
+      "location": "Arlington, TX",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "fc3fd4873e9babb37ed816f079f24bf581fd3a0c",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://www.themuse.com/jobs/gmfinancial/intern-software-development-engineer-2c0144",
+      "location": "Arlington, TX",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "272083c96d35a78228bd39b3f619449f35bdd333",
+      "title": "Intern - Software Development Engineer",
+      "url": "https://www.themuse.com/jobs/gmfinancial/intern-software-development-engineer-eb6c38",
+      "location": "Arlington, TX",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    }
+  ]
+}

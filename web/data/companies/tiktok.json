@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 122,
+  "totalPostings": 123,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 98
+      "count": 99
     },
     {
       "hub": "Seattle",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 30
+      "count": 31
     },
     {
       "id": "biz",
@@ -46,12 +46,19 @@
     0,
     0,
     114,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56d3d9f5c99978184f18a131e79c5526279617dc",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-recommendation-mall-2027-start-phd-9d033a",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "291a9d091345e214e42074c7c95eafc818857fe4",
       "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall",
@@ -112,13 +119,6 @@
       "id": "45b04bfdb0e6160ca1f65ac9824776c1f622a36d",
       "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
       "url": "https://www.themuse.com/jobs/tiktok/site-reliability-engineer-intern-global-sre-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "cd496b1ac2c19456af87f40a1785eba40fa53cab",
-      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-recommendation-architecture-feeds-infrastructure-2027-summer",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }

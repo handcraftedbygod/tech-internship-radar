@@ -2,21 +2,25 @@
   "slug": "perplexity",
   "name": "Perplexity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Berlin",
       "count": 4
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3800f18930ffaf8e026ab65068c4617fbe3e0d2e",
+      "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
+      "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "76ee30f220b210da5eb780379f02dd164eba93b9",
       "title": "Internship - Machine Learning Research Engineer",

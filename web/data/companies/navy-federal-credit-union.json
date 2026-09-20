@@ -2,26 +2,26 @@
   "slug": "navy-federal-credit-union",
   "name": "Navy Federal Credit Union",
   "tier": null,
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 11
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 10
+      "id": "swe",
+      "label": "Software",
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     1,
-    20,
+    21,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de5e63674e8b758f27e9b4ed42df45e66fe9dbd7",
+      "title": "Intern - Year Round (Workplace Infrastructure & Analytics - Data Analyst)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32376?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "b95114fa049e0aef647f0b3f671b766d9dc9c6fd",
       "title": "Summer Associate Internship (Product Security Engineer)",
@@ -101,13 +108,6 @@
       "url": "https://www.themuse.com/jobs/navyfederalcreditunion/summer-associate-internship-mobile-developer",
       "location": "Winchester, VA",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "7f43262d510516fd982ae49ba2355ceb62ce6963",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32434?utm_source=freehire.me",
-      "location": "Vienna, VA, United States",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

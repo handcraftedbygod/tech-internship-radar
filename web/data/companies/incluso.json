@@ -2,21 +2,21 @@
   "slug": "incluso",
   "name": "Incluso AB",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
@@ -33,12 +33,26 @@
     0,
     0,
     3,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "48f993f4fa09bc8744c83b5bb654d3efb37388bb",
+      "title": "Junior Data Analyst/Product and Services Management",
+      "url": "https://openings.incluso.se/jobs/8405330-junior-data-analyst-product-and-services-management?utm_source=freehire.me",
+      "location": "Jönköping, SE",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "e0570a2f6e73505f77438d4f66d42004369e05e5",
+      "title": "Junior Data Analyst/Product and Services Management",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5NzU4NyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "a88aa03b74296c6ef1bcbad95adfc9f82247dc7d",
       "title": "Junior Java AWS Developer",

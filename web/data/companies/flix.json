@@ -1,0 +1,52 @@
+{
+  "slug": "flix",
+  "name": "Flix",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-20T09:06:52.490Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d857027fb2c26371c070fa5baf2bc121d1779a76",
+      "title": "Junior Data Engineer",
+      "url": "https://flix.careers/job/8785286002?gh_jid=8785286002&utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
+    {
+      "id": "c7fe087498118c805e4fb76c254e65f733f493dd",
+      "title": "Junior Data Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/flix/junior-data-engineer-berlin-484779",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    }
+  ]
+}

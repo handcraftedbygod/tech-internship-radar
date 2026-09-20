@@ -2,13 +2,17 @@
   "slug": "voi-technology",
   "name": "Voi Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c211d5e8f70ae2e731812be02ce1e7e896251705",
+      "title": "Fleet Specialist Associate (working student) - m/f/d",
+      "url": "https://careers.voi.com/jobs/8401890-fleet-specialist-associate-working-student-m-f-d",
+      "location": "Ismaning",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "d302ccec27b9afb784d37b61ba302ba6039a436d",
       "title": "Sustainability Controller Intern (Stockholm) - Full-Time",

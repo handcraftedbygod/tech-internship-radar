@@ -2,9 +2,9 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 25,
+  "totalPostings": 26,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -49,12 +49,19 @@
     0,
     0,
     19,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d391863b0f66ecca159f03466fe3270b8571a65",
+      "title": "Werkstudent*in Produktionsqualität Schwerpunkt Data Science",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1634167-1-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "ae9c554862e8ba1214314ba24be5167ef76f9512",
       "title": "Praktikant*in als Data Analyst - Produktionsversorgung Montage (Pflicht-Praktikum)",
@@ -117,13 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1622758-1-S",
       "location": "Stuttgart",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "68f3fc0ce440fb468ebcca9d8fc1c6fe2c5f1212",
-      "title": "Praktikant*in Data Engineering im Investcontrolling",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1587680-2-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

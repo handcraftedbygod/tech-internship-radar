@@ -2,21 +2,21 @@
   "slug": "netcompany1",
   "name": "Netcompany1",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83f8e719386ac5a1f8d677e3446468a157b18239",
+      "title": "Junior Java Developer (f/m)",
+      "url": "https://jobs.smartrecruiters.com/Netcompany1/744000150294294-junior-java-developer-f-m-?utm_source=freehire.me",
+      "location": "Warsaw, Masovian Voivodeship, pl",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "d15053187a6023b9abbcbbfb2be57107c60e5e81",
       "title": "Junior .NET Developer for Netcompany Banking Services (f/m)",

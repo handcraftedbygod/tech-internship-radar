@@ -2,20 +2,25 @@
   "slug": "nrf",
   "name": "nrf",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b08e96d0fcfa9f4fbc9b60cd9054b7d94fb73110",
+      "title": "Junior Data Scientist",
+      "url": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Scientist_R-4378?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "d361ae0a6e156c90c366bd656e2f7d2e2a88903b",
       "title": "Junior Data Analyst",

@@ -2,21 +2,21 @@
   "slug": "vertraulich",
   "name": "Vertraulich",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b37a0172ae72dcb3747d5aa33a6e624b92df77c",
+      "title": "Junior Software Developer / IT Specialist in Application Development (m/f/d)",
+      "url": "https://www.adzuna.de/land/ad/5890142937?se=5Pt_7CS08RG7SYksyA1uLQ&utm_medium=api&utm_source=freehire.me&v=C5577529E21D53ADB656BC7CBFB75EB3CC0994B5",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+    },
     {
       "id": "c8139ca041b90208d6a62d2aa38af665352e6ad1",
       "title": "Netzwerkspezialist:in/ (Junior) Network Engineer (m/w/d)",
