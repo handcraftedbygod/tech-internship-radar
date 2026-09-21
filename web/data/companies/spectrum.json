@@ -2,21 +2,21 @@
   "slug": "spectrum",
   "name": "Spectrum",
   "tier": null,
-  "currentOpenings": 28,
+  "currentOpenings": 29,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 31
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 27
     },
     {
       "id": "biz",
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    30,
+    31,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89ab4bdeb55072263bc1ba2dd340774afd470aed",
+      "title": "2027 Summer Intern: Software Engineer - P&T",
+      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-pt",
+      "location": "Maryland Heights, MO",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "de1f9baf8a433c66d706e96ba6ede30215ce4d3a",
       "title": "2027 Summer Intern:Associate DevOps Engineer​ (Customer Operations)",
@@ -100,13 +107,6 @@
       "title": "2027 Summer Intern: Software Engineer",
       "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-software-engineer-436353",
       "location": "St. Louis, MO",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "3675a2c7ad92625b49cb83c581a5e244ea43928a",
-      "title": "2027 Summer Intern: Systems Engineer - Video",
-      "url": "https://www.themuse.com/jobs/spectrum/2027-summer-intern-systems-engineer-video",
-      "location": "Greenwood Village, CO",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]

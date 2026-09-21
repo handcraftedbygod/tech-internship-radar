@@ -1,0 +1,45 @@
+{
+  "slug": "deliveroo",
+  "name": "Deliveroo",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-21T09:38:26.661Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6f4985c56235f1f95276d3443098d9daad85a6eb",
+      "title": "Software Engineer, New Grad",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-new-grad-london-363",
+      "location": "London",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    }
+  ]
+}

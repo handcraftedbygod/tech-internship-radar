@@ -2,14 +2,14 @@
   "slug": "hp-scds",
   "name": "HP SCDS",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    13,
+    14,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b3f9a2ba06bf619e3bfe3affde73c4bcbd37b3aa",
+      "title": "Junior Data Engineer — 3D Data Team (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352714091__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "bb971945f4dc3eb6fe523363edcf50b5724fc49e",
       "title": "Junior Data Engineer — 3D Data Team (Hybrid)",
@@ -98,13 +105,6 @@
       "id": "b94facfd1dff1aae8e94b8235ea2181342cb5043",
       "title": "Junior SQL Data Engineer",
       "url": "https://es.whatjobs.com/pub_api__cpl__349407677__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "LEON, Spain",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "44b1808ee6beb6498723035d6d305b38fa17d0b2",
-      "title": "Junior Big Data Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349608131__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "LEON, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }

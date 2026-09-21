@@ -2,14 +2,14 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "hw",
@@ -38,12 +38,26 @@
     0,
     0,
     8,
-    4,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee2996ac9ae3ff71c6624dcaf5978f9fef55ece7",
+      "title": "(Junior) Full-Stack Developer (f/m/d) for Strategic Projects",
+      "url": "https://jobs.sap.com/job/Potsdam-%28Junior%29-Full-Stack-Developer-%28fmd%29-for-Strategic-Projects-14469/1439105333/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
+    {
+      "id": "1007d1db0acac6c38e5b0ecd7d639fb1cb548d58",
+      "title": "(Junior) Full-Stack Developer (f/m/d) for Strategic Projects",
+      "url": "https://jobs.sap.com/job/Potsdam-%28Junior%29-Full-Stack-Developer-%28fmd%29-for-Strategic-Projects-14469/1439105233/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "e78d430680e5c96fcf15c871cea1f2f671b48067",
       "title": "Working Student (f/m/d) - SAI-native Software Development",
@@ -99,20 +113,6 @@
       "url": "https://pl.whatjobs.com/pub_api__cpl__27361727__7143?geoID=632&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Gliwice, Poland",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "86bc8b0cbf7fbd2099a757f8e624aca020b94452",
-      "title": "Junior Software Engineer: Mediation & Data Integration",
-      "url": "https://pl.whatjobs.com/pub_api__cpl__27483336__7143?geoID=632&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Gliwice, Poland",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "06c0c5d789d85f8cd2a220784edbad4d0be380ca",
-      "title": "Working Student (f/m/d) AI and Data Scientist in PhD Programs and Embedded Research",
-      "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-ai-and-data-scientist-in-phd-programs-and-embedded-research-sap-69190-walldorf--2390278.html",
-      "location": "Walldorf, Baden",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

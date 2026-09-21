@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 24,
-  "avgPostingDurationDays": 11.2,
+  "totalPostings": 25,
+  "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,19 @@
     0,
     0,
     20,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8ac0cff46e68952b7a1b37848bec348aa2f432f",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__353023744__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "b47dcbc7ebc448bfd83c5a61e0e749b09d2e127c",
       "title": "Junior DevOps & Cloud Engineer - Sngular",
@@ -109,13 +116,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__344148243__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "ddcc4f8f7f12cb099ef8c6eb78edabdbcfc252f5",
-      "title": "Desarrollador De Backend Junior - Palma De Mallorca",
-      "url": "https://es.whatjobs.com/pub_api__cpl__342895011__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Spain",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

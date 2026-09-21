@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 38,
+  "currentOpenings": 37,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 48,
-  "avgPostingDurationDays": 14.9,
+  "totalPostings": 49,
+  "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 40
+      "count": 41
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     0,
     33,
-    15,
+    16,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7496f2d667800610ca563b7a86983c071d9c35c4",
+      "title": "Junior PRL",
+      "url": "https://careers.glovoapp.com/job/junior-prl-in-barcelona-spain-jid-744000150631881/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "3d41218da56f0573e96e803b3049f7598ce61c13",
       "title": "Junior Operations Data Analyst Forecasting - AFR",
@@ -112,13 +119,6 @@
       "title": "SMB Ads Sales Intern Portugal",
       "url": "https://careers.glovoapp.com/job/smb-ads-sales-intern-portugal-in-lisbon-portugal-jid-744000148174047/",
       "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "a9298d78868ef0c761b05370b8848c4a90d5606e",
-      "title": "Junior Tax Analyst - HQ",
-      "url": "https://careers.glovoapp.com/job/junior-tax-analyst-hq-in-barcelona-spain-jid-744000148261910/",
-      "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]

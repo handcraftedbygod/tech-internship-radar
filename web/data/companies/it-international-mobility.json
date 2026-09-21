@@ -2,9 +2,9 @@
   "slug": "it-international-mobility",
   "name": "IT International Mobility",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f169b628ab68125386615b2ae76ee30415a339ea",
+      "title": "Madrid Junior Software Engineer: CI/CD & DevOps",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352741827__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "02493c474254803c6c93f4f4eb3864b8c472ae87",
       "title": "Madrid Junior Software Engineer: CI/CD & DevOps",

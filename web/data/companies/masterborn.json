@@ -2,21 +2,21 @@
   "slug": "masterborn",
   "name": "MasterBorn",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf526cc9e549b9a7a8c5f5d91607de69ec3bbb31",
+      "title": "Junior Frontend Developer (React.js)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29861499__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "80a824097205f3601a6c6d8c9e6c96165cd5ae52",
       "title": "Junior Frontend Developer (React.js)",

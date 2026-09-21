@@ -2,26 +2,26 @@
   "slug": "rohde-schwarz",
   "name": "Rohde & Schwarz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a56fe667808b5f9e9825d4bae983d18983f8b953",
+      "title": "Intern Artificial Intelligence & Machine Learning (m/f/d)",
+      "url": "https://job.rohde-schwarz.com/job/Munich-Intern-Artificial-Intelligence-&-Machine-Learning-%28mfd%29-81671/1407952933/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
+    {
+      "id": "c19673c93df53515d8e4f13d47de14ca754817fe",
+      "title": "Intern DevOps Automation (m/f/d)",
+      "url": "https://job.rohde-schwarz.com/job/Munich-Intern-DevOps-Automation-%28mfd%29-81671/1408682433/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "8be3567eee4c7056442f3aed3755ec70d561e09b",
       "title": "(Junior) Systems Engineer Integration Naval Systems (m/f/d)",

@@ -2,14 +2,18 @@
   "slug": "cisco-systems",
   "name": "Cisco Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Krakow",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ec4514c4a7fb5c4c799d085b57c1ac2ff0bf4b8a",
+      "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29847252__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "7f70e836f6e40fe6c795b145d4a4ab351ff910c9",
       "title": "Junior Cloud Software Engineer – AI & DevOps",

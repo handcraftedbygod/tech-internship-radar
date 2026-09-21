@@ -2,20 +2,25 @@
   "slug": "canon-production-printing-netherlands",
   "name": "Canon Production Printing Netherlands B.V.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee86a26b316ad9eaa79fab0af36c4c11e3345e80",
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.cpp.canon/job/DefaultSFJobLocation-Junior-Software-Engineer/1436681333/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-21T09:38:26.661Z"
+    },
     {
       "id": "981eadbfcf6fca90541074e02139e3b8ee6f71f3",
       "title": "MSc: Internship Data Science/AI/Biomedical Engineering - Diagnosing print quality anomalies",
