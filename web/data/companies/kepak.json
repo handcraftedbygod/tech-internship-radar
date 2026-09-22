@@ -2,13 +2,17 @@
   "slug": "kepak",
   "name": "Kepak Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Dublin",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cea7847edd40ad938f5be29ee1c8960e3d251bf3",
+      "title": "Junior Data Engineer",
+      "url": "https://apply.workable.com/j/77AB622954?utm_source=freehire.me",
+      "location": "Dublin, County Dublin, Ireland",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "44dfebeb0443cffaf4eb7532ab72c0a7aa9a7816",
       "title": "Junior Operations Data Analyst - Boning Hall & Abattoir",

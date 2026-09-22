@@ -2,14 +2,14 @@
   "slug": "indiekidz",
   "name": "IndieKidz GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a2af40a09a49709841c3c8e5e5727aca98016bd",
+      "title": "Software Test (QA) Automation Engineer - Mandatory Internship (Unpaid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-mandatory-internship-unpaid-berlin-403562",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "a1e7db8bba55d1079bae6c785823efa3804faf43",
       "title": "Software Test (QA) Automation Engineer - Mandatory Internship ",

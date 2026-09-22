@@ -2,14 +2,14 @@
   "slug": "figma",
   "name": "Figma",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "London",
@@ -32,13 +32,13 @@
       "count": 2
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -51,12 +51,19 @@
     0,
     1,
     3,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5857115ed784f318a43aaea4915a4818f327303a",
+      "title": "PhD Intern, Data Science (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "995eb6c9844b8c27d4ab7cf825bd638345c02a0f",
       "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
@@ -119,13 +126,6 @@
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
       "location": "San Francisco, CA, New York, NY",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "91c472702e1a6c9c8e2c5a807202ef32f6a28a9d",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
-      "location": "San Francisco, CA • New York, NY",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

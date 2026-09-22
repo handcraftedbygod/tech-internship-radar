@@ -2,21 +2,21 @@
   "slug": "medisolution",
   "name": "MediSolution",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33ec5ad4521da772d4e32bdb5ca36cbb114ee1d8",
+      "title": "Junior Full-Stack Developer: Build Modern Apps",
+      "url": "https://es.whatjobs.com/pub_api__cpl__353491839__7107?geoID=3565&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Móstoles, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "364d3c6bcf29d4ac60e7781d6fbfb0498b00747f",
       "title": "Junior Full-Stack Developer",

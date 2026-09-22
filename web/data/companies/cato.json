@@ -2,21 +2,21 @@
   "slug": "cato",
   "name": "Cato",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be77ba058a3ac76eef14ff17e8c0c7ad1f5f25a8",
+      "title": "Junior data engineer - España",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352730498__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "c29bcd84f191ab06bf0a5524f7de63dc4265b236",
+      "title": "Junior Data Engineer: Scrapers, ETL & AI Enrichment",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352738785__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "73c9f2badecb71f9f741cb3b5a267279b83f08a8",
       "title": "Junior Data Engineer: Scrapers, ETL & AI Enrichment",

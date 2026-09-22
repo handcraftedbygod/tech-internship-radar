@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "078496c0d335b0781dcba6c69869d36ed0cc0880",
+      "title": "Software Engineer Trainee",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/36522?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "bec5afca9d54748932f5c286ac0eca473605da68",
       "title": "AI-Native DevOps Engineer Trainee",

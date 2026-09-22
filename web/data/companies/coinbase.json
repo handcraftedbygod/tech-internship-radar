@@ -2,14 +2,14 @@
   "slug": "coinbase",
   "name": "Coinbase",
   "tier": "notable",
-  "currentOpenings": 24,
+  "currentOpenings": 26,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 25,
+  "totalPostings": 27,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 17
+      "count": 19
     },
     {
       "hub": "San Francisco",
@@ -25,12 +25,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "product",
@@ -52,12 +52,26 @@
     0,
     0,
     0,
-    25,
+    27,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9694b764978785c9fa17944de85b0ebec91fcb9b",
+      "title": "Tax Information Reporting Intern",
+      "url": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241",
+      "location": "Hybrid - New York, NY",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "aa289da475940f55449f3981545ccdf82181bfff",
+      "title": "Internal Audit Analytics Intern",
+      "url": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
+      "location": "Hybrid - New York, NY",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "79533b00cedb1a61f2de77118d0b4e0aa314e72c",
       "title": "User Research Intern",
@@ -112,20 +126,6 @@
       "title": "Product Design Intern",
       "url": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
       "location": "Hybrid - San Francisco, CA",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "f6873cc57221cac88e1eec5e6a6356c28d1ca40e",
-      "title": "Policy Intern",
-      "url": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556",
-      "location": "Hybrid - New York, NY",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "c6f4e90dc1095cf5dc67ba1c159dd10b8cfef888",
-      "title": "People Analytics Intern",
-      "url": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
-      "location": "Hybrid - New York, NY",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "emagine",
   "name": "emagine",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Lisbon",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -42,12 +42,19 @@
     0,
     0,
     4,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6bce62dbff3dfc8674cfe4b2f5d9a42528db1dfb",
+      "title": "Junior Test Developer with German",
+      "url": "https://portal.emagine.org/jobs/180375/junior-test-developer-with-german?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "b05d59ed868af5132848ac3f8f16df361df428ea",
       "title": "Junior/Mid-Level Data & Machine Learning engineer",

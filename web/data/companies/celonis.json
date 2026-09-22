@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 46,
+  "totalPostings": 47,
   "avgPostingDurationDays": 37.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 28
+      "count": 29
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 20
+      "count": 21
     },
     {
       "id": "swe",
@@ -64,12 +64,19 @@
     0,
     27,
     10,
-    9,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4a69c3e337fadd05b6c1b3da7fc2367ecc649800",
+      "title": "Customer Advocacy  & Customer Marketing Graduated Internship (12 months) ",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7998286003?gh_jid=7998286003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "49b3103e4272a2d96ce4de1e8655f888c6305cc6",
       "title": "Intern Strategic Program Management",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7821371003?gh_jid=7821371003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "db0edffbb630b9d5827d6c0100caf74f46f63f60",
-      "title": "(Graduated) Intern Academy Operations & Technology",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977932003?gh_jid=7977932003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

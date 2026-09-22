@@ -15,6 +15,13 @@
       "url": "https://www.ycombinator.com/companies/revnu"
     },
     {
+      "name": "Juno",
+      "oneLiner": "AI Health Assistant for Chronic Illness",
+      "batch": "Spring 2026",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.ycombinator.com/companies/juno-chat"
+    },
+    {
       "name": "Elyra",
       "oneLiner": "AI Reservation System for Restaurants ",
       "batch": "Spring 2026",
@@ -202,16 +209,16 @@
       "batch": "Spring 2025",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/plexe"
-    },
-    {
-      "name": "nao Labs",
-      "oneLiner": "Open Source Analytics Agent",
-      "batch": "Spring 2025",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.ycombinator.com/companies/nao-labs"
     }
   ],
   "northAmerica": [
+    {
+      "name": "TrueMile",
+      "oneLiner": "AI agents that run trucking operations.",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/truemile"
+    },
     {
       "name": "Ignition Benefits",
       "oneLiner": "The AI-Native Benefits Brokerage",
@@ -262,11 +269,25 @@
       "url": "https://www.ycombinator.com/companies/covera"
     },
     {
+      "name": "Vernius Systems, Inc.",
+      "oneLiner": "Mass-deployable radars for air defense",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/vernius-systems-inc"
+    },
+    {
       "name": "Hemlock",
       "oneLiner": "Force-sensing wristband for training robotic AI",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/hemlock"
+    },
+    {
+      "name": "TryNearby",
+      "oneLiner": "Local creators for local businesses",
+      "batch": "Summer 2026",
+      "location": "Los Angeles, CA, USA",
+      "url": "https://www.ycombinator.com/companies/trynearby"
     },
     {
       "name": "Lambda Robotics",
@@ -400,27 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/bloomy"
-    },
-    {
-      "name": "Marble",
-      "oneLiner": "The autonomous back-of-house for restaurants.",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/joinmarble"
-    },
-    {
-      "name": "Glen",
-      "oneLiner": "Institutional Learning Layer for Every Agent in Your Company",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/glen"
-    },
-    {
-      "name": "Hop Aero",
-      "oneLiner": "Rocket cargo delivery to contested environments",
-      "batch": "Summer 2026",
-      "location": "Los Angeles, CA, USA",
-      "url": "https://www.ycombinator.com/companies/hop-aero"
     }
   ]
 }

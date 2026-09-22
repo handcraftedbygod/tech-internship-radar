@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 19,
+  "totalPostings": 21,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 21
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     13,
-    6,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fab289ddf789308445bdcf0b861f98a98f65cdf2",
+      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57371577",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "61a92681de1e06887af421d5ca35d438c49e32d8",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57371580",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "5bf5915cdab78f1ee3e30027c40686634a766131",
       "title": "Trainee Data Analyst",
@@ -89,20 +103,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57285385",
       "location": "Liverpool",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "7f7f0a6c84a8dc5283e84e8d324a62f060b82e2e",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57272374",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "b2d841b7f306935c2a229df2bfa92c334c046a19",
-      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57272383",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

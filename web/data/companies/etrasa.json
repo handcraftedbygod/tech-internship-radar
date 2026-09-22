@@ -2,21 +2,21 @@
   "slug": "etrasa",
   "name": "Etrasa",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aadc74a5623988538643ed60ed417a0722ddebcf",
+      "title": "Junior Full-Stack Developer — C# / Angular Web Apps",
+      "url": "https://es.whatjobs.com/pub_api__cpl__353812590__7107?geoID=3565&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Móstoles, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "6d8016e34f861b74d74fc50163d4ae1036feba85",
       "title": "Junior Full-Stack Developer",

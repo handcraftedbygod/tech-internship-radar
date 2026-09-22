@@ -2,21 +2,21 @@
   "slug": "treehouse-nl",
   "name": "TreeHouse NL",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     1,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "120b85a5be6fc9868a91ec2cf6f411620fc6afe0",
+      "title": "Junior Data Engineer - Build Data Pipelines in Cloud",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__166373041__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "e9400680ce61a406fb415dce1d4a5672e772e02f",
+      "title": "Junior Data Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__166374625__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "f77b0874193ed9196dee5f961d720e8f22d2a378",
       "title": "Junior Data Engineer",

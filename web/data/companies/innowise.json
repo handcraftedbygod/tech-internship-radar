@@ -2,14 +2,14 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f0d40ecad75cadea2bb30354a9055f1dccbb8a41",
+      "title": "Trainee Data Engineer (with German)",
+      "url": "https://nofluffjobs.com/job/trainee-data-engineer-with-german-innowise-warsaw?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "0783d51ca4cf34aa487e1c606b3ac8bfec19ea66",
       "title": "Trainee GenAI Low-code Developer (Copilot Studio)",

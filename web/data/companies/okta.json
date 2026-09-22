@@ -2,21 +2,21 @@
   "slug": "okta",
   "name": "Okta",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8716c90fc7c7e338ebbe2ff95f205e316daa7faa",
+      "title": "Associate Program Analyst (New Grad)",
+      "url": "https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584",
+      "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "b12d083f70b045a8f219640bbc1a741fa0c9f5b8",
       "title": "Developer Support Associate (New Grad)",

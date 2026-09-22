@@ -2,21 +2,21 @@
   "slug": "voluntae",
   "name": "VOLUNTAE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e0ff6b773502305a206968b443a7e1afe35c4cf",
+      "title": "Business Developer BtoB Junior (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzA1MzUyMCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "e71726cdebced2cc42f36dfde545c19d31566c3a",
+      "title": "Business Developer BtoB Junior (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzA1Mzc5MCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "dd2fbe545cc5a0fa4d1d89f9586c9ecf3a8d6bc5",
       "title": "Business Developer BtoB Junior (H/F)",

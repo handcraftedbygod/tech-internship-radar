@@ -2,21 +2,21 @@
   "slug": "infotree-global-solutions",
   "name": "Infotree Global Solutions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8a0cece6a13d36304965b80b6cdc72c29fc0b7e",
+      "title": "Junior Python Developer",
+      "url": "https://himalayas.app/companies/infotree-global-solutions/jobs/junior-python-developer?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "92ff089290d715439c59bd38bcb6db03dc7201c2",
       "title": "Junior Python Developer",

@@ -2,14 +2,14 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    12,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cc66eee30e3abc19ff08a0749072eeab2bc4712",
+      "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5186628007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "106221211863ec35cecfa18583992f83367a5429",
       "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
@@ -98,13 +105,6 @@
       "id": "c85176c545f81d3d9b438018af9772b43fa3ada0",
       "title": "Research Intern, Inference (Winter 2027)",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
-      "location": "San Francisco",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "7c131432e5243fbf0c0ee41cca2abb7c7f52ec4c",
-      "title": "Research Intern, Inference (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
       "location": "San Francisco",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }

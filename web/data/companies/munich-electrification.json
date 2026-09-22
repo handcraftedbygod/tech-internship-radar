@@ -2,21 +2,21 @@
   "slug": "munich-electrification",
   "name": "Munich Electrification",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cfe070aabe524d0ee16f03af27e1f9837e498e32",
+      "title": "Working Student – Software Development (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/working-student-software-development-munich-498489",
+      "location": "Munich",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "2c069aaf41af423a63f9f45d9798ac21bc3c40a1",
       "title": "Working Student – Software Development (f/m/d)",

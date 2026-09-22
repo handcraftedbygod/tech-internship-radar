@@ -2,21 +2,21 @@
   "slug": "detego-global",
   "name": "Detego Global",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e665be062e7cc2eb0735aa7515d104dfe08ba24e",
+      "title": "Junior DevOps Engineer (UK)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__540381910__7082?geoID=617&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Horsham, United Kingdom",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "836c4609c8b883f61724731719af0813461a42eb",
+      "title": "Junior DevOps Engineer: Cloud CI/CD & Automation",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__540380960__7082?geoID=617&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Horsham, United Kingdom",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "11b7fc43d8490655cd7c5e426c4f0b0714dfce1f",
       "title": "Junior DevOps Engineer",

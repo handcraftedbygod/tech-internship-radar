@@ -2,21 +2,21 @@
   "slug": "amphora-logistics",
   "name": "Amphora Logistics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39cb0ac5ae2cf79a48beff6ad41a5ee99c954e47",
+      "title": "AI Product - Software Developer Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__352074667__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "175f2c426e16012d960384932775e77dac8a7a80",
       "title": "AI Product - Software Developer Junior",

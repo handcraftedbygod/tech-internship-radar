@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 37,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 49,
+  "totalPostings": 50,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 25
+      "count": 26
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 41
+      "count": 42
     },
     {
       "id": "biz",
@@ -45,12 +45,19 @@
     0,
     0,
     33,
-    16,
+    17,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c410f754e877717a88049955268c41a8dbac5e83",
+      "title": "Junior Fintech Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-fintech-analyst-in-barcelona-spain-jid-744000150717629/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "7496f2d667800610ca563b7a86983c071d9c35c4",
       "title": "Junior PRL",
@@ -113,13 +120,6 @@
       "url": "https://careers.glovoapp.com/job/intern-smb-ads-sales-portugal-in-lisbon-portugal-jid-744000148437074/",
       "location": "Lisbon, Portugal",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "daea2f7e86fa4178c292c6a490d88643c9dfe597",
-      "title": "SMB Ads Sales Intern Portugal",
-      "url": "https://careers.glovoapp.com/job/smb-ads-sales-intern-portugal-in-lisbon-portugal-jid-744000148174047/",
-      "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]
 }

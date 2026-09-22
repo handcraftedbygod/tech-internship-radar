@@ -2,18 +2,18 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 27,
+  "totalPostings": 29,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Munich",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "swe",
@@ -43,7 +43,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -55,12 +55,26 @@
     0,
     0,
     17,
-    10,
+    12,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d35577dfd179830efbdc09e7691eece975b6071b",
+      "title": "Werkstudent (w/m/d) Solution Developer im Finance IT-Umfeld",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1634493-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
+    {
+      "id": "e0845647019ac2693fee22785ed9b21c225ef7ec",
+      "title": "Werkstudent (w/m/d) Software Development, AI & Data Integration",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1576660-4-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-09-22T09:03:32.137Z"
+    },
     {
       "id": "a815dc5fe3af560e8a59a40132d1a1c46eb47825",
       "title": "Working Student (f/m/d) Support in Service Management & DevOps Center Team",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628599-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "8192a4540bf16af9f72362f634e76b37f61bbb74",
-      "title": "Werkstudent (w/m/d) Software Engineering für AI-gestützte Cost & Value Engineering Anwendungen",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1625979-1-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "ae1d68e4140f5e15d833f63879d68202c938023f",
-      "title": "Werkstudent (w/m/d) im Bereich Grid Software Sales Operations & Enablement",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601255-2-S",
-      "location": "Nürnberg, Mittelfranken",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]
 }
