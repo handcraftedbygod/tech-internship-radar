@@ -2,21 +2,21 @@
   "slug": "krimda",
   "name": "KRIMDA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c49055721897281599710168847a7f16e1a11967",
+      "title": "Junior Java Developer – Getafe (100% Presencial)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354467060__7107?geoID=3713&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "COSLADA, Spain",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "2466bd1e0e6179d2e056c43ec4530148d46f92f1",
       "title": "Junior java developer – getafe (100% presencial)",

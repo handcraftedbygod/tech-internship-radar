@@ -2,13 +2,17 @@
   "slug": "procter-gamble-p-g",
   "name": "Procter & Gamble (P&G)",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "410d0aab9b1ac6f16c02b24e434e501661bc532f",
+      "title": "Analysis & Insights Internship (Stagiaire Data Analyst)",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/PARIS-GO-SAINT-OUEN-GO/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355?utm_source=freehire.me",
+      "location": "PARIS GO: SAINT-OUEN GO",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "d6ef87207d5356c3e3606222848798def9e73e4b",
       "title": "Data Engineer Internship (m/f/x)",

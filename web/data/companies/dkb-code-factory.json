@@ -2,13 +2,17 @@
   "slug": "dkb-code-factory",
   "name": "DKB Code Factory",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "88cedb790910a938d7d0751149df50f33c28098f",
+      "title": "Junior Pega Developer",
+      "url": "https://job-boards.greenhouse.io/dkbcodefactory/jobs/8000589003?utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "c711abc6340ee5ccb207f739a3375c6924a8853f",
       "title": "Junior Android Developer - Retail Banking (x,f,m) ",

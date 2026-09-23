@@ -2,21 +2,26 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,61 @@
     0,
     0,
     1,
-    0,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ebdcad20d846200f13bf6924210094389ed96d94",
+      "title": "IT Internship - Fullstack Engineer: AI Agent for Automated Cloud Incident Response",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-fullstack-engineer-ai-agent-for-automated-cloud-incident-response?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "60cc5ceab6834d44db73dce28f5b2d3e95921c80",
+      "title": "IT Internship - Fullstack Engineer: Real-Time Agile Planning Dashboard with an AI Assistant",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-fullstack-engineer-real-time-agile-planning-dashboard-with-an-ai-assistant?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "a7d3bff757b45898ca5163c4b3da159b1399d42e",
+      "title": "IT Internship - Fullstack Engineer: Modernizing Enterprise Frontends with React & .NET",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-fullstack-engineer-modernizing-enterprise-frontends-with-react-net?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "a573fb1456a00a22ce759e15976f99a7ae79fa78",
+      "title": "IT Internship - Backend Engineer: Automation, Monitoring & Alerting in SAP RMCA",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-backend-engineer-automation-monitoring-alerting-in-sap-rmca?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "533a5566b5350c314de538e275a71391dca8f468",
+      "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "788f5a6eca54f70010c4d3448b58cbc08bc9b318",
+      "title": "IT Internship - Cloud Engineer",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-cloud-engineer?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "d5f58c1028875aee5c0463911326e102fb65ca93",
+      "title": "IT Internship - Backend Engineer: Improving Reliability & Automation in a Cloud‑Native DevOps Platform",
+      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-backend-engineer-improving-reliability-automation-in-a-cloudnative-devops-platform-3?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "011a799d1b31d972a5711a7c88ec723117a817cd",
       "title": "Junior DevOps Engineer M365 Apps",

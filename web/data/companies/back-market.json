@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 6,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 10.9,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "biz",
@@ -38,12 +38,26 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7738f1450a393a5de36354498213698af1eb2e77",
+      "title": "Service Project Management Intern  ",
+      "url": "https://jobs.ashbyhq.com/backmarket/21f6889e-0021-4f23-a6b6-e22444315bc2",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "bce17953183043a785b11af028861f7158d478c0",
+      "title": "Trade-in Buybulk Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/fa86e653-4813-4021-b4a2-ee1d907087fb",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "42079da507e164ef94301b8b1dd29b941c892829",
       "title": "Seller Onboarding and Support Intern ",
@@ -67,7 +81,7 @@
     },
     {
       "id": "16a95eef9c9a42a141be80207bbccc6e97c00ef1",
-      "title": "UX Content Designer Intern (UX copywriter)",
+      "title": "UX Content Designer Intern (UX copywriter - English speaker)",
       "url": "https://jobs.ashbyhq.com/backmarket/9cbdc249-81a5-476d-a365-4f457efc4a8c",
       "location": "Paris",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"

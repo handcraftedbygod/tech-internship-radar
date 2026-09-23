@@ -2,13 +2,17 @@
   "slug": "webologix-ltd",
   "name": "Webologix Ltd/ INC",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbcfddd03e511413c23e4664587c91d8f9148ad3",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__539582996__7082?geoID=15541&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Hyde Park Corner, United Kingdom",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "2b8f3eaab3a9472d45c978b1bbd7f57c44e971bb",
+      "title": "Junior Java Backend Engineer — Spring Boot & Kafka",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__539585118__7082?geoID=15541&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Hyde Park Corner, United Kingdom",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "f3ab5d5c81eb9bf9fa297aca7ede08491dff1e5f",
       "title": "Junior Java Developer",

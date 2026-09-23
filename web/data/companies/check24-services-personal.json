@@ -2,9 +2,9 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Berlin",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -46,12 +46,19 @@
     0,
     0,
     5,
-    14,
+    15,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4219f1acaf17b88736ba1565b1201222dd4dd2e",
+      "title": "(Junior) Data Scientist (m/w/d) Search / AI Forge",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-be7978831d1446cfb20-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "69f4f00a958bb9c1a453b7ee9328347ad4ebbdb0",
       "title": "Junior Full Stack Entwickler (m/w/d) Möbel",
@@ -112,13 +119,6 @@
       "id": "38b04453fca5ee6d07531a12ae850ca2adb9fec9",
       "title": "(Junior) Fullstack Software Engineer (m/w/d) Factory (Fullstack-Entwickler/in)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNDVkNjEzYTMxZDMyNGE4ZGI2OS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "fc6585aa427f6b55eea6e1d7be930eb84148e2fc",
-      "title": "(Junior) Softwareentwickler (m/w/d) in der Reise CTO Taskforce (Fullstack-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtN2E4MTI2YzU4Y2YwNGY0ZWI4Yi1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }

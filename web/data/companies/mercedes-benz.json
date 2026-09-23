@@ -2,18 +2,18 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 26,
+  "totalPostings": 28,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Stuttgart",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Berlin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 17
     },
     {
       "id": "ai",
@@ -49,12 +49,26 @@
     0,
     0,
     19,
-    7,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff4e33f33457921e25237c903dfdfd983bc0121b",
+      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1635501-1-S?utm_source=freehire.me",
+      "location": "Stuttgart, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "a42928e40f0b5655f64c1e98a9d56a8bf04a84e7",
+      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x) (Informatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTMxNTEtMTYzNTUwMS0xLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "8d391863b0f66ecca159f03466fe3270b8571a65",
       "title": "Werkstudent*in Produktionsqualität Schwerpunkt Data Science",
@@ -110,20 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1623842-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "b1190d42816dff9eef26a91e5bd5d53fd8658571",
-      "title": "Werkstudent*in MB.OS Software-Produktdatenmanagement",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1624979-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "610cea8bbd1d6722974cf29edf8d1051ec96ee45",
-      "title": "Werkstudent Data Engineering (d/m/w/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1622758-1-S",
-      "location": "Stuttgart",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

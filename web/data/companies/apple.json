@@ -2,13 +2,17 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Zurich",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f35a318bc719cda3986792ff73d474e92d5af324",
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models?utm_source=freehire.me",
+      "location": "Zurich",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "af73ff52a1e844667d59bb7066b7d4f62af31d08",
       "title": "Internship - Machine Learning Research",

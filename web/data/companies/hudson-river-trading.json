@@ -2,14 +2,18 @@
   "slug": "hudson-river-trading",
   "name": "Hudson River Trading",
   "tier": "trading",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32256c6056de2253ca9d8c3203350bc421e9aa7c",
+      "title": "Data Scientist Intern - 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414&utm_source=freehire.me",
+      "location": "New York, NY, United States",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "e8a1cdda7c44f807116507754e204c3571c5838d",
       "title": "Junior Trading Systems Engineer",

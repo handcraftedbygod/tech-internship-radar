@@ -2,14 +2,14 @@
   "slug": "decathlon-digital-fr",
   "name": "Decathlon Digital FR",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Paris",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -37,12 +37,26 @@
     0,
     0,
     1,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e55c9b85ca6aa8049f3c5fb3b97ae80b9fb00cf",
+      "title": "Internship - Data Engineer Core Data Product - Lille (f/m/d)",
+      "url": "https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4976883101?utm_source=freehire.me",
+      "location": "Villeneuve-d'Ascq, Nord, France",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "fa52e2c657c0ffec4d29ef54eb3f5abac604ab77",
+      "title": "Internship - Data Engineer Core Data Product (f/m/d)",
+      "url": "https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/4976897101?utm_source=freehire.me",
+      "location": "Villeneuve-d'Ascq, Nord, France",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "c0aa772953044a47e1adebbfef58524573e9d4f7",
       "title": "Junior Data Scientist - Downstream Demand Forecast - Value Chain (f/m/d)",

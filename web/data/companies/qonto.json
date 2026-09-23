@@ -2,14 +2,18 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 2
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab887948d1a3661f1f09e931c5ec83efaa8253ab",
+      "title": "Anti-Financial Crime Intern/Werkstudent",
+      "url": "https://jobs.lever.co/qonto/749a6c4c-6921-4fdc-9a3c-c663dd8f185f",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "38538da7658f9f28d88e3de62ca128e972e1d744",
       "title": "Legal Intern - Product & AI",

@@ -2,21 +2,21 @@
   "slug": "rws",
   "name": "RWS Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "733809d4829b233dbaccc1e0ef009c6a881a1067",
+      "title": "Software Engineering Intern - Trinity College 4th Year Internship at RWS Propylon",
+      "url": "https://careers-rws.icims.com/jobs/6736/software-engineering-intern---trinity-college-4th-year-internship-at-rws-propylon/job?utm_source=freehire.me",
+      "location": "Dublin, IE",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "2fdf70e2aa1b2d23c07ab5ccff2bd25f35888008",
       "title": "Software Engineering Intern - Trinity College 4th Year Internship",

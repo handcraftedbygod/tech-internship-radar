@@ -2,29 +2,29 @@
   "slug": "criteo",
   "name": "Criteo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
-      "hub": "Barcelona",
-      "count": 1
+      "hub": "Paris",
+      "count": 2
     },
     {
-      "hub": "Paris",
+      "hub": "Barcelona",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -37,12 +37,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "880941f399ca4938f539516ed2e1fee641b297e2",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/Machine-Learning-Engineer-Intern_r14933?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "25d2dc4fb1d6e578f05f0a68bfaec03c0d728389",
       "title": "Product Data Science & AI Agents Intern",

@@ -2,14 +2,14 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Other",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     }
   ],
@@ -37,12 +37,26 @@
     0,
     0,
     4,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad7f484a9af5c5783c745c6f0f28612fbfa92ace",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__541849241__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "657ef35971c3173a7f5e828cf0284686a69111c8",
+      "title": "Junior Java Backend Engineer - REST APIs & Microservices",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__541847869__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "7fd83f3a0463bb7691267ccab8dfd7ea76bfe123",
       "title": "Junior Data Analyst",

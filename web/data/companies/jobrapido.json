@@ -2,10 +2,10 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 11.3,
+  "totalPostings": 27,
+  "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,26 @@
     0,
     0,
     20,
-    5,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a98021b1cd3cb467efec888f4b01b85665f4684d",
+      "title": "Junior Frontend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354450465__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "8f9e0ce2e125ff56218d01b5a78475720f003088",
+      "title": "Junior Java Developer - barcelona",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354449767__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "b8ac0cff46e68952b7a1b37848bec348aa2f432f",
       "title": "Junior Java Developer",
@@ -102,20 +116,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__345166277__7107?geoID=9570&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Bilbao, Spain",
       "firstSeenAt": "2026-08-24T04:44:21.499Z"
-    },
-    {
-      "id": "934e9e0e56d9f0d4ea80d95af06bad79842b13d2",
-      "title": "Data Engineer (internship - Graduate Program) - OgilvyES",
-      "url": "https://es.whatjobs.com/pub_api__cpl__344731417__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "3b25819346afb1d57c39d47c1aafbe8dc27c5c43",
-      "title": "Data Engineer Junior - PrimeIT España",
-      "url": "https://es.whatjobs.com/pub_api__cpl__344148243__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

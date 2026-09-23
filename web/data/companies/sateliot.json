@@ -2,21 +2,21 @@
   "slug": "sateliot",
   "name": "Sateliot",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ba168ccf9885acde908b08a0be9de146edd81cc",
+      "title": "Flight Software Engineer Trainee",
+      "url": "https://careers.sateliot.com/jobs/8431111-flight-software-engineer-trainee?utm_source=freehire.me",
+      "location": "Barcelona, ES",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "4f1d468985226c80313f9172e4e3d503cfa97346",
       "title": "Junior RAN Software Engineer, 5G NR NTN Test Terminal",

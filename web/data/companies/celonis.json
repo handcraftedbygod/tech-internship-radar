@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 12,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 47,
-  "avgPostingDurationDays": 37.2,
+  "totalPostings": 50,
+  "avgPostingDurationDays": 36.9,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "New York",
@@ -24,20 +24,20 @@
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "London",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 21
+      "count": 23
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -64,12 +64,33 @@
     0,
     27,
     10,
-    10,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98b26d784a8eadba086c6a797527e352079e2f34",
+      "title": "Technology & Management Consulting Intern (Value Engineering - UKI Market)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8002255003?gh_jid=8002255003",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "8289d3811f77e697811f9014c9c98548665803dd",
+      "title": "Field Marketing (DACH Region) Working Student",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8002256003?gh_jid=8002256003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "fce127307e6f90ef294d217d228c6ae21313caad",
+      "title": "Field Marketing (DACH Region) Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7998271003?gh_jid=7998271003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "4a69c3e337fadd05b6c1b3da7fc2367ecc649800",
       "title": "Customer Advocacy  & Customer Marketing Graduated Internship (12 months) ",
@@ -118,27 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7962507003?gh_jid=7962507003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "6087ab85ac6b7fcb9e222e79495e4b5ce8474118",
-      "title": "Intern Business Development (Brazilian Market) – 2027 Intake",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7611834003?gh_jid=7611834003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "35cfa2fdf55b3eca21786548b0dfb772f950cc10",
-      "title": "Field Marketing Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003",
-      "location": "New York, US, New York",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "c70896f5cbc0982feeeaa9c3b11b470a85b29834",
-      "title": "Intern Global Customer Advocacy",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7821371003?gh_jid=7821371003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

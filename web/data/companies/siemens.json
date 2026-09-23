@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 29,
-  "avgPostingDurationDays": 11.2,
+  "totalPostings": 30,
+  "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 13
+      "count": 14
     },
     {
       "id": "swe",
@@ -55,12 +55,19 @@
     0,
     0,
     17,
-    12,
+    13,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f29abf97a59ce43861451c045202f5e47a939ed9",
+      "title": "Werkstudent (w/m/d) Developer, IT-Consultant, AI & Data Integration",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623102-2-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "d35577dfd179830efbdc09e7691eece975b6071b",
       "title": "Werkstudent (w/m/d) Solution Developer im Finance IT-Umfeld",
@@ -122,13 +129,6 @@
       "title": "Werkstudent (w/m/d) Cybersecurity",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-2-S",
       "location": "Braunschweig",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "17566e1bc76405f896a844f7e96e33ce921d3cb8",
-      "title": "Working Student (f/m/d) Operational Technology Cybersecurity",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628599-1-S",
-      "location": "München",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
     }
   ]

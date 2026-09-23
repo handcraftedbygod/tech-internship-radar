@@ -2,21 +2,21 @@
   "slug": "airbus-operations-gmbh-werk-bremen",
   "name": "Airbus Operations GmbH Werk Bremen",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Bremen",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab877ea03ec28b2f7ee3a19313f0543ddbb3656b",
+      "title": "Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-972297846-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "fa777344ce673368c491c78a7d2cdb63717e76d0",
       "title": "Werkstudent für Scientific Computing & Machine Learning (d/m/w)",

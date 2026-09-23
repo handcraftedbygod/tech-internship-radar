@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Düsseldorf",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Frankfurt",
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -36,12 +36,26 @@
     0,
     0,
     6,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7dc8be7136e41a3742b4bee7cf9fe8ab4475e75",
+      "title": "Business Developer - Junior FX Sales (m/w/d)",
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4980922101?utm_source=freehire.me",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "e663604befaa66654f12b801fd5b29ee3a0920e1",
+      "title": "Business Developer / Junior FX Sales (m/w/d)",
+      "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/4980938101?utm_source=freehire.me",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "7a043daccd3628739a04ca4bd6e196744c36fcfc",
       "title": "Business Developer / Junior FX Sales (m/w/d)",

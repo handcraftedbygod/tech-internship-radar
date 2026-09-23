@@ -2,21 +2,21 @@
   "slug": "giacom",
   "name": "Giacom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20a3c9a4a9c71a7ae62deca772ec6ab87942df23",
+      "title": "Junior DevOps Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5894292082?utm_medium=api&utm_source=freehire.me",
+      "location": "Ovingham, Prudhoe",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "7498e57c8353a0d8de4b527d65162276cb9a49da",
       "title": "Junior DevOps Engineer",

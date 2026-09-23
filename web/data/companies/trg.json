@@ -2,17 +2,17 @@
   "slug": "trg",
   "name": "trg.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 2
     }
   ],
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55d2fd5380642a6fab079995bdbf99da2eb31855",
+      "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/trg/remote-junior-data-engineer-martech-specialist-mobile-apps-289692",
+      "location": "Remote within Germany",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "cebcf97872d51c42708c8535f893a607d94f66f1",
       "title": "Junior Backend Engineer",

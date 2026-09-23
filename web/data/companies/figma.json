@@ -4,12 +4,12 @@
   "tier": "notable",
   "currentOpenings": 9,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 12.9,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "London",
@@ -29,7 +29,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -51,12 +51,19 @@
     0,
     1,
     3,
-    8,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1127c94950f9b92c5768380af888d77062d72945",
+      "title": "Early Career, Product Designer (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "5857115ed784f318a43aaea4915a4818f327303a",
       "title": "PhD Intern, Data Science (2027)",
@@ -117,13 +124,6 @@
       "id": "5e7fc02a08c8ee334213a21e8bc56592469295e4",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004",
-      "location": "San Francisco, CA, New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "0e039ba9861e45df1917ef3af1e1042afe0dcffe",
-      "title": "Software Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
       "location": "San Francisco, CA, New York, NY",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }

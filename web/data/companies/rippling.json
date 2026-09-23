@@ -2,21 +2,30 @@
   "slug": "rippling",
   "name": "Rippling",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 3
+    },
+    {
+      "hub": "New York",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +37,40 @@
     0,
     0,
     1,
-    0,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f22e3e9e51a9990c131a11d1b0d0572dce983e2",
+      "title": "Software Engineer Intern - Backend Focused - Summer 2027",
+      "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+      "location": "Seattle, WA, San Francisco, CA, New York, NY",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "49747cb087fb5d658d4b448634d3a19fe5142e73",
+      "title": "Machine Learning Software Engineer Intern - Summer 2027",
+      "url": "https://ats.rippling.com/rippling/jobs/f9de04c3-e2c5-41f9-8e46-a0684707f89d",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "ea9caf87ff1cb899a9a58b9fafd1d97bb41dfc58",
+      "title": "Full Stack Software Engineer Intern - Summer 2027",
+      "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+      "location": "Seattle, WA, San Francisco, CA, New York, NY",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
+    {
+      "id": "b36081c0506f98122830bf6e36ba41b2b4dad2df",
+      "title": "Data Science Intern - Summer 2027",
+      "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-09-23T09:07:11.548Z"
+    },
     {
       "id": "d9bb01ac817668d8c7f17053a45886c233315c34",
       "title": "Machine Learning Software Engineer Intern - Winter 2027",
