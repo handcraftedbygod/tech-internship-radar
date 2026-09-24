@@ -2,21 +2,21 @@
   "slug": "ipracujzdalniepl",
   "name": "ipracujzdalnie.pl",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "324a37d5b5d06e6076563dfe11e62aa10db89754",
+      "title": "Junior DevOps Engineer: Backend, Kubernetes & CI/CD",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29886618__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "5cd6cda99341649088995d9395cf63ac6ea7960d",
       "title": "Junior DevOps Engineer",

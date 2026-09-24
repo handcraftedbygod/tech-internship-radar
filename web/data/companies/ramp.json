@@ -1,0 +1,59 @@
+{
+  "slug": "ramp",
+  "name": "Ramp",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-09-24T13:06:51.115Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6cc2b881b96798f05e43e0bdc958d5a04cb38c69",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+      "location": "New York, NY (HQ)",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "acecd29a19c2b1dffceb7233913344d68611f25f",
+      "title": "Software Engineering Intern, Android",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "location": "New York, NY (HQ)",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "19d6e74b7b7c301ea95a9c06e75e17cd1d21fa3e",
+      "title": "Software Engineer Internship, Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+      "location": "New York, NY (HQ)",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    }
+  ]
+}

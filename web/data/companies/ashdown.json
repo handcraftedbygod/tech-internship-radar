@@ -1,0 +1,56 @@
+{
+  "slug": "ashdown",
+  "name": "Ashdown Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-24T13:06:51.115Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "11f09209629c21be7d86976af376c8237db20ee6",
+      "title": "QA Engineer / Junior Test Analyst - 6 month FTC",
+      "url": "https://api.firefishsoftware.com/api/jobboardapply/v2/reed/apply?clientUrl=https%3A%2F%2Fjobs.ashdowngroup.com%2Fjob%2Fqa-engineer--junior-test-analyst-6-month-ftc-25137%2Fapply.aspx&utm_source=freehire.me",
+      "location": "North London",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "75a0643d93a98f6c9d8b6ede4f0f50ac38a8ae42",
+      "title": "QA Engineer / Junior Test Analyst - 6 month FTC",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5895260124?se=uMZHRK638RGaQ8BgLwMzsw&utm_medium=api&utm_source=freehire.me&v=FE27555F9B245A7A45A18E013A311BE94AC0B7CC",
+      "location": "Bishop's Stortford, Hertfordshire",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    }
+  ]
+}

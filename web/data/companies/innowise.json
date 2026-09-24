@@ -2,25 +2,25 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -33,12 +33,26 @@
     0,
     0,
     2,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de4c7d75b8b6b7af7c7f874c3cd04fb0787cc238",
+      "title": "Trainee Data Engineer (with German)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29877962__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "1f16d4159c76e614a2ec5a9b0396c69a5b26ac43",
+      "title": "Trainee Data Engineer - Big Data & Python Foundations",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29878398__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "f0d40ecad75cadea2bb30354a9055f1dccbb8a41",
       "title": "Trainee Data Engineer (with German)",

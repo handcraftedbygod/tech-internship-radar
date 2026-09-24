@@ -2,14 +2,14 @@
   "slug": "allgemeine-plakatgesellschaft",
   "name": "Allgemeine Plakatgesellschaft AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc60d2bdbc3c037b32bd2c3608eefce45c33d000",
+      "title": "Junior Software Engineer Java / Spring 80-100%, Zürich",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MGZlYTVjYWQtZGU3ZS00NTBlLWE2OTktYmUwOGRkODhiZjQ3IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "ce4e9473fa071b08ad4c41b69fceb1f195a528e3",
       "title": "Junior Software Engineer Java / Spring 80-100%, Zürich",

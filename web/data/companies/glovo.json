@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 37,
+  "currentOpenings": 39,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 50,
+  "totalPostings": 52,
   "avgPostingDurationDays": 17.8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 26
+      "count": 27
     },
     {
       "hub": "Madrid",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Lisbon",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Other",
@@ -33,7 +33,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 8
+      "count": 9
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -45,12 +50,26 @@
     0,
     0,
     33,
-    17,
+    19,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b4a097777d953bd6813cbc265284c7f0feeb339",
+      "title": "Comms & AI Intern",
+      "url": "https://careers.glovoapp.com/job/comms-ai-intern-in-barcelona-spain-jid-744000151353849/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "db90f066355b63773fd9e4fe5ecaa96c923224c4",
+      "title": "Intern Sales Development Representative Portugal",
+      "url": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159/",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "c410f754e877717a88049955268c41a8dbac5e83",
       "title": "Junior Fintech Analyst",
@@ -106,20 +125,6 @@
       "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000148795474/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "f968b113259f5e624823d9411fdc8dd65ab64a35",
-      "title": "Category Management Intern Groceries Spain",
-      "url": "https://careers.glovoapp.com/job/category-management-intern-groceries-spain-in-madrid-spain-jid-744000148554410/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "d2573d6fb9ba54ce0ab86f0f46ecd1c40ec53f2d",
-      "title": "Intern- SMB Ads Sales Portugal",
-      "url": "https://careers.glovoapp.com/job/intern-smb-ads-sales-portugal-in-lisbon-portugal-jid-744000148437074/",
-      "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

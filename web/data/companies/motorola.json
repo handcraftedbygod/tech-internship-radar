@@ -2,21 +2,21 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e6a82429d74f59381a4a01a677c68c4fc78ff2ed",
+      "title": "Intern Software Developer (React/JS)",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "db9839ac72ee52217656f937ebf251970ea7da32",
       "title": "Intern Software Developer (C#)",

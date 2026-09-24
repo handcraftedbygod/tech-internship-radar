@@ -2,14 +2,14 @@
   "slug": "t-systems-iberia",
   "name": "T-Systems Iberia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -26,6 +26,11 @@
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,12 +42,19 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64422297ac3000e3b797a6efba2bc35cae36b9e0",
+      "title": "Junior Data Engineer: GCP & AI Pipelines (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354689118__7107?geoID=2597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "a2a859f5a594d2a3f45dfd3ab733716cac2ffa46",
       "title": "Junior Full-Stack Developer — Hybrid, Growth & Impact",

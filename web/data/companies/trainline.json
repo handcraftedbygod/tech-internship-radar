@@ -1,21 +1,26 @@
 {
   "slug": "trainline",
-  "name": "Trainline plc",
+  "name": "trainline",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c3d75108f24f8c10824305e55c3834392c2779cb",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/trainline/ad9adf75-4f55-4304-a6db-f166721b87f4?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "a62da1f24f17e623c7a0d847c317542043a482a2",
       "title": "Junior .NET Backend Engineer – Build Impactful Features (Hybrid)",

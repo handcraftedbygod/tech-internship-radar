@@ -2,13 +2,17 @@
   "slug": "pernodricard",
   "name": "pernodricard",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0cf9b4a5d5f1371fde1a0620234c23c6aff0da7b",
+      "title": "Machine Learning Engineer Intern - Paris - January 2027",
+      "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Machine-Learning-Engineer-Intern---Paris---January-2027_JR-055047-1?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "65c701ec4de2a1243f15a1c62ce0dfe4e91a0c5f",
       "title": "(Junior) Product Data Analyst (m/w/d)",

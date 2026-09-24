@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 23
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 23
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     13,
-    8,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a7e503c51477e6b244d8f7a19e90cfa2cb5ecf1",
+      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57385020",
+      "location": "Sheffield",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "59ea86b94ab5d20e32cc69c742985c1bdf7d475b",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57385023",
+      "location": "Sheffield",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "fab289ddf789308445bdcf0b861f98a98f65cdf2",
       "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
@@ -89,20 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5859746013?se=euFVBTym8RG5At0T0GlLXQ&utm_medium=api&utm_source=freehire.me&v=CB952F539F2644C7E2CCCFC2A1721E1F5941A7D9",
       "location": "Liverpool, Merseyside",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "8712d7add1e4b88d28fdc5dcc51a3cc44683d6d9",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/details/5859746013?utm_medium=api&utm_source=freehire.me",
-      "location": "Liverpool, Merseyside",
-      "firstSeenAt": "2026-08-30T09:46:54.503Z"
-    },
-    {
-      "id": "68b3f54689636a2f6b6640ec41a44e8cd4496741",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57285385",
-      "location": "Liverpool",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

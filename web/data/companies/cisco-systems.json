@@ -1,31 +1,31 @@
 {
   "slug": "cisco-systems",
-  "name": "Cisco Systems",
+  "name": "Cisco Systems, Inc.",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Krakow",
+      "count": 3
     },
     {
-      "hub": "Krakow",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 2
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,26 @@
     0,
     0,
     1,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd679ee8f21266cc6d1ed5b0c4accbfe97c8a350",
+      "title": "Junior Python Data Platform Engineer: Build Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29873632__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "35731e7bc5c9349b1db5900c3d714de17b9ffc8c",
+      "title": "Junior Python Data Platform Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29874198__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "ec4514c4a7fb5c4c799d085b57c1ac2ff0bf4b8a",
       "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",

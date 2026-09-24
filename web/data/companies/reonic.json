@@ -2,21 +2,21 @@
   "slug": "reonic",
   "name": "Reonic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad3f77ec905bc1758304869cfbafa16de898adfa",
+      "title": "Software Engineering Intern (AI x Greentech) (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/software-engineering-intern-ai-x-greentech-berlin-214362",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "e916a48ea294b3f3cd1453599ad811aa5ed5bcdf",
       "title": "Software Engineering Intern (AI x Greentech) (m/f/d)",

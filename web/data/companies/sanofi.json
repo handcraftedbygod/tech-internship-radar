@@ -2,13 +2,17 @@
   "slug": "sanofi",
   "name": "Sanofi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eab73db9fe0bb27918ddade1a71ac45866654685",
+      "title": "internship 6 months data science",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Paris/internship-6-months-data-science_R2872264?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "bdd09d16554d5a7d1dd200d2c2db7cf649c4ab05",
       "title": "6-month internship – Data Science and Development",

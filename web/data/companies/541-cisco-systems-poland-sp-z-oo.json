@@ -2,21 +2,21 @@
   "slug": "541-cisco-systems-poland-sp-z-oo",
   "name": "541 Cisco Systems Poland sp. Z o.o.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5c7cb528af359a9c943568894069153f699e780a",
+      "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29875366__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "3a1f031ac1e5296085e906197703edccd7c060e1",
+      "title": "Junior Python Data Platform Engineer: Build Scalable Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29872084__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "f0221ddca21277db0d86a9bf9cfe0d9fe88471d5",
       "title": "Junior Python Data Platform Engineer",

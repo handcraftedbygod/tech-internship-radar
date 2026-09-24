@@ -2,21 +2,25 @@
   "slug": "sdg-group-espa-a",
   "name": "SDG Group España",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54f997e32bc2d0473aa175bb1234bd9882fba90e",
+      "title": "Junior Data Engineer – Analytics & AI Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354696008__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "befae01c4098c76712ad4b49ffbbe2176e5d695f",
       "title": "Junior Data Engineering & Analytics Consultant",

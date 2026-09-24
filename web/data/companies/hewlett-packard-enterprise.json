@@ -2,21 +2,21 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68bf690ef5371f703e9c028a649551e6b17e5174",
+      "title": "Software Engineering Internship (Placement Year)",
+      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804?utm_source=freehire.me",
+      "location": "Bristol, Avon, United Kingdom",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "d74bb390391c5c7bf8240df421ea2067820a4792",
       "title": "Systems/Software Engineer - Internship (C++/Linux)",

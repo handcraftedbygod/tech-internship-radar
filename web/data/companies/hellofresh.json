@@ -2,14 +2,14 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 21.4,
+  "totalPostings": 22,
+  "avgPostingDurationDays": 22.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "Other",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,26 @@
     0,
     5,
     8,
-    7,
+    9,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d1d4f6132ee0c4e7cdbc318eca2f64fb2b16819",
+      "title": "Werkstudent Rezeptmanagement (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8226101?gh_jid=8226101",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
+    {
+      "id": "aab1355b1c3d2b0d925aefd38adaddf01288fd77",
+      "title": "Culinary Operations Working Student (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8210829?gh_jid=8210829",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "32af2575d2dc1cacb839cb7d3043e0df4f4ab742",
       "title": "Operational Excellence Junior Manager",
@@ -106,20 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8050737?gh_jid=8050737",
       "location": "London, England, United Kingdom",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "002ae76c945fc684412e84d8281f6eb2bfc6a38b",
-      "title": "Junior Maintenance Engineer",
-      "url": "https://careers.hellofresh.com/global/en/job/8146919?gh_jid=8146919",
-      "location": "Derby, England, United Kingdom",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "f5b0d2da7bf1a05f17f582a3e4ed970692c6d1bc",
-      "title": "Junior Price & Discount Strategy Manager (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8114195?gh_jid=8114195",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-15T04:30:16.064Z"
     }
   ]
 }

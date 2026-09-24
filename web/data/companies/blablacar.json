@@ -2,14 +2,14 @@
   "slug": "blablacar",
   "name": "BlaBlaCar",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,12 +38,19 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bae50e8e1b3fb32c50da363a73f94fe988720741",
+      "title": "Strategy & Business Analyst Intern",
+      "url": "https://jobs.lever.co/blablacar/213c9dbc-8f3d-42b9-b8a2-814cd383cd41",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-24T13:06:51.115Z"
+    },
     {
       "id": "71e7e5cb6e3c43adff224b838ae9a89fe0a65a75",
       "title": "Stagiaire Communication & Relations Publiques (6 mois) - Paris, France",
