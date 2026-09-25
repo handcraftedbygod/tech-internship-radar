@@ -2,21 +2,21 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -33,12 +33,19 @@
     0,
     0,
     1,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de9f2c07e33dea746670483d1cd01c2a563c0497",
+      "title": "Junior DevOps Engineer IAM (Ping DS/IDM)",
+      "url": "https://sdcrotterdam.swisscom.ch/o/junior-devops-engineer-iam-ping-dsidm?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "ebdcad20d846200f13bf6924210094389ed96d94",
       "title": "IT Internship - Fullstack Engineer: AI Agent for Automated Cloud Incident Response",

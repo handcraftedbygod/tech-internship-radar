@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "hw",
@@ -55,12 +55,19 @@
     0,
     0,
     17,
-    14,
+    15,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2dc901fea4f4fb91ce2660332778d4ac1ee9fb45",
+      "title": "Working Student (f/m/d) Cybersecurity Project Execution",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635624-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "899665979a260cab2b561dc9bde301e05c58838b",
       "title": "Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)",
@@ -123,13 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-2-S",
       "location": "München",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "d6193f6d6a55a3b8e08028f6c9681e889dce1f0a",
-      "title": "Werkstudent (w/m/d) für Software, Digitalisierung & Sales Enablement",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1628596-1-S",
-      "location": "Frankfurt am Main",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]
 }

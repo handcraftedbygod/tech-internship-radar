@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c7936487e24943a62f44b1af965587ca7873c3d",
+      "title": "Junior C# Software Engineer Yieldstar Optical Column",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Junior-C--Software-Engineer-Yieldstar-Optical-Column_J-00353657?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "d4aad4e3a48e8b811c85ff2cdf38c74fb7da7410",
       "title": "Engineering | Data Analytics internship: Business Intelligence Analyst",

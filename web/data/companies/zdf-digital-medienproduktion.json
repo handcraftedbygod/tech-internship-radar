@@ -2,14 +2,14 @@
   "slug": "zdf-digital-medienproduktion",
   "name": "ZDF Digital Medienproduktion GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19e7678bfada133685e686f2ac9f794a84b4ad4f",
+      "title": "Werkstudent*in Data Analytics (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-data-analytics-mainz-oder-berlin-56556",
+      "location": "Mainz oder Berlin",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "3617f6a37cc8e669e10053865db49ba0d79b1471",
       "title": "(Junior) Data Analyst (m/w/d)",

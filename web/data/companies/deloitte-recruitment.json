@@ -2,21 +2,21 @@
   "slug": "deloitte-recruitment",
   "name": "Deloitte - Recruitment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d43f1bd0682168eb867a2cc5d3664c80cd527efd",
+      "title": "Junior Software Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__544123258__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "e19eae0ac10462b959483425b81874c67713669d",
       "title": "Junior Software Developer",

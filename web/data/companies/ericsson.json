@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -40,12 +40,19 @@
     0,
     0,
     5,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "00066e6412b1483b8d5eea9dd631d275a844da6c",
+      "title": "Junior C or C++ Developer for 6G Simulator",
+      "url": "https://jobs.ericsson.com/careers/job/563121777114598-junior-c-or-c-developer-for-6g-simulator-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Łódź,Łódź,Poland",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "4359d957e65a1cdd156605bf99bb5a1dca53f3d0",
       "title": "Junior Software Developer - Radio Synchronization",

@@ -2,25 +2,30 @@
   "slug": "itfs-sp-z-oo",
   "name": "ITFS Sp. z o.o.",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,12 +37,26 @@
     0,
     0,
     1,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e342705bd39f91cfbefbf203907aed4563e0e5bb",
+      "title": "Junior AWS Backend Developer @ ITFS Sp. z o.o.",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29934726__7143?geoID=4320&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Polska, Poland",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "badcca106c3d75d2f8a06c084bc99a49f9f4e152",
+      "title": "Junior AWS Data Engineer @ ITFS Sp. z o.o.",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29937231__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "5d4b4e22e659cea73238d91123d9eff65d4f936a",
       "title": "Junior AWS Backend Developer",

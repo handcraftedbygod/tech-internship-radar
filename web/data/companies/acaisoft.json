@@ -2,14 +2,14 @@
   "slug": "acaisoft",
   "name": "Acaisoft",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Warsaw",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "85ed06614ddacf6abfc90ed504801daa2bcd42e7",
+      "title": "Junior DevOps Engineer @ Acaisoft",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29936588__7143?geoID=4320&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Polska, Poland",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "44944398d9c3e0c40a314630a9422f70a25e803b",
       "title": "Junior DevOps Engineer",

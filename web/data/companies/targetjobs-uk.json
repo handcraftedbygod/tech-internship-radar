@@ -1,0 +1,61 @@
+{
+  "slug": "targetjobs-uk",
+  "name": "targetjobs UK",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-25T09:25:18.654Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bfe5cd8d9e1dd9677081c1e3d97228394eeb9c90",
+      "title": "Data Engineer Intern - Motorsport Data Pipelines (12-Month)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__544121806__7082?geoID=562&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wantage, United Kingdom",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "9ce5abddc112e0d27a19781822574855b1083cd4",
+      "title": "Software Developer Summer Internship",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__543581780__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "slashmobility",
   "name": "Slashmobility",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     3,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d3fd90ce1979fa453e91187bfca6f1f04ec7bed",
+      "title": "Junior Java Developer – Hybrid Barcelona | Microservices & React",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354908896__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "dd06fd9b0425deea21064293544d9f4265df0d34",
       "title": "Junior Java Developer - Slashmobility",

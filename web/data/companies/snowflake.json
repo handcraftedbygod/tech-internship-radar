@@ -2,11 +2,15 @@
   "slug": "snowflake",
   "name": "Snowflake",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    },
     {
       "hub": "Warsaw",
       "count": 2
@@ -14,22 +18,18 @@
     {
       "hub": "Berlin",
       "count": 2
-    },
-    {
-      "hub": "Other",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,33 @@
     0,
     0,
     1,
-    4,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "00bac5d835317ec09b0a5d9c21c80e0b91fc6f21",
+      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "093e8cdb743d3bb5cccce0dfb098f6a6afdd450e",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "8d4aaa78015685cd84b46f36b15d8a83601b93f4",
+      "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "11f0c022b7bd3be77e80a001cb97fe5e0cc11fa5",
       "title": "Software Engineer Intern - Berlin (2027)",

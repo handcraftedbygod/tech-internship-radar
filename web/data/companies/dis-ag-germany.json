@@ -1,0 +1,56 @@
+{
+  "slug": "dis-ag-germany",
+  "name": "DIS AG Germany",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-25T09:25:18.654Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Frankfurt",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e3a75ed8581c02c9a7592bcf0f1e5f73d17559a7",
+      "title": "Junior Network Engineer (m/w/d) (Netzwerk-Servicetechniker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk0NTkxNzAxOS1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "75a70ff5eae3a8edaaa41a6226cfd2f67d09cf63",
+      "title": "Junior Network Engineer (m/w/d) (Netzwerk-Servicetechniker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk0NTkxMTM5OC1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    }
+  ]
+}

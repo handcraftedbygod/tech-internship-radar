@@ -2,14 +2,14 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 22,
+  "totalPostings": 24,
   "avgPostingDurationDays": 22.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Other",
@@ -21,19 +21,19 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,26 @@
     0,
     5,
     8,
-    9,
+    11,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "081351f4ef26c0eba0151452f0b645760c53fd22",
+      "title": "Supply Chain Planning Working Student (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "5bee9742411cb8fe599ec2838a3d2dac033b268e",
+      "title": "Legal & Compliance Intern (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8230615?gh_jid=8230615",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "1d1d4f6132ee0c4e7cdbc318eca2f64fb2b16819",
       "title": "Werkstudent Rezeptmanagement (all genders)",
@@ -106,20 +120,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8169165?gh_jid=8169165",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "40e364f772c11909cfff8a8da8d46ffe5ae02239",
-      "title": "Junior Cook/Koch (x/f/m)",
-      "url": "https://careers.hellofresh.com/global/en/job/8156206?gh_jid=8156206",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "04102eda82c611f4613716b64ad42d70c44ce589",
-      "title": "Junior Growth Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8050737?gh_jid=8050737",
-      "location": "London, England, United Kingdom",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

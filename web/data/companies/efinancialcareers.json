@@ -2,14 +2,14 @@
   "slug": "efinancialcareers",
   "name": "eFinancialCareers",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e3790c66e1d065494a6432fad6347d7d3cfcc343",
+      "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",
+      "url": "https://click.appcast.io/t/RSJtI4uuUO0pnOWZdRpXWJZmNpIDCwXWnrmrCI3PGKDUKJWzl-CuK7WT8VpHIP4_?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "4f8383e718b8d70d2ba49554607aa95dab44df59",
       "title": "Junior Backend Data Platform & AI Engineer  Investment Firm - eFinancialCareers",

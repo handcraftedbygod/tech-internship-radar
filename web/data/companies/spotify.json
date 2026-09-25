@@ -1,0 +1,52 @@
+{
+  "slug": "spotify",
+  "name": "Spotify",
+  "tier": "notable",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-25T09:25:18.654Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "90e5e895cafa1816490b2b9424e1c90890104f88",
+      "title": "RecSys 2026 — Intern",
+      "url": "https://jobs.lever.co/spotify/e7f6e680-bf86-4da6-8711-afe44b84fa41",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "7f19c4b0b9a9f8dd662e20c84efbdee1cb95e421",
+      "title": "CoLM 2026 — Intern",
+      "url": "https://jobs.lever.co/spotify/ba2760c3-6461-45bf-b67b-0508d10c8659",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    }
+  ]
+}

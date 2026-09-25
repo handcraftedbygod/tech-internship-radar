@@ -2,21 +2,21 @@
   "slug": "the-phoenix-partnership",
   "name": "The Phoenix Partnership",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "179934f674fec0d4d4d216b47f546f6e03aa2bb6",
+      "title": "Summer Internship Software Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5897333718?utm_medium=api&utm_source=freehire.me",
+      "location": "Leeds, West Yorkshire",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "727f0a78f6bc5e309da2da2a4d149e25688153b2",
       "title": "Summer Internship Software Developer",

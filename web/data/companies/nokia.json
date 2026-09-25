@@ -2,21 +2,26 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,26 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7bc995a7716934491aa4a2357a3fdc79df91d436",
+      "title": "Software Development Trainee",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40305?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
+    {
+      "id": "63c94c4a81ee7d747095858750061ae9f15eeccf",
+      "title": "Data Analytics / Power BI- Working Student (Wroclaw)",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40833?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "078496c0d335b0781dcba6c69869d36ed0cc0880",
       "title": "Software Engineer Trainee",

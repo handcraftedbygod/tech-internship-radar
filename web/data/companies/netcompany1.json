@@ -2,21 +2,21 @@
   "slug": "netcompany1",
   "name": "Netcompany1",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7b75aae19587d0b7133df71880e2c2d25c7a239",
+      "title": "Junior Cloud DevOps Engineer (Azure)",
+      "url": "https://jobs.smartrecruiters.com/Netcompany1/744000151022219--junior-cloud-devops-engineer-azure-?utm_source=freehire.me",
+      "location": "Warsaw, Masovian Voivodeship, pl",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "83f8e719386ac5a1f8d677e3446468a157b18239",
       "title": "Junior Java Developer (f/m)",

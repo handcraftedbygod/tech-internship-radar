@@ -2,9 +2,9 @@
   "slug": "perplexity",
   "name": "Perplexity",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,12 +37,19 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8b8c740e37a0b038311a48beb513c736fa1a8d35",
+      "title": "Member of Technical Staff (New Grad)",
+      "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "3800f18930ffaf8e026ab65068c4617fbe3e0d2e",
       "title": "Member of Technical Staff, AI Products (Early Career - Industry)",

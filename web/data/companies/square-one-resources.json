@@ -2,13 +2,17 @@
   "slug": "square-one-resources",
   "name": "Square One Resources",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "60f7673fd2651e8fa412b868b2f72e41e41dff54",
+      "title": "Junior Python Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5894008865?utm_medium=api&utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-09-25T09:25:18.654Z"
+    },
     {
       "id": "55de5e4ef4812051741d3ed44e3041de26db8bb3",
       "title": "Junior Python Developer",
