@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 20.7,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -49,12 +49,19 @@
     0,
     1,
     4,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04a8a0412046f2b7290e5a709f8ee95dc5037367",
+      "title": "Sales Intern (North)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Sales-Intern--North-_JR335815",
+      "location": "Germany - Munich",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "20d80b6c58544b6810ef1679e8be0dfdc3352718",
       "title": "Summer 2027 Intern - Recruiting Data Intelligence",
@@ -117,13 +124,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
       "location": "Japan - Remote",
       "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "a749f61391d93ac280e4ffbf5f1b0f7be08da941",
-      "title": "Business Development Associate, Early Career",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Business-Development-Associate_JR347430-1",
-      "location": "Illinois - Chicago",
-      "firstSeenAt": "2026-07-31T06:42:23.386Z"
     }
   ]
 }

@@ -2,11 +2,15 @@
   "slug": "general-dynamics-information-technology",
   "name": "General Dynamics Information Technology",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 3
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +37,33 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a716a95f66bac22ffb091bfdde056b5c46742ad",
+      "title": "GDIT Summer Internship Program - Summer 2027 Generative AI Software Development Internship",
+      "url": "https://www.adzuna.com/land/ad/5897750578?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=FEA1664AE39900BE64BF39D5032CAA0DDE273F21",
+      "location": "Bossier City, Bossier Parish",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "93162f15d3402eecdb63f09279136a05cc871d46",
+      "title": "GDIT Summer Internship Program - Summer 2027 Software Development Internship",
+      "url": "https://www.adzuna.com/land/ad/5897766379?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=B6F2C51A9265EE7FB17963F75AB4611348F4C74A",
+      "location": "Bossier City, Bossier Parish",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "d9ffa87424e9b6dd28e8e1e6685bd7c8d3b4cf98",
+      "title": "GDIT Summer Internship Program - Summer 2027 Cybersecurity Associate Internship",
+      "url": "https://www.adzuna.com/land/ad/5897742258?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=D380A1BBC77C9466042874FA2C14AAA2F2957301",
+      "location": "Bossier City, Bossier Parish",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "41d03cc66bddb2d2c7cc2f27828675af8187b32f",
       "title": "GDIT Summer Internship Program - Summer 2027 Cybersecurity Associate Internship",

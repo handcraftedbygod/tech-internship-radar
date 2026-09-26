@@ -2,11 +2,15 @@
   "slug": "amsterdam-quant-society",
   "name": "Amsterdam Quant Society",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20189cf6d0bdc8e37faf38477d2aee7f45153a54",
+      "title": "Campus Data Engineer (Intern)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__544420503__7082?geoID=31526&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Whitehall, United Kingdom",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "00da3889177783f3002b771cfc5a689e55d1ffe2",
+      "title": "Campus Data Engineer Intern – Build Production Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__545262577__7082?geoID=31526&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Whitehall, United Kingdom",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "154e18fe9733e585324abc3b7482ae8b5327c785",
       "title": "Campus Data Engineer (Intern)",

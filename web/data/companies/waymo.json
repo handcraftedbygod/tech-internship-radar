@@ -2,17 +2,17 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 2
+      "hub": "Warsaw",
+      "count": 3
     },
     {
-      "hub": "Warsaw",
+      "hub": "London",
       "count": 2
     },
     {
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -45,12 +45,19 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1a7c4e802969571d6603cdb099d863e4a52a5113",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "url": "https://artificialintelligencejobs.co/jobs/waymo-2027-summer-intern-bs-ms-software-engineer-ro-performance-team-r-a20d4fee",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "fec0b2fb8868975509e1bf592c55262d193f1877",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
@@ -60,7 +67,7 @@
     },
     {
       "id": "81ef7a61dd0c3af90340c75102792d8b274f3810",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729&utm_source=freehire.me",
       "location": "Warsaw, Poland",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"

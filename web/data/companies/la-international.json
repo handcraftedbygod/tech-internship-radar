@@ -2,9 +2,9 @@
   "slug": "la-international",
   "name": "LA International",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb870ac8f8e52504a3ae1c43e733b193192f48e2",
+      "title": "Junior Full Stack Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__541381483__7082?geoID=31526&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Whitehall, United Kingdom",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "d0aebe875dea50b42eed53895ea91588b618da52",
       "title": "Junior Full Stack Developer",

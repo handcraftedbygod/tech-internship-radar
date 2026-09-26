@@ -2,13 +2,17 @@
   "slug": "picnic",
   "name": "Picnic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +37,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "787126aa7e72dbd14d7085c13690402be6aac41f",
+      "title": "Thesis Internship - Frontend (RUN Systems)",
+      "url": "https://jobs.picnic.app/nl/vacancies?gh_jid=8229937&utm_source=freehire.me",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "694450f6fc3002ed7d26c820c7e5796acf26852b",
       "title": "Commercial Data Analytics Intern (H/F)",

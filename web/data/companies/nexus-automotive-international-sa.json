@@ -2,21 +2,21 @@
   "slug": "nexus-automotive-international-sa",
   "name": "NEXUS Automotive International SA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5024c76246d72393aa2aa8e9c204f79a58f0a3e",
+      "title": "Junior Data Engineer: Python, SQL on AWS & Snowflake",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__43406149__7095?geoID=8&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Genf, Switzerland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "91fe50f4695ad7fe86fc3506a48270b811c5949d",
       "title": "Junior Data Engineer",

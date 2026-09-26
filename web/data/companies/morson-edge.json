@@ -2,14 +2,14 @@
   "slug": "morson-edge",
   "name": "Morson Edge",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b255127d058112fa90af41c2dd4a9023774f1ef",
+      "title": "Junior Shopify Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5898713554?utm_medium=api&utm_source=freehire.me",
+      "location": "Manchester, Greater Manchester",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "5ad41a66c41e1ffdfc9bb71dc000dd2e5997afbb",
       "title": "Junior Data Analyst",

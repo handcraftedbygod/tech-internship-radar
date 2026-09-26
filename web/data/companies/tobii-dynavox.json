@@ -2,20 +2,25 @@
   "slug": "tobii-dynavox",
   "name": "Tobii Dynavox®",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52e9f05ee56ed43532ef8d6caa5532601d43f4b3",
+      "title": "Junior Software Developer - Speech & AI Innovation",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__43407673__7095?geoID=1123&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Mon, Switzerland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "db854862e3bc190c0b2acfbc37a2dd19d0aca324",
       "title": "Junior Software Developer",

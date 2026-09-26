@@ -2,14 +2,14 @@
   "slug": "deloitte-recruitment",
   "name": "Deloitte - Recruitment",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "412f7c1f8dd10ead3d1c62d85d4a429ab6442e78",
+      "title": "Junior Data & AI Software Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__545745419__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "d43f1bd0682168eb867a2cc5d3664c80cd527efd",
       "title": "Junior Software Developer",

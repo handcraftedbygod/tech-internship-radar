@@ -213,18 +213,18 @@
   ],
   "northAmerica": [
     {
+      "name": "Spine",
+      "oneLiner": "We run benefits, payroll & compliance for startups, for free",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/spine"
+    },
+    {
       "name": "Rhem Labs",
       "oneLiner": "Home care technology for aging parents and their families",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/rhem-labs"
-    },
-    {
-      "name": "TrueMile",
-      "oneLiner": "AI agents that run trucking operations.",
-      "batch": "Fall 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/truemile"
     },
     {
       "name": "Volaren Inc.",
@@ -295,6 +295,13 @@
       "batch": "Summer 2026",
       "location": "New York City, NY, USA",
       "url": "https://www.ycombinator.com/companies/pennant"
+    },
+    {
+      "name": "DeepReach Inc.",
+      "oneLiner": "Network for Physical AI Data Business",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/deepreach-inc"
     },
     {
       "name": "Hemlock",
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/locke"
-    },
-    {
-      "name": "Petrarch",
-      "oneLiner": "Internal industrial company data for frontier labs",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/petrarch"
     }
   ]
 }

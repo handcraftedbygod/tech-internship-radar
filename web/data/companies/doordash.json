@@ -2,17 +2,22 @@
   "slug": "doordash",
   "name": "DoorDash",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "design",
       "label": "Design",
@@ -33,12 +38,26 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e3904a903079bf2ab3f241e6687fad0be236d97e",
+      "title": "Machine Learning Intern (PhD) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "4687291818f470cea54452d6528a4fceb225a2a7",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "location": "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "81ba588cd10ec0630067dc60d002a7a71711fb2c",
       "title": "Software Engineer, Intern (Summer 2027) - US",

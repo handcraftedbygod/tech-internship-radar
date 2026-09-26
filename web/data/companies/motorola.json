@@ -2,21 +2,25 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 6
+      "count": 9
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,40 @@
     0,
     0,
     3,
-    3,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8f17396e09c8e6eab9cbf59069b9445ca9d7609",
+      "title": "Software Engineering Internship",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Software-Engineering-Internship_R66949-1?utm_source=freehire.me",
+      "location": "Cork, Ireland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "ab0560f3104941807a659ca5f7e41b50c1f7959f",
+      "title": "Intern Software Developer (C#)",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R68703?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "7bfba2099b11d9432f34b632482e350aeeb3c8f0",
+      "title": "Intern Software Developer (C/C++)",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R68901?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
+    {
+      "id": "1b16735079316128551448ba38f2f0043570d09d",
+      "title": "Intern Software Developer - Java",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer---Java_R68799?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "e6a82429d74f59381a4a01a677c68c4fc78ff2ed",
       "title": "Intern Software Developer (React/JS)",

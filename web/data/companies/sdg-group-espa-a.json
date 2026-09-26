@@ -2,9 +2,9 @@
   "slug": "sdg-group-espa-a",
   "name": "SDG Group España",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Madrid",
       "count": 1
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bdea361147830f0e39bcf4628df89abc20c69584",
+      "title": "Junior Data Engineer — Global Data & AI, Hybrid Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__355312697__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "54f997e32bc2d0473aa175bb1234bd9882fba90e",
       "title": "Junior Data Engineer – Analytics & AI Growth",

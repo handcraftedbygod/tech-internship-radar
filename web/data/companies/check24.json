@@ -2,9 +2,9 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -45,12 +45,19 @@
     0,
     0,
     11,
-    6,
+    7,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e06da0bb21dad684cfd48d6950cbbb6551926f5e",
+      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
+      "url": "https://www.adzuna.de/land/ad/5899339971?se=eIvg7HK58RGCw6kuTDrJlg&utm_medium=api&utm_source=freehire.me&v=DDF43AEA70DE7F4BB5064291C4261BB0A834A1A7",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-09-26T09:09:02.243Z"
+    },
     {
       "id": "a28e5509da33dd4ce5df58a4e3c9376771fe57df",
       "title": "Junior Fullstack Developer (m/w/d) KI-Fokus, InsurTech",
@@ -113,13 +120,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000145289358",
       "location": "Leipzig, Sachsen, Germany",
       "firstSeenAt": "2026-08-24T21:11:48.426Z"
-    },
-    {
-      "id": "60507a2bad83dcc9eb841bf9f75713082343d9e2",
-      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000144717658",
-      "location": "München, Bayern, Germany",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]
 }
