@@ -1,5 +1,207 @@
 [
   {
+    "weekOf": "2026-09-20",
+    "newCount": 483,
+    "prevWeekCount": 690,
+    "pctChange": -30,
+    "totalTracked": 4716,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 239
+      },
+      {
+        "hub": "London",
+        "count": 40
+      },
+      {
+        "hub": "Munich",
+        "count": 28
+      },
+      {
+        "hub": "Barcelona",
+        "count": 25
+      },
+      {
+        "hub": "Paris",
+        "count": 24
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "lombardodier",
+        "name": "lombardodier",
+        "count": 14
+      },
+      {
+        "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
+        "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
+        "count": 13
+      },
+      {
+        "slug": "noir",
+        "name": "Noir",
+        "count": 8
+      },
+      {
+        "slug": "swisscom",
+        "name": "swisscom",
+        "count": 8
+      },
+      {
+        "slug": "glovo",
+        "name": "Glovo",
+        "count": 7
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 153,
+      "sample": [
+        {
+          "slug": "541-cisco-systems-poland-sp-z-oo",
+          "name": "541 Cisco Systems Poland sp. Z o.o."
+        },
+        {
+          "slug": "abn-amro-bank",
+          "name": "ABN AMRO Bank N.V."
+        },
+        {
+          "slug": "addsecure",
+          "name": "AddSecure"
+        },
+        {
+          "slug": "agilerobotsse",
+          "name": "Agilerobotsse"
+        },
+        {
+          "slug": "agnitas",
+          "name": "AGNITAS AG"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "design",
+      "label": "Design",
+      "pctChange": 12.5
+    },
+    "notableHiring": [
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 7
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "figma",
+        "name": "Figma",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "coinbase",
+        "name": "Coinbase",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "spotify",
+        "name": "Spotify",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "doordash",
+        "name": "DoorDash",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "g-research",
+        "name": "G-Research",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "hudson-river-trading",
+        "name": "Hudson River Trading",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "scale-ai",
+        "name": "Scale AI",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "lyft",
+        "name": "Lyft",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Hudson River Trading",
+      "title": "Data Scientist Intern - 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414&utm_source=freehire.me",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 86,
+      "high": 107
+    },
+    "headline": {
+      "company": "Apple",
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models?utm_source=freehire.me",
+      "hub": "Zurich",
+      "badge": "FAANG",
+      "currency": "eur",
+      "low": 46,
+      "high": 57
+    },
+    "earlyPick": {
+      "company": "DoorDash",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+      "season": "Summer 2027",
+      "hub": "New York"
+    }
+  },
+  {
     "weekOf": "2026-09-13",
     "newCount": 690,
     "prevWeekCount": 571,
