@@ -2,21 +2,21 @@
   "slug": "livescore9",
   "name": "Livescore9",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e4c713e41df4f9f8d63d71af18be0132af3bac3",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/junior-data-scientist-london-385613?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
+    {
+      "id": "84f7725dae20f0f878f98e7e0dde10a2c85d37bb",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/livescore9/junior-data-scientist-london-385613",
+      "location": "London",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
     {
       "id": "e8991edf6c4da48334457b85109a5551691ae30b",
       "title": "Junior Data Scientist",

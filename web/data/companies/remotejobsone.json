@@ -1,0 +1,45 @@
+{
+  "slug": "remotejobsone",
+  "name": "RemoteJobsOne",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-09-27T09:51:48.688Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "78ce16f6f10f070eb581268ba732e04535bf5415",
+      "title": "Software Engineer, New Grad",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__156621924__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    }
+  ]
+}

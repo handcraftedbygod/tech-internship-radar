@@ -2,21 +2,21 @@
   "slug": "sun-life-financial",
   "name": "Sun Life Financial",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,26 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fab256d91c8180860aa5391a2d99e501e9ac0b2",
+      "title": "Data Engineering Intern - Mentorship & Hands-on Data Skills",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__5939429__7127?geoID=795&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Waterford, Ireland",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
+    {
+      "id": "f010bb40ded6364307ffedc92140785047ed14ac",
+      "title": "Data Engineering Intern - Mentorship & AI Tools",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__5939307__7127?geoID=795&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Waterford, Ireland",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
     {
       "id": "d3d5b1cd4c8fdae7c2e52c683995d31391bb6f0d",
       "title": "Analytics & Automation Intern: Data, Dashboards & DevOps",

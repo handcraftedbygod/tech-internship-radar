@@ -2,25 +2,25 @@
   "slug": "amsterdam-quant-society",
   "name": "Amsterdam Quant Society",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 2
     },
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1f790f6a7b902c00aa4ee047de78a97ec8886ca",
+      "title": "Campus Data Engineer Intern – Build Production Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__545262577__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
     {
       "id": "20189cf6d0bdc8e37faf38477d2aee7f45153a54",
       "title": "Campus Data Engineer (Intern)",

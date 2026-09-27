@@ -2,21 +2,21 @@
   "slug": "shifty",
   "name": "Shifty",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-29T10:49:33.976Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1bbcedde5a31d14c770f75fb021bfd2f59f92772",
+      "title": "Full Stack Developer Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354053936__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
     {
       "id": "48891bad285202b0b7c021aab88c226acc76a74c",
       "title": "Full Stack Developer Intern",

@@ -2,9 +2,9 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -45,12 +45,19 @@
     0,
     0,
     11,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0638c4a2f56073c6cb36c1e50281d878e1956e77",
+      "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
+      "url": "https://www.adzuna.de/land/ad/5899339971?se=bHZNpQm68RGPgdwTe4mvDA&utm_medium=api&utm_source=freehire.me&v=DDF43AEA70DE7F4BB5064291C4261BB0A834A1A7",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-09-27T09:51:48.688Z"
+    },
     {
       "id": "e06da0bb21dad684cfd48d6950cbbb6551926f5e",
       "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
@@ -113,13 +120,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000145525349",
       "location": "München, Bayern, Germany",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "b1f15b01c2c45d3903637f19f8956ec99dc9e680",
-      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145289358",
-      "location": "Leipzig, Sachsen, Germany",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]
 }
