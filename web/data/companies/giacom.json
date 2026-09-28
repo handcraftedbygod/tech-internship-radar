@@ -2,21 +2,21 @@
   "slug": "giacom",
   "name": "Giacom",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "183a27791f215194196beac23803ded15be94339",
+      "title": "Junior DevOps Engineer - AWS & CI/CD (Hybrid)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__548160974__7082?geoID=22510&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Ovingham, United Kingdom",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "20a3c9a4a9c71a7ae62deca772ec6ab87942df23",
       "title": "Junior DevOps Engineer",

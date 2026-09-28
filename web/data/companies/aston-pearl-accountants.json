@@ -2,21 +2,21 @@
   "slug": "aston-pearl-accountants",
   "name": "Aston Pearl Accountants",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d06027bb5a9c2f120a55180c65eb33ede60e462",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5899939739?se=Hp95AdO68RGGQ9u1mQKVdw&utm_medium=api&utm_source=freehire.me&v=53E67B15B8E58C8DD75990BDEDF805EC8C7E37D3",
+      "location": "Farringdon, Central London",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "251c3861e5381030f17bae500528e18e765410f9",
       "title": "Trainee Data Analyst",

@@ -2,21 +2,21 @@
   "slug": "identify-solutions",
   "name": "Identify Solutions",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "433474649916615db6b2942d55058e541a10f48b",
+      "title": "Junior Fullstack Engineer for D2C Health (Hybrid London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__548163258__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "f4980cad5e55863c562198cc5d700ed591c3f2a9",
       "title": "Junior Fullstack Engineer (React/Typescript)",

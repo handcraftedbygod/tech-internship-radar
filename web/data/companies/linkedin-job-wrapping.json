@@ -2,14 +2,14 @@
   "slug": "linkedin-job-wrapping",
   "name": "LinkedIn Job Wrapping",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32a10fe7470f122da370d4e589129f6a66dc9ae4",
+      "title": "Intern Data Analyst - Paris",
+      "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8795538002?utm_source=freehire.me",
+      "location": "9th arrondissement of Paris, 75009, Paris, France",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "d69299844e066fbe3746fd05fbf4613a9645e2b8",
       "title": "Data Scientist Intern - Paris",

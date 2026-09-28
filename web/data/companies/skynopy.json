@@ -1,14 +1,18 @@
 {
   "slug": "skynopy",
-  "name": "SKYNOPY",
+  "name": "Skynopy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8aa4e847ae143f9e6f6c7dbc8482da3e82df213f",
+      "title": "Software Engineer Internship",
+      "url": "https://www.adzuna.fr/details/5900715433?utm_medium=api&utm_source=9141e2e6",
+      "location": "2ème Arrondissement, Paris",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "a5202007c6955557b6363efde73b66e2fc31519f",
       "title": "Junior Software Engineer (H/F)",

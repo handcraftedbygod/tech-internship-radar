@@ -2,21 +2,25 @@
   "slug": "airbus-operations-gmbh-werk-bremen",
   "name": "Airbus Operations GmbH Werk Bremen",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Bremen",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56ce23e256e1f5286f8a584dcd38a0a45c3c9dda",
+      "title": "Internship within Aerodynamic Machine Learning (d/f/m)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-973486364-S",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "ab877ea03ec28b2f7ee3a19313f0543ddbb3656b",
       "title": "Internship (d/f/m) within Airbus site Artificial Intelligence Centre (AIC)",

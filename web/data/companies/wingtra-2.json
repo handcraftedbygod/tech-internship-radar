@@ -1,22 +1,22 @@
 {
   "slug": "wingtra-2",
-  "name": "wingtra-2",
+  "name": "Wingtra 2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce70205b172062642395f818c24edc696e009701",
+      "title": "Junior Software Engineer - GTM Products",
+      "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/junior-software-engineer-gtm-products-zurich-134427",
+      "location": "Zürich",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "075fee3eb96dc8d73a45f02c3032ca51e762ddad",
       "title": "Junior Software Engineer - GTM Products",

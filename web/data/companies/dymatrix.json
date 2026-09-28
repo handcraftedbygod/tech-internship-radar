@@ -2,21 +2,21 @@
   "slug": "dymatrix",
   "name": "DYMATRIX GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc909d744cbea04ff9183772639d7fe86cd1962e",
+      "title": "(Junior) Cloud Data Engineer (all genders) (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtMjEwMzkyYjZfSkI1MjU2NDAxLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "f7422b931625912800c5459c8a7adc2833d58857",
       "title": "(Junior) Cloud Data Engineer (all genders) (Data Engineer)",

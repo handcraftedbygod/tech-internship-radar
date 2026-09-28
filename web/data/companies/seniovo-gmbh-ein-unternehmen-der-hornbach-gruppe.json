@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": null,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d2203c65b6c967e5e9b66419ce1682ad339141b2",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-87279",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "7c718fbc1df56a27a7e9e64eeac3be0a1da4d500",
       "title": "Junior Full Stack Developer (All Genders)",

@@ -2,9 +2,9 @@
   "slug": "shift-technology",
   "name": "Shift Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Madrid",
       "count": 1
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -32,12 +36,19 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b2bdb041c1595791571c775ec852040c3d837e4",
+      "title": "Data Scientist Internship (November, 6 months)",
+      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003?utm_source=freehire.me",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "aa6e42c25855d5a2fa71fd76a14a9e731683392d",
       "title": "Data Science internship - Spanish speaker (6months)",

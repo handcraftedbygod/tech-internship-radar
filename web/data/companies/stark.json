@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 7.5,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 7.3,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "382c075c9d8474413deba000339cdad63a67c189",
+      "title": "Working Student – Flight Software Engineering (PX4 / Autopilot) (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/stark/working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-477268",
+      "location": "Berlin",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "4696932a9c32e7d7f1c458f4bdd86058a225d0a9",
       "title": "Working Student – Flight Software Engineering (PX4 / Autopilot) (all genders)",

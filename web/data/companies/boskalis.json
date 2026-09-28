@@ -2,14 +2,14 @@
   "slug": "boskalis",
   "name": "boskalis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,12 +33,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "316ed7bcf2f096d7fde1946a799a424d1e887e68",
+      "title": "AI & Machine Learning Internship",
+      "url": "https://jobs.smartrecruiters.com/Boskalis/744000151839381-ai-machine-learning-internship?utm_source=freehire.me",
+      "location": "Papendrecht, ZH, nl",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "3f7088720d3565b367b2a83d16359a23c74a6f8c",
       "title": "Junior Systems Engineer",

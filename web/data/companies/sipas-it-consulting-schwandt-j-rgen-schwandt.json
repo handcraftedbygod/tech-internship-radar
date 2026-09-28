@@ -2,13 +2,17 @@
   "slug": "sipas-it-consulting-schwandt-j-rgen-schwandt",
   "name": "Sipas IT-Consulting Schwandt Jürgen Schwandt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Stuttgart",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +32,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d1d813d564fef0d48876b2290bb94e29675c30f",
+      "title": "Frontend-GUI-Entwickler INTERN m/w/d (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzc2ODQzOC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "8dce28e486103b0c2b2b8068711329c12fe6621a",
       "title": "Frontend-GUI-Entwickler INTERN m/w/d",

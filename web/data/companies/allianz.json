@@ -2,9 +2,9 @@
   "slug": "allianz",
   "name": "Allianz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 2
     },
     {
-      "hub": "Barcelona",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -30,6 +30,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -41,12 +46,19 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e280f70db77888e401d95ce796596261f504d36b",
+      "title": "Intern Quantitative Developer (f/m/d)",
+      "url": "https://internal-careers.allianz.com/job/PARIS-Intern-Quantitative-Developer-%28fmd%29-75-75002/1437345033/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "58e1ee0c3d0bcab8cd33bcf1becdb586a78731da",
       "title": "Working Student Software Developer (m/f/d)",

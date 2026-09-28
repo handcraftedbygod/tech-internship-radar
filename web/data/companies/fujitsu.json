@@ -2,21 +2,21 @@
   "slug": "fujitsu",
   "name": "Fujitsu",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c250d1f13e539d2a5c7445e34c2a28a6d37479f6",
+      "title": "Software Engineering Curricular Internship",
+      "url": "https://www.jobs.global.fujitsu.com/job/Braga-Software-Engineering-Curricular-Internship-03/4365650/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-09-28T10:36:11.914Z"
+    },
     {
       "id": "362304929f92213b03253fa60745e849a342408e",
       "title": "Junior Application Developer",
