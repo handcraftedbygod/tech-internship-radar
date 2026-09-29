@@ -2,21 +2,21 @@
   "slug": "lombardodier",
   "name": "lombardodier",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "swe",
@@ -33,12 +33,19 @@
     0,
     0,
     0,
-    14,
+    15,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ee98e447ab856cf7683d3f1881fb34647dda2aa",
+      "title": "Internship – AI Software Engineer - AI-Powered Portfolio Intelligence (PMS)",
+      "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---AI-Software-Engineer---AI-Powered-Portfolio-Intelligence--PMS-_R0007628?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "9fcb04e1fcf9b10ad258559855d2ad91a36ec484",
       "title": "Internship – Software Engineer – Global Markets Services AI Project",
@@ -99,13 +106,6 @@
       "id": "8290b4df348ffa23dad6a3e0f0084c957f2ffe91",
       "title": "Internship – Machine Learning Engineer - Action Dashboard Ranking Engine",
       "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Machine-Learning-Engineer---Action-Dashboard-Ranking-Engine_R0007629?utm_source=freehire.me",
-      "location": "Geneva",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "6fed28e637e80030609968a00d550533b52475b0",
-      "title": "Internship – Data Engineer - Optimization of Data Delivery",
-      "url": "https://lombardodier.wd3.myworkdayjobs.com/Lombard_Odier_Careers/job/Geneva/Internship---Data-Engineer---Optimization-of-Data-Delivery_R0007637?utm_source=freehire.me",
       "location": "Geneva",
       "firstSeenAt": "2026-09-26T09:09:02.243Z"
     }

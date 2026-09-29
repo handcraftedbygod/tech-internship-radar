@@ -2,21 +2,21 @@
   "slug": "cbc-cologne-business-center",
   "name": "CBC Cologne Business Center GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "388fee20573887b642ee95324b7483fd986f7f9f",
+      "title": "Werkstudent (m/w/d) Data Analytics & BI",
+      "url": "https://jobboard.onapply.de/listing/346298?source=arbeitsagentur",
+      "location": "Köln",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "73783b1880b4e3c85a49ea1e8273b6fae6d8c9f6",
       "title": "(Junior) Data Scientist (m/w/d) in Vollzeit oder Teilzeit (Data Scientist)",

@@ -1,0 +1,52 @@
+{
+  "slug": "iss-a-s",
+  "name": "ISS A/S",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-29T10:26:55.144Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c3065142c60c7cac14ae74c9e602d93d02d39ecf",
+      "title": "Junior People Data Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29956607__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
+    {
+      "id": "aaa53f30ee8b4c7de4125dc3e1a5833e9b6cf6bb",
+      "title": "Junior Microsoft Fabric Data Engineer – HR Analytics",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29956016__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "careervalue",
+  "name": "CareerValue",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-09-29T10:26:55.144Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6734b9c97c64217e01d9f4ecd5ad5d7208fb05ec",
+      "title": "Vacature in Dieren: Junior Java Developer | regio Dieren",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__167228035__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
+    {
+      "id": "4b0d6a7be4e1e54200ee2e092a94b113d11fe649",
+      "title": "Vacature in Eindhoven: (Junior) Data Engineer: interne functie met veel kansen!",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__167337798__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    }
+  ]
+}

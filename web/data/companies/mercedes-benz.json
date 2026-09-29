@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -49,12 +49,19 @@
     0,
     0,
     19,
-    9,
+    10,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2c942ec509d1680da1984e703e0411684f91ae6",
+      "title": "Praktikant*in Charging System Validation, Lifecycle & Data Analytics",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1636859-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "ff4e33f33457921e25237c903dfdfd983bc0121b",
       "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
@@ -117,13 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625930-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "27201de558cf73cb2343f6334281b6cc210c9e47",
-      "title": "Werkstudent*in Data Engineering & Business Intelligence",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1623842-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

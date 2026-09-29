@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 53,
+  "totalPostings": 54,
   "avgPostingDurationDays": 36.5,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 30
+      "count": 31
     },
     {
       "hub": "Munich",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
@@ -64,12 +64,19 @@
     0,
     27,
     10,
-    16,
+    17,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c998225d97361cf25f12fba61241d2816adef7a2",
+      "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "7d3393b7d60eb81901f3348d0808739408439cea",
       "title": "Working Student External Communications",
@@ -130,13 +137,6 @@
       "id": "6c91131b26fe28039a35fa3b5bd8fe9d6a6e2cb8",
       "title": "Intern Technology Consultant - Data & AI",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "eaa29a2b9f1ac28836beea2d0d0492a7c8de18a6",
-      "title": "Intern Deployment Engineer - Data & AI",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7990983003?gh_jid=7990983003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }

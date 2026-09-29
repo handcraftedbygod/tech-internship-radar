@@ -2,17 +2,17 @@
   "slug": "digatus-personal",
   "name": "digatus personal GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Frankfurt",
+      "count": 2
     },
     {
-      "hub": "Frankfurt",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c636770f903cb2b170727d2b21177ee6f4ae7848",
+      "title": "Junior Network Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19886-KOFGYWG6BFLUFUO9-S?utm_source=freehire.me",
+      "location": "Frankfurt am Main, HESSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "cc1d67fe874775684d7d64e51f798eb8b086d62d",
       "title": "Junior Network Engineer (m/w/d)",

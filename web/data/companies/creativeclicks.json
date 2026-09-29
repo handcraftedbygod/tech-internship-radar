@@ -2,20 +2,25 @@
   "slug": "creativeclicks",
   "name": "creativeclicks",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dfbe664d19929f82ceba04353fc0206ee094bc3",
+      "title": "Backend Engineer Intern",
+      "url": "https://creativeclicks.recruitee.com/o/backend-engineer-intern?utm_source=freehire.me",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "6295124b9b71db1eb80cdda8f452e042f998dd2f",
       "title": "Junior Data Engineer",

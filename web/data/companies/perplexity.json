@@ -2,9 +2,9 @@
   "slug": "perplexity",
   "name": "Perplexity",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -37,12 +37,19 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c4fe4efe459c668239b9083a935e7ad14e7904a",
+      "title": "Member of Technical Staff (New Grad)",
+      "url": "https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "d316711ec5d12007d13190cc079f863a1e8d4bce",
       "title": "Member of Technical Staff (New Grad)",

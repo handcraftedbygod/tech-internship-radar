@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -32,12 +32,19 @@
     0,
     0,
     1,
-    7,
+    8,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6261bde5fd3831f223cf85f62a4426c9e759f58",
+      "title": "Junior Cloud Software Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Cloud-Software-Engineer_2023637?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "65c68f0a412941efd927189f3fe74fd94c7ba78c",
       "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",

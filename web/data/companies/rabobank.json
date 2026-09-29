@@ -2,20 +2,25 @@
   "slug": "rabobank",
   "name": "rabobank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -28,12 +33,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55cb0a0577ce034f9efcbfe7e2d75ef2e1b4259f",
+      "title": "Junior DevOps Engineer - Early Career Program IT",
+      "url": "https://wd3.myworkdaysite.com/recruiting/rabobank/jobs/job/Utrecht-Winthontlaan-1/Junior-DevOps-Engineer---Early-Career-Program-IT_JR_00145756?utm_source=freehire.me",
+      "location": "Utrecht Winthontlaan 1",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "4c93a4b8b5b2fc5a5ece85ff98ac4341edfe7d6d",
       "title": "Junior Data Scientist",

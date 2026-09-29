@@ -2,14 +2,14 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -38,12 +38,19 @@
     0,
     0,
     0,
-    11,
+    12,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9961422f7b287fbe522c16ddd0f355334d163b27",
+      "title": "Affiliation Marketing Intern (German & English required)",
+      "url": "https://jobs.ashbyhq.com/backmarket/3f3b8727-f313-41f8-a1ef-68666ecb0a0f",
+      "location": "Paris",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "c90d9fd9978ad10e66458674f6295b63f0dd6049",
       "title": "Business Development Intern (Mandarin Speaker)",
@@ -106,13 +113,6 @@
       "url": "https://jobs.ashbyhq.com/backmarket/40a80901-b0e4-4bc5-8208-1c396c1c8384",
       "location": "Paris",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "3a6cc7a9acc8b568160ee3d5cedf841317aef231",
-      "title": "Sustainability and Public Affairs Intern (Paris )",
-      "url": "https://jobs.ashbyhq.com/backmarket/68d98b54-27d2-468a-9ae2-ace32cbb90d7",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
     }
   ]
 }

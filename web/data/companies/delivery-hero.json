@@ -2,17 +2,17 @@
   "slug": "delivery-hero",
   "name": "Delivery Hero",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
-      "hub": "Lisbon",
-      "count": 1
+      "hub": "Barcelona",
+      "count": 2
     },
     {
-      "hub": "Barcelona",
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -21,6 +21,11 @@
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -32,12 +37,19 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bfa7ed4048ad38e448fd9df8c8f95c9031b408a5",
+      "title": "Internship - Data Analyst ",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000152260659",
+      "location": "Barcelona, , Spain",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "da3f4a98d4943222c7c56c01fffb2809e13a0852",
       "title": "Junior Operations Data Analyst Forecasting - AFR",

@@ -2,9 +2,9 @@
   "slug": "general-dynamics-information-technology",
   "name": "General Dynamics Information Technology",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "891727f51b60495e2d8f8999fcc80136a333168a",
+      "title": "GDIT Summer Internship Program - Summer 2027 Software Development Internship",
+      "url": "https://www.adzuna.com/land/ad/5897285144?se=VAFj5O-78RGQguK4I3PIXQ&utm_medium=api&utm_source=9141e2e6&v=BAB6FE5DA775776C98FABBE6C25A6B5F858D6683",
+      "location": "US",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "9a716a95f66bac22ffb091bfdde056b5c46742ad",
       "title": "GDIT Summer Internship Program - Summer 2027 Generative AI Software Development Internship",

@@ -2,14 +2,14 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Montreal",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -41,12 +41,19 @@
     0,
     0,
     8,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f08e36578016cf36a0759487b50bb95297849b9c",
+      "title": "Engine Programmer Intern",
+      "url": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004&utm_source=freehire.me",
+      "location": "London,England,United Kingdom",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "eae52d02324ef1c636f2c8b6965da3de2ae58266",
       "title": "Machine Learning Intern",

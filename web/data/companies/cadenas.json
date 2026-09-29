@@ -2,21 +2,21 @@
   "slug": "cadenas",
   "name": "CADENAS GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 5
     },
     {
       "id": "swe",
@@ -33,12 +33,26 @@
     0,
     0,
     4,
-    0,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5788f0fb8016d4b78bb3f651e4c45677cde8fd4",
+      "title": "(Junior) Business Applications Developer (m/w/d) – MS Business Central",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003777902-S?utm_source=freehire.me",
+      "location": "Augsburg, Bayern, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
+    {
+      "id": "9b40c42301125db5659ee984937e887f9154c7cc",
+      "title": "(Junior) ERP Developer (m/w/d) Microsoft Business Central",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003777841-S?utm_source=freehire.me",
+      "location": "Augsburg, Bayern, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "a39c8c7205b4b09156a08f2db796852501deac5a",
       "title": "(junior) Erp Developer (m/w/d) Microsoft Business Central",

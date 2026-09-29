@@ -2,14 +2,14 @@
   "slug": "cisco-systems",
   "name": "Cisco Systems, Inc.",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -37,12 +37,19 @@
     0,
     0,
     1,
-    4,
+    5,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "617a8662450048f00e3793a3f3ac047f518a87be",
+      "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management - splunk",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29897209__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "fd679ee8f21266cc6d1ed5b0c4accbfe97c8a350",
       "title": "Junior Python Data Platform Engineer: Build Pipelines",

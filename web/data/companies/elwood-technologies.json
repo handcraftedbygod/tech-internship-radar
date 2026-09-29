@@ -2,21 +2,21 @@
   "slug": "elwood-technologies",
   "name": "Elwood Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eae6168520a1129b2dcae82e491719775435058a",
+      "title": "Graduate/Junior Software Engineer ",
+      "url": "https://job-boards.greenhouse.io/elwoodtechnologies/jobs/6209718004?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "2bfa2cb1a845b93a8bb6f0d99adeed36ff2f078a",
       "title": "Graduate/Junior Software Engineer - Backend",

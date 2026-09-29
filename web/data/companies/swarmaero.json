@@ -2,21 +2,21 @@
   "slug": "swarmaero",
   "name": "Swarmaero",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -28,12 +28,19 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27f1e636d6786aea9b85f4e8ccbd8dfd19a55c55",
+      "title": "Software Engineer, Real-Time Systems (Early Career)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-software-engineer-real-time-systems-early-career-266685",
+      "location": "Remote",
+      "firstSeenAt": "2026-09-29T10:26:55.144Z"
+    },
     {
       "id": "1ff1fb0212b21be052e60d734defe9f63532b733",
       "title": "Software Engineer Intern (Summer 2027)",
