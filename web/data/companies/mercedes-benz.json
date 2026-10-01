@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 29,
+  "totalPostings": 30,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Stuttgart",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ai",
@@ -50,11 +50,18 @@
     0,
     19,
     10,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4954d403bdc659dc80939855a44d265ca0b133d",
+      "title": "Praktikant*in Software & KI für Elektrofahrzeuge",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638250-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "f2c942ec509d1680da1984e703e0411684f91ae6",
       "title": "Praktikant*in Charging System Validation, Lifecycle & Data Analytics",
@@ -117,13 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625336-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "e8b898766b7374277e361042fc903e50d57e1712",
-      "title": "Praktikant*in Data Analytics & Business Intelligence",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625930-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

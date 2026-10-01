@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 42,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 59,
-  "avgPostingDurationDays": 19.5,
+  "totalPostings": 60,
+  "avgPostingDurationDays": 19.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 33
+      "count": 34
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 47
+      "count": 48
     },
     {
       "id": "biz",
@@ -51,11 +51,18 @@
     0,
     33,
     26,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58845dfbe05c0c351ffba8a91081be185562d9d3",
+      "title": "Intern Data Analyst I People Strategy Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "cebc81d011f78048567faf2a5321e619c272aca8",
       "title": "Junior Business Analyst – Fleet Operations (Spain)",
@@ -118,13 +125,6 @@
       "url": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159/",
       "location": "Lisbon, Portugal",
       "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "c410f754e877717a88049955268c41a8dbac5e83",
-      "title": "Junior Fintech Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-fintech-analyst-in-barcelona-spain-jid-744000150717629/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-22T09:03:32.137Z"
     }
   ]
 }

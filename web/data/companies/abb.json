@@ -2,14 +2,14 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38d8afbab7d0c51b5ce6348c5bee75f54c6ea200",
+      "title": "Junior Control Software Engineer",
+      "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Control-Software-Engineer_JR00048815?utm_source=freehire.me",
+      "location": "Aleksandrow Lodzki, Lodz, Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "ff5bb7d00d0a2455644bce29dd816d7b70a9aac1",
       "title": "Internship - AI & Data Analytics in Sales f/m/d (80-100%)",

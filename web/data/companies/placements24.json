@@ -1,0 +1,52 @@
+{
+  "slug": "placements24",
+  "name": "Placements24",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-01T10:45:16.393Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "672b8b9aca7f7bada7c09885461252bb410d9b1f",
+      "title": "Junior Software Developer - Backend Systems",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__552939877__7082?geoID=21178&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Newlands, United Kingdom",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "bad20d23202a1505514a64b488015f230d4a8229",
+      "title": "Junior Backend Engineer — Grow with Mentorship",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__552940328__7082?geoID=21178&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Newlands, United Kingdom",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    }
+  ]
+}

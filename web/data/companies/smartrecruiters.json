@@ -1,0 +1,59 @@
+{
+  "slug": "smartrecruiters",
+  "name": "SmartRecruiters, Inc.",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-01T10:45:16.393Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7be5c99595235d3b7b1c91edce61a785d4b1c389",
+      "title": "Junior Cloud DevOps Engineer: Azure & IaC",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29952163__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "67a428913edad4292ba71663bf00470dc67cf709",
+      "title": "Junior Cloud DevOps Engineer (Azure) (f/m)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29952666__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "e2f2436f34d110056fb1e56bb8a8374d6b6acc0d",
+      "title": "IT Internship (BackEnd, Java) (f/m)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29957470__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    }
+  ]
+}

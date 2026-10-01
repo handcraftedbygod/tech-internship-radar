@@ -2,21 +2,21 @@
   "slug": "netwatch",
   "name": "netwatch",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "75360ecf50ce99c79425ebd536b1258a94f3154a",
+      "title": "IT & Cybersecurity Intern",
+      "url": "https://netwatch.bamboohr.com/careers/271?utm_source=freehire.me",
+      "location": "Carlow, Leinster, Ireland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "53a289f1df7b3c4075022ad67f7767e89f721cf2",
       "title": "Software Development- SETU Intern 2027",

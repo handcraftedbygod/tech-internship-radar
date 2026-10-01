@@ -2,25 +2,30 @@
   "slug": "hiq-finland",
   "name": "HiQ Finland",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -34,11 +39,25 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed45a692f9eef7744644cc9702996c1ea01ad961",
+      "title": "Junior Hybrid DevOps Engineer — Grow with Cloud & Linux",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__1014790__7123?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "2bd0a8a14d7d4f93fc700d7debab154055f389a8",
+      "title": "Junior DevOps Engineer Multiple locations / Hybrid",
+      "url": "https://fi.whatjobs.com/pub_api__cpl__1014630__7123?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "682e0e3772a5d09d124868998a4ba6308aacb857",
       "title": "Junior DevOps Engineer — Hybrid, Growth & Learning",

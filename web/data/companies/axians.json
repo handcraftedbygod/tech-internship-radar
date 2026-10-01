@@ -2,13 +2,17 @@
   "slug": "axians",
   "name": "Axians",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ceb58ec49686ae672f88157ea2e94187255377f2",
+      "title": "Junior Software &amp; AI Engineer",
+      "url": "https://axiansenterprise.teamtailor.com/jobs/8480243-junior-software-ai-engineer?utm_source=freehire.me",
+      "location": "Lisbon, PT",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "80711e78db966a90c5059795760f7b983d306284",
       "title": "Junior IT-System & Security Engineer (a) 60–80 %",

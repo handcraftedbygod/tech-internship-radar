@@ -2,17 +2,21 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
+    {
+      "hub": "Zurich",
+      "count": 2
+    },
     {
       "hub": "Paris",
       "count": 1
     },
     {
-      "hub": "Zurich",
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,25 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bd40912b36eba87b2c3ee524eedb0a4425adf4cf",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "47ca57611c28f022c4b324b3f156b0435f6cc5da",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency?utm_source=freehire.me",
+      "location": "Zurich",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "f35a318bc719cda3986792ff73d474e92d5af324",
       "title": "Internship - Machine Learning (Foundation Models)",

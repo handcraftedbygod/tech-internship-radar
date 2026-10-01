@@ -2,20 +2,25 @@
   "slug": "targobank",
   "name": "TARGOBANK AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Düsseldorf",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "455219f37cc3d9cb10b8d3d9f5aea7f7a06923ba",
+      "title": "Praktikum im Ressort Finanzen als Data Analyst / Financial Analytics (6 Monate)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12457-1201551-4-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "fb602dc3353d13adeb5938447ec938720899ccfe",
+      "title": "Praktikum im Ressort Marketing als Data Analyst (6 Monate)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12457-1245977-5-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "9dc5622a7ea25ab1edf59c37a69c74f74e6da445",
       "title": "Praktikum Marketing / Data Science (6 Monate)",

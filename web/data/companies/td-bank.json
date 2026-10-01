@@ -2,9 +2,9 @@
   "slug": "td-bank",
   "name": "TD Bank",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,11 +41,18 @@
     0,
     0,
     7,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a9df83fd0aaab128bf30802f9953128cdacba13",
+      "title": "2027 Technology Internship - Valuation Services Software Engineer - 6-month Internship (January – July)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Dublin-Ireland/XMLNAME-2027-Technology-Internship---Valuation-Services-Software-Engineer---6-month-Internship--January---July-_R_1513793?utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "5d8140069bf5c2b05a795abb8d5ee95f94d5ea9c",
       "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",

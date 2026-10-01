@@ -4,23 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 17.7,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 17.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -34,11 +34,18 @@
     0,
     3,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae03bd66792d8a8c8006c5fccee00f43a8fec434",
+      "title": "Junior Data Engineer (6-Month Engagement)",
+      "url": "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101&utm_source=freehire.me",
+      "location": "Poland; Ukraine",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "9ac5ae8f89527ff854c667662542ed97337b948c",
       "title": "Junior Automation QA Engineer",

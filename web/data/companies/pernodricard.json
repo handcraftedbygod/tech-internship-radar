@@ -2,17 +2,17 @@
   "slug": "pernodricard",
   "name": "pernodricard",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Paris",
+      "count": 2
     },
     {
-      "hub": "Paris",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df115cd90cf573f781e49bf486240428c542b7b4",
+      "title": "Data analyst intern - January 2027 - Paris",
+      "url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard/job/Paris/Data-analyst-intern---January-2027---Paris_JR-055142-1?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "0cf9b4a5d5f1371fde1a0620234c23c6aff0da7b",
       "title": "Machine Learning Engineer Intern - Paris - January 2027",

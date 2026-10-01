@@ -2,21 +2,21 @@
   "slug": "sr2",
   "name": "SR2",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe8e81d4a9f660738f62e0acd206ce363ef49f24",
+      "title": "SC cleared Junior Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/sc-cleared-junior-data-engineer/57401547?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "3f7fa7a08e9ec2db141f7240ea1706a9a8fe2440",
       "title": "Junior Data Engineer - SC Cleared",

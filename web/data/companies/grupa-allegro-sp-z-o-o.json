@@ -2,9 +2,9 @@
   "slug": "grupa-allegro-sp-z-o-o",
   "name": "Grupa Allegro Sp. z o. o.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     1,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4764f6a303f86b86aaf3911d787be7ae1de67ea",
+      "title": "Junior Software Engineer - .NET - Allegro Klik/Care",
+      "url": "https://nofluffjobs.com/job/junior-software-engineer-net-allegro-klik-care-grupa-allegro-warszawa?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "87f31e7e4f893e3fa534e834604b093bca77a5e3",
       "title": "Junior Data Scientist",

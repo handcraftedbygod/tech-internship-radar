@@ -2,17 +2,22 @@
   "slug": "doctrine",
   "name": "doctrine",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -29,11 +34,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "80c399f7a1993fd2aee6dbb1f07d5420ab3afda9",
+      "title": "STAGE - Junior SRE (Foundation squad)",
+      "url": "https://jobs.lever.co/doctrine/97e22df3-40b3-4aa9-b1d5-9225db256e45?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "050d3d4a96365a4400cdcd0f2b5efe84f5eede1f",
+      "title": "STAGE - Junior Fullstack Engineer (Italy)",
+      "url": "https://jobs.lever.co/doctrine/5788d9c7-5980-4c39-9d90-e86fa6f2104e?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "1673ad404921b8c690df37330a165ffb7d38627a",
       "title": "Junior / Intermediate Machine Learning Engineer - Squad Distribute",

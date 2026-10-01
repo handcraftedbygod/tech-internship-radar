@@ -2,21 +2,21 @@
   "slug": "sr2-rec",
   "name": "SR2 REC LTD",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "499c855a2729f758ded64e37033667840d4bfab5",
+      "title": "SC cleared Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5902944090?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "af43b7c0b641cda195149e1a1b34e82e5643983d",
       "title": "Junior Data Engineer - SC Cleared",

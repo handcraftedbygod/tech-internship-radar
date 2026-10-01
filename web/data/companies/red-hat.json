@@ -2,20 +2,25 @@
   "slug": "red-hat",
   "name": "Red Hat",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1510823b869109814b6900d7a6f9da804de484d",
+      "title": "Software Engineering Internship (Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Software-Engineering-Internship--Ireland-_R-059589?utm_source=freehire.me",
+      "location": "Waterford City",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "6747ef9d1bfa4fbe44119902843a6b6d51811e77",
       "title": "Software Engineering Full-Stack Intern - GenAI Studio (Waterford office, Ireland)",

@@ -2,9 +2,9 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 15,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "product",
@@ -50,11 +50,18 @@
     1,
     2,
     13,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "421418ad67722d0e786592e8d2826faa6865275a",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "location": "Seattle, San Francisco",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "5bcf26a4407f113ff63c53b04cffabbc2f2332e9",
       "title": "Software Engineer, Early Career — Immediate Start",
@@ -116,13 +123,6 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130881",
       "location": "Dublin",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "c16e246f2d317e892f2290f846edafbf70dc9878",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "location": "San Francisco, Seattle, New York",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]

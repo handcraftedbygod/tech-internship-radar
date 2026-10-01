@@ -1,6 +1,13 @@
 {
   "europe": [
     {
+      "name": "CONUS",
+      "oneLiner": "The AI knowledge layer for medical devices",
+      "batch": "Fall 2026",
+      "location": "Cologne, NRW, Germany",
+      "url": "https://www.ycombinator.com/companies/conus"
+    },
+    {
       "name": "KugelAudio",
       "oneLiner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
       "batch": "Spring 2026",
@@ -9,7 +16,7 @@
     },
     {
       "name": "Revnu",
-      "oneLiner": "The growth infrastructure for the autonomous business",
+      "oneLiner": "Your AI growth hire.",
       "batch": "Spring 2026",
       "location": "Manchester, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/revnu"
@@ -202,16 +209,16 @@
       "batch": "Spring 2025",
       "location": "London, England, United Kingdom",
       "url": "https://www.ycombinator.com/companies/throxy"
-    },
-    {
-      "name": "Lucis",
-      "oneLiner": "Function Health for Europe ",
-      "batch": "Spring 2025",
-      "location": "Paris, Île-de-France, France",
-      "url": "https://www.ycombinator.com/companies/lucis"
     }
   ],
   "northAmerica": [
+    {
+      "name": "Moda",
+      "oneLiner": "Fully editable slides, designs and video.",
+      "batch": "Fall 2026",
+      "location": "New York City, NY, USA",
+      "url": "https://www.ycombinator.com/companies/moda-2"
+    },
     {
       "name": "Spine",
       "oneLiner": "We run benefits, payroll & compliance for startups, for free",
@@ -232,6 +239,13 @@
       "batch": "Fall 2026",
       "location": "New York City, NY, USA",
       "url": "https://www.ycombinator.com/companies/volaren-inc"
+    },
+    {
+      "name": "Streamline Systems",
+      "oneLiner": "Precision navigation for UAVs operating without GPS. ",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/streamline-systems"
     },
     {
       "name": "Ignition Benefits",
@@ -407,20 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/screenpipe"
-    },
-    {
-      "name": "LemonLime",
-      "oneLiner": "Fully automated GTM for small business",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/lemonlime"
-    },
-    {
-      "name": "83 Sciences",
-      "oneLiner": "AI-native materials discovery powered by unpublished experimental data",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/83-sciences"
     }
   ]
 }

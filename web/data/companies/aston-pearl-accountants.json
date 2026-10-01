@@ -2,21 +2,25 @@
   "slug": "aston-pearl-accountants",
   "name": "Aston Pearl Accountants",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a4178d2cf4bac96abec14461b405cba6fbed551",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5902754635?utm_medium=api&utm_source=freehire.me",
+      "location": "Beddington, Croydon",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "3d06027bb5a9c2f120a55180c65eb33ede60e462",
       "title": "Trainee Data Analyst",

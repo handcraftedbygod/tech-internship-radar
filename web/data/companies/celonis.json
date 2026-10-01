@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 14,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 54,
-  "avgPostingDurationDays": 36.5,
+  "totalPostings": 55,
+  "avgPostingDurationDays": 37,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
       "count": 2
     },
     {
-      "hub": "London",
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 23
     },
     {
       "id": "ai",
@@ -65,11 +65,18 @@
     27,
     10,
     17,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "799e4a496e8c5b5c73fcaf91bc4c3fe226da080a",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
+      "location": "Raleigh, US, North Carolina",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "c998225d97361cf25f12fba61241d2816adef7a2",
       "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7990967003?gh_jid=7990967003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "6c91131b26fe28039a35fa3b5bd8fe9d6a6e2cb8",
-      "title": "Intern Technology Consultant - Data & AI",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7977924003?gh_jid=7977924003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

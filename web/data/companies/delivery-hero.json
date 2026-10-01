@@ -2,14 +2,14 @@
   "slug": "delivery-hero",
   "name": "Delivery Hero",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Lisbon",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a1a1fff8cbdaec770b240a31333737d4156cc91",
+      "title": "Intern Data Analyst I People Strategy Global HQ",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000152474589",
+      "location": "Barcelona, , Spain",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "bfa7ed4048ad38e448fd9df8c8f95c9031b408a5",
       "title": "Internship - Data Analyst ",

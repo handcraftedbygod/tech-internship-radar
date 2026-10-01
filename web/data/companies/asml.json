@@ -2,21 +2,21 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8eb094ee65f602c91ed2232ccd90da98a85a64f8",
+      "title": "Data Science | Computer Science internship: Measurement analysis framework",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Data-Science---Computer-Science-internship--Measurement-analysis-framework_J-00353463?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "7c7936487e24943a62f44b1af965587ca7873c3d",
       "title": "Junior C# Software Engineer Yieldstar Optical Column",

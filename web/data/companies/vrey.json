@@ -2,21 +2,21 @@
   "slug": "vrey",
   "name": "VREY",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     5,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "687ef70c874e0ea83c8cc78cde7d0f2136e085c3",
+      "title": "(Junior) Energy Data Scientist – Energiedaten & Automatisierung (MSB) (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/vrey/junior-energy-data-scientist-energiedaten-automatisierung-msb-berlin-311279",
+      "location": "Berlin HQ",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "a52554f015814acb06cc53ab33a278bbea78d7c8",
       "title": "(Junior) Energy Data Scientist – Energiedaten & Automatisierung (MSB) (m/w/d)",

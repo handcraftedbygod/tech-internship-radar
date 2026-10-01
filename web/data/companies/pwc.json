@@ -2,21 +2,21 @@
   "slug": "pwc",
   "name": "pwc",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc09f20d1f0154f65f6c1bb2850ccf3f3dafc609",
+      "title": "Junior ServiceNow Developer",
+      "url": "https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Utrecht/Junior-ServiceNow-Developer_739918WD?utm_source=freehire.me",
+      "location": "Utrecht",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "ee6ee5075feb2df88796b60ccca1e9bb59b84ccd",
+      "title": "Junior Cybersecurity Specialist",
+      "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gdask/Junior-Cybersecurity-Specialist_741157WD?utm_source=freehire.me",
+      "location": "Gdańsk",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "f2daac8269bfc82c955508e8581c7b397fd2d217",
       "title": "Junior Cybersecurity Specialist",

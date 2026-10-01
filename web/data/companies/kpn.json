@@ -2,21 +2,30 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hub": "Zurich",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,32 @@
     0,
     3,
     0,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4cd1aa792c14a43dac00f721dec7eb10e561ccb8",
+      "title": "Junior DevOps Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__165941319__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "b08ae3ba23706be28d0ecfb77ccd74ef66432f14",
+      "title": "(Junior) DevOps Engineer Voice",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__41409773__7095?geoID=26&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "800a6667612a5026140170b549afe59fb18561bf",
+      "title": "Junior DevOps Engineer Mobiele Netwerken | 5G/AI & IoT",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__41408448__7095?geoID=26&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "1e172abe9ce013a05ebd809e9d7f774d6d373cba",
       "title": "Junior DevOps Engineer Mobile Core Voice",

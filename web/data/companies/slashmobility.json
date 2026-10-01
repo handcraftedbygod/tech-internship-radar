@@ -2,21 +2,21 @@
   "slug": "slashmobility",
   "name": "Slashmobility",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 7
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     3,
     4,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78cf09bac3b1b2550f9e64475350b6a857c2d37f",
+      "title": "Junior Java Developer - Slashmobility",
+      "url": "https://es.whatjobs.com/pub_api__cpl__354991992__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "64d85cc6391c7ea25bedd9ce1c9e1404636aeae2",
+      "title": "Junior Java Developer – Hybrid Barcelona | Microservices & React",
+      "url": "https://es.whatjobs.com/pub_api__cpl__355201511__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "0d3fd90ce1979fa453e91187bfca6f1f04ec7bed",
       "title": "Junior Java Developer – Hybrid Barcelona | Microservices & React",

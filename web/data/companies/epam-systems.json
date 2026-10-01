@@ -2,21 +2,21 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 10.2,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     4,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9bde107d8a2cd67b555968a593440acf1f439533",
+      "title": "Junior Java Developer",
+      "url": "https://careers.epam.com/en/vacancy/junior-java-developer-blt13d7l9ysad6ry7dx_en?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "038cf68a1c5129c8f9e72588d18da5db0fea797d",
+      "title": "Junior Java Developer",
+      "url": "https://careers.epam.com/en/vacancy/junior-java-developer-bltcjn9z1t3uo767tsg_en?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "1f865970fb20c1985816efd69019adc39fdc4a6b",
       "title": "Remote Java Developer Trainee — Spring, Core & Clean Code",

@@ -2,25 +2,25 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -34,11 +34,25 @@
     0,
     0,
     4,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2230b5f7de30781946a62ded8235e30b0e0dc69",
+      "title": "Data Engineer Databricks Junior  - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0MyA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
+    {
+      "id": "a9220480737c5d33bce0c153cf3c173ac7094b19",
+      "title": "Data Engineer junior - SSIS / SQL Serve - Marseille - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0NiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "ff525c71053cd5d7f2bda8929b79dfd2837fb4cf",
       "title": "Junior Data Scientist - PARIS - Anglais courant obligatoire - Freelance (H/F)",

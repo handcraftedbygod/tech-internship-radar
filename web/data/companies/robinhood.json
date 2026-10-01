@@ -2,9 +2,9 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 35,
+  "currentOpenings": 36,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 36,
+  "totalPostings": 37,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Toronto",
@@ -36,13 +36,13 @@
       "count": 8
     },
     {
-      "id": "product",
-      "label": "Product",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -56,11 +56,18 @@
     0,
     2,
     34,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1534f3d4f9445dd8152178d5cae100a656d2c4a2",
+      "title": "Data Science Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
+      "location": "Menlo Park, CA",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "3cf4c212ed737a7c2876db2d5f72f65c5b38b11b",
       "title": "Offensive Security Intern (Summer 2027)",
@@ -121,13 +128,6 @@
       "id": "6518eaf56e60d57dc8395dc5fea025e1cc070391",
       "title": "Software Developer Intern, Web (Summer 2027)",
       "url": "https://www.themuse.com/jobs/robinhood/software-developer-intern-web-summer-2027",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "a3a0fc7d4130d5b9a1dfb47647b6824768a5ea54",
-      "title": "Software Developer Intern/Co-op, Backend (Winter 2027)",
-      "url": "https://www.themuse.com/jobs/robinhood/software-developer-interncoop-backend-winter-2027",
       "location": "Toronto, Canada",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }

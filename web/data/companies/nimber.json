@@ -2,14 +2,14 @@
   "slug": "nimber",
   "name": "Nimber",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     5,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "794210aed9ec56864ee7fefc071e142bd4a5014d",
+      "title": "Junior Network Security Engineer",
+      "url": "https://www.careers-page.com/nimber/job/8X5V8YRV?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-10-01T10:45:16.393Z"
+    },
     {
       "id": "ce8ed38447de553c2f175c1f334657f39d63e607",
       "title": "Junior Backend Engineer C++",
