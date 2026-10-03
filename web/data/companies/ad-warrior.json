@@ -2,21 +2,21 @@
   "slug": "ad-warrior",
   "name": "Ad Warrior Ltd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0aed37e5f3485be629862e1a86fea767f14c3a3",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5906429890?utm_medium=api&utm_source=freehire.me",
+      "location": "Glasgow, Scotland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "c5c6ec625d66ce57c68a9e912899bf080d06853c",
       "title": "Trainee Data Analyst",

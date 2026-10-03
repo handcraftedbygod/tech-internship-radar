@@ -2,14 +2,18 @@
   "slug": "accenture-poland",
   "name": "Accenture Poland",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Lodz",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0aaebead56822cc600277cb2a096e409928df072",
+      "title": "Remote Junior Data Engineer: Python & Big Data",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__29992139__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "0672bd3832330816c000e13bb4313ba860c1a11a",
       "title": "AWS Backend Developer (Python/Node.js) Internship Program (She/He/They)",

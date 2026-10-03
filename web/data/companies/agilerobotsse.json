@@ -2,21 +2,21 @@
   "slug": "agilerobotsse",
   "name": "Agilerobotsse",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     3,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c1ab944f7833ade6704677a00b77e74697c6b09d",
+      "title": "Intern (m/f/d) Software Test Automation",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-software-test-automation-munich-bavaria-68883?utm_source=freehire.me",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "bce3d2a201a0c237b9a85565183f38fe2d113102",
+      "title": "Intern (m/f/d) Software Test Automation",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/intern-software-test-automation-munich-bavaria-68883",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "5ce0fd1b6da4eb2d4afccad9502e227de71313fe",
       "title": "Intern (m/f/d) Vision Software Development",

@@ -2,21 +2,25 @@
   "slug": "engg",
   "name": "Engg",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
       "count": 3
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a4122e300850230d5403b79d66c84ed023e8e67",
+      "title": "Software Engineering Intern 2027 (Dublin)",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__5998764__7127?geoID=253&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "38c958e19268cdc7f45ad0fdcb0e082952161736",
       "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management - splunk",

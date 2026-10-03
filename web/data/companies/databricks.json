@@ -2,26 +2,42 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 5,
+  "totalPostings": 17,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 5
+    },
+    {
+      "hub": "Berlin",
+      "count": 5
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 4
+    },
+    {
+      "hub": "London",
+      "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "product",
-      "label": "Product",
-      "count": 2
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 10
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 6
     },
     {
       "id": "ai",
@@ -39,45 +55,80 @@
     3,
     2,
     0,
-    0,
+    12,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "b6bcc034d624b61b382b29398af0cafa42df66db",
-      "title": "Software Engineering Intern",
-      "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
-      "location": "Bellevue, Washington, Mountain View, California, San Francisco, California",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
+      "id": "99a4f6c47c45abeea9db97ff7e0b811b10f2bd04",
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-london-36ab80a1",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     },
     {
-      "id": "63f3352f93a72bc25d76be35dfdb017816422756",
-      "title": "Software Engineering Intern (2027 Start) - Winter",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
+      "id": "3f30b55de55e22e45fba9880715b1bfe2459c41e",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-berlin-73bab2e5",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     },
     {
-      "id": "e3484f3590a8556fced35fadac55919583641341",
-      "title": "Associate Product Manager, New Grad (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-      "firstSeenAt": "2026-07-24T18:21:15.798Z"
+      "id": "fa2e50378a4eec7d82aca497a72dfe45e71d6a3f",
+      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-amsterdam-7f2278eb",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     },
     {
-      "id": "9d67545b91f9d7178dd22e5c49a3fe047154e17c",
-      "title": "Product Management Intern (Summer 2027)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+      "id": "61b05cf872742459e038fb5c0586ad182d57fd13",
+      "title": "Software Engineering Intern (2027 Start) - Aarhus",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002&utm_source=freehire.me",
+      "location": "Aarhus, Denmark",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     },
     {
-      "id": "43d2da2a3811a7df88d4ff66de38e8bfab7c51bc",
-      "title": "PhD GenAI Research Scientist Intern",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-      "location": "San Francisco, California",
-      "firstSeenAt": "2026-07-22T22:03:05.155Z"
+      "id": "9a589a0d5d1a7c63d6d58d9dcae4405ebed68aa7",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-57480",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "36ab80a11136d9ae778de8febe331e77cdce31db",
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "73bab2e5fe33d4c33c09ddc76f479d2431b6e67c",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "7f2278ebbf4cee79f56225be54834b54c3633184",
+      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "9f8fb36fa59d22f0e958242ab08f2580381faed3",
+      "title": "Product Manager, New Grad (2026) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "5bdf661930b4569f1c9ab12fa7ef3dd15cbe9eb3",
+      "title": "Product Manager, New Grad (2026) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

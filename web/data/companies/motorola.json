@@ -2,14 +2,14 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     3,
     8,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67f4d29881e02871df9ef7c679b21b6fae71fa58",
+      "title": "Intern Software Developer (C++)",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C---_R69047?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "79328573ab45a06b78818d85bc13ba4fd82ab45b",
       "title": "Intern Software Developer (C++)",
@@ -100,13 +107,6 @@
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R67325?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "8710b7d986d80f4d4891b7b0ffa9259e6a61a39b",
-      "title": "Intern Software Developer (Java)",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R67239?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

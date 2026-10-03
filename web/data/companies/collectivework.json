@@ -2,26 +2,26 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,39 @@
     0,
     0,
     4,
-    2,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "727316b9c16ef89f0428c87ff3fdc07607d2afd8",
+      "title": "Data Engineer Databricks Junior  - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0MyA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "e1c9b982db4427624fb6a666ba1dff8d3c5cd647",
+      "title": "Data Engineer junior - SSIS / SQL Serve - Marseille - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0NiA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "394fd0e0b7c3b39543ac2e1a713ac7e3e86a10af",
+      "title": "Développeur Fullstack Junior - Freelance (H/F) - Freelance",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzI0OCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "444869b7fa07e0b06f95b9618c15aea829ec03ff",
+      "title": "Développeur FullStack Junior Java/React - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU4NjM0MyA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "f2230b5f7de30781946a62ded8235e30b0e0dc69",
       "title": "Data Engineer Databricks Junior  - CDI (H/F)",

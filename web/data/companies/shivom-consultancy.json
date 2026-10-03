@@ -2,17 +2,22 @@
   "slug": "shivom-consultancy",
   "name": "Shivom Consultancy Ltd.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -21,11 +26,6 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -39,11 +39,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e5136136a03a60e2842b70af57a29df5bac53d33",
+      "title": "Graduate IT Engineer / Junior Software Developer (Java/Python, Cloud & AI Focus)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__557629422__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "adf22424b8814cdca2cfd0bfed2366498057909d",
       "title": "Graduate IT Engineer / Junior Software Developer (Java/Python, Cloud & AI Focus)",

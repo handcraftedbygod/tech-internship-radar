@@ -1,0 +1,45 @@
+{
+  "slug": "campus-private-job-board",
+  "name": "Campus Private Job Board",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-03T09:43:01.413Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Dublin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "44c7e8f3456878d083df9a08f22433c9cf03d661",
+      "title": "2027 Trinity College Dublin - Software Engineering Internship ",
+      "url": "https://job-boards.greenhouse.io/private_board/jobs/6211728004?utm_source=freehire.me",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    }
+  ]
+}

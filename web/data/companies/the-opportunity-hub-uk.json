@@ -2,21 +2,21 @@
   "slug": "the-opportunity-hub-uk",
   "name": "The Opportunity Hub UK",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     4,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca3303e4be1af0a8f2a192dd4c7fc4df661e5aae",
+      "title": "Back-End Developer/Java Engineer Internship",
+      "url": "https://www.adzuna.co.uk/jobs/details/5909227358?utm_medium=api&utm_source=freehire.me",
+      "location": "Surrey, South East England",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "17fe5c05d7bead774a1db981dd57601c472c715b",
       "title": "Back-End Developer/Java Engineer Internship",

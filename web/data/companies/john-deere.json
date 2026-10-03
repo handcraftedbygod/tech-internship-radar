@@ -2,21 +2,21 @@
   "slug": "john-deere",
   "name": "John Deere",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ecf1bea7aff1f0622b75ef0cb3edbeedf232f33",
+      "title": "Intern Data Analytics (m/f/d)",
+      "url": "https://careers.deere.com/careers/job/137483668785?utm_source=freehire.me",
+      "location": "Walldorf,Baden-Württemberg,Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "ab64119adb7a0d2639cfe4abd7653f868eaf41c7",
       "title": "Intern Data Analytics (m/f/d)",

@@ -2,21 +2,25 @@
   "slug": "smartrecruiters",
   "name": "SmartRecruiters, Inc.",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
       "count": 3
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aed8e8d76fd28ed9560254a3245648267d23ae95",
+      "title": "Software Engineer Intern 2026/2027",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__5985832__7127?geoID=253&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "7be5c99595235d3b7b1c91edce61a785d4b1c389",
       "title": "Junior Cloud DevOps Engineer: Azure & IaC",

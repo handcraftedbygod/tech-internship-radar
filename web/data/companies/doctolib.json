@@ -2,14 +2,14 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Paris",
@@ -26,6 +26,11 @@
       "id": "biz",
       "label": "Business",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     5,
     5,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d97f8e0f7641dd75886eaac255fd1ef44dc433f",
+      "title": " Working Student B2C SEO & AI Search (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8010483003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "28ef4effb1a690d3648c99f5b36d20b27d2ea6fd",
       "title": "Intern Talent Acquisition Coordinator (x/f/m)",
@@ -103,13 +115,6 @@
       "id": "592f6f59dc7ca3684f960c4570a39e58e8d51664",
       "title": "Werkstudent Projektmanagement & Sales Prozesse (x/f/m)",
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/7916491003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "e9f62647185e47cbe626ce4a5ee1b79e5c1e09eb",
-      "title": "Werkstudent B2C Marketing (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7863427003",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }

@@ -2,17 +2,26 @@
   "slug": "adyen",
   "name": "Adyen",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 19,
   "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 2
+    },
     {
       "hub": "Chicago",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    },
     {
       "id": "swe",
       "label": "Software",
@@ -29,11 +38,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09e2d8d44a8ce6f69dad8373e578232866508df7",
+      "title": "Junior Data Analyst- Finance and Commercial",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8226017?utm_source=freehire.me",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "ae2ee0dab1583f5ef8019bfd26fe7593aab97ae9",
+      "title": "Junior Data Analyst- Finance and Commercial",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8226017",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "b8ce776b20f390892533a08be62f603070766fa4",
       "title": "Full-Stack Developer (Junior) - Docs Experience Engineering Team",

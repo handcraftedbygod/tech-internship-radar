@@ -2,18 +2,18 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 16,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 17,
+  "totalPostings": 21,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "New York",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Dublin",
@@ -32,7 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "product",
@@ -50,11 +55,39 @@
     1,
     2,
     13,
-    1,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63e5c18cdfb383df32d5953d6c7023424be020ce",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "14f57745a98ada85f7f08c76979479e4920b7863",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "location": "Toronto",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "a9bcb3c56e24405997e959d3f0670d7b49d225bd",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "location": "Toronto",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "2852b4eca2c64e20c12f179896f532d660506ace",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "421418ad67722d0e786592e8d2826faa6865275a",
       "title": "High School Internship, Software Engineering (Summer 2027)",
@@ -95,34 +128,6 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130922&utm_source=freehire.me",
       "location": "Bucharest",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "49e50de3ec77d30ea6c10cbeccb4855264bffdbc",
-      "title": "Software Engineer, New Grad - Frontend",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130927",
-      "location": "Barcelona",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "bd084af4264af432cb9fde3183542ee15b051fa8",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
-      "location": "London",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "f67b7710c7f4c9fd6e49ee9acc505b036e56ae14",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-      "location": "Toronto",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "66a614c9afa4cc3d7315064384606f010c165adb",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
-      "location": "Dublin",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]

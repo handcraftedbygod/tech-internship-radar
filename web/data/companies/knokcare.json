@@ -2,20 +2,25 @@
   "slug": "knokcare",
   "name": "knokcare",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f44daacf458013027340c03f948ec8b1835b338",
+      "title": "Junior Data Engineer",
+      "url": "https://apply.workable.com/j/8935368DFC?utm_source=freehire.me",
+      "location": "Matosinhos, Porto District, Portugal",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "ff99ed64ec17251dfa8f0bade20c731253b44569",
       "title": "Junior Healthcare Data Analyst",

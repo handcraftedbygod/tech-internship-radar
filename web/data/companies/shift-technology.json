@@ -2,11 +2,15 @@
   "slug": "shift-technology",
   "name": "Shift Technology",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 3
+    },
     {
       "hub": "Other",
       "count": 2
@@ -14,17 +18,18 @@
     {
       "hub": "Madrid",
       "count": 1
-    },
-    {
-      "hub": "Paris",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,11 +42,25 @@
     0,
     3,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b2f4bb4c6555809ad4fd159dc3010735478589d0",
+      "title": "Data Scientist Internship (November, 6 months)",
+      "url": "https://artificialintelligencejobs.co/jobs/shift-technology-data-scientist-internship-november-6-months-e6eb9f38",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "66fffb54e761a93f7a341c8595d11d7441dac79c",
+      "title": "Junior Backend Developer, C# .Net - Paris",
+      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8010298003?utm_source=freehire.me",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "1b2bdb041c1595791571c775ec852040c3d837e4",
       "title": "Data Scientist Internship (November, 6 months)",

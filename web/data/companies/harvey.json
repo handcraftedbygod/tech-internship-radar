@@ -1,0 +1,81 @@
+{
+  "slug": "harvey",
+  "name": "Harvey",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-10-03T09:43:01.413Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d510514ee6c02364abf38b378e770419f5996975",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "edc731bc05d690174775e4543082d6d051993d30",
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+      "location": "New York",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "2829bdb3f7f74238782d680f2c5e5a6f7342777e",
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "1aa53ed29107121a66a37f1b22567ccea47f143d",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
+      "location": "Toronto",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "d6ca1f9a8a95dfda9b61a500c67776dee86a9504",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
+      "location": "New York",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    }
+  ]
+}

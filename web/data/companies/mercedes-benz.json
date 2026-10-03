@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 30,
-  "avgPostingDurationDays": 11.8,
+  "totalPostings": 34,
+  "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 27
     },
     {
       "hub": "Stuttgart",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 21
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,39 @@
     0,
     19,
     10,
-    1,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18cc5283b2302e1eadc019f2811221b415935451",
+      "title": "Werkstudent*in (SW-Developer Data Campaigns for Automated Driving & ADAS)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638289-1-S",
+      "location": "Böblingen",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "b6253bb60b161166814af81b4b8654e589dda123",
+      "title": "Working Student Data Analytics for Infotainment Systems",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638275-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "7fa4e4ea10c79bc3e55c3dde39c7b9a5b0f96478",
+      "title": "Werkstudent*in Agiles Programmmanagement Automotive Software-Plattform",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638801-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "893d2b6e64c09a7f7fe7d31b4eb870c163a1c23f",
+      "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-2-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "c4954d403bdc659dc80939855a44d265ca0b133d",
       "title": "Praktikant*in Software & KI für Elektrofahrzeuge",
@@ -96,34 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1633241-1-S",
       "location": "Bremen",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "45d6c9e8466343e03a1101546cb148234cf3850c",
-      "title": "Werkstudent*in Data Engineering/ Data Science/ Softwareentwicklung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1633950-1-S",
-      "location": "Rastatt",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "29350a7426039cb2deb5a5ec5b6536771f319a17",
-      "title": "Praktikant*in Drive Systems Software & Calibration Engineering – Development Process Steering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631992-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "b28342e830456d08b25354ae08f2aefa1bb9774d",
-      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631999-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "8bad79fc94dff31f739b06eaa7da0df87aa8e372",
-      "title": "Praktikant*in MO360 Product Owner Team – Fokus Data Analytics & Applikationsentwicklung...",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1625336-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }
   ]
 }

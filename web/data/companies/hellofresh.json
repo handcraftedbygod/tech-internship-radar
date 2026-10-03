@@ -2,14 +2,14 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 22.8,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 21.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "biz",
@@ -50,11 +50,18 @@
     5,
     8,
     14,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba5cbea5d4446f8d6de3e4647045fec21dab3b70",
+      "title": " Junior Photographer (x/f/m)",
+      "url": "https://careers.hellofresh.com/global/en/job/8141855?gh_jid=8141855",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "354051541d4060ab9ee7660afeaf43256295500a",
       "title": "Physical Product Planning Intern (all genders)",
@@ -117,13 +124,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8203812?gh_jid=8203812",
       "location": "Amsterdam, North Holland, Netherlands",
       "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "b5308ed504f6261997cb90c8c9a1d3350dfe6b67",
-      "title": "Menu Planner Working Student (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8172859?gh_jid=8172859",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

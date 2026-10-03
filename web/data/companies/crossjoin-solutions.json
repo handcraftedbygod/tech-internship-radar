@@ -2,20 +2,25 @@
   "slug": "crossjoin-solutions",
   "name": "crossjoin-solutions",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2619299536db43f8ddea144f45e1563e7c57dc19",
+      "title": "Junior Data Engineer",
+      "url": "https://jobs.ashbyhq.com/crossjoin-solutions/cf769349-b945-43ae-9bd5-ee1165e5cada?utm_source=freehire.me",
+      "location": "Technological Pole Almada",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "d21316b317e4b7838506741524794175e101a2a9",
       "title": "Junior DevOps Engineer",

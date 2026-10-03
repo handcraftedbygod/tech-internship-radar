@@ -2,9 +2,9 @@
   "slug": "google",
   "name": "Google",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Warsaw",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -46,11 +46,18 @@
     0,
     4,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2dbb925cfba54eb55ef5d32139ffc63f7d9ce3f",
+      "title": "Data Scientist Product MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "6c44dade8d096fa4ab13bcf6e19b0e1a201ca1d5",
       "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",

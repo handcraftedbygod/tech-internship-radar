@@ -2,13 +2,17 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Helsinki",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d10f4dcd1374e876e550e300930ce469188e7f6",
+      "title": "Junior Data Analyst (15h/vko), Helsinki/Etätyö",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/35dd4b9f-133f-4e07-a874-16ad27fdb279/fi?utm_source=freehire.me",
+      "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "41ada6d03b2f1c246de33cea5304de35b8794c6e",
+      "title": "Junior Data Analyst (15h/vko), Helsinki/Etätyö",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MzVkZDRiOWYtMTMzZi00ZTA3LWE4NzQtMTZhZDI3ZmRiMjc5IDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "0ab4fe757fd4462eebb0c680f2e72edecb64c302",
       "title": "Junior Data & Software Specialist, Espoo",

@@ -2,13 +2,17 @@
   "slug": "osapiens",
   "name": "osapiens",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a4ce4179fad9a93dbf8bbba1617161b24280310",
+      "title": "Internship: Machine Learning (m/f/x)",
+      "url": "https://careers.osapiens.com/en/postings/1ee89c98-d87a-4e0f-91d2-2831130aa900?utm_source=freehire.me",
+      "location": "München, Bayern",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "799db5978a3579ad0e6c2f2c765e2fda1d518c39",
       "title": "Junior Software Engineer - Backend (Java) (m/f/x)",

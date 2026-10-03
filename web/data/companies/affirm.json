@@ -1,0 +1,57 @@
+{
+  "slug": "affirm",
+  "name": "Affirm",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-03T09:43:01.413Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "23e1b5678d29cb8d4788ff6bb55d8ab93196ca5b",
+      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+      "location": "San Francisco, California, United States",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "3fabeb1b4cf63e7cd4d565e10acc3fe3dae39874",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "location": "San Francisco, California, United States",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    }
+  ]
+}

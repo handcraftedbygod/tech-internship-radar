@@ -2,21 +2,25 @@
   "slug": "pwc",
   "name": "pwc",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc66c77ec5f8d95eaf6785795c0bba15f9d99fb2",
+      "title": "Junior SharePoint Developer (freelance)",
+      "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Junior-SharePoint-Developer--freelance-_765813WD?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "cc09f20d1f0154f65f6c1bb2850ccf3f3dafc609",
       "title": "Junior ServiceNow Developer",

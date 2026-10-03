@@ -2,14 +2,14 @@
   "slug": "spectrum-it-recruitment",
   "name": "Spectrum IT Recruitment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     4,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ef04a82410c19317e426864741c1c716be3682c",
+      "title": "Junior Software Developer - Trading",
+      "url": "https://www.reed.co.uk/jobs/junior-software-developer-trading/57416395?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "33c6729be2bb8fdcb50e4b1df8bb71d1c98290f5",
+      "title": "Junior Software Developer - Trading",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5908321135?se=SLkopMC-8RGcBuXOUajQGg&utm_medium=api&utm_source=freehire.me&v=1607B02554DE6C80863F6483461F5BC7AF2841B6",
+      "location": "Farringdon, Central London",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "fd7d5be87b6463163f175c735b2d67e5a0c171fa",
       "title": "Junior Software Developer - Trading",

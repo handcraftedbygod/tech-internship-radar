@@ -2,21 +2,21 @@
   "slug": "insignion-management-consulting",
   "name": "Insignion Management Consulting GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "371aa821bb59a9fbcba3afbdadf65b4ad492df15",
+      "title": "SAP Junior Full Stack Developer (m/w/d) SAP HCM | SAP SuccessFactors | SAP BTP",
+      "url": "https://join.com/companies/insignionde/16760021-sap-junior-full-stack-developer-m-w-d-sap-hcm-oder-sap-successfactors-oder-sap-btp?utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "bf37494cda1478423bc6dadca68bba2fd3743d42",
       "title": "SAP Junior Full Stack Developer (m/w/d) SAP HCM | SAP SuccessFactors | SAP BTP",

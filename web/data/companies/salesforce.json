@@ -2,11 +2,19 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 12.1,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 12.4,
   "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 4
+    },
+    {
+      "hub": "New York",
+      "count": 4
+    },
     {
       "hub": "Chicago",
       "count": 2
@@ -16,28 +24,20 @@
       "count": 2
     },
     {
-      "hub": "San Francisco",
-      "count": 2
-    },
-    {
       "hub": "Dublin",
       "count": 2
-    },
-    {
-      "hub": "Amsterdam",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 6
+      "count": 10
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,46 @@
     1,
     4,
     6,
-    0,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "650346897b25be4f1bf9906bf91edadda5ee72b3",
+      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
+      "location": "New York - New York",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "94ee679431ea0fc71fe463a15f63e18853b99a12",
+      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
+      "location": "New York - New York",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "3d5731aa644f3e588cee106412dc56b809836b95",
+      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1",
+      "location": "New York - New York",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "5ef7942c105fd4699ef8c946005287835ee08a7f",
+      "title": "Summer 2027 Intern - Product GTM Strategy",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1",
+      "location": "California - San Francisco",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "a1306f3c391072cd121fe951d487ff8d9d1cacdf",
+      "title": "Business Development Associate (Early Career)",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1",
+      "location": "California - San Francisco",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "04a8a0412046f2b7290e5a709f8ee95dc5037367",
       "title": "Sales Intern (North)",
@@ -89,41 +124,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Apprentice_JR357940",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "38a0f3fde543dd559aa4efae7141be213313da38",
-      "title": "Sales Development Trainee - NGO PubSec",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Sales-Development-Trainee---NGO-PubSec_JR360374",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "b5be9389abe03520c5a1188d634d8c565df9fa6d",
-      "title": "Summer 2027 Intern - Software Engineer",
-      "url": "https://www.themuse.com/jobs/salesforce/summer-2027-intern-software-engineer-401e46",
-      "location": "Atlanta, GA, Bellevue, WA, Burlington, MA, Indianapolis, IN, New York, NY, Palo Alto, CA, San Francisco, CA, Seattle, WA",
-      "firstSeenAt": "2026-08-30T09:46:54.503Z"
-    },
-    {
-      "id": "5bf19f1c26c1a0b9b4f209253eeacd97dfafdfe7",
-      "title": "Software Engineering Intern - Future Pathways",
-      "url": "https://www.themuse.com/jobs/salesforce/software-engineering-intern-future-pathways",
-      "location": "San Francisco, CA, Seattle, WA",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "a6f634720ad213f96fa664d061dd2a36799a206f",
-      "title": "Sales Intern - Dutch Speaker",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Netherlands---Amsterdam/Sales-Intern---Dutch-Speaker_JR335817-1",
-      "location": "Netherlands - Amsterdam",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "0bb03724d229656ac67e832b1ac7d2829e909bf1",
-      "title": "Junior Technical Support Engineer【障害者採用】",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR318163",
-      "location": "Japan - Remote",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]
 }

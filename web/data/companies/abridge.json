@@ -2,14 +2,14 @@
   "slug": "abridge",
   "name": "Abridge",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 35.2,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 32.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "San Francisco",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     3,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f6372ad4bd30165a60cc66ad4d080399c717838",
+      "title": "Senior Early Career Recruiter",
+      "url": "https://jobs.ashbyhq.com/abridge/09a4a28b-30b2-4dd0-be2f-390f6a034a90",
+      "location": "SF Office",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "9679cb59a55faaa6d532ad318381a6015b893a44",
       "title": "Member of Technical Staff, Intern (Spring 2027)",
@@ -54,7 +66,7 @@
     },
     {
       "id": "ef03e7ebb3c1107350e6ef84153ccb26dcab1619",
-      "title": "Software Engineering Intern, Fall",
+      "title": "Member of Technical Staff, Intern (Fall 2026)",
       "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
       "location": "SF Office",
       "firstSeenAt": "2026-08-15T04:30:16.064Z"

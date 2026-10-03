@@ -2,21 +2,21 @@
   "slug": "julius-baer",
   "name": "Julius Baer",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "927ef8d325705328943cb036756556c638b58c01",
+      "title": "Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme]",
+      "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Zurich/Internship--Data-Analytics-Intern---Product-Control-100---f-m-d-----6-12-month-Internship-Programme-_r-19706-2?utm_source=freehire.me",
+      "location": "Zurich",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "9f2f260cfac200ab39f21d27344a626f16c1426f",
       "title": "Junior Test Data Engineer - CLM 100% (f/m/d) (Contract through our external payroll partner with immediate start until 31.03.2027, possible extension)",

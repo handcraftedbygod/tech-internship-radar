@@ -2,25 +2,30 @@
   "slug": "academic-work-switzerland-sa",
   "name": "Academic Work Switzerland SA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
-      "hub": "Zurich",
-      "count": 2
+      "hub": "Other",
+      "count": 4
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Zurich",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,32 @@
     0,
     2,
     1,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4bbbc7d159f426ed1e799d9e0eb7a5191d42f1b",
+      "title": "Data Engineer Junior   100%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzVmZjVmOTQtNzY2NC00Y2E3LTk4OGYtZTZlYjdhOTZkZWUwIDYx?lang=en&utm_source=freehire.me",
+      "location": "Lausanne, Switzerland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "5190ba0bfa081f58ac9886d390166c8ef8f81982",
+      "title": "Data Engineer Junior   100%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzVmZjVmOTQtNzY2NC00Y2E3LTk4OGYtZTZlYjdhOTZkZWUwIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
+    {
+      "id": "2e0443181a35b7788ebae8d6186659e55288e43d",
+      "title": "Data Analyst Junior 40%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTc2YzBmMmItYTc0NC00ZmY4LTlkYWYtMTI2YjY3OGQyYThmIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "085c103a5c6c0dbe7e31fc7a8fdf6d4f9a712fd6",
       "title": "Junior AI Data Engineer",

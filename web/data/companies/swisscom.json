@@ -2,14 +2,14 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     1,
     8,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "25d66523f059cef906efb96d000434b3f22f0f64",
+      "title": "IT Internship - Fullstack Engineer: Agentic AI for Bug Analysis and Resolution",
+      "url": "https://rotterdam.swisscom.com/o/it-internship-fullstack-engineer-agentic-ai-for-bug-analysis-and-resolution?utm_source=freehire.me",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "336d2179dc7893a6509ad3f039b4e751ccb6f058",
       "title": "Junior DevOps Engineer IAM (Ping DS/IDM)",
@@ -99,13 +106,6 @@
       "id": "788f5a6eca54f70010c4d3448b58cbc08bc9b318",
       "title": "IT Internship - Cloud Engineer",
       "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-cloud-engineer?utm_source=freehire.me",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "d5f58c1028875aee5c0463911326e102fb65ca93",
-      "title": "IT Internship - Backend Engineer: Improving Reliability & Automation in a Cloud‑Native DevOps Platform",
-      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-backend-engineer-improving-reliability-automation-in-a-cloudnative-devops-platform-3?utm_source=freehire.me",
       "location": "Rotterdam, Zuid-Holland, Netherlands",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }

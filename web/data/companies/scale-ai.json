@@ -2,14 +2,14 @@
   "slug": "scale-ai",
   "name": "Scale AI",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 8,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     0,
     7,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff19613ada1b114463b5a8f8274581a18ac23785",
+      "title": "Software Engineering Intern (Summer 2027) ",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005?utm_source=freehire.me",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-03T09:43:01.413Z"
+    },
     {
       "id": "5bf9ced5a08d847a9fb299ad82cc2b077f6b090d",
       "title": "Software Engineer, Public Sector - New Grad",
