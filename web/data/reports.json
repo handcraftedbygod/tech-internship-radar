@@ -1,5 +1,195 @@
 [
   {
+    "weekOf": "2026-09-27",
+    "newCount": 431,
+    "prevWeekCount": 483,
+    "pctChange": -10.8,
+    "totalTracked": 5147,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 192
+      },
+      {
+        "hub": "London",
+        "count": 32
+      },
+      {
+        "hub": "Paris",
+        "count": 31
+      },
+      {
+        "hub": "Berlin",
+        "count": 25
+      },
+      {
+        "hub": "Zurich",
+        "count": 20
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "pinterest",
+        "name": "Pinterest",
+        "count": 15
+      },
+      {
+        "slug": "databricks",
+        "name": "Databricks",
+        "count": 12
+      },
+      {
+        "slug": "lyft",
+        "name": "Lyft",
+        "count": 6
+      },
+      {
+        "slug": "mercedes-benz",
+        "name": "Mercedes-Benz Group AG",
+        "count": 6
+      },
+      {
+        "slug": "collectivework",
+        "name": "Collective.work",
+        "count": 6
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 130,
+      "sample": [
+        {
+          "slug": "3003-sabre-polska-sp-z-oo",
+          "name": "3003 Sabre Polska Sp. z o.o."
+        },
+        {
+          "slug": "about-you-holding",
+          "name": "ABOUT YOU Holding AG"
+        },
+        {
+          "slug": "aboutyougmbh",
+          "name": "ABOUTYOUGmbH"
+        },
+        {
+          "slug": "academic-work-switzerland-sa-zweigniederlassung-z-rich",
+          "name": "Academic Work Switzerland SA Zweigniederlassung Zürich"
+        },
+        {
+          "slug": "accompio",
+          "name": "accompio GmbH"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "product",
+      "label": "Product",
+      "pctChange": 500
+    },
+    "notableHiring": [
+      {
+        "slug": "pinterest",
+        "name": "Pinterest",
+        "badge": "NOTABLE",
+        "count": 15
+      },
+      {
+        "slug": "databricks",
+        "name": "Databricks",
+        "badge": "FAANG",
+        "count": 12
+      },
+      {
+        "slug": "lyft",
+        "name": "Lyft",
+        "badge": "NOTABLE",
+        "count": 6
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 5
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "adyen",
+        "name": "Adyen",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "robinhood",
+        "name": "Robinhood",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "google",
+        "name": "Google",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "tower-research-capital",
+        "name": "Tower Research Capital",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "scale-ai",
+        "name": "Scale AI",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Stripe",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 73,
+      "high": 90
+    },
+    "headline": {
+      "company": "Stripe",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "hub": "New York",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 50,
+      "high": 63
+    },
+    "earlyPick": {
+      "company": "Affirm",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "season": "Summer 2027",
+      "hub": "San Francisco"
+    }
+  },
+  {
     "weekOf": "2026-09-20",
     "newCount": 483,
     "prevWeekCount": 690,
