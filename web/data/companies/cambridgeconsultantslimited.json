@@ -2,21 +2,21 @@
   "slug": "cambridgeconsultantslimited",
   "name": "Cambridgeconsultantslimited",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "186a48621ccc429466b09fb9f97327c7733efb72",
+      "title": "Cloud Software Engineering Internship (2027 start)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/cloud-software-engineering-internship-2027-start-442089?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
+    {
+      "id": "52bcfd0416f3a4e1741389b033b6501a08ff820c",
+      "title": "Software Engineering Internship (2027 start)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/software-engineering-internship-2027-start-35908?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "664eaee133c40a55c7fcbc992c381b941dd8f825",
       "title": "PhD Software Security Internship - 2026 summer placement",

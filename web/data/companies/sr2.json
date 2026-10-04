@@ -2,21 +2,21 @@
   "slug": "sr2",
   "name": "SR2",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87297b329033ae64b2e9d08b55265ac12e9b9148",
+      "title": "Remote Junior Data Engineer: Pipelines & Cloud",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__559825489__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "fe8e81d4a9f660738f62e0acd206ce363ef49f24",
       "title": "SC cleared Junior Data Engineer",

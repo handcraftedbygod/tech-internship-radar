@@ -2,21 +2,21 @@
   "slug": "scalablegmbh",
   "name": "ScalableGmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0077d46721abc542d03f87cd8d9ff57de47104e6",
+      "title": "Junior Backend Software Engineer (Kotlin / Java) - Banking Platform (m/f/x)",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000152965440-junior-backend-software-engineer-kotlin-java-banking-platform-m-f-x-?utm_source=freehire.me",
+      "location": "München, BY, de",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "773989bb5ff7d7600895b93d9f0fbd52632f6371",
       "title": "Junior Kotlin / Java Software Engineer - New Product (m/f/x)",

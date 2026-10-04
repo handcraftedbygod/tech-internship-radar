@@ -2,21 +2,21 @@
   "slug": "airbus-operations",
   "name": "Airbus Operations GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e2c1e4812b21592eb22d139c6b3e0b23b8b55cc",
+      "title": "Internship within Aerodynamic Machine Learning (d/f/m) - Inklusiver Job   ",
+      "url": "https://www.adzuna.de/land/ad/5905922197?se=DJxjzN2_8RGN96JAzfykhw&utm_medium=api&utm_source=9141e2e6&v=1D353AEE7914F2634D7FD632AF28B43EC4424857",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "1e90a7a70fe01de18eb0e845134a3fe07cca7c31",
       "title": "Internship within Aerodynamic Machine Learning (d/f/m) - Inklusiver Job   ",

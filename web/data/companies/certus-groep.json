@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "582fc45bbfcb712c7c7f881bf1bc5d587d0340a9",
+      "title": "Junior Data Engineer - €3.000 - €3.500 Per Maand",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__168645255__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "807d5ad5de12a19364bb8c9b83286f3fc30fd0d0",
       "title": "Junior Data Engineer - €3.000 - €3.500 Per Maand",

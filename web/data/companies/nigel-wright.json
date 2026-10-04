@@ -2,26 +2,26 @@
   "slug": "nigel-wright",
   "name": "Nigel Wright Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 3
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     3,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c092420553497fb3476bf57b0c57de5ea3134eb",
+      "title": "Junior Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-data-engineer/57403119?utm_source=freehire.me",
+      "location": "Greater Manchester",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
+    {
+      "id": "9449c50bc0ff988746b24ecc494294c5d591e022",
+      "title": "Hybrid Junior Data Engineer | Python & Azure ETL",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__559848203__7082?geoID=19285&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "610a9ae97b7af83d14a22997bb8866f3c40d5571",
       "title": "Junior Data Engineer",

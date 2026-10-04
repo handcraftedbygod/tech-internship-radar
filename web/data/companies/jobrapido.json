@@ -2,9 +2,9 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 27,
+  "totalPostings": 29,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,25 @@
     0,
     20,
     7,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d94991f529074e15722239574415ec8d11fc672b",
+      "title": "Junior Java Developer - Merkle",
+      "url": "https://es.whatjobs.com/pub_api__cpl__357761047__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
+    {
+      "id": "99fa5e2ad6d3f11d17552d81bff093f0bc5c0783",
+      "title": "Junior Java Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__358120162__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "a98021b1cd3cb467efec888f4b01b85665f4684d",
       "title": "Junior Frontend Developer",
@@ -102,20 +116,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__345365339__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-31T10:33:12.712Z"
-    },
-    {
-      "id": "04248816f14f41b3b6d9c8b61de44af5e9bdef7c",
-      "title": "Junior DevOps & Cloud Engineer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__345461290__7107?geoID=5243&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Sant Cugat del Vallés, Spain",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "08b5b4bd437bfa02d3b1fd49260da0ae0f9c20c2",
-      "title": "Junior DevOps & Cloud Engineer - euskadi",
-      "url": "https://es.whatjobs.com/pub_api__cpl__345166277__7107?geoID=9570&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Bilbao, Spain",
-      "firstSeenAt": "2026-08-24T04:44:21.499Z"
     }
   ]
 }

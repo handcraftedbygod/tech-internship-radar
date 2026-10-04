@@ -2,14 +2,14 @@
   "slug": "c24-bank",
   "name": "C24 Bank GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     6,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "865a20e29dfbcc6e6d46134ab1776793059541a9",
+      "title": "(Junior) PHP Backend Entwickler (m/w/d) C24 Bank",
+      "url": "https://www.adzuna.de/land/ad/5910460183?se=Fp0yALy_8RGN96JAzfykhw&utm_medium=api&utm_source=freehire.me&v=EC5752B894624A7DD6DF94346DA141836A38F205",
+      "location": "Frankfurt am Main, Hessen",
+      "firstSeenAt": "2026-10-04T10:27:41.134Z"
+    },
     {
       "id": "9f8a997504c9aed0d0fb66f7a1ff30269cf12855",
       "title": "(Junior) Mobile Developer (m/w/d) Android/iOS",
