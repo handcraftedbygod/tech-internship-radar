@@ -2,14 +2,14 @@
   "slug": "allianz",
   "name": "Allianz",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -47,11 +47,18 @@
     0,
     2,
     3,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e42d417e819951d1b58e61a24766c2b6b88561b7",
+      "title": "INTERNSHIP - DATA ANALYST (W/M)",
+      "url": "https://internal-careers.allianz.com/job/INTERNSHIP-DATA-ANALYST-%28WM%29/1442031233/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "4afe46fca165318b565e677b8d511329cb798176",
       "title": "Working Student (m/f/d) in Smart Buildings & Cybersecurity",

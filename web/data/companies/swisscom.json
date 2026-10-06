@@ -2,14 +2,14 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     1,
     8,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "982e8bef53c7f1951e7628b99eb46fdb414c76cf",
+      "title": "Internship NETAdvance - ONIS AI DevOps",
+      "url": "https://swisscom.wd103.myworkdayjobs.com/SwisscomExternalCareers/job/Bern/Internship-NETAdvance---ONIS-AI-DevOps_R-0006550?utm_source=freehire.me",
+      "location": "Bern",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "25d66523f059cef906efb96d000434b3f22f0f64",
       "title": "IT Internship - Fullstack Engineer: Agentic AI for Bug Analysis and Resolution",
@@ -99,13 +106,6 @@
       "id": "533a5566b5350c314de538e275a71391dca8f468",
       "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
       "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience?utm_source=freehire.me",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "788f5a6eca54f70010c4d3448b58cbc08bc9b318",
-      "title": "IT Internship - Cloud Engineer",
-      "url": "https://sdcrotterdam.swisscom.ch/o/it-internship-cloud-engineer?utm_source=freehire.me",
       "location": "Rotterdam, Zuid-Holland, Netherlands",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }

@@ -2,21 +2,21 @@
   "slug": "jobtome-international",
   "name": "Jobtome International",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c13383d11f4f2e9d73471ff459ea5e23451d3882",
+      "title": "Junior DevOps Engineer: CI/CD, Kubernetes & Containerization",
+      "url": "https://es.whatjobs.com/pub_api__cpl__357133274__7107?geoID=9919&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "A Coruña, Spain",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "a052d79afc0fb1875359f9c7ce38749dbe092640",
       "title": "Junior DevOps Engineer: CI/CD, Kubernetes & Containerization",

@@ -2,9 +2,9 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
@@ -16,15 +16,15 @@
       "count": 6
     },
     {
+      "hub": "London",
+      "count": 3
+    },
+    {
       "hub": "Dublin",
       "count": 2
     },
     {
       "hub": "Other",
-      "count": 2
-    },
-    {
-      "hub": "London",
       "count": 2
     }
   ],
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     1,
     2,
     13,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a3cc1ba8dc00132f2947e87f9a780c4eab7a68f",
+      "title": "Junior Commercial Associate — Works in Progress",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241571",
+      "location": "London",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "63e5c18cdfb383df32d5953d6c7023424be020ce",
       "title": "PhD Data Scientist, Intern",
@@ -121,13 +128,6 @@
       "title": "Software Engineer, New Grad - Frontend",
       "url": "https://stripe.com/jobs/search?gh_jid=8130927&utm_source=freehire.me",
       "location": "Barcelona",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "16ee9b7872c47628116ac17467b982f6295a9b29",
-      "title": "Software Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130922&utm_source=freehire.me",
-      "location": "Bucharest",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]

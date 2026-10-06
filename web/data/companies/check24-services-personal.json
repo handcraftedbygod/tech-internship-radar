@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": 13.7,
+  "totalPostings": 24,
+  "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 13
     },
     {
       "id": "ai",
@@ -47,11 +47,25 @@
     0,
     5,
     17,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8fccd7d4673544e2229e7120f1f49f9acfd2502",
+      "title": "(Junior) Full Stack Developer (m/w/d) Individualreisen (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtZjQwOWIxNGJmNjkxNDE2YjlhYy1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "a906384450e76a5e8d88b4b924c6649742169f7b",
+      "title": "(Junior) Fullstack Developer (m/f/d) AurumCars (Fullstack-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNDQzMzE4NzYxZjVjNGNiZDgxYi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "8bd08b829fd402fa2af1733cdd05fe99150f7a82",
       "title": "(Junior) QA Engineer/Software-Tester (m/w/d) – Produktqualität & Testautomatisierung (Produktmanager/in)",
@@ -107,20 +121,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-baea7b4704c54d21b7b-S?utm_source=freehire.me",
       "location": "München, BAYERN, DEUTSCHLAND",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "a44bbf39d52ab9b8c656992a5426f8fe631105a8",
-      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel (Data Scientist)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtMzVjOWU5MWU3MmE4NGQ1YThjOS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "f5b8ccb0472e4dcc0c77bce4ab97665ab9b78042",
-      "title": "(Junior) Data Analyst & Project Manager (m/w/d) - Hotel",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-35c9e91e72a84d5a8c9-S?utm_source=freehire.me",
-      "location": "Münster, Westfalen, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

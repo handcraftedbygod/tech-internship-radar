@@ -4,19 +4,24 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": null,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,25 @@
     0,
     0,
     3,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ada3d5a927c113cd602be258172ccb612feafad",
+      "title": "(Junior) Data Analyst (m/w/d) in Vollzeit oder Teilzeit (Data-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM4ODQtMzQ2Mjk3LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "f4d587b5297c9a4a9f2ec7b946d30771d91dbe46",
+      "title": "(Junior) Data Engineer / BI Developer (m/w/d) in Vollzei ... (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM4ODQtMzQ2MjkxLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "388fee20573887b642ee95324b7483fd986f7f9f",
       "title": "Werkstudent (m/w/d) Data Analytics & BI",

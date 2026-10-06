@@ -2,9 +2,9 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 15,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 4
     },
     {
-      "hub": "Toronto",
-      "count": 2
+      "hub": "Dublin",
+      "count": 4
     },
     {
-      "hub": "Dublin",
+      "hub": "Toronto",
       "count": 2
     },
     {
@@ -32,7 +32,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 9
     },
     {
       "id": "swe",
@@ -60,11 +60,25 @@
     0,
     0,
     0,
-    15,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "979aa7a4864ce3a49891eb80688ed21b9731d018",
+      "title": "Machine Learning Intern 2027 (Dublin)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922&utm_source=freehire.me",
+      "location": "Dublin, IE",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "1c1f339dd372177df3287755c27d77c91f9b4a19",
+      "title": "Machine Learning Intern 2027 (Dublin)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
+      "location": "Dublin, IE",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "a4db3f8ae36c2b9b7c252bd3b8f925528581cbb7",
       "title": "Software Engineering Intern 2027 (Dublin)",
@@ -119,20 +133,6 @@
       "title": "Software Engineering Intern 2027 (Toronto)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
       "location": "Toronto, ON, CA",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "2a4d682b6b97bc938d4151d05232578bbf092a56",
-      "title": "Software Engineering Intern 2027 (Dublin)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034",
-      "location": "Dublin, IE",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "7171c292a621fbad2657d92bb378d70f8e2275d4",
-      "title": "PhD Machine Learning Internship 2027 (USA)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

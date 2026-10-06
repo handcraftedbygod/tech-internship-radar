@@ -2,14 +2,14 @@
   "slug": "mirakl-labs",
   "name": "Mirakl - Labs",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d17b3e321f8629350ee837970173c0fd529fb3ba",
+      "title": "Data Scientist - Intern ",
+      "url": "https://job-boards.greenhouse.io/mirakllabs/jobs/6210559004?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "12d5b329502fc514f29fa229dd53a64ffd775641",
       "title": "Software Engineer Intern - Ads",

@@ -2,14 +2,14 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Berlin",
@@ -26,6 +26,11 @@
       "id": "swe",
       "label": "Software",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     2,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a30610e396e49fdd18b755d678656e370855264c",
+      "title": "Data Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/qonto/3afddd9a-325e-4719-87d8-4c7d65c8b1bd?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "ab887948d1a3661f1f09e931c5ec83efaa8253ab",
       "title": "Anti-Financial Crime Intern/Werkstudent",

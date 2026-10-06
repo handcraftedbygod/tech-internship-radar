@@ -2,21 +2,25 @@
   "slug": "electronic-arts",
   "name": "Electronic Arts",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Stockholm",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d29fe0d9296a23a97347f44433116db2741b44d",
+      "title": "Master Thesis Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Masters-Thesis-Software-Engineer-Intern-DICE/216300?utm_source=freehire.me",
+      "location": "Gothenburg, Sweden",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "8a962ea2578264a25ba23ee88e2cfb2598fdddcf",
       "title": "Masters Thesis Software Engineer Intern",

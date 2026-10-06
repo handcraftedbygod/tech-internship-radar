@@ -2,20 +2,25 @@
   "slug": "vinci-airports-holding",
   "name": "VINCI Airports Holding",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 30.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f4a243e4d6715a5ffb2deb7c155e2408ebb25e6",
+      "title": "Stagiaire Data Analyst – Commercial Data Performance F/H",
+      "url": "https://jobs.vinci.com/en/job/nanterre/stagiaire-data-analyst-commercial-data-performance-f-h/1440/45586465984?utm_source=freehire.me",
+      "location": "1973 Bd de la Défense, 92000 Nanterre, France",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "27ffed1d363788d3a3bd5977da7f5c533b1bd473",
       "title": "Data Scientist Junior (F/M) F/H",

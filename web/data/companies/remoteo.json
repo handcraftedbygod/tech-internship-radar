@@ -1,0 +1,52 @@
+{
+  "slug": "remoteo",
+  "name": "remoteo",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-06T11:19:20.947Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Barcelona",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f0fbe9e83695c749872362b5d2538354ab4330fd",
+      "title": "Remote Junior Full Stack Developer — Java + Angular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__358327729__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "bcd7f2d5e25c779c9957708c5be45850e286468f",
+      "title": "Junior Full Stack Developer Java + Angular",
+      "url": "https://es.whatjobs.com/pub_api__cpl__358325558__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    }
+  ]
+}

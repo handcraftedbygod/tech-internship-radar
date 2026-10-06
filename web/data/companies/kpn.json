@@ -2,14 +2,14 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     3,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "721eb905bea803618492fa4122c2b8a2322a84e0",
+      "title": "Junior DevOps Engineer - Mobiele Netwerken (Hybrid)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__169635978__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "4cd1aa792c14a43dac00f721dec7eb10e561ccb8",
       "title": "Junior DevOps Engineer",

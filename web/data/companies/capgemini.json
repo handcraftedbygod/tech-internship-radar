@@ -2,14 +2,14 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 22,
+  "totalPostings": 28,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 19
     },
     {
       "hub": "Katowice",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 19
     },
     {
       "id": "ai",
@@ -55,11 +55,53 @@
     0,
     12,
     10,
-    0,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e6f17ea2edc1cd975063838dea812d739f0345f",
+      "title": "Junior Onsite Network Engineer",
+      "url": "https://careers.capgemini.com/job/Manchester-Junior-Onsite-Network-Engineer/1415863733/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "b94996dca9f88de17417b6aee891a9cfd14f8293",
+      "title": "Junior Network Engineer",
+      "url": "https://careers.capgemini.com/job/Lisboa-Junior-Network-Engineer/1408828333/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "aed2eb70151c7709314f1b140feea30c80fae056",
+      "title": "Junior Systems Engineer",
+      "url": "https://careers.capgemini.com/job/Utrecht-Junior-Systems-Engineer/1195009901/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "04970caae3c36724c1403e9be4e33134207cdea8",
+      "title": "Junior Fullstack Developer (Typescript & React)",
+      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Fullstack-Developer-%28Typescript-&-React%29/1400190833/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "998f5ba25dd783dac3d0eae29bb0fb8476b30b9a",
+      "title": "Junior DevOps Engineer",
+      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-DevOps-Engineer/1412693633/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "3e2fa9444195ca0590361d30cc0f2788ce1ecdc0",
+      "title": "Junior Cloud Platform Engineer",
+      "url": "https://careers.capgemini.com/job/Lisboa-Junior-Cloud-Platform-Engineer/1431013233/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "702b243e0d0e06f02efb43b5b0472bc59b31876a",
       "title": "Junior Site Reliability Engineer",
@@ -87,48 +129,6 @@
       "url": "https://careers.capgemini.com/job/Utrecht-Junior-Data-Engineer/1200122601/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "75073100d1ba244511b34b02a189205b2133461c",
-      "title": "Junior Cloud Engineer",
-      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Cloud-Engineer/1399964033/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "703a2b5d7cc6c04b81eef1c61b907fe07c61ce0c",
-      "title": "Junior Infrastructure Engineer (with German)",
-      "url": "https://careers.capgemini.com/job/Katowice-Junior-Infrastructure-Engineer-%28with-German%29/1418151833/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "a9636c6f8947275841569f1dbc92a1564c37c1ae",
-      "title": "Intern Data Engineer",
-      "url": "https://careers.capgemini.com/job/Warszawa-Intern-Data-Engineer/1437474533/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "20cea3427f649fa9001a021491b93a9531bc9048",
-      "title": "Intern Data Engineer / Data Scientist",
-      "url": "https://careers.capgemini.com/job/Gda%C5%84sk-Intern-Data-Engineer-Data-Scientist/1412742533/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "a6adf6835ff0bc1b06f80aa9e9a132b96c7f8dbe",
-      "title": "Intern DevOps Engineer (with German)",
-      "url": "https://careers.capgemini.com/job/Gda%C5%84sk-Intern-DevOps-Engineer-%28with-German%29/1173420001/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "01d599d2e3cf38d5a137299be41dd411093b34e9",
-      "title": "Werkstudent DevOps Engineering (w/m/d)",
-      "url": "https://www.get-in-it.de/jobsuche/p288182?utm_source=arbeitsagentur&utm_medium=organic&utm_campaign=launch-premium",
-      "location": "München",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }
   ]
 }

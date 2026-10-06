@@ -2,14 +2,14 @@
   "slug": "aplaro",
   "name": "Aplaro Ltd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 7
     },
     {
       "id": "swe",
@@ -38,11 +38,25 @@
     0,
     0,
     6,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af841f1ba2e1b097a4f3bbe5852cb1a0403d590c",
+      "title": "Junior Azure Data Engineer / Junior Azure DevOps Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__169624689__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "e3737a6f330a8b177e92631af8d9f19873e0fc84",
+      "title": "Junior Azure Data Engineer – Information Factory Payments / Cluster Data Tribe Payments & Savin[...]",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__169634847__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "3a553fdce0c112be1ad382b1ead7d1c6bc231579",
       "title": "Intern Software Developer - London - 2027",

@@ -2,21 +2,21 @@
   "slug": "sanovio",
   "name": "Sanovio",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8a9b695dd38da9972d9cb8d41f67a0ce43c5dcf",
+      "title": "Software Engineering Intern (Full-Stack)",
+      "url": "https://www.arbeitnow.com/jobs/companies/sanovio/software-engineering-intern-full-stack-munich-266338",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "0d68827118e5d8b2448098a7534a4279fc04b735",
       "title": "Software Engineering Intern (Full-Stack)",

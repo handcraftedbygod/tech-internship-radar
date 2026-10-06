@@ -2,21 +2,21 @@
   "slug": "kevox-inhaber-michael-hagelganz",
   "name": "KEVOX Inhaber: Michael Hagelganz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a0c04f9adf637a4a300d58609252edc8d099aee",
+      "title": "Junior Sales Manager (m/w/d) | SDR – B2B Software Vertrieb (Vertriebsassistent/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTUzMDUtazQ2NzIzLjE4MzEtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "1d304a3da4ab9752b80863f334d84840b0d78f53",
       "title": "Junior Sales Manager (m/w/d) | SDR – B2B Software Vertrieb (Vertriebsassistent/in)",

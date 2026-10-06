@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Bremen",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ai",
@@ -47,11 +47,25 @@
     0,
     8,
     7,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0570bf64f202f655c0541077232a403e059a5e99",
+      "title": "Junior Simulation Software Developer C/C++ (m/f/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-974975808-S?utm_source=freehire.me",
+      "location": "Manching, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "0facb685bddef0adf558cfd02d48a9e5fa0300fe",
+      "title": "Junior Simulation Software Developer C/C++ (m/f/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTc0OTc1ODA4LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "c7d9a8e411f54de0994627210feed97992a54b92",
       "title": "Junior Backend Engineer (m/w/d)",
@@ -106,20 +120,6 @@
       "title": "Werkstudent Manufacturing Engineering Aerostructures Data Analytics & Management Support (d/m/w)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-966325533-S",
       "location": "Hamburg",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "5998f24933ae4f61653e9aa18655ac11f7921f2a",
-      "title": "Intern in Space-Software Unit Testing & Migration (d/f/m)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-966341551-S",
-      "location": "Immenstaad am Bodensee",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "9f2f20c6aeb3cf36620c0bbe8dbae9c555e630f4",
-      "title": "Werkstudent Manufacturing Engineering Aerostructures Data Analytics & Management Support (d/m/w) (Elektroniker/in - Luftfahrttechnische Systeme)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY2MzI1NTMzLVMgMQ?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]

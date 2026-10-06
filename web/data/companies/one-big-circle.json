@@ -2,21 +2,21 @@
   "slug": "one-big-circle",
   "name": "One Big Circle",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     3,
     1,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "136ba61dd2fcd162eda7a3931371fde91473b92e",
+      "title": "Junior Platform Software Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__561383233__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
+    {
+      "id": "3c9c8ecb94a02ff5a6f8248a6c7b8366cf125126",
+      "title": "Junior Platform Software Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__561400392__7082?geoID=21231&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Newport, United Kingdom",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "65b76e4b21ab7a0a823d1899e07cb5a43a51d625",
       "title": "Junior Platform Software Developer",

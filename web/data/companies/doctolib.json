@@ -2,10 +2,10 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 13.4,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -43,11 +43,18 @@
     0,
     5,
     5,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8f5804ce178b96ceffafb38fccb34f2472fba381",
+      "title": "Data Quality Operations Intern (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7996965003",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "9d97f8e0f7641dd75886eaac255fd1ef44dc433f",
       "title": " Working Student B2C SEO & AI Search (x/f/m)",
@@ -110,13 +117,6 @@
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/7737188003",
       "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-08-31T10:33:12.712Z"
-    },
-    {
-      "id": "592f6f59dc7ca3684f960c4570a39e58e8d51664",
-      "title": "Werkstudent Projektmanagement & Sales Prozesse (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7916491003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

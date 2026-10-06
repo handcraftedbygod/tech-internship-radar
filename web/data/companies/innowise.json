@@ -2,14 +2,14 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 8.5,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c1530d1717835fb87dc01b3ba2c0d2041a576084",
+      "title": "Trainee Go developer",
+      "url": "https://nofluffjobs.com/job/trainee-go-developer-innowise-warsaw-3?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "de4c7d75b8b6b7af7c7f874c3cd04fb0787cc238",
       "title": "Trainee Data Engineer (with German)",

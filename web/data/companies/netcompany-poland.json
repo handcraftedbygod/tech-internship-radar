@@ -2,21 +2,21 @@
   "slug": "netcompany-poland",
   "name": "Netcompany Poland",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73b211c1e30a95e33eb733d2361e62dde9c256a6",
+      "title": "Junior Java Developer",
+      "url": "https://nofluffjobs.com/job/junior-java-developer-netcompany-poland-warsaw-7?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "d4243cab81b168c0337aa8729fe674b1d727a5fc",
       "title": "Junior Cloud DevOps Engineer (Azure) @ Netcompany Poland",

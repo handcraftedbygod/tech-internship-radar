@@ -2,13 +2,17 @@
   "slug": "atkinsr-alis",
   "name": "AtkinsRéalis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "356731aaf8f3991f5e326438d8d8023a12869b83",
+      "title": "Junior Full Stack Engineer: Web & Cloud Foundations",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__561399938__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "ff44a1c561783c64ca0e93f079c48fb8cd3f9763",
       "title": "Junior Full Stack Engineer",

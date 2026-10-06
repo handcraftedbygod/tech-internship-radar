@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Munich",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "hw",
@@ -56,11 +56,18 @@
     0,
     17,
     15,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9ad19349f68477dd0a936a41c62f1de0af83a68",
+      "title": "Working Student (f/m/d) for Federated Software Architectures",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1600672-2-S",
+      "location": "Garching an der Alz",
+      "firstSeenAt": "2026-10-06T11:19:20.947Z"
+    },
     {
       "id": "2dc901fea4f4fb91ce2660332778d4ac1ee9fb45",
       "title": "Working Student (f/m/d) Cybersecurity Project Execution",
@@ -122,13 +129,6 @@
       "title": "Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im...",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1630777-1-S",
       "location": "Erlangen",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "5dae6c5c6e7e19ce799df017adca421b125941a9",
-      "title": "Working Student (f/m/d) Data Analytics & IT Automation",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1620819-2-S",
-      "location": "München",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
