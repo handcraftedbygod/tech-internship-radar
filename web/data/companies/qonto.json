@@ -2,14 +2,14 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -23,13 +23,13 @@
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -43,11 +43,18 @@
     0,
     2,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe4bb9333fb1881a880376374c1278a60fdbf9ff",
+      "title": "Data Engineering Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/data-engineering-intern-paris-415281",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "a30610e396e49fdd18b755d678656e370855264c",
       "title": "Data Engineering Intern",

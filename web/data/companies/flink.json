@@ -2,21 +2,21 @@
   "slug": "flink",
   "name": "flink",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70a18d662d86ac71ac3f4a5c940410b135c046e2",
+      "title": "Forward Deployed Software Engineer (Intern or Recent Graduate)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/flink/forward-deployed-software-engineer-intern-or-recent-graduate-zurich-459893",
+      "location": "Zürich",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "11c1e4cfffad08e988f12d0b8a43fca5dc3c559a",
+      "title": "Software Engineer (Intern or Recent Graduate)",
+      "url": "https://www.arbeitnow.ch/jobs/companies/flink/software-engineer-intern-or-recent-graduate-zurich-231071",
+      "location": "Zürich",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "19b1721a3d60d66694c64f2c2344c8b28817cb9b",
       "title": "Software Engineer (Intern or Recent Graduate)",

@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 33,
+  "currentOpenings": 36,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 60,
+  "totalPostings": 63,
   "avgPostingDurationDays": 19.2,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 34
+      "count": 36
     },
     {
       "hub": "Madrid",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Lisbon",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 48
+      "count": 50
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -51,11 +51,32 @@
     0,
     33,
     26,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2931cdfeb1d08996936dc8ce63b79da85503d233",
+      "title": "Courier Growth Intern",
+      "url": "https://careers.glovoapp.com/job/courier-growth-intern-in-barcelona-spain-jid-744000154024946/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "baa7f122384afc0fa8f639311fecbe1d8aab5bed",
+      "title": "Intern Regions Spain",
+      "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "ccd85e28b506cafb8376a1386e63f13d2cf0e012",
+      "title": "Intern Account Manager Top Accounts Spain",
+      "url": "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "58845dfbe05c0c351ffba8a91081be185562d9d3",
       "title": "Intern Data Analyst I People Strategy Global HQ",
@@ -104,27 +125,6 @@
       "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000151644989/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "a63382806c1307d0f4cd7c8ccde268f7728f5a1b",
-      "title": "Junior Business Analyst – Fleet Operations (Spain)",
-      "url": "https://careers.glovoapp.com/job/junior-business-analyst-fleet-operations-spain-in-barcelona-spain-jid-744000151698469/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "0b4a097777d953bd6813cbc265284c7f0feeb339",
-      "title": "Comms & AI Intern",
-      "url": "https://careers.glovoapp.com/job/comms-ai-intern-in-barcelona-spain-jid-744000151353849/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "db90f066355b63773fd9e4fe5ecaa96c923224c4",
-      "title": "Intern Sales Development Representative Portugal",
-      "url": "https://careers.glovoapp.com/job/intern-sales-development-representative-portugal-in-lisbon-portugal-jid-744000151357159/",
-      "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
     }
   ]
 }

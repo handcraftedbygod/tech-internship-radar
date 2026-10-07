@@ -2,14 +2,14 @@
   "slug": "sixt",
   "name": "Sixt",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     8,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2fb3dd922cd0dc843072990ad6220a11bd6340db",
+      "title": "Working Student (m/f/d) – Web Frontend Engineering",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000154053959",
+      "location": "Munich, BY, Germany",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "2e0542aef95742affeaf37d6053320b582e1ead4",
       "title": "Working Student (m/f/d) – Web Frontend Engineering",
@@ -105,13 +112,6 @@
       "url": "https://jobs.smartrecruiters.com/SIXT/744000142816253",
       "location": "Munich, BY, Germany",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "1a4e93ff0134a0f1a0f020aeb2e33bd5044a2cf6",
-      "title": "Trainee Software Development Digital Experience (m/f/d)",
-      "url": "https://jobs.smartrecruiters.com/SIXT/744000140957548-trainee-software-development-digital-experience-m-f-d-?utm_source=freehire.me",
-      "location": "Munich, BY, de",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

@@ -2,17 +2,22 @@
   "slug": "tenstorrent",
   "name": "Tenstorrent",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 15.2,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -29,11 +34,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65f1f3b774f85108d878ae3dc94df0036b89d469",
+      "title": "Software Engineering Intern: Training, Models, Kernel/Ops",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256666007?utm_source=freehire.me",
+      "location": "Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "07279968885f61c70d255a92d99b0d2c76402147",
+      "title": "Software Engineering Intern: DC Deployment and Infrastructure",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256680007?utm_source=freehire.me",
+      "location": "Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "e6796962937ae75c3a6411575de7668b936797a4",
       "title": "Machine Learning Engineer Intern ",

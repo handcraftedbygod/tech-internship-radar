@@ -2,14 +2,14 @@
   "slug": "mirakl-labs",
   "name": "Mirakl - Labs",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0294d01150ecfd73e4ba5820ceeda2bf09c46fd1",
+      "title": "Data Scientist - Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/data-scientist-intern-paris-392040",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "d17b3e321f8629350ee837970173c0fd529fb3ba",
       "title": "Data Scientist - Intern ",

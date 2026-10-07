@@ -2,11 +2,15 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 3
+    },
     {
       "hub": "Zurich",
       "count": 2
@@ -14,17 +18,18 @@
     {
       "hub": "Paris",
       "count": 1
-    },
-    {
-      "hub": "Munich",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,11 +42,25 @@
     0,
     0,
     2,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e791283c3009591426465cdde41584b87759b83a",
+      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "40d57bf14f40ff741c9500a763fa63ae2dd13327",
+      "title": "Internship - Software Engineering - Wireless Data Science",
+      "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "bd40912b36eba87b2c3ee524eedb0a4425adf4cf",
       "title": "Internship Computer Vision & Machine Learning Research",

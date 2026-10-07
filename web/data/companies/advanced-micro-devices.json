@@ -2,21 +2,21 @@
   "slug": "advanced-micro-devices",
   "name": "Advanced Micro Devices, Inc",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc0482d2a4d905dce6257d8bde49fd77d213689e",
+      "title": "Summer 2027 Software Engineer Intern",
+      "url": "https://careers.amd.com/careers-home/jobs/93409?utm_source=freehire.me",
+      "location": "GB,Cambridge",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "386dad7976c7646ebb0c2afa0b32d9b3bb56c98c",
       "title": "Summer 2027 Software Engineer Intern",

@@ -2,9 +2,9 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 21,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 22,
+  "totalPostings": 24,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
@@ -16,12 +16,12 @@
       "count": 6
     },
     {
-      "hub": "London",
-      "count": 3
+      "hub": "Dublin",
+      "count": 4
     },
     {
-      "hub": "Dublin",
-      "count": 2
+      "hub": "London",
+      "count": 3
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     },
     {
       "id": "ai",
@@ -55,11 +55,25 @@
     1,
     2,
     13,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "468d677a65db2185c0237f9143e47f1f7b027596",
+      "title": "Security Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257892&utm_source=freehire.me",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "2b6a0f888f8a2482b1813dcb96ca69d33069a290",
+      "title": "Security Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257892",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "3a3cc1ba8dc00132f2947e87f9a780c4eab7a68f",
       "title": "Junior Commercial Associate — Works in Progress",
@@ -115,20 +129,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8212517",
       "location": "Toronto",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "b10993d057bef9e877a6b11b5804cbbaacd1557b",
-      "title": "Product Manager: New Grad Accelerator",
-      "url": "https://stripe.com/jobs/search?gh_jid=7737124",
-      "location": "San Francisco, New York City, Seattle",
-      "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "3002c09590827346ce172340872a07c819fcb46a",
-      "title": "Software Engineer, New Grad - Frontend",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130927&utm_source=freehire.me",
-      "location": "Barcelona",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]
 }

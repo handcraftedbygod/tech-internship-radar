@@ -2,21 +2,21 @@
   "slug": "nagarro",
   "name": "Nagarro",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70e207442b8b66d6e0ddc11629304edf6898ec48",
+      "title": "Junior Software Developer",
+      "url": "https://jobs.smartrecruiters.com/Nagarro1/744000153738059-junior-software-developer?utm_source=freehire.me",
+      "location": "Remote, ro",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "37c2bcb207f7066518f667468e3326afb1c27d8b",
       "title": "Junior Python Developer",

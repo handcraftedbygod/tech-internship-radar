@@ -2,20 +2,25 @@
   "slug": "g-research",
   "name": "G-Research",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27ed497ac447184cf791666f3587f991d636bf14",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "458ae26c53d54c111b3874c35e23491cdbbb8420",
       "title": "Software Engineering Intern",

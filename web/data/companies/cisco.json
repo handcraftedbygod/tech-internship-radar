@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Stockholm",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,18 @@
     0,
     1,
     8,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae8ae97b85aa140962a45155a2f34d8e761fc8ab",
+      "title": "Junior Software Developer - Sweden",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Stockholm-Sweden/Junior-Software-Developer---Sweden_2025698?utm_source=freehire.me",
+      "location": "Stockholm, Sweden",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "a6261bde5fd3831f223cf85f62a4426c9e759f58",
       "title": "Junior Cloud Software Engineer",

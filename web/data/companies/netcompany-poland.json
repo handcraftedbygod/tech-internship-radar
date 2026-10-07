@@ -2,21 +2,21 @@
   "slug": "netcompany-poland",
   "name": "Netcompany Poland",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff913a2d0c989da1c228624221e4ed8765f7fba7",
+      "title": "Junior Java Developer (f/m)",
+      "url": "https://nofluffjobs.com/job/junior-java-developer-f-m-netcompany-poland-warsaw-1?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "73b211c1e30a95e33eb733d2361e62dde9c256a6",
       "title": "Junior Java Developer",

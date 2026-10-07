@@ -2,21 +2,21 @@
   "slug": "one-big-circle",
   "name": "One Big Circle",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     1,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e015ef9010fe9abd37caa24f86c087b1506840b2",
+      "title": "Junior Platform Engineer – Data, Web & Cloud",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__561383532__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "136ba61dd2fcd162eda7a3931371fde91473b92e",
       "title": "Junior Platform Software Developer",

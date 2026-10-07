@@ -2,13 +2,17 @@
   "slug": "mollie",
   "name": "Mollie",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
       "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a71776fb9ddeba0767789a9788138d9266ec4351",
+      "title": "Working Student - Workplace Experience",
+      "url": "https://jobs.ashbyhq.com/mollie/7d03334b-1544-4a6b-a776-078d92a3e214",
+      "location": "Lisbon",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "3587dd1a1414e3f1331506c941861e9efcd2d8c6",
       "title": "Commercial Intern - Business Accounts - Benelux",

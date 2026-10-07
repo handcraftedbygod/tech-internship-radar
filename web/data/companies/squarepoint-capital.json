@@ -2,9 +2,9 @@
   "slug": "squarepoint-capital",
   "name": "Squarepoint Capital",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "quant",
@@ -38,11 +42,18 @@
     0,
     9,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e703af9c59ac7b8184fac4af04aa66472bd8fb6",
+      "title": "Intern Software Developer - Warsaw 2027",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?gh_jid=8045124&id=8045124&utm_source=freehire.me",
+      "location": "Warsaw",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "e935deb59440434f18b501e4103adf3d46f86fc4",
       "title": "Junior Platform DevOps Engineer",

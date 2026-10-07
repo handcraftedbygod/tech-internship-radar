@@ -2,21 +2,25 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +38,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d332f031a59b85a5928fbb96d449e76e5dabd0c",
+      "title": "Software Engineer, Early Career (SF)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "location": "San Francisco, California, United States",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "93f750d556247f2a2075d42abe90d6f1da1d8f50",
+      "title": "Software Engineer, Early Career (NYC)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "23e1b5678d29cb8d4788ff6bb55d8ab93196ca5b",
       "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",

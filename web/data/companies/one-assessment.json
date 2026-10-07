@@ -1,0 +1,57 @@
+{
+  "slug": "one-assessment",
+  "name": "One Assessment",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-07T10:53:29.125Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "89bde29e195619fc11649898672a289165f4e260",
+      "title": "Junior Salesforce Frontend Developer, Galway, Ireland",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6030776__7127?geoID=46&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Galway, Ireland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "10288a87c966d3af2efefcb671de1d50a3d25f38",
+      "title": "Junior Java Backend Developer, Galway, Ireland",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6030374__7127?geoID=46&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Galway, Ireland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    }
+  ]
+}

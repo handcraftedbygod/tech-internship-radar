@@ -2,13 +2,17 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Dublin",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d19202490a6653afb752ed786d761047989e53cf",
+      "title": "Data Center Infrastructure Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10571575/data-center-infrastructure-engineer-internship-2027?utm_source=freehire.me",
+      "location": "Dublin, IRL",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "4c9411117da343c40030c9fb62144795c6fd2c23",
       "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",

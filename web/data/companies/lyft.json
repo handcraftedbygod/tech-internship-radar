@@ -2,14 +2,18 @@
   "slug": "lyft",
   "name": "Lyft",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 22,
+  "totalPostings": 23,
   "avgPostingDurationDays": 16,
   "topLocations": [
     {
       "hub": "Toronto",
       "count": 8
+    },
+    {
+      "hub": "San Francisco",
+      "count": 4
     },
     {
       "hub": "Montreal",
@@ -22,10 +26,6 @@
     {
       "hub": "New York",
       "count": 3
-    },
-    {
-      "hub": "San Francisco",
-      "count": 3
     }
   ],
   "topDisciplines": [
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
@@ -65,11 +65,18 @@
     0,
     0,
     20,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8889a2de891587c4dc502e6ce510f6298233362",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "546baed0b8d3a04199f37d1c9355e06caef4ae6a",
       "title": "Stagiaire en ingénierie de la qualité terrain, matériel (été 2027)",
@@ -107,7 +114,7 @@
     },
     {
       "id": "7b00758616474394636b728cdbff90d0539042f2",
-      "title": "Applied Scientist Intern (Summer 2027)",
+      "title": "Applied Scientist Intern, PhD (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
       "location": "San Francisco, CA",
       "firstSeenAt": "2026-09-29T10:26:55.144Z"
@@ -131,13 +138,6 @@
       "title": "Software Engineer Intern, Test Automation (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
       "location": "Montreal, Canada",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "5e0efee3d2d2940e7572e41956279c42dbd68baa",
-      "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
-      "location": "Toronto, Canada",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]

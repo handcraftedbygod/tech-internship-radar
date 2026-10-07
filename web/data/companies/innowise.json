@@ -2,26 +2,26 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 7
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 4
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     2,
     4,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52f88c5c53a10ba0a19adf5da02779d8d51ecff8",
+      "title": "Trainee BI/Data Analyst (with German)",
+      "url": "https://nofluffjobs.com/job/trainee-bi-data-analyst-with-german-innowise-warsaw?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "b711e91144adb6140b6166f3004eb49a183c1984",
+      "title": "Trainee Python developer (with German)",
+      "url": "https://nofluffjobs.com/job/trainee-python-developer-with-german-innowise-warsaw?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "c1530d1717835fb87dc01b3ba2c0d2041a576084",
       "title": "Trainee Go developer",

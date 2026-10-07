@@ -2,14 +2,14 @@
   "slug": "shift-technology",
   "name": "Shift Technology",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Other",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,25 @@
     0,
     3,
     1,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab878765d78b935662bf2f2f93e41dfaa5c56c84",
+      "title": "Full stack Engineer Intern (6 months) ",
+      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003?utm_source=freehire.me",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "67f20b05f1b2d3d0267690f46fadd78981e03d72",
+      "title": "QA Engineer Intern (6 months) ",
+      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003?utm_source=freehire.me",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "b2f4bb4c6555809ad4fd159dc3010735478589d0",
       "title": "Data Scientist Internship (November, 6 months)",

@@ -2,18 +2,18 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 28,
+  "totalPostings": 32,
   "avgPostingDurationDays": 20,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Dublin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 21
     },
     {
       "id": "biz",
@@ -50,11 +50,39 @@
     5,
     8,
     14,
-    1,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f973b931d42c728605f35bf9817356c01fdde22",
+      "title": "[PL] Junior Indirect Cost Controller",
+      "url": "https://careers.hellofresh.com/global/en/job/8246057?gh_jid=8246057",
+      "location": "Wrocław, Lower Silesian Voivodeship, Poland",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "2881108c124e5907d9d07d6ebe3c7e24d9c2876f",
+      "title": "Junior Procurement Category Manager (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8259740?gh_jid=8259740",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "048dc089d88952937fdcb1c2a9c451d5b4ad4423",
+      "title": "Junior Procurement Category Manager (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8259670?gh_jid=8259670",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
+    {
+      "id": "1465b16a5e27c61894d6c96ddbb61c7444901beb",
+      "title": "Junior Procurement Category Manager (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8259742?gh_jid=8259742",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+    },
     {
       "id": "ba5cbea5d4446f8d6de3e4647045fec21dab3b70",
       "title": " Junior Photographer (x/f/m)",
@@ -96,34 +124,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8230615?gh_jid=8230615",
       "location": "Amsterdam, North Holland, Netherlands",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "1d1d4f6132ee0c4e7cdbc318eca2f64fb2b16819",
-      "title": "Werkstudent Rezeptmanagement (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8226101?gh_jid=8226101",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "aab1355b1c3d2b0d925aefd38adaddf01288fd77",
-      "title": "Culinary Operations Working Student (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8210829?gh_jid=8210829",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "32af2575d2dc1cacb839cb7d3043e0df4f4ab742",
-      "title": "Operational Excellence Junior Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8077126?gh_jid=8077126",
-      "location": "Derby, England, United Kingdom",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "f0a222cd862c29089939e719cff4df1546afefa3",
-      "title": "Junior Content Marketing specialist (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8203812?gh_jid=8203812",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "firstSeenAt": "2026-09-16T09:06:53.007Z"
     }
   ]
 }
