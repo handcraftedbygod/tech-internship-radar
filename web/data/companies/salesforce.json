@@ -2,11 +2,15 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 7,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 16,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
+    {
+      "hub": "Dublin",
+      "count": 7
+    },
     {
       "hub": "San Francisco",
       "count": 4
@@ -22,17 +26,13 @@
     {
       "hub": "Other",
       "count": 2
-    },
-    {
-      "hub": "Dublin",
-      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 10
+      "count": 15
     },
     {
       "id": "swe",
@@ -50,11 +50,46 @@
     1,
     4,
     6,
-    5,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1647df1938bf9386b3c61728c18982bfa4a448af",
+      "title": "Commercial Graduate Program - Sales Path - Italian Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Italian-Speaking-Market_JR363192-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6be593918730bc7cfbef652360180d0cf8bd3c9c",
+      "title": "Commercial Graduate Program - Sales Path - Spanish Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Spanish-Speaking-Market_JR363211-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "7e545ac2c3f27c16712c0d87b6909b2fcdcc9413",
+      "title": "Commercial Graduate Program - Sales Path - French Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---French-Speaking-Market_JR363213-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "826210bc1d90812d9e30a4f554edef9c5ecb2c5c",
+      "title": "Commercial Graduate Program - Sales Path - Hebrew Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Hebrew-Market_JR363315-2",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "17f24ecbb0682af81d1a52a1a1ae0f66f02b41a5",
+      "title": "Commercial Graduate Program - Sales Path - English Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---English-Speaking-Market_JR363190-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "650346897b25be4f1bf9906bf91edadda5ee72b3",
       "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
@@ -89,41 +124,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1",
       "location": "California - San Francisco",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "04a8a0412046f2b7290e5a709f8ee95dc5037367",
-      "title": "Sales Intern (North)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Sales-Intern--North-_JR335815",
-      "location": "Germany - Munich",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "20d80b6c58544b6810ef1679e8be0dfdc3352718",
-      "title": "Summer 2027 Intern - Recruiting Data Intelligence",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Recruiting-Data-Intelligence_JR360432-1",
-      "location": "California - San Francisco",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "af5b466aa70911863b57dc3a47165178c1ecb9b9",
-      "title": "Summer 2027 Intern - Sales Development, Nonprofit",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Sales-Development--Nonprofit_JR359942-1",
-      "location": "Illinois - Chicago",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "4976c083927b161d56a96aa3df4ef7727131af8f",
-      "title": "Junior Technical Support Engineer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Remote/Junior-Technical-Support-Engineer_JR359301",
-      "location": "Japan - Remote",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "0d3c56b92789e7228d5373b182637606fd5ccba3",
-      "title": "Futureforce Events & Admin Trainee",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Apprentice_JR357940",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

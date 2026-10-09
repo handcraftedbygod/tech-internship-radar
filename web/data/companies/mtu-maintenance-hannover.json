@@ -2,21 +2,21 @@
   "slug": "mtu-maintenance-hannover",
   "name": "MTU Maintenance Hannover GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "420b140bd86fb5e0aedf8a4a688efb222c85399e",
+      "title": "Werkstudent für Quality Data Analytics, Digitalisierung und Prozessautomatisierung (all genders)",
+      "url": "https://www.heyjobs.co/de-de/jobs/53c7132b-411c-4e38-9b2d-1c6c64267704?utm_content=ad_link&utm_medium=sjm-pr&utm_source=jobboerse",
+      "location": "Langenhagen, Han",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "ea568fc95dac8cdd1ca383f72667c3afb45a9da5",
       "title": "Werkstudent Data Analytics & Process Improvement (all genders)",

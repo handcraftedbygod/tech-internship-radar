@@ -2,14 +2,14 @@
   "slug": "visa",
   "name": "Visa",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "Austin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "product",
@@ -52,11 +52,18 @@
     0,
     0,
     32,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4004c87acbd3265ae973d363ac4596f393beb68",
+      "title": "Associate Cybersecurity Analyst - Junior (Local Candidates)",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Associate-Cybersecurity-Analyst---Junior--Local-Candidates-_REF088932W",
+      "location": "US - Ashburn, VA",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "d08cb7e42336c0da3f17a493dbf05cfad0e10cba",
       "title": "Software Engineer, Intern - 2027 Ashburn, VA",
@@ -118,13 +125,6 @@
       "title": "Software Engineer, Intern, Highlands Ranch, CO - 2027",
       "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-highlands-ranch-co-2027",
       "location": "Denver, CO",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "5091bd1529423e95e75500c1e231759b456d5aab",
-      "title": "Software Engineer, Intern - Foster City 2027",
-      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-foster-city-2027",
-      "location": "Foster City, CA",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]

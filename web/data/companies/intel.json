@@ -1,0 +1,68 @@
+{
+  "slug": "intel",
+  "name": "Intel",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-09T11:10:10.640Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Munich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8c36a98a3eef22c761b68f71a92633744a21d10f",
+      "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "61d37b6b84588d290f5a496d2f0054fef8e57c2e",
+      "title": "AI Software Engineering - Workloads Validation Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "377187ecb1f890127e6de6b45fdfef4be32af5df",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    }
+  ]
+}

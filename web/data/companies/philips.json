@@ -2,14 +2,14 @@
   "slug": "philips",
   "name": "Philips",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Amsterdam",
@@ -26,6 +26,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4fe12326259d3b8ff8c1e0263f832afbfbef37b5",
+      "title": "Internship: Full Stack Developer in Finance Domain",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556?utm_source=freehire.me",
+      "location": "Eindhoven",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "c0b0b9e53a141692b7cdfc3838c3aa577061004e",
       "title": "Internship: Data Science for Multidimensional Market Modelling",

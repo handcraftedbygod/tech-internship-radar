@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     2,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f0e3f436e852c0b99b558f254bfd37f24cd0c60",
+      "title": "Computer Science | Software Engineering internship: Wafer map verification",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "8eb094ee65f602c91ed2232ccd90da98a85a64f8",
       "title": "Data Science | Computer Science internship: Measurement analysis framework",

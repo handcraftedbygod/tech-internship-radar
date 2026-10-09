@@ -2,14 +2,14 @@
   "slug": "sia-partners",
   "name": "Sia Partners",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     3,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dad8b09e57b17c3bed533e6c64151adfd5446ae3",
+      "title": "Junior Software Engineer, Python Backend | Docker & CI",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__144074552__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "aadb748781bc3dcd9fe63b8ccb24a42d23c43683",
       "title": "Junior Software Engineer",

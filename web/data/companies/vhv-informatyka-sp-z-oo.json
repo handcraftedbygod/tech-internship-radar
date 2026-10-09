@@ -2,21 +2,21 @@
   "slug": "vhv-informatyka-sp-z-oo",
   "name": "VHV Informatyka Sp. z o.o.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6af8f72f1722cfa90b3904ce4d9233053ee37fcd",
+      "title": "Junior Java Backend Developer @ VHV Informatyka Sp. z o.o.",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30058060__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "d6d3fb35d8f5f268a71a67e6d307a522ea00f121",
       "title": "Junior Java Backend Developer",

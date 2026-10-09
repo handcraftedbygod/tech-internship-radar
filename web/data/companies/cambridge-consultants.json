@@ -2,21 +2,21 @@
   "slug": "cambridge-consultants",
   "name": "Cambridge Consultants",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "80d06514ee30b6223b707b40f8c5b0b628517095",
+      "title": "Software Engineering Internship - Healthcare (2027 start)",
+      "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "96e877a06927828a85a540d66bfbd50b65cfe420",
       "title": "Cloud Software Engineering Internship (2027 start)",

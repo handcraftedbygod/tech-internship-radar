@@ -2,17 +2,17 @@
   "slug": "wire-it",
   "name": "WIRE IT",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14.2,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Lisbon",
+      "count": 2
     },
     {
-      "hub": "Lisbon",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a1921b4a3fc9147e86f5c771d70e646726f8ac3c",
+      "title": "Junior Cobol Developer",
+      "url": "https://www.careers-page.com/wire-it/job/X98R857R?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "117013277b4f13ab3ab7e0cfe36784f37bc159e6",
       "title": "Junior Network Security Engineer",

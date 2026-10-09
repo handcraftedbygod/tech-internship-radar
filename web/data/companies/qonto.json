@@ -2,14 +2,14 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     },
     {
@@ -43,11 +43,25 @@
     0,
     2,
     1,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d742723576aecfcd82ece7976fc3a7a12b7c2997",
+      "title": "Machine Learning Intern",
+      "url": "https://jobs.ashbyhq.com/qonto/300981a0-0bbb-404c-b4a1-e41556363e50?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "1ac39724be1089087c09ba23fea6ff2437a2e544",
+      "title": "Data Analytics Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/data-analytics-intern-paris-225872",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "fe4bb9333fb1881a880376374c1278a60fdbf9ff",
       "title": "Data Engineering Intern",

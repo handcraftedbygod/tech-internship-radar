@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 34,
+  "totalPostings": 36,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 29
     },
     {
       "hub": "Stuttgart",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 13
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,25 @@
     0,
     19,
     10,
-    5,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "478c3aefe793560b899c263f6df32a751b281bdd",
+      "title": "Praktikant*in Investitionscontrolling Mercedes-Benz Cars – Data Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1640027-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6c36a9653254d9702681e9859071dbd240066094",
+      "title": "Praktikant*in Software Entwicklung Fahrerassistenzsysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1640443-1-S",
+      "location": "Immendingen",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "18cc5283b2302e1eadc019f2811221b415935451",
       "title": "Werkstudent*in (SW-Developer Data Campaigns for Automated Driving & ADAS)",
@@ -110,20 +124,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTMxNTEtMTYzNTUwMS0xLVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "8d391863b0f66ecca159f03466fe3270b8571a65",
-      "title": "Werkstudent*in Produktionsqualität Schwerpunkt Data Science",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1634167-1-S",
-      "location": "Düsseldorf",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "ae9c554862e8ba1214314ba24be5167ef76f9512",
-      "title": "Praktikant*in als Data Analyst - Produktionsversorgung Montage (Pflicht-Praktikum)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1633241-1-S",
-      "location": "Bremen",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

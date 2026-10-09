@@ -2,21 +2,21 @@
   "slug": "laelaps",
   "name": "Laelaps",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2cf35392f9abdef39667618841e32495d0ff6ba9",
+      "title": "Software Engineer, Robot Autonomy, Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-intern-zurich-308536?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6f4371263ae6c59c84835ed995110404f8850a90",
+      "title": "Software Engineer, Robot Autonomy, Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-intern-zurich-308536",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "07a629ea06a8fc4af2fc1d91aff5a6ced1a64f61",
       "title": "Software Engineer, Robot Autonomy (Actuator Control & Locomotion), Intern",

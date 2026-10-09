@@ -2,21 +2,21 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c2845982fe0f2a7dbd5811665058a19041ca527",
+      "title": "Junior Software Engineer, Data",
+      "url": "https://jobs.ashbyhq.com/almedia/9da70ef8-9cdc-4342-8e78-00206aac158d?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "5c8f9e77bd0ccd9e40e6ca20497ab667b1aff33e",
       "title": "Junior Backend Engineer",

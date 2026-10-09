@@ -2,21 +2,21 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     4,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e28a18ec456ff0a98735fc469c6f26fb6fd761b0",
+      "title": "Junior Java Developer",
+      "url": "https://careers.epam.com/en/vacancy/junior-java-developer-bltaytkqttrhqqcgpeg_en?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "9bde107d8a2cd67b555968a593440acf1f439533",
       "title": "Junior Java Developer",

@@ -2,14 +2,14 @@
   "slug": "hudson-river-trading",
   "name": "Hudson River Trading",
   "tier": "trading",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "New York",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e568de87bced0beffa0f8d349a16230f4ad7e8e6",
+      "title": "Data Scientist Intern - 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369&utm_source=freehire.me",
+      "location": "London, United Kingdom; New York, NY, United States",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "32256c6056de2253ca9d8c3203350bc421e9aa7c",
       "title": "Data Scientist Intern - 2027",

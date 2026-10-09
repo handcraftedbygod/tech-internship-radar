@@ -2,21 +2,21 @@
   "slug": "wehrtyou",
   "name": "Wehrtyou",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77553c8799c2f3b06747a52fd7544db0cddc3f17",
+      "title": "Data Scientist Intern - 2027",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/data-scientist-intern-2027-london-106355?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "e3230b8ea42575623e8fdbf42c6d94e30b34c3f7",
       "title": "Software Engineering Internship (C++ or Python) – Summer 2027",

@@ -2,14 +2,14 @@
   "slug": "engg",
   "name": "Engg",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     3,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8e30417a747f3d587f5ad6a4a92c2a797b0c926",
+      "title": "Junior Python Data Platform Engineer: Build Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30063738__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "e3e21f853d5938637ba39c1581409e1976976a49",
+      "title": "Junior Data Platform Software Engineer (Python), Data Platform - Splunk",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30063725__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "3a4122e300850230d5403b79d66c84ed023e8e67",
       "title": "Software Engineering Intern 2027 (Dublin)",

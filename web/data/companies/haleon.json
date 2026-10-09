@@ -2,17 +2,17 @@
   "slug": "haleon",
   "name": "Haleon",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3becebb457ed36936f52aece9baa38f80f5c7da3",
+      "title": "Data Analytics Intern",
+      "url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Switzerland---Nyon/Data-Analytics-Intern_548728?utm_source=freehire.me",
+      "location": "Switzerland - Nyon",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "e8d169d0fc537f8309b971b7270084c2528dbf91",
       "title": "Data Engineer Intern",

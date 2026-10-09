@@ -2,14 +2,14 @@
   "slug": "mirakllabs",
   "name": "mirakllabs",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d70fe9334ac8338d03aaff9d65c929aef08c2d9",
+      "title": "Data Scientist - Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/data-scientist-intern-paris-47383",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "d0f99a1145de4cdda1fac51d677445942030b465",
       "title": "Software Engineer Intern",

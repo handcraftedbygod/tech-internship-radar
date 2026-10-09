@@ -2,9 +2,9 @@
   "slug": "airbus-operations-gmbh-werk-bremen",
   "name": "Airbus Operations GmbH Werk Bremen",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     1,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98e99efa4461f2525d69a20ff4fdfe2217256d23",
+      "title": "Working Student (d/f/m) as Software Development Assistant",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-975575007-S",
+      "location": "Buxtehude",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "56ce23e256e1f5286f8a584dcd38a0a45c3c9dda",
       "title": "Internship within Aerodynamic Machine Learning (d/f/m)",

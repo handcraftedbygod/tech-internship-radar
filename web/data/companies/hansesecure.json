@@ -2,21 +2,21 @@
   "slug": "hansesecure",
   "name": "HanseSecure GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-26T06:34:48.431Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     1,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7bda1ac76c6363409b67a0d2cfe2aa797ef3a103",
+      "title": "Junior Software Developer - (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-239023?utm_source=freehire.me",
+      "location": "München",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "185697e1403293a3d9adcce85ae126456ce41caf",
       "title": "Junior Software Developer - (m/w/d)",

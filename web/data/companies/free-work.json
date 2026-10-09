@@ -2,21 +2,21 @@
   "slug": "free-work",
   "name": "Free-Work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da4fbe600976289093c6b449e788c3811edda6d1",
+      "title": "412 - Data Engineer Junior (IT) / Freelance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__157970679__7079?geoID=5814&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lille, France",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "306477d87cb5e46ba6eaae035bef5e864da12d16",
       "title": "Junior Data Engineer: SSIS & SQL Server Pipelines",

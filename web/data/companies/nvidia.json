@@ -2,9 +2,9 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4e39b4e262a8731de3cfdc641840464d9c48d106",
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "f8bafa55f12dc6fba3967a51c207519c00dcdcaa",
       "title": "Software Engineering Intern, Nsight Systems - 2026",

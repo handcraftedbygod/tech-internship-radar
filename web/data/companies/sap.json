@@ -2,21 +2,21 @@
   "slug": "sap",
   "name": "SAP",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     8,
     7,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "407f635ff132bfa0f50fa4c4eb5a39113664f7c6",
+      "title": "Working Student (f/m/d) - Machine Translation Application Developer",
+      "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-machine-translation-application-developer-sap-68789-st-leon-rot--2418955.html",
+      "location": "St. Leon-Rot",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "235cc394ad24f9fc0b08fcf2079b7e7bbe547f44",
       "title": "(Junior) Full-Stack Developer (f/m/d) for Strategic Projects (Fullstack-Entwickler/in)",
@@ -106,13 +113,6 @@
       "url": "https://www.jobstairs.de/de/stellenangebot-working-student-fmd-data-analyst-data-science-in-adopt-2-consume-insights-data-foundation-sap-69190-walldorf--2403837.html",
       "location": "Walldorf, Baden",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "f77963d63baf60478c2d3a6b06d9de3a182cd911",
-      "title": "Working Student (f/m/d) - Data Analyst / Data Science in Adopt-2-Consume Insights & Data Foundation",
-      "url": "https://aijobs.net/job/working-student-fmd-data-analyst-data-science-in-adopt-2-consume-insights-data-foundation-walldorf-de-69190-292318/?utm_source=freehire.me",
-      "location": "Walldorf, DE, 69190",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

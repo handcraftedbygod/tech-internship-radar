@@ -2,9 +2,9 @@
   "slug": "jobrapido",
   "name": "Jobrapido",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 29,
+  "totalPostings": 31,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -17,19 +17,19 @@
     },
     {
       "hub": "Barcelona",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 16
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 15
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 14
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,25 @@
     0,
     20,
     7,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1483a6b736f5856bcedbfff435e0a3e3b8893a7",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__357563678__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6274082437a04b0c9499c705069d67af6c3f2b75",
+      "title": "Junior Frontend Developer - Social You",
+      "url": "https://es.whatjobs.com/pub_api__cpl__358009804__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "d94991f529074e15722239574415ec8d11fc672b",
       "title": "Junior Java Developer - Merkle",
@@ -102,20 +116,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__349435770__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "75fd7d5ca1f79132af8db1dc0d9bb77ba63aec0f",
-      "title": "Junior Data Engineer - león",
-      "url": "https://es.whatjobs.com/pub_api__cpl__349067884__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "LEON, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "ebe42d758d189fed16fa73b59245d33f15f13844",
-      "title": "Junior Data Engineer - madrid",
-      "url": "https://es.whatjobs.com/pub_api__cpl__345365339__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-31T10:33:12.712Z"
     }
   ]
 }

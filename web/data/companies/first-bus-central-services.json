@@ -1,0 +1,52 @@
+{
+  "slug": "first-bus-central-services",
+  "name": "First Bus Central Services",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-09T11:10:10.640Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2cbd1d3fa926c7b48716174b39106d1d6cd60b0f",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5916594134?utm_medium=api&utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "53de5c6872f665f9e967e0be129ff2fc8e20248d",
+      "title": "Junior Data Engineer: Azure Data Pipelines & Analytics",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__564363282__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    }
+  ]
+}

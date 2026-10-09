@@ -2,21 +2,21 @@
   "slug": "bsi-software",
   "name": "BSI Software",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e7f858a6a03ef13d6597e82441b7d2f9811d25a9",
+      "title": "Werkstudent Software Engineering (all genders) DE",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/werkstudent-software-engineering-all-genders-de-darmstadt-428606",
+      "location": "Darmstadt, Hessen, Deutschland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "2fb12034cc68ee828b02dff4b133047c315d18bf",
       "title": "Werkstudent Software Engineering (all genders) DE",

@@ -2,14 +2,18 @@
   "slug": "dataiku",
   "name": "Dataiku",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38a4cf6c4714848d7a42b4031c1fe91b8514a523",
+      "title": "Software Engineer Intern - France, Paris",
+      "url": "https://job-boards.greenhouse.io/dataiku/jobs/5339585004?utm_source=freehire.me",
+      "location": "France, Paris",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "6c1b70a4f7c4feb74a1166442a1de84ee4ab7b38",
       "title": "Software Engineer intern - Develop an AI chatbot to help Dataiku users",

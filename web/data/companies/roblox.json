@@ -2,26 +2,26 @@
   "slug": "roblox",
   "name": "Roblox",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 10,
+  "totalPostings": 13,
   "avgPostingDurationDays": 22.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 10
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -44,11 +44,32 @@
     0,
     6,
     4,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc3d08deb075c18ca59f7c367a1d590f5e6b8772",
+      "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8242623?gh_jid=8242623",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6df231fcca8b8de17793e15bd2d145ce080421f9",
+      "title": "[2027] Data Scientist - PhD Intern",
+      "url": "https://careers.roblox.com/jobs/8242619?gh_jid=8242619",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "8e3b7c20e4313a206326abf4e51da08442cd2a6a",
+      "title": "[2027] Applied Scientist - PhD Intern",
+      "url": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "8aa19778c41bb7b312741e8661d4a577174aacad",
       "title": "[Summer 2027] Product Management Intern",
@@ -95,27 +116,6 @@
       "id": "8fa31353b5f6a678441676c19e066f8e1c56b1f3",
       "title": "[2027] Software Engineer, Early Career",
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
-      "location": "San Mateo, CA, United States",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "a4ab66a23bd2dba77b31606fc7eb4892a10e4e13",
-      "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-      "url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
-      "location": "San Mateo, CA, United States",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "3ea3c2c09d066d1ac07cd569bc184fc6388e4329",
-      "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-      "url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
-      "location": "San Mateo, CA, United States",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "e42a80e41019a4878e4e814bf8eed7a44876cede",
-      "title": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
-      "url": "https://careers.roblox.com/jobs/7350081?gh_jid=7350081",
       "location": "San Mateo, CA, United States",
       "firstSeenAt": "2026-08-06T06:29:13.112Z"
     }

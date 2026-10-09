@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19dbca7f2e3af1f63f37ae02c7aeb349aa45c79f",
+      "title": "Junior Java Developer (f/m) @ Netcompany Poland",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30038329__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "ff913a2d0c989da1c228624221e4ed8765f7fba7",
       "title": "Junior Java Developer (f/m)",

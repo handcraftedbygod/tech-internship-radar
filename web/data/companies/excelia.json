@@ -2,21 +2,21 @@
   "slug": "excelia",
   "name": "Excelia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "accf426f8e9c82533aad14aaec198050aee8fe50",
+      "title": "Junior Data Analyst",
+      "url": "https://excelia.factorial.es/job_posting/junior-data-analyst-326750?utm_source=freehire.me",
+      "location": "Pozuelo de Alarcón, Madrid, España",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "ea572c3a9174fd954e26445c90315679655481db",
       "title": "Java Developer Junior",

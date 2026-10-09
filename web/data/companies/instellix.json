@@ -2,21 +2,21 @@
   "slug": "instellix",
   "name": "instellix",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0c64fe486b8652ea9023e63ab706d541a09657b",
+      "title": "Junior Software Engineer | Payment (m/w/d) - instellix (Nitrobox GmbH)",
+      "url": "https://www.adzuna.de/details/5917148660?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "30a4ba4c0502d0e7a7ca3af78b8ebef41b9f273a",
       "title": "Junior Software Engineer | Payment (m/w/d) - instellix (Nitrobox GmbH)",

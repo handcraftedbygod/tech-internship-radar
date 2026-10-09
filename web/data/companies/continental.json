@@ -2,9 +2,9 @@
   "slug": "continental",
   "name": "Continental",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     5,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "158d49b201a5bafa5ce0c5ee21582d8bb4bf7217",
+      "title": "Junior Data Scientist",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000154456297-junior-data-scientist-?utm_source=freehire.me",
+      "location": "Lousado, Braga, pt",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "f6517a7c4765812e74a3ce9bb14cfa631f7ac3a5",
       "title": "Internship - Cybersecurity Reporting, Training & Awareness",

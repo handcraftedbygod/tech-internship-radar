@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 33,
+  "totalPostings": 35,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
@@ -13,11 +13,11 @@
     },
     {
       "hub": "Munich",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Frankfurt",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 15
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 14
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 13
     },
     {
       "id": "hw",
@@ -56,11 +56,25 @@
     0,
     17,
     15,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bed99541db47e97b9f3eb565b4b8ddc70efc8ebe",
+      "title": "Working Student (f/m/d) Support in Service Management & DevOps Center Team",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633549-2-S",
+      "location": "München",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "8bfb80a7464fb2270d0371ae6b0993eda0da859e",
+      "title": "Werkstudent (w/m/d) Software Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1641375-1-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "d9ad19349f68477dd0a936a41c62f1de0af83a68",
       "title": "Working Student (f/m/d) for Federated Software Architectures",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633057-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "d51d427d05a70146c808e5b39b92f9011c28f04b",
-      "title": "Working Student (f/m/d) eMobility Software",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1624574-2-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "064de6ea7de8f0a1cc9717525be08328a8593706",
-      "title": "Werkstudent (w/m/d) Artificial Intelligence Multiplikator & Digital Transformation im...",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1630777-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

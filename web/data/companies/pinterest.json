@@ -2,9 +2,9 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 17,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -20,11 +20,11 @@
       "count": 4
     },
     {
-      "hub": "Toronto",
-      "count": 2
+      "hub": "San Francisco",
+      "count": 3
     },
     {
-      "hub": "San Francisco",
+      "hub": "Toronto",
       "count": 2
     }
   ],
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "design",
@@ -60,11 +60,18 @@
     0,
     0,
     0,
-    17,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "10ec099a3b65725d95df4b56667314f566349441",
+      "title": "Solutions Engineer Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214788",
+      "location": "San Francisco, CA, US; Remote, US",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "979aa7a4864ce3a49891eb80688ed21b9731d018",
       "title": "Machine Learning Intern 2027 (Dublin)",
@@ -126,13 +133,6 @@
       "title": "Software Engineering Intern 2027 (Zurich)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
       "location": "Zurich, CH",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "43ef1f7cafcf4d5bc9fc9e1f0f4ba18e7255280b",
-      "title": "Software Engineering Intern 2027 (Toronto)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
-      "location": "Toronto, ON, CA",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

@@ -2,25 +2,25 @@
   "slug": "spectrum-it-recruitment",
   "name": "Spectrum IT Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     4,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1562f7cdaf6e5a24f4598460db20e7e4a438653",
+      "title": "Junior C# Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5917319339?se=1iPCp67C8RG_PYTtY09nDQ&utm_medium=api&utm_source=freehire.me&v=B19613A3E57A29200A99E4A2A2E496BD9BA3D5D2",
+      "location": "South East London, London",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "98592b96fa5144f2e786516319846880456d3085",
+      "title": "Junior C# Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5918820270?utm_medium=api&utm_source=freehire.me",
+      "location": "Chilworth Science Park, Chilworth",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "1ef04a82410c19317e426864741c1c716be3682c",
       "title": "Junior Software Developer - Trading",

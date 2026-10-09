@@ -2,14 +2,14 @@
   "slug": "shift-technology",
   "name": "Shift Technology",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Other",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,25 @@
     0,
     3,
     1,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "625d08fc76dc415b87ee629107b7d83f140670a4",
+      "title": "QA Engineer Intern (6 months) ",
+      "url": "https://artificialintelligencejobs.co/jobs/shift-technology-qa-engineer-intern-6-months-0cb4e0ce",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "7fb0631311bdc615920c544354f8a017fa94d533",
+      "title": "Full stack Engineer Intern (6 months) ",
+      "url": "https://artificialintelligencejobs.co/jobs/shift-technology-full-stack-engineer-intern-6-months-75fed304",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "ab878765d78b935662bf2f2f93e41dfaa5c56c84",
       "title": "Full stack Engineer Intern (6 months) ",

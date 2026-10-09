@@ -2,21 +2,21 @@
   "slug": "seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe",
   "name": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     6,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c61eeaf2f9797f8883e980e6ee1da04c5969063d",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "72eef9b44bb0108a0482d7be0db022c27e77d689",
       "title": "Junior Full Stack Developer (All Genders)",
@@ -96,13 +103,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-289399",
       "location": "Berlin",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "b7c82f1ff60276104fce9bb1d083debb1d450316",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-411124?utm_source=freehire.me",
-      "location": "Berlin",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]
 }

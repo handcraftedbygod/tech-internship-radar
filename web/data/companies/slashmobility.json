@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     4,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc7a9613c29968ccc9da2d1b0780a76dff6010c9",
+      "title": "Junior Java Developer - Slashmobility",
+      "url": "https://es.whatjobs.com/pub_api__cpl__357462140__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "78cf09bac3b1b2550f9e64475350b6a857c2d37f",
       "title": "Junior Java Developer - Slashmobility",

@@ -2,21 +2,25 @@
   "slug": "anduril-industries",
   "name": "Anduril Industries",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Dublin",
       "count": 4
+    },
+    {
+      "hub": "London",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,25 @@
     0,
     0,
     4,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6522a892454e6f69abcf8c980bf2ec661571b5f4",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://artificialintelligencejobs.co/jobs/anduril-industries-2027-software-engineer-intern-1163565c",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
+    {
+      "id": "6dc3a7cfd424ef79a4e3f47fd303c5661f165a59",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007&utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "25d0f820a9679a8d120367bfa93221d48891c670",
       "title": "2027 Software Quality Assurance Intern",

@@ -2,9 +2,9 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Zurich",
@@ -25,6 +25,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 9
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,11 +42,18 @@
     0,
     9,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5a839dbf60e94403ad7dd48df0e294e3cd9dc80",
+      "title": "Internship – Software Engineering & Agentic Systems for Digital Twins (f/m/x)",
+      "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Software-Engineering---Agentic-Systems-for-Digital-Twins--f-m-x-_JR_1053820-3?utm_source=freehire.me",
+      "location": "Oberkochen",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "bda7406b6218f673a9d1394ca70e85f456a21c65",
       "title": "Internship Data Scientist in Zurich (f/m/x)",

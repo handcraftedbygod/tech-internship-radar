@@ -2,21 +2,21 @@
   "slug": "rubinlake",
   "name": "RUBINLAKE GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-07T10:53:29.125Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "deacb45fb15953e1fa15a6f8635a964375191e92",
+      "title": "(Junior) Backend Engineer (m/w/d) - RUBINLAKE GmbH",
+      "url": "https://www.adzuna.de/details/5917148700?utm_medium=api&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Hessen",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "e0a0ebb5d0cdcd43277ade2ff74bc2e849fc6cda",
       "title": "(Junior) Backend Engineer (m/w/d)",

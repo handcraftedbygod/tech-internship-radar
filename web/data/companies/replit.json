@@ -2,21 +2,21 @@
   "slug": "replit",
   "name": "Replit",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 16.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "550e09d94cda7a0e978e3ac93d1b0ea7aea01675",
+      "title": "Software Engineering Intern – Winter 2027 ",
+      "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "57daa12f90b98a8b6f683bcd904d6b082206a686",
       "title": "Software Engineer - New Grad (2027)",

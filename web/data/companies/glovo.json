@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 36,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 63,
-  "avgPostingDurationDays": 19.2,
+  "totalPostings": 64,
+  "avgPostingDurationDays": 24.5,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 36
+      "count": 37
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 50
+      "count": 51
     },
     {
       "id": "biz",
@@ -51,11 +51,18 @@
     0,
     33,
     26,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c8c0a18b6a36782148e51d46ec665e19e6ee73e",
+      "title": "Intern Talent & Development Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "2931cdfeb1d08996936dc8ce63b79da85503d233",
       "title": "Courier Growth Intern",
@@ -116,13 +123,6 @@
       "id": "76d94acd839dc34ac2b29c369456bdb12e5fbef7",
       "title": "Junior Labour Lawyer",
       "url": "https://careers.glovoapp.com/job/junior-labour-lawyer-in-barcelona-spain-jid-744000151769285/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "be52eddfeaf6b7294b7166e35a6fd27d737d19f9",
-      "title": "Junior Privacy Counsel",
-      "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000151644989/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }

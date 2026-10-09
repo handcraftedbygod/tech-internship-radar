@@ -2,13 +2,17 @@
   "slug": "veeam",
   "name": "Veeam",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Warsaw",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1112529c17d458965454e3ec7bb6b3f954e94aa9",
+      "title": "Junior Software Developer InTest  (JavaScript)",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999006101?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-09T11:10:10.640Z"
+    },
     {
       "id": "707c2242f2060bc9d4130a75a954fbd64cba456e",
       "title": "Junior Data Analyst ",
