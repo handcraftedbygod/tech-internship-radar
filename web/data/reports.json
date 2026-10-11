@@ -1,5 +1,213 @@
 [
   {
+    "weekOf": "2026-10-04",
+    "newCount": 325,
+    "prevWeekCount": 431,
+    "pctChange": -24.6,
+    "totalTracked": 5472,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 166
+      },
+      {
+        "hub": "London",
+        "count": 25
+      },
+      {
+        "hub": "Paris",
+        "count": 24
+      },
+      {
+        "hub": "Barcelona",
+        "count": 18
+      },
+      {
+        "hub": "Warsaw",
+        "count": 13
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "capgemini",
+        "name": "Capgemini",
+        "count": 6
+      },
+      {
+        "slug": "noir",
+        "name": "Noir",
+        "count": 5
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "count": 5
+      },
+      {
+        "slug": "qonto",
+        "name": "Qonto",
+        "count": 4
+      },
+      {
+        "slug": "hellofresh",
+        "name": "HelloFresh",
+        "count": 4
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 94,
+      "sample": [
+        {
+          "slug": "advaun",
+          "name": "Advaun Oy"
+        },
+        {
+          "slug": "arcadis",
+          "name": "Arcadis"
+        },
+        {
+          "slug": "arondite",
+          "name": "Arondite"
+        },
+        {
+          "slug": "arvato",
+          "name": "Arvato"
+        },
+        {
+          "slug": "atkinsr-alis-uk",
+          "name": "AtkinsRéalis UK Limited"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "biz",
+      "label": "Business",
+      "pctChange": 0
+    },
+    "notableHiring": [
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "pinterest",
+        "name": "Pinterest",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "roblox",
+        "name": "Roblox",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "figma",
+        "name": "Figma",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "duolingo",
+        "name": "Duolingo",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "lyft",
+        "name": "Lyft",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "squarepoint-capital",
+        "name": "Squarepoint Capital",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "g-research",
+        "name": "G-Research",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "visa",
+        "name": "Visa",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "hudson-river-trading",
+        "name": "Hudson River Trading",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Roblox",
+      "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8242623?gh_jid=8242623",
+      "hub": "San Francisco",
+      "currency": "usd",
+      "low": 106,
+      "high": 132
+    },
+    "headline": {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497?utm_source=freehire.me",
+      "hub": "Munich",
+      "badge": "FAANG",
+      "currency": "eur",
+      "low": 25,
+      "high": 31
+    },
+    "earlyPick": {
+      "company": "Replit",
+      "title": "Software Engineering Intern – Winter 2027 ",
+      "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+      "season": "Winter 2027",
+      "hub": "Other"
+    }
+  },
+  {
     "weekOf": "2026-09-27",
     "newCount": 431,
     "prevWeekCount": 483,
