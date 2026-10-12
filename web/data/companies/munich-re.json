@@ -2,21 +2,21 @@
   "slug": "munich-re",
   "name": "Munich Re",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b799751233ac5ffe65a2627ccd21f9de00b80419",
+      "title": "AI Engineer Intern (Full Stack Developer) (m/f/d)*",
+      "url": "https://careerstore.munichre.com/job/M%C3%BCnchen-AI-Engineer-Intern-%28Full-Stack-Developer%29-%28mfd%29-BY/1370970755/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "a6d660e66087b77684f42e41009b48d5f015dfde",
       "title": "Actuarial Data Scientist Intern (Non-Life) (m/f/d)*",

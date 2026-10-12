@@ -2,9 +2,9 @@
   "slug": "dataiku",
   "name": "Dataiku",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "999bdfb951bb60d2c933a042490a939c1977eba2",
+      "title": "Software Engineer Intern - France, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/software-engineer-intern-france-paris-244449",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "38a4cf6c4714848d7a42b4031c1fe91b8514a523",
       "title": "Software Engineer Intern - France, Paris",

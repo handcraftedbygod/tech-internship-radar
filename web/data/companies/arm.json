@@ -2,21 +2,25 @@
   "slug": "arm",
   "name": "ARM",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +38,25 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0770c7c7dbd7643581201016a5d4ec877c544abb",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.arm.com/job/sophia-antipolis/software-engineer-intern/33099/101742818304?utm_source=freehire.me",
+      "location": "Sophia Antipolis, France",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "31e7981fa903d442284fdc4c36886dd4e9be46ae",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.arm.com/job/munich/software-engineering-intern/33099/101742818288?utm_source=freehire.me",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "6a3ec0b038b15d7694e248e21ad80ad7322a3580",
       "title": "Software Intern - Machine Learning",

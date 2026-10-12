@@ -2,21 +2,21 @@
   "slug": "placements24",
   "name": "Placements24",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b564b5267a2359a6087708741b0bd81e60ee9631",
+      "title": "Desarrollador de Software Backend Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360034625__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "f51071d0c1f7099585e20f4af53a19ce26419a54",
+      "title": "Desarrollador Backend Junior - APIs y Microservicios(Remoto)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360032365__7107?geoID=8701&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "LEON, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "672b8b9aca7f7bada7c09885461252bb410d9b1f",
       "title": "Junior Software Developer - Backend Systems",

@@ -1,0 +1,52 @@
+{
+  "slug": "sagacity",
+  "name": "Sagacity",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c3b388bce45e5be7d36b8419646fc52a21f6ad8e",
+      "title": "Junior Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-data-engineer/57442969?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "20c292d28d2b36f01c13ce35d754e79db7de0285",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5921144498?se=UnkEI3PE8RG_59bpLSVmjQ&utm_medium=api&utm_source=freehire.me&v=582134944EDA2670122CA7E574A383008FE2380F",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

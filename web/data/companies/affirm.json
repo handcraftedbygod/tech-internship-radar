@@ -2,14 +2,14 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f903e15d6283dd7243b684653b17da89e68b0682",
+      "title": "IT Engineer Intern (Early Careers Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+      "location": "San Francisco, California, United States",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "4d332f031a59b85a5928fbb96d449e76e5dabd0c",
       "title": "Software Engineer, Early Career (SF)",

@@ -2,9 +2,9 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Krakow",
@@ -21,14 +21,14 @@
     },
     {
       "hub": "Stockholm",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -41,11 +41,25 @@
     0,
     5,
     5,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d9cc88bcc396a03836ced02e3dbe3c3abeff52b",
+      "title": "Junior Baseband Software Developer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31580471?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "a968066c1eccbce6a5a807f7f1971cf0cad8ebe2",
+      "title": "Junior Baseband Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjMzMjYxMSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "00066e6412b1483b8d5eea9dd631d275a844da6c",
       "title": "Junior C or C++ Developer for 6G Simulator",
@@ -100,20 +114,6 @@
       "title": "Junior C Developer-  6G Simulator",
       "url": "https://jobs.ericsson.com/careers/job/563121776709370-junior-c-developer-6g-simulator-krak%C3%B3w-krak%C3%B3w-poland?domain=ericsson.com&utm_source=freehire.me",
       "location": "Kraków,Kraków,Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "5cb9b18b09cafcba4853d0e558e7cc656ba95b45",
-      "title": "Software Engineer Internship",
-      "url": "https://jobs.ericsson.com/careers/job/563121777016082-software-engineer-internship-krak%C3%B3w-krak%C3%B3w-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Kraków,Kraków,Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "b7b63bdb481751759cb91dbf88f0923c5a620b41",
-      "title": "Software Engineer Internship",
-      "url": "https://jobs.ericsson.com/careers/job/563121776981063-software-engineer-internship-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Łódź,Łódź,Poland",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]

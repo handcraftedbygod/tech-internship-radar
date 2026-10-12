@@ -2,14 +2,14 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 28,
-  "avgPostingDurationDays": 13.1,
+  "totalPostings": 31,
+  "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 22
     },
     {
       "hub": "Katowice",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 10
     },
     {
       "id": "design",
@@ -55,11 +55,32 @@
     0,
     12,
     10,
-    6,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bd5f7ccd01af5576841122096b4beef95803c327",
+      "title": "Junior Data Scientist",
+      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Data-Scientist/1445382533/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "6559cded269b18f61aed9a81ced45d6c9a1d6ff9",
+      "title": "Junior Data Scientist",
+      "url": "https://careers.capgemini.com/job/Utrecht-Junior-Data-Scientist/1200174401/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "103c149ccc73563d14ef83f420afe65d1f1ab189",
+      "title": "Junior Java Developer",
+      "url": "https://careers.capgemini.com/job/Lisboa-Junior-Java-Developer/1434707433/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "8e6f17ea2edc1cd975063838dea812d739f0345f",
       "title": "Junior Onsite Network Engineer",
@@ -106,27 +127,6 @@
       "id": "702b243e0d0e06f02efb43b5b0472bc59b31876a",
       "title": "Junior Site Reliability Engineer",
       "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Site-Reliability-Engineer/1438343533/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "0d140f25e924e96a7f2ef350dda4dbae84cdb080",
-      "title": "Junior Data Scientist",
-      "url": "https://careers.capgemini.com/job/Warszawa-Junior-Data-Scientist/1215363501/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "0c53e0d1dc5864096657a564e9260fbdd08b5f4d",
-      "title": "Junior Devops Engineer",
-      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Devops-Engineer/1399990433/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
-    },
-    {
-      "id": "5492891c751cb7daf27cfd8dc08f302e2061a31e",
-      "title": "Junior Data Engineer",
-      "url": "https://careers.capgemini.com/job/Utrecht-Junior-Data-Engineer/1200122601/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-09-21T09:38:26.661Z"
     }

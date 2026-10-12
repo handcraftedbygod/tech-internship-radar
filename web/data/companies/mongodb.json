@@ -2,21 +2,21 @@
   "slug": "mongodb",
   "name": "MongoDB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f3c0c292b70503f5dcd7e3a3b7244d0cb9198edd",
+      "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279&utm_source=freehire.me",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "ff064521f1053b54243612c55255f33e7e90be11",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",

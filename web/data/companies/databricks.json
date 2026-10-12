@@ -2,14 +2,14 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 17,
+  "totalPostings": 19,
   "avgPostingDurationDays": 52.2,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -40,6 +40,11 @@
       "count": 6
     },
     {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 1
@@ -55,11 +60,25 @@
     3,
     2,
     0,
-    12,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "40efa9e26282b056d0bed6e074835b978f682ee4",
+      "title": "Product Design New Grad (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
+      "location": "San Francisco, California; Seattle, Washington",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "3a29a6b9bf34daaee97a4185bd56ed360d7a8a37",
+      "title": "Product Design Intern (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
+      "location": "San Francisco, California; Seattle, Washington",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "99a4f6c47c45abeea9db97ff7e0b811b10f2bd04",
       "title": "Software Engineering Intern (2027 Start) - London",
@@ -113,20 +132,6 @@
       "id": "7f2278ebbf4cee79f56225be54834b54c3633184",
       "title": "Software Engineering Intern (2027 Start) - Amsterdam",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
-      "location": "Amsterdam, Netherlands",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "9f8fb36fa59d22f0e958242ab08f2580381faed3",
-      "title": "Product Manager, New Grad (2026) - Berlin",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145800002",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "5bdf661930b4569f1c9ab12fa7ef3dd15cbe9eb3",
-      "title": "Product Manager, New Grad (2026) - Amsterdam",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002",
       "location": "Amsterdam, Netherlands",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }

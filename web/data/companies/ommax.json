@@ -2,21 +2,21 @@
   "slug": "ommax",
   "name": "Ommax",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     4,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83f80ff3efcad6b52953e1a87e31d234e6eb003e",
+      "title": "Intern AI & Data Engineering (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/ommax/intern-ai-data-engineering-munchen-390578",
+      "location": "München",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "f1de7ae94f6b07e213eeefdf31f59930a38c9b69",
       "title": "Intern AI & Data Engineering (m/f/d)",

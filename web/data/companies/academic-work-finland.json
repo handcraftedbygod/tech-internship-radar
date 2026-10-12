@@ -2,25 +2,25 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Helsinki",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     1,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "26ee8cedeff08026044eb8b84275c194d995feaa",
+      "title": "Junior Drupal Developer",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/81633baf-1383-4497-90ff-18a03c6662ea/en?utm_source=freehire.me",
+      "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "7c9b8c301b90eedea4fd7eec54feb159ef7d131c",
+      "title": "Junior Drupal Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODE2MzNiYWYtMTM4My00NDk3LTkwZmYtMThhMDNjNjY2MmVhIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "3d10f4dcd1374e876e550e300930ce469188e7f6",
       "title": "Junior Data Analyst (15h/vko), Helsinki/Etätyö",

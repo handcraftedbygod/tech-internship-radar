@@ -2,9 +2,9 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     3,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "34aa0c3378c49dea65aebea6462c25dfa0cf1396",
+      "title": "Junior DevOps Engineer Mobile Core Voice",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__44601107__7095?geoID=26&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "721eb905bea803618492fa4122c2b8a2322a84e0",
       "title": "Junior DevOps Engineer - Mobiele Netwerken (Hybrid)",

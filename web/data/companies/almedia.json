@@ -2,21 +2,21 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "84a3afa8306610d83ee7be32484be55007f5155d",
+      "title": "Junior Software Engineer, Data",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-software-engineer-data-berlin-438257",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "9c2845982fe0f2a7dbd5811665058a19041ca527",
       "title": "Junior Software Engineer, Data",

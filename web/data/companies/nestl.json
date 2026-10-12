@@ -2,21 +2,21 @@
   "slug": "nestl",
   "name": "Nestlé",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a19613cacb9072084056267132669d332c837dd",
+      "title": "R&D Data Science Intern",
+      "url": "https://jobdetails.nestle.com/job/Orbe-R&D-Data-Science-Intern/1445507833/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "052ea29aeca68209134457395af27a0f11c84ac5",
       "title": "SPX Data Analytics Intern",

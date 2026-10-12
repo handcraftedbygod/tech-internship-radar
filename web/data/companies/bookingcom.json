@@ -2,17 +2,17 @@
   "slug": "bookingcom",
   "name": "Booking.com",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 13,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Amsterdam",
+      "count": 4
     },
     {
-      "hub": "Amsterdam",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,11 +20,16 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -38,11 +43,32 @@
     0,
     0,
     2,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed03a71af33f3ee254a1e60de0f2e6930d78b3e7",
+      "title": "Finance internship: Financial Planning & Analysis (FP&A)",
+      "url": "https://external-workingatbooking.icims.com/jobs/30463/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "a5a0b1f0a64b29764b2b74d713f32c0fa532c787",
+      "title": "Finance internship: Accounting",
+      "url": "https://external-workingatbooking.icims.com/jobs/30464/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "c578a24d21356e497892f7a3642d6619d5dddccb",
+      "title": "Finance internship: Innovation & Process Design",
+      "url": "https://external-workingatbooking.icims.com/jobs/30465/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "898fc74e5387e1d386dc29b05d7ace3e31985419",
       "title": "Junior Trust & Safety Analyst",

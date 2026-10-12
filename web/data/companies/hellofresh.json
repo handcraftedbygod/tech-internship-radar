@@ -2,10 +2,10 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 32,
-  "avgPostingDurationDays": 22.2,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 22.7,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -25,7 +25,7 @@
     },
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -37,7 +37,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     5,
     8,
     14,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb1532d634df60cc50c3cd2b3da7af4c70d034b3",
+      "title": "Junior Operations Manager",
+      "url": "https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996",
+      "location": "Dublin, Dublin, Ireland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "2f973b931d42c728605f35bf9817356c01fdde22",
       "title": "[PL] Junior Indirect Cost Controller",
@@ -116,13 +123,6 @@
       "title": "Supply Chain Planning Working Student (all genders)",
       "url": "https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924",
       "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "5bee9742411cb8fe599ec2838a3d2dac033b268e",
-      "title": "Legal & Compliance Intern (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8230615?gh_jid=8230615",
-      "location": "Amsterdam, North Holland, Netherlands",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]

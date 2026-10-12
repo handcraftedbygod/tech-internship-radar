@@ -2,21 +2,21 @@
   "slug": "proactive-appointments",
   "name": "Proactive Appointments",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 31.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "59d3a9ddaaf116c36775a455223c4364f0b6dfe9",
+      "title": "Junior PHP Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5920959507?se=XGcYzEDE8RG6MJKnNewXdg&utm_medium=api&utm_source=freehire.me&v=02A252C2B4D32EE1A9BB88D8677D0A0B6EF2E343",
+      "location": "Exeter, Devon",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "6cfedc418e090f996c6199f7e15dec8e10d85b26",
+      "title": "Junior Python Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5920959511?se=XGcYzEDE8RG6MJKnNewXdg&utm_medium=api&utm_source=freehire.me&v=07F630C40B9745D836C9F43730A900FB64B45319",
+      "location": "Exeter, Devon",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "1f5a0b909b52f4e0ae0917a27a19f3d5042fd854",
       "title": "Junior Java Developer",

@@ -2,21 +2,25 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
       "hub": "Montreal",
       "count": 5
+    },
+    {
+      "hub": "Krakow",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     3,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fa81827c8ebb07a2194a000387a4e6358a761070",
+      "title": "Intern, Software Engineer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095?utm_source=freehire.me",
+      "location": "Kraków, POL",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "570d216d76a5e29a9a45eb3a19a2d5c5d6c50fe0",
       "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",

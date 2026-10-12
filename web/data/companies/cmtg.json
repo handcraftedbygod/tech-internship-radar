@@ -1,0 +1,52 @@
+{
+  "slug": "cmtg",
+  "name": "CMTG",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e814e023cd0701717babd074761031f5184d97a1",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5921726230?utm_medium=api&utm_source=freehire.me",
+      "location": "Little Torrington, Torrington",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "995343a6145789e1087897c8a3254602911ba6e8",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5922027000?utm_medium=api&utm_source=freehire.me",
+      "location": "Stevenstone, Torrington",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

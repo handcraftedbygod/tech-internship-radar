@@ -4,18 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cbcbf403a59d4ca32e37ec4fb92e1bdb4bf9c4b3",
+      "title": "Internship Data Science & Business Analytics",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1642182-1-S",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "84012169634b353bcacd06861066542d42696c36",
       "title": "Praktikum im Bereich Prozess / Data Analyst und Logistik",

@@ -2,14 +2,14 @@
   "slug": "dkb-code-factory",
   "name": "DKB Code Factory",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "71aa21697e7af0aa5162de8a698fe5ec412b76a5",
+      "title": "Junior Frontend Developer (React)",
+      "url": "https://job-boards.greenhouse.io/dkbcodefactory/jobs/8019446003?utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "88cedb790910a938d7d0751149df50f33c28098f",
       "title": "Junior Pega Developer",

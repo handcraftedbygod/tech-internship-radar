@@ -2,14 +2,14 @@
   "slug": "viqu-it",
   "name": "VIQU IT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     3,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6156b6f13dbefa1f5ec500ee373273c16adb3890",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566426217__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "66939fb4f973ab9a236661aae1ae473cdbc1b361",
+      "title": "Junior Data Engineer: Build Production Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566683293__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "91e654a6dff4aa2fc784981dbcd583983ccf0b13",
       "title": "Junior Data Engineer",

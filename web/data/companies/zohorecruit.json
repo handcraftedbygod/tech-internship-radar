@@ -1,0 +1,52 @@
+{
+  "slug": "zohorecruit",
+  "name": "Zohorecruit",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "53fb630ee3d072e6d9978ea72e219e1535e6f983",
+      "title": "Remote Junior Java Developer — Azure Cloud",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360025815__7107?geoID=10338&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alicante, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "1b9b935ddb303a3c359978491c0e1c4d3ee06a26",
+      "title": "Remote Junior Java Developer — Azure Cloud",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360026097__7107?geoID=10338&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Alicante, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

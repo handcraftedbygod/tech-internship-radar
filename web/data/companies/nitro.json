@@ -2,20 +2,25 @@
   "slug": "nitro",
   "name": "Nitro",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a3b1e678a3ba885f2298936693caa251ef2563b",
+      "title": "Intern Data Science",
+      "url": "https://www.gonitro.com/about/careers/8245767?gh_jid=8245767&utm_source=freehire.me",
+      "location": "Dublin Ireland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "a43d491f46dea7ad6ae67f5080089c7db4190640",
       "title": "Intern Software Engineer (C++)",

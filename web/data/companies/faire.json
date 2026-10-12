@@ -2,20 +2,25 @@
   "slug": "faire",
   "name": "Faire",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     1,
     0,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2de92ded7a5a5f69b56c3e9db6712996c29f0fc7",
+      "title": "Applied AI/ML Scientist, Intern",
+      "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "307131e585442744b2376f415bba8a1a8a097d81",
       "title": "Data Science Intern",

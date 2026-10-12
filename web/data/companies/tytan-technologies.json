@@ -2,21 +2,21 @@
   "slug": "tytan-technologies",
   "name": "TYTAN Technologies GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-24T04:44:21.499Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "300c25852c33ce65bb3124d9679506fb7457c108",
+      "title": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-software-engineering-munich-322796",
+      "location": "Munich, Bayern, Germany",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "90d449e2be84c4c0c6a5f6ea8bca516518eb152e",
       "title": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",

@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 64,
-  "avgPostingDurationDays": 24.5,
+  "totalPostings": 68,
+  "avgPostingDurationDays": 24.7,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 37
+      "count": 41
     },
     {
       "hub": "Madrid",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 51
+      "count": 53
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 12
+      "count": 14
     },
     {
       "id": "ai",
@@ -51,11 +51,39 @@
     0,
     33,
     26,
-    5,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ec21bdc74a03da22f529a4fbecfeecf6c0e9570",
+      "title": "Junior Business Analyst – Fleet Operations (Spain)",
+      "url": "https://careers.glovoapp.com/job/junior-business-analyst-fleet-operations-spain-in-barcelona-spain-jid-744000154962794/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "16daddcfeb9adf6c057045e811edc939b2f7c202",
+      "title": "Data Analyst Intern",
+      "url": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "ca736b16bf3376e303c50464e4f53d8428aeef5a",
+      "title": "Junior 3PL Account Manager - Spain",
+      "url": "https://careers.glovoapp.com/job/junior-3pl-account-manager-spain-in-barcelona-spain-jid-744000154964529/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "d93c157c960c606da06004ba71cd21113449b661",
+      "title": "Junior Tax Analyst - HQ",
+      "url": "https://careers.glovoapp.com/job/junior-tax-analyst-hq-in-barcelona-spain-jid-744000154939419/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "8c8c0a18b6a36782148e51d46ec665e19e6ee73e",
       "title": "Intern Talent & Development Global HQ",
@@ -97,34 +125,6 @@
       "url": "https://careers.glovoapp.com/job/junior-business-analyst-fleet-operations-spain-in-barcelona-spain-jid-744000152341915/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "ba91462b16ccae2bf2e251b2d2d953a459fa5436",
-      "title": "Category Management Intern MFC",
-      "url": "https://careers.glovoapp.com/job/category-management-intern-mfc-in-madrid-spain-jid-744000152183940/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "dd89922747c5c2c7768e63386bd812b990a1fc03",
-      "title": "Junior 3PL Account Manager - Spain",
-      "url": "https://careers.glovoapp.com/job/junior-3pl-account-manager-spain-in-barcelona-spain-jid-744000152342348/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "e5264ded369f7c0e5d3115a8179cff4a46ba6186",
-      "title": "Internship - Data Analyst",
-      "url": "https://careers.glovoapp.com/job/internship-data-analyst-in-barcelona-spain-jid-744000152260659/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "76d94acd839dc34ac2b29c369456bdb12e5fbef7",
-      "title": "Junior Labour Lawyer",
-      "url": "https://careers.glovoapp.com/job/junior-labour-lawyer-in-barcelona-spain-jid-744000151769285/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

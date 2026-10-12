@@ -2,21 +2,21 @@
   "slug": "ncratleos",
   "name": "ncratleos",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96f198ac8256db85e7285eadbfadfe0c88b8f045",
+      "title": "Software Engineering Internship",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern_EMEA/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942-1?utm_source=freehire.me",
+      "location": "DUNDEE, GBR",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "24254e191fbb9fe456992719583a3a790002cf5d",
+      "title": "Software Support Internship",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern_EMEA/job/DUNDEE-GBR/Software-Support-Internship_R1154944-1?utm_source=freehire.me",
+      "location": "DUNDEE, GBR",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "8e3db5d2e24bc9ea01a4a12bce2753396d755d66",
       "title": "Junior Software Engineer",

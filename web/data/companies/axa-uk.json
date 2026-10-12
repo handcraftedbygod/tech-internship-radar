@@ -1,0 +1,52 @@
+{
+  "slug": "axa-uk",
+  "name": "AXA UK",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b0b7941a15669532ec6c14f97d801a6557e42c98",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__565619340__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "f3ce27d753250e426e1f05dc640f12151502cf9e",
+      "title": "Junior Data Engineer - Hybrid: Build Pipelines & Insights",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__565618989__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "engg",
   "name": "Engg",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     3,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d644c1724c666bf9ecf8700453d8126f53850aed",
+      "title": "Junior Cloud Software Engineer (Cloud & Python), Quality Interfaces - Splunk",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30068900__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "b8e30417a747f3d587f5ad6a4a92c2a797b0c926",
       "title": "Junior Python Data Platform Engineer: Build Pipelines",

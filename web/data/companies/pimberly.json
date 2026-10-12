@@ -2,21 +2,21 @@
   "slug": "pimberly",
   "name": "Pimberly",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     2,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bf6b8534ef4be247f41bb35e426ba2dd34dd62f5",
+      "title": "Junior Full Stack Developer (Hybrid) - Mentoring & Training",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566427710__7082?geoID=19285&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "bbcb89815f4bebbb7364a68819fecdaafc189d68",
+      "title": "Junior Full Stack Developer (UK) Manchester, UK",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566437021__7082?geoID=19285&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "49345d72963de5409a2c62b49425ddb4e6235bce",
       "title": "Junior Full Stack Developer (UK) Manchester, UK",

@@ -2,21 +2,21 @@
   "slug": "wanzl-gmbh-co-kgaa",
   "name": "Wanzl GmbH & Co. KGaA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89cddd24429909f30ce1effafee9d32aa5afb1ac",
+      "title": "Werkstudent (m/w/d) Quality Assurance Software Systeme & Retail Automation (Informatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtMjEzYWVmMWNfSkI1MjY3MTIyLVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "705e1dbfc4f8eeb37ee2d9c7565c8ce508e52aca",
       "title": "Werkstudent (w/m/d) - Software Development (Softwareentwickler/in)",

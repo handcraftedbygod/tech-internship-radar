@@ -2,21 +2,21 @@
   "slug": "pobl",
   "name": "Pobl Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     4,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2251769e5c09335df390ccbcef1d76355e40711",
+      "title": "Junior Data Engineer: Azure Data Pipelines & Growth",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566430746__7082?geoID=33047&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cardiff, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "bddcf14ed2b4157d0d7dc7d1463b4a9c7a95a30a",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566944011__7082?geoID=33047&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cardiff, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "145a78fa876b450332e4a770bf45d6e381fd17a2",
       "title": "Junior Data Engineer",

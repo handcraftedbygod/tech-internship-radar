@@ -2,17 +2,26 @@
   "slug": "doordash",
   "name": "DoorDash",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
       "count": 4
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -21,11 +30,6 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 1
     }
   ],
@@ -39,11 +43,18 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fef855fa0560d7aeaf241567a27578e4875d5f85",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "location": " San Francisco, CA; Sunnyvale, CA",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "e3904a903079bf2ab3f241e6687fad0be236d97e",
       "title": "Machine Learning Intern (PhD) - Summer 2027",

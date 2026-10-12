@@ -2,21 +2,21 @@
   "slug": "optiverus",
   "name": "Optiverus",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T04:44:21.499Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     2,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb9af43793ddc3cf83ac98e992697873ef6d955c",
+      "title": "Software Engineer Internship (2027 Start)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-internship-2027-start-london-474441?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "5dff7d36316a812466262f48be4a444e841d84a1",
+      "title": "Software Engineer Internship (2027 Start)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-internship-2027-start-london-474441",
+      "location": "London",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "5d17d326bccb4cdc04156e3a9339544da0a63793",
       "title": "Software Engineer Internship (2027 Start)",

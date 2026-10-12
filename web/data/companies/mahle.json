@@ -2,21 +2,21 @@
   "slug": "mahle",
   "name": "MAHLE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 18.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "050210282844990fa60c0d0e424d9a78e0dfa1b1",
+      "title": "Internship Machine Learning and Data Science (m/f/d)",
+      "url": "https://careers.mahle.com/job/Stuttgart-Internship-Machine-Learning-and-Data-Science-%28mfd%29-70376/1444367333/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "dfab76918afb7e8f8893ba6b0dfd72cd90eb8641",
       "title": "Internship Machine Learning for Energy-Efficient Vehicle Control and Thermal Management (m/f/d)",

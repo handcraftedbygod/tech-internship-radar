@@ -2,9 +2,9 @@
   "slug": "axa",
   "name": "AXA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Paris",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,18 @@
     0,
     1,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "618ab34ea69caf012ee839fb594eb124968346c2",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__565726171__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
     {
       "id": "bcb283007e79f43acef9076799003617e02e779d",
       "title": "Data Engineer Intern: Databricks Solvency Analytics",

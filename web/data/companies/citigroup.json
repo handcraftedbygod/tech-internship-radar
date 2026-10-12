@@ -1,0 +1,61 @@
+{
+  "slug": "citigroup",
+  "name": "Citigroup",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "31dcc61d791555e3af67f886fdaf914a3b290153",
+      "title": "Junior Software Engineer - Generative AI Platforms",
+      "url": "https://www.adzuna.co.uk/jobs/details/5922693823?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "635aa2bdba805a4d4e8430f79ab427dfbb821d0a",
+      "title": "Junior Full Stack Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__30155236__7143?geoID=2873&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

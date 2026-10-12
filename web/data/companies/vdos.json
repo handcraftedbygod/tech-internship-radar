@@ -1,0 +1,52 @@
+{
+  "slug": "vdos",
+  "name": "VDOS",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-12T11:42:11.675Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Madrid",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "359c5e53137cba0cef111b1ac5ca56335856b9ed",
+      "title": "Junior Full Stack Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360062784__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "148f1319d8cd784287fec203013c2c3869ac1e45",
+      "title": "Junior Full Stack Developer | Hybrid in Madrid, Data & AI",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360048200__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    }
+  ]
+}

@@ -2,17 +2,25 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 13.3,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 17.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 11
+      "count": 15
     },
     {
       "hub": "Paris",
+      "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 4
+    },
+    {
+      "hub": "Amsterdam",
       "count": 2
     }
   ],
@@ -20,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 21
     },
     {
       "id": "biz",
@@ -43,80 +51,80 @@
     0,
     5,
     5,
-    3,
+    16,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "8f5804ce178b96ceffafb38fccb34f2472fba381",
-      "title": "Data Quality Operations Intern (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7996965003",
+      "id": "d292bee7f5d9d6d466fe3682bf8a40068ef1b424",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
+      "url": "https://jobs.ashbyhq.com/doctolib/89f0374d-48e3-4774-8a46-edfeb0657e8a?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "dd204ca5b053d0b47f925c28dbce9b89329bdd38",
+      "title": "Software Engineering intern - Fullstack (x/f/m) - Nantes",
+      "url": "https://jobs.ashbyhq.com/doctolib/b651081d-d5eb-4ffb-93e0-643b81bcfa1f?utm_source=freehire.me",
+      "location": "Nantes",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "61eb85daac893a2e017d4f7e3713e8d7eed7ec1f",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Niort",
+      "url": "https://jobs.ashbyhq.com/doctolib/0ec84e52-5047-440c-9a67-e0d0898c9783?utm_source=freehire.me",
+      "location": "Niort",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "45ba5202da796631c810992fc5f54a1e32d0a3af",
+      "title": "Software Engineering Intern - Fullstack (x/f/m)",
+      "url": "https://jobs.ashbyhq.com/doctolib/e6caa5a3-a0dd-4d0d-9c48-ecc440baf8a8?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "8cf3332d051d6970364e67181197b36d746ff5a7",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8006520003?utm_source=freehire.me",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "d8abf651a1fa470ec31134e22a40818ed726f126",
+      "title": "Software Engineering intern - Fullstack (x/f/m) - Nantes",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8000592003?utm_source=freehire.me",
+      "location": "Nantes",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "342d3a202a690183e2e33d781ac8660ff1471684",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Niort",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8004636003?utm_source=freehire.me",
+      "location": "Niort",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "4e1e395581c5f33a96de4361d22ef10b78ac4a7d",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "fb3e024a1bb4034e0413df9c9ec7257af4110491",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8006520003",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
+    },
+    {
+      "id": "71816096d4883bb4dbf119bec61489383cd07d67",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7998193003",
       "location": "Paris, Paris, France",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "9d97f8e0f7641dd75886eaac255fd1ef44dc433f",
-      "title": " Working Student B2C SEO & AI Search (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8010483003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "28ef4effb1a690d3648c99f5b36d20b27d2ea6fd",
-      "title": "Intern Talent Acquisition Coordinator (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8008618003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "1ed6476ed7fae19620429c6ce335a3e2e5533888",
-      "title": "Werkstudent Customer Success (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8004289003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "67e2a78d9b7c76659db1b56f4afdedab1ebce8ac",
-      "title": "Working Student - IT Asset & Stock Management (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8000944003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "2db4104554903209f051a821eeeb5ba5feccdee6",
-      "title": "Medical Data Intern (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7996918003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "1927a113206613f522ed55501b564df692733971",
-      "title": "Stage - Junior Website Manager (x/f/m) - janvier 2027",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7994156003",
-      "location": "Paris, Paris, France",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "45259a67e37e546a3738fbdb2cbb4ed0b79fde37",
-      "title": "Praktikum Human Resources  (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7984297003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "7a48773add5a0f32bdbd094dfadea452242356f2",
-      "title": "Junior Customer Success Manager (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7648739003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-31T10:33:12.712Z"
-    },
-    {
-      "id": "ec9eb2c5e6dce1943d4eb85d30435203d25f68b2",
-      "title": "Junior Customer Experience Consultant (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7737188003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-08-31T10:33:12.712Z"
+      "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]
 }
