@@ -2,21 +2,25 @@
   "slug": "optiverus",
   "name": "Optiverus",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-24T04:44:21.499Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "London",
       "count": 4
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     2,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44ed50c3ca320ee39fcef1f973c6d0600319cfb4",
+      "title": "Software Engineer Internship (2027 Start)",
+      "url": "https://www.arbeitnow.nl/jobs/companies/optiverus/software-engineer-internship-2027-start-amsterdam-89379",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "cb9af43793ddc3cf83ac98e992697873ef6d955c",
       "title": "Software Engineer Internship (2027 Start)",

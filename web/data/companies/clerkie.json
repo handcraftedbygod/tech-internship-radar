@@ -2,13 +2,17 @@
   "slug": "clerkie",
   "name": "Clerkie",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6dbd721d3302bd7cf60d9c590d594222545cda2b",
+      "title": "Software Engineer Internship",
+      "url": "https://www.adzuna.com/land/ad/5915595977?se=grSmpvjG8RGa48DhRGL0dA&utm_medium=api&utm_source=9141e2e6&v=ADC7E6BD7FAC7D1A8C4FF1DD59BADD737F6A50FB",
+      "location": "South San Francisco, San Mateo County",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "1570670389e022d5d1c8f375afff310e5cfb52b6",
       "title": "Software Engineer Internship",

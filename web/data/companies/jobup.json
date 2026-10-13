@@ -1,0 +1,45 @@
+{
+  "slug": "jobup",
+  "name": "Jobup",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-13T11:27:20.761Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "29efedcc59aed25594c10d42af8070ffaf26f4e4",
+      "title": "Data Engineer Junior (F/H) 100%",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__44650233__7095?geoID=349&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Lausanne, Switzerland",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    }
+  ]
+}

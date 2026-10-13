@@ -2,18 +2,18 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 26,
-  "avgPostingDurationDays": 17.4,
+  "totalPostings": 29,
+  "avgPostingDurationDays": 16.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "Paris",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 24
     },
     {
       "id": "biz",
@@ -51,11 +51,32 @@
     0,
     5,
     5,
-    16,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "17dde65be4d5634379734ae7ead38970a1963a65",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003?utm_source=freehire.me",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "efa377e0cfd793d79369a36105a4076522419207",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
+      "location": "Berlin, Berlin",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "ee3a395e20724530f20cca2430c47e2c4f177976",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineering-intern-fullstack-paris-paris-paris-352989",
+      "location": "Paris, Paris",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "d292bee7f5d9d6d466fe3682bf8a40068ef1b424",
       "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
@@ -103,27 +124,6 @@
       "title": "Software Engineering Intern - Fullstack (x/f/m) - Niort",
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/8004636003?utm_source=freehire.me",
       "location": "Niort",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "4e1e395581c5f33a96de4361d22ef10b78ac4a7d",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "fb3e024a1bb4034e0413df9c9ec7257af4110491",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8006520003",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "71816096d4883bb4dbf119bec61489383cd07d67",
-      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/7998193003",
-      "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]

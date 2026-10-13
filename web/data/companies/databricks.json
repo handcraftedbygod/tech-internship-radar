@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 15,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 52.2,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 43.8,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Berlin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "product",
@@ -60,11 +60,18 @@
     3,
     2,
     0,
-    14,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1517c0b6607c3e3dd9881a136b15f923ac620994",
+      "title": "Software Engineering Intern (2027)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "40efa9e26282b056d0bed6e074835b978f682ee4",
       "title": "Product Design New Grad (2027 Start)",
@@ -126,13 +133,6 @@
       "title": "Software Engineering Intern (2027 Start) - Berlin",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
       "location": "Berlin, Germany",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "7f2278ebbf4cee79f56225be54834b54c3633184",
-      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
-      "location": "Amsterdam, Netherlands",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

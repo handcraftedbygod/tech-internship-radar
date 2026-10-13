@@ -2,21 +2,21 @@
   "slug": "mindpal-sp-z-o-o",
   "name": "MindPal Sp. z o. o.",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5abda7d2d6296e9134804c3770fe54747235c93a",
+      "title": "Junior Software Developer (React / Supabase)",
+      "url": "https://nofluffjobs.com/job/junior-software-developer-react-supabase-mindpal-gliwice?utm_source=freehire.me",
+      "location": "Gliwice, Poland",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "68c4170af3e3cf4253d962fddaf41d445a627dd2",
       "title": "Junior Backend Developer",

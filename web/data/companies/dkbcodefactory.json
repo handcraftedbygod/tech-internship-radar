@@ -2,21 +2,21 @@
   "slug": "dkbcodefactory",
   "name": "dkbcodefactory",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ecc464c6d61a02d9104b1c16259aa7706b1f64c9",
+      "title": "Junior Frontend Developer (React)",
+      "url": "https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-frontend-developer-react-berlin-69516",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "d8697eaea5ac646c7870c44b6e05e4424e37b762",
       "title": "Junior Android Developer - Retail Banking (x,f,m)",

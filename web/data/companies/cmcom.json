@@ -1,22 +1,22 @@
 {
   "slug": "cmcom",
-  "name": "cmcom",
+  "name": "CM.com",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-07T10:53:29.125Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "357fef75b278aae0dda7521ad4f0767da54a8541",
+      "title": "AI Software Development Internship",
+      "url": "https://www.arbeitnow.nl/jobs/companies/cmcom/ai-software-development-internship-amsterdam-241380",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "90634df31971b34194244ad2bc31ef77f65fcb6b",
       "title": "AI Software Development Internship",

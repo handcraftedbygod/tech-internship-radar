@@ -2,21 +2,21 @@
   "slug": "genmab",
   "name": "Genmab",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c2b5844900ac064a3b6ddb214c0adb433b72b01",
+      "title": "Intern, Translational Data Science (Project: Agentic AI and Scientific Writing)",
+      "url": "https://careers.genmab.com/global/en/job/GEZGENUSR18081EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Utrecht",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "dcc88f6f125fe66c0e0af53ebac4952cbdae36de",
       "title": "Intern, Early Translational Data Science (Project: Bayesian Modelling of Preclinical Oncology Data)",

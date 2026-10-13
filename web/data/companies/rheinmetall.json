@@ -2,9 +2,9 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Düsseldorf",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -42,11 +42,18 @@
     0,
     4,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f0c4dd98554b42062cefd54133c3ddcf60cf761a",
+      "title": "Werkstudent Safety, Quality, Cybersecurity Management (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-635566-7878-9694-S",
+      "location": "Düsseldorf",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "1cd8b018b978936a3d617fea4c9dbdd80f981945",
       "title": "Werkstudent TacNet-Software (m/w/d)",

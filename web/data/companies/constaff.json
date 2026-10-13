@@ -2,9 +2,9 @@
   "slug": "constaff",
   "name": "Constaff GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +42,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54c92a3c91fb1c34b7b295602a57324c846501ea",
+      "title": "#15097 Junior Network Engineer – Cisco / Mobilfunk (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003844287-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "ed7e38011f5af880d1f83c936ad87c0ab35be6e6",
       "title": "#14795 Junior Data Engineer (m/w/d) (Data Engineer)",

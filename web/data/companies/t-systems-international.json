@@ -2,14 +2,14 @@
   "slug": "t-systems-international",
   "name": "T-Systems International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a53ddd4bf2a132dc7e1b44afded494b24d971713",
+      "title": "Hybrid Junior Data Engineer: GCP, PySpark & AI",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360399970__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "485151478522b10571f91a90953a2784592d158a",
       "title": "Junior Android Software Engineer with English (m/f/d)",

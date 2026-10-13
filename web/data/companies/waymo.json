@@ -2,14 +2,14 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "London",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 4
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
     }
   ],
   "hiringMonths": [
@@ -46,11 +46,25 @@
     0,
     0,
     7,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a31e2eb29f95627b9cd2148b9434a3761651b954",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://artificialintelligencejobs.co/jobs/waymo-2027-summer-intern-bs-ms-software-engineering-commercialization-8498d306",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "0a34009099d5b33a7e120a169c7d09bcd52b85c2",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204&utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "1a7c4e802969571d6603cdb099d863e4a52a5113",
       "title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",

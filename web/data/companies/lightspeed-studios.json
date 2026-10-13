@@ -2,14 +2,14 @@
   "slug": "lightspeed-studios",
   "name": "Lightspeed Studios",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     2,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3837042de754e7c6ef9fb19f94de6d84acdb0a03",
+      "title": "Junior Gaming Data Engineer - Real-Time Pipelines",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__171559709__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "9e63da6a7a8490b5c98155c6c2db4a1e3642b5b7",
       "title": "Gaming Data Engineer Intern: Real-Time Data Pipelines",

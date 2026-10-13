@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 26,
+  "totalPostings": 27,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 26
+      "count": 27
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     15,
     8,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c2c6a47e556d2ab99e1c1877938070d755dd423",
+      "title": "AI Developer Intern (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-developer-intern-munchen-430963",
+      "location": "München",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "9e56541016014963783df063ebaa498787b44900",
       "title": "AI Developer Intern (m/w/d)",
@@ -99,13 +106,6 @@
       "id": "1ea6c88a8f5e2ad385c996f3c07f71edb26ae40f",
       "title": "Cybersecurity Intern (m/w/d)",
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-412190",
-      "location": "München",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "ff25678436195fb86f9dd9f3d823844577778562",
-      "title": "Cybersecurity Working Student (m/w/d)",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-148613",
       "location": "München",
       "firstSeenAt": "2026-09-07T10:41:15.202Z"
     }

@@ -2,21 +2,21 @@
   "slug": "deepdata",
   "name": "DeepData",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49c2aa4968df9d0034c49e7ae6ff1cc49c04d1c1",
+      "title": "Junior PHP Backend Developer — Growth & Creative Freedom",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__171534538__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "bbe7b7436c83697d0acf4c16586fd1310f7090fe",
       "title": "Junior PHP Backend Developer — Growth & Creative Freedom",

@@ -2,21 +2,21 @@
   "slug": "qualify-nation-recruitment",
   "name": "Qualify Nation Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "462778116674861c0cbe2b38f268bf9c3a08e9e6",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57444646?utm_source=freehire.me",
+      "location": "Plymouth",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "ba2e185f0d9aa28673c51fa0cb5253134f7324ea",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",

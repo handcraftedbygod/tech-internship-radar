@@ -2,17 +2,13 @@
   "slug": "hirehi",
   "name": "HireHi",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 0,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 2,
+  "totalPostings": 1,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
-    },
-    {
-      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -20,7 +16,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,18 +29,11 @@
     0,
     0,
     1,
-    1,
+    0,
     0,
     0
   ],
   "recentPostings": [
-    {
-      "id": "79c505eaa7e113f40442cb4234ba24dbaa6987b8",
-      "title": "Frontend Developer for Smart TV Apps (Internship)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__359677843__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
     {
       "id": "4cc0cb9eb06c8c4d36a511cacff8565d18fce1ef",
       "title": "Junior Data / Platform Engineer",

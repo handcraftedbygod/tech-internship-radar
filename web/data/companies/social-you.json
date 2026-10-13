@@ -2,21 +2,21 @@
   "slug": "social-you",
   "name": "Social You",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 17
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 18
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     7,
     8,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "76b166fe27ae33e679fecaf86b8de75fcef00860",
+      "title": "Junior Java Software Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360607177__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "5afbfbaeef1c835e51ffbf142abe76273d6acdf2",
       "title": "Junior Frontend Developer - barcelona",
@@ -96,13 +103,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__349238644__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "058640525fb6740ef3b88812a6a38dacf2bc3507",
-      "title": "Junior Java Software Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__344059112__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

@@ -2,11 +2,15 @@
   "slug": "rewire",
   "name": "Rewire",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 3
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,32 @@
     0,
     1,
     0,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bda0785f521544afc381e3a8147cd0a05ff086d1",
+      "title": "Junior Data Engineer",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rewire/junior-data-engineer-amsterdam-298061",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "e9f56c1307be35f6fe6653f9b8dacbb07b08b69a",
+      "title": "Working Student – Data Engineering",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rewire/working-student-data-engineering-amsterdam-169828",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "a5e08e3a7748b839ff9d0188c968e8fabe9c6b20",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.nl/jobs/companies/rewire/junior-data-scientist-amsterdam-379780",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "d83a88717c4175038909e11b32c30ff3b63e23d2",
       "title": "Junior Data Engineer",

@@ -2,9 +2,9 @@
   "slug": "smartrecruiters",
   "name": "SmartRecruiters, Inc.",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Dublin",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -37,11 +41,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "947a4bd6126deb9b75f8d4220c3bf4513310f76b",
+      "title": "Junior Cloud DevOps Engineer – Azure Based",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__170816005__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "2b43bd361162917eb6977adc505683dcceb338b6",
       "title": "Développeur Java Backend Junior - H/F",

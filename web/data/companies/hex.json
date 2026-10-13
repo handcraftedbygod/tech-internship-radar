@@ -2,20 +2,25 @@
   "slug": "hex",
   "name": "Hex",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "product",
       "label": "Product",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0016111cccc8e35ebbaf7e21632f76f02c4974a",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/hex/f2562cd7-abf2-434b-85ff-0a5016fbf0d6",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "24bc2a6b86398b2c1ed0ac79a6120411891e7e22",
       "title": "Product Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "proactive-appointments",
   "name": "Proactive Appointments",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 31.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "75c0e74d1d0aeef9244822659913d858ff4a1d5e",
+      "title": "Junior Python Developer - Release & Backlog (Hybrid)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__567453163__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
+    {
+      "id": "401daaa0dbb7ef02c893961edc3dfa886ac07cc4",
+      "title": "Junior Python Developer – 11894SR-PYT",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__567452599__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "59d3a9ddaaf116c36775a455223c4364f0b6dfe9",
       "title": "Junior PHP Developer",

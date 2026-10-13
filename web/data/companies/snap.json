@@ -2,21 +2,21 @@
   "slug": "snap",
   "name": "Snap",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "933cfef95d6cc83c9a37d60cd2c640d1b3acda41",
+      "title": "Advertiser Solutions Intern",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Hamburg-Germany/Advertiser-Solutions-Intern_R0047153",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-10-13T11:27:20.761Z"
+    },
     {
       "id": "653a10ac34b86f2e5fe5a9cddf57d45fa939fe38",
       "title": "Verification Engineer Intern",
