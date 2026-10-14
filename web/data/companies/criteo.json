@@ -2,14 +2,14 @@
   "slug": "criteo",
   "name": "Criteo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Barcelona",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     1,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2315f29fcf432f0e29e34ad800a69e474d89ab76",
+      "title": "DevOps Engineer Intern",
+      "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Paris/DevOps-Engineer-Intern_r13378?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "880941f399ca4938f539516ed2e1fee641b297e2",
       "title": "Machine Learning Engineer Intern",

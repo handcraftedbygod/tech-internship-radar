@@ -2,21 +2,21 @@
   "slug": "blocktech",
   "name": "blocktech",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-29T10:49:33.976Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1d926dca133d55fbd75cc02e79290b25ba756cd",
+      "title": "Software Engineer | Internship | Summer '27",
+      "url": "https://www.arbeitnow.nl/jobs/companies/blocktech/software-engineer-internship-summer-27-amsterdam-268500",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "0fce88a6017b90e81bdd93039ec2e735653c94d7",
       "title": "Software Engineer | Internship | Summer '27",

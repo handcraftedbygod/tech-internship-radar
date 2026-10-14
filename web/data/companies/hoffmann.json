@@ -2,21 +2,21 @@
   "slug": "hoffmann",
   "name": "Hoffmann SE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ced3b63b1aa23e93be7eb5fd52a0c77c39b17d1",
+      "title": "Werkstudent (m/w/d) Embedded Software (Bürokaufmann/-frau)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjA0NzEtMjM1MjI5OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "25e321243ff2ba7b456cfe5a32d806136633bd72",
       "title": "Werkstudent (m/w/d) Embedded Software (Bürokaufmann/-frau)",

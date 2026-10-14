@@ -2,14 +2,14 @@
   "slug": "sixt",
   "name": "Sixt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     8,
     4,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2e14423cbca761f65d752ee2e188d48cc40dcafa",
+      "title": "Working Student Data Science (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/SIXT/744000155422549",
+      "location": "Munich, BY, Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "2fb3dd922cd0dc843072990ad6220a11bd6340db",
       "title": "Working Student (m/f/d) – Web Frontend Engineering",
@@ -104,13 +111,6 @@
       "title": "Working Student Data Science (m/f/d)",
       "url": "https://jobs.smartrecruiters.com/SIXT/744000142810760",
       "location": "Pullach, , Germany",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "13d7b388f5c1154c32b89422cf3f81cbf702b4cb",
-      "title": "Working Student (m/f/d) – Web Frontend Engineering",
-      "url": "https://jobs.smartrecruiters.com/SIXT/744000142816253",
-      "location": "Munich, BY, Germany",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "hopla-software",
   "name": "Hopla! Software",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "583987d69fc032c37698920059d47cabf8019ba9",
+      "title": "Junior Python PySpark Data Engineer on Databricks (Remote)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360387071__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "fc989c44472a30f8789544a678724e31db8565f8",
       "title": "Junior Python PySpark Data Engineer on Databricks (Remote)",

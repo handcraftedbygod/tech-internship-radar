@@ -2,21 +2,21 @@
   "slug": "trainline",
   "name": "trainline",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "caac46f93d4140953260e0f4035097b723d7c0f5",
+      "title": "Junior Machine Learning Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/junior-machine-learning-engineer-london-423974",
+      "location": "London",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "3c4c29b19a6cf2afd690c59185105121d67cd0f2",
       "title": "Junior Machine Learning Engineer",

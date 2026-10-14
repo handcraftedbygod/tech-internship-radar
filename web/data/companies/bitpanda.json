@@ -2,20 +2,25 @@
   "slug": "bitpanda",
   "name": "bitpanda",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d2187aa729bbc6493bdac311745676e333ca706",
+      "title": "Intern, Data Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4999438101?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "462bcb875a1a5a10bb355f07a201382d816b0a3c",
       "title": "Intern, Frontend QA Engineering",

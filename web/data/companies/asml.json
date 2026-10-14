@@ -2,21 +2,21 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     2,
     2,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "015fd6e191aba1bac63244667a3dbb4201ad8e82",
+      "title": "Computer Science | Data Science internship: Quality dashboard development",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "2f0e3f436e852c0b99b558f254bfd37f24cd0c60",
       "title": "Computer Science | Software Engineering internship: Wafer map verification",

@@ -2,25 +2,25 @@
   "slug": "digitec-galaxus",
   "name": "Digitec Galaxus AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-07T10:53:29.125Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d08a680052d7c00a0adfdb6f49d4670deed92cd3",
+      "title": "Junior Software Engineer - People & Culture",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTZiMmJmNTktODk5MC00MTVkLWFiYTQtOTYxYjhkMTQ4MDc2IDYx?lang=en&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "346730ee511fa553c6d5e82a44057728dbc888f2",
+      "title": "Junior Software Engineer - People & Culture",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTZiMmJmNTktODk5MC00MTVkLWFiYTQtOTYxYjhkMTQ4MDc2IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "ba7a1a8e42fef3fadf112b0b9bc373c6ca4b4483",
       "title": "(Junior) Software Engineer - Logistics Platform (w/m/d)",

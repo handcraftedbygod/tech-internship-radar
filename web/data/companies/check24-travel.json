@@ -1,0 +1,45 @@
+{
+  "slug": "check24-travel",
+  "name": "CHECK24 Travel",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-14T09:19:46.299Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Munich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "507458e63c0852e87480b745a4371c43c76613ce",
+      "title": "(Junior) Software Developer (m/w/d) Go / Golang – Mietwagen International",
+      "url": "https://www.adzuna.de/details/5926922704?utm_medium=api&utm_source=freehire.me",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    }
+  ]
+}

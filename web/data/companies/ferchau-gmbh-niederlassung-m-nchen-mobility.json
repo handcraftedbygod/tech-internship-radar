@@ -2,14 +2,14 @@
   "slug": "ferchau-gmbh-niederlassung-m-nchen-mobility",
   "name": "FERCHAU GmbH Niederlassung München Mobility",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     3,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95c5bfe0efc41d2a2f11ca018d09f2863b5e57c3",
+      "title": "(Junior) Software Engineer (m/w/d) (Ingenieurinformatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtMzA1MTAyX0pCNTI2OTk0MS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "c51bdd28acfabb4530bbd4eada74d870ad8a510a",
       "title": "(Junior) Software Engineer (m/w/d) (Ingenieurinformatiker/in)",

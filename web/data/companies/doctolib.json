@@ -2,9 +2,9 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 29,
+  "totalPostings": 30,
   "avgPostingDurationDays": 16.9,
   "topLocations": [
     {
@@ -21,14 +21,14 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "biz",
@@ -51,11 +51,18 @@
     0,
     5,
     5,
-    19,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5489b675ff985c130847624b58f2c39f45d5e90b",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/software-engineer-intern-fullstack-amsterdam-207152",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "17dde65be4d5634379734ae7ead38970a1963a65",
       "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
@@ -117,13 +124,6 @@
       "title": "Software Engineering intern - Fullstack (x/f/m) - Nantes",
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/8000592003?utm_source=freehire.me",
       "location": "Nantes",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "342d3a202a690183e2e33d781ac8660ff1471684",
-      "title": "Software Engineering Intern - Fullstack (x/f/m) - Niort",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8004636003?utm_source=freehire.me",
-      "location": "Niort",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]

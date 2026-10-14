@@ -2,26 +2,26 @@
   "slug": "smadex-slu",
   "name": "Smadex SLU",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "475c4f6d0e54a325f1c55c0aa904e716d0d62444",
+      "title": "Junior Software Engineer",
+      "url": "https://smadexslu.applytojob.com/apply/OpiMMyGTwN/Junior-Software-Engineer?utm_source=freehire.me",
+      "location": "Barcelona, Barcelona",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "06ca10882dbde4a1c651de2cce8f64cc39817a8a",
       "title": "Junior Data Engineer",

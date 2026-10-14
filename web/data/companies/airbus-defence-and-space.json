@@ -2,9 +2,9 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 15
     },
     {
-      "hub": "Bremen",
-      "count": 1
+      "hub": "Munich",
+      "count": 2
     },
     {
-      "hub": "Munich",
+      "hub": "Bremen",
       "count": 1
     }
   ],
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
@@ -47,11 +47,18 @@
     0,
     8,
     7,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ddce48aa23e6275187aa906e0eea170ba2d3a762",
+      "title": "Working Student (d/f/m): Composite Manufacturing & AI-Driven Data Analytics",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-976623864-S",
+      "location": "München",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "0570bf64f202f655c0541077232a403e059a5e99",
       "title": "Junior Simulation Software Developer C/C++ (m/f/d)",
@@ -114,13 +121,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY3NjY2MDY1LVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "7bdd05cbb9b008bddc07cdcd54803e38346cd763",
-      "title": "Werkstudent Manufacturing Engineering Aerostructures Data Analytics & Management Support (d/m/w)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-966325533-S",
-      "location": "Hamburg",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

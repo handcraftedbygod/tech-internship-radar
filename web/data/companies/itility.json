@@ -2,21 +2,21 @@
   "slug": "itility",
   "name": "Itility B.V.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4201f097fbaf9c7e2bc8c62b1c5d54b58647313b",
+      "title": "Junior Data Engineer",
+      "url": "https://www.arbeitnow.nl/jobs/companies/itility-bv/junior-data-engineer-eindhoven-398939?utm_source=freehire.me",
+      "location": "Eindhoven, Noord-Brabant, Netherlands",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "584dce6e84c086a44e7da393c4182ed0b0e02614",
       "title": "Junior Data Engineer",

@@ -1,0 +1,45 @@
+{
+  "slug": "imc",
+  "name": "Imc",
+  "tier": "trading",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-14T09:19:46.299Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1062de72c80cdba9089048174fa29ec710170295",
+      "title": "Software Engineer Intern",
+      "url": "https://www.arbeitnow.nl/jobs/companies/imc/software-engineer-intern-amsterdam-223748?utm_source=freehire.me",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    }
+  ]
+}

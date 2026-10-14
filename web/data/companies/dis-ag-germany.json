@@ -2,14 +2,14 @@
   "slug": "dis-ag-germany",
   "name": "DIS AG Germany",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,39 @@
     0,
     0,
     2,
-    2,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0a4a67a92145ea9b48737d8a41cd62310445ba1",
+      "title": "Junior Java Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk2MzE4NTgyOC1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Dresden, Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "7713f9216f609e093726de9defcff4f102602ad4",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk2MzE4Njg3NS1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Dresden, Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "8380fd4c1418793f9207378b5798eeace1075922",
+      "title": "Junior Java Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk2MzE4NTgyOC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "8004ff0b19c601ff68dc2dff57326afb0e0e37ee",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk2MzE4Njg3NS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "88349299745c74fbd53b468067b03a89f0c663a7",
       "title": "Junior Java Developer (m/w/d) (Softwareentwickler/in)",

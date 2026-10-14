@@ -2,14 +2,14 @@
   "slug": "arm",
   "name": "ARM",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Munich",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,25 @@
     0,
     0,
     2,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a92d376b898a21fefc052f675f4143022f15cb60",
+      "title": "Data Analytics Intern",
+      "url": "https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744?utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "69f3a7bc3dbecdc11ee404f719ccfa290be74687",
+      "title": "QA/DevOps Intern",
+      "url": "https://careers.arm.com/job/sophia-antipolis/qa-devops-intern/33099/101899425056?utm_source=freehire.me",
+      "location": "Sophia Antipolis, France",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "0770c7c7dbd7643581201016a5d4ec877c544abb",
       "title": "Software Engineer Intern",

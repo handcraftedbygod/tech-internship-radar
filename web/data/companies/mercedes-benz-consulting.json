@@ -2,21 +2,21 @@
   "slug": "mercedes-benz-consulting",
   "name": "Mercedes-Benz Consulting GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 45.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cbda289968e5d487f690a258d377f378d22c6ff9",
+      "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d), MC Center",
+      "url": "https://www.finest-jobs.com/stellenanzeige/Praktikant-Data-Analytics-Amp-Business-Intelligenc-1326078?cp=BA",
+      "location": "Leinfelden-Echterdingen",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "66f1653cec3dd05823bc73ed8560a3773bae4ca5",
       "title": "Werkstudent - Data Analytics & Business Intelligence (m/w/d), MC Center",

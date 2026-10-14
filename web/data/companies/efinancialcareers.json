@@ -2,26 +2,26 @@
   "slug": "efinancialcareers",
   "name": "eFinancialCareers",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "quant",
       "label": "Quant",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     5,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ee86cecb88d8700d2a124647c396c71e49ee17a",
+      "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",
+      "url": "https://www.reed.co.uk/jobs/junior-c-quant-developer-commodities-global-hedge-fund/57446113?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "28455a874ac98163c7228b00af1cc1225a38ab9c",
+      "title": "Junior Backend Data Platform & AI Engineer  Investment Firm - eFinancialCareers",
+      "url": "https://www.reed.co.uk/jobs/junior-backend-data-platform-ai-engineer-investment-firm-efinancialcareers/57445348?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "79cd896eb483156ad02ad43b20de96b13b791f26",
       "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",

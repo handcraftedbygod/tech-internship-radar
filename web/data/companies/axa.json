@@ -2,9 +2,9 @@
   "slug": "axa",
   "name": "AXA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,25 @@
     0,
     1,
     4,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0a2394c93c0082d81ea2a5edbd83f3479ba55ea",
+      "title": "Internship - Data Engineering & Analytics",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__158349523__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "0a02a191c0f826789091376f7192859e4db30ff6",
+      "title": "Internship - Data Engineering & Analytics",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__158595352__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "618ab34ea69caf012ee839fb594eb124968346c2",
       "title": "Junior Data Engineer",

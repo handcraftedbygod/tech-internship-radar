@@ -2,9 +2,9 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "San Francisco",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 6
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 5
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 4
     }
   ],
   "hiringMonths": [
@@ -46,11 +46,25 @@
     0,
     0,
     7,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f775e777a097ca614a177dc5513f691f95ce6b8e",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "url": "https://artificialintelligencejobs.co/jobs/waymo-2027-summer-intern-phd-machine-learning-simulation-realism-1020978d",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "eaa86933cc4d68e6c1e0eb51af48a82e7c6c3384",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8265868&utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "a31e2eb29f95627b9cd2148b9434a3761651b954",
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
@@ -106,13 +120,6 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
       "location": "Mountain View, CA",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "9ab36f77b0f442e293fea5c64ad159f8c1d90b08",
-      "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

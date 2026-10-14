@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e42ba648fe287390c22f102831bf064d485ff9ae",
+      "title": "GPU Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "8c36a98a3eef22c761b68f71a92633744a21d10f",
       "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",

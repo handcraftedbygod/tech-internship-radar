@@ -2,21 +2,21 @@
   "slug": "rabobank",
   "name": "rabobank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc92cdd443e0b63d1d51a635efaa95d12a03062f",
+      "title": "Junior Data Scientist | Advanced Analytics Early Career Program | Utrecht",
+      "url": "https://wd3.myworkdaysite.com/recruiting/rabobank/jobs/job/Utrecht-Croeselaan-18/Junior-Data-Scientist---Advanced-Analytics-Early-Career-Program---Utrecht_JR_00146550?utm_source=freehire.me",
+      "location": "Utrecht Croeselaan 18",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "55cb0a0577ce034f9efcbfe7e2d75ef2e1b4259f",
       "title": "Junior DevOps Engineer - Early Career Program IT",

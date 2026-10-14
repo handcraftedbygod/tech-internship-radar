@@ -2,21 +2,21 @@
   "slug": "reeeliance",
   "name": "Reeeliance",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3babc29417bfb3662e2495c765eddb111b83c6f0",
+      "title": "Junior Data Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/reeeliance/junior-data-engineer-hamburg-186381?utm_source=freehire.me",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "2a2fbdd96836f76abc4ace8a46596c4e7f529e9b",
       "title": "Junior Data Engineer",

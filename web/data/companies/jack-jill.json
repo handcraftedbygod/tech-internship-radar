@@ -1,0 +1,57 @@
+{
+  "slug": "jack-jill",
+  "name": "Jack & Jill",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-14T09:19:46.299Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f7737c48b3d3da9e1e117627520fbec3f03c322d",
+      "title": "Junior Data & Software Engineer: Pipelines & AI Tools",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566799305__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "ba9a70116e5256a0c68206864d4593564b1fdb81",
+      "title": "Data / Software Engineer (Junior) at Stonehaven",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566799003__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    }
+  ]
+}

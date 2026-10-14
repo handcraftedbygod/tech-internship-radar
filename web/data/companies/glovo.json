@@ -2,9 +2,9 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 32,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 68,
+  "totalPostings": 69,
   "avgPostingDurationDays": 25.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 53
+      "count": 54
     },
     {
       "id": "biz",
@@ -51,11 +51,18 @@
     0,
     33,
     26,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a7673ad72fe28734b652f601ccbf4dd19e3d9ff3",
+      "title": "Account Manager Intern - Q Commerce Catman",
+      "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "9ec21bdc74a03da22f529a4fbecfeecf6c0e9570",
       "title": "Junior Business Analyst – Fleet Operations (Spain)",
@@ -118,13 +125,6 @@
       "url": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "cebc81d011f78048567faf2a5321e619c272aca8",
-      "title": "Junior Business Analyst – Fleet Operations (Spain)",
-      "url": "https://careers.glovoapp.com/job/junior-business-analyst-fleet-operations-spain-in-barcelona-spain-jid-744000152341915/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
     }
   ]
 }

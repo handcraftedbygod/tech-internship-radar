@@ -2,26 +2,30 @@
   "slug": "gusto",
   "name": "Gusto",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 29,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "biz",
+      "label": "Business",
       "count": 2
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +38,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "06fca79e680e97a48f33361bcf75082c97d56993",
+      "title": "Finance Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115",
+      "location": "New York, NY - Hybrid",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "146c671b3eaaaca1f0dc711b3f585400f2d78fb4",
       "title": "Gusto Pro Core, Junior Account Manager",

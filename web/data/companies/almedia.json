@@ -2,21 +2,21 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,32 @@
     0,
     2,
     0,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de4f03e244f6a65a228a53808157a25bf0a940d9",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI)",
+      "url": "https://jobs.ashbyhq.com/almedia/ad0fe4c3-0440-4a09-b78b-6f739c3d917d?utm_source=freehire.me",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "c48732539734365ffa970bf35d8834c9a4419ee8",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI)",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-engineer-typescript-python-devops-ai-berlin-41831",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
+    {
+      "id": "2a8ac868dcd1c07fdba4a00b4baf07db0951aefd",
+      "title": "Junior Software Engineer - Data",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-software-engineer-data-berlin-75989",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "84a3afa8306610d83ee7be32484be55007f5155d",
       "title": "Junior Software Engineer, Data",

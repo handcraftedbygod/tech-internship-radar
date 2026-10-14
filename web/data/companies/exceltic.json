@@ -2,21 +2,21 @@
   "slug": "exceltic",
   "name": "Exceltic",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "11b671fceb2fd3da05e132f3a08c13e4ebd204b8",
+      "title": "Junior Java Developer (Hybrid) – Valladolid, Career Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__360378406__7107?geoID=5596&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Valladolid, Spain",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "0e20020b5bc6122dce4902a7f7ccf140d18b04ac",
       "title": "Junior Java Developer",

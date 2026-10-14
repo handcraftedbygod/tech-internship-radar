@@ -1,15 +1,15 @@
 {
   "slug": "alliander",
-  "name": "Alliander",
+  "name": "alliander",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     3,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4462943225684fbbbf8be08077c79e45493a2616",
+      "title": "Junior CIAM Devops Engineer",
+      "url": "https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Junior-CIAM-Devops-Engineer_JR19727?utm_source=freehire.me",
+      "location": "ARNHEM",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "8b258fdbe93ab14e2cffd73d3afebc4ea8aaf0e3",
       "title": "Junior Data Science Software Engineer",

@@ -2,14 +2,14 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -30,7 +30,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,11 +43,18 @@
     0,
     2,
     1,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8041abbdd917275f8fa3b0710fc7d28ea796de80",
+      "title": "Backend Engineer - Internship (6 months)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/qonto/backend-engineer-internship-6-months-paris-261641",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "d742723576aecfcd82ece7976fc3a7a12b7c2997",
       "title": "Machine Learning Intern",

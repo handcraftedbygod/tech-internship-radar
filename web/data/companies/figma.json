@@ -2,14 +2,14 @@
   "slug": "figma",
   "name": "Figma",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 16,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -57,11 +57,18 @@
     1,
     3,
     10,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8fe7c98369fba12d557f8f04befb2706d97a7112",
+      "title": "PhD Intern, Software Engineer - Graphics (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-10-14T09:19:46.299Z"
+    },
     {
       "id": "82dab507fd4bfb227b8a2352f89d2b1d3caae661",
       "title": "Early Career, Inside Sales Representative (2027)",
@@ -123,13 +130,6 @@
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
       "location": "San Francisco, CA • New York, NY",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "37bb2ba4509ce012cb5ef769a2e478118eabadcf",
-      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
-      "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004",
-      "location": "London, England",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]
