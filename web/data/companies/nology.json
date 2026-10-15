@@ -2,21 +2,21 @@
   "slug": "nology",
   "name": "_nology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "biz",
@@ -34,11 +34,18 @@
     0,
     9,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2681ebea8e57f11aa08e780d74e23371cdf6c72b",
+      "title": "Junior Technology Consultant Opportunities | Newcastle | Software Engineering",
+      "url": "https://apply.workable.com/j/3BBCED7363?utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, England, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "cb345ef7f6086beab805f8d0abf394f0760ecaf8",
       "title": "Junior DevOps Engineer - Accelerator Academy (ENG25)",
@@ -99,13 +106,6 @@
       "id": "78c0903eaf93eb34abb356db035c2c322eb5f9fc",
       "title": "Junior DevOps Engineer - Accelerator Academy",
       "url": "https://uk.whatjobs.com/pub_api__cpl__501097877__7082?geoID=328&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Newcastle upon Tyne, United Kingdom",
-      "firstSeenAt": "2026-08-10T05:27:06.486Z"
-    },
-    {
-      "id": "5d3d0dbbbf04996eef6a09d639f1f01869ac52f2",
-      "title": "Junior DevOps Engineer - Accelerator Academy (ENG25)",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__499834486__7082?geoID=328&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Newcastle upon Tyne, United Kingdom",
       "firstSeenAt": "2026-08-10T05:27:06.486Z"
     }

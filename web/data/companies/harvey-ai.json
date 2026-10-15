@@ -1,0 +1,81 @@
+{
+  "slug": "harvey-ai",
+  "name": "Harvey AI",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-10-15T08:53:46.789Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e10d0f7a52a3f7ae5c929d0eab62ea09a481a732",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "b8ae7c9f67580599dc45979b037d4998449b4142",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "d847e5c5c5578d8d782fd362833ab6277ba78fc4",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "2d1befc6e25b4022c62137e7c05d2380e83bf1ce",
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "10d144400b73f4c549bf2d27122bfd7a2a544a4e",
+      "title": "Software Engineer, New Grad (2027)",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    }
+  ]
+}

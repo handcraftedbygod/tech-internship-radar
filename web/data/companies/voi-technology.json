@@ -2,9 +2,9 @@
   "slug": "voi-technology",
   "name": "Voi Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2fcde33cafac58671d053aad9c6fddd9b85758c3",
+      "title": "Working Student - Street Patrol (m/w/d)",
+      "url": "https://careers.voi.com/jobs/8546071-working-student-street-patrol-m-w-d",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "c211d5e8f70ae2e731812be02ce1e7e896251705",
       "title": "Fleet Specialist Associate (working student) - m/f/d",

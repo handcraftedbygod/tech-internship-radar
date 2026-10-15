@@ -2,21 +2,21 @@
   "slug": "zynga",
   "name": "Zynga",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c7a667897060e209c792ca321274f1b68f2b604",
+      "title": "Software Engineer Intern - Two Dots",
+      "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "7c8c22308f34fb385e537009944b086615891cb6",
       "title": "Mobile Developer Intern (C++)",

@@ -2,14 +2,14 @@
   "slug": "mirakl-labs",
   "name": "Mirakl - Labs",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": null,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,25 @@
     0,
     0,
     0,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e405b6cea8f6cf0a2ad5ee4af196251c9ca08b59",
+      "title": "Software Engineer Intern - Financial Services",
+      "url": "https://job-boards.greenhouse.io/mirakllabs/jobs/6224187004?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "e9f80514c8f73b724a95610a9a2b121381c42f0c",
+      "title": "Software Engineer Intern - Financial Services",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-financial-services-paris-450886",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "0294d01150ecfd73e4ba5820ceeda2bf09c46fd1",
       "title": "Data Scientist - Intern",

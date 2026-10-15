@@ -2,21 +2,21 @@
   "slug": "epicgames",
   "name": "Epicgames",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8df51ea8482f440ecbe28315cc7d849e784ea4bc",
+      "title": "Machine Learning Intern",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/machine-learning-intern-london-134323",
+      "location": "London",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "b724e49ee6f78b3e96b04a8eaef47309a0093385",
       "title": "Machine Learning Intern",

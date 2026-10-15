@@ -2,21 +2,21 @@
   "slug": "adria-solutions",
   "name": "Adria Solutions Ltd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     3,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "848bd8316aa94820d5a219b5ce6eda8c7dfcca87",
+      "title": "Junior DevOps / MLOps Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-devops-mlops-engineer/57458207?utm_source=freehire.me",
+      "location": "Huddersfield",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "d6d511859c01694d39c758296b03b8ba990e5a81",
+      "title": "Junior DevOps / MLOps Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5927788004?se=aEYCLWHI8RGimI-nBocTgQ&utm_medium=api&utm_source=freehire.me&v=B4B367B5A0284BB222048360CA9E9D51CECC4329",
+      "location": "Huddersfield, West Yorkshire",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "ee6f10ca655d6cd855f553580e32fecf6fc713ef",
       "title": "Junior SQL Data Analyst",

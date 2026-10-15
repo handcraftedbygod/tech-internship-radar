@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 11.7,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Paris",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -23,13 +23,13 @@
       "count": 4
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     }
   ],
@@ -43,11 +43,18 @@
     0,
     2,
     1,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67ba48dfa0953323a6981ffe505c04bbd66bc164",
+      "title": "Backend Engineer - Internship (6 months)",
+      "url": "https://jobs.lever.co/qonto/27b04742-b983-411c-9a39-186e0738a60c",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "8041abbdd917275f8fa3b0710fc7d28ea796de80",
       "title": "Backend Engineer - Internship (6 months)",

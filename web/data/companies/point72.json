@@ -2,14 +2,14 @@
   "slug": "point72",
   "name": "Point72",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "quant",
       "label": "Quant",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a80f9dbaf01e7aad52b99ce3fcbe6b4b4e62bf4c",
+      "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",
+      "url": "https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "7d68481c0abf3d81d726c069447a81e769c90a44",
       "title": "Quantitative Software Developer Intern",

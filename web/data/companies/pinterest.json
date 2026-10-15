@@ -8,11 +8,11 @@
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
-      "hub": "Zurich",
-      "count": 4
+      "hub": "San Francisco",
+      "count": 7
     },
     {
-      "hub": "New York",
+      "hub": "Zurich",
       "count": 4
     },
     {
@@ -20,12 +20,12 @@
       "count": 4
     },
     {
-      "hub": "San Francisco",
-      "count": 3
-    },
-    {
       "hub": "Toronto",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -83,7 +83,7 @@
       "id": "1c1f339dd372177df3287755c27d77c91f9b4a19",
       "title": "Machine Learning Intern 2027 (Dublin)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
-      "location": "Dublin, IE",
+      "location": "Dublin, Ireland",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
     },
     {

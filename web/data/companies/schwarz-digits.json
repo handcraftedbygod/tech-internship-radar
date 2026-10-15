@@ -2,21 +2,21 @@
   "slug": "schwarz-digits",
   "name": "Schwarz Digits",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "design",
       "label": "Design",
-      "count": 8
+      "count": 9
     },
     {
       "id": "product",
@@ -39,11 +39,18 @@
     0,
     4,
     6,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a7115511e2186017464a80ff21a678d61962b73",
+      "title": "(Junior) Frontend Engineer - Vue.js & Design System (m/w/x)",
+      "url": "https://www.adzuna.de/details/5928505688?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "5d5a4b02efa8a6ca476c03aed1bd7437f054ad29",
       "title": "(Junior) Frontend Engineer - Vue.js & Design System (m/w/x)",
@@ -106,13 +113,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzA1MTY2LVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "e6afddca51c651e001fdc9fe9ee3fcdc81a89397",
-      "title": "(Junior) Product Engineer Corporate Security (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5835856746?se=fPDxrDyX8RGhteErNNB1ww&utm_medium=api&utm_source=freehire.me&v=4C3E2DA1FF626C45AF3DEAF116FE4926B5EB33B0",
-      "location": "Bad Friedrichshall, Heilbronn (Kreis)",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "slug": "anduril",
   "name": "Anduril",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b15b9771d29523b21f3f634c327b635ac8489649",
+      "title": "2027 Flight Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+      "location": "Costa Mesa, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "e120f1eec8c04c6df7b2ffa6d2b0f50a8beb5269",
       "title": "2027 Software Engineer Intern",

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4eeb27f0470626ba2c42a7d7ffee8ae5b6e5fe5d",
+      "title": "Software Engineer Intern - Industrialization",
+      "url": "https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169/apply",
+      "location": "Zurich, Switzerland",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "5a4ee3ee518c084ab89f88c07fb8602de4a249e1",
       "title": "Software Engineer Intern - Industrialization",

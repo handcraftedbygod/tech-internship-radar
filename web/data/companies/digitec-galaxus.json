@@ -2,25 +2,25 @@
   "slug": "digitec-galaxus",
   "name": "Digitec Galaxus AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-07T10:53:29.125Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     0,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ea2b87268040e116b2cb08914cc8d8a2f09a02a",
+      "title": "Junior Software Engineer - People & Culture (w/m/d)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NmNhMGQ2ZGMtYTg3Ni00OTFkLThkNGEtOTlmZTY1NjViNWViIDYx?lang=en&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "35486e00ee76df5ae4124632edbd51bdd5f8254d",
+      "title": "Junior Software Engineer - People & Culture (w/m/d)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NmNhMGQ2ZGMtYTg3Ni00OTFkLThkNGEtOTlmZTY1NjViNWViIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "d08a680052d7c00a0adfdb6f49d4670deed92cd3",
       "title": "Junior Software Engineer - People & Culture",

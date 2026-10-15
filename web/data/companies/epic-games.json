@@ -2,9 +2,9 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
@@ -12,19 +12,19 @@
       "count": 4
     },
     {
-      "hub": "Montreal",
+      "hub": "Other",
       "count": 3
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Montreal",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "swe",
@@ -42,11 +42,18 @@
     0,
     8,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b3faee158f704141c031c0fde717a5b79323684a",
+      "title": "Data Science Intern",
+      "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+      "location": "Cary,North Carolina,United States",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "f08e36578016cf36a0759487b50bb95297849b9c",
       "title": "Engine Programmer Intern",

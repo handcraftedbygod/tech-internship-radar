@@ -2,9 +2,9 @@
   "slug": "visa",
   "name": "Visa",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 33,
+  "totalPostings": 34,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "San Francisco",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "product",
@@ -52,11 +56,18 @@
     0,
     0,
     32,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a700d5246ab64c2505394fa5b9e736141e9169b",
+      "title": "VCA Intern (IDS)",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+      "location": "GB - London, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "c4004c87acbd3265ae973d363ac4596f393beb68",
       "title": "Associate Cybersecurity Analyst - Junior (Local Candidates)",
@@ -118,13 +129,6 @@
       "title": "Software Engineer, Intern, Bellevue - 2027",
       "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-bellevue-2027",
       "location": "Bellevue, WA",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "d02c9147b266956704da4e8d909eadd4e69d4450",
-      "title": "Software Engineer, Intern, Highlands Ranch, CO - 2027",
-      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-highlands-ranch-co-2027",
-      "location": "Denver, CO",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]

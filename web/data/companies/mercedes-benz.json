@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 36,
+  "totalPostings": 37,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 29
+      "count": 30
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     0,
     19,
     10,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c794d69676061534929498c8469f7309dfed7a8e",
+      "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643198-1-S",
+      "location": "Leinfelden-Echterdingen",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "478c3aefe793560b899c263f6df32a751b281bdd",
       "title": "Praktikant*in Investitionscontrolling Mercedes-Benz Cars – Data Engineering",
@@ -116,13 +123,6 @@
       "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1635501-1-S?utm_source=freehire.me",
       "location": "Stuttgart, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "a42928e40f0b5655f64c1e98a9d56a8bf04a84e7",
-      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x) (Informatiker/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTMxNTEtMTYzNTUwMS0xLVMgMQ?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }
   ]

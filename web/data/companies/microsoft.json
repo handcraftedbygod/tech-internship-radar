@@ -2,13 +2,17 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Dublin",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "product",
       "label": "Product",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f77a78bfc20985ded4a8671b9802badfd4d60a6",
+      "title": "Software Engineer Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773?utm_source=freehire.me",
+      "location": "Ireland, Dublin, Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "bcd53a8c5e7f7d0a5811fc3ca30d8e16b71285a2",
       "title": "Product Manager Intern",

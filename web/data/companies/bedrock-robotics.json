@@ -2,21 +2,25 @@
   "slug": "bedrock-robotics",
   "name": "Bedrock Robotics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 3
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +38,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d011869d682df7edf78979b469775fa022ab8400",
+      "title": "2027 Internship Software Engineer, Fleet Platform",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "55301e97c7fd775d4492e02a6c2845dc5eea3a80",
       "title": "Internship 2027 Sensor Systems Engineer",

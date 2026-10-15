@@ -2,14 +2,14 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 20,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 30,
-  "avgPostingDurationDays": 16.9,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 16.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 17
+      "count": 19
     },
     {
       "hub": "Paris",
@@ -22,13 +22,17 @@
     {
       "hub": "Amsterdam",
       "count": 3
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 28
     },
     {
       "id": "biz",
@@ -51,11 +55,32 @@
     0,
     5,
     5,
-    20,
+    23,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7db7ca6fe0d95be9f658194e702141f81e8d7411",
+      "title": "Praktikum/Werkstudent:in Partnership Management (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8034356003",
+      "location": "München",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "48a14c52bf7f3a14560115df0ac8868874ba9276",
+      "title": "Praktikum/Werkstudent:in Partnership Management (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8030553003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "1f78b7e11c4f20cc87e141ccfc964cc747238dcd",
+      "title": "Praktikum Public Affairs & Advocacy (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8026774003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "5489b675ff985c130847624b58f2c39f45d5e90b",
       "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
@@ -103,27 +128,6 @@
       "title": "Software Engineering Intern - Fullstack (x/f/m) - Niort",
       "url": "https://jobs.ashbyhq.com/doctolib/0ec84e52-5047-440c-9a67-e0d0898c9783?utm_source=freehire.me",
       "location": "Niort",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "45ba5202da796631c810992fc5f54a1e32d0a3af",
-      "title": "Software Engineering Intern - Fullstack (x/f/m)",
-      "url": "https://jobs.ashbyhq.com/doctolib/e6caa5a3-a0dd-4d0d-9c48-ecc440baf8a8?utm_source=freehire.me",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "8cf3332d051d6970364e67181197b36d746ff5a7",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8006520003?utm_source=freehire.me",
-      "location": "Amsterdam, North Holland, Netherlands",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "d8abf651a1fa470ec31134e22a40818ed726f126",
-      "title": "Software Engineering intern - Fullstack (x/f/m) - Nantes",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8000592003?utm_source=freehire.me",
-      "location": "Nantes",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]

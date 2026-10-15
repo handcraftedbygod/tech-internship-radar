@@ -1,21 +1,26 @@
 {
   "slug": "loka",
-  "name": "Loka® Inc",
+  "name": "Loka, Inc",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 20,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ccab984bf0af0afc5b204dcacfbaa226ccdc1c57",
+      "title": "Junior Back-End Engineer",
+      "url": "https://job-boards.greenhouse.io/lokainc/jobs/5266227007?utm_source=freehire.me",
+      "location": "LatAm, North Macedonia, Portugal, Serbia",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "b48247b02f0be824cb92525094776c7d3c316c41",
       "title": "Data Engineering Intern",

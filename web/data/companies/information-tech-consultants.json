@@ -2,14 +2,14 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     4,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "704efe7db7a7b585cbd3bf635fdc4e18e2345455",
+      "title": "Junior Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__570664087__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "ad7f484a9af5c5783c745c6f0f28612fbfa92ace",
       "title": "Junior Java Developer",

@@ -1,0 +1,52 @@
+{
+  "slug": "xai",
+  "name": "xAI",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-15T08:53:46.789Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5c14e4a81c29a28732f23f312283e5bdd8a945b8",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "d5908ae258006d11711b31a0cda50bdb2d53bc8a",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    }
+  ]
+}

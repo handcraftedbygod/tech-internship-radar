@@ -2,21 +2,21 @@
   "slug": "socialpoint",
   "name": "Socialpoint",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d397059f7c1fed66d96551775b769a205e30532",
+      "title": "Software Engineer Intern - Two Dots",
+      "url": "https://job-boards.greenhouse.io/spcareers/jobs/6223968004?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "8694c99e67aac17bbb20e00385688baff36e6ebb",
       "title": "Mobile Developer Intern (C++)",

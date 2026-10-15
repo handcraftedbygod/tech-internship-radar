@@ -4,18 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bba0cff0c78659922e62ea36f249bc3c6abf0583",
+      "title": "INTERNSHIP OPERATIONS - DATA ANALYTICS",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-MADRID/INTERNSHIP-OPERATIONS---DATA-ANALYTICS_R10103173?utm_source=freehire.me",
+      "location": "Spain, MADRID",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "edcf1fd99f90b780e552985f580d00a320c191a4",
       "title": "Data Analyst Internship (M/F)",

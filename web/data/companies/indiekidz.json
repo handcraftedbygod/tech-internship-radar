@@ -2,14 +2,14 @@
   "slug": "indiekidz",
   "name": "IndieKidz GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     2,
     4,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "162c980449750d1d9cc0bd6154ec7c2cafa7bfbe",
+      "title": "Junior Software Test (QA) Automation Engineer - AI Startup (Remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone-berlin-458991",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "fa811ab1af40ebe1f22bccb782f3a10b7449c592",
       "title": "(Unpaid) Mandatory Internship : Software Test (QA) Automation Engineer",

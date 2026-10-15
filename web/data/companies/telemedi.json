@@ -2,21 +2,21 @@
   "slug": "telemedi",
   "name": "Telemedi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43a47a3610914b393759c33de84b0d899dea4c87",
+      "title": "Junior Full Stack Agentic Developer",
+      "url": "https://apply.workable.com/j/EDBB86FA86?utm_source=freehire.me",
+      "location": "Warszawa, Mazowieckie, Poland",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "28f4764a73d0e2e28cff7a42dd7a9da2f8c873a5",
       "title": "QA Engineer (Junior)",

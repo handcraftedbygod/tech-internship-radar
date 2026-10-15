@@ -2,18 +2,18 @@
   "slug": "axa",
   "name": "AXA",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
-      "hub": "Other",
+      "hub": "Paris",
       "count": 4
     },
     {
-      "hub": "Paris",
-      "count": 3
+      "hub": "Other",
+      "count": 4
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     1,
     4,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e0f406297d05a0aaeeef77fd491f5369e5c46bf",
+      "title": "Data Engineering & Analytics Internship: Databricks",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__158594997__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "a0a2394c93c0082d81ea2a5edbd83f3479ba55ea",
       "title": "Internship - Data Engineering & Analytics",

@@ -2,21 +2,21 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 21,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 27,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 7
-    },
-    {
-      "hub": "San Francisco",
-      "count": 4
+      "count": 12
     },
     {
       "hub": "New York",
+      "count": 5
+    },
+    {
+      "hub": "San Francisco",
       "count": 4
     },
     {
@@ -32,12 +32,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 15
+      "count": 19
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,53 @@
     1,
     4,
     6,
-    10,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5707be23df41b0038e766c0f1f314cec8833d239",
+      "title": "Commercial Graduate Program - Solution Engineering Path - Dutch Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "e54328e5dc599feb11c8cecd3bcd72b3a8fee032",
+      "title": "Commercial Graduate Program - Sales Path - Dutch Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---BNL-Dutch-Speaking-Market_JR363186-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "4de5fa7adbfbafd52ef3002eb2f3f6beda8b7abd",
+      "title": "Commercial Graduate Program - Sales Path - Swedish Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Swedish-Market_JR362643-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "9bd5a19472510e8c32342a1798d0ed1e95a696b7",
+      "title": "Commercial Graduate Program - Sales Path - Norwegian Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Norwegian-Market_JR362644-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "2dfba78d0fb7de2729f430e6f062b9e1dc18077e",
+      "title": "Commercial Graduate Program - Sales Path - Danish Speaking Market",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Danish-Market_JR362645-1",
+      "location": "Ireland - Dublin",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "739420befc9003e24294210c65244e36953b6644",
+      "title": "Summer 2027 Intern - Solution Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
+      "location": "New York - New York",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "1647df1938bf9386b3c61728c18982bfa4a448af",
       "title": "Commercial Graduate Program - Sales Path - Italian Speaking Market",
@@ -82,48 +124,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Hebrew-Market_JR363315-2",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "17f24ecbb0682af81d1a52a1a1ae0f66f02b41a5",
-      "title": "Commercial Graduate Program - Sales Path - English Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---English-Speaking-Market_JR363190-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "650346897b25be4f1bf9906bf91edadda5ee72b3",
-      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
-      "location": "New York - New York",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "94ee679431ea0fc71fe463a15f63e18853b99a12",
-      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
-      "location": "New York - New York",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "3d5731aa644f3e588cee106412dc56b809836b95",
-      "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1",
-      "location": "New York - New York",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "5ef7942c105fd4699ef8c946005287835ee08a7f",
-      "title": "Summer 2027 Intern - Product GTM Strategy",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1",
-      "location": "California - San Francisco",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "a1306f3c391072cd121fe951d487ff8d9d1cacdf",
-      "title": "Business Development Associate (Early Career)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1",
-      "location": "California - San Francisco",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "slug": "snap",
   "name": "Snap",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Los Angeles",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9cd6634485aee1aecf2aa620abb9c6f8a05a3435",
+      "title": "2027 Generative Media Research Intern",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179",
+      "location": "Los Angeles, California",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "933cfef95d6cc83c9a37d60cd2c640d1b3acda41",
       "title": "Advertiser Solutions Intern",

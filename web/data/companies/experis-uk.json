@@ -2,21 +2,21 @@
   "slug": "experis-uk",
   "name": "Experis UK",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cfee70a9e47149e60be908ba795b7e988a44fd7d",
+      "title": "Junior iOS Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__570664145__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "23502c6e790d54bec2637e573e4bba7abded5436",
+      "title": "Hybrid iOS Developer (Junior) – Build & Collaborate in London",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__570663904__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "49d90dcc4787c87a15c85f2b2dbfa54f6a7b16f7",
       "title": "Junior Android Developer",

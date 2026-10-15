@@ -1,0 +1,85 @@
+{
+  "slug": "wing",
+  "name": "Wing",
+  "tier": null,
+  "currentOpenings": 6,
+  "firstTrackedAt": "2026-10-15T08:53:46.789Z",
+  "totalPostings": 6,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 6
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "eb6567283af687eaac623e52381d46a5ccc7afee",
+      "title": "Data Scientist Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872482002?gh_jid=8872482002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "ac2f1073d3df52251c9d6baff96fb7445570f3c9",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872476002?gh_jid=8872476002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "40cb7e718274985df20d078297ab7838b0c0b2b3",
+      "title": "Execution & Topology Software Engineering Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872477002?gh_jid=8872477002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "a55d93ae0bb36a0f39a93d350ddd3d8dd84bc845",
+      "title": "Motion Planning Software Engineering Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "c088c0d2fff0bda63f21075d8ab1704faad804c3",
+      "title": "Data Infra Software Engineering Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872471002?gh_jid=8872471002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "747eb80a2f6de01e0ceb2b02b68c2dddf5ebd54c",
+      "title": "Machine Learning Engineering Intern, Summer 2027",
+      "url": "https://wing.com/careers/8872479002?gh_jid=8872479002",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "spendesk",
+  "name": "Spendesk",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-15T08:53:46.789Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0f017edde85a72ffe1fdb4d1fd2320ab0701fd7f",
+      "title": "Learning & Development Intern",
+      "url": "https://career.spendesk.com/jobs/8549481-learning-development-intern",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    }
+  ]
+}

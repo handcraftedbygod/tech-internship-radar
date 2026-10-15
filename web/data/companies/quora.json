@@ -2,25 +2,25 @@
   "slug": "quora",
   "name": "Quora",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9405e869458a778e92b5b95482c81338814704c9",
+      "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
+      "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application",
+      "location": "Remote",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "d074c4abb68d2820ff6f7a8d41f466818293776f",
       "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",

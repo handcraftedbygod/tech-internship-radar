@@ -1,0 +1,57 @@
+{
+  "slug": "mercor",
+  "name": "Mercor",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-15T08:53:46.789Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "55e2c7b42ae73ad98e9842c18c24a5874786c56e",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
+    {
+      "id": "c48171e8a8b8adf4bcf1f122c0c2eecb967351e1",
+      "title": "Data Science Intern",
+      "url": "https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    }
+  ]
+}

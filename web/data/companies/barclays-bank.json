@@ -2,21 +2,21 @@
   "slug": "barclays-bank",
   "name": "Barclays Bank Plc",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c105f164b549b2187a0c69110a8bf50c1900d635",
+      "title": "Junior / Trainee AI Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566799696__7082?geoID=5349&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Broughton, United Kingdom",
+      "firstSeenAt": "2026-10-15T08:53:46.789Z"
+    },
     {
       "id": "a68e6ee3a04e1aec6a7c85e489b28d8aea319225",
       "title": "Junior AI Data Engineer — From Beginner to Job-Ready",
