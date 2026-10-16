@@ -1,22 +1,22 @@
 {
   "slug": "taktile",
-  "name": "taktile",
+  "name": "Taktile",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "541486fe3c0ea2c72bc185c66c61fa3d8ace1f4d",
+      "title": "Software Engineer Internship for HPI Students",
+      "url": "https://www.arbeitnow.com/jobs/companies/taktile/software-engineer-internship-for-hpi-students-berlin-396888",
+      "location": "Berlin Office",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "99ea68b7283ec583b9866a0338e00b1aef4ea16c",
       "title": "Software Engineer Internship for HPI Students",

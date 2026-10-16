@@ -2,9 +2,9 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -13,19 +13,19 @@
     },
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     },
     {
       "id": "biz",
@@ -43,11 +43,18 @@
     0,
     2,
     1,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5401c6606bd92e80a5a4f27cba3b24e31c72b2f8",
+      "title": "Backend Engineer - Internship (6 months)",
+      "url": "https://www.arbeitnow.com/jobs/companies/qonto/backend-engineer-internship-6-months-berlin-87068",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "67ba48dfa0953323a6981ffe505c04bbd66bc164",
       "title": "Backend Engineer - Internship (6 months)",

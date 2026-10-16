@@ -2,21 +2,21 @@
   "slug": "accompio",
   "name": "accompio GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-28T10:36:11.914Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e3748359a9b726cfc9b042934d8ce5395bedada5",
+      "title": "Werkstudent (m/w/d) Data Analytics / Business Intelligence - Wuppertal (Berufsspezialist/in - Datenanalyse)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTE5NTYtMzA2OTQyMTc5MjAxNTIwMS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "094c04c576747bb1aa68922ee97df6f8681bf18a",
       "title": "Werkstudent (m/w/d) Data Analytics / Business Intelligence - Wuppertal (Berufsspezialist/in - Datenanalyse)",

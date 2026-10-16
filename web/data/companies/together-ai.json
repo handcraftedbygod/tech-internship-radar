@@ -2,14 +2,14 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 14,
+  "totalPostings": 16,
   "avgPostingDurationDays": 17.9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "Amsterdam",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 14
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,25 @@
     0,
     1,
     13,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18f0ee9282d5c98471b3f75d291e483619f4d8b5",
+      "title": "Hardware Security Engineer, New Grad (2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "2495324cf621a408dcdabe6497c72684fba677e3",
+      "title": "Hardware Security Engineer Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "8cc66eee30e3abc19ff08a0749072eeab2bc4712",
       "title": "[Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering",
@@ -92,20 +111,6 @@
       "title": "Research Intern, Model Shaping (Winter 2027)",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
       "location": "San Francisco, Amsterdam",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "803c6deab1e6d78adc6d539f42cd767c236ebd5c",
-      "title": "Research Intern, Model Shaping (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
-      "location": "San Francisco, Amsterdam",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "c85176c545f81d3d9b438018af9772b43fa3ada0",
-      "title": "Research Intern, Inference (Winter 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007",
-      "location": "San Francisco",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "abridge",
   "name": "Abridge",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 38.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -38,11 +38,18 @@
     0,
     3,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a8e0e4bc6dfa698d522a8549dce15107f3ade1b",
+      "title": "Member of Technical Staff, Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e",
+      "location": "SF Office",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "3f6372ad4bd30165a60cc66ad4d080399c717838",
       "title": "Senior Early Career Recruiter",

@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 33,
+  "currentOpenings": 35,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 69,
+  "totalPostings": 71,
   "avgPostingDurationDays": 25.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 41
+      "count": 42
     },
     {
       "hub": "Madrid",
@@ -21,19 +21,19 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 54
+      "count": 55
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -51,11 +51,25 @@
     0,
     33,
     26,
-    10,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54c7f04845306996d7ad96a27853508c9bb6f7ba",
+      "title": "Junior/Middle Retail Sales Executive",
+      "url": "https://careers.glovoapp.com/job/junior-middle-retail-sales-executive-in-kyiv-ukraine-jid-744000155804924/",
+      "location": "Kyiv, Ukraine",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "ae5165510e79d1c2dd83e071e0040f74bd4f43f9",
+      "title": "Intern Brands Ads Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000155755749/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "a7673ad72fe28734b652f601ccbf4dd19e3d9ff3",
       "title": "Account Manager Intern - Q Commerce Catman",
@@ -111,20 +125,6 @@
       "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "ccd85e28b506cafb8376a1386e63f13d2cf0e012",
-      "title": "Intern Account Manager Top Accounts Spain",
-      "url": "https://careers.glovoapp.com/job/intern-account-manager-top-accounts-spain-in-madrid-spain-jid-744000153719071/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "58845dfbe05c0c351ffba8a91081be185562d9d3",
-      "title": "Intern Data Analyst I People Strategy Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-data-analyst-i-people-strategy-global-hq-in-barcelona-spain-jid-744000152474589/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
     }
   ]
 }

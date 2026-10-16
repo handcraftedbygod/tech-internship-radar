@@ -2,21 +2,21 @@
   "slug": "mirakllabs",
   "name": "mirakllabs",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0c18f4c1d50ffcf4908fcb7d9cde28b0bd3f24a8",
+      "title": "Software Engineer Intern - Financial Services",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-financial-services-paris-223168",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "3d70fe9334ac8338d03aaff9d65c929aef08c2d9",
       "title": "Data Scientist - Intern",

@@ -2,21 +2,21 @@
   "slug": "adria-solutions",
   "name": "Adria Solutions Ltd",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98dd3f0b719508fd57b6a927442a614193a4b76b",
+      "title": "Junior DevOps/MLOps Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5928851302?utm_medium=api&utm_source=freehire.me",
+      "location": "Poynton, Stockport",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "848bd8316aa94820d5a219b5ce6eda8c7dfcca87",
       "title": "Junior DevOps / MLOps Engineer",

@@ -1,0 +1,45 @@
+{
+  "slug": "airbnb",
+  "name": "Airbnb",
+  "tier": "notable",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-16T08:47:32.449Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3f819d1311397efcc92f16189400073716dbbec4",
+      "title": "Strategic Finance & Analytics Intern (MBA)",
+      "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
+      "location": "United States",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    }
+  ]
+}

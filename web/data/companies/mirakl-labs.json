@@ -2,9 +2,9 @@
   "slug": "mirakl-labs",
   "name": "Mirakl - Labs",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f33f4f952744b8bc75a1773807fec7964ab993de",
+      "title": "Software Engineer Intern - Ads",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-bordeaux-410270",
+      "location": "Bordeaux, France",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "e405b6cea8f6cf0a2ad5ee4af196251c9ca08b59",
       "title": "Software Engineer Intern - Financial Services",

@@ -2,14 +2,14 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -39,11 +39,18 @@
     0,
     0,
     12,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bee30b4aeb19446e7f429f3d87fb4e22df6774ff",
+      "title": "APAC Marketing Operations Intern (Japanese required)",
+      "url": "https://jobs.ashbyhq.com/backmarket/9c27f185-5f20-4676-a398-d2126ce26d99",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "b62c20d064a4908c8c83f28c3ecbed8c88bec05b",
       "title": "Tracking Specialist Intern",
@@ -106,13 +113,6 @@
       "url": "https://jobs.ashbyhq.com/backmarket/9cbdc249-81a5-476d-a365-4f457efc4a8c",
       "location": "Paris",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "d115f7967694a83db568b73ea985f23962da7306",
-      "title": "Payment Performance Analyst Intern",
-      "url": "https://jobs.ashbyhq.com/backmarket/793ce50e-870e-48d0-9c47-a79b08158ce7",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]
 }

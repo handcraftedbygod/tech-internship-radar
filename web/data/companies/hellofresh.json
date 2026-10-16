@@ -2,10 +2,10 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 33,
-  "avgPostingDurationDays": 21.3,
+  "totalPostings": 35,
+  "avgPostingDurationDays": 22.2,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -24,8 +24,8 @@
       "count": 4
     },
     {
-      "hub": "Dublin",
-      "count": 2
+      "hub": "Paris",
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -37,7 +37,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 12
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,25 @@
     5,
     8,
     14,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "149d598352b26366e5943f8328b0fa3ce3e6e6ab",
+      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
+      "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587&utm_source=freehire.me",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "940204d4e885ef501ea881bc530e9e2eff166690",
+      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
+      "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "fb1532d634df60cc50c3cd2b3da7af4c70d034b3",
       "title": "Junior Operations Manager",
@@ -110,20 +124,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8158759?gh_jid=8158759",
       "location": "Dublin, Dublin, Ireland",
       "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "afe6f39dc7ad47aef38bd44df91feeb8beeb3782",
-      "title": "Category Management Intern (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8234103?gh_jid=8234103",
-      "location": "London, England, United Kingdom",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "081351f4ef26c0eba0151452f0b645760c53fd22",
-      "title": "Supply Chain Planning Working Student (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8230924?gh_jid=8230924",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

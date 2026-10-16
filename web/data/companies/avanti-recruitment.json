@@ -2,14 +2,14 @@
   "slug": "avanti-recruitment",
   "name": "Avanti Recruitment",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c9d04ea0b30822ee374aec4bd73681b5e7227c3e",
+      "title": "Hybrid Junior Platform Engineer – Cloud & DevOps",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__570677581__7082?geoID=595&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Staines upon Thames, United Kingdom",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "7ba152bee445895fb6caeb8d7d587fd210fe291a",
       "title": "Junior Platform Engineer",

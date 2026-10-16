@@ -2,18 +2,18 @@
   "slug": "duolingo",
   "name": "Duolingo",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 16.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,12 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,32 @@
     0,
     0,
     3,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9b41fbb4c541fb000f02290ad889088e45b35a20",
+      "title": "Product Manager, MBA Intern",
+      "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "653ace82efeae14c09e569d474c76c65dfa7e929",
+      "title": "Data Scientist, Intern (PhD)",
+      "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "location": "New York, NY; Pittsburgh, PA",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "16d613f701b1a1c441f7a9acd3f1830ac142f5a2",
+      "title": "Data Scientist, Intern",
+      "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+      "location": "New York, NY; Pittsburgh, PA",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "f848f855a02d5acb3fb323ae84dcc9af8bfdaf83",
       "title": "Illustrator, Intern",

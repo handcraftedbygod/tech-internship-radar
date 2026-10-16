@@ -2,21 +2,21 @@
   "slug": "qa-roast",
   "name": "QA Roast",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "40eefc4fa569b2cca271328fbf6be62e0689462c",
+      "title": "Junior Full-Stack JavaScript Developer",
+      "url": "https://djinni.co/jobs/852518-junior-full-stack-javascript-developer/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "4b6e7a101d5e4962ea05a774676b006c976c9571",
       "title": "Junior Full-Stack JavaScript Developer",

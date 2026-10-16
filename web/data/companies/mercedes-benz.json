@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 37,
+  "totalPostings": 40,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 33
     },
     {
       "hub": "Stuttgart",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 25
     },
     {
       "id": "ai",
@@ -50,11 +50,32 @@
     0,
     19,
     10,
-    8,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "354f07ba498a364380396024f2e5c782d90d9caf",
+      "title": "Werkstudent*in People & Enterprise Tech, Research & Development, Backend Solutions",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643587-1-S",
+      "location": "Böblingen",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "3dafd48db48e8ca9f2bb47dfc7381dc3d1ea2aee",
+      "title": "Praktikant*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631992-2-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
+    {
+      "id": "9ab74ea9bfd94a2fccfa434f488cbdd163a929d4",
+      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631999-2-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "c794d69676061534929498c8469f7309dfed7a8e",
       "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
@@ -103,27 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-2-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "c4954d403bdc659dc80939855a44d265ca0b133d",
-      "title": "Praktikant*in Software & KI für Elektrofahrzeuge",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638250-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "f2c942ec509d1680da1984e703e0411684f91ae6",
-      "title": "Praktikant*in Charging System Validation, Lifecycle & Data Analytics",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1636859-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "ff4e33f33457921e25237c903dfdfd983bc0121b",
-      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1635501-1-S?utm_source=freehire.me",
-      "location": "Stuttgart, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Barcelona",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +42,18 @@
     0,
     4,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6f9f13b99ba8ec6e2f6747f35b1d35154f1938d5",
+      "title": "Junior Custom Software Developer - RDT Data Platforms",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284?utm_source=freehire.me",
+      "location": "Warsaw",
+      "firstSeenAt": "2026-10-16T08:47:32.449Z"
+    },
     {
       "id": "c5fee4c022447ef9353781e253b0c28e87511f6f",
       "title": "Workforce Optimization / Strategies (Data Science) Intern",
