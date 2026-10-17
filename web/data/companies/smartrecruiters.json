@@ -2,9 +2,9 @@
   "slug": "smartrecruiters",
   "name": "SmartRecruiters, Inc.",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
@@ -12,12 +12,12 @@
       "count": 3
     },
     {
-      "hub": "Paris",
+      "hub": "Dublin",
       "count": 2
     },
     {
-      "hub": "Dublin",
-      "count": 1
+      "hub": "Paris",
+      "count": 2
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -41,11 +41,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ccc14dbb8570ae98a804aeafa140c5c59506f86",
+      "title": "Software Engineer Intern 2026/2027",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6159891__7127?geoID=253&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "947a4bd6126deb9b75f8d4220c3bf4513310f76b",
       "title": "Junior Cloud DevOps Engineer – Azure Based",

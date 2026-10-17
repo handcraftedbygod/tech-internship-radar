@@ -2,21 +2,21 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 3
     },
     {
       "id": "swe",
@@ -34,11 +34,25 @@
     0,
     2,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56e53336a7d3830bbfbe065edc73d6e3e0953705",
+      "title": "Junior Software Engineer,  C embedded - Tieto Tech Consulting (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000155417129-junior-software-engineer-c-embedded-tieto-tech-consulting-m-f-d-?utm_source=freehire.me",
+      "location": "Szczecin, West Pomeranian Voivodeship, pl",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "5bb5cbd3f70059726fb2ec16c08fa750cb8efb71",
+      "title": "Junior Software Engineer, C Embedded- Tieto Tech Consulting (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000155915649-junior-software-engineer-c-embedded-tieto-tech-consulting-m-f-d-?utm_source=freehire.me",
+      "location": "Szczecin, West Pomeranian Voivodeship, pl",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "0b81fe16375539ba51ec0622d047e58e385a1a12",
       "title": "Junior Software Engineer - Tieto Caretech (m/f/d)",

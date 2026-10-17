@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 40,
+  "totalPostings": 41,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 33
+      "count": 34
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 15
+      "count": 16
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     0,
     19,
     10,
-    11,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e0ca3f4102fa5b17e1cd090cd7f472859e3f9a7",
+      "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
+      "url": "https://jobs.mercedes-benz.com/praktikant---data-analytics-business-intelligence-m-w-d--242218-J000242218?utm_source=freehire.me",
+      "location": "Leinfelden-Echterdingen, Germany",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "354f07ba498a364380396024f2e5c782d90d9caf",
       "title": "Werkstudent*in People & Enterprise Tech, Research & Development, Backend Solutions",
@@ -115,13 +122,6 @@
       "id": "7fa4e4ea10c79bc3e55c3dde39c7b9a5b0f96478",
       "title": "Werkstudent*in Agiles Programmmanagement Automotive Software-Plattform",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638801-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "893d2b6e64c09a7f7fe7d31b4eb870c163a1c23f",
-      "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-2-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }

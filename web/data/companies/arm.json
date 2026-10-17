@@ -2,14 +2,14 @@
   "slug": "arm",
   "name": "ARM",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Munich",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     0,
     2,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6073a5af5ec3435a20cbc7c8a3107959dbf4a4e6",
+      "title": "Software Engineering Intern – Workflow Monitoring and Analytics",
+      "url": "https://careers.arm.com/job/sophia-antipolis/software-engineering-intern-workflow-monitoring-and-analytics/33099/102035670144?utm_source=freehire.me",
+      "location": "Sophia Antipolis, France",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "a92d376b898a21fefc052f675f4143022f15cb60",
       "title": "Data Analytics Intern",

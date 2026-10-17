@@ -2,14 +2,14 @@
   "slug": "snowflake",
   "name": "Snowflake",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Warsaw",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -46,11 +46,18 @@
     0,
     1,
     7,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "91255715b7b5549a228428a073b34a672daadde9",
+      "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
+      "url": "https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "5a079a0e31657a983b4f9d5563320d4751f6ee5d",
       "title": "Software Engineer Intern - Zurich (2026)",
@@ -113,13 +120,6 @@
       "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
       "location": "US-WA-Bellevue",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "1d6780da268749b169fcaf1e4dc39cd469e1ede5",
-      "title": "Software Engineer Intern - Warsaw Security ",
-      "url": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be?utm_source=freehire.me",
-      "location": "PL-Warsaw-Lixa C",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

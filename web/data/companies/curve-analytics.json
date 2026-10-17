@@ -2,21 +2,21 @@
   "slug": "curve-analytics",
   "name": "Curve Analytics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b31bdd1bf22f8810b3949fcdc5ed4b6c19244b5d",
+      "title": "Junior Data Engineer — Hybrid Cloud Pipelines & AI",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__572887817__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "2d1c863cb51e5ea2985b80f40ce5ccb287e92d88",
       "title": "Junior Data Engineer",

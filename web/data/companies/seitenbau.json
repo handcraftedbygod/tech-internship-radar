@@ -2,21 +2,21 @@
   "slug": "seitenbau",
   "name": "SEITENBAU GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c9cc3223918f97d1bbf4a68442622c8370c4ca0",
+      "title": "Junior Java Developer (m/w/d) - Konstanz (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTgtU0RFLTEyNjU0NS1TVEEtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "a67e980974d11ee5f1da157b864f0b4403c07263",
       "title": "Junior Java Developer (m/w/d) - Konstanz (Softwareentwickler/in)",

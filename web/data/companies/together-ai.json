@@ -2,14 +2,14 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": 17.9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 16
     },
     {
       "id": "hw",
@@ -38,11 +38,25 @@
     0,
     1,
     13,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "687c4691a31c0e8a87b0dbdefacb6023e98f1cf6",
+      "title": "Research Intern, Frontier Speculative Decoding (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "0617ffb8acaf0fcd4db2ef76b5756169a967c996",
+      "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "18f0ee9282d5c98471b3f75d291e483619f4d8b5",
       "title": "Hardware Security Engineer, New Grad (2027)",
@@ -97,20 +111,6 @@
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
       "location": "San Francisco",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "d64807a87f9fb5068430060763421c8890faaf7e",
-      "title": "Software Development In Test Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
-      "location": "San Francisco",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "b7e5c78c195ccfc73453a03b8c3a76a14bc0f40e",
-      "title": "Research Intern, Model Shaping (Winter 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-      "location": "San Francisco, Amsterdam",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]

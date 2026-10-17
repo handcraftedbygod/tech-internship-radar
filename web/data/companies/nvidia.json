@@ -4,8 +4,8 @@
   "tier": "elite",
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 13.1,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
@@ -14,13 +14,17 @@
     {
       "hub": "Munich",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +42,18 @@
     0,
     2,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ae0de1d587314b2aa244235657c696477d2be14",
+      "title": "Developer Tools DevOps Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826?utm_source=freehire.me",
+      "location": "Poland, Warsaw",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "4e39b4e262a8731de3cfdc641840464d9c48d106",
       "title": "AI Developer Technology Intern - 2027",

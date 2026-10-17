@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 35,
+  "currentOpenings": 36,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 71,
-  "avgPostingDurationDays": 25.3,
+  "totalPostings": 73,
+  "avgPostingDurationDays": 24.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 42
+      "count": 43
     },
     {
       "hub": "Madrid",
@@ -21,19 +21,19 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 55
+      "count": 56
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -51,11 +51,25 @@
     0,
     33,
     26,
-    12,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87d20f5d62cdf9b6c5cb5b96a22167d9af602d3f",
+      "title": "Junior/Middle Retail Sales Executive",
+      "url": "https://careers.glovoapp.com/job/junior-middle-retail-sales-executive-in-kyiv-ukraine-jid-744000156032999/",
+      "location": "Kyiv, Ukraine",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "5a4df5b2a137f36d9613e96af66188f476974909",
+      "title": "Intern Retail Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "54c7f04845306996d7ad96a27853508c9bb6f7ba",
       "title": "Junior/Middle Retail Sales Executive",
@@ -111,20 +125,6 @@
       "url": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "2931cdfeb1d08996936dc8ce63b79da85503d233",
-      "title": "Courier Growth Intern",
-      "url": "https://careers.glovoapp.com/job/courier-growth-intern-in-barcelona-spain-jid-744000154024946/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "baa7f122384afc0fa8f639311fecbe1d8aab5bed",
-      "title": "Intern Regions Spain",
-      "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-barcelona-spain-jid-744000153815878/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]
 }

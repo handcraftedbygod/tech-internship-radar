@@ -2,20 +2,25 @@
   "slug": "alcon",
   "name": "Alcon",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95261afe79e1775d3f3c39c5a1be8f1354e66cf5",
+      "title": "Junior Data Scientist",
+      "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Warszawa-Poland/Junior-Data-Scientist_R-2026-50315-1?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "914536c7be77cc88904312854fa575083069c760",
       "title": "Data Analyst Trainee – Vision Care",

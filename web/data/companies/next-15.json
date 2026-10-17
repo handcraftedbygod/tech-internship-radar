@@ -2,13 +2,17 @@
   "slug": "next-15",
   "name": "Next 15 Group plc",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e0c951602909100b6ce53b6299f2368fc390f4e",
+      "title": "Junior Frontend Developer",
+      "url": "https://careers.next15.com/jobs/8556370-junior-frontend-developer?utm_source=freehire.me",
+      "location": "Leicester, GB",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "f7d6c49c560f6b25b5ca5328aa9d13b9e8bd4776",
       "title": "Programmer (Entry Level) – SQL &amp; Data Programming",

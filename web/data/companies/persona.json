@@ -2,20 +2,25 @@
   "slug": "persona",
   "name": "Persona",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0f4e37d7ddd1d5a660de806468e2a415c343a9f",
+      "title": "Product Design, Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "8fc7c4ff0ddf5540298cdcd3df8563d88deb3551",
       "title": "Software Engineer, Intern (Summer 2027) ",

@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
@@ -18,6 +18,10 @@
     {
       "hub": "Paris",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -29,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -42,11 +46,18 @@
     0,
     0,
     2,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1128bcf38f5434803707d256ea14bc9032800c83",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "e791283c3009591426465cdde41584b87759b83a",
       "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",

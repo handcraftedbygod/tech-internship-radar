@@ -2,14 +2,14 @@
   "slug": "castleton-commodities-international",
   "name": "Castleton Commodities International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "London",
-      "count": 7
+      "count": 9
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 10
     },
     {
       "id": "swe",
@@ -42,11 +42,25 @@
     0,
     10,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f146015d72697f2d76f83ad178f2e7d05f2dddb2",
+      "title": "Data Engineering Internship (Summer 2027)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__572887545__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "5afb255e7c9827443df99f11f894c88398f26def",
+      "title": "Data Engineering Intern: Cloud Pipelines & Snowflake",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__572887435__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "4549377aa787597f9034d97bb65c4ff0375fe07a",
       "title": "Data Engineering Internship",
@@ -102,20 +116,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5839364216?utm_medium=api&utm_source=freehire.me",
       "location": "The City, Central London",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "98e166de08adb191a01f25a22d98682a35602d52",
-      "title": "Data Engineering Intern",
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
-      "location": "Stamford, CT, Houston, TX, New York City, NY",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "ff3b6cdb81828ac0c11003e1c938b30de923d692",
-      "title": "Data Science Machine Learning Intern",
-      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
-      "location": "Stamford, CT, Houston, TX, New York City, NY",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 18,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 35,
-  "avgPostingDurationDays": 22.2,
+  "totalPostings": 38,
+  "avgPostingDurationDays": 22.8,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Other",
@@ -20,24 +20,24 @@
       "count": 5
     },
     {
-      "hub": "Amsterdam",
-      "count": 4
+      "hub": "Paris",
+      "count": 5
     },
     {
-      "hub": "Paris",
-      "count": 3
+      "hub": "Amsterdam",
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 23
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 14
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,32 @@
     5,
     8,
     14,
-    8,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3e2c9cf525025343efce9617e4ebeca6f3b628d",
+      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hellofresh/growth-strategy-data-analyst-intern-paris-paris-293261",
+      "location": "Paris, Paris",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "e3682c967c8b7be776776d8a20d70cd87ecbcf09",
+      "title": "Junior Sourcing Specialist",
+      "url": "https://careers.hellofresh.com/global/en/job/8288720?gh_jid=8288720",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "0d7cfb7269af30ac36df0aba6388d19bad39de61",
+      "title": "Junior Category Manager ",
+      "url": "https://careers.hellofresh.com/global/en/job/8276110?gh_jid=8276110",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "149d598352b26366e5943f8328b0fa3ce3e6e6ab",
       "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
@@ -103,27 +124,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8259742?gh_jid=8259742",
       "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "ba5cbea5d4446f8d6de3e4647045fec21dab3b70",
-      "title": " Junior Photographer (x/f/m)",
-      "url": "https://careers.hellofresh.com/global/en/job/8141855?gh_jid=8141855",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "354051541d4060ab9ee7660afeaf43256295500a",
-      "title": "Physical Product Planning Intern (all genders)",
-      "url": "https://careers.hellofresh.com/global/en/job/8232841?gh_jid=8232841",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "7cb577ef491fd7b625382d950fcd46ef0535d2b9",
-      "title": "Junior Operations Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8158759?gh_jid=8158759",
-      "location": "Dublin, Dublin, Ireland",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
     }
   ]
 }

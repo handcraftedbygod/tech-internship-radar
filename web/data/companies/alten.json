@@ -2,14 +2,14 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Stuttgart",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5afd045044758965d495168872ad9f829eba8d1a",
+      "title": "Junior Software Developer C/C++ (all gender)",
+      "url": "https://jobs.smartrecruiters.com/ALTEN/744000155966274-junior-software-developer-c-c-all-gender-?utm_source=freehire.me",
+      "location": "Böblingen, BW, de",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "cc94497cc3c35f36f81166adc239575da3cab256",
       "title": "(Junior) AI Software Engineer (all gender)",

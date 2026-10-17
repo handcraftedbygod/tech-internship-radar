@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1da80ea9e0cc3023c6cc98f2e5f69427b198ea46",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "e42ba648fe287390c22f102831bf064d485ff9ae",
       "title": "GPU Software Engineering Intern",

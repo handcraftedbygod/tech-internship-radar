@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 11.3,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     4,
     3,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee05a82ead1e6e3decb8b52b3619f58478d39fb0",
+      "title": "Software Development Intern – Banking Technology",
+      "url": "https://www.adzuna.co.uk/jobs/details/5931462290?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "4b74a3f44fde6d0d9b778eaae550b5108846174b",
       "title": "Software Development Intern – Banking Technology",
@@ -100,13 +107,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5846144364?utm_medium=api&utm_source=freehire.me",
       "location": "Surrey, South East England",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "136f90b959a0032939014be89cac8e3fe7638a3d",
-      "title": "Back-End Developer/Java Engineer Internship in Surrey - The Opportunity Hub UK",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__447702168__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "United Kingdom",
-      "firstSeenAt": "2026-08-10T05:27:06.486Z"
     }
   ]
 }

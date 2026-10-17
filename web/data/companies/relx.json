@@ -2,14 +2,18 @@
   "slug": "relx",
   "name": "relx",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Karlsruhe",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7827204a34ce5909f7771773556b6e14e889bfde",
+      "title": "Intern Data Engineering",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/Germany---Karlsruhe/Intern-Data-Engineering_R119275-1?utm_source=freehire.me",
+      "location": "Germany - Karlsruhe",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "ac2a68ab048524d0897376c545c3317b69bac529",
       "title": "Junior Software Engineer",

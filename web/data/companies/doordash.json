@@ -2,9 +2,9 @@
   "slug": "doordash",
   "name": "DoorDash",
   "tier": "notable",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -31,6 +35,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,11 +52,18 @@
     0,
     0,
     4,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e002f46765d8242be6dc81cc15c96c7b77d9b7a9",
+      "title": "Electrical Engineer, Intern - Labs (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+      "location": "Oakland, CA",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "fef855fa0560d7aeaf241567a27578e4875d5f85",
       "title": "Software Engineer, Intern - Labs (Summer 2027)",

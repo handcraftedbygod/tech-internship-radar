@@ -2,13 +2,17 @@
   "slug": "lexisnexis-risk-solutions",
   "name": "LexisNexis Risk Solutions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Karlsruhe",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e634a7fb3ffded55ae0da7cf9f91ff23580253b9",
+      "title": "Intern Data Engineering",
+      "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Germany---Karlsruhe/Intern-Data-Engineering_R119275?utm_source=freehire.me",
+      "location": "Germany - Karlsruhe",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "454f55e0a3761c2b373da764e5e4c946e07a630b",
       "title": "Junior Software Engineer",

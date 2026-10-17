@@ -1,0 +1,59 @@
+{
+  "slug": "bluetown",
+  "name": "Bluetown",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-17T08:18:10.076Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f71cc7675cd7b8489c8f7d94a98634a5bf1829de",
+      "title": "Junior Software Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-software-engineer/57467780",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "b99e77541881aebe8124e5b7bde932096a0c34e7",
+      "title": "Junior Software Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-software-engineer/57467780?utm_source=freehire.me",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "ab1b61a072380adcf0cbddf5b6aabcc4ead34722",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5931059674?se=VH_aWvPJ8RGgtZ9SIcCqmg&utm_medium=api&utm_source=freehire.me&v=BF030D04F908336D9C351E81E3382BF158235890",
+      "location": "Birmingham, West Midlands",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    }
+  ]
+}

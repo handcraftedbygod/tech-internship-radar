@@ -2,25 +2,30 @@
   "slug": "electronic-arts",
   "name": "Electronic Arts",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 12,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 11.6,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
     {
       "hub": "Stockholm",
       "count": 2
-    },
-    {
-      "hub": "Other",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7973e90be18e5a7d3ffb9aba6500a2426d94fa69",
+      "title": "Software Engineer Intern - Gameplay/UI",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190?utm_source=freehire.me",
+      "location": "Birmingham, West Midlands, United Kingdom",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
+    {
+      "id": "8bde71ac79693ff22901f3e4c2c1b934ab163511",
+      "title": "Client/AI Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364?utm_source=freehire.me",
+      "location": "Manchester, Cheshire, United Kingdom",
+      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+    },
     {
       "id": "9d29fe0d9296a23a97347f44433116db2741b44d",
       "title": "Master Thesis Software Engineer Intern",
