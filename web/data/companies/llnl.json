@@ -1,0 +1,59 @@
+{
+  "slug": "llnl",
+  "name": "LLNL",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fb2f1c6eba682f92a227d200dfcca148e10238d1",
+      "title": "Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute",
+      "url": "https://jobs.smartrecruiters.com/llnl/3743990016165496",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "69f58d3d69578614d60da3a300dc72d7e39e323a",
+      "title": "Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute",
+      "url": "https://jobs.smartrecruiters.com/llnl/3743990016165636",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "5d899b048078fd7421a635b9618a049b77550eef",
+      "title": "HPC Cluster Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/llnl/3743990016166026",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

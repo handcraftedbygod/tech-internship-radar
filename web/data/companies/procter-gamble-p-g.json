@@ -2,9 +2,9 @@
   "slug": "procter-gamble-p-g",
   "name": "Procter & Gamble (P&G)",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Paris",
       "count": 1
+    },
+    {
+      "hub": "Lisbon",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -38,11 +42,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3976ad986b66938f51042ad5a0d03f2c76ebd271",
+      "title": "Data Engineer Internship (m/f/x)",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204?utm_source=freehire.me",
+      "location": "LISBON GENERAL OFFICE",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "410d0aab9b1ac6f16c02b24e434e501661bc532f",
       "title": "Analysis & Insights Internship (Stagiaire Data Analyst)",

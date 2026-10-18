@@ -2,9 +2,9 @@
   "slug": "google",
   "name": "Google",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
@@ -22,6 +22,10 @@
     {
       "hub": "Munich",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -33,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -46,11 +50,18 @@
     0,
     4,
     2,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4a830dac8aa6ff3d56bea6f930a2e0dc8cc6d34",
+      "title": "Forward Deployed Engineering Intern",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "f2dbb925cfba54eb55ef5d32139ffc63f7d9ce3f",
       "title": "Data Scientist Product MS Intern, 2027",

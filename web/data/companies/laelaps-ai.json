@@ -2,21 +2,21 @@
   "slug": "laelaps-ai",
   "name": "Laelaps AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1ab92981f6f4cc0b9d1ee7f2165ae40e6c6906d",
+      "title": "Software Engineer, Robot Autonomy (Multi Agent Orchestration), Intern",
+      "url": "https://jobs.ashbyhq.com/laelaps/f633fdd6-a282-42d3-8acb-b7db5bbd7ec5?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "bf5d05ad690f75d83bc6435a663a7288d07daf73",
       "title": "Software Engineer, Robot Autonomy, Intern",

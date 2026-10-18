@@ -2,14 +2,14 @@
   "slug": "vertiv",
   "name": "Vertiv",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,16 @@
       "id": "product",
       "label": "Product",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +39,25 @@
     0,
     2,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d1ab8c1a7735cf5c3f2a812356645e3e534b5f3",
+      "title": "UI/UX Design Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371",
+      "location": "Delaware, OH",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "85fe7caa2c1ac41dd09a6f4d4888912b5a54603a",
+      "title": "Data Analytics Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852",
+      "location": "Delaware, OH",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "a66a16e561fe7b2ac92a7a26b785ca4cc47ae227",
       "title": "Product Management Intern",

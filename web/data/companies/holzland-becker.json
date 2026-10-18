@@ -2,21 +2,21 @@
   "slug": "holzland-becker",
   "name": "Holzland Becker",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92e6eec9b96f1f73802c5a2556689f1a5215ebf9",
+      "title": "Werkstudent (w/m/d) Software Development",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-software-development-offenbach-am-main-264973",
+      "location": "Offenbach am Main, Hessen, Deutschland",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "f1b4a552e8a33caf65072ae67706206df8ba51e2",
       "title": "Werkstudent (w/m/d) Data Science",

@@ -1,0 +1,76 @@
+{
+  "slug": "susquehanna-international",
+  "name": "Susquehanna International Group",
+  "tier": "trading",
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "409a951e473af9e20560215d655014ca15fb7cf3",
+      "title": "Technical Business Analyst Co-op",
+      "url": "https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job",
+      "location": "Remote (US)",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "5b4e54345df8ad5f2ce4d44517ca65f1afc02479",
+      "title": "Business Analytics AI Co-op",
+      "url": "https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job",
+      "location": "Remote (US)",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "3a0cede8e84d785c0ad47c0fbdd43349c0bc8315",
+      "title": "Technology Co-op",
+      "url": "https://careers-sig.icims.com/jobs/11654/technology-co-op-with-drexel-university/job",
+      "location": "Remote (US)",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "a4571456c57d9391e03c2d6660e354e877676e11",
+      "title": "Sell Side Research Rotational Program Intern",
+      "url": "https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job",
+      "location": "Remote (US)",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

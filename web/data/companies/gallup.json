@@ -1,0 +1,45 @@
+{
+  "slug": "gallup",
+  "name": "Gallup",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9a4725a13d3b2eb10b190a77ddf9181135b08513",
+      "title": "Data Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

@@ -2,20 +2,25 @@
   "slug": "emerging-travel",
   "name": "Emerging Travel Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fedc9d4ac969c01d837309d020c54f2beda1d274",
+      "title": "Junior DevOps Engineer",
+      "url": "https://t.me/zarubezhom_jobs/4306?utm_source=freehire.me",
+      "location": "Португалия",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "bf7e616f3bc9d1a4315c82f6a72f4d643e344233",
       "title": "Junior Data Analyst (Finance Analytics team)",

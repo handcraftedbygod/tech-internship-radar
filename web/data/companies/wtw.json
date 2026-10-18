@@ -2,11 +2,15 @@
   "slug": "wtw",
   "name": "WTW",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -20,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     },
     {
       "id": "swe",
@@ -38,11 +42,25 @@
     0,
     0,
     1,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dbdce4f8c4b32b2bd72a607cf71a88ab20655a0b",
+      "title": "Risk & Analytics Enterprise Risk Consulting Intern",
+      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606636",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "a1d5438c0f86fd70b377e836ee12d720ae5372e7",
+      "title": "Risk & Analytics Core Intern",
+      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606637",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "1385396714b394679680d7488210d061d669967d",
       "title": "2027 Software Developer Internship – Reigate",

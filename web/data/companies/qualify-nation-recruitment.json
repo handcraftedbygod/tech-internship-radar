@@ -2,21 +2,21 @@
   "slug": "qualify-nation-recruitment",
   "name": "Qualify Nation Recruitment",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 71.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6347b4f4beff52b8b3a6ef6c534072a506c716c",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57464598?utm_source=freehire.me",
+      "location": "Leicester",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "7e6cfad6ced94feaa4b9f548d3967ac03eebf3ab",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",

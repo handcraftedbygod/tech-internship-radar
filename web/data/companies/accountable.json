@@ -1,0 +1,52 @@
+{
+  "slug": "accountable",
+  "name": "Accountable",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "651217b2be3a8a61eec489b6ee85b2a99d955989",
+      "title": "Junior DVN Backend Engineer",
+      "url": "https://accountable.capital/careers/junior-dvn-backend-engineer-eu?utm_source=freehire.me",
+      "location": "European timezone",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "542d6faade27d4a3c51c79ad5801f21e147a55cc",
+      "title": "Junior Backend Software Engineer",
+      "url": "https://accountable.capital/careers/junior-backend-software-engineer?utm_source=freehire.me",
+      "location": "European timezone",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

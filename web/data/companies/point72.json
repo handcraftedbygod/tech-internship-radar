@@ -2,17 +2,22 @@
   "slug": "point72",
   "name": "Point72",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
     {
       "id": "quant",
       "label": "Quant",
@@ -34,11 +39,32 @@
     0,
     1,
     1,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b4b9a6d57412579cdb412eb171f143d6500a3e8c",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "fede51feba541921bf1524776f853ba64a5a9d17",
+      "title": "Fundamental Researcher Intern, Canvas",
+      "url": "https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "8208147a3b6303bc4da97e22d0e8c2a5fa351fdf",
+      "title": "Data Research Fellowship",
+      "url": "https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "a80f9dbaf01e7aad52b99ce3fcbe6b4b4e62bf4c",
       "title": "2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research",

@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
@@ -12,12 +12,12 @@
       "count": 3
     },
     {
-      "hub": "Zurich",
+      "hub": "Paris",
       "count": 2
     },
     {
-      "hub": "Paris",
-      "count": 1
+      "hub": "Zurich",
+      "count": 2
     },
     {
       "hub": "London",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -46,11 +46,18 @@
     0,
     0,
     2,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "671a66f842166441b9f23a05a4d59e541120dfe8",
+      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "1128bcf38f5434803707d256ea14bc9032800c83",
       "title": "Software Engineering Intern, Apple Services Engineering",

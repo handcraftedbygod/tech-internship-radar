@@ -1,0 +1,52 @@
+{
+  "slug": "cboe-global-markets",
+  "name": "Cboe Global Markets",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8a110739f49e5ec8c63dd552a75398f2b993d9e1",
+      "title": "Data Pipeline Engineer Intern",
+      "url": "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Data-Pipeline-Engineer-Intern_R-4738",
+      "location": "Kansas City, MO",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "f21a4c3c4586a2c0d02ae7c6496e5f992768c378",
+      "title": "Software Engineer Intern, C++",
+      "url": "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+      "location": "Kansas City, MO",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

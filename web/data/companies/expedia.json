@@ -2,13 +2,17 @@
   "slug": "expedia",
   "name": "Expedia Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Seattle",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc53027b8fa25da16ec46e8f7abb69b24a575bef",
+      "title": "Security Engineering Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "b7b88fa1fa1e96ec63a1096d650f9dd9a68b12a1",
       "title": "Software Development Engineering Intern - 2027 - London",

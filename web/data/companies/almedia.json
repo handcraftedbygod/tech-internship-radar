@@ -2,14 +2,14 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9504f0ecf3ea47b0ad4e762b3a6848f3d5096952",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-data-scientist-berlin-448340",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "a2022e74423a53450e0aecd29220432399774ebc",
       "title": "Junior Data Scientist",

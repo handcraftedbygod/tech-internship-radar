@@ -2,29 +2,29 @@
   "slug": "london-stock-exchange",
   "name": "London Stock Exchange Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "London",
+      "count": 2
     },
     {
-      "hub": "London",
+      "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "672e6faa0f2c0e074ab4125539ec65c4b9b26b3d",
+      "title": "Summer Software Engineer Intern — Python, Cloud & Data Quality",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__576048830__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "7ee4ac2e3aa19a60f0e06bc3211161dd6a92b42d",
       "title": "Intern - Software Engineer",

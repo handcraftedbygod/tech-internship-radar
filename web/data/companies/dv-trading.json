@@ -2,21 +2,25 @@
   "slug": "dv-trading",
   "name": "DV Trading",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Chicago",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5f956833387de7e57277ba48815b8b7bb208c269",
+      "title": "Data Center Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742962005",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "e1f2a9c098c959aaec49073600d379ca1684cf28",
       "title": "Security Engineer Intern - Summer 2027",

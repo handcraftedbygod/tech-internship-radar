@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 12,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 27,
+  "totalPostings": 28,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "San Francisco",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     1,
     4,
     6,
-    16,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4fe0c04a68b6bbee5e78fbee2fd1f2692ad7d3e",
+      "title": "Solution Engineer Intern",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "5707be23df41b0038e766c0f1f314cec8833d239",
       "title": "Commercial Graduate Program - Solution Engineering Path - Dutch Speaking Market",
@@ -115,13 +122,6 @@
       "id": "7e545ac2c3f27c16712c0d87b6909b2fcdcc9413",
       "title": "Commercial Graduate Program - Sales Path - French Speaking Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---French-Speaking-Market_JR363213-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "826210bc1d90812d9e30a4f554edef9c5ecb2c5c",
-      "title": "Commercial Graduate Program - Sales Path - Hebrew Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Hebrew-Market_JR363315-2",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }

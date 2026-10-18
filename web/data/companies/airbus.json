@@ -2,14 +2,14 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     3,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64e8139f0a3f9e55e1bc96722189b3cb15dd2b42",
+      "title": "Tool Technology and Development Engineering Intern",
+      "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236",
+      "location": "Mobile Area, AL",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "ea26a1629c12096f0b62492e3ab0e32b72a7dbaf",
       "title": "Junior Data Analyst and AI Specialist (h/f)",

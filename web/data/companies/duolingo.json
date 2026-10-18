@@ -2,9 +2,9 @@
   "slug": "duolingo",
   "name": "Duolingo",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 16.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -23,13 +23,13 @@
       "count": 3
     },
     {
-      "id": "product",
-      "label": "Product",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 2
     }
   ],
@@ -43,11 +43,18 @@
     0,
     0,
     3,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd13fad097d167cbd23b32abee85bdd4239e7105",
+      "title": "Data Scientist Intern",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002",
+      "location": "Pittsburgh, PA, New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "9b41fbb4c541fb000f02290ad889088e45b35a20",
       "title": "Product Manager, MBA Intern",

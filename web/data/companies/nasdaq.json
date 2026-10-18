@@ -1,0 +1,45 @@
+{
+  "slug": "nasdaq",
+  "name": "Nasdaq",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f9e51e0a8b825313e1f7d3e0de57bf84393a9a61",
+      "title": "Intelligent Automation Intern",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

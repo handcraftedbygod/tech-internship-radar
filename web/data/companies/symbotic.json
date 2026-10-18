@@ -1,0 +1,52 @@
+{
+  "slug": "symbotic",
+  "name": "Symbotic",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "553da97ade41fc1b35efb7e04636cc14968a8948",
+      "title": "System Engineer Co-op",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261",
+      "location": "Brooksville, FL",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "8ffb23c35962d47aff19cc2a1f1e7b5de1c10d14",
+      "title": "Robot Manipulation Co-op",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Robot-Manipulation_R8257",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

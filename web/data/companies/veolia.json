@@ -2,20 +2,25 @@
   "slug": "veolia",
   "name": "Veolia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a84b7f1b05a12f2457740d44454913554da4131",
+      "title": "Operations Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155824489",
+      "location": "Vandalia, OH",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "0041fa6c152863ce9eea1e90013dac2ad7fca1dd",
       "title": "Stagiaire - Data Analyst (H/F)",

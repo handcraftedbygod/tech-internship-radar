@@ -2,20 +2,25 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 1,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 6
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,53 @@
     0,
     1,
     0,
-    0,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa564f1e933ff697941a350a9e2997ccf524a399",
+      "title": "Development Operations Intern, Engineering Development Program",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Development-Operations--Engineering-Development-Program_01872103",
+      "location": "Middletown, CT",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "247219196df97b587945dfeea438514e5f2ea59a",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "fcc4999c1a13f8b4826bb7945189aa342518e0da",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "20dbc5e8d750104d8640f3e318b21580c30ac392",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
+      "location": "Sterling, VA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "aee944e4279bf8d594a594a951517bc5e5aca574",
+      "title": "Quality Assurance Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553",
+      "location": "Cheshire, CT",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "afa867070f6823e143cccfc72fd868d04f111d86",
+      "title": "System Administrator Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679",
+      "location": "Middletown, RI",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "2d97b5626b5aff9a47f510846d92841ff1991c59",
       "title": "Software Engineer Intern, Fleet Health Instrumentation",

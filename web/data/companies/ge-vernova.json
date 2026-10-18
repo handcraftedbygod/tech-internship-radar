@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 8,
+  "totalPostings": 11,
   "avgPostingDurationDays": 15.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 10
     },
     {
       "hub": "Berlin",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,32 @@
     0,
     5,
     3,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cdfe8b765d5f403c58abac8d528019466ef6b0e5",
+      "title": "AI Post-Training and Model Alignment Intern, AGI",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "cda2651ddd05c195370db058bed0bff174b37d5d",
+      "title": "Grid Foundational Models Intern, AGI",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "acde3816bb9359189a6487b613e6b92e65cf7289",
+      "title": "AI Evaluation & Benchmarking Intern, AGI",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "336e34a50700d45b03a283ced2e14d5e45e7690e",
       "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
@@ -91,13 +112,6 @@
       "url": "https://www.themuse.com/jobs/gevernova/ge-vernova-energy-optimization-software-engineer-intern-summer-2027",
       "location": "Bellevue, WA",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "83d44e615566364b1859bf81821afb4a455e1521",
-      "title": "Intern Data Analytics & Digital Transformation",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Stagiaire-Ingnieur---Data-Analytics---Transformation-Digitale-F-H_R5048584-2?utm_source=freehire.me",
-      "location": "Villeurbanne",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

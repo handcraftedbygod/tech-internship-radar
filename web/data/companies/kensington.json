@@ -1,0 +1,57 @@
+{
+  "slug": "kensington",
+  "name": "Kensington",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a7be993a15e950eb7815b356823d48b5c2afcfe0",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "cc11dde70c94ac8dd7e795d24df1de5c8863e62a",
+      "title": "Analytics Intern",
+      "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5262680007",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

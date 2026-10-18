@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 23,
+  "totalPostings": 26,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 18
     },
     {
       "hub": "Reutlingen",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 15
     },
     {
       "id": "ai",
@@ -55,11 +55,32 @@
     0,
     18,
     5,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6bfed34ba751e633304d5c4f9e25f453f0439822",
+      "title": "Information Security and Privacy Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155120934",
+      "location": "Farmington Hills, MI",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "7775b3ce54571868fc29ebd94346a39ad6365d61",
+      "title": "ERP/IT Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155101377",
+      "location": "Lincolnshire, IL",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "83203a4513699cc7ea4c885c17b0a5fc6b3aacee",
+      "title": "Robotics Research Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "55af395f643b6ba3256453f199196b638904d322",
       "title": "Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps",
@@ -108,27 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?utm_source=freehire.me",
       "location": "Ovar, pt",
       "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "882d4928f72c7a345e854de4927627dda11fe6f1",
-      "title": "DevOps Engineer - Internship (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455469-devops-engineer-internship-f-m-div-?utm_source=freehire.me",
-      "location": "Ovar, pt",
-      "firstSeenAt": "2026-08-16T04:35:44.674Z"
-    },
-    {
-      "id": "5307626a18efc2e1a7825e11c7b145201ae92d2f",
-      "title": "Junior AI Software Engineer",
-      "url": "https://aijobs.net/job/junior-ai-software-engineer-lisbon-braga-portugal-281608/?utm_source=freehire.me",
-      "location": "Lisbon | Braga, Portugal",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "f7685d19149e213e06705a82ae989d4c5ef3b59c",
-      "title": "C# Developer - Internship",
-      "url": "https://echojobs.io/job/bosch-c-developer-internship-jbbxa?utm_source=freehire.me",
-      "location": "Ovar, PT, PT",
-      "firstSeenAt": "2026-08-14T05:39:27.708Z"
     }
   ]
 }

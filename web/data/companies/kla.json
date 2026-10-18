@@ -1,0 +1,78 @@
+{
+  "slug": "kla",
+  "name": "KLA",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 5
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "14ae5d95a68797c6ae5818f36165784ef066be8f",
+      "title": "Computer Vision/Machine Learning Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "b4d62d95422dfde71f54580c93738c849793019d",
+      "title": "Software Engineer Intern, AI",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
+      "location": "Ann Arbor, MI",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "f1661912cd9c7f285a5e0b749a818553d1cbb375",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+      "location": "Ann Arbor, MI",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "b71049517fcad8a4e334b82a0075f4928652b079",
+      "title": "Algorithm Engineering Intern, GPU/CUDA",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "7bb3b2bfe395983b352cd94e31e1aaf6e3547280",
+      "title": "AI/ML Software Engineer Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+      "location": "Ann Arbor, MI",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

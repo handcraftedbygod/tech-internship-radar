@@ -2,21 +2,31 @@
   "slug": "johnson-johnson",
   "name": "Johnson & Johnson",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 2,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +39,46 @@
     0,
     0,
     1,
-    1,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6e4696a56377a8ce053a1aae3e70bbfd79213e1",
+      "title": "Emerging Technologies Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1",
+      "location": "Spring House, PA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "f9e6c27454eb29d2d490f68eda29b53e781c4f63",
+      "title": "Data Operations & Analytics Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450",
+      "location": "Somerset, NJ",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "05e95a2fa9095bfb9ef7d4cbc796486fc7b8b384",
+      "title": "Technology IM R&D Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-Off-Cycle-Co-Op_R-099204",
+      "location": "Raritan, NJ",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "c77562718494e813b88c348216e7775c2789aa7f",
+      "title": "Technology TS AM CBT Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Technology-TS-AM-CBT-Off-Cycle-Co-Op_R-099831",
+      "location": "Raritan, NJ",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "14bddea1f2e9a44985d25d0068d1f73942727503",
+      "title": "Technical Operations Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885",
+      "location": "West Chester, PA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "a97cdc61e5edbcdb2d4a7752f4214b96cb4bfa01",
       "title": "AI/ML/Data Science Intern",

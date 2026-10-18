@@ -1,0 +1,57 @@
+{
+  "slug": "zoox",
+  "name": "Zoox",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c82a21f3ad2609378e672cdef3db91e086a3ad74",
+      "title": "Freeways Data Evaluation Intern",
+      "url": "https://jobs.lever.co/zoox/ad992e12-39da-4046-b766-45f928924575",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "4d2c9a8a91237cdb9277254202a2f1ebadaf75f2",
+      "title": "AI Validation and Benchmarking Engineer Intern",
+      "url": "https://jobs.lever.co/zoox/cc43bf88-ed84-408f-a557-3d1c7263ddff",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

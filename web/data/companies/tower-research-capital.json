@@ -2,13 +2,17 @@
   "slug": "tower-research-capital",
   "name": "Tower Research Capital",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Montreal",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0260ddf9760f147c99d6f5a25346cb5e0c5db87b",
+      "title": "Machine Learning Intern",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7077280",
+      "location": "Montreal, QC",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "0e7330e499a2149a3b37902cd495955c98a4b02b",
       "title": "Quantitative Developer Intern",

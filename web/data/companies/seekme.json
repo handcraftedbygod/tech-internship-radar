@@ -2,13 +2,17 @@
   "slug": "seekme",
   "name": "SeekMe",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ebcdc942ca19903e293179b59414901ba792038c",
+      "title": "Junior Backend Developer (PHP)",
+      "url": "https://en-ph.whatjobs.com/pub_api__cpl__67002564__7115?geoID=935&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Manila, Philippines",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "144dd72943222eb52c09e0a537177e7c427fa36f",
       "title": "Remote Junior Backend Engineer - PHP, AI Tools, Growth Path",

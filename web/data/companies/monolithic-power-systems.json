@@ -2,17 +2,17 @@
   "slug": "monolithic-power-systems",
   "name": "Monolithic Power Systems",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
-      "hub": "Barcelona",
-      "count": 1
+      "hub": "San Francisco",
+      "count": 2
     },
     {
-      "hub": "San Francisco",
+      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e60d3849a2c47414e400a8e148be6eaf70693003",
+      "title": "Applications Engineer Intern",
+      "url": "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2035",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "2a999cfb1228b792c1079efdb8eba72bd44490c0",
       "title": "Application Engineer Intern",

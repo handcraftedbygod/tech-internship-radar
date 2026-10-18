@@ -1,15 +1,15 @@
 {
   "slug": "atkinsr-alis",
-  "name": "AtkinsRéalis Group",
+  "name": "AtkinsRéalis",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42cc346a9066ac0963ad47fd9f6d2c77b8a7db15",
+      "title": "Software Developer Intern",
+      "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "aca811fc5ebfd7207fc6e9f51b3ba11f20dceec3",
       "title": "Junior Full Stack Engineer",

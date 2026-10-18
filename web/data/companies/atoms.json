@@ -2,13 +2,17 @@
   "slug": "atoms",
   "name": "Atoms",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "New York",
+      "count": 1
+    },
+    {
+      "hub": "Seattle",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09386b0c9adb8cd083e89e152dcdf5762b476207",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "a588e4a5803868573f9d5e884e5a014345ce8aa3",
       "title": "Software Engineer Intern",

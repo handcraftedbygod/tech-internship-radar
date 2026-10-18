@@ -1,0 +1,63 @@
+{
+  "slug": "cibc",
+  "name": "CIBC",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-18T08:35:22.194Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fc74f0b4f2af757ade7390902a5b9dcc2963c776",
+      "title": "Information Security Analyst Co-op",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "53dbf03d872b6da984f91ed2acef4f0754d0bb9d",
+      "title": "Analyst Intern, Equity Solutions Group",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985-1",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
+    {
+      "id": "486cbfcc27b282ae6192056cb6d943f997f9abcc",
+      "title": "Analyst Intern, Equity Solutions Group",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    }
+  ]
+}

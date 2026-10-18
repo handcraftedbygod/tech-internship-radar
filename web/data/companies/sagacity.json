@@ -2,21 +2,25 @@
   "slug": "sagacity",
   "name": "Sagacity",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e07d282854a27f3188cef4e2254ed286a5a5be5",
+      "title": "Junior Data Engineer: Helpdesk & Data Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__574188139__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-18T08:35:22.194Z"
+    },
     {
       "id": "66620ba3955c9a79b342d32a9277857b5eff514f",
       "title": "Junior Data Engineer: Helpdesk & Data Pipelines",
