@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 123,
+  "totalPostings": 124,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 99
+      "count": 100
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 88
+      "count": 89
     },
     {
       "id": "ai",
@@ -47,11 +47,18 @@
     0,
     114,
     9,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67790a1cac7268e22c4a106f0a98a7ab5ce3935a",
+      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
+      "url": "https://lifeattiktok.com/search/7673636206961641781",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "56d3d9f5c99978184f18a131e79c5526279617dc",
       "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
@@ -114,13 +121,6 @@
       "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommercequality-platform-ai-test-automation-2027-summer",
       "location": "Seattle, WA",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "45b04bfdb0e6160ca1f65ac9824776c1f622a36d",
-      "title": "Site Reliability Engineer Intern (Global SRE) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/site-reliability-engineer-intern-global-sre-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "mvst",
   "name": "MVST",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     7,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d44f08387b92b98539908268c49d2b4abed0fd87",
+      "title": "Full Stack Developer (Junior)",
+      "url": "https://mvst.factorial.com/job_posting/full-stack-developer-junior-292930?utm_source=freehire.me",
+      "location": "Barcelona, Cataluña, Spain",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
+    {
+      "id": "92752b246e112152e9a4c3f18c252d911cb4a881",
+      "title": "Full Stack Development (Internship)",
+      "url": "https://mvst.factorial.com/job_posting/full-stack-development-internship-271679?utm_source=freehire.me",
+      "location": "Barcelona, Cataluña, Spain",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "281f3dcc269fa4434477c1ae5b25ffa217fcc605",
       "title": "Full Stack Developer (Junior)",

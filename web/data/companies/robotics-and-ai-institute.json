@@ -2,21 +2,21 @@
   "slug": "robotics-and-ai-institute",
   "name": "Robotics and AI Institute",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a3356e4cda95f9fbfe50999bce642ec159565e56",
+      "title": "Internship - Software Engineering",
+      "url": "https://startup.jobs/internship-software-engineering-robotics-and-ai-institute-9761032?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "0e85be93e1f06e5a966bebc6397591295140082e",
       "title": "Software Engineering Intern",

@@ -2,17 +2,17 @@
   "slug": "ekimetrics",
   "name": "Ekimetrics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
-      "hub": "Paris",
-      "count": 2
+      "hub": "London",
+      "count": 3
     },
     {
-      "hub": "London",
+      "hub": "Paris",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5aa4c94786174a41d48f863d31211caffd724676",
+      "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/2027-internship-6-months-data-science-marketing-effectiveness-london-376777",
+      "location": "London",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "13ee392edfc90ebc037af9e71bad893eb9c2453b",
       "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",

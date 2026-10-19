@@ -2,21 +2,21 @@
   "slug": "skydio",
   "name": "Skydio",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "31f72cd464726ffab6dcbbd9ae23309bb1b8c366",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "8aaf83012b41f34a107134ce7d6917709ee5528f",
       "title": "Manufacturing Software Engineer Intern",

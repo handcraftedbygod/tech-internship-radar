@@ -2,21 +2,25 @@
   "slug": "kpmg",
   "name": "KPMG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 28.1,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b2ca9e441df44075830d41eac1ac29e4d68343f8",
+      "title": "AI Builder Co-op",
+      "url": "https://careers.kpmg.ca/jobs/34407?icims=1",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "ffa2e075c5ee43dabcaa2a8655ee0577b23074f7",
       "title": "Junior Data Engineer",

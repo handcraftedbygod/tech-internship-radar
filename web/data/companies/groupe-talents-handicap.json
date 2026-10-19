@@ -2,21 +2,26 @@
   "slug": "groupe-talents-handicap",
   "name": "Groupe Talents Handicap",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,32 @@
     0,
     0,
     1,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38b44d63e8fe413d74a746d126116131a507c571",
+      "title": "Ingénieur Logiciel Junior – Backend Java / Angular",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__159787949__7079?geoID=3635&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Rennes, France",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
+    {
+      "id": "42ac89f2c4e9ebffc09273a1c532e37a9b0612eb",
+      "title": "Data Engineer Intern: Build Scalable Data Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__159782233__7079?geoID=6978&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Beaurecueil, France",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
+    {
+      "id": "ba34b11b05265351049e513264b003783a577a0b",
+      "title": "Data Engineer Intern: Build Scalable Data Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__159780252__7079?geoID=592&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Toulouse, France",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "fa0451ee700dfcc7ed70aa4f249baf48384def1f",
       "title": "Ingénieur Logiciel Junior — Backend/Frontend & Impact",

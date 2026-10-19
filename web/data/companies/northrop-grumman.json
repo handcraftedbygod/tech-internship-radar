@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a96dbdcc3b33b1925e6e82a551d6e3861c997de3",
+      "title": "Software Engineering Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+      "location": "Boulder, CO",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "3088219f17f26e9211454511c94882157d224c84",
       "title": "Software Engineering Intern",

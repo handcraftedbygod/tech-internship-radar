@@ -2,13 +2,17 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Madrid",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7e60dcdc660d6a7f33d36d0a52b87571055e9136",
+      "title": "AI/Data Science Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
+      "location": "Maple Grove, MN",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "719ca8b57c577ff49dfc9ee0ea26459615472249",
       "title": "Data & AI Platform Engineer Intern",

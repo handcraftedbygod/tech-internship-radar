@@ -2,21 +2,21 @@
   "slug": "dcf-verlag",
   "name": "DCF Verlag GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb0d43598031c1df41bb56e53479c63efd214286",
+      "title": "Trainee Developer / Programmierer für KI-Agenten (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/dcf-verlag-gmbh/trainee-developer-programmierer-fur-ki-agenten-koblenz-184393",
+      "location": "Koblenz, Rheinland-Pfalz, Deutschland",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "8c327ca32bb141196ea295ee8b216a66180a854c",
       "title": "Trainee Developer / Programmierer für KI-Agenten (m/w/d)",

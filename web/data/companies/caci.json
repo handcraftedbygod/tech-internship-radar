@@ -2,21 +2,21 @@
   "slug": "caci",
   "name": "CACI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f866982a983b430ce4169515a82082b18d23e0ff",
+      "title": "Software Engineering Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543",
+      "location": "Florham Park, NJ",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "563d0267bf33da5ff7e313b6fb7bf1df572b7925",
       "title": "Junior Software Architect",

@@ -2,21 +2,21 @@
   "slug": "laelaps",
   "name": "Laelaps",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     2,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae64921fa062dc12c6b52940c7d05d4f92999c73",
+      "title": "Software Engineer, Robot Autonomy (Multi Agent Orchestration), Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-multi-agent-orchestration-intern-zurich-472703?utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
+    {
+      "id": "65ca4e0117ff45f8589646ffa5f14cda305f21e1",
+      "title": "Software Engineer, Robot Autonomy (Multi Agent Orchestration), Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-multi-agent-orchestration-intern-zurich-472703",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "2cf35392f9abdef39667618841e32495d0ff6ba9",
       "title": "Software Engineer, Robot Autonomy, Intern",

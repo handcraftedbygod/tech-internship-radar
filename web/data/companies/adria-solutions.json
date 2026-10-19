@@ -2,21 +2,21 @@
   "slug": "adria-solutions",
   "name": "Adria Solutions",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6d899f8ad4e592d57ef095088007f550682913a",
+      "title": "Remote Junior DevOps / MLOps Engineer: Build Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__576048478__7082?geoID=914&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Huddersfield, United Kingdom",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "260f2f75cecdee780d2737c9dd7ba9c4e2df8b4d",
       "title": "Junior DevOps / MLOps Engineer",

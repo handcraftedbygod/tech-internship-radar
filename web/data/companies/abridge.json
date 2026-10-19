@@ -2,14 +2,14 @@
   "slug": "abridge",
   "name": "Abridge",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 33.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -38,11 +38,18 @@
     0,
     3,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86fa6d577ffb82f9c087f5d23122d2e8dc5f3980",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true",
+      "location": "SF",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "0a8e0e4bc6dfa698d522a8549dce15107f3ade1b",
       "title": "Member of Technical Staff, Intern",

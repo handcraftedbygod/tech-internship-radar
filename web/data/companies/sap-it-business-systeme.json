@@ -2,20 +2,25 @@
   "slug": "sap-it-business-systeme",
   "name": "SAP IT Business Systeme",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f54cf39cd2b29290372162ec2720ffb6e63dc357",
+      "title": "13-Month Cloud & DevOps Intern (AI & Infra)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__576048907__7082?geoID=7&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "0a5b8c959d87504f057eea9054648b9573fe8897",
       "title": "SAP iXp Intern (f/m/d) - Software Developer",

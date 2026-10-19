@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
@@ -22,13 +22,17 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
@@ -46,11 +50,18 @@
     0,
     0,
     2,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77397c586e47c0f736c23cb92ac2549f18e6bc85",
+      "title": "SoC Machine Learning Software Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200689488",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "671a66f842166441b9f23a05a4d59e541120dfe8",
       "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",

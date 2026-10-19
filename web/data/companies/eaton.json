@@ -2,21 +2,21 @@
   "slug": "eaton",
   "name": "Eaton",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     10,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b70c85c1a8876973e93746ea529046c1474588e4",
+      "title": "C++ Developer Intern, Research & Development Engineering",
+      "url": "https://eaton.eightfold.ai/careers/job/687239542740",
+      "location": "Brossard, QC, Canada",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "89ba8229813f37a52aea5aad13c2c51cc2b11c34",
       "title": "Internship Program: Power Systems Engineer",
@@ -95,13 +102,6 @@
       "title": "Internship Program: Power Systems Engineer",
       "url": "https://www.themuse.com/jobs/eaton/internship-program-power-systems-engineer-21cf1c",
       "location": "Raleigh, NC",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "6bf2f21f6ce2dd7b2a82e42ddc9829e5c496f09e",
-      "title": "Internship Program: Power Systems Engineer",
-      "url": "https://www.themuse.com/jobs/eaton/internship-program-power-systems-engineer-21906a",
-      "location": "El Paso, TX",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }
   ]

@@ -2,17 +2,17 @@
   "slug": "knorr-bremse-systeme-f-r-schienenfahrzeuge",
   "name": "Knorr-Bremse Systeme für Schienenfahrzeuge GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 42,
   "topLocations": [
     {
-      "hub": "Munich",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -38,11 +38,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eddf3eed8e27b1c6c7fb73d0ebc541c8d0143e3a",
+      "title": "Data Science Werkstudent (m/w/d)",
+      "url": "https://studyflix.de/jobs/angebote/517161?l=912100&utm_source=ba",
+      "location": "Aldersbach",
+      "firstSeenAt": "2026-10-19T13:17:09.570Z"
+    },
     {
       "id": "58b35fc9c5583ed9f8dce8fbdfcff7d0f9ae14d4",
       "title": "Werkstudent Software Tools & Systemtest (m/w/d)",
