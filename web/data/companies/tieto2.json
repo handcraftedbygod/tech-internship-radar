@@ -2,14 +2,14 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19ea992d34b8040476b36129c18fa2d13e0108c4",
+      "title": "Junior Software Engineer, C- Tieto Tech Consulting (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000156228659-junior-software-engineer-c-tieto-tech-consulting-m-f-d-?utm_source=freehire.me",
+      "location": "Wroclaw, pl",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "56e53336a7d3830bbfbe065edc73d6e3e0953705",
       "title": "Junior Software Engineer,  C embedded - Tieto Tech Consulting (m/f/d)",

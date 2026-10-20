@@ -2,14 +2,14 @@
   "slug": "iabg-industrieanlagen-betriebs-gmbh",
   "name": "IABG Industrieanlagen Betriebs-GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f54a0542809bdf238753d84a71c0e41be326adb",
+      "title": "(Junior) Software Engineer – Distributed Simulation & Interoperability",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003881160-S?utm_source=freehire.me",
+      "location": "Ottobrunn, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "0f09464c83b16328f3920b35da90026776f48ebe",
       "title": "(Junior) Data Analyst Waffensystemdaten (m/w/d)",

@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 26,
+  "totalPostings": 27,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Reutlingen",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     0,
     18,
     5,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "14bcb7e0f355ddca413a7e6edec7a0d6c10993d2",
+      "title": "Stagiaire Développeur Full Stack F/H",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155947364-stagiaire-developpeur-full-stack-f-h?utm_source=freehire.me",
+      "location": "Vénissieux, Auvergne-Rhône-Alpes, fr",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "6bfed34ba751e633304d5c4f9e25f453f0439822",
       "title": "Information Security and Privacy Intern",
@@ -121,13 +128,6 @@
       "title": "Junior AI Software Engineer (f/m/div.)",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455199-junior-ai-software-engineer-f-m-div-?utm_source=freehire.me",
       "location": "Lisbon | Braga, pt",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
-    },
-    {
-      "id": "1915a593c8447392291e393ec36f6f4c119d84c0",
-      "title": "C# Developer - Internship (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143454572-c-developer-internship-f-m-div-?utm_source=freehire.me",
-      "location": "Ovar, pt",
       "firstSeenAt": "2026-08-17T04:41:48.092Z"
     }
   ]

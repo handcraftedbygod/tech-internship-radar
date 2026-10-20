@@ -2,9 +2,9 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Bremen",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -47,11 +47,18 @@
     0,
     8,
     7,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb3614c2af5da0a7adcfa3faaec49eb406b05615",
+      "title": "Werkstudent Software development (d/f/m)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-977757516-S",
+      "location": "München",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "ddce48aa23e6275187aa906e0eea170ba2d3a762",
       "title": "Working Student (d/f/m): Composite Manufacturing & AI-Driven Data Analytics",
@@ -113,13 +120,6 @@
       "title": "Werkstudent (d/m/w): Data Scientist im Bereich Supply Chain",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-967666065-S",
       "location": "Manching",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "2806fc84398435a9e8554b16d506400f46bc04f5",
-      "title": "Werkstudent (d/m/w): Data Scientist im Bereich Supply Chain (Ingenieur/in - Luft- und Raumfahrttechnik)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTY3NjY2MDY1LVMgMQ?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]

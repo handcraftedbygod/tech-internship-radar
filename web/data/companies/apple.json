@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 9,
+  "totalPostings": 12,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Paris",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,32 @@
     0,
     0,
     2,
-    7,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04011ef78a34923b0c06b8635ef7a315d52fc164",
+      "title": "Aeon Modeling Software Intern",
+      "url": "https://jobs.apple.com/en-us/details/200690119/aeon-modeling-software-intern?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "9d8e1fd9544e5a34ae45e43ddf7d291925efca6f",
+      "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
+      "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "ec0aa889ab5504dfdd216cc8b53aa62c7de29de8",
+      "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
+      "url": "https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "77397c586e47c0f736c23cb92ac2549f18e6bc85",
       "title": "SoC Machine Learning Software Engineer Intern",
@@ -103,20 +124,6 @@
       "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency?utm_source=freehire.me",
       "location": "Zurich",
       "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "f35a318bc719cda3986792ff73d474e92d5af324",
-      "title": "Internship - Machine Learning (Foundation Models)",
-      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models?utm_source=freehire.me",
-      "location": "Zurich",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "af73ff52a1e844667d59bb7066b7d4f62af31d08",
-      "title": "Internship - Machine Learning Research",
-      "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research?utm_source=freehire.me",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

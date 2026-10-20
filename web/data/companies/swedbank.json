@@ -2,21 +2,25 @@
   "slug": "swedbank",
   "name": "Swedbank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Tallinn",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5f175e268fefb61ab332733ad7a02050252ed332",
+      "title": "Junior Data Analyst",
+      "url": "https://jobs.swedbank.com/jobs/28329-junior-data-analyst?utm_source=freehire.me",
+      "location": "Tartu, EE",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "23bf408c20c9a2aee914b69197a69da857ed8304",
       "title": "Junior Web Developer - Baltic Web Development &amp; Content team",

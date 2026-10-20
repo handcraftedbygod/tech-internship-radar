@@ -2,21 +2,21 @@
   "slug": "corecom-consulting",
   "name": "Corecom Consulting",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e16760cdb1b3a082462eb9d95fcd1a77d8568569",
+      "title": "Junior Site Reliability Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5928850700?utm_medium=api&utm_source=freehire.me",
+      "location": "Collyhurst, Manchester",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "5e799242be47a3b0f28f5286a05b99f973258660",
       "title": "Junior Site Reliability Engineer",

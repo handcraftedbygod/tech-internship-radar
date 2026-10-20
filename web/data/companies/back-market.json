@@ -2,14 +2,14 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
@@ -27,6 +27,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,11 +44,18 @@
     0,
     0,
     12,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45f25346e8b55e9b47b3790ece7c0f87e111215e",
+      "title": "AI Content & Knowledge Manager Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/ae0b69b8-4051-4a31-a11f-f624be54b4e8",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "bee30b4aeb19446e7f429f3d87fb4e22df6774ff",
       "title": "APAC Marketing Operations Intern (Japanese required)",
@@ -104,13 +116,6 @@
       "id": "141c815d1d0400602a4dae27cf69eb87196e316b",
       "title": "CRM Engagement Intern",
       "url": "https://jobs.ashbyhq.com/backmarket/d26936dd-15ad-4932-94eb-9d07995aa0d6",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "16a95eef9c9a42a141be80207bbccc6e97c00ef1",
-      "title": "UX Content Designer Intern (UX copywriter - English speaker)",
-      "url": "https://jobs.ashbyhq.com/backmarket/9cbdc249-81a5-476d-a365-4f457efc4a8c",
       "location": "Paris",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }

@@ -2,21 +2,21 @@
   "slug": "maki",
   "name": "maki",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a944fc73dacf4c1c7cd81569d163d16669dd8a8",
+      "title": "Workplace & Security Engineer - Final Year Intern",
+      "url": "https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "8493b46ed31e41a4da0dc77b547828010d1f1cb0",
       "title": "Security Engineer - Final year Intern",

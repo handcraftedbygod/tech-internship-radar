@@ -2,21 +2,21 @@
   "slug": "accountable",
   "name": "Accountable",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8a475a08f84df69171d5e7cfa7ab187641e269a",
+      "title": "Junior Frontend Developer",
+      "url": "https://accountable.capital/careers/junior-frontend-developer?utm_source=freehire.me",
+      "location": "European time zones",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "651217b2be3a8a61eec489b6ee85b2a99d955989",
       "title": "Junior DVN Backend Engineer",

@@ -2,9 +2,9 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Toronto",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -42,11 +42,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23b21c184826cc780b6464f02abcc6a927842255",
+      "title": "Development Tools Software Engineer Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "3c243676ec9ef18fb438a67a79787abd1e861736",
       "title": "Compiler Engineering Intern",

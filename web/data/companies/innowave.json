@@ -1,0 +1,57 @@
+{
+  "slug": "innowave",
+  "name": "InnoWave",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-20T09:09:33.484Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Lisbon",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bc5dc972f62674dc026da4a58a34cfe52fa72a63",
+      "title": "Junior Backend Developer",
+      "url": "https://careers.innowave.tech/jobs/8557173-junior-backend-developer?utm_source=freehire.me",
+      "location": "Lisbon, PT",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "3d7eb7842b7151d9723e26a7dc563873586d8e41",
+      "title": "Junior Data Engineer",
+      "url": "https://careers.innowave.tech/jobs/8557420-junior-data-engineer?utm_source=freehire.me",
+      "location": "Lisbon, PT",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "dkb-code-factory",
   "name": "DKB Code Factory",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c2ececf19f88fa83a99d1dce81612ebef4ccba2",
+      "title": "Junior Android Developer",
+      "url": "https://job-boards.greenhouse.io/dkbcodefactory/jobs/8035544003?utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "71aa21697e7af0aa5162de8a698fe5ec412b76a5",
       "title": "Junior Frontend Developer (React)",

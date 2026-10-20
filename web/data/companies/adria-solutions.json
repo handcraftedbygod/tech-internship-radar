@@ -1,22 +1,22 @@
 {
   "slug": "adria-solutions",
-  "name": "Adria Solutions",
+  "name": "Adria Solutions Ltd",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cab4b924fc1164d8883cb8ef12ad6ba68005a26",
+      "title": "Remote Junior DevOps & MLOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__577395830__7082?geoID=98&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "South Yorkshire, United Kingdom",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "a6d899f8ad4e592d57ef095088007f550682913a",
       "title": "Remote Junior DevOps / MLOps Engineer: Build Pipelines",
@@ -95,13 +102,6 @@
       "title": "Junior SQL Data Analyst - South Manchester",
       "url": "https://uk.whatjobs.com/pub_api__cpl__509642548__7082?geoID=27315&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Stockport, United Kingdom",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "0a88fb7bee4fe2be4d6e285b54edac1eb22b378b",
-      "title": "Junior SQL Data Analyst - South Manchester",
-      "url": "https://www.adzuna.co.uk/jobs/details/5846046382?utm_medium=api&utm_source=freehire.me",
-      "location": "Stockport, Greater Manchester",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

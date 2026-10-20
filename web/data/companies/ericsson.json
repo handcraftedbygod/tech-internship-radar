@@ -2,25 +2,25 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 15,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Other",
       "count": 4
     },
     {
-      "hub": "Krakow",
-      "count": 2
+      "hub": "Stockholm",
+      "count": 3
     },
     {
-      "hub": "Stockholm",
+      "hub": "Krakow",
       "count": 2
     }
   ],
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -41,11 +41,32 @@
     0,
     5,
     5,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a50910489193cc7d5b92da14cca576e479001260",
+      "title": "Junior C++ Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777439674-junior-c-software-developer-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Łódź,Łódź,Poland",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "256c8fedf8183d5ac419f93672a9290c1f45146a",
+      "title": "Entry level: System Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777238007-entry-level-system-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "f998e8104e0a93b558d63f6e92dddb4a806637aa",
+      "title": "Junior Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777400328-junior-software-developer-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Łódź,Łódź,Poland",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "5d9cc88bcc396a03836ced02e3dbe3c3abeff52b",
       "title": "Junior Baseband Software Developer",
@@ -94,27 +115,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI3OTAzNyAxMjE?lang=en",
       "location": "Sweden",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "2ae460b6f63d3cd2dfbb09515c2c6042526c0919",
-      "title": "Junior Software Tester L1 Radio",
-      "url": "https://jobs.ericsson.com/careers/job/563121775810573-junior-software-tester-l1-radio-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Łódź,Łódź,Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "802979432b80ea536d295d66bad98cc347bae3f7",
-      "title": "Junior Software Tester",
-      "url": "https://jobs.ericsson.com/careers/job/563121775810573?utm_source=freehire.me",
-      "location": "Łódź, Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "08912bc2301f4fc7d5a506f1d62bb4562d72f906",
-      "title": "Junior C Developer-  6G Simulator",
-      "url": "https://jobs.ericsson.com/careers/job/563121776709370-junior-c-developer-6g-simulator-krak%C3%B3w-krak%C3%B3w-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Kraków,Kraków,Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

@@ -2,26 +2,26 @@
   "slug": "onefamily",
   "name": "OneFamily",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad0145d60d62445152f19827f86de07c932c3838",
+      "title": "Junior BI Developer (1 Year FTC)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5929618981?utm_medium=api&utm_source=freehire.me",
+      "location": "Preston, Brighton",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "79e0c46a756c253370970092af3b3ae8a1eb3cde",
+      "title": "Junior Data Engineer (1 Year FTC)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5929618984?utm_medium=api&utm_source=freehire.me",
+      "location": "Preston, Brighton",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "90b5eb67da52141eb175fe44a9a252199226653b",
       "title": "Junior Data Engineer (1 Year FTC)",

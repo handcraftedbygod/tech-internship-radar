@@ -2,21 +2,21 @@
   "slug": "morningstar",
   "name": "morningstar",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f29b3624d824b68e710015c522dfeba0fb166529",
+      "title": "Data Analyst Intern (Italian Speaker)",
+      "url": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Madrid/Data-Analyst-Intern_REQ-058468?utm_source=freehire.me",
+      "location": "Madrid",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "4a4dc328936832c67536c4c920c4dade9a8b1513",
       "title": "Data Analyst Intern- Portuguese & Spanish Speaker",

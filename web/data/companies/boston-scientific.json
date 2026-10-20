@@ -2,14 +2,14 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "757354287dd7b6da1c0d8f7d5fda16e6be6e1795",
+      "title": "Finance Data Science Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813769021?utm_source=freehire.me",
+      "location": "Madrid, Spain |  N/A",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "7e60dcdc660d6a7f33d36d0a52b87571055e9136",
       "title": "AI/Data Science Intern",

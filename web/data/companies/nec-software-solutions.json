@@ -2,21 +2,21 @@
   "slug": "nec-software-solutions",
   "name": "NEC Software Solutions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a42b2cae94a4708aca68bd5973ee159dc9974fb",
+      "title": "Junior / Mid-Level Full Stack Developer",
+      "url": "https://jobs.smartrecruiters.com/NECSWS/744000156273580-junior-mid-level-full-stack-developer?utm_source=freehire.me",
+      "location": "London, England, gb",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "23a4b9b72169d6fe04afbcb6477fc777444a19d1",
       "title": "Junior / Mid-Level Full Stack Developer",

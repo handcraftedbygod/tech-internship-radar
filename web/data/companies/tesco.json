@@ -1,0 +1,52 @@
+{
+  "slug": "tesco",
+  "name": "Tesco",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-20T09:09:33.484Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2a813e64ecbe0fd0f6ea263a0ba333883433082b",
+      "title": "IMS Technology - Software Engineering Graduate Scheme",
+      "url": "https://www.gradcracker.com/hub/848/tesco/graduate-job/83876/ims-technology-software-engineering-graduate-scheme?utm_source=freehire.me",
+      "location": "Edinburgh (Hybrid)",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
+    {
+      "id": "39976906671e90bcfa9bb7bf7caf4a77bacb4d6a",
+      "title": "Technology - Software Engineering Internship",
+      "url": "https://www.gradcracker.com/hub/848/tesco/work-placement-internship/83556/technology-software-engineering-internship?utm_source=freehire.me",
+      "location": "Welwyn Garden City (Hertfordshire)",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    }
+  ]
+}

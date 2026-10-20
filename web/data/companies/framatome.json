@@ -2,21 +2,21 @@
   "slug": "framatome",
   "name": "Framatome",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d6b9fb6a4974295a6424673ab78a92bef39014a",
+      "title": "Internship in Software Development Code Qualification and Java Code Optimization with SonarQube",
+      "url": "https://framatome-career.talent-soft.com/job/job-stage-developpement-informatique-qualification-et-optimisation-de-code-java-avec-sonarqube-f-h_28003.aspx?utm_source=freehire.me",
+      "location": "France, Auvergne-Rhône-Alpes, Rhône (69)",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "b2f2038e02de867abbe373e4d52c9cd3fdc9175e",
       "title": "Industrial Cybersecurity Research and Development Engineer Intern",

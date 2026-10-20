@@ -2,14 +2,18 @@
   "slug": "braze",
   "name": "Braze",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "81c4bd3acf704de0f158702f3158df6dd6baa06d",
+      "title": "Intern, Software Engineering",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8301086",
+      "location": "New York City",
+      "firstSeenAt": "2026-10-20T09:09:33.484Z"
+    },
     {
       "id": "01702be3a0a65a5375f8475d7afce7fc8d71183a",
       "title": "Business Development Representative Intern",
