@@ -2,14 +2,14 @@
   "slug": "decathlon-digital-fr",
   "name": "Decathlon Digital FR",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Paris",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     1,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a3167eee7ecc055a1e8c67e89b60756d2da92bf",
+      "title": "Data analyst Intern - Inventory Management - Value Chain (f/m/d)",
+      "url": "https://job-boards.eu.greenhouse.io/decathlontechnology/jobs/5009715101?utm_source=freehire.me",
+      "location": "Lille, Upline, Nord, France",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "9e55c9b85ca6aa8049f3c5fb3b97ae80b9fb00cf",
       "title": "Internship - Data Engineer Core Data Product - Lille (f/m/d)",

@@ -2,21 +2,21 @@
   "slug": "costar",
   "name": "CoStar Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0ecd36e92cd719530308e5666323a13bae94fd61",
+      "title": "Security Engineer Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "df5258a92f310ee95b7ad18339eac061a6a54065",
       "title": "Product Intern",

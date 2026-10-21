@@ -2,25 +2,25 @@
   "slug": "gilead-sciences",
   "name": "Gilead Sciences",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc20b5afb957c1ecb8968f92603f3e342319f7dc",
+      "title": "Research Intern, Clinical Virology - AI",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "70ef4df35eab8828c872352eae14af48c11a2dc3",
       "title": "Research Intern, Strategy, Innovation & Portfolio - AI",

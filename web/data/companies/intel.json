@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": null,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 7
     },
     {
       "hub": "Munich",
@@ -24,12 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,32 @@
     0,
     0,
     0,
-    7,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de2bd025c9d6e7681b3abb5d0a0526aae207de98",
+      "title": "AI Software Development Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "8ccaf44e9254269c06273fec039597d63702a412",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "a1d6a96387637d6dbfd45c040036d1f3158f7e24",
+      "title": "Middleware Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "23b21c184826cc780b6464f02abcc6a927842255",
       "title": "Development Tools Software Engineer Intern (m/f/d)",

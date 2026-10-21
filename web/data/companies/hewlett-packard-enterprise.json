@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -34,11 +39,18 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c96be2fa5c61ba60002299ca17505ef5b092850",
+      "title": "Hardware Engineering Design Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
+      "location": "Roseville, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "68bf690ef5371f703e9c028a649551e6b17e5174",
       "title": "Software Engineering Internship (Placement Year)",

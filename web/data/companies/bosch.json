@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 27,
+  "totalPostings": 28,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Reutlingen",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     0,
     18,
     5,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f1985b3516f015fd39fc371b4ac0a48a7245ec1",
+      "title": "Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-?utm_source=freehire.me",
+      "location": "Ovar, pt",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "14bcb7e0f355ddca413a7e6edec7a0d6c10993d2",
       "title": "Stagiaire Développeur Full Stack F/H",
@@ -122,13 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769-extracurricular-internship-infrastructure-devops-engineer-f-m-div-?utm_source=freehire.me",
       "location": "Aveiro, pt",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "008b074ddeba343103e218930873d6226e0de1a2",
-      "title": "Junior AI Software Engineer (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143455199-junior-ai-software-engineer-f-m-div-?utm_source=freehire.me",
-      "location": "Lisbon | Braga, pt",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
     }
   ]
 }

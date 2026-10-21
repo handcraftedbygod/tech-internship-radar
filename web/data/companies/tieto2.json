@@ -2,14 +2,14 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b426d0d2371b1d2f12c80ab54891b71515e0873f",
+      "title": "Junior Software Engineer - Tieto Tech Consulting (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000156551648-junior-software-engineer-tieto-tech-consulting-m-f-d-?utm_source=freehire.me",
+      "location": "Jyväskylä, Central Finland, fi",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "19ea992d34b8040476b36129c18fa2d13e0108c4",
       "title": "Junior Software Engineer, C- Tieto Tech Consulting (m/f/d)",

@@ -1,0 +1,45 @@
+{
+  "slug": "citco",
+  "name": "Citco",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-21T09:13:09.926Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ebc80cae642431ddad2016bed089e30992167499",
+      "title": "Software Engineer Intern",
+      "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18964",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "telemedi",
   "name": "Telemedi",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5eaac71fc68409a77931e6a47099a5e8f18b0ebf",
+      "title": "Junior Fullstack Developer 2.0 (PHP + React + Cursor/Windsurf)",
+      "url": "https://apply.workable.com/j/CEFA010401?utm_source=freehire.me",
+      "location": "Warsaw, Masovian Voivodeship, Poland",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "43a47a3610914b393759c33de84b0d899dea4c87",
       "title": "Junior Full Stack Agentic Developer",

@@ -2,26 +2,26 @@
   "slug": "point72",
   "name": "Point72",
   "tier": "trading",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "quant",
+      "label": "Quant",
       "count": 3
     },
     {
-      "id": "quant",
-      "label": "Quant",
-      "count": 2
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     1,
     1,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b9ecb4ae5723b600765c0c934f2c2b59f04dfe5a",
+      "title": "Quantitative Developer Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7609197002",
+      "location": "NYC",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "b4b9a6d57412579cdb412eb171f143d6500a3e8c",
       "title": "Software Engineer Intern",

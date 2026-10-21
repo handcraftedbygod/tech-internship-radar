@@ -2,26 +2,26 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     2,
     2,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd79352aa751eec0421eb6a80490d0ce555f0d71",
+      "title": "Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "35a5afe8d0d6a398349f3067d905719fe36697cf",
+      "title": "Computer Science | Software Engineering internship: dynamic test selection",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "a7fda17d5f0171813c75019324ee77c90f33d7be",
+      "title": "Data Science | Engineering internship: optimizing business processes",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "015fd6e191aba1bac63244667a3dbb4201ad8e82",
       "title": "Computer Science | Data Science internship: Quality dashboard development",

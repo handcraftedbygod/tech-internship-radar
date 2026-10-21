@@ -2,21 +2,21 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     2,
     4,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "419701212b74486a87795326b8a7e0eb110dca17",
+      "title": "Trainee .NET developer (with German)",
+      "url": "https://nofluffjobs.com/job/trainee-net-developer-with-german-innowise-warsaw?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "52f88c5c53a10ba0a19adf5da02779d8d51ecff8",
       "title": "Trainee BI/Data Analyst (with German)",

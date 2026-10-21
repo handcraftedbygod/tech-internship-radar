@@ -2,21 +2,21 @@
   "slug": "tracetronic",
   "name": "tracetronic GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "530cb42eefd52a89cc72716a871e3741619d4ff8",
+      "title": "Junior Consultant - Software & Systems Transformation (m/w/d) (Ingenieur/in - Systems Engineering)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTE5NTYtMzAyMjY4MTc5MjQ0NzIwMS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "ea687ae23c28cc8b9e5cbc974222c6dd0a84b96e",
       "title": "Junior Consultant - Software & Systems Transformation (m/w/d) (Ingenieur/in - Systems Engineering)",

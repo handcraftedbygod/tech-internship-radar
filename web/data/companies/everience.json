@@ -2,21 +2,25 @@
   "slug": "everience",
   "name": "EVERIENCE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49edcd243d99829f1c6d91af15e624b92cb38465",
+      "title": "Administrateur DevOps junior - F/H - Paris",
+      "url": "https://jobs.smartrecruiters.com/EVERIENCE/744000156589542-administrateur-devops-junior-f-h-paris?utm_source=freehire.me",
+      "location": "Paris, IDF, fr",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "c762000fcd91129a23bf0f153c3d1786ea3318bd",
       "title": "Développeur Full Stack Junior - Java/Angular",

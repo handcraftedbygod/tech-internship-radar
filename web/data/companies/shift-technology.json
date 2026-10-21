@@ -2,14 +2,14 @@
   "slug": "shift-technology",
   "name": "Shift Technology",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 14.7,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -42,11 +42,18 @@
     0,
     3,
     1,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "22bdd0fb664e30cd2a2b81ace45953e2d0cddcd1",
+      "title": "Data scientist Internship (6 months) ",
+      "url": "https://artificialintelligencejobs.co/jobs/shift-technology-data-scientist-internship-6-months-7a1921fc",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "625d08fc76dc415b87ee629107b7d83f140670a4",
       "title": "QA Engineer Intern (6 months) ",
@@ -108,13 +115,6 @@
       "title": "Data Science internship - Spanish speaker (6months)",
       "url": "https://artificialintelligencejobs.co/jobs/shift-technology-data-science-internship-spanish-speaker-6months-86fb80fa",
       "location": "Spain - Madrid",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "92488ff2e94374fc30111d2ccf53538c3c58ecb4",
-      "title": "Data Science internship - Spanish speaker (6months)",
-      "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/7676940003?utm_source=freehire.me",
-      "location": "France - Remote",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]

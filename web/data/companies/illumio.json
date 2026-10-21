@@ -1,0 +1,52 @@
+{
+  "slug": "illumio",
+  "name": "Illumio",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-21T09:13:09.926Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8e507d96a6b44cf38e13156b0381caaf51efa328",
+      "title": "Security Research Intern",
+      "url": "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "c809f08affeefca52187e5e7b34511ef9338f74f",
+      "title": "Engineering Intern, Product Security",
+      "url": "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    }
+  ]
+}

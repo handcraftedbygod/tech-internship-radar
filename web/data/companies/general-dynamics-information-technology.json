@@ -2,25 +2,25 @@
   "slug": "general-dynamics-information-technology",
   "name": "General Dynamics Information Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7.2,
   "topLocations": [
     {
-      "hub": "Paris",
+      "hub": "Other",
       "count": 3
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Paris",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12a0ccb5ca449f7c5e6ee70945f655ef4438d1a0",
+      "title": "Software Developer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+      "location": "Egg Harbor Township, NJ",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "891727f51b60495e2d8f8999fcc80136a333168a",
       "title": "GDIT Summer Internship Program - Summer 2027 Software Development Internship",

@@ -2,14 +2,14 @@
   "slug": "agilerobotsse",
   "name": "Agilerobotsse",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     3,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33fb2f9529b7ab244d5b1773de65c9393e6c5779",
+      "title": "Working Student (m/f/d) -  Data Engineer & Software Developer (Research Analytics)",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/working-student-data-engineer-software-developer-research-analytics-munich-bavaria-406891",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "c1ab944f7833ade6704677a00b77e74697c6b09d",
       "title": "Intern (m/f/d) Software Test Automation",

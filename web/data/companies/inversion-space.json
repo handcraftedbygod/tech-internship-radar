@@ -2,20 +2,30 @@
   "slug": "inversion-space",
   "name": "Inversion Space",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,16 +39,30 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
     {
+      "id": "057314a274c92c036e831b2fb7dc72d2302aeea1",
+      "title": "Vehicle Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005",
+      "location": "Playa Vista, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "935ef0c8493fd704dcc1dc87b9c3c2264c14296c",
+      "title": "AI & Internal Tools Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
+      "location": "Playa Vista, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
       "id": "87ddac654ca439e5dcfcb052b10ab1660997cdb6",
       "title": "Avionics Embedded Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005",
-      "location": "Playa Vista, LA",
+      "location": "Playa Vista, CA",
       "firstSeenAt": "2026-10-19T13:17:09.570Z"
     }
   ]

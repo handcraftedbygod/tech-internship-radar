@@ -2,17 +2,17 @@
   "slug": "decathlontechnology",
   "name": "Decathlontechnology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
-      "hub": "Paris",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "Paris",
       "count": 2
     }
   ],
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "14c4529ebdab122c622a9a024d90efd5315c2a41",
+      "title": "Data analyst Intern - Inventory Management - Value Chain (f/m/d)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/data-analyst-intern-inventory-management-value-chain-lille-upline-nord-157668?utm_source=freehire.me",
+      "location": "Lille, Upline, Nord",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "fbdb98b7e5a1b8a5b9e1adb5e65f40ed591ed3a9",
       "title": "Internship - Data Engineer Core Data Product (f/m/d)",

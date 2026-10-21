@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 31,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 73,
-  "avgPostingDurationDays": 24.7,
+  "totalPostings": 74,
+  "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 43
+      "count": 44
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 56
+      "count": 57
     },
     {
       "id": "biz",
@@ -51,11 +51,18 @@
     0,
     33,
     26,
-    14,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b2ca6a79d405852e2f2c54acb10b1877b163fc0e",
+      "title": "Intern Brands Ads Global HQ",
+      "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "87d20f5d62cdf9b6c5cb5b96a22167d9af602d3f",
       "title": "Junior/Middle Retail Sales Executive",
@@ -118,13 +125,6 @@
       "url": "https://careers.glovoapp.com/job/junior-tax-analyst-hq-in-barcelona-spain-jid-744000154939419/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "8c8c0a18b6a36782148e51d46ec665e19e6ee73e",
-      "title": "Intern Talent & Development Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-talent-development-global-hq-in-barcelona-spain-jid-744000154066964/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }

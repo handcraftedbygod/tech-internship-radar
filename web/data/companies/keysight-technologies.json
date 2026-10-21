@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Austin",
@@ -20,7 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ffd1cb300a073e3aa34404fca32e427174720e1c",
+      "title": "Software Engineer Intern, R&D",
+      "url": "https://jobs.keysight.com/jobs/54805?icims=1",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "47fb434d4c26ded59b5bf1437efc1264546b725b",
+      "title": "R&D Hardware Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "b1c89639e9289a3499428330a53f85da92c18c73",
       "title": "R&D Software Engineer Intern",

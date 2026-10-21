@@ -2,20 +2,43 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
+      "hub": "Other",
+      "count": 3
+    },
+    {
       "hub": "Munich",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    },
+    {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +52,39 @@
     0,
     1,
     0,
-    0,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3bffab3ee0474da8a452df5bab7edab513184e6",
+      "title": "SSD Firmware Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
+      "location": "San Jose, CA, Boise, ID",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "631c3a472db75dc0ae6239c5bfbd8965e8be3aac",
+      "title": "SMAI Probe AI Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "b84f5b62391f19e980b06017ab1e875c6bd9e824",
+      "title": "HBM Design Engineer Intern - HBM",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "2ecb3fe7b7b52ebc458353a63a9b6a2756c42fca",
+      "title": "Design Engineer Intern, HBM",
+      "url": "https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "1fd2cad3e27c493eab8269dfd343f487f329b3a5",
       "title": "Working Student in Software Quality Assurance (m/f/d)",

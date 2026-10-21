@@ -4,19 +4,23 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 39.1,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 28.7,
   "topLocations": [
     {
       "hub": "Other",
       "count": 7
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b669975bffcf04832d95f958cd43325829393787",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57469592?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "1d583f248a62aa7e868078b6bb0dd8552dd79ff2",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",

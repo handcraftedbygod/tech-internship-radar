@@ -2,9 +2,9 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28785896d71bc1c9307491a379e4cb9ac273448b",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
+      "location": "Arden Hills, MN",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "757354287dd7b6da1c0d8f7d5fda16e6be6e1795",
       "title": "Finance Data Science Intern",

@@ -2,14 +2,14 @@
   "slug": "arm",
   "name": "ARM",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     2,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d1754836c35c2d0ba6109649d498f673b309d79",
+      "title": "CPU Software Intern for Verification",
+      "url": "https://careers.arm.com/job/sophia-antipolis/cpu-software-intern-for-verification/33099/102172017328?utm_source=freehire.me",
+      "location": "Sophia Antipolis, France",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "6073a5af5ec3435a20cbc7c8a3107959dbf4a4e6",
       "title": "Software Engineering Intern – Workflow Monitoring and Analytics",

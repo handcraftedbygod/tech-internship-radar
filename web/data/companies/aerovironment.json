@@ -2,20 +2,25 @@
   "slug": "aerovironment",
   "name": "AeroVironment",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dbbf386aab79e3a19b1efd4b951ac4aba754a2b",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+      "location": "Centreville, VA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "802210bda303b2af74e908ab780f18f2f3a43be2",
+      "title": "Software Engineering Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940",
+      "location": "Minneapolis, MN",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "764f43d1d0842d0dfa2fc5957b29b465b31d11ee",
       "title": "Software Engineering Intern",

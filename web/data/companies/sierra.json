@@ -2,11 +2,15 @@
   "slug": "sierra",
   "name": "Sierra",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 4,
+  "totalPostings": 9,
   "avgPostingDurationDays": 14,
   "topLocations": [
+    {
+      "hub": "London",
+      "count": 5
+    },
     {
       "hub": "San Francisco",
       "count": 4
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,46 @@
     0,
     0,
     4,
-    0,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "79f26c4b35fe6002e1e841a463905c0aa711a767",
+      "title": "Software Engineer Intern, Agent (London 2027)",
+      "url": "https://artificialintelligencejobs.co/jobs/sierra-software-engineer-intern-agent-london-2027-8ea23fa1",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "2c4d79a6f4bc8ed3ff6533a3a9af58d01f4c84cb",
+      "title": "Software Engineer, Agent (New Grad)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/software-engineer-agent-new-grad-london-189824",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "a0d7dbff8d1fa137012702699ebbd2ae33c2a82b",
+      "title": "Software Engineer Intern, Agent (London 2027)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/software-engineer-intern-agent-london-2027-160351",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "8ea23fa18faa1b43d4371454ef88d8e4a48f5dcb",
+      "title": "Software Engineer Intern, Agent (London 2027)",
+      "url": "https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "8c565564eb65f3a1f877bed0955f6afded903118",
+      "title": "Software Engineer, Agent (New Grad)",
+      "url": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252",
+      "location": "London",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "e535585480ae99a2e298c13420ef3255d2f6a7e7",
       "title": "Intern, Agent Development (Winter 2027)",

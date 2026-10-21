@@ -1,0 +1,45 @@
+{
+  "slug": "fanduel",
+  "name": "FanDuel",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-21T09:13:09.926Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "77cba11921744cde32de53265d1d0431597ac852",
+      "title": "Product Co-op",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8285180",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    }
+  ]
+}

@@ -2,21 +2,26 @@
   "slug": "skydio",
   "name": "Skydio",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c213fac76febb2f271c9098b03dea9848b1bc02",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "325b02c1738c9737a10c23319518982696a910cb",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "31f72cd464726ffab6dcbbd9ae23309bb1b8c366",
       "title": "Software Engineer Intern",

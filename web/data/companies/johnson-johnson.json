@@ -2,21 +2,21 @@
   "slug": "johnson-johnson",
   "name": "Johnson & Johnson",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -39,11 +39,18 @@
     0,
     0,
     1,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7ebcfc49141eb058cd5be1904f20b646bdbf618",
+      "title": "Quality Data Science Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "a6e4696a56377a8ce053a1aae3e70bbfd79213e1",
       "title": "Emerging Technologies Co-op",

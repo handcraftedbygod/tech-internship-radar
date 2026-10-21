@@ -2,11 +2,15 @@
   "slug": "jpmorganchase",
   "name": "JPMorganChase",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
     {
       "hub": "Dublin",
       "count": 1
@@ -17,10 +21,6 @@
     },
     {
       "hub": "Other",
-      "count": 1
-    },
-    {
-      "hub": "New York",
       "count": 1
     }
   ],
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -46,11 +46,18 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a56ddb6727b2bfe09934c957c64e30cc4a70a67e",
+      "title": "Machine Learning Intern, NLP",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "0a43999db54fff17b12f0c5b8e95e04f588c6499",
       "title": "AI Research Associate Intern",

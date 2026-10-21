@@ -2,25 +2,35 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "New York",
-      "count": 2
+      "hub": "Toronto",
+      "count": 6
     },
     {
-      "hub": "Toronto",
-      "count": 1
+      "hub": "New York",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +43,46 @@
     0,
     0,
     0,
-    3,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ea42c00c3c002776c3aaa3e9a05bdc7242bac99",
+      "title": "Application/Software Developer Co-op - Capital Markets Technology",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "af1de61e095b4d72f3db4ba8dab651b1a55a7d38",
+      "title": "Application Developer Co-op - Enterprise Technology & Business Management",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "65842e9f3d456afe4c9126392a913617432dd5ea",
+      "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "1ffdae22976ecfbecf6bf0b96228d78e43c622b8",
+      "title": "Application/Software Developer Co-op, Capital Markets Technology",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "b560d80120a52a526ed17a780cc00a92dd558e36",
+      "title": "Advanced Analytics and AI Co-op",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "fc74f0b4f2af757ade7390902a5b9dcc2963c776",
       "title": "Information Security Analyst Co-op",

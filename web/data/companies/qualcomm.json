@@ -2,20 +2,30 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +39,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "863f5f49c16cec200417319d38292bb609abb8bf",
+      "title": "QDSP Hardware Physical Design Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721636316",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "f5850dfc8c5664dafcbb20e787f21bc55d677af6",
+      "title": "Machine Learning AISW Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721636765",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "32fd81e29829a040ca047ac466223dca8bb24928",
       "title": "Automotive Engineering Intern",

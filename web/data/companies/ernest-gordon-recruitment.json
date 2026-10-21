@@ -2,21 +2,21 @@
   "slug": "ernest-gordon-recruitment",
   "name": "Ernest Gordon Recruitment Limited",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45f329acde2f5c77c7b9262371888c36e21473db",
+      "title": "Junior Fire &amp; Security Engineer (Global Company)",
+      "url": "https://www.reed.co.uk/jobs/junior-fire-amp-security-engineer-global-company/57477630?utm_source=freehire.me",
+      "location": "Edinburgh",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "001c5d23789d8ae6f388c27d647bd3ecd19ab823",
       "title": "Junior Security Systems Engineer (Intruder Detection)",

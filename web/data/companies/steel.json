@@ -1,0 +1,45 @@
+{
+  "slug": "steel",
+  "name": "Steel",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-21T09:13:09.926Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "393385d9379f8b52568b265929b0e70103ca74b3",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    }
+  ]
+}

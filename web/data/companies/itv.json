@@ -1,0 +1,45 @@
+{
+  "slug": "itv",
+  "name": "ITV",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-21T09:13:09.926Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "19a1cc74c044cabbfbe7154734860b79e5237dbc",
+      "title": "Junior Software Engineer",
+      "url": "https://fa-euup-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1544?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    }
+  ]
+}

@@ -2,26 +2,30 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
       "id": "biz",
       "label": "Business",
       "count": 3
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +38,25 @@
     0,
     1,
     4,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6baba25048d241f1a43b60c66353ef72d2411ce9",
+      "title": "Security Engineer Junior - GRC",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alan/security-engineer-junior-grc-anywhere-in-france-76041",
+      "location": "Anywhere in France",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "2f87cd928e4e76d5e6c4ccad5005d6a966a4dfa9",
+      "title": "Security Engineer Junior - GRC",
+      "url": "https://jobs.ashbyhq.com/alan/41224533-6e1c-45a5-9c18-7b1c3104c92d",
+      "location": "Anywhere in France",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "b638591bbe62ca9964753d0f9c7e46492d2bafc7",
       "title": "General Secretary Associate intern",

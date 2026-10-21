@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 9,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 13,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Paris",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     0,
     0,
     2,
-    10,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1719c8355ba57c61ff2b0da5709265b758316bf4",
+      "title": "Internship - Software Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200690139/internship-software-engineering?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "04011ef78a34923b0c06b8635ef7a315d52fc164",
       "title": "Aeon Modeling Software Intern",
@@ -116,13 +123,6 @@
       "title": "Internship Computer Vision & Machine Learning Research",
       "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research?utm_source=freehire.me",
       "location": "Munich",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "47ca57611c28f022c4b324b3f156b0435f6cc5da",
-      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
-      "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency?utm_source=freehire.me",
-      "location": "Zurich",
       "firstSeenAt": "2026-10-01T10:45:16.393Z"
     }
   ]

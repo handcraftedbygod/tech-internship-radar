@@ -2,14 +2,14 @@
   "slug": "iabg-industrieanlagen-betriebs-gmbh",
   "name": "IABG Industrieanlagen Betriebs-GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     5,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3da0ee244058e503c281ef8f2ed408e8c9614589",
+      "title": "(Junior) Software Engineer – Distributed Simulation & Interoperability (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzg4MTE2MC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "0f54a0542809bdf238753d84a71c0e41be326adb",
       "title": "(Junior) Software Engineer – Distributed Simulation & Interoperability",

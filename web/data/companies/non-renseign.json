@@ -2,21 +2,21 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     4,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9b23d76de75088aa9192e94473a576b937cbf488",
+      "title": "Analyste Junior - Forward Deployed Software Engineer -2026 - H/F",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzkyNzI4NSA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "b1417da0200ec8116c181d7d83c1a42746279fba",
       "title": "Stagiaire - Data Analyst (H/F)",

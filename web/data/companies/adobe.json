@@ -2,21 +2,30 @@
   "slug": "adobe",
   "name": "Adobe",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
+      "hub": "San Francisco",
+      "count": 3
+    },
+    {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,39 @@
     0,
     0,
     0,
-    1,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bf2df139ce3e5322b5f37aec44db9cceb8d47ef",
+      "title": "Security Engineer Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "83c2c4c623b0359e70c6bb6e9069e2a74a6e322d",
+      "title": "Data, AI & Innovation Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "d5374ebb0ea8871dc9f9ebd4ac4acdeaf3b9a927",
+      "title": "AI & Architecture Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "cf6a7c203587e191fead9750fb2f0e2a9387192b",
+      "title": "Security Engineer Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+      "location": "Lehi, UT",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "057bce1fb5da37255d0f35a4333479aeb39bd315",
       "title": "2027 Intern- Software Engineer",

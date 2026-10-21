@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 14,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 28,
+  "totalPostings": 31,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -12,19 +12,19 @@
       "count": 12
     },
     {
+      "hub": "San Francisco",
+      "count": 6
+    },
+    {
       "hub": "New York",
       "count": 6
     },
     {
-      "hub": "San Francisco",
-      "count": 4
+      "hub": "Other",
+      "count": 3
     },
     {
       "hub": "Chicago",
-      "count": 2
-    },
-    {
-      "hub": "Other",
       "count": 2
     }
   ],
@@ -37,7 +37,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -50,11 +55,32 @@
     1,
     4,
     6,
-    17,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8b7458f84bd2a2f73c128a54fc11043ed8b78a67",
+      "title": "AI Research Intern",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "40829244f7a94c53ae1916ffb2cc31d48be20fd1",
+      "title": "Software Engineer Intern",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+      "location": "SF, Bellevue, WA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "e6a8b4e9f0b1bcf43e302a9a144428cfdcea6254",
+      "title": "Software Engineer Intern, Security/Government",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
+      "location": "San Francisco, CA, Bellevue, WA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "a4fe0c04a68b6bbee5e78fbee2fd1f2692ad7d3e",
       "title": "Solution Engineer Intern",
@@ -103,27 +129,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
       "location": "New York - New York",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "1647df1938bf9386b3c61728c18982bfa4a448af",
-      "title": "Commercial Graduate Program - Sales Path - Italian Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Italian-Speaking-Market_JR363192-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "6be593918730bc7cfbef652360180d0cf8bd3c9c",
-      "title": "Commercial Graduate Program - Sales Path - Spanish Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---Spanish-Speaking-Market_JR363211-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "7e545ac2c3f27c16712c0d87b6909b2fcdcc9413",
-      "title": "Commercial Graduate Program - Sales Path - French Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Program---Sales-Path---French-Speaking-Market_JR363213-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }

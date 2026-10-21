@@ -2,21 +2,25 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 7,
+  "totalPostings": 13,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 12
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 12
     },
     {
       "id": "biz",
@@ -34,11 +38,53 @@
     0,
     1,
     0,
-    6,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dee22d2bf5506132adabe0da3267f505024367fb",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "aada3913cafda47398e6459f8d35591f4fb38baa",
+      "title": "Software Engineering Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "ff258fd1d9e5e9bd8f4f9addeaeb346470ce2c95",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "8f2b55088f8b1c20c125c031eb4e35c2e8cd7b65",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "ec4d9a9b746d9a328cb8b57b1a5db13243cebc33",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "2246b4315f2371bf74c0e20a01ee8e87916f28e4",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "aa564f1e933ff697941a350a9e2997ccf524a399",
       "title": "Development Operations Intern, Engineering Development Program",
@@ -66,27 +112,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
       "location": "Sterling, VA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "aee944e4279bf8d594a594a951517bc5e5aca574",
-      "title": "Quality Assurance Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553",
-      "location": "Cheshire, CT",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "afa867070f6823e143cccfc72fd868d04f111d86",
-      "title": "System Administrator Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679",
-      "location": "Middletown, RI",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "2d97b5626b5aff9a47f510846d92841ff1991c59",
-      "title": "Software Engineer Intern, Fleet Health Instrumentation",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
-      "location": "Fullerton, CA",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
   ]
 }

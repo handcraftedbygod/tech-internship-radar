@@ -2,14 +2,14 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 7,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 10
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,53 @@
     0,
     1,
     1,
-    5,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e5f621b028e5ed31dac11e1aa83f4cd277ba4e3",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-infrastructure-engineer-new-grad-uk-government-london-united-kingdom-132813",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "be402e39ff37f6bdad4d43dc968a6932b0d5c5e0",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-commercial-london-united-kingdom-297932",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "b77a39b72e69da864e07f74b7999dcc321002f51",
+      "title": "Forward Deployed Software Engineer, Internship - UK Government",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-uk-government-london-united-kingdom-357383",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "c4f60995411087a764a69c8eb5c58853d4ba24b3",
+      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-commercial-london-united-kingdom-70903",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "30bde498d65f9cefe47311973150226d75f0e7c7",
+      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-uk-government-london-united-kingdom-328343",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "97ebb66ec7e0c9e6521faa056afe36317c461648",
+      "title": "Software Engineer, Internship",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/software-engineer-internship-london-united-kingdom-4823",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "39650c0d1f4910893f68174edc1434d10c6ffd5f",
       "title": "Software Engineer, Internship - Query Engines",
@@ -69,27 +111,6 @@
       "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "4db7b807fcb0a64e6b8488e5f74a232584759b2d",
-      "title": "Software Engineer, Internship - Query Engines",
-      "url": "https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "6da28ff2c5b7d08070e4f13dbe081cbc95068e33",
-      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-      "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
-      "location": "Honolulu, HI",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "4ab22275705f723f62a59d777c9d409098e6c757",
-      "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
-      "url": "https://jobs.lever.co/palantir/cadc0eb2-2703-43e4-8e4f-41edf5b071c6",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-08-31T10:33:12.712Z"
     }
   ]
 }

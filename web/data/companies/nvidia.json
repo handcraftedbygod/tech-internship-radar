@@ -2,9 +2,9 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -13,10 +13,14 @@
     },
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Toronto",
       "count": 1
     }
   ],
@@ -24,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -42,11 +46,25 @@
     0,
     2,
     0,
-    5,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9bb7db86865f62cbf8d724cdbc7ead54aecdeb0b",
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://artificialintelligencejobs.co/jobs/nvidia-ai-developer-technology-intern-2027-ade52084",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "83fbbb773534e72590d28391c825a62680c69021",
+      "title": "ASIC Verification Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "a99131a8ac09ce7cceab53d28075cf5e31a843ec",
       "title": "Sparse Linear Algebra Libraries Intern",

@@ -2,9 +2,9 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Amsterdam",
       "count": 1
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -47,11 +51,18 @@
     0,
     10,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e9dfe89773db34c5e50af406b5b1e33a420749eb",
+      "title": "MES & Supply Chain Systems Co-op Analyst",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
     {
       "id": "6ba5d4c8cda2748e307a11d8f2f89dcb51e6341a",
       "title": "Cybersecurity Consultant Internship Program (She/He/They)",
@@ -112,13 +123,6 @@
       "id": "9ab6462c95ccb574fc5fbbd2356cbcd01cf1d140",
       "title": "Backend Developer Internship Program (She/He/They)",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950?utm_source=freehire.me",
-      "location": "Warsaw",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "ec515460ce34b876e7d29cf9f00cb05961623630",
-      "title": "Software Engineer (C++) Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Software-Engineer--C----Internship-Program--She-He-They-_R00349414?utm_source=freehire.me",
       "location": "Warsaw",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
