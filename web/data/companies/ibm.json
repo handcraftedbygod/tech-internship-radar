@@ -2,14 +2,14 @@
   "slug": "ibm",
   "name": "IBM",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cefc569eb4034e62a86fed7ac73c857ccaf8c97d",
+      "title": "Data Engineer Junior",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137028&utm_source=freehire.me",
+      "location": "Bois Colombes Cedex, France",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "2addbe3f9aa9ba814f26e856d57410026faecbf5",
       "title": "Backend Developer Intern — Build Real-World Systems",

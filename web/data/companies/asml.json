@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     2,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57a9070391c85451728f03ad557bdb07a460859f",
+      "title": "Computer Science | Software Engineering internship: test impact analysis",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "fd79352aa751eec0421eb6a80490d0ce555f0d71",
       "title": "Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing",
@@ -101,13 +108,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---AI-internship--audit-automation-solutions_J-00349576?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "fff167db2158e2ad4dfd5237f7ee54043cce1b0a",
-      "title": "Data Science | Psychology internship: behavioral insights analytics",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Psychology-internship--behavioral-insights-analytics_J-00346897?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

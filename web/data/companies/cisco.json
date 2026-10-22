@@ -2,14 +2,18 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 12,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Krakow",
       "count": 8
+    },
+    {
+      "hub": "San Francisco",
+      "count": 7
     },
     {
       "hub": "Other",
@@ -24,7 +28,22 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -37,11 +56,60 @@
     0,
     1,
     8,
-    3,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2a5994f384aacb6ded5c860c77f24f88571f2835",
+      "title": "AI Operations Engineer I Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "5c2b319795c1d1ba892ac53446cbc4a1e3dcc797",
+      "title": "Engineering Product Management Specialist I Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "8689f88a09b2a52d0f6d8d295b33e9a682e75c02",
+      "title": "Machine Learning Engineer II Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "93c3df11c88ebfc2650731d558ea468e3df950e5",
+      "title": "Machine Learning Engineer I Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "692f925d66c75f16ed765f8a9883128f5e7fa17f",
+      "title": "Software Engineer Intern, Full Stack / Backend II",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "0b644a2dff161eb7c5f4575b9f09a2aac891e8e4",
+      "title": "Software Engineer Intern, Full Stack / Backend I",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "a1e07302f6f5e6da4b3802d48da6e54a9cacf2df",
+      "title": "Software Engineer Intern, Embedded Systems II",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "1400e66e95d69a8aa1087e5b5db43cd07570f481",
       "title": "Junior Software Engineer (C++), Authentication Team - Splunk",
@@ -62,55 +130,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Stockholm-Sweden/Junior-Software-Developer---Sweden_2025698?utm_source=freehire.me",
       "location": "Stockholm, Sweden",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "a6261bde5fd3831f223cf85f62a4426c9e759f58",
-      "title": "Junior Cloud Software Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Cloud-Software-Engineer_2023637?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "65c68f0a412941efd927189f3fe74fd94c7ba78c",
-      "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer---Full-Stack--Go-and-React----Agent-Management_2024258?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "85c176c17125b66bebae734a3ba3969a9badf0e6",
-      "title": "Junior Python Data Platform Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Python-Data-Platform-Engineer_2025676?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "b8e56cf6e16d7648a790fe37a0970d308e3f86ae",
-      "title": "Junior Platform Software Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer_2024616?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "5fb75f47b34ed6b2682b1df124e13ef041bcf4ac",
-      "title": "Junior Cloud Automation Software Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Cloud-Automation-Software-Engineer_2024610?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "b912e07080b247048f8e4ddc95ce939d0ca62a52",
-      "title": "Junior Software Engineer (Go + Cloud)",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--Go---Cloud-_2024769?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "4f873739d086415cb5c0e10aec8071c6d6407ba1",
-      "title": "Wireless Software Engineer_ Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ecublens-Switzerland/Wireless-Software-Engineer--Intern_2025061?utm_source=freehire.me",
-      "location": "Ecublens, Switzerland",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

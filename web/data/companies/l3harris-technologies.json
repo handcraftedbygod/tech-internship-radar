@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96c1f5eb718bbaea40efffa24cb65bc47b39200f",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
+      "location": "Salt Lake City, UT",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "c883cd4c387cc4b27836329bdbb320dbab247341",
       "title": "Software Engineering Intern",

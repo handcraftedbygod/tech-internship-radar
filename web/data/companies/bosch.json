@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 28,
+  "totalPostings": 31,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 23
     },
     {
       "hub": "Reutlingen",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 19
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "hw",
@@ -55,16 +55,37 @@
     0,
     18,
     5,
-    5,
+    8,
     0,
     0
   ],
   "recentPostings": [
     {
+      "id": "10312a8efc2badf71a0e2b6cba925c38c59d68e1",
+      "title": "Calibration Process Optimization Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+      "location": "Farmington Hills, MI",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
       "id": "3f1985b3516f015fd39fc371b4ac0a48a7245ec1",
       "title": "Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-?utm_source=freehire.me",
       "location": "Ovar, pt",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "321f446a76f9a35800c495a2f3fd604076f17434",
+      "title": "AI Research Intern, Wireless Foundation Models",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-10-21T09:13:09.926Z"
+    },
+    {
+      "id": "80678c31b68b849e531c00b68edd96cb9395cfce",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
+      "location": "Fountain Inn, SC",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     },
     {
@@ -108,27 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149827009-praktikum-im-bereich-machine-learning-fur-pradiktive-zuverlassigkeitsanalytik-warmepumpen-w-m-div-?utm_source=freehire.me",
       "location": "Wernau (Neckar), BW, de",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "2bcf8ff3166b70aa764f213561e04116a338ecdb",
-      "title": "Junior AI & Data Analytics Specialist for Quality Management (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149064114-junior-ai-data-analytics-specialist-for-quality-management-f-m-div-?utm_source=freehire.me",
-      "location": "Aveiro, Aveiro, pt",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "8a43b133978ed22d20675173aa723b8e2e7a64eb",
-      "title": "Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148963738-extracurricular-internship-agile-moderator-data-engineering-f-m-div-?utm_source=freehire.me",
-      "location": "Aveiro, pt",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "36245e0b07212ef8f98d58863c9b8c6eab60bfba",
-      "title": "Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148964769-extracurricular-internship-infrastructure-devops-engineer-f-m-div-?utm_source=freehire.me",
-      "location": "Aveiro, pt",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]
 }

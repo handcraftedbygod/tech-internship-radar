@@ -2,14 +2,14 @@
   "slug": "perplexity",
   "name": "Perplexity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -38,11 +38,18 @@
     0,
     0,
     8,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "425869c167e752c9f799287387f7342163e9b0a5",
+      "title": "Internship - Machine Learning Research Engineer",
+      "url": "https://www.arbeitnow.com/jobs/companies/perplexity/internship-machine-learning-research-engineer-berlin-71199",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "6c4fe4efe459c668239b9083a935e7ad14e7904a",
       "title": "Member of Technical Staff (New Grad)",

@@ -2,21 +2,21 @@
   "slug": "sia",
   "name": "Sia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     6,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5f20d02876e702c271a4dc2755367c43cd8f093",
+      "title": "Final Year Internship Consultant - Cybersecurity",
+      "url": "https://jobs.smartrecruiters.com/Sia/744000156750699-final-year-internship-consultant-cybersecurity?utm_source=freehire.me",
+      "location": "Paris, IDF, fr",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "62e62c3e8f5093f7097f140aec9788e4101941d9",
       "title": "Final Year Internship Consultant - Cybersecurity",

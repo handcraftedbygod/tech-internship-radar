@@ -2,21 +2,21 @@
   "slug": "ch-prog-partner-whatjobs-mixed-cpc",
   "name": "CH_Prog_Partner_Whatjobs_Mixed_CPC",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 9
     },
     {
       "id": "swe",
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    10,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed74f091e6466d50518f59d6ba8733efa412119e",
+      "title": "Internship - Data Engineer - Optimization of Data Delivery",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__46077964__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "a5f400a42afb04bb8414ec50f14cb24c2a556c91",
+      "title": "Internship - Data Engineer - Accelerating Adoption of Microsoft Fabric",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981519__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "5a72e0c639df2a58d06349a9ee518dd0c9ef141a",
       "title": "Internship – Software Engineer - Competency Graph Administration Platform Modernization",
@@ -92,20 +106,6 @@
       "id": "26cfd6e9a57bac1f1751e74add2bbc506b83ead2",
       "title": "Internship – AI Software Engineer - AI-Powered Portfolio Intelligence (PMS)",
       "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981780__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "3c59bdc3ef83256cdc763d61def45cbd6f4a6db0",
-      "title": "Internship – Software Engineer - Application Monitoring & Observability",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981378__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "71dcb5372f042dbc2e177dc0a536ddc38ca87b0f",
-      "title": "Internship – Ai Software Engineer - Ai-Powered Portfolio Intelligence",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981823__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Switzerland",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }

@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4df2dbd3ca8ddfb62670b3fe361eab5c2d26024",
+      "title": "Junior C++ Software Engineer",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40958?utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "7bc995a7716934491aa4a2357a3fdc79df91d436",
       "title": "Software Development Trainee",

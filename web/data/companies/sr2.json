@@ -2,21 +2,21 @@
   "slug": "sr2",
   "name": "SR2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b254ea0c71a0dc57806eac19132444ec9b203c8e",
+      "title": "Junior Data Engineer - AWS - SC Cleared",
+      "url": "https://www.reed.co.uk/jobs/junior-data-engineer-aws-sc-cleared/57480160?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "87297b329033ae64b2e9d08b55265ac12e9b9148",
       "title": "Remote Junior Data Engineer: Pipelines & Cloud",

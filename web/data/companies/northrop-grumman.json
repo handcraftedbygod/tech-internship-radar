@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65ceb560cacfe5691aa271e97f8b555ef36b8dcc",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "18638da8ba260ad3ffe0aabb904fbf12f4ff2f4d",
       "title": "Cyber Systems Engineer Intern",

@@ -2,14 +2,14 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +39,18 @@
     0,
     3,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b40bc21cae250a1603e5e562ada5df676361dc0d",
+      "title": "Early Career - Embedded Software Engineer (m/f)",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088?utm_source=freehire.me",
+      "location": "Toulouse Area",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "64e8139f0a3f9e55e1bc96722189b3cb15dd2b42",
       "title": "Tool Technology and Development Engineering Intern",

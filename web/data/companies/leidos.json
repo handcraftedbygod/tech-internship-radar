@@ -2,14 +2,14 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +39,18 @@
     0,
     10,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d97132855bccf853cbaecf5fa6364380928049b",
+      "title": "Network Site Design Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "4a2134861e08a389cf4a778ae2aacb83e7efd2ba",
       "title": "Cloud Engineering Intern",
@@ -100,13 +112,6 @@
       "title": "Cybersecurity Analyst Intern",
       "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-1d091f",
       "location": "Gambrills, MD",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "945a3b210ee22e6f77988253ff1af8dfb1bbb6ec",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern",
-      "location": "O'Fallon, IL",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

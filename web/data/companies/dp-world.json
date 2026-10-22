@@ -1,0 +1,52 @@
+{
+  "slug": "dp-world",
+  "name": "DP World",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-22T09:11:21.738Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "997ec231a7d22995e230d92d55560e2ee3063629",
+      "title": "Information Security Intern",
+      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "f9e7825123c2a5ffbe2e5528ad59d95d08ac63c8",
+      "title": "Application Analyst Intern",
+      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400",
+      "location": "Itasca, IL",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    }
+  ]
+}

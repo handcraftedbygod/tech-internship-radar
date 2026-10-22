@@ -2,9 +2,9 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Stuttgart",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b41a6d7baf6560af828d1f83ad083f38a11ac5d4",
+      "title": "Junior Software Entwickler C/C++ (all gender)",
+      "url": "https://jobs.smartrecruiters.com/ALTEN/744000156821194-junior-software-entwickler-c-c-all-gender-?utm_source=freehire.me",
+      "location": "Stuttgart, BW, de",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "5afd045044758965d495168872ad9f829eba8d1a",
       "title": "Junior Software Developer C/C++ (all gender)",

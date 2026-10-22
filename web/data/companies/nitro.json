@@ -2,14 +2,14 @@
   "slug": "nitro",
   "name": "Nitro",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "489b7a4669453557d621a4dff5430c98d1af0bd8",
+      "title": "Intern Software Engineer (FullStack)",
+      "url": "https://www.gonitro.com/about/careers/8245648?gh_jid=8245648&utm_source=freehire.me",
+      "location": "Dublin Ireland",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "db1bce38f7b6093333a128e9ba6f4642ff16c689",
       "title": "Intern Data Science - Porto",

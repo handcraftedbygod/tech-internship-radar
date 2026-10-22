@@ -2,21 +2,21 @@
   "slug": "sonio",
   "name": "sonio",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "849b7acc1afbd27e31dddb508574f05627419a94",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/sonio/64507d48-cdea-4654-a8f4-28b70ce6cb97?utm_source=freehire.me",
+      "location": "Paris office",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "5786615e74769fdb887d25dddab02985c57e0e68",
       "title": "Clinical Data Analyst intern",

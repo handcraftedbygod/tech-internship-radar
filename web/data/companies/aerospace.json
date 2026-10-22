@@ -2,20 +2,25 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +34,32 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c5a2f292cf1d956d256e54308d7e34fdd0ce63a",
+      "title": "Signal Processing and RF Engineering Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "3d7acbc29b7c5f4d6c697522fd02ac7f4caa10bb",
+      "title": "Digital Communication Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "0d026f06626d3d02920485105af477483ec266f5",
+      "title": "Hardware Security Engineering Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+      "location": "El Segundo, CA, Chantilly, VA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "97152953f52da636fbabebf22a29a16201c2848b",
       "title": "Cloud Solutions Engineer / Site Reliability Intern",

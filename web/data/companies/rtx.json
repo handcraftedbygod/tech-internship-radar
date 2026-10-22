@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     },
     {
       "id": "biz",
@@ -38,11 +38,25 @@
     0,
     1,
     0,
-    12,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c359616e695c033ab7507bd79d0f4d538760d2e",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
+      "location": "Tewksbury, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "f8033058224b03886d5884a88b37d27129ce51c0",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
+      "location": "Annapolis, MD",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "dee22d2bf5506132adabe0da3267f505024367fb",
       "title": "Software Engineering Intern",
@@ -97,20 +111,6 @@
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "fcc4999c1a13f8b4826bb7945189aa342518e0da",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "20dbc5e8d750104d8640f3e318b21580c30ac392",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
-      "location": "Sterling, VA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

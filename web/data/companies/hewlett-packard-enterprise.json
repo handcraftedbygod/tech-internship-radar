@@ -2,30 +2,34 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
+    },
+    {
+      "hub": "Montreal",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
-    },
-    {
-      "id": "design",
-      "label": "Design",
-      "count": 1
+      "count": 5
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -39,11 +43,25 @@
     0,
     0,
     5,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b132e5340f6065ba3afc85ac1f57fa4cacd99827",
+      "title": "Software Development Intern, AI-Assisted Development",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
+      "location": "Saint-Laurent, Montreal, QC, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "d1f558cbf43eca4c636e1d32e76bc0916216beb2",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
+      "location": "Roseville, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "4c96be2fa5c61ba60002299ca17505ef5b092850",
       "title": "Hardware Engineering Design Intern",

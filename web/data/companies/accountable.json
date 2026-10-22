@@ -2,21 +2,21 @@
   "slug": "accountable",
   "name": "Accountable",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "414b5e7f06b08346df5a38485acefd47df0c1a95",
+      "title": "Junior Backend Engineer - DeFi & On-Chain Systems",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__578884587__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "68a4539a01cc6ec01619b4eabdd964a40dc1c0a0",
+      "title": "Junior DVN Backend Engineer Remote, European timezone Role details",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__578884394__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "f8a475a08f84df69171d5e7cfa7ab187641e269a",
       "title": "Junior Frontend Developer",

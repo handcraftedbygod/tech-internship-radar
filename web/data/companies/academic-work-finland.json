@@ -2,9 +2,9 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Helsinki",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     0,
     1,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbb6cee99fa5c3968f15db50211ff19574cf2039",
+      "title": "Junior Software Developer - AI & Monitoring Systems",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/e3fae867-bfa0-41a8-8d27-9394ea04b789/en?utm_source=freehire.me",
+      "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "26ee8cedeff08026044eb8b84275c194d995feaa",
       "title": "Junior Drupal Developer",

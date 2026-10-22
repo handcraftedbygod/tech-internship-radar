@@ -2,20 +2,25 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6031fc1ce3862777dcc5672cbfe1f2304bdd427",
+      "title": "FPGA IP Design Engineer Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "861a434ed0f6e00c05643c39ea299a9a230b11b6",
+      "title": "Quartus User Interface Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "913394047d7cab9850b29c83829d6a664b881d1e",
       "title": "Software Engineer Intern",

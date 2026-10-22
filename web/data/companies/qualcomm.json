@@ -2,30 +2,35 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -39,11 +44,39 @@
     0,
     0,
     0,
-    3,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1bbbd39b48504de61763bcfc150b5fbbb9d57a06",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "b26a1533133c65b30c19738a3f94a78dcd278f62",
+      "title": "Camera Design Implementation Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721664170",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "32c6b2f5ce4c8ed223299aaf732f2e62452e9d3e",
+      "title": "Edge AI and Display Hardware Architecture Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "b8a9ed3ed9f85da0642895fc0e2f776b20216a05",
+      "title": "Display Systems Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "863f5f49c16cec200417319d38292bb609abb8bf",
       "title": "QDSP Hardware Physical Design Intern",

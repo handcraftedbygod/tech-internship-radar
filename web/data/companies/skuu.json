@@ -1,0 +1,52 @@
+{
+  "slug": "skuu",
+  "name": "SKUU",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-22T09:11:21.738Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "61ce8f0d4a2eca08ed78e4f59b3b00165a3001b4",
+      "title": "Data Engineering Internship",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__173777666__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "da0bf5ea1e88eded81828dc0c4354b7ca78874cc",
+      "title": "Data Engineering Intern: Build an AI-Ready Data Layer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__173799474__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    }
+  ]
+}

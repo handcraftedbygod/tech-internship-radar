@@ -2,21 +2,21 @@
   "slug": "aerovironment",
   "name": "AeroVironment",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5cb5a508c870d70e9c3f35c423e6a7d53e4a9a6a",
+      "title": "Software Engineering Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "9dbbf386aab79e3a19b1efd4b951ac4aba754a2b",
       "title": "Machine Learning Engineering Intern",

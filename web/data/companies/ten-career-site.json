@@ -4,18 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-14T09:19:46.299Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ccce43c1c2dae6cd2f8e038a3f7ed964ee21188b",
+      "title": "Internship - Support for Business Development and Front-End, Markets, and Solutions Activities – Gas & LNG - F/M",
+      "url": "https://hcxg.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16294?utm_source=freehire.me",
+      "location": "Nanterre, 92-Hauts-de-Seine, France",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "e3fb1f3ab8e645edc3b3d228d2fa5cc8181b8cef",
       "title": "Internship – Junior ICSS Systems Engineer – F/M",

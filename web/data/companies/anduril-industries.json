@@ -2,14 +2,14 @@
   "slug": "anduril-industries",
   "name": "Anduril Industries",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0c0ee1c942b0c0741e9fff22259616a1a5920b8",
+      "title": "2027 New Grad Software Development in Test",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007&utm_source=freehire.me",
+      "location": "Dublin, Dublin, Ireland",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "6522a892454e6f69abcf8c980bf2ec661571b5f4",
       "title": "2027 Software Engineer Intern",

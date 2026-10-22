@@ -2,9 +2,9 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15c9b5ebcdad1522ca4ea7e0de5bc4bd4c630a82",
+      "title": "Analyst, Early Career (Full Stack)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "location": "New York, New York, United States; San Francisco, California, United States",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "f903e15d6283dd7243b684653b17da89e68b0682",
       "title": "IT Engineer Intern (Early Careers Summer 2027)",

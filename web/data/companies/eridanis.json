@@ -1,0 +1,52 @@
+{
+  "slug": "eridanis",
+  "name": "Eridanis",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-22T09:11:21.738Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0290ced61cef6465540da4a8e94023cda06ff6a9",
+      "title": "Data Engineer Junior",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160044620__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "a65dd55535c1ee6e2722deaeceb838e786d84685",
+      "title": "Junior Data Engineer: Public-Sector Data Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160044082__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    }
+  ]
+}

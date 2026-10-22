@@ -2,14 +2,14 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 27.5,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "biz",
@@ -46,11 +46,18 @@
     3,
     6,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55ad74d592eab4bcc81429d95d34bfcde4ca19cc",
+      "title": "ICT GRC - Junior Associate",
+      "url": "https://n26.com/en-eu/careers/positions/8281297?gh_jid=8281297",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "39696db5145965bdb63d070d10bfa644b762c258",
       "title": "Junior Data Analyst - Customer Identity",
@@ -113,13 +120,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505&utm_source=freehire.me",
       "location": "Barcelona",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "6e3c7146bfb8634ac2b20db0079b4e3b35887580",
-      "title": "KYCO Intern",
-      "url": "https://n26.com/en-eu/careers/positions/8009935?gh_jid=8009935",
-      "location": "Madrid",
-      "firstSeenAt": "2026-08-03T06:58:28.460Z"
     }
   ]
 }

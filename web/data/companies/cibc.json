@@ -2,14 +2,14 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "New York",
@@ -31,6 +31,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,11 +48,18 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ce410eb956e52c5dbcdd74d41eb31f091b38416",
+      "title": "AI and Quantum Scientist Co-op",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "3ea42c00c3c002776c3aaa3e9a05bdc7242bac99",
       "title": "Application/Software Developer Co-op - Capital Markets Technology",

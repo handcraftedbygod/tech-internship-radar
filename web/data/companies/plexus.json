@@ -1,21 +1,26 @@
 {
   "slug": "plexus",
-  "name": "Plexus",
+  "name": "plexus",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d793faccb5f812bd80ac590fbd2b766dd31b6a7",
+      "title": "Intern - Embedded Software Engineering",
+      "url": "https://plexus.wd504.myworkdayjobs.com/Plexus_Careers/job/Livingston-United-Kingdom/Intern---Embedded-Software-Engineering_R042838-1?utm_source=freehire.me",
+      "location": "Livingston, United Kingdom",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "18c0c947e2966ffa55adadd21d0b0f1656df1030",
       "title": "Digital Engineer Intern",

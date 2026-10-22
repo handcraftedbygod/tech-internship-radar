@@ -2,20 +2,25 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dd7b1f70401001078e568932f0c79cc302b880b",
+      "title": "AI Software Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+      "location": "Santa Clara, CA, Richardson, TX",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "31064ffd6f8a7d7ae135bdc8ebbbdbab5fe244c7",
       "title": "AI/ML Systems Engineering Intern",

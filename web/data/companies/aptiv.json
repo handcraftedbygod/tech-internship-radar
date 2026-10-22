@@ -2,11 +2,15 @@
   "slug": "aptiv",
   "name": "Aptiv",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Krakow",
       "count": 1
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e73d858bf9f40b283b6145b1648419d80fac2407",
+      "title": "Software Development Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+      "location": "Troy, MI",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "e694d03616666d886259b9f8774fbcea7a6e3251",
+      "title": "AI Product Analyst Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "de6e58b8d248d46b893da72cbae800acea33379c",
       "title": "Systems Engineer Intern",

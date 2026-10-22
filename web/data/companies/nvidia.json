@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 12.3,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Munich",
@@ -34,6 +34,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -46,11 +51,18 @@
     0,
     2,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b3ba859d32ba217fb16db58e3926f7bd6292b0f8",
+      "title": "Software Intern - Embedded Systems 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1?utm_source=freehire.me",
+      "location": "UK, Bristol",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "9bb7db86865f62cbf8d724cdbc7ead54aecdeb0b",
       "title": "AI Developer Technology Intern - 2027",

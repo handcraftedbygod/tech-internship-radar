@@ -1,0 +1,52 @@
+{
+  "slug": "drivewealth",
+  "name": "DriveWealth",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-22T09:11:21.738Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d75827a603f6bb8fb9d1fd9a2788f3a6736082cb",
+      "title": "Product Owner Intern, AI Consulting Associate Program",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+      "location": "Chicago, IL, NYC",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "d8ee1efc145a7265aea62107c40d80891c2a2bd9",
+      "title": "AI Engineer Intern, AI Consulting Associate Program",
+      "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
+      "location": "Chicago, IL, NYC",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    }
+  ]
+}

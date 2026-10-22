@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Dublin",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "product",
-      "label": "Product",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf8bbb76c2ec04c48c70e320c36682c6e416a8c0",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "1f77a78bfc20985ded4a8671b9802badfd4d60a6",
       "title": "Software Engineer Internship Opportunities",

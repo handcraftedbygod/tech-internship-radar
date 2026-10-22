@@ -1,0 +1,64 @@
+{
+  "slug": "smith-nephew",
+  "name": "Smith+Nephew",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-22T09:11:21.738Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "27763f768c7bd076566a2281b6a74c3ec6349f7d",
+      "title": "Computer Vision Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "5136d538481894fc5de5fb4174ae3190deb7c300",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "fa850ec8fee08619dcdb232713bf5134ec6e7378",
+      "title": "Agentic AI Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    }
+  ]
+}

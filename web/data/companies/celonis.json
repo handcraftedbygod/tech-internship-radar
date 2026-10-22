@@ -2,9 +2,9 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 55,
+  "totalPostings": 56,
   "avgPostingDurationDays": 35.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "New York",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "design",
@@ -65,11 +65,18 @@
     27,
     10,
     17,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04d9102e1ab92537037a860c8916ac434410013a",
+      "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "799e4a496e8c5b5c73fcaf91bc4c3fe226da080a",
       "title": "Associate Deployment Engineer - Galaxy Graduate Program",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7998286003?gh_jid=7998286003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-09-22T09:03:32.137Z"
-    },
-    {
-      "id": "49b3103e4272a2d96ce4de1e8655f888c6305cc6",
-      "title": "Intern Strategic Program Management",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7990967003?gh_jid=7990967003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]
 }

@@ -4,27 +4,27 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 18,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 16.7,
   "topLocations": [
     {
       "hub": "Montreal",
       "count": 5
     },
     {
-      "hub": "Other",
+      "hub": "Krakow",
       "count": 2
     },
     {
-      "hub": "Krakow",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     3,
     2,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd338d55101f17bb6d882bbcd6aff5aa2160b46e",
+      "title": "Intern, Software QA Engineer - Fusion",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-QA-Engineer---Fusion_26WD101112-1?utm_source=freehire.me",
+      "location": "Kraków, POL",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "82a3a59e5ae8471a5a58c80539c5bb9a6452f0d5",
       "title": "Intern, Software Engineer",

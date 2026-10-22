@@ -2,25 +2,30 @@
   "slug": "hp",
   "name": "HP",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
     {
       "id": "biz",
       "label": "Business",
       "count": 1
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -34,11 +39,32 @@
     0,
     0,
     1,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18bdaa57b667c2785da5ef1797094c55923c5c4c",
+      "title": "Data Science Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_3170257-1?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "4debd60302b176dcca819ebe04e3878c45b21b57",
+      "title": "Software Engineering Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787-1?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "0155758cef7faf9ff89b6096b4ce33a7d7c3364f",
+      "title": "Data Science Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "47315b396d45579a56d547f4933343065421605c",
       "title": "Data Analytics & Automation Intern",

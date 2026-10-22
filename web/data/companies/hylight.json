@@ -2,11 +2,15 @@
   "slug": "hylight",
   "name": "HyLight",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Paris",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d67f994f89054253684fd386dead901d73403b44",
+      "title": "Embedded Software Internship",
+      "url": "https://www.ycombinator.com/companies/hylight/jobs/S6eH5Ss-embedded-software-internship?utm_source=freehire.me",
+      "location": "FR",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "f6f0ed8bf91bcbf4b916f956d20ffd5f94038586",
+      "title": "Payload Operator & Embedded Data Analyst - internship",
+      "url": "https://www.ycombinator.com/companies/hylight/jobs/gIiGNF0-payload-operator-embedded-data-analyst-internship?utm_source=freehire.me",
+      "location": "FR",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "37fdef9abd584e78398af20f6d33a2ad0bcda6d9",
       "title": "Embedded Software Internship",

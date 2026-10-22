@@ -2,14 +2,18 @@
   "slug": "flexport",
   "name": "Flexport",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
       "count": 2
+    },
+    {
+      "hub": "Frankfurt",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     1,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e9ff0c57c3fd9205b24a358b79904b08472df3ef",
+      "title": "Commercial Graduate Trainee ",
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8306094",
+      "location": "Frankfurt, Germany; Hamburg, Germany",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "b9939d9f8e37d77cb5f017a64c9a2d1dc23256d9",
       "title": "Inbound Sales Development Representative - New Grad",

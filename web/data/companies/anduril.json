@@ -2,14 +2,14 @@
   "slug": "anduril",
   "name": "Anduril",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "048d46ad5221c6ed0ef693fb3fd573e3e88561e9",
+      "title": "Robotics Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+      "location": "Quincy, MA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "accdcc3988b7566535a233cc8efbe073bd59aa43",
       "title": "Research Engineer Co-op",

@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 11
     },
     {
       "hub": "Munich",
@@ -24,12 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 11
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,39 @@
     0,
     0,
     0,
-    10,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bef5d957624dab5721fd0c7c5d819d9c5f0063c4",
+      "title": "System Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "61d2cd562698773eabfe657afe4b9fdf7b440e25",
+      "title": "Intern Software QA Test Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "283899c4038b9906d7008784d37ed60df8cff528",
+      "title": "Media AI Software Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
+    {
+      "id": "9f19613618a3d7dcf739e48b299f56a88fa11147",
+      "title": "Information Security Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+      "location": "Folsom, CA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "de2bd025c9d6e7681b3abb5d0a0526aae207de98",
       "title": "AI Software Development Intern",
@@ -88,34 +116,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "e42ba648fe287390c22f102831bf064d485ff9ae",
-      "title": "GPU Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "8c36a98a3eef22c761b68f71a92633744a21d10f",
-      "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "61d37b6b84588d290f5a496d2f0054fef8e57c2e",
-      "title": "AI Software Engineering - Workloads Validation Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "377187ecb1f890127e6de6b45fdfef4be32af5df",
-      "title": "Software Engineering Undergraduate Intern (f/m/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }

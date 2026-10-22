@@ -2,25 +2,25 @@
   "slug": "icf-international",
   "name": "ICF International",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3db200d6deb7b9236109cac995992c448f2de959",
+      "title": "Full-Stack Developer Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+    },
     {
       "id": "413780bb3662a385ee5786b98920960cfcafc9f0",
       "title": "Cloud Engineer Intern, AWS/Azure",
