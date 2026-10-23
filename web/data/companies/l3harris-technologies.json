@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5562d245d4c132badbd052c3f789a6b63b21c72",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "c5bde8627e8949b5c2a9f9f9a97206986b24fe51",
+      "title": "Image Processing Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
+      "location": "Tulsa, OK",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "96c1f5eb718bbaea40efffa24cb65bc47b39200f",
       "title": "Software Engineer Intern",

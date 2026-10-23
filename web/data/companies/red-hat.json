@@ -2,14 +2,18 @@
   "slug": "red-hat",
   "name": "Red Hat",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -34,11 +43,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bac3bace5e9855b9b4137a89a065870ca1c7d78c",
+      "title": "Software Engineering Internship - Agent Operations (Dublin, Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Dublin---MSO/Software-Engineering-Internship---Agent-Operations--Dublin--Ireland-_R-059196?utm_source=freehire.me",
+      "location": "Dublin - MSO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "b1510823b869109814b6900d7a6f9da804de484d",
       "title": "Software Engineering Internship (Ireland)",

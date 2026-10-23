@@ -2,21 +2,21 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     2,
     2,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "647bb667cbbbb033885dc7cb4e083f1e9aadf7e9",
+      "title": "Data Science | Business Analytics internship: dashboard reporting automation",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "57a9070391c85451728f03ad557bdb07a460859f",
       "title": "Computer Science | Software Engineering internship: test impact analysis",
@@ -101,13 +108,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Engineering---Data-Analytics-internship--Business-Intelligence-Analyst_J-00350781?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "ac3760ba2f1263ff873b24f9d2b1ae239fdecf1a",
-      "title": "Data Science | AI internship: audit automation solutions",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---AI-internship--audit-automation-solutions_J-00349576?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

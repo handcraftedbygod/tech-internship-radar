@@ -2,21 +2,21 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbcdda340d3b3b6ad79af8ceb78945e23f8e678c",
+      "title": "Software Engineer 1",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
+      "location": "Remote",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "14ae5d95a68797c6ae5818f36165784ef066be8f",
       "title": "Computer Vision/Machine Learning Intern",

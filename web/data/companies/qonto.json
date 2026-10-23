@@ -2,10 +2,10 @@
   "slug": "qonto",
   "name": "Qonto",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Paris",
@@ -14,13 +14,17 @@
     {
       "hub": "Berlin",
       "count": 4
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -43,11 +47,18 @@
     0,
     2,
     1,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f94d17fab153506d96c91a28f5fa9237e3dface",
+      "title": "Web Engineer Intern",
+      "url": "https://jobs.lever.co/qonto/c3816b19-780d-4f60-b63b-796867d87c6e",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "2eed6e71761c13c67b3eaaf05c58bb86c54b24d6",
       "title": "Backend Engineer - Internship (6 months)",
@@ -110,13 +121,6 @@
       "url": "https://jobs.lever.co/qonto/749a6c4c-6921-4fdc-9a3c-c663dd8f185f",
       "location": "Berlin",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "38538da7658f9f28d88e3de62ca128e972e1d744",
-      "title": "Legal Intern - Product & AI",
-      "url": "https://jobs.lever.co/qonto/354fa50e-2741-4936-82f5-0d1ce5fb8be3",
-      "location": "Paris",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]
 }

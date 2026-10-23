@@ -2,11 +2,15 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
+    {
+      "hub": "Seattle",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -14,17 +18,30 @@
     {
       "hub": "Dublin",
       "count": 1
+    },
+    {
+      "hub": "Vancouver",
+      "count": 1
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
     {
       "id": "biz",
       "label": "Business",
       "count": 1
     },
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -38,11 +55,39 @@
     0,
     0,
     1,
-    1,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92e1c63987f3bedfe31010340f41e23167f51f2e",
+      "title": "Data Engineer",
+      "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "29b1519b0506e81e16ac1b11e3f808701002ed44",
+      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "94de0340c330336cbbd520d4edd20162497376e6",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://www.amazon.jobs/jobs/10583004",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "5d0cbacf4b12437060319019056084d7408615db",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "d19202490a6653afb752ed786d761047989e53cf",
       "title": "Data Center Infrastructure Engineer Internship 2027",

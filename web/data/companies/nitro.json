@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 8.9,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fa6cffe50aa173c67bd97745cd3feb01baff573d",
+      "title": "Intern Software Engineer (Java / Scala) (Porto) ",
+      "url": "https://www.gonitro.com/about/careers/8312590?gh_jid=8312590&utm_source=freehire.me",
+      "location": "Porto, Portugal",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "489b7a4669453557d621a4dff5430c98d1af0bd8",
       "title": "Intern Software Engineer (FullStack)",

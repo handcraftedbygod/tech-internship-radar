@@ -2,17 +2,26 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 7
+    },
+    {
+      "hub": "Vancouver",
+      "count": 2
     }
   ],
   "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 3
+    },
     {
       "id": "swe",
       "label": "Software",
@@ -24,14 +33,9 @@
       "count": 2
     },
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 2
-    },
-    {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -44,11 +48,25 @@
     0,
     0,
     0,
-    7,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1f53a0aca1a08a216b31e7fdd37dcae2bbb3f87",
+      "title": "Applied AI Engineering Intern, Hardware Systems",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
+      "location": "Vancouver, BC, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "ddc7246dc1391d9d21455d89cfac3fab88b73dbf",
+      "title": "Camera Design Implementation Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
+      "location": "Vancouver, BC, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "1bbbd39b48504de61763bcfc150b5fbbb9d57a06",
       "title": "Applied AI Engineer Intern",

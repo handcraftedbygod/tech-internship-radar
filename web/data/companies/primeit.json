@@ -2,20 +2,25 @@
   "slug": "primeit",
   "name": "PrimeIT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,39 @@
     0,
     1,
     0,
-    0,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5c1d5f0bcf8b41aa3998dd0e9f06ecf395dcc6f3",
+      "title": "Junior Java Developer – Aveiro, Growth & Benefits",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16819186__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "ade5db7091499188dbdf0c55fbf5e76ef8214c96",
+      "title": "Junior Java Developer - Hybrid (Aveiro) with Benefits",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16819731__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "e505b5b7b2e1d37ab296366327aed87b93f85ff9",
+      "title": "Junior Java Developer",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16819684__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "c3a185b32089ff4895fcee14233430decc1d051c",
+      "title": "Junior Java Developer | Recent Graduate",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16819828__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "bff0f193d5132ca8aec8ebba85e1698d81ed5bde",
       "title": "DevOps Junior",

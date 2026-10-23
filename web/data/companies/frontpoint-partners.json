@@ -2,21 +2,21 @@
   "slug": "frontpoint-partners",
   "name": "Frontpoint Partners Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e042d13e7f79cbc51e09ccc09726bd3e62c812e9",
+      "title": "Junior IT Data & Platform Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__580110823__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "e99c8b9df0fa2d21c3ea3993008140197f8468a0",
+      "title": "Junior Data & Platform Engineer: PySpark, Fabric & IaC",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__580110798__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "615d559ea0568c565a84652d6b5e4999fac3af07",
       "title": "Junior IT Data & Platform Engineer",

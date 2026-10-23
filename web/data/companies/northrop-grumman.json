@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83b76e71395e67f799c07c1a7f21c0f9dc0c6e9b",
+      "title": "New Grad 2027: Associate/Software Engineer Pathways",
+      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+      "location": "Linthicum, MD",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "8a185e64d97ceef5814615b88c4bf78413cca709",
+      "title": "Cyber Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "65ceb560cacfe5691aa271e97f8b555ef36b8dcc",
       "title": "Software Engineer Intern",

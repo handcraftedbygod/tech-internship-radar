@@ -2,21 +2,25 @@
   "slug": "devopsroles",
   "name": "Devopsroles",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a015d5f6388716a272c174690ee53cec5b8cf939",
+      "title": "Junior Cloud Engineer (Azure & AWS) | DevOps & Automation",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__580121099__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "5bdc5d9727ad5ca29492e037a5e0359095d37ffc",
       "title": "Junior DevOps Engineer - Cloud Automation & Ingest",

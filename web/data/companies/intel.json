@@ -2,18 +2,18 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 14,
+  "totalPostings": 16,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Toronto",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 13
     },
     {
       "id": "ai",
@@ -42,11 +42,25 @@
     0,
     0,
     0,
-    14,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e9fc691a1727749cc1dfcf50eeb2df04f7f032ce",
+      "title": "Software Development Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "6897880a29e82f6a92f9fee998317c962723cdf4",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "bef5d957624dab5721fd0c7c5d819d9c5f0063c4",
       "title": "System Software Engineering Intern",
@@ -102,20 +116,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205?utm_source=freehire.me",
       "location": "Germany, Munich",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "3c243676ec9ef18fb438a67a79787abd1e861736",
-      "title": "Compiler Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "1da80ea9e0cc3023c6cc98f2e5f69427b198ea46",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
     }
   ]
 }

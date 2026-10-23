@@ -2,21 +2,21 @@
   "slug": "brain",
   "name": "Brain Co.",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,39 @@
     0,
     0,
     0,
-    4,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c72c559ff86946e36103136ba4024f9323435530",
+      "title": "New Grad 2027: AI Platform Engineer",
+      "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "507c0a12722252632dce59aa3f1acf550fd8495d",
+      "title": "New Grad 2027: AI Product Engineer",
+      "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "a60e7dc21478dd17adfba6aee32402b3a010c05d",
+      "title": "New Grad 2027: AI Security Engineer",
+      "url": "https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "42bc9eb1b5a45e6bc9067a1b735f6f3847540310",
+      "title": "New Grad 2027: AI/ML Engineer",
+      "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "f502f4f36e819d819b827a0cb62bc6160c2b4e30",
       "title": "AI Product Engineer Co-Op Intern, Winter 2027",

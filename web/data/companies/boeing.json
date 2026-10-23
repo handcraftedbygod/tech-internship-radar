@@ -2,17 +2,26 @@
   "slug": "boeing",
   "name": "Boeing",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Seattle",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -29,11 +38,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83c4b8f7549452860e45a287c8527616f5af7f92",
+      "title": "Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+      "location": "Maryland Heights, MO, Hazelwood, MO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "59d7a156bd25ce7b4938c797e6eb2dacc0dea084",
+      "title": "Associate Flight Test Data Processing Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2",
+      "location": "Berkeley, MO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "bdaa982499c6e5ce1fbd082623a6e2a1aaf4350e",
       "title": "Data Analytics Intern",

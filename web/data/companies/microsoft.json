@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "product",
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "50c8e39495b9268cafbbdb8f5c8caf0ec6e52e65",
+      "title": "Security Research Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "cf8bbb76c2ec04c48c70e320c36682c6e416a8c0",
       "title": "Software Engineer Intern, Security & Identity",

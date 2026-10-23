@@ -2,14 +2,14 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 7,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 31.2,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 26.7,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Berlin",
@@ -40,14 +40,14 @@
       "count": 6
     },
     {
-      "id": "design",
-      "label": "Design",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
+      "id": "design",
+      "label": "Design",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -60,11 +60,18 @@
     3,
     2,
     0,
-    15,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5519a65857e6a4df41b6ffccdb369251ec61d76",
+      "title": "Data Science Intern (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+      "location": "Mountain View, California; San Francisco, California",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "1517c0b6607c3e3dd9881a136b15f923ac620994",
       "title": "Software Engineering Intern (2027)",
@@ -126,13 +133,6 @@
       "title": "Software Engineering Intern (2027 Start) - London",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
       "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "73bab2e5fe33d4c33c09ddc76f479d2431b6e67c",
-      "title": "Software Engineering Intern (2027 Start) - Berlin",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
-      "location": "Berlin, Germany",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

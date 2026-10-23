@@ -2,9 +2,9 @@
   "slug": "doordash",
   "name": "DoorDash",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 6,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -12,12 +12,12 @@
       "count": 4
     },
     {
-      "hub": "San Francisco",
-      "count": 1
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "San Francisco",
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -32,13 +32,18 @@
       "count": 2
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 1
-    },
-    {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -52,11 +57,32 @@
     0,
     0,
     4,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3c03d1f4e4973101d82bb28888e24d9126ae849",
+      "title": "Operations Research Intern (PhD), Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "8c4bcb25974f9f67a8f66a0f0b190bce52b67310",
+      "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+      "location": "Oakland, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "e371cc71c8912bd56cba353585e3c5f3c2d0252c",
+      "title": "Drone Operations, Intern - Labs (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8312381",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "e002f46765d8242be6dc81cc15c96c7b77d9b7a9",
       "title": "Electrical Engineer, Intern - Labs (Summer 2027)",

@@ -2,14 +2,14 @@
   "slug": "t-systems-iberia",
   "name": "T-Systems Iberia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -18,6 +18,11 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 2
@@ -25,11 +30,6 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -43,11 +43,18 @@
     0,
     4,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5597f038bca753f74bfab00da5548a93ccf26e87",
+      "title": "Junior Data Engineer — GCP, PySpark & AI (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__362975772__7107?geoID=13&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "98fb36d1093866a1c02a9e1a522ccad87f154803",
       "title": "Junior Data Engineer: GCP & AI Pipelines (Hybrid)",

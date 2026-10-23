@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 19,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -17,10 +17,14 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Vancouver",
       "count": 1
     }
   ],
@@ -28,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -38,7 +42,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     },
     {
       "id": "product",
@@ -56,11 +60,25 @@
     0,
     1,
     8,
-    10,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "536dc0e534715c5d1ed3721671623bbbafb4265d",
+      "title": "Attack Surface Management Security Engineer I",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
+      "location": "Research Triangle Park, NC",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "9ea4cd33ee76e28c8dbdca4e93263ac4526e4a22",
+      "title": "Software Developer, Embedded Systems I",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
+      "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Montreal, Canada, Vancouver, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "2a5994f384aacb6ded5c860c77f24f88571f2835",
       "title": "AI Operations Engineer I Intern",
@@ -116,20 +134,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--C-----Authentication-Team---Splunk_2028055-1?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "7b6ef648bfe562ff5aacb75ef3d06c3cfb75defd",
-      "title": "Junior Software Engineer (Go/C++), Security Foundations Engineering - Splunk",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--Go-C-----Security-Foundations-Engineering---Splunk_2027786?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "ae8ae97b85aa140962a45155a2f34d8e761fc8ab",
-      "title": "Junior Software Developer - Sweden",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Stockholm-Sweden/Junior-Software-Developer---Sweden_2025698?utm_source=freehire.me",
-      "location": "Stockholm, Sweden",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]
 }

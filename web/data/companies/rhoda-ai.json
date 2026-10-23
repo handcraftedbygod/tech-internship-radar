@@ -2,21 +2,21 @@
   "slug": "rhoda-ai",
   "name": "Rhoda AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "05a20c56b9dfb0bc0b9c376528e16d9196455574",
+      "title": "Software Engineer - Rhoda Platform",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "2d09e9cbabb8a15349b18402d5cd2e13b8ea4815",
       "title": "Software Engineer Intern, Inference",

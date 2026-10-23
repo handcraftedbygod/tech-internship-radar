@@ -1,0 +1,56 @@
+{
+  "slug": "corriculo",
+  "name": "Corriculo Ltd",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-23T09:07:55.300Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5d7075fb03f8a0c18cb684738e1ab0dd33cf6016",
+      "title": "Junior Software Engineer, Python, SQL, AI, London, COR7728",
+      "url": "https://www.reed.co.uk/jobs/junior-software-engineer-python-sql-ai-london-cor7728/57483925",
+      "location": "SE13LE",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "fca9b8ceeafc125c046f6965cea1b2f5d99217af",
+      "title": "Junior Software Engineer, Python, SQL, AI, London, COR7728",
+      "url": "https://www.reed.co.uk/jobs/junior-software-engineer-python-sql-ai-london-cor7728/57483925?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    }
+  ]
+}

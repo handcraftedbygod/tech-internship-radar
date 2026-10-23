@@ -2,21 +2,21 @@
   "slug": "copart",
   "name": "Copart",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     2,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a642e8e72a3b8ef18e59363da16dceac25e7396e",
+      "title": "SDET Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/SDET-Intern_JR112006",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "09e35b841fa335f69b615071692a5253e5cc26ee",
+      "title": "QA Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "70da3c6ebf288d4ab8b2de3087ec86a4027cecd9",
       "title": "QA Engineering Intern",

@@ -2,21 +2,21 @@
   "slug": "wellmark",
   "name": "Wellmark",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c471b206e78e77a5c8b410d7f3ff9e7194e21835",
+      "title": "Data Wrangler",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
+      "location": "Des Moines, IA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "f98c89e1f614f369395a585a91aee1d18d48d12a",
       "title": "Software Engineer Intern, Technology Health Plan",

@@ -2,25 +2,25 @@
   "slug": "bloom-and-wild",
   "name": "Bloom-and-Wild",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96094834bc491f556c8d8c323802d8acf569cd12",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__580961935__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "afa75d5b6fdb53b5a841590f7ee718ede56520e5",
       "title": "Junior Full Stack Engineer",

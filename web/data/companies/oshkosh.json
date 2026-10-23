@@ -2,20 +2,25 @@
   "slug": "oshkosh",
   "name": "Oshkosh",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c386a35346c0d76a7484449c7fc158ba4cb444d",
+      "title": "Software Engineer",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Engineer---Software_R50645",
+      "location": "Oshkosh, WI",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "1591392f783c687674e5ebc252dafadb2b8fd495",
       "title": "Purchasing Data Analytics Intern - NPD",

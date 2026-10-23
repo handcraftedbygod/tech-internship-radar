@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     0,
     0,
     2,
-    11,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "379a7f035695bc6502aae2358052f0c5319e91c6",
+      "title": "Software Engineer Intern, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "1719c8355ba57c61ff2b0da5709265b758316bf4",
       "title": "Internship - Software Engineering",
@@ -117,13 +124,6 @@
       "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science?utm_source=freehire.me",
       "location": "Munich",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "bd40912b36eba87b2c3ee524eedb0a4425adf4cf",
-      "title": "Internship Computer Vision & Machine Learning Research",
-      "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "New York",
@@ -23,14 +23,14 @@
       "count": 5
     },
     {
-      "id": "biz",
-      "label": "Business",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
+      "id": "biz",
+      "label": "Business",
+      "count": 2
     },
     {
       "id": "quant",
@@ -48,11 +48,18 @@
     0,
     0,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64fc8546d690a8399a3164a314a94da88d4c4ebc",
+      "title": "Machine Learning Engineer Co-op",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "4ce410eb956e52c5dbcdd74d41eb31f091b38416",
       "title": "AI and Quantum Scientist Co-op",

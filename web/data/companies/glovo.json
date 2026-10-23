@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 74,
-  "avgPostingDurationDays": 25.4,
+  "totalPostings": 75,
+  "avgPostingDurationDays": 25.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 44
+      "count": 45
     },
     {
       "hub": "Madrid",
@@ -39,6 +39,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -51,11 +56,18 @@
     0,
     33,
     26,
-    15,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "60ad40822f5f6e784f97020c6b3aef245b077a85",
+      "title": "Intern, Product Design - Quick Commerce",
+      "url": "https://careers.glovoapp.com/job/intern-product-design-quick-commerce-in-barcelona-spain-jid-744000157166111/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "b2ca6a79d405852e2f2c54acb10b1877b163fc0e",
       "title": "Intern Brands Ads Global HQ",
@@ -116,13 +128,6 @@
       "id": "ca736b16bf3376e303c50464e4f53d8428aeef5a",
       "title": "Junior 3PL Account Manager - Spain",
       "url": "https://careers.glovoapp.com/job/junior-3pl-account-manager-spain-in-barcelona-spain-jid-744000154964529/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "d93c157c960c606da06004ba71cd21113449b661",
-      "title": "Junior Tax Analyst - HQ",
-      "url": "https://careers.glovoapp.com/job/junior-tax-analyst-hq-in-barcelona-spain-jid-744000154939419/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }

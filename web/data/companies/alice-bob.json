@@ -2,13 +2,17 @@
   "slug": "alice-bob",
   "name": "alice-bob",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "232cc175b6113f014b07ddfc9a1ab9a8c58cf929",
+      "title": "Nanofabrication AOI software Intern M/F",
+      "url": "https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c?utm_source=freehire.me",
+      "location": "Aubervilliers",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "892e4f85d9a6f870c79874bcd3e9fd13bf4c75f4",
       "title": "Full-Stack Software Engineer Intern M/F",

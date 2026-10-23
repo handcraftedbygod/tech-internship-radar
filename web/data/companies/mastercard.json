@@ -2,9 +2,9 @@
   "slug": "mastercard",
   "name": "mastercard",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1e6deaca5732d8b9d9e5b79af3dfee374d3f2b0",
+      "title": "Software Engineer I",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
+      "location": "O'Fallon, MO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "f16a050877da45163041d956c5b07ad43f344080",
       "title": "Site Reliability Engineer, Internship Program 2027 - Dublin, Ireland",

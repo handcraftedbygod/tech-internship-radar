@@ -2,14 +2,14 @@
   "slug": "electronic-arts",
   "name": "Electronic Arts",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Stockholm",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -42,11 +42,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e19d407498fccd3b261c5159e5e433bc442eb490",
+      "title": "New Grad 2027: Software Engineer 1",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357",
+      "location": "Orlando, FL",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "744d18e55f9e7eb70f1762af6ab61d5bc2e114c9",
       "title": "Software Engineer Intern",

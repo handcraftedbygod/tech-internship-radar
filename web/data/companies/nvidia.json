@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     },
     {
       "id": "ai",
@@ -51,11 +51,25 @@
     0,
     2,
     0,
-    8,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c16ec6d96f6928b8ecd0dea7e81eeb10d6c69b7",
+      "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "d1a32e54645443e8ef06f59e0372f722a56b8c73",
+      "title": "Software Engineer, Agent Performance Modeling (Master's)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "b3ba859d32ba217fb16db58e3926f7bd6292b0f8",
       "title": "Software Intern - Embedded Systems 2027",
@@ -111,20 +125,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248?utm_source=freehire.me",
       "location": "Poland, Remote",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "eac06984c1de873b7df0f7df531da6e86fa20488",
-      "title": "Software Engineering Intern, Test Automation — Autonomous Vehicles",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "8ff67af089f32b22430ce4c57216adf9eda6c82b",
-      "title": "Software Engineering Intern, Dynamo",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

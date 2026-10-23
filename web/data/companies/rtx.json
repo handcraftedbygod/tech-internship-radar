@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 16
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 16
     },
     {
       "id": "biz",
@@ -38,11 +38,25 @@
     0,
     1,
     0,
-    14,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d1a348819b6c60f6a675ce881fa4f65aff999a8",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
+    {
+      "id": "f8b1a8a27888e4187751960adb2e073e014fb9f0",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "2c359616e695c033ab7507bd79d0f4d538760d2e",
       "title": "Software Engineer Intern",
@@ -98,20 +112,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
       "location": "Cedar Rapids, IA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "aa564f1e933ff697941a350a9e2997ccf524a399",
-      "title": "Development Operations Intern, Engineering Development Program",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Development-Operations--Engineering-Development-Program_01872103",
-      "location": "Middletown, CT",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "247219196df97b587945dfeea438514e5f2ea59a",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

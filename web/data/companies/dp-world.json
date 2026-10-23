@@ -2,21 +2,21 @@
   "slug": "dp-world",
   "name": "DP World",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5563eabb1ed9c7ce4b510d1768af62820781faa0",
+      "title": "Network Engineering Intern",
+      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+    },
     {
       "id": "997ec231a7d22995e230d92d55560e2ee3063629",
       "title": "Information Security Intern",
