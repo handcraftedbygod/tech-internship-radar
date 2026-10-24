@@ -2,22 +2,22 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 28,
+  "currentOpenings": 31,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 75,
+  "totalPostings": 78,
   "avgPostingDurationDays": 25.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 45
+      "count": 46
     },
     {
       "hub": "Madrid",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Lisbon",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Other",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 57
+      "count": 58
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -56,11 +56,32 @@
     0,
     33,
     26,
-    16,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28df3b7e4a25f2146ce9e6ad7f01357dab975f51",
+      "title": "Junior Operations Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-operations-analyst-in-lisbon-portugal-jid-744000157489877/",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "a8660b444ae9634f4099c77e40838bba5718d967",
+      "title": "Intern - People Operations",
+      "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "a9021cf0cd226df884372b2c8b820b979652070b",
+      "title": "Account Manager Intern Groceries Spain",
+      "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "60ad40822f5f6e784f97020c6b3aef245b077a85",
       "title": "Intern, Product Design - Quick Commerce",
@@ -109,27 +130,6 @@
       "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-catman-in-madrid-spain-jid-744000155211801/",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "9ec21bdc74a03da22f529a4fbecfeecf6c0e9570",
-      "title": "Junior Business Analyst – Fleet Operations (Spain)",
-      "url": "https://careers.glovoapp.com/job/junior-business-analyst-fleet-operations-spain-in-barcelona-spain-jid-744000154962794/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "16daddcfeb9adf6c057045e811edc939b2f7c202",
-      "title": "Data Analyst Intern",
-      "url": "https://careers.glovoapp.com/job/data-analyst-intern-in-barcelona-spain-jid-744000154651959/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "ca736b16bf3376e303c50464e4f53d8428aeef5a",
-      "title": "Junior 3PL Account Manager - Spain",
-      "url": "https://careers.glovoapp.com/job/junior-3pl-account-manager-spain-in-barcelona-spain-jid-744000154964529/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]
 }

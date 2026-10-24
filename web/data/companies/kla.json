@@ -2,25 +2,30 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -34,11 +39,32 @@
     0,
     0,
     0,
-    6,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33dcc628f0426462cd71321cb65ac11181f35d1f",
+      "title": "Software Engineer Intern, C++, Linux",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "b59923851c6e3ca7bb94208a0397d426df8cf045",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "6f918cea01064865a4da64c8f75ddebfc7ea724a",
+      "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "fbcdda340d3b3b6ad79af8ceb78945e23f8e678c",
       "title": "Software Engineer 1",

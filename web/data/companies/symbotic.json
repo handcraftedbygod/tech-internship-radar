@@ -2,14 +2,14 @@
   "slug": "symbotic",
   "name": "Symbotic",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9739c171624d4fee03051e4f56a4ac675594a85c",
+      "title": "Machine Learning Ops Co-op",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning-Ops_R8327",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "9fbf4aa8c99c1ba009c66974b004545f4dc2b23e",
       "title": "Robot Manipulation Intern",

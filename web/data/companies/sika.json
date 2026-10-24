@@ -2,20 +2,25 @@
   "slug": "sika",
   "name": "Sika Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "114fac2159a02cdb37a7b36593ae8a6fd0ce7f83",
+      "title": "Software Engineering Intern for CAD/CAE/Tooling",
+      "url": "https://jobs.smartrecruiters.com/SikaAG/744000157445359-software-engineering-intern-for-cad-cae-tooling?utm_source=freehire.me",
+      "location": "Zürich, ZH, ch",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "7e7da173a11fbcab4ab448bf103964fb9821d3db",
       "title": "ESG Digitalization Intern – Software & Data Engineering",

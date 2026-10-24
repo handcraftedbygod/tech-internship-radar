@@ -2,25 +2,30 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -34,11 +39,25 @@
     0,
     0,
     0,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f3da36b26ee6943cd7bcc53d06da24cc55267441",
+      "title": "Defensive Cyber Operations Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "4d0f48ccd039cb5505e7cf9910fdd0cc5d944c0a",
+      "title": "Cloud Solutions Engineer Intern, Site Reliability",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016936",
+      "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "1c5a2f292cf1d956d256e54308d7e34fdd0ce63a",
       "title": "Signal Processing and RF Engineering Intern",

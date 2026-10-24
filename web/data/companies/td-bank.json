@@ -2,14 +2,14 @@
   "slug": "td-bank",
   "name": "TD Bank",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 14.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -34,6 +34,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -46,11 +51,18 @@
     0,
     0,
     7,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "565dd38c4b2f67c55cac323d63a4701e0b279af8",
+      "title": "Product Management Co-op, L&H",
+      "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Job-Posting-Title-L-H-Product-Management-Intern-Co-op--Winter-2027-_R_1506721",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "e6389ebdefc9117edceb4e8f76afa7fdd385146e",
       "title": "Portfolio Analytics Data Analyst Intern/Co-op",
@@ -112,13 +124,6 @@
       "title": "Software Engineer Co-op / Intern (Winter 2027)",
       "url": "https://www.themuse.com/jobs/tdbank/software-engineer-coop-intern-winter-2027",
       "location": "London, Canada, Mississauga, Canada, Toronto, Canada",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "e9f707f65abea318cd214cd3915991a882f22696",
-      "title": "Cloud / DevOps Co-op / Intern​ (Winter 2027)",
-      "url": "https://www.themuse.com/jobs/tdbank/cloud-devops-coop-intern-winter-2027",
-      "location": "Mississauga, Canada, Toronto, Canada",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]

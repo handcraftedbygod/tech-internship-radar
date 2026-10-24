@@ -2,18 +2,18 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 21,
+  "totalPostings": 25,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
-      "hub": "Krakow",
-      "count": 8
+      "hub": "San Francisco",
+      "count": 11
     },
     {
-      "hub": "San Francisco",
-      "count": 7
+      "hub": "Krakow",
+      "count": 8
     },
     {
       "hub": "Other",
@@ -32,17 +32,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 17
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     },
     {
       "id": "product",
@@ -60,11 +60,39 @@
     0,
     1,
     8,
-    12,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf68fd3a27bcb6d192fbd0a58ba3a00576a5b7ee",
+      "title": "Software Engineer Embedded Systems I Co-op",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "39a24c804690dac19a84c24e89d235257186f825",
+      "title": "Software Engineer Full Stack / Backend I Co-op",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+      "location": "San Jose, CA, Carlsbad, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "028258fe0a8aa22c5ec5b242f9236ed6a64f3300",
+      "title": "Software Engineer Data & AI II Intern",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "aad0ecec6b76989aea3dad1148353e6c7980d297",
+      "title": "Software Engineer Intern, Data & AI",
+      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "536dc0e534715c5d1ed3721671623bbbafb4265d",
       "title": "Attack Surface Management Security Engineer I",
@@ -106,34 +134,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "692f925d66c75f16ed765f8a9883128f5e7fa17f",
-      "title": "Software Engineer Intern, Full Stack / Backend II",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "0b644a2dff161eb7c5f4575b9f09a2aac891e8e4",
-      "title": "Software Engineer Intern, Full Stack / Backend I",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "a1e07302f6f5e6da4b3802d48da6e54a9cacf2df",
-      "title": "Software Engineer Intern, Embedded Systems II",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "1400e66e95d69a8aa1087e5b5db43cd07570f481",
-      "title": "Junior Software Engineer (C++), Authentication Team - Splunk",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--C-----Authentication-Team---Splunk_2028055-1?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]
 }

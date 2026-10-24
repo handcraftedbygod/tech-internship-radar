@@ -2,13 +2,17 @@
   "slug": "tencent",
   "name": "Tencent",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aad849d0cbcb788106053f25277002c45505783a",
+      "title": "SRE Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291?utm_source=freehire.me",
+      "location": "Netherlands-Amsterdam",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "4d88257fbc15ae61d861242e2107591579e0e441",
       "title": "Data Science Intern",

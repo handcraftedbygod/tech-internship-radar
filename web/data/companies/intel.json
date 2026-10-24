@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
@@ -42,11 +42,18 @@
     0,
     0,
     0,
-    16,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d4854cd982b7eaa5c4e1d62a53f8823df0d799b",
+      "title": "Software Engineer, CAD/EDA Tools (Master's)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+      "location": "Hillsboro, OR",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "e9fc691a1727749cc1dfcf50eeb2df04f7f032ce",
       "title": "Software Development Intern (m/f/d)",
@@ -109,13 +116,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "23b21c184826cc780b6464f02abcc6a927842255",
-      "title": "Development Tools Software Engineer Intern (m/f/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

@@ -2,20 +2,25 @@
   "slug": "decathlon-digital",
   "name": "Decathlon Digital",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df31073bb263d88b44f212e53143050d9b741ca0",
+      "title": "Data Analyst Intern",
+      "url": "https://echojobs.io/job/decathlon-digital-data-analyst-intern-6-months-inventory-management-value-chain-f-m-d-k3x9d?utm_source=freehire.me",
+      "location": "Lille, Nord, FR",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "3caf1170936b118fa47443da44d4b40150e8c844",
       "title": "Internship - Data Engineer Core Data Product (f/m/d)",

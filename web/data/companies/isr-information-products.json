@@ -2,14 +2,14 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 33,
+  "totalPostings": 34,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Berlin",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     29,
     2,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a3df3f5e06becea92ef5c17d297da33b5b7af222",
+      "title": "Junior DevOps Engineer Infrastruktur Monitoring Automatisierung (m/w/d) - ISR Information Products AG",
+      "url": "https://www.adzuna.de/details/5939348020?utm_medium=api&utm_source=freehire.me",
+      "location": "Münster, Nordrhein-Westfalen",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "a97ea8c982dd077a38f6e72fa4bb44df41342cee",
       "title": "Junior DevOps Engineer Infrastruktur Monitoring Automatisierung (m/w/d)",
@@ -105,13 +112,6 @@
       "url": "https://www.adzuna.de/land/ad/5851140055?se=FrJh1Uae8RGU6LIjyaRnwA&utm_medium=api&utm_source=freehire.me&v=FD3CC9275D0AD7056244DBA1AAA674E4C6C63F96",
       "location": "Deutschland",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "3a88c240218782c19fbb52cbec9035c39e422a34",
-      "title": "Informatiker als Trainee Data Scientist - Konzeption und Realisierung / Azure Cloud (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5850453274?se=nJ5DH22d8RGfQpohglHoaw&utm_medium=api&utm_source=freehire.me&v=81479A1A647FF78584DF1089A17307F747E28FB4",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]
 }

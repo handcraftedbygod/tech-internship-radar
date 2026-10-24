@@ -2,14 +2,14 @@
   "slug": "aptiv",
   "name": "Aptiv",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 6
     },
     {
       "hub": "Krakow",
@@ -20,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 2
     },
     {
@@ -38,11 +43,39 @@
     0,
     0,
     0,
-    3,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b25968a441064b4ed3055b7aa13cb67ca6027395",
+      "title": "HVP Certification Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704378",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "3144ec4c37c7b41b3223a429c2c04281c2e2d771",
+      "title": "HVP/Certification Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "0ab3807ae3032b9dacf5021e0a94ddfaacbdf3c8",
+      "title": "Linux Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "a61760cd1f3f50718ddfbd3b773db4de21d48132",
+      "title": "Linux Engineering Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "e73d858bf9f40b283b6145b1648419d80fac2407",
       "title": "Software Development Intern",

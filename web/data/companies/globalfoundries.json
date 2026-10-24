@@ -2,14 +2,18 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -22,6 +26,16 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +48,25 @@
     0,
     0,
     0,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73088890d6de7143f2f6c3c7fbd77ab8bf7c7c8a",
+      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+      "location": "Austin, TX, Santa Clara, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "928a9df9840add0195540d6fe58595c2a4371c9a",
+      "title": "Tapeout Engineer Intern, Tapeout Operations",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
+      "location": "Essex Junction, VT",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "07520b274fdb260d5ac0dc7db232cd69902d2501",
       "title": "New Grad 2027: AI Software Engineer",

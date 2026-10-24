@@ -2,20 +2,25 @@
   "slug": "patreon",
   "name": "Patreon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2056a0cf687e6d3e0cd64643854b05290a8d82c1",
+      "title": "Product Manager Intern",
+      "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+      "location": "New York, NY, San Francisco, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "63fd810dd01d36fbd274110a3a51f35e6d0d8841",
       "title": "Software Engineer Intern",

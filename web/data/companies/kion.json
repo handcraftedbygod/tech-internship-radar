@@ -2,20 +2,25 @@
   "slug": "kion",
   "name": "KION Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ad81f3498f90af502ba0ed54e0425248ebfceda",
+      "title": "Software Analytics Co-op",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+      "location": "Grand Rapids, MI",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "b6ef9a23d6caec9e94f6b5eec647e63f4655337f",
       "title": "Engineering & Delivery Optimization Co-op",

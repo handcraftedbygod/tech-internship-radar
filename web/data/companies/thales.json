@@ -2,13 +2,17 @@
   "slug": "thales",
   "name": "Thales",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Madrid",
+      "count": 1
+    },
+    {
+      "hub": "Montreal",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "486f93c3e07d050cb2f14e60812cca3f3587c8b2",
+      "title": "Tools and Process Development Intern",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "b234c4e6470deda683b248437783e0543f58e4b0",
       "title": "DevOps Intern",

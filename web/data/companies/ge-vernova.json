@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 15.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Berlin",
@@ -26,6 +26,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     5,
     3,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5669a0d983af27c66d579ab3ffdfd04c3b9e35a",
+      "title": "Product Management Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "cdfe8b765d5f403c58abac8d528019466ef6b0e5",
       "title": "AI Post-Training and Model Alignment Intern, AGI",
@@ -105,13 +117,6 @@
       "url": "https://www.themuse.com/jobs/gevernova/ge-vernova-gridos-software-test-engineer-intern-summer-2027",
       "location": "Atlanta, GA",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "029343cc6ff206709d27a6a17ce60b5435f95ee0",
-      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
-      "url": "https://www.themuse.com/jobs/gevernova/ge-vernova-energy-optimization-software-engineer-intern-summer-2027",
-      "location": "Bellevue, WA",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

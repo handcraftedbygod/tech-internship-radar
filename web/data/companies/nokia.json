@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     5,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99c1cf132ad006cd48df1f777faa9ed6d4ea43be",
+      "title": "Network Systems Engineer Co-op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
+      "location": "Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "c4df2dbd3ca8ddfb62670b3fe361eab5c2d26024",
       "title": "Junior C++ Software Engineer",

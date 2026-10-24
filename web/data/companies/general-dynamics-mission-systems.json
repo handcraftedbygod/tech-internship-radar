@@ -2,21 +2,21 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "60f24503a3ec74106444ef595efc085675568472",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job",
+      "location": "Scottsdale, AZ",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "93aa8f7a92170e36dc6b4a538b3c2e95598296be",
       "title": "Software Engineer Intern",

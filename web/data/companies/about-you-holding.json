@@ -2,21 +2,21 @@
   "slug": "about-you-holding",
   "name": "ABOUT YOU Holding AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c0f76e3556092078734dbed786205e7988982bc",
+      "title": "Junior Application Security Engineer (all genders)",
+      "url": "https://www.adzuna.de/details/5938861071?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "f448b362908a8e6b813df06da78fcb6f23cfd314",
+      "title": "Junior Application Security Engineer (all genders)",
+      "url": "https://www.adzuna.de/details/5938861073?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "7671ebd3d811c46b55a134963c6eeb4ae53ed120",
       "title": "Junior Application Security Engineer (all genders)",

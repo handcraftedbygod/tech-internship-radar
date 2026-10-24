@@ -2,17 +2,25 @@
   "slug": "reply-deutschland",
   "name": "Reply Deutschland SE",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Düsseldorf",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -20,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +41,32 @@
     0,
     1,
     0,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e312ec9185713aebddfe281ce41cd35f0b5a8039",
+      "title": "Junior Data Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__498013921__7078?geoID=3&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "c107a307a709eedb79a991eea0c8a2b9a356175d",
+      "title": "(Junior) Agentic AI Software Engineer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__498014718__7078?geoID=9013&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "München, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "adcd6529efc685cc41758a8cf4ed35e0748dcfb0",
+      "title": "(Junior) Data Scientist / AI Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__497970250__7078?geoID=117523&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Cologne, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "509c4b60602ae73b2347808ce5ffa3e914ce3bb1",
       "title": "Junior Data Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",

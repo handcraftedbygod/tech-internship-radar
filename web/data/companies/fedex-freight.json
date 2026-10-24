@@ -1,0 +1,57 @@
+{
+  "slug": "fedex-freight",
+  "name": "FedEx Freight",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-24T08:40:19.613Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "071b79d2cf96b37fd160270e760150fa7415aee9",
+      "title": "Media & Web Development Intern, Marketing",
+      "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
+      "location": "United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "337685515fba25d1815248ed7185e56620033ec4",
+      "title": "Data Scientist Intern",
+      "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+      "location": "Memphis, TN",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    }
+  ]
+}

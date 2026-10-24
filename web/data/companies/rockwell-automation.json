@@ -2,17 +2,17 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
-      "hub": "Katowice",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Katowice",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fe6c3ab1edc638348b820c93b5838ebdf9fe8b7",
+      "title": "Firmware Engineer Intern",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321",
+      "location": "Mequon, WI, Eden Prairie, MN",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "0847ea1fcb8d5a1e4bc5b171497f6284b9750e44",
       "title": "Hardware Development Engineer Intern",

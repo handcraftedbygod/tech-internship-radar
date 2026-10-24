@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 39,
+  "totalPostings": 41,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Munich",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Frankfurt",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -56,11 +56,25 @@
     0,
     17,
     15,
-    7,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6dd6ad578a764bf1f50f9aa3f8ae5b57f7ba522",
+      "title": "Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646595-1-S",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "ff5d581f9b813c4d8682b23533fe3a87e2ac3197",
+      "title": "Python Backend Developer Intern, Energy Flexibility Platform",
+      "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
+      "location": "Princeton, NJ",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "38072c832bed0cfa8e6bf84f2ae300d190a7919f",
       "title": "Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635624-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "899665979a260cab2b561dc9bde301e05c58838b",
-      "title": "Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635992-1-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "f29abf97a59ce43861451c045202f5e47a939ed9",
-      "title": "Werkstudent (w/m/d) Developer, IT-Consultant, AI & Data Integration",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1623102-2-S",
-      "location": "Braunschweig",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }
   ]
 }

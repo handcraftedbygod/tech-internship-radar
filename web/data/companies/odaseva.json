@@ -2,21 +2,21 @@
   "slug": "odaseva",
   "name": "odaseva",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b6ef873d3457b11802db2360b8fd5e773fba7cd",
+      "title": "Front-end Developer Junior",
+      "url": "https://jobs.lever.co/odaseva/5fa5b26d-a0f2-4135-9559-e63feb2213f1?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "74c9919951b55e1506684527ba0a0fae1c97871c",
       "title": "Front-end Developer Junior",

@@ -2,21 +2,21 @@
   "slug": "thermo-fisher-scientific",
   "name": "Thermo Fisher Scientific",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33dca140ef9f5a7d12a14707f961cfed04f797e6",
+      "title": "IT & Digital Intern",
+      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/XMLNAME-2027-IT---Digital-Internship_R-01366217",
+      "location": "Pittsburgh, PA, Frederick, MD, Carlsbad, CA, Morrisville, NC",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "33020a6a2b775498911d5096d890e0349fc0630e",
       "title": "Intern Software Engineer - Infrastructure as Code",

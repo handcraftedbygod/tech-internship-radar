@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bf9b0e6235e6ea5f3a0e78b0d820ece5ac86ae07",
+      "title": "Software Developer Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "b4f7ec443583f952cf51517f73a86875f32d8d6c",
       "title": "Services Business Intelligence & Analytics Intern",

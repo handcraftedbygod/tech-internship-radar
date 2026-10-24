@@ -1,22 +1,22 @@
 {
   "slug": "betway",
-  "name": "Betway Group",
+  "name": "Betway",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f125c8b77cddae234ded6c37493e77c8e8678de2",
+      "title": "Junior Data Scientist",
+      "url": "https://echojobs.io/job/betway-junior-data-scientist-60hld?utm_source=freehire.me",
+      "location": "North London, UK, UK",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "ab6557a4bfead3cda526ec8d17618a49af1bf186",
       "title": "Junior Data Scientist",

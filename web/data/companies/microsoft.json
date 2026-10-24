@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Dublin",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,25 @@
     0,
     1,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b10b71e710f035adcc3d1c4716581c037cca697a",
+      "title": "Product Manager Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "1e774f9c9955e479f2e06962ae9a173995a905d6",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+      "location": "United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "50c8e39495b9268cafbbdb8f5c8caf0ec6e52e65",
       "title": "Security Research Intern",

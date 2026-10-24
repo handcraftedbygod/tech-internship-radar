@@ -2,26 +2,30 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
       "count": 12
+    },
+    {
+      "hub": "San Francisco",
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 9
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 7
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,11 +38,39 @@
     0,
     2,
     2,
-    8,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d00d4314c8e79852e874cf092591275283d313d",
+      "title": "Platform Software Engineer In Test Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "cad920960ab39d4956b02473679929d9b62db8fd",
+      "title": "Software Quality Assurance Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "91bba400c5593003bcfb6ffa6c434558da61d8c2",
+      "title": "Application Software QA Engineer Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "1bb58bbd178e302738224913c7b02d7ead61a0c5",
+      "title": "Software Engineer In Test Intern, MOD",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "647bb667cbbbb033885dc7cb4e083f1e9aadf7e9",
       "title": "Data Science | Business Analytics internship: dashboard reporting automation",
@@ -80,34 +112,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624?utm_source=freehire.me",
       "location": "Eindhoven, Netherlands",
       "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "2f0e3f436e852c0b99b558f254bfd37f24cd0c60",
-      "title": "Computer Science | Software Engineering internship: Wafer map verification",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--Wafer-map-verification_J-00353359?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "8eb094ee65f602c91ed2232ccd90da98a85a64f8",
-      "title": "Data Science | Computer Science internship: Measurement analysis framework",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Data-Science---Computer-Science-internship--Measurement-analysis-framework_J-00353463?utm_source=freehire.me",
-      "location": "Eindhoven, Netherlands",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "7c7936487e24943a62f44b1af965587ca7873c3d",
-      "title": "Junior C# Software Engineer Yieldstar Optical Column",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Junior-C--Software-Engineer-Yieldstar-Optical-Column_J-00353657?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "d4aad4e3a48e8b811c85ff2cdf38c74fb7da7410",
-      "title": "Engineering | Data Analytics internship: Business Intelligence Analyst",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Engineering---Data-Analytics-internship--Business-Intelligence-Analyst_J-00350781?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

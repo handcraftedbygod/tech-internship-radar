@@ -2,13 +2,17 @@
   "slug": "citi",
   "name": "Citi",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 2,
+  "totalPostings": 15,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 13
+    },
+    {
+      "hub": "New York",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -29,24 +33,80 @@
     0,
     0,
     0,
-    2,
+    15,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "faab9dc19561e772e475fdb9005c2aed1bb7b065",
-      "title": "Angular Developer / Frontend Engineer",
-      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296",
-      "location": "Irving, TX",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "id": "f811ac2c3a53fced8d646b7849665731783654db",
+      "title": "New Grad 2027: Application Development Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
+      "location": "Jersey City, NJ",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "fe1056ebb0493bf264e2f221bbd58395af0b58bc",
-      "title": "Junior Fullstack Java Developer",
-      "url": "https://citi.eightfold.ai/careers/job/859038285779?utm_source=freehire.me",
-      "location": "BELFAST, United Kingdom",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
+      "id": "0878e965b1badbd36d19a91a7c7c4dafc9746784",
+      "title": "New Grad 2027: Technology Analyst, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "4d8a07c6c2d8881cc3f0030c8569af92397b83e0",
+      "title": "New Grad 2027: Application Development Technology Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada--2027_261003395",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "ab0e500f9ca6f2f77750045b07ab67fbfd072ac0",
+      "title": "New Grad 2027: Software Developer, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "95189e30b60f8b3909d537f614f848cd18b6088f",
+      "title": "New Grad 2027: Technology Cyber Security",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "56e2464b0fd45b5f7d94bf7a3f18be5bb6d57456",
+      "title": "New Grad 2027: Technology Analyst, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424",
+      "location": "Tampa, FL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "0c6c4a33a8313fa056f59c7354a4aeba526d5fa1",
+      "title": "New Grad 2027: Technology, Production Support Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "8351dd030fecd8a2d6e97a081690ed84bd40026b",
+      "title": "Technology Analyst Intern, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378",
+      "location": "Jersey City, NJ, New York, NY",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "587509d850db4ccdecf56cdd5bd323a16d34588f",
+      "title": "Technology Analyst Intern, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "4703cc33f11b987319a8e0d0a3f0fdb0cac2f67f",
+      "title": "Technology Analyst Intern, Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

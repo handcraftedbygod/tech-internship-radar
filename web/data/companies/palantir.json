@@ -2,9 +2,9 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 16,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     1,
     1,
-    16,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe30517f66e13457e513e51fba3a1c090b14170f",
+      "title": "Forward Deployed Software Engineer Intern, Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "b82c33eeab10c4aad2fdacae62e40ffea12b9426",
       "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
@@ -102,13 +109,6 @@
       "id": "c4f60995411087a764a69c8eb5c58853d4ba24b3",
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-commercial-london-united-kingdom-70903",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "30bde498d65f9cefe47311973150226d75f0e7c7",
-      "title": "Forward Deployed Software Engineer, New Grad - UK Government",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-uk-government-london-united-kingdom-328343",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }

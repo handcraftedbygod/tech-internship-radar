@@ -2,9 +2,9 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -38,11 +38,18 @@
     0,
     1,
     4,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d62f75323af5eadd69e35bfb611e74b110de4d64",
+      "title": "Security Engineer Junior - GRC",
+      "url": "https://jobs.ashbyhq.com/alan/41224533-6e1c-45a5-9c18-7b1c3104c92d?utm_source=freehire.me",
+      "location": "Anywhere in France",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "6baba25048d241f1a43b60c66353ef72d2411ce9",
       "title": "Security Engineer Junior - GRC",

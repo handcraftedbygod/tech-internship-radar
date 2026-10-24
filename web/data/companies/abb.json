@@ -2,17 +2,17 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
-      "hub": "Lodz",
-      "count": 3
+      "hub": "Other",
+      "count": 4
     },
     {
-      "hub": "Other",
+      "hub": "Lodz",
       "count": 3
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     2,
     2,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f65bbce0fa10d3332f3548db8ac9173105bae458",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/R-D-Software-Engineer_JR00050035",
+      "location": "Greenville, SC",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "be359aed718bf67a50226517596825ef1dd7d393",
       "title": "Integrated Motor Drive Software Co-op",

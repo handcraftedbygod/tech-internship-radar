@@ -2,14 +2,18 @@
   "slug": "stark",
   "name": "Stark",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
       "hub": "Berlin",
       "count": 6
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     0,
     5,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e14d9c5c9102d30f2d44244435e49125bd10bb7",
+      "title": "Production Data Engineer - Intern (All Genders)",
+      "url": "https://job-boards.eu.greenhouse.io/skdse/jobs/4979123101?utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "dd6878ad28f2d62aa281a7cfa77a138e1b8af71f",
       "title": "Working Student – Flight Software Engineering (PX4 / Autopilot) (all genders)",

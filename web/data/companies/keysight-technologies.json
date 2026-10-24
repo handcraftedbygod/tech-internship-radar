@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Austin",
@@ -26,6 +26,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0bad97af275c77ca0270e85b9ed40d22cbc7e30",
+      "title": "FPGA Design Intern",
+      "url": "https://jobs.keysight.com/jobs/55151?icims=1",
+      "location": "Calabasas, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "f820160e7937f9729781037a2f44afde18c43ad6",
       "title": "Software Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "vitec-software",
   "name": "Vitec Software Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fb573c6b913c0f730776e77eaabbfc161e2ee9e",
+      "title": "Junior .NET Developer bij Vitec Autonet",
+      "url": "https://jobs.vitecsoftware.nl/jobs/8594486-junior-net-developer-bij-vitec-autonet?utm_source=freehire.me",
+      "location": "Dordrecht, NL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "13a4b94616841ae2ad5a7644b4cd26b3dbd1062e",
       "title": "Junior .NET Developer bij Olyslager",

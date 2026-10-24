@@ -2,13 +2,21 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 6,
+  "totalPostings": 19,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
+      "hub": "Other",
+      "count": 9
+    },
+    {
       "hub": "Seattle",
+      "count": 3
+    },
+    {
+      "hub": "Vancouver",
       "count": 2
     },
     {
@@ -18,30 +26,27 @@
     {
       "hub": "Dublin",
       "count": 1
-    },
-    {
-      "hub": "Vancouver",
-      "count": 1
-    },
-    {
-      "hub": "Toronto",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 12
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
+      "id": "hw",
+      "label": "Hardware",
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -55,52 +60,80 @@
     0,
     0,
     1,
-    5,
+    18,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "92e1c63987f3bedfe31010340f41e23167f51f2e",
-      "title": "Data Engineer",
-      "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "id": "ba2d752066d8d5f3536d1e6cad41976552361e13",
+      "title": "Software Development Engineer Intern, Amazon Leo",
+      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "29b1519b0506e81e16ac1b11e3f808701002ed44",
-      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
-      "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+      "id": "a23ce99f13b7f335187c12e7ce0bd734b774dbbf",
+      "title": "ASIC Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
       "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "94de0340c330336cbbd520d4edd20162497376e6",
-      "title": "New Grad 2027: Software Development Engineer",
-      "url": "https://www.amazon.jobs/jobs/10583004",
+      "id": "1cc934b427bb32e6d77ffacda6a50273f9c26fab",
+      "title": "Cloud Hardware Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+      "location": "Austin, TX, Cupertino, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "09020370373e594a8d621dfa89aad3a47e46f065",
+      "title": "Embedded Firmware Co-op",
+      "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
+      "location": "North Reading, MA, Westborough, MA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "7ddc5a77ca95d793be122ec3c8113ef107b89cf7",
+      "title": "Software Engineer Intern, AWS Database",
+      "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+      "location": "United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "6d10c9eb83f275d3fe1ab219a73b514f1ac9cc5d",
+      "title": "Systems Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
       "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "5d0cbacf4b12437060319019056084d7408615db",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
-      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "id": "001d68e93d10d882c396b277b767dd0c777f807a",
+      "title": "Systems Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "d19202490a6653afb752ed786d761047989e53cf",
-      "title": "Data Center Infrastructure Engineer Internship 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10571575/data-center-infrastructure-engineer-internship-2027?utm_source=freehire.me",
-      "location": "Dublin, IRL",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
+      "id": "ffb8ac7588db8e38e0673416b5dd6e174858c3b3",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     },
     {
-      "id": "4c9411117da343c40030c9fb62144795c6fd2c23",
-      "title": "Business Developer Intern - 2027 - 12 Months, Amazon University Talent Acquisition",
-      "url": "https://www.amazon.jobs/en/jobs/10552039/business-developer-intern-2027-12-months-amazon-university-talent-acquisition?utm_source=freehire.me",
-      "location": "London, England, GBR",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
+      "id": "19e604b7acf32da63d27e74df2ca83901bd87282",
+      "title": "ASIC Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "6fc4326c8c724f0252a4e0c8deb5e98659565ebe",
+      "title": "Software Engineer Intern, Embedded Systems",
+      "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+      "location": "United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

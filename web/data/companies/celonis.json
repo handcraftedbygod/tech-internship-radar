@@ -2,9 +2,9 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 56,
+  "totalPostings": 58,
   "avgPostingDurationDays": 35.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 16
+      "count": 18
     },
     {
       "hub": "New York",
@@ -30,14 +30,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 25
+    },
+    {
       "id": "biz",
       "label": "Business",
       "count": 24
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 23
     },
     {
       "id": "ai",
@@ -65,11 +65,25 @@
     27,
     10,
     17,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77aea3b2bf01aecd475c2b8f4db211d7bf610e05",
+      "title": "Intern Technology Consultant - Data & AI",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "16ec56faa3280741f0fdd3030be39a55fb71c3f0",
+      "title": "Intern Deployment Engineer - Data & AI",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "04d9102e1ab92537037a860c8916ac434410013a",
       "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
@@ -125,20 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/8002256003?gh_jid=8002256003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "fce127307e6f90ef294d217d228c6ae21313caad",
-      "title": "Field Marketing (DACH Region) Intern",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7998271003?gh_jid=7998271003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "4a69c3e337fadd05b6c1b3da7fc2367ecc649800",
-      "title": "Customer Advocacy  & Customer Marketing Graduated Internship (12 months) ",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7998286003?gh_jid=7998286003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-22T09:03:32.137Z"
     }
   ]
 }

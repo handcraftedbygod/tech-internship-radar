@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     10,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3284249bdc62aa71de53e12545d85d4c4c12604d",
+      "title": "AI/ML Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "0d97132855bccf853cbaecf5fa6364380928049b",
       "title": "Network Site Design Intern",
@@ -105,13 +112,6 @@
       "title": "Software Engineering & AI Intern",
       "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-317ae8",
       "location": "Flexible / Remote",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "0ca9d3f24ce16e4177851a7eac4c8b66477c1798",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-1d091f",
-      "location": "Gambrills, MD",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

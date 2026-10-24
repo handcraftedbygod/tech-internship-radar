@@ -2,14 +2,14 @@
   "slug": "boeing",
   "name": "Boeing",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d4323086ae573b3820c1d53dca4870d0ae8565bb",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+      "location": "Maryland Heights, MO",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "83c4b8f7549452860e45a287c8527616f5af7f92",
       "title": "Software Engineer",

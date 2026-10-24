@@ -2,14 +2,14 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 34,
-  "avgPostingDurationDays": 13.5,
+  "totalPostings": 35,
+  "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Paris",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 29
     },
     {
       "id": "biz",
@@ -55,11 +55,18 @@
     0,
     5,
     5,
-    24,
+    25,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c5184345efa0c34dfaf7926c4e492df0b1bb30b",
+      "title": "Praktikum Campaign Management (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8042707003",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "a9faeb32e37488e16dccaef92d71803f51071f11",
       "title": "Praktikum Product Marketing (x/f/m)",
@@ -121,13 +128,6 @@
       "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
       "url": "https://jobs.ashbyhq.com/doctolib/89f0374d-48e3-4774-8a46-edfeb0657e8a?utm_source=freehire.me",
       "location": "Paris",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "dd204ca5b053d0b47f925c28dbce9b89329bdd38",
-      "title": "Software Engineering intern - Fullstack (x/f/m) - Nantes",
-      "url": "https://jobs.ashbyhq.com/doctolib/b651081d-d5eb-4ffb-93e0-643b81bcfa1f?utm_source=freehire.me",
-      "location": "Nantes",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]

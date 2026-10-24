@@ -2,21 +2,21 @@
   "slug": "navy-federal-credit-union",
   "name": "Navy Federal Credit Union",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 22,
+  "totalPostings": 24,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 24
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 13
     },
     {
       "id": "swe",
@@ -34,11 +34,25 @@
     0,
     1,
     21,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "84a1743193f95c3cd88c5eaa155ea480cfb4c7cb",
+      "title": "Intern - Year Round (Data Analytics)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "cfefe5c2095d501a11789bf369970cc49c7780bd",
+      "title": "Intern - Year Round (Data Analytics)",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/33208?utm_source=freehire.me",
+      "location": "Vienna, VA, United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "de5e63674e8b758f27e9b4ed42df45e66fe9dbd7",
       "title": "Intern - Year Round (Workplace Infrastructure & Analytics - Data Analyst)",
@@ -93,20 +107,6 @@
       "title": "Summer Associate Internship (Product Security Engineer)",
       "url": "https://www.themuse.com/jobs/navyfederalcreditunion/summer-associate-internship-product-security-engineer-fb8361",
       "location": "Vienna, VA",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "6a49c8bb39faef15d7678055311dfb3b7f34d3df",
-      "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://www.themuse.com/jobs/navyfederalcreditunion/summer-associate-internship-mobile-developer-cadab3",
-      "location": "Pensacola, FL",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "6e785e91028cc09fadc132febe9e77dfb3245871",
-      "title": "Summer Associate Internship (Mobile Developer)",
-      "url": "https://www.themuse.com/jobs/navyfederalcreditunion/summer-associate-internship-mobile-developer",
-      "location": "Winchester, VA",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]

@@ -2,21 +2,21 @@
   "slug": "sia",
   "name": "Sia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     6,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "314100141fad9121afe2c97c089f451a728e01b1",
+      "title": "Final year internship - DevOps / Platform Engineer",
+      "url": "https://jobs.smartrecruiters.com/Sia/744000156257339-final-year-internship-devops-platform-engineer?utm_source=freehire.me",
+      "location": "Paris, IDF, fr",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "b5f20d02876e702c271a4dc2755367c43cd8f093",
       "title": "Final Year Internship Consultant - Cybersecurity",

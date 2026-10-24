@@ -2,25 +2,25 @@
   "slug": "efinancialcareers",
   "name": "eFinancialCareers",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 4
-    },
-    {
       "id": "quant",
       "label": "Quant",
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 4
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     5,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d131391ff4af80360917c11bad9cc61e87c1cf0",
+      "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",
+      "url": "https://www.reed.co.uk/jobs/junior-c-quant-developer-commodities-global-hedge-fund/57480676?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "3ee86cecb88d8700d2a124647c396c71e49ee17a",
       "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",

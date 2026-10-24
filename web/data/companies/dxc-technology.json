@@ -2,21 +2,21 @@
   "slug": "dxc-technology",
   "name": "DXC Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e943fb60ee8445a6926cc0ab70b7992a4e9e5651",
+      "title": "Junior Software Developer",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---HAM---FARNBOROUGH/Junior-Software-Developer_51591502?utm_source=freehire.me",
+      "location": "GBR - HAM - FARNBOROUGH",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "904a62b39344dd74ac9b4b9fc653846d50a12110",
       "title": "Junior Java Developer with German",

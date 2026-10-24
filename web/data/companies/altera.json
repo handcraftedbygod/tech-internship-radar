@@ -2,26 +2,26 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2e84e6b4a2f2bc0ed1a1a20084b6c1198e8b1f61",
+      "title": "IP Design Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "3f99414050eeb192651c5030c7c2f27e56b01c3c",
+      "title": "Software Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "c6031fc1ce3862777dcc5672cbfe1f2304bdd427",
       "title": "FPGA IP Design Engineer Intern",

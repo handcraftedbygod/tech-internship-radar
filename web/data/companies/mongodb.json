@@ -2,21 +2,25 @@
   "slug": "mongodb",
   "name": "MongoDB",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,32 @@
     0,
     0,
     0,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3edf982f724baa69c6176f309e100a75859c01af",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099&utm_source=freehire.me",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "2af6cff4d31b7eb4c7dedbfeab33ae058f0a51f2",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8267099",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "5e4e8e8398c215aa991ef659f90c3048ec044903",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "location": "Austin; New York City; San Francisco",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "f3c0c292b70503f5dcd7e3a3b7244d0cb9198edd",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",

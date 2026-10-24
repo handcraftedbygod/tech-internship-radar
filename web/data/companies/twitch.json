@@ -1,0 +1,52 @@
+{
+  "slug": "twitch",
+  "name": "Twitch",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-24T08:40:19.613Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e103a3954f6deb074d88616fecbd563e386d7bd5",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "043e75efde3dbdb72ee8869a6b1736bafa5e98b8",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    }
+  ]
+}

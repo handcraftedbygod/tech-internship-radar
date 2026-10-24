@@ -2,14 +2,14 @@
   "slug": "london-stock-exchange",
   "name": "London Stock Exchange Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "14b942688d929c3789442adf215e7727d5fcce6d",
+      "title": "Intern - Software Engineer",
+      "url": "https://www.gradcracker.com/hub/300/london-stock-exchange-group/work-placement-internship/86921/intern-software-engineer?utm_source=freehire.me",
+      "location": "London (Hybrid)",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "672e6faa0f2c0e074ab4125539ec65c4b9b26b3d",
       "title": "Summer Software Engineer Intern — Python, Cloud & Data Quality",

@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     },
     {
       "id": "hw",
@@ -55,11 +55,18 @@
     0,
     18,
     5,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "373556a3e4fb7b8ac627edd39ef8006b0a6af230",
+      "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156235619-junior-managers-program-trainee-starte-deine-leadership-journey-im-bereich-business-intelligence-data-analytics?utm_source=freehire.me",
+      "location": "Gerlingen, BW, de",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "10312a8efc2badf71a0e2b6cba925c38c59d68e1",
       "title": "Calibration Process Optimization Intern",
@@ -120,13 +127,6 @@
       "id": "55af395f643b6ba3256453f199196b638904d322",
       "title": "Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?utm_source=freehire.me",
-      "location": "Wernau (Neckar), BW, de",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "07500c4b630a94e008598631b3d8896c0f6a941c",
-      "title": "Praktikum im Bereich Machine Learning für prädiktive Zuverlässigkeitsanalytik – Wärmepumpen (w/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149827009-praktikum-im-bereich-machine-learning-fur-pradiktive-zuverlassigkeitsanalytik-warmepumpen-w-m-div-?utm_source=freehire.me",
       "location": "Wernau (Neckar), BW, de",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }

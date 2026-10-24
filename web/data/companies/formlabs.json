@@ -2,21 +2,21 @@
   "slug": "formlabs",
   "name": "Formlabs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b30634fdc286d71f120bbc8e6f9b2bd08f0023b6",
+      "title": "Manufacturing Test Software Intern",
+      "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+      "location": "Somerville, MA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "4d8820b61d17442891c3d4eb90496136741bd79d",
       "title": "Hardware R&D Engineering Intern",

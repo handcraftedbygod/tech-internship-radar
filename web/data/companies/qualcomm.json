@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Vancouver",
@@ -18,6 +18,11 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
       "id": "hw",
       "label": "Hardware",
       "count": 3
@@ -25,11 +30,6 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
       "count": 2
     },
     {
@@ -48,11 +48,18 @@
     0,
     0,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27d818d111457c28ad41940dbc45cc995b93ead9",
+      "title": "AI and DSP Applications Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721686396",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "f1f53a0aca1a08a216b31e7fdd37dcae2bbb3f87",
       "title": "Applied AI Engineering Intern, Hardware Systems",

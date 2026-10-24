@@ -2,20 +2,34 @@
   "slug": "rivian-and-volkswagen-group-technologies",
   "name": "Rivian and Volkswagen Group Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 6
+    },
+    {
+      "hub": "Vancouver",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "hw",
       "label": "Hardware",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +43,67 @@
     0,
     1,
     0,
-    0,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "237c1a12c09965ac1417e8df5ff077304724a758",
+      "title": "Software Engineering Intern, Embedded Platforms",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "e230ac22707bd1a266cc70d1b3ff25fdb24261bc",
+      "title": "Software Engineering Intern, Vehicle Controls",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "912e74456c5566f80a450563d1b24c118feadd70",
+      "title": "Software Engineering Intern, Applications",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160/application",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "87cf9891f39c883b0e0426a3e98cf312916decf0",
+      "title": "Software Engineering Intern, Applications",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "c4c4c26dabc8e89cf030e06cadd358484e846fb8",
+      "title": "Data Engineering Intern, AI & Analytics",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464",
+      "location": "Palo Alto, CA, Irvine, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "5e5828c5b47592265d74c07c3130e76d38579797",
+      "title": "Software Engineering Intern, Connected Systems",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+      "location": "Palo Alto, CA, Irvine, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "687d05e92c1de7f2728bbdb2c73a2b5dd88510bb",
+      "title": "Software Engineering Intern, Embedded Platforms",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
+      "location": "Palo Alto, CA, Irvine, CA, Champaign, IL",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "b94ad5bf96ef523e46fbcf0fdcfa34e2738b2ec0",
+      "title": "Software Engineering Intern, Vehicle Controls",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c",
+      "location": "Palo Alto, CA, Irvine, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "3c2267e33ce59314fc8e6be3f540b926adddb85d",
       "title": "Software Engineer Intern, Embedded Platforms",

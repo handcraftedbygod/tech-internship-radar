@@ -2,21 +2,21 @@
   "slug": "innobis",
   "name": "innobis AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     4,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2bd55f7e33f5720ab2d92abb9fcd5f9419368ae9",
+      "title": "Junior Softwareentwickler (m/w/d) Portal - Full Stack - Anwendungsentwicklung, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__497970617__7078?geoID=9699&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Norderstedt, Germany",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "6f0b7ceb6d9bee3176c9d1a12e5cb42e2211f47c",
       "title": "Junior DevOps Engineer / Full Stack Entwickler (m/w/d)",

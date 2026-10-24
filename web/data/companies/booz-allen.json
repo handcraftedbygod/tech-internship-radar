@@ -2,14 +2,14 @@
   "slug": "booz-allen",
   "name": "Booz Allen",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +39,25 @@
     0,
     0,
     3,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c30b819dbb812bc27002f5d6856bc0b9e0b7dc2e",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Arlington-VA/University---Data-Scientist_R0252257",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, Arlington, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "45b2a592237fbb455418b9e876c402e2945de3c0",
+      "title": "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "1c278eeeeec087cb9a12194047a7981cf441e72b",
       "title": "New Grad 2027: Systems Engineer",

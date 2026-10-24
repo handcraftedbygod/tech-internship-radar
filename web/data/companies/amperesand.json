@@ -2,20 +2,25 @@
   "slug": "amperesand",
   "name": "Amperesand",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "260b88593101c1f5f68eb8813f1c645dc2fc9b80",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "1404614c1ec8032eb17993d76618e07dc7582ac4",
       "title": "Technical Program Manager Intern",

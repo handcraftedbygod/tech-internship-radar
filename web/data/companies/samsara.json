@@ -2,10 +2,10 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 18,
-  "avgPostingDurationDays": 40,
+  "totalPostings": 19,
+  "avgPostingDurationDays": 38.3,
   "topLocations": [
     {
       "hub": "London",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "San Francisco",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "design",
@@ -47,11 +47,18 @@
     1,
     17,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cef40591f87116a9b56c8c78149cf1b233ab5703",
+      "title": "Account Development Representative Intern - Phoenix",
+      "url": "https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784",
+      "location": "Phoenix, Arizona, United States",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "44bd571f508723e5e4c667793152363c3686c7f4",
       "title": "(New Grad) Account Development Representative II - Phoenix",
@@ -113,13 +120,6 @@
       "title": "Software Engineering Internship - San Francisco ",
       "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-internship-san-francisco",
       "location": "San Francisco, CA",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "df4e07763ba1c14ab996b2db845f5f75a6e8d6c1",
-      "title": "Software Engineer I (New Grad)",
-      "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
-      "location": "London - UK2",
       "firstSeenAt": "2026-08-06T06:29:13.112Z"
     }
   ]

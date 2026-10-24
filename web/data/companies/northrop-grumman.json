@@ -2,14 +2,14 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 10
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    10,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6e6267b3cb1e58ce46a86d099b7a1c95c233d16",
+      "title": "Systems Engineering Intern, AI Experience",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+      "location": "Dulles, VA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "83b76e71395e67f799c07c1a7f21c0f9dc0c6e9b",
       "title": "New Grad 2027: Associate/Software Engineer Pathways",
@@ -95,13 +107,6 @@
       "title": "Computer Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
       "location": "Manhattan Beach, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "d9f7d4ceccf5ef8b64394995433557c7e76253c2",
-      "title": "Engineer Intern, Product Support",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Engineer---Product-Support_R10255683-1",
-      "location": "Oklahoma City, OK",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

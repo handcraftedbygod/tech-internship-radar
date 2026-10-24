@@ -2,21 +2,21 @@
   "slug": "capital-one",
   "name": "Capital One",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d6e15c83415b3c4da4c57ff446d09d077aa2f9b",
+      "title": "Associate Software Engineer, Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "deeeb470541cdf19c6a5df3176053f562ddede38",
       "title": "Backend Software Engineer Intern, Team Interstellar",

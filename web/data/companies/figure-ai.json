@@ -2,21 +2,21 @@
   "slug": "figure-ai",
   "name": "Figure AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9278f2fde3cc4c650ffe80353d7243f8ff41f3bc",
+      "title": "Developer Productivity Intern",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "0ae364c803df6e36b17c8a7d436bbba1f88534f7",
       "title": "Deployment Engineering Intern",

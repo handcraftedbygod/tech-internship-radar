@@ -2,21 +2,21 @@
   "slug": "skydio",
   "name": "Skydio",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "72a8eace90d309257fdbbcd12c028cd695ac00d3",
+      "title": "Frontend Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "8c213fac76febb2f271c9098b03dea9848b1bc02",
       "title": "Embedded Software Engineer Intern",

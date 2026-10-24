@@ -2,21 +2,21 @@
   "slug": "mdb-general-referrals",
   "name": "MDB General Referrals",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19935f780e26d7f59278bdd8b86746ab64350866",
+      "title": "2027 - Summer Software Engineer Intern, Dublin",
+      "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8303225?utm_source=freehire.me",
+      "location": "Dublin",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
     {
       "id": "9712221fda0192b141044c947e9fafad4d43bcdf",
       "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship ",

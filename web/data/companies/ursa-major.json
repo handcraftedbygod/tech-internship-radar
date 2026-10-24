@@ -1,0 +1,57 @@
+{
+  "slug": "ursa-major",
+  "name": "Ursa Major",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-24T08:40:19.613Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1a8804bce53054c9beca2fdef4890058c1ca6c4a",
+      "title": "Embedded Flight Software Intern",
+      "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
+      "location": "Longmont, CO",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    },
+    {
+      "id": "5dcdbddb60d84ee443cdb8cba8bf971666fc6d54",
+      "title": "Software Development Intern",
+      "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
+      "location": "Berthoud, CO",
+      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+    }
+  ]
+}
