@@ -2,21 +2,21 @@
   "slug": "genentech",
   "name": "Genentech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "16b0f6070bdf52f9f476281d729701a64d6273ba",
+      "title": "Product Technical Development Intern, Digital Sciences Focus",
+      "url": "https://go.vansh.nyc/cB",
+      "location": "South San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "6d6930e9626e8f697b7df64212a7656bc886cb37",
       "title": "Product Technical Development Intern, Digital Sciences Focus",

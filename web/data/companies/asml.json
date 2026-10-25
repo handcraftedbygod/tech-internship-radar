@@ -2,9 +2,9 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 12
     },
     {
       "id": "ai",
@@ -38,11 +38,32 @@
     0,
     2,
     2,
-    12,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8837f2fad4b9cabad085784830830017abbc55a",
+      "title": "Platform Software Engineer In Test Intern",
+      "url": "https://go.vansh.nyc/hQ",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5f091e684768e338ea8a24eb13703684d57958a5",
+      "title": "Application Software QA Engineer Intern",
+      "url": "https://go.vansh.nyc/gY",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b078cd8a1a596713763fcbd9143bc3c139dde175",
+      "title": "Software Engineer In Test Intern, MOD",
+      "url": "https://go.vansh.nyc/gM",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "6d00d4314c8e79852e874cf092591275283d313d",
       "title": "Platform Software Engineer In Test Intern",
@@ -91,27 +112,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536?utm_source=freehire.me",
       "location": "Eindhoven, Netherlands",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "35a5afe8d0d6a398349f3067d905719fe36697cf",
-      "title": "Computer Science | Software Engineering internship: dynamic test selection",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering-internship--dynamic-test-selection_J-00354538?utm_source=freehire.me",
-      "location": "Eindhoven, Netherlands",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a7fda17d5f0171813c75019324ee77c90f33d7be",
-      "title": "Data Science | Engineering internship: optimizing business processes",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Engineering-internship--optimizing-business-processes_J-00354527-1?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "015fd6e191aba1bac63244667a3dbb4201ad8e82",
-      "title": "Computer Science | Data Science internship: Quality dashboard development",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Data-Science-internship--Quality-dashboard-development_J-00354624?utm_source=freehire.me",
-      "location": "Eindhoven, Netherlands",
-      "firstSeenAt": "2026-10-14T09:19:46.299Z"
     }
   ]
 }

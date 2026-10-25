@@ -2,21 +2,21 @@
   "slug": "thorlabs",
   "name": "Thorlabs",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5956fe8a9d4dabbe6c47689d53231ea3e343466",
+      "title": "Data Analyst 1",
+      "url": "https://go.vansh.nyc/AO",
+      "location": "Newton, NJ",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "17ea4a5c26cda0af92ecb9163138a46b15699b2f",
       "title": "Data Analyst 1",

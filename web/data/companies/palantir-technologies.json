@@ -2,21 +2,25 @@
   "slug": "palantir-technologies",
   "name": "Palantir Technologies",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 4
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45c0b03ed0efc8334a885b0867ea9aa3f9a0f71a",
+      "title": "Deployment Strategist Intern, Warp Speed",
+      "url": "https://go.vansh.nyc/fJ",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "d8eaa33877a1fb44c3d750550fe74b863e4855c4",
       "title": "Software Engineer, Internship - Query Engines",

@@ -2,21 +2,21 @@
   "slug": "rendezvous-robotics",
   "name": "Rendezvous Robotics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d759c098f38a188a8f3725311406b835e2e8d247",
+      "title": "New Grad 2027: Flight Software Engineer",
+      "url": "https://go.vansh.nyc/B8",
+      "location": "Golden, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "10445d791599047db33bd039c5226a7ef0ca7cb8",
       "title": "New Grad 2027: Flight Software Engineer",

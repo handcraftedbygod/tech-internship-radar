@@ -2,21 +2,21 @@
   "slug": "creative-artists-agency",
   "name": "Creative Artists Agency",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ab420fc9dc66c19d1e780133189e14c11b0cfe1",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/bV",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "4ed7da6462c41582905f627fbcc776d5f22857cf",
       "title": "Data Analytics Intern",

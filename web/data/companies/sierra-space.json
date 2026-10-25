@@ -2,21 +2,21 @@
   "slug": "sierra-space",
   "name": "Sierra Space",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5acba0e669746483095d8bd9bac7725ed36192a5",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://go.vansh.nyc/dO",
+      "location": "Louisville, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1750b3037f21f61693995afe9a71223f34b25ec5",
       "title": "Flight Software Engineer Intern",

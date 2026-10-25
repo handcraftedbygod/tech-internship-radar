@@ -2,26 +2,26 @@
   "slug": "ursa-major",
   "name": "Ursa Major",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "26598ad68eaead61ffbda9a44bf6f02f4ed3c816",
+      "title": "Embedded Flight Software Intern",
+      "url": "https://go.vansh.nyc/fq",
+      "location": "Longmont, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "16c9a9cc6526b1d7d2e0b135d07e8450f67330fc",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/fp",
+      "location": "Berthoud, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1a8804bce53054c9beca2fdef4890058c1ca6c4a",
       "title": "Embedded Flight Software Intern",

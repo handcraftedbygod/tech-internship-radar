@@ -2,14 +2,14 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Lodz",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -38,11 +38,25 @@
     0,
     2,
     2,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "275118afe5734a2d23898bf386c0153e00e85750",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://go.vansh.nyc/gz",
+      "location": "Greenville, SC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "1e0ade1f5f996bf6b01c6827e7d16ac66d92212d",
+      "title": "Integrated Motor Drive Software Co-op",
+      "url": "https://go.vansh.nyc/bF",
+      "location": "Greenville, SC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f65bbce0fa10d3332f3548db8ac9173105bae458",
       "title": "R&D Software Engineer Intern",

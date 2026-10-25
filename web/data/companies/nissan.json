@@ -2,26 +2,26 @@
   "slug": "nissan",
   "name": "Nissan",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32aeac165c7e8f39fdde6dac2c8d2cb43d5a4866",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/eD",
+      "location": "Smyrna, TN",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "68ba9cc04a0f2b7e7d4ca7fc41de6742dcb70790",
+      "title": "Applied AI & Business Innovation Intern",
+      "url": "https://go.vansh.nyc/bs",
+      "location": "Franklin, TN",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3c7b7fd1188cebee4fa8e426601b585e7d565c13",
+      "title": "AI Autonomous Driving Verification & Validation Intern",
+      "url": "https://go.vansh.nyc/bp",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a2c654f30da4775d4b1c7fcf44930309f911c901",
       "title": "Cyber Security Intern",

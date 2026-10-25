@@ -2,21 +2,21 @@
   "slug": "taylor",
   "name": "Taylor",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "493492e547636898098d4c5c6ba2705f34062da9",
+      "title": "Enablement Data & Insights Intern",
+      "url": "https://go.vansh.nyc/fg",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c6dfe014ab36a5c8eb9e0efe3d536a157132ad94",
       "title": "Enablement Data & Insights Intern",

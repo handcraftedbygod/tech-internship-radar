@@ -2,21 +2,21 @@
   "slug": "navy-federal",
   "name": "Navy Federal",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c8fe7797dfc9876fd3b04f3d259372621fd609e",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/hL",
+      "location": "Pensacola, FL, Vienna, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "667dd9475961e6c069c0f19ed624cb374dd5163e",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/bC",
+      "location": "Vienna, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c7ed7ee53c28c001f60eb4b1762c29059037e23e",
       "title": "Data Analytics Intern",

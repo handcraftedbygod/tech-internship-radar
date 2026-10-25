@@ -2,21 +2,21 @@
   "slug": "veeda-ai",
   "name": "Veeda AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cae989ee66b065acd7ad948a0160198cb98693c6",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/fr",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1780430e65e45eedafe6b395c080c7f8ff17fedb",
       "title": "Software Engineering Intern",

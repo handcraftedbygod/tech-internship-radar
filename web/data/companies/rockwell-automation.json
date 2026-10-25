@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Katowice",
@@ -20,7 +20,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     1,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2a56152091b143ffd492c5a9650a2cc039df091",
+      "title": "Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/gA",
+      "location": "Mequon, WI, Eden Prairie, MN",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "6b28c5bdb27153bf75428418e29297e14f4c7044",
+      "title": "Hardware Development Engineer Intern",
+      "url": "https://go.vansh.nyc/d1",
+      "location": "Mayfield Heights, OH",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "3fe6c3ab1edc638348b820c93b5838ebdf9fe8b7",
       "title": "Firmware Engineer Intern",

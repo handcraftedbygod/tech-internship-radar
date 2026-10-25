@@ -2,30 +2,30 @@
   "slug": "cvs-health",
   "name": "CVS Health",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 7,
+  "totalPostings": 14,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 4
+      "count": 8
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,60 @@
     0,
     0,
     0,
-    7,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32e67b1b558b548c9617b2815a2d5e0f464757bd",
+      "title": "Software Engineering Intern, Data & Intelligence",
+      "url": "https://go.vansh.nyc/gu",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "94df89ac9b228ca1d61175ed8a9146d17859eb81",
+      "title": "Software Engineering: Data & Intelligence Intern, Innovation & Technology",
+      "url": "https://go.vansh.nyc/fn",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "f75260d60863421b04613a0dd078d989d9540152",
+      "title": "Data Science Intern, Innovation & Technology",
+      "url": "https://go.vansh.nyc/fm",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "46794dccdde4b8d3199b1193848a770685b6ee85",
+      "title": "Data Engineering Intern, Innovation & Technology",
+      "url": "https://go.vansh.nyc/fk",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "169ae455a197b2af1843217807ce24035065483b",
+      "title": "Software Engineer Intern, Platform & Applications",
+      "url": "https://go.vansh.nyc/fj",
+      "location": "Scottsdale, AZ, Dallas, TX, Hartford, CT, Woonsocket, RI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "01f62f107e7f434f8d18ce31bf8c34880f29ab51",
+      "title": "Product & Agile Delivery Intern, Innovation & Technology",
+      "url": "https://go.vansh.nyc/fi",
+      "location": "Hartford, CT, Dallas, TX, Scottsdale, AZ, Woonsocket, RI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3e974bb336ac0b28e76dbb4c534ba146f7e91e8e",
+      "title": "Medicaid Data Analytics Intern",
+      "url": "https://go.vansh.nyc/fh",
+      "location": "Hartford, CT",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f24e16e4aba3b659d74731e2f49623499ac8a4ed",
       "title": "Software Engineering Intern, Data & Intelligence",
@@ -62,34 +111,6 @@
       "title": "Data Science Intern, Innovation & Technology",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067",
       "location": "New York, NY",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "465208e57717c5f9bcbca4fed2681471df362499",
-      "title": "Data Engineering Intern, Innovation & Technology",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "d4e1fd9474538fe721c25f199aa5659c876f5182",
-      "title": "Software Engineer Intern, Platform & Applications",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
-      "location": "Scottsdale, AZ, Dallas, TX, Hartford, CT, Woonsocket, RI",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "998ea9f16315139f0ad27399ee8e1c9399f465fb",
-      "title": "Product & Agile Delivery Intern, Innovation & Technology",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
-      "location": "Hartford, CT, Dallas, TX, Scottsdale, AZ, Woonsocket, RI",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "5a1cc0a61cc18e8b86ea5750a1f0c920902227f7",
-      "title": "Medicaid Data Analytics Intern",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicaid-Data-Analytics-Corporate-Internship---Summer-2027--Undergraduate-_R1052342",
-      "location": "Hartford, CT",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]

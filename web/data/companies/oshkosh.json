@@ -2,25 +2,25 @@
   "slug": "oshkosh",
   "name": "Oshkosh",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -34,11 +34,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "164c42e00377b10769c3d2b9d3fea6655ad99bbb",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/AJ",
+      "location": "Oshkosh, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "2c386a35346c0d76a7484449c7fc158ba4cb444d",
       "title": "Software Engineer",

@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 32,
-  "avgPostingDurationDays": 11.7,
+  "totalPostings": 35,
+  "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 27
     },
     {
       "hub": "Reutlingen",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "hw",
@@ -55,11 +55,32 @@
     0,
     18,
     5,
-    9,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce14808e7d6659c33fe8d1e37efc686787f7940a",
+      "title": "Calibration Process Optimization Intern",
+      "url": "https://go.vansh.nyc/ds",
+      "location": "Farmington Hills, MI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "6ac9467c5fb6274b82e56cdc4c79fd9564aeaf25",
+      "title": "AI Research Intern, Wireless Foundation Models",
+      "url": "https://go.vansh.nyc/be",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ecb0ba1e83d2d6651f8a513dc9e92d5a0a3c11e4",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/bd",
+      "location": "Fountain Inn, SC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "373556a3e4fb7b8ac627edd39ef8006b0a6af230",
       "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics",
@@ -108,27 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155120934",
       "location": "Farmington Hills, MI",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "7775b3ce54571868fc29ebd94346a39ad6365d61",
-      "title": "ERP/IT Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155101377",
-      "location": "Lincolnshire, IL",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "83203a4513699cc7ea4c885c17b0a5fc6b3aacee",
-      "title": "Robotics Research Intern",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
-      "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "55af395f643b6ba3256453f199196b638904d322",
-      "title": "Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000149826650-internship-machine-learning-for-predictive-reliability-analytics-heat-pumps?utm_source=freehire.me",
-      "location": "Wernau (Neckar), BW, de",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

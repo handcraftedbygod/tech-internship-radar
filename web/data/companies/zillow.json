@@ -2,21 +2,21 @@
   "slug": "zillow",
   "name": "Zillow",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2073671b3a7531ed7ab2dd483b7bfbcc266f8ece",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/dP",
+      "location": "Seattle, WA, Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c5a552b535dc538d217083b0a9ef3d586879c3cc",
       "title": "Software Development Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "sardine",
   "name": "Sardine",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5aae603cd38489faf47ae295880a0d0a7ad59cbb",
+      "title": "Engineering Intern",
+      "url": "https://go.vansh.nyc/hz",
+      "location": "Remote, United States, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "5562aa8f5c6ecc655fb3383827390c6382c99f8e",
       "title": "Engineering Intern",

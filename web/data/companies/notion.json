@@ -2,25 +2,25 @@
   "slug": "notion",
   "name": "Notion",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
-      "hub": "San Francisco",
+      "hub": "New York",
       "count": 3
     },
     {
-      "hub": "New York",
-      "count": 1
+      "hub": "San Francisco",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,25 @@
     0,
     3,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1db99cae51b8483c47c54970182d6ecfaf5b2b67",
+      "title": "Software Engineer Intern, Mobile",
+      "url": "https://go.vansh.nyc/BF",
+      "location": "San Francisco, CA, New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "e03e24c4012b9a34e8eb2ad034bac49b1c645212",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/BE",
+      "location": "San Francisco, CA, New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a1f8d0241205cc9b2ff4f78f588f474e36b1c4dc",
       "title": "Software Engineer Intern, Mobile (Winter 2027)",

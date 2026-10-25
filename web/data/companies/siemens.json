@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 41,
+  "totalPostings": 42,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -56,11 +56,18 @@
     0,
     17,
     15,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95faf4687e0b7c5485f12598f6581ff6b4569d23",
+      "title": "Python Backend Developer Intern, Energy Flexibility Platform",
+      "url": "https://go.vansh.nyc/hM",
+      "location": "Princeton, NJ",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a6dd6ad578a764bf1f50f9aa3f8ae5b57f7ba522",
       "title": "Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung",
@@ -123,13 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1600672-2-S",
       "location": "Garching an der Alz",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "2dc901fea4f4fb91ce2660332778d4ac1ee9fb45",
-      "title": "Working Student (f/m/d) Cybersecurity Project Execution",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635624-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

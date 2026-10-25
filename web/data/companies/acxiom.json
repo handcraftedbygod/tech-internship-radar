@@ -2,21 +2,21 @@
   "slug": "acxiom",
   "name": "Acxiom",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18dce9458751e45490fef3d1de2440ccf26a4d5d",
+      "title": "Associate Solution Developer",
+      "url": "https://go.vansh.nyc/AG",
+      "location": "Conway, AR",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b5eaafba754ec4337dda223cd5ddbf5e1cdb20d3",
       "title": "Associate Solution Developer",

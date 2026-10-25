@@ -2,21 +2,21 @@
   "slug": "schweitzer-engineering-laboratories",
   "name": "Schweitzer Engineering Laboratories",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ada40c25a42b6ab70f194f9e3a36008bdc74986",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/cZ",
+      "location": "Pullman, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "d231706c27ad564889d53d54ab6fc4957a7cec28",
       "title": "Software Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "fnbo",
   "name": "FNBO",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df26833c4bca3003326a4fce0189854709742cd2",
+      "title": "Associate Cloud Engineer",
+      "url": "https://go.vansh.nyc/Bk",
+      "location": "Omaha, NE",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "95d93d0c46869681560154aae4b43a6011910631",
       "title": "Associate Cloud Engineer",

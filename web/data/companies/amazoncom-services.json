@@ -2,20 +2,25 @@
   "slug": "amazoncom-services",
   "name": "Amazon.com Services LLC",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b23c5979cb4b2e18a2d16ebbb670d1da67b68699",
+      "title": "System Development Engineer Co-op, Robotics",
+      "url": "https://go.vansh.nyc/i1",
+      "location": "North Reading, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "461fdc5c198563c83b47c7ebb8edb04095416a9a",
+      "title": "Hardware Development Engineer Intern",
+      "url": "https://go.vansh.nyc/cT",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b54bcb5e81835c4b91784f1352a942b968b97e94",
       "title": "Hardware Development Engineer Intern",

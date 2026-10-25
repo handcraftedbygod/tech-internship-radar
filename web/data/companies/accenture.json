@@ -2,9 +2,9 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 2
     },
     {
-      "hub": "Amsterdam",
-      "count": 1
+      "hub": "Toronto",
+      "count": 2
     },
     {
-      "hub": "Toronto",
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -51,11 +51,18 @@
     0,
     10,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef2b4890ffcc86d1c294c811328922811cb15864",
+      "title": "MES & Supply Chain Systems Co-op Analyst",
+      "url": "https://go.vansh.nyc/c0",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e9dfe89773db34c5e50af406b5b1e33a420749eb",
       "title": "MES & Supply Chain Systems Co-op Analyst",
@@ -117,13 +124,6 @@
       "title": "Junior Software Engineer",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow/Software-Engineer-Poland_13670598?utm_source=freehire.me",
       "location": "Krakow",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "9ab6462c95ccb574fc5fbbd2356cbcd01cf1d140",
-      "title": "Backend Developer Internship Program (She/He/They)",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Backend-Developer-Internship-Program--She-He-They-_R00280950?utm_source=freehire.me",
-      "location": "Warsaw",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]

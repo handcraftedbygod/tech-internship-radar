@@ -2,21 +2,21 @@
   "slug": "telus-digital",
   "name": "TELUS Digital",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Vancouver",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bcdf3787bf2a32f505e05279bf108fcadc6a7ee4",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/hb",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "8962f699dd28af50a3c9e93c9dcdd03f70289fba",
       "title": "Software Engineering Co-op",

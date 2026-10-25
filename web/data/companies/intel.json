@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 17,
+  "totalPostings": 19,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 16
     },
     {
       "id": "ai",
@@ -42,11 +42,25 @@
     0,
     0,
     0,
-    17,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09dedd9e15d795857e352cbf7d630c5001d5267e",
+      "title": "Software Engineer, CAD/EDA Tools (Master's)",
+      "url": "https://go.vansh.nyc/Bx",
+      "location": "Hillsboro, OR",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "23de8fd6ee08c0caa196f0cb9fe9bc50b6c6e8e5",
+      "title": "Information Security Engineer Intern",
+      "url": "https://go.vansh.nyc/e1",
+      "location": "Folsom, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "3d4854cd982b7eaa5c4e1d62a53f8823df0d799b",
       "title": "Software Engineer, CAD/EDA Tools (Master's)",
@@ -100,20 +114,6 @@
       "id": "de2bd025c9d6e7681b3abb5d0a0526aae207de98",
       "title": "AI Software Development Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "8ccaf44e9254269c06273fec039597d63702a412",
-      "title": "DevOps Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a1d6a96387637d6dbfd45c040036d1f3158f7e24",
-      "title": "Middleware Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }

@@ -2,14 +2,14 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 10,
+  "totalPostings": 17,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 8
+      "count": 15
     },
     {
       "hub": "New York",
@@ -20,22 +20,22 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 4
     },
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -48,11 +48,60 @@
     0,
     0,
     0,
-    10,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08a280b729a7732e19060149dbd0a53313d3aaf7",
+      "title": "Machine Learning Engineer Co-op",
+      "url": "https://go.vansh.nyc/ep",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b04bc7d5a60fbdac42ba854716e0405a0dd8b594",
+      "title": "AI and Quantum Scientist Co-op",
+      "url": "https://go.vansh.nyc/dG",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b877214a0ead7a087efa21c8c71beba4d373c5c8",
+      "title": "Application/Software Developer Co-op - Capital Markets Technology",
+      "url": "https://go.vansh.nyc/c2",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "761be8f98964d33f629e40f0aad770ae539c6c53",
+      "title": "Application Developer Co-op - Enterprise Technology & Business Management",
+      "url": "https://go.vansh.nyc/c1",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "270df31df5a32b5705a51471ac0269a14796f3ba",
+      "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
+      "url": "https://go.vansh.nyc/bN",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "e1db42b9f90a2306e1358100671934b452c183e3",
+      "title": "Application/Software Developer Co-op, Capital Markets Technology",
+      "url": "https://go.vansh.nyc/bM",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "42d037ce63c1435d0f52edb387a5725fb4fe569b",
+      "title": "Advanced Analytics and AI Co-op",
+      "url": "https://go.vansh.nyc/bH",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "64fc8546d690a8399a3164a314a94da88d4c4ebc",
       "title": "Machine Learning Engineer Co-op",
@@ -73,55 +122,6 @@
       "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
       "location": "Toronto, ON, Canada",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "af1de61e095b4d72f3db4ba8dab651b1a55a7d38",
-      "title": "Application Developer Co-op - Enterprise Technology & Business Management",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "65842e9f3d456afe4c9126392a913617432dd5ea",
-      "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "1ffdae22976ecfbecf6bf0b96228d78e43c622b8",
-      "title": "Application/Software Developer Co-op, Capital Markets Technology",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "b560d80120a52a526ed17a780cc00a92dd558e36",
-      "title": "Advanced Analytics and AI Co-op",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "fc74f0b4f2af757ade7390902a5b9dcc2963c776",
-      "title": "Information Security Analyst Co-op",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "53dbf03d872b6da984f91ed2acef4f0754d0bb9d",
-      "title": "Analyst Intern, Equity Solutions Group",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985-1",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "486cbfcc27b282ae6192056cb6d943f997f9abcc",
-      "title": "Analyst Intern, Equity Solutions Group",
-      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

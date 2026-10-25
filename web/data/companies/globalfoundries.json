@@ -2,40 +2,40 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 10
     },
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -48,11 +48,53 @@
     0,
     0,
     0,
-    6,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe2a7ece525099d0d0f16ed8291760d13f70faf1",
+      "title": "New Grad 2027: AI Software Engineer",
+      "url": "https://go.vansh.nyc/AQ",
+      "location": "Santa Clara, CA, Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ab58a8709157891254aee23972237d1658d8d1ea",
+      "title": "New Grad 2027: AI/ML Systems Engineer",
+      "url": "https://go.vansh.nyc/AA",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "bf6a7d408c7c77c11185fbac300fb31fd6ed4a60",
+      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
+      "url": "https://go.vansh.nyc/hm",
+      "location": "Austin, TX, Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "7398f025d3084cf921e35a0786454efeda9b888c",
+      "title": "Tapeout Engineer Intern, Tapeout Operations",
+      "url": "https://go.vansh.nyc/hl",
+      "location": "Essex Junction, VT",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "186d83791eb02265d0e4027c193fb048a1512fa1",
+      "title": "AI Software Intern",
+      "url": "https://go.vansh.nyc/dN",
+      "location": "Santa Clara, CA, Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "639b60c7ea6c4d3e8087c5f87741581a9db9bde9",
+      "title": "AI/ML Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/bh",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "73088890d6de7143f2f6c3c7fbd77ab8bf7c7c8a",
       "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
@@ -80,20 +122,6 @@
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "9dd7b1f70401001078e568932f0c79cc302b880b",
-      "title": "AI Software Intern",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
-      "location": "Santa Clara, CA, Richardson, TX",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "31064ffd6f8a7d7ae135bdc8ebbbdbab5fe244c7",
-      "title": "AI/ML Systems Engineering Intern",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

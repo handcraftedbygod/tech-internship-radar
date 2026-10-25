@@ -2,21 +2,21 @@
   "slug": "college-board",
   "name": "College Board",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "018763fa9f8a2148f22136357bd7024475dbbed1",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/B0",
+      "location": "Remote",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f63abee12f6fba2982701e792f0f87b7410ee13d",
       "title": "Software Engineer I",

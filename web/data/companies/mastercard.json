@@ -1,18 +1,18 @@
 {
   "slug": "mastercard",
-  "name": "mastercard",
+  "name": "Mastercard",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
-      "hub": "Dublin",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "Dublin",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "760197ae0f4fc1f9b8f5ec70ee7eaae208ea2d05",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/AT",
+      "location": "O'Fallon, MO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b1e6deaca5732d8b9d9e5b79af3dfee374d3f2b0",
       "title": "Software Engineer I",

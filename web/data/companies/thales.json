@@ -2,17 +2,17 @@
   "slug": "thales",
   "name": "Thales",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
-      "hub": "Madrid",
-      "count": 1
+      "hub": "Montreal",
+      "count": 2
     },
     {
-      "hub": "Montreal",
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f7309e5752d623099a88049de6072cce5d6c1667",
+      "title": "Tools and Process Development Intern",
+      "url": "https://go.vansh.nyc/hj",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "486f93c3e07d050cb2f14e60812cca3f3587c8b2",
       "title": "Tools and Process Development Intern",

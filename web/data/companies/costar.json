@@ -2,21 +2,21 @@
   "slug": "costar",
   "name": "CoStar Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eed5d9b87d5f6bcec60a1a39b508b7cac0fc59a2",
+      "title": "Security Engineer Intern",
+      "url": "https://go.vansh.nyc/cL",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "0ecd36e92cd719530308e5666323a13bae94fd61",
       "title": "Security Engineer Intern",

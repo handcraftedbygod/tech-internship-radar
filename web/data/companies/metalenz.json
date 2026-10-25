@@ -2,21 +2,21 @@
   "slug": "metalenz",
   "name": "Metalenz",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f490fa1033883d95bba66d98a1707acb8d1f8f0f",
+      "title": "Camera Software Intern",
+      "url": "https://go.vansh.nyc/dT",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a132cac9627189f24299db016e3801a27514fe3e",
       "title": "Camera Software Intern",

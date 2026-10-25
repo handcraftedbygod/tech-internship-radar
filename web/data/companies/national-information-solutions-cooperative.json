@@ -2,21 +2,21 @@
   "slug": "national-information-solutions-cooperative",
   "name": "National Information Solutions Cooperative",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "412c62fb87b033286afe40b85da3e62a0dd2664b",
+      "title": "Application Analyst Intern, Financials Software",
+      "url": "https://go.vansh.nyc/bB",
+      "location": "Mandan, ND",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "6be7799d10d7f978735747c193fe37f6253f37ff",
       "title": "Application Analyst Intern, Financials Software",

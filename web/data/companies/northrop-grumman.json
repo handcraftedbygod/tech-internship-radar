@@ -2,26 +2,26 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    11,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d65c427139b9dbab1f0ae5efbd838a8f842de857",
+      "title": "New Grad 2027: Associate/Software Engineer Pathways",
+      "url": "https://go.vansh.nyc/Ay",
+      "location": "Linthicum, MD",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5f7a7d02a2019cd85c7435bcfc0ac17c67729762",
+      "title": "Systems Engineering Intern, AI Experience",
+      "url": "https://go.vansh.nyc/f7",
+      "location": "Dulles, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c6e6267b3cb1e58ce46a86d099b7a1c95c233d16",
       "title": "Systems Engineering Intern, AI Experience",
@@ -93,20 +107,6 @@
       "title": "Software Engineering Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
       "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "252e194ae4388a11d048c7b044c7a2711c9da3ae",
-      "title": "Tech Publications & Training Intern, Product Support",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Tech-Publications---Training-Intern---Product-Support_R10256053",
-      "location": "Saint Augustine, FL",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "cf40dcb502e1ab3b5e3ddea3c3210c3ba9f8add4",
-      "title": "Computer Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
-      "location": "Manhattan Beach, CA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

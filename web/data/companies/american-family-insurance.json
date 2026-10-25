@@ -2,30 +2,30 @@
   "slug": "american-family-insurance",
   "name": "American Family Insurance Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f099eab8d9d45460967484480d0f424683fffdba",
+      "title": "AI Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/hn",
+      "location": "Madison, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "534673ebe9c6e8d596f9ab5da6349d8b53b42f99",
+      "title": "Business Intelligence Enablement Intern",
+      "url": "https://go.vansh.nyc/fc",
+      "location": "Madison, WI, Boston, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b2ab1436740e27e32ba3d09ecf8c50b2b98ada5b",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/dJ",
+      "location": "Madison, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c8f413aaf7fa543f046457f6a4947920f473b7b8",
       "title": "AI Platform Engineering Intern",

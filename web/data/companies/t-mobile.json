@@ -2,21 +2,21 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b59710a7a7869fad904e3f63acb4f89f2f74be2b",
+      "title": "Software Engineer Intern, Cloud Security",
+      "url": "https://go.vansh.nyc/dw",
+      "location": "Atlanta, GA, Frisco, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "016d09a3260d8de60b73bd669d01ea3eaf0f5e52",
       "title": "Software Engineer Intern, Cloud Security",

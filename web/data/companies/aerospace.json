@@ -2,31 +2,31 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 7
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,11 +39,46 @@
     0,
     0,
     0,
-    6,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bda5ccccdaf3959da196da209c35edd234724c0a",
+      "title": "Defensive Cyber Operations Intern",
+      "url": "https://go.vansh.nyc/h5",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "058807bec4bc4414792396695eefd082aa64c5a5",
+      "title": "Cloud Solutions Engineer Intern, Site Reliability",
+      "url": "https://go.vansh.nyc/gq",
+      "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "43287c2f91e10e4689990f73f37794723371cecf",
+      "title": "Signal Processing and RF Engineering Intern",
+      "url": "https://go.vansh.nyc/ee",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "cc52d75cf6afd0be188d63f6da8fcdff3aa2d54f",
+      "title": "Digital Communication Intern",
+      "url": "https://go.vansh.nyc/dx",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "11383ef86ced5ac0ac7311eb82b9ab2806e1646c",
+      "title": "Hardware Security Engineering Intern",
+      "url": "https://go.vansh.nyc/dv",
+      "location": "El Segundo, CA, Chantilly, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f3da36b26ee6943cd7bcc53d06da24cc55267441",
       "title": "Defensive Cyber Operations Intern",
@@ -78,13 +113,6 @@
       "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
       "location": "El Segundo, CA, Chantilly, VA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "97152953f52da636fbabebf22a29a16201c2848b",
-      "title": "Cloud Solutions Engineer / Site Reliability Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714",
-      "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

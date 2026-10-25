@@ -2,14 +2,14 @@
   "slug": "aptiv",
   "name": "Aptiv",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": null,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 14
     },
     {
       "hub": "Krakow",
@@ -20,17 +20,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 9
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,11 +43,67 @@
     0,
     0,
     0,
-    7,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "169fdacf879c94adb5c94b9caca4a9987c68a3c3",
+      "title": "Engineering Intern",
+      "url": "https://go.vansh.nyc/i0",
+      "location": "Kanata, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "1a08c4f8ad1f1432da5fe3a5d56f192d78dc2463",
+      "title": "Cloud Software Engineer Intern",
+      "url": "https://go.vansh.nyc/hZ",
+      "location": "Kanata, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5256ec08ca723b685e90d5176e006a37081825e9",
+      "title": "HVP Certification Engineer Intern",
+      "url": "https://go.vansh.nyc/fa",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "cd9352a58d40d454f08caa8ff0f4b28592e77a2e",
+      "title": "HVP/Certification Engineer Intern",
+      "url": "https://go.vansh.nyc/f8",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5ae42366ae9e8049493090e11242189c0ba338e0",
+      "title": "Linux Intern",
+      "url": "https://go.vansh.nyc/eN",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "9b64a5a26f84f6cb8fbc30913717be29bd3d9946",
+      "title": "Linux Engineering Intern",
+      "url": "https://go.vansh.nyc/eM",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "1781eeb723776235caa8f83c548602979f9fff20",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/eh",
+      "location": "Troy, MI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "111e35fddb8f20f66ba1fde18fc80b577e2117f8",
+      "title": "AI Product Analyst Intern",
+      "url": "https://go.vansh.nyc/dC",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b25968a441064b4ed3055b7aa13cb67ca6027395",
       "title": "HVP Certification Engineer Intern",
@@ -61,41 +117,6 @@
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
       "location": "Kanata, Canada",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "0ab3807ae3032b9dacf5021e0a94ddfaacbdf3c8",
-      "title": "Linux Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370",
-      "location": "Kanata, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "a61760cd1f3f50718ddfbd3b773db4de21d48132",
-      "title": "Linux Engineering Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371",
-      "location": "Kanata, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "e73d858bf9f40b283b6145b1648419d80fac2407",
-      "title": "Software Development Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
-      "location": "Troy, MI",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "e694d03616666d886259b9f8774fbcea7a6e3251",
-      "title": "AI Product Analyst Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "de6e58b8d248d46b893da72cbae800acea33379c",
-      "title": "Systems Engineer Intern",
-      "url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Krakow-Poland/Systems-Engineer-Intern_J000705020?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }
   ]
 }

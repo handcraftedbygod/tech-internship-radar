@@ -2,21 +2,21 @@
   "slug": "insomniac-games",
   "name": "Insomniac Games",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "243db972899f09448d11f13da277e554a1a86813",
+      "title": "Engine and Tools Programming Intern",
+      "url": "https://go.vansh.nyc/d8",
+      "location": "Burbank, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1743f359d44345d46578a8a68b8a3db73d105978",
       "title": "Engine and Tools Programming Intern",

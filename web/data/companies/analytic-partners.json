@@ -2,21 +2,21 @@
   "slug": "analytic-partners",
   "name": "Analytic Partners",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c40aef37a07eba673e98ea3cb4b627e9c1694736",
+      "title": "Data Science Co-op",
+      "url": "https://go.vansh.nyc/dz",
+      "location": "Miami, FL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "d702bd29e4ab097b45ca6367055e773b2eb96fff",
       "title": "Data Science Co-op",

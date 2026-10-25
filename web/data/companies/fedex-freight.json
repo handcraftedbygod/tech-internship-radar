@@ -2,26 +2,26 @@
   "slug": "fedex-freight",
   "name": "FedEx Freight",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b843687d6861cc7e67992eca30470d94f7b2908",
+      "title": "Media & Web Development Intern, Marketing",
+      "url": "https://go.vansh.nyc/hc",
+      "location": "United States",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "106dd1a7203856b7f82ee77762a4f05428efa9d0",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/f6",
+      "location": "Memphis, TN",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "071b79d2cf96b37fd160270e760150fa7415aee9",
       "title": "Media & Web Development Intern, Marketing",

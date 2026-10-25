@@ -2,21 +2,21 @@
   "slug": "uline",
   "name": "Uline",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68d26115da79c5b57fb6ef7e4f6a567d6adf48a8",
+      "title": "Database Administrator Intern",
+      "url": "https://go.vansh.nyc/eF",
+      "location": "Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "cf9b03d16a778f5f82e570563c5cc9691ae1c947",
+      "title": "Systems Administrator Intern",
+      "url": "https://go.vansh.nyc/ey",
+      "location": "Pleasant Prairie, WI, Milwaukee, WI, Waukegan, IL, Glenview, IL, Kenosha, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "57913ce4286fdc2d66ef69f3f99100164bf31644",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/eo",
+      "location": "Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "bc99672cfce9b90a9396ae0700b4b5a2eeb3e635",
       "title": "Database Administrator Intern",

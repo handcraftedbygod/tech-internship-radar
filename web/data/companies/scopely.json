@@ -2,21 +2,21 @@
   "slug": "scopely",
   "name": "Scopely",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6f80febead1f9ec8e49f921aefe88f63e8a8a31e",
+      "title": "Software Engineer, Machine Learning (Master's)",
+      "url": "https://go.vansh.nyc/AX",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "6c253a5ef1fcbfa15f3bd8dd750743ad434045a1",
       "title": "Software Engineer, Machine Learning (Master's)",

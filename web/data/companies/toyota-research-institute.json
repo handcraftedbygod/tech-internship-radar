@@ -2,21 +2,21 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d4e07cd3bc9c9c63766ba37ed48664184da95b5",
+      "title": "Human Aware Interactions and Learning Intern",
+      "url": "https://go.vansh.nyc/eU",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "cf202e2e958bd5f93c2124a05bfec98aa9148498",
       "title": "Human Aware Interactions and Learning Intern",

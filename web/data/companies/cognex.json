@@ -2,21 +2,21 @@
   "slug": "cognex",
   "name": "Cognex",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bad8c0251fda77f83d30a0097ab9531bc6a44a32",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/bU",
+      "location": "Wauwatosa, WI",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "136d7ec03654255553258da96abaeb271e9ce545",
       "title": "Software Engineer Intern",

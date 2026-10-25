@@ -2,21 +2,21 @@
   "slug": "labcorp",
   "name": "Labcorp",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6dec9cececc6f33f9df06a624966da0aee35a7b0",
+      "title": "Bioinformatics Intern",
+      "url": "https://go.vansh.nyc/eG",
+      "location": "Baltimore, MD",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e5b4c01f9d6fe721f0a53e2d67dae3633d5b18f3",
       "title": "Bioinformatics Intern",

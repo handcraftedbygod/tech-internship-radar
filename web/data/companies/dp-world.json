@@ -2,21 +2,21 @@
   "slug": "dp-world",
   "name": "DP World",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9cf68ebacb47f865583082d6dabca6ca9aa695de",
+      "title": "Network Engineering Intern",
+      "url": "https://go.vansh.nyc/eK",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "022e07aa94c6978fcb7d046da45d6637c8e621e4",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/ef",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "de691bef8ea1952f4c284ad469edbaadddac23dd",
+      "title": "Application Analyst Intern",
+      "url": "https://go.vansh.nyc/dt",
+      "location": "Itasca, IL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "5563eabb1ed9c7ce4b510d1768af62820781faa0",
       "title": "Network Engineering Intern",

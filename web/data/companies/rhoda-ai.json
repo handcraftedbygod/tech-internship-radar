@@ -2,21 +2,21 @@
   "slug": "rhoda-ai",
   "name": "Rhoda AI",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63e97e56122b1544aa9654d3d14d6c1476db802c",
+      "title": "Software Engineer - Rhoda Platform",
+      "url": "https://go.vansh.nyc/AN",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "8daefc4bfedac28f71ac0ed4df0fc508eaa16a70",
+      "title": "Software Engineer Intern, Inference",
+      "url": "https://go.vansh.nyc/dj",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "05a20c56b9dfb0bc0b9c376528e16d9196455574",
       "title": "Software Engineer - Rhoda Platform",

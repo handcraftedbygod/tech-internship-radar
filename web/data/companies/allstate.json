@@ -2,21 +2,21 @@
   "slug": "allstate",
   "name": "Allstate",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3096a4f977d297474e696bf679d6fadae25b9807",
+      "title": "Data Science Intern, Core Telematics",
+      "url": "https://go.vansh.nyc/ff",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "56f4d4657e23cdb6ee3b62da16ff6f76a4101d30",
+      "title": "Data Analytics Engineer Intern",
+      "url": "https://go.vansh.nyc/fe",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "16e6854353a47fd8f9330a5c7b1a06dece3ae930",
       "title": "Data Science Intern, Core Telematics",

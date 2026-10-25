@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 27,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 25,
+  "totalPostings": 37,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 11
+      "count": 22
     },
     {
       "hub": "Krakow",
@@ -20,11 +20,11 @@
       "count": 4
     },
     {
-      "hub": "Stockholm",
-      "count": 1
+      "hub": "Vancouver",
+      "count": 2
     },
     {
-      "hub": "Vancouver",
+      "hub": "Stockholm",
       "count": 1
     }
   ],
@@ -32,22 +32,22 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 21
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 8
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
+      "count": 6
     },
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -60,80 +60,80 @@
     0,
     1,
     8,
-    16,
+    28,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "cf68fd3a27bcb6d192fbd0a58ba3a00576a5b7ee",
-      "title": "Software Engineer Embedded Systems I Co-op",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "39a24c804690dac19a84c24e89d235257186f825",
-      "title": "Software Engineer Full Stack / Backend I Co-op",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-      "location": "San Jose, CA, Carlsbad, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "028258fe0a8aa22c5ec5b242f9236ed6a64f3300",
-      "title": "Software Engineer Data & AI II Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "aad0ecec6b76989aea3dad1148353e6c7980d297",
-      "title": "Software Engineer Intern, Data & AI",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "536dc0e534715c5d1ed3721671623bbbafb4265d",
-      "title": "Attack Surface Management Security Engineer I",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
-      "location": "Research Triangle Park, NC",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "9ea4cd33ee76e28c8dbdca4e93263ac4526e4a22",
+      "id": "cd1c817fa718148333f46bf17c6d80a1438f5ea6",
       "title": "Software Developer, Embedded Systems I",
-      "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
+      "url": "https://go.vansh.nyc/B4",
       "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Montreal, Canada, Vancouver, Canada, Ottawa, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "2a5994f384aacb6ded5c860c77f24f88571f2835",
+      "id": "48deaed9b18be6574712b83df8e49ed936c0ab8e",
+      "title": "Software Engineer Embedded Systems I Co-op",
+      "url": "https://go.vansh.nyc/gQ",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "4e0385bf944210ba4412275ddcb0888ab33b88fa",
+      "title": "Software Engineer Full Stack / Backend I Co-op",
+      "url": "https://go.vansh.nyc/gP",
+      "location": "San Jose, CA, Carlsbad, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b2e539cff1d57c5b68e541a7368872d48cd77e96",
+      "title": "Software Engineer Data & AI II Intern",
+      "url": "https://go.vansh.nyc/gO",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5c5c86c60aa7a4fbd48af2a7dc547f6e64564f3f",
+      "title": "Software Engineer Intern, Data & AI",
+      "url": "https://go.vansh.nyc/gs",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "d89c84edcb213f94d3dbf2406539a74eb7ffe5c7",
       "title": "AI Operations Engineer I Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
+      "url": "https://go.vansh.nyc/ec",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "5c2b319795c1d1ba892ac53446cbc4a1e3dcc797",
+      "id": "dfbe132c1f26fd4c02f475dc21b2fd72641ec02f",
       "title": "Engineering Product Management Specialist I Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+      "url": "https://go.vansh.nyc/eb",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "8689f88a09b2a52d0f6d8d295b33e9a682e75c02",
+      "id": "90389d75ad8b32f5a0462b27556e992d4c4595e6",
       "title": "Machine Learning Engineer II Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "url": "https://go.vansh.nyc/e8",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "93c3df11c88ebfc2650731d558ea468e3df950e5",
+      "id": "9bd5f19a86241b39e12029b33b819407cd7ba61a",
       "title": "Machine Learning Engineer I Intern",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+      "url": "https://go.vansh.nyc/e7",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "05e003deaeacd131f2755ca1a2554c5bbc8a7688",
+      "title": "Software Engineer Intern, Full Stack / Backend II",
+      "url": "https://go.vansh.nyc/e4",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

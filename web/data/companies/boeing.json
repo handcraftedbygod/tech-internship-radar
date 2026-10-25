@@ -2,14 +2,14 @@
   "slug": "boeing",
   "name": "Boeing",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
@@ -38,11 +38,25 @@
     0,
     1,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7073e8cade4678ca807242fbacbc0dfa16ac5aee",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://go.vansh.nyc/Bv",
+      "location": "Maryland Heights, MO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "8510b2dfc01380b8cf1c41048669f788dd339e61",
+      "title": "Associate Flight Test Data Processing Software Engineer",
+      "url": "https://go.vansh.nyc/AW",
+      "location": "Berkeley, MO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "d4323086ae573b3820c1d53dca4870d0ae8565bb",
       "title": "Entry-Level Software Engineer",

@@ -2,14 +2,14 @@
   "slug": "electronic-arts",
   "name": "Electronic Arts",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Stockholm",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "ai",
@@ -42,11 +42,25 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b86abd92d36eadb094cd639150e30eb99bbc9c4d",
+      "title": "New Grad 2027: Software Engineer 1",
+      "url": "https://go.vansh.nyc/AC",
+      "location": "Orlando, FL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "a9e5dbd8ca13e8bed4baa85f63d7229cb180252d",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/cn",
+      "location": "Orlando, FL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e19d407498fccd3b261c5159e5e433bc442eb490",
       "title": "New Grad 2027: Software Engineer 1",

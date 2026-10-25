@@ -2,26 +2,26 @@
   "slug": "texas-instruments",
   "name": "Texas Instruments",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e635d81260116d22f9be9e51006ec39ca6e858c6",
+      "title": "Digital Design Verification Engineering Intern",
+      "url": "https://go.vansh.nyc/hS",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "1391fd23ecda4fdfefbd3124eb1fde098964dbe7",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/eT",
+      "location": "Remote, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "7c8fa5d193ddfc6d492e37530b73e456a7cde36e",
+      "title": "Software Engineer Intern, Compiler",
+      "url": "https://go.vansh.nyc/cv",
+      "location": "Sugar Land, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "82b5f24c64330fb7f374214e0d6c9fd19114899b",
       "title": "Digital Design Verification Engineering Intern",

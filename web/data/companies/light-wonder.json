@@ -2,21 +2,21 @@
   "slug": "light-wonder",
   "name": "Light & Wonder",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9cbcba098aa06ac8e279c330db6c02a9d2c83842",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/dF",
+      "location": "Las Vegas, NV",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "4f455b996154652da50f7c2f3e935339ee25b3f6",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/dE",
+      "location": "Las Vegas, NV",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "75ad98523bf13a009543ad5790d51bd91aae31d8",
       "title": "Software Engineer Intern",

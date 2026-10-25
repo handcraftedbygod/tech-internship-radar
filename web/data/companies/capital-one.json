@@ -2,21 +2,21 @@
   "slug": "capital-one",
   "name": "Capital One",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7446051a11e99fa8b5c1677ecacefab2d863d4f7",
+      "title": "Associate Software Engineer, Card Expansion",
+      "url": "https://go.vansh.nyc/Bl",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1d6e15c83415b3c4da4c57ff446d09d077aa2f9b",
       "title": "Associate Software Engineer, Card Expansion",

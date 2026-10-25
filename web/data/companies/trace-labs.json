@@ -2,21 +2,21 @@
   "slug": "trace-labs",
   "name": "Trace Labs",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c02ff57a8cb7e2603d72d9e1e793c7f25fff61a",
+      "title": "Robotics Engineer Intern, Hardware & Software",
+      "url": "https://go.vansh.nyc/hp",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "67ebe5052ea8dfeb8858e40bcec6dc4c769c1296",
       "title": "Robotics Engineer Intern, Hardware & Software",

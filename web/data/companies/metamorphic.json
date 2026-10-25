@@ -2,21 +2,21 @@
   "slug": "metamorphic",
   "name": "Metamorphic",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d645a4ce546186b674ccfe677b720dba6a4fdc20",
+      "title": "Engineering Intern",
+      "url": "https://go.vansh.nyc/da",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b2b1ca7e4d012b6e2d171a56dfa5a35f972b8d78",
       "title": "Engineering Intern",

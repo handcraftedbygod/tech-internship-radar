@@ -2,21 +2,21 @@
   "slug": "bmo-financial",
   "name": "BMO Financial Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c30c37ad10a52d0a13c6a116d4d8d2c6f35e4a42",
+      "title": "Junior Cloud Engineer Co-op",
+      "url": "https://go.vansh.nyc/bG",
+      "location": "Toronto, ON",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "fed2950b66b55533a23c79711c0bf24669cbbabd",
       "title": "Junior Cloud Engineer Co-op",

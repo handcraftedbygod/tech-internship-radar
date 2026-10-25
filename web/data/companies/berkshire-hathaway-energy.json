@@ -2,21 +2,21 @@
   "slug": "berkshire-hathaway-energy",
   "name": "Berkshire Hathaway Energy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "533aecb7374bc605a2b0a2eaeccb17d039467ad7",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/cA",
+      "location": "Des Moines, IA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "0a1366830413ca339e9d39bbcee329bd61119cd2",
       "title": "Software Engineering Intern",

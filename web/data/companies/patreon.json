@@ -2,26 +2,26 @@
   "slug": "patreon",
   "name": "Patreon",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33259f7e6be5f4700e3d68604e9e0c12cbcdc527",
+      "title": "Product Manager Intern",
+      "url": "https://go.vansh.nyc/fA",
+      "location": "New York, NY, San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "a4891ad71c8ea653b980701eca8d64be9e2bf473",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/cl",
+      "location": "SF, NYC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "2056a0cf687e6d3e0cd64643854b05290a8d82c1",
       "title": "Product Manager Intern",

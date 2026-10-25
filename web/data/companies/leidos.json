@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 14,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -26,7 +26,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,11 +39,25 @@
     0,
     10,
     1,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7ba48ead896f94e2f7b1d8316500ab8eef13026",
+      "title": "AI/ML Intern",
+      "url": "https://go.vansh.nyc/eQ",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "e9852af41937fd654df7f61cf4e274a30a4db573",
+      "title": "Network Site Design Intern",
+      "url": "https://go.vansh.nyc/ea",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "3284249bdc62aa71de53e12545d85d4c4c12604d",
       "title": "AI/ML Intern",
@@ -98,20 +112,6 @@
       "title": "Cybersecurity Analyst Intern",
       "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-ffaaf5",
       "location": "Honolulu, HI",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "5d37fbdbb51e0ba7e9348fc0254115ba3dee514d",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-400489",
-      "location": "Gambrills, MD",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "e4cc5d1c30afce8662cb01011d2995a46877e724",
-      "title": "Software Engineering & AI Intern",
-      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-317ae8",
-      "location": "Flexible / Remote",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

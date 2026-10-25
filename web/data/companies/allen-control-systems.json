@@ -2,21 +2,21 @@
   "slug": "allen-control-systems",
   "name": "Allen Control Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f0570beb9237a3ea551d0f3b3419d8c1fe73716",
+      "title": "Android Developer Intern",
+      "url": "https://go.vansh.nyc/fK",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c2073c2ba2167bdcb04c118a0a235a7305eef31a",
       "title": "Android Developer Intern",

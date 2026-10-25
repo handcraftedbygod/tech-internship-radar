@@ -2,21 +2,21 @@
   "slug": "msa-safety",
   "name": "MSA Safety",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70d51cada2cf9da6dc15807fb950a96cf09af396",
+      "title": "AI Engineer Co-op",
+      "url": "https://go.vansh.nyc/hD",
+      "location": "Cranberry Township, PA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "dca0be70954ac3d1dad656c268ed34ed9c02c61a",
       "title": "AI Engineer Co-op",

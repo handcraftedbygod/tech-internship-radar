@@ -2,14 +2,14 @@
   "slug": "john-deere",
   "name": "John Deere",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "product",
       "label": "Product",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -39,11 +39,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95f459dcdf9e9aa6f8674bcec35273d778d521b2",
+      "title": "Software Engineer Student Intern, Product Engineering",
+      "url": "https://go.vansh.nyc/dW",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "653e977c53503f42039e71c529ff20f7efc52e07",
       "title": "Software Engineer Student Intern, Product Engineering",

@@ -2,21 +2,21 @@
   "slug": "westinghouse-electric-company",
   "name": "Westinghouse Electric Company",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b910b6a846eb2ff63d2eed7d4184f7fdb5f2c911",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/fz",
+      "location": "Warrendale, PA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "17ad9db2b0a72888ca90a11c0352217419a768b5",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/ck",
+      "location": "Cranberry Township, PA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "bc94e1d146f194d8c78009643261cb5d4ae34735",
       "title": "Software Engineering Intern",

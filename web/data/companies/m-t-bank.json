@@ -2,21 +2,21 @@
   "slug": "m-t-bank",
   "name": "M&T Bank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d87ea533c07393e152b9c4a3a2874c680d08d604",
+      "title": "Technology Intern, Software Engineering, Enterprise API Services Development Team",
+      "url": "https://go.vansh.nyc/eR",
+      "location": "Buffalo, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "804ec58700e7946c060957db645019d2b83dfa1c",
       "title": "Technology Intern, Software Engineering, Enterprise API Services Development Team",

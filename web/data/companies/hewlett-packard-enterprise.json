@@ -2,30 +2,30 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 9,
+  "totalPostings": 13,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 11
     },
     {
       "hub": "Montreal",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 4
     },
     {
       "id": "design",
@@ -43,11 +43,39 @@
     0,
     0,
     5,
-    4,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "083267ffd47a04adbd639d1bc134eb138e4b5b63",
+      "title": "Cybersecurity Engineering Intern",
+      "url": "https://go.vansh.nyc/hW",
+      "location": "Spring, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "a95597f3e7b3738260160295a060f1a5357fba72",
+      "title": "Software Development Intern, AI-Assisted Development",
+      "url": "https://go.vansh.nyc/eg",
+      "location": "Saint-Laurent, Montreal, QC, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "f5229665603a062d87aa115e0ff1baa5a6a88873",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/dn",
+      "location": "Roseville, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "7445d9a130eda0b3c858989623b4f13d92f1ffe3",
+      "title": "Hardware Engineering Design Intern",
+      "url": "https://go.vansh.nyc/c3",
+      "location": "Roseville, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "266cec34d91b9c165556ad6ff2e1cc662921f29f",
       "title": "Cybersecurity Engineering Intern",
@@ -89,27 +117,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130?utm_source=freehire.me",
       "location": "Galway, Galway, Ireland",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "3f7988a23a20ba9841ffbc38b7bf03659b856334",
-      "title": "Cloud Engineer - Intern Conversion",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Cloud-Engineer---Intern-Conversion_1211027-1?utm_source=freehire.me",
-      "location": "Galway, Galway, Ireland",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "3841f55986b4689094a67c059b85fae317aa5b3a",
-      "title": "Systems/Software Engineer (Internship)",
-      "url": "https://careers.hpe.com/us/en/job/HPE1US1214490EXTERNALENUS?utm_source=freehire.me",
-      "location": "Galway, Galway",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "af01b4884de7fba88ecaf6b28ce06cc10082c8a7",
-      "title": "Cloud Engineer - Intern Conversion",
-      "url": "https://careers.hpe.com/us/en/job/HPE1US1211027EXTERNALENUS?utm_source=freehire.me",
-      "location": "Galway, Galway",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

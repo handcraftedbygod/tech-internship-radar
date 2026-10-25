@@ -2,9 +2,9 @@
   "slug": "cadence",
   "name": "Cadence",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "San Francisco",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +42,18 @@
     0,
     0,
     3,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d108e07ed1a4ad6578e2dfa6a35b07446a684e44",
+      "title": "Intern: AI for Silicon Test Data Analytics & Failure Analysis",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1?utm_source=freehire.me",
+      "location": "VALBONNE (Sophia)",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1cef39ad6b70fb9d4c17b0351de5f608ae9e818d",
       "title": "Graduate Student Intern - Software Engineering",

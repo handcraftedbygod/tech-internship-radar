@@ -2,21 +2,21 @@
   "slug": "graviton",
   "name": "Graviton",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b46d418e3119f0b554f2f0ca57fd4c8589ecd311",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://go.vansh.nyc/bc",
+      "location": "London, UK, Amsterdam, Netherlands, NYC, Singapore",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "690ffe6527bebe291654cbf57d30b5c4834f6967",
       "title": "Quantitative Researcher Intern",

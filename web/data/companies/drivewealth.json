@@ -2,21 +2,21 @@
   "slug": "drivewealth",
   "name": "DriveWealth",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7bedd3e3cbad9ccea1f83a57fdeb265d33b033f",
+      "title": "Product Owner Intern, AI Consulting Associate Program",
+      "url": "https://go.vansh.nyc/df",
+      "location": "Chicago, IL, NYC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "66ca68828262eb1c6d1f802cfc215606012fad28",
+      "title": "AI Engineer Intern, AI Consulting Associate Program",
+      "url": "https://go.vansh.nyc/de",
+      "location": "Chicago, IL, NYC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "d75827a603f6bb8fb9d1fd9a2788f3a6736082cb",
       "title": "Product Owner Intern, AI Consulting Associate Program",

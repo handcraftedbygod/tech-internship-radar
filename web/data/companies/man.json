@@ -2,21 +2,21 @@
   "slug": "man",
   "name": "Man Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c69cff9a28627bb69bcab0cfb9040508b4930601",
+      "title": "Systematic Quant Intern",
+      "url": "https://go.vansh.nyc/fC",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "3fcc6e62acfdc42bffb158685f74b889f2a5ce57",
       "title": "Systematic Quant Intern",

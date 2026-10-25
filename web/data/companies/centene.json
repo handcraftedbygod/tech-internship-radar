@@ -2,21 +2,21 @@
   "slug": "centene",
   "name": "Centene Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e52af06a402e75d5a68401113e63cfc3a5d76cdf",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/eJ",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e1158dfaa133d291072e3d094ef39721b4057914",
       "title": "Cybersecurity Intern",

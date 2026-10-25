@@ -2,21 +2,21 @@
   "slug": "duke-energy",
   "name": "Duke Energy Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a74f7145bd364ca4420505ae06de5b57be10f76",
+      "title": "Nuclear Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/em",
+      "location": "Hartsville, SC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e5a06d77c3ae77ab645a88098f36acaebb4a868b",
       "title": "Nuclear Cybersecurity Intern",

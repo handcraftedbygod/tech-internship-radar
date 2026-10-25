@@ -2,21 +2,21 @@
   "slug": "cenovus-energy",
   "name": "Cenovus Energy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac84de3ef503ad9040ce990f7c5564ffd73f45ac",
+      "title": "New Grad 2027: Process Data Solutions",
+      "url": "https://go.vansh.nyc/AI",
+      "location": "Calgary, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c5e4878b9a68fa886dfae5be2b108bacbfa8241b",
       "title": "New Grad 2027: Process Data Solutions",

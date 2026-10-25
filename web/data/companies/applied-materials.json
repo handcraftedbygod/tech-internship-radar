@@ -2,26 +2,26 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 7,
+  "totalPostings": 13,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 11
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,53 @@
     0,
     0,
     1,
-    6,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "587f6d50f0ba056adeeaf58f690ec29e7cca87b0",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/Bj",
+      "location": "Gloucester, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "8cee61674c26551c6abe68eeaac5cb314a301f5f",
+      "title": "Software Engineer (Master's)",
+      "url": "https://go.vansh.nyc/Bi",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "a42082f810a57243a6619b790f19b30fd06dabc8",
+      "title": "Business Intelligence Analyst I",
+      "url": "https://go.vansh.nyc/B5",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3c1bf4b9e495d1ad1aa662c7b4cd49fed44c34b6",
+      "title": "Algorithm Developer (Master's)",
+      "url": "https://go.vansh.nyc/AV",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "55444f549f8fd04cccf7333581611adc2326f1c5",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/AE",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "507d50a52470387be3850673596ee064a6eb518f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/d5",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "49c8ded7fe9ca500133561bedc11de22a2baf28b",
       "title": "New Grad 2027: Software Engineer",
@@ -66,27 +108,6 @@
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "554368abe58ef6b836a85898d9b41ab4290e1efd",
-      "title": "Software Engineer",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "d3c41c88841671257cfd013a7a705bfdd67c0f80",
-      "title": "Software Engineer Intern",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "5fb8c2cca763bdf530da9e581b95f39c53f73126",
-      "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
-      "url": "https://www.themuse.com/jobs/appliedmaterials/2027-software-engineering-intern-masters-santa-clara-ca",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

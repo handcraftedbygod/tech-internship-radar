@@ -2,21 +2,21 @@
   "slug": "pattern",
   "name": "Pattern",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b017084fd9367df59b7f69e998128bcbfd530ef1",
+      "title": "AI Automation Engineer Intern",
+      "url": "https://go.vansh.nyc/fw",
+      "location": "Lehi, UT",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3e70dbf815c7c226d9476b6aa6c02c35a27d4f4d",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/fu",
+      "location": "Lehi, UT",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f88346c596336aa222ff375b6351625ee38e9b3e",
       "title": "AI Automation Engineer Intern",

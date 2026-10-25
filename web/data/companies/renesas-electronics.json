@@ -2,21 +2,21 @@
   "slug": "renesas-electronics",
   "name": "Renesas Electronics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cf4274161473ae7deb8312241767ccd2a7df656",
+      "title": "Memory Server System Testing Intern",
+      "url": "https://go.vansh.nyc/fB",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "6f85725add57a99cb91051452a1322bd4c3df08d",
       "title": "Memory Server System Testing Intern",

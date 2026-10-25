@@ -2,25 +2,25 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 8,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 9
     },
     {
       "hub": "Munich",
       "count": 3
     },
     {
-      "hub": "Warsaw",
-      "count": 1
+      "hub": "Toronto",
+      "count": 2
     },
     {
-      "hub": "Toronto",
+      "hub": "Warsaw",
       "count": 1
     }
   ],
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 12
     },
     {
       "id": "ai",
@@ -51,11 +51,32 @@
     0,
     2,
     0,
-    10,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "22a0e17435896fc9b1f4e274595538f8cd5b3767",
+      "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
+      "url": "https://go.vansh.nyc/Ax",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5d5fe4d43c84bce4ce1cbba4fdda78a6556997c9",
+      "title": "Software Engineer, Agent Performance Modeling (Master's)",
+      "url": "https://go.vansh.nyc/Aw",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "72f56d856b731f876c14596c8fda4c521e9a8c5b",
+      "title": "ASIC Verification Intern",
+      "url": "https://go.vansh.nyc/bT",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "9c16ec6d96f6928b8ecd0dea7e81eeb10d6c69b7",
       "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
@@ -104,27 +125,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "3ae0de1d587314b2aa244235657c696477d2be14",
-      "title": "Developer Tools DevOps Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826?utm_source=freehire.me",
-      "location": "Poland, Warsaw",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "4e39b4e262a8731de3cfdc641840464d9c48d106",
-      "title": "AI Developer Technology Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "f8bafa55f12dc6fba3967a51c207519c00dcdcaa",
-      "title": "Software Engineering Intern, Nsight Systems - 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248?utm_source=freehire.me",
-      "location": "Poland, Remote",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "str",
   "name": "STR",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "25ef101a58fff541f698e34df73d62542469ab83",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/fo",
+      "location": "Arlington, VA, Woburn, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e3d1ecadf0eabb49c28b70b960e37477e649edd1",
       "title": "Data Analyst Intern",

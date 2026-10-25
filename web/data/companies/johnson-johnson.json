@@ -2,21 +2,21 @@
   "slug": "johnson-johnson",
   "name": "Johnson & Johnson",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -39,11 +39,18 @@
     0,
     0,
     1,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e2f1cfe74d0bbb32beca76a6d73e638600a6e32",
+      "title": "Quality Data Science Co-op",
+      "url": "https://go.vansh.nyc/b8",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b7ebcfc49141eb058cd5be1904f20b646bdbf618",
       "title": "Quality Data Science Co-op",

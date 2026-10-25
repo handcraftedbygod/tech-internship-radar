@@ -2,21 +2,21 @@
   "slug": "aon",
   "name": "Aon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2d7fe4ad5055e21bf7c71f0b624b6245eaa913b4",
+      "title": "IT/AI Engineer Intern",
+      "url": "https://go.vansh.nyc/dU",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e37f5f9072f7ec34dc84429d87218aaf36078613",
       "title": "IT/AI Engineer Intern",

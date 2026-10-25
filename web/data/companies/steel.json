@@ -2,21 +2,21 @@
   "slug": "steel",
   "name": "Steel",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4dbb5f9bfd15701f4bf009bfac3294fa7f3dff2b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ct",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "393385d9379f8b52568b265929b0e70103ca74b3",
       "title": "Software Engineer Intern",

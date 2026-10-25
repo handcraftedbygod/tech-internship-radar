@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 13.9,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 19
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 19
     },
     {
       "id": "biz",
@@ -38,11 +38,32 @@
     0,
     1,
     0,
-    16,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c26e80c22d636151515768756c787f4793775144",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/ez",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b3c0269802c2e61f9853acd685cd56fb59403859",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/eq",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "12178ffa506944bcd43731cd4ca3e56de4efc004",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/dr",
+      "location": "Tewksbury, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "3d1a348819b6c60f6a675ce881fa4f65aff999a8",
       "title": "Software Engineer Co-op",
@@ -90,27 +111,6 @@
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
       "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "8f2b55088f8b1c20c125c031eb4e35c2e8cd7b65",
-      "title": "Software Engineer Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "ec4d9a9b746d9a328cb8b57b1a5db13243cebc33",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "2246b4315f2371bf74c0e20a01ee8e87916f28e4",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-      "location": "Cedar Rapids, IA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]

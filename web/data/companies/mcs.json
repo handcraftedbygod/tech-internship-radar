@@ -2,21 +2,21 @@
   "slug": "mcs",
   "name": "MCS Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "31aeca529b8764ecbe5ec8c850dd6d3b8e4e603d",
+      "title": "Junior Python Backend Engineer (Hybrid, Belfast)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__583467834__7082?geoID=7&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "47b9830098c45cb33723888a03c1264e6b46482b",
       "title": "Junior Python Developer",

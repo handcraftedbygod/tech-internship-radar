@@ -2,9 +2,9 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Vancouver",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95edc3bf59fb62654aeefa8573e806ec5b10d010",
+      "title": "Associate Engineer, SDK and Tools Development",
+      "url": "https://go.vansh.nyc/Bo",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b8a8fe18d67950cc90b87daed4431deb77142b38",
       "title": "Associate Engineer, SDK and Tools Development",

@@ -2,26 +2,26 @@
   "slug": "smith-nephew",
   "name": "Smith+Nephew",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2af7292eda6a6d268ac7b001c4413843bced3334",
+      "title": "Computer Vision Software Engineering Intern",
+      "url": "https://go.vansh.nyc/dB",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3c2bc37ae8154dcf91a59abaf93ae5d87a3387ee",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/dA",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "c46f2f69c8ce77b29ebaa9029489b40a56bea8e2",
+      "title": "Agentic AI Software Engineering Intern",
+      "url": "https://go.vansh.nyc/dl",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "27763f768c7bd076566a2281b6a74c3ec6349f7d",
       "title": "Computer Vision Software Engineering Intern",

@@ -2,21 +2,21 @@
   "slug": "llnl",
   "name": "LLNL",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44cc7aa5058fa6466fa612975efdc9ca6f9c3677",
+      "title": "Predictive Science Academic Alliance Program IV Student Intern",
+      "url": "https://go.vansh.nyc/bw",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "067a1b3c16893fdea545173bf8f4aa87d6656b83",
       "title": "Predictive Science Academic Alliance Program IV Student Intern",

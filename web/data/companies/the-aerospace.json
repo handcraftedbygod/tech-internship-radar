@@ -2,21 +2,21 @@
   "slug": "the-aerospace",
   "name": "The Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea1bdb85b21ffb5fa630c4fada07ddffcf230ef6",
+      "title": "Embedded Software Engineer Intern, Multiple Teams",
+      "url": "https://go.vansh.nyc/dM",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "ce8994dc6e2b2921e6c7dbf101f6f26dddd7708e",
       "title": "Embedded Software Engineer Intern, Multiple Teams",

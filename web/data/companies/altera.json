@@ -2,26 +2,26 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 5
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,39 @@
     0,
     0,
     0,
-    5,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f3e4945887dfcf35cd0276e0d95f1634559131d",
+      "title": "IP Design Intern",
+      "url": "https://go.vansh.nyc/hw",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "899caddda027316b05da133c58e9a36814ef1d7a",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/gt",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "77f35738515dbb536302de0d45574d3788c49214",
+      "title": "FPGA IP Design Engineer Intern",
+      "url": "https://go.vansh.nyc/d3",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "95d3f653fd562bc86da1e3bbbff3d03c555aacfe",
+      "title": "Quartus User Interface Intern",
+      "url": "https://go.vansh.nyc/d2",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "2e84e6b4a2f2bc0ed1a1a20084b6c1198e8b1f61",
       "title": "IP Design Intern",

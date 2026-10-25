@@ -2,26 +2,26 @@
   "slug": "insperity",
   "name": "Insperity",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0c7d2eab522ba3d5b7bb9d772325b2e7e4d99eea",
+      "title": "Rotational AI Intern",
+      "url": "https://go.vansh.nyc/fM",
+      "location": "Kingwood, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "4677ef08cfb145da3a619f3bef5b1c2e131d7a13",
+      "title": "Rotational Technology Intern",
+      "url": "https://go.vansh.nyc/fL",
+      "location": "Kingwood, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "12ef893c0dfc26367114fe4a20831fd94f67ab32",
       "title": "Rotational AI Intern",

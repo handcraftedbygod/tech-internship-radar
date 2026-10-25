@@ -2,21 +2,21 @@
   "slug": "peraton",
   "name": "Peraton",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac1ccd9a67e2c81c523aced202356b022c38a984",
+      "title": "Junior Data Engineer, ETL/GIS",
+      "url": "https://go.vansh.nyc/B7",
+      "location": "Remote",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "29b7bab8b74246046e406d8da312fc518cc8241d",
       "title": "Junior Data Engineer, ETL/GIS",

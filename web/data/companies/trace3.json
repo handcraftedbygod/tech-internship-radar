@@ -2,21 +2,21 @@
   "slug": "trace3",
   "name": "Trace3",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e0a8016c0d04669da3639543330dd6a3e2690086",
+      "title": "Data and Analytics Engineer Intern",
+      "url": "https://go.vansh.nyc/dV",
+      "location": "Irvine, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "ba00e98f76840678c8f72d2b7bbf8dde622a4207",
       "title": "Data and Analytics Engineer Intern",

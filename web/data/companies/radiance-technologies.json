@@ -2,21 +2,21 @@
   "slug": "radiance-technologies",
   "name": "Radiance Technologies",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "679f96c67507161c24a624aa75c40d70d15b5fdd",
+      "title": "Microelectronics Engineer Intern",
+      "url": "https://go.vansh.nyc/f9",
+      "location": "Ruston, LA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "393f86b38bb8cb773605de786ce1018a2b987c4d",
       "title": "Microelectronics Engineer Intern",

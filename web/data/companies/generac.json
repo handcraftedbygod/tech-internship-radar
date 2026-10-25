@@ -2,21 +2,21 @@
   "slug": "generac",
   "name": "Generac",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a16fb2821dd0d86a648fd38c25a52aedb3568e1f",
+      "title": "Micro-Grid Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/bj",
+      "location": "Fort Collins, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "528d12239f3fe94ffe313ad04b79ca56dfe2fd80",
       "title": "Micro-Grid Systems Engineering Intern",

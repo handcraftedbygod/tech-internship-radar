@@ -2,21 +2,21 @@
   "slug": "nutanix",
   "name": "Nutanix",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Vancouver",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "778ef3763af2db7ec533d707e844ef71cb4a7ba6",
+      "title": "Software Developer Co-op",
+      "url": "https://go.vansh.nyc/eu",
+      "location": "Vancouver, BC, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "07513a1368d74ce449b384a64f21fc49e40c40f1",
       "title": "Software Developer Co-op",

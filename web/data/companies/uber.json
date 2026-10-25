@@ -2,21 +2,21 @@
   "slug": "uber",
   "name": "Uber",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "844e2c4af64f08d532c2124669daa5132148202a",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/dg",
+      "location": "Seattle, WA, SF, Sunnyvale, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "99aa5c1a7b9f4b5441d5e96f2a13631fd2c7fd80",
       "title": "Software Engineer Intern",

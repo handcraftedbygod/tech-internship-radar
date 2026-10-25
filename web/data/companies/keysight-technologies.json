@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 7,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 11
     },
     {
       "hub": "Austin",
@@ -20,17 +20,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,11 +43,46 @@
     0,
     0,
     0,
-    7,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "901e1dedf8c04c57312bd50d498033f861efb1c4",
+      "title": "FPGA Design Intern",
+      "url": "https://go.vansh.nyc/hE",
+      "location": "Calabasas, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "08fb50129d79efbb23951b76b9949fa061373e10",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ei",
+      "location": "Calabasas, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "30ea5ecdb4ed02337f25b5a351c1d5a201c1fbe3",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://go.vansh.nyc/db",
+      "location": "Santa Rosa, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "90988692fb1ab0f55844feb6b19f7ac532b121a3",
+      "title": "Software Engineer Intern, R&D",
+      "url": "https://go.vansh.nyc/cK",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "0f6dcac3316c91439aeecd93334e858b59abf074",
+      "title": "R&D Hardware Engineer Intern",
+      "url": "https://go.vansh.nyc/ce",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b0bad97af275c77ca0270e85b9ed40d22cbc7e30",
       "title": "FPGA Design Intern",
@@ -82,20 +117,6 @@
       "url": "https://jobs.keysight.com/jobs/54804?icims=1",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "b1c89639e9289a3499428330a53f85da92c18c73",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobs.keysight.com/jobs/54848?icims=1",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "3db7460b3b57c8e7d5c6f0ee67fc5d044b919138",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobs.keysight.com/jobs/54673?icims=1",
-      "location": "Santa Rosa, CA",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
     }
   ]
 }

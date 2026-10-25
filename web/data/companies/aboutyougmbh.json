@@ -2,21 +2,21 @@
   "slug": "aboutyougmbh",
   "name": "ABOUTYOUGmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-04T10:27:41.134Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "34000f34c795ee774767a37e5ba86f4bffe7a2d3",
+      "title": "Junior Application Security Engineer (all genders)",
+      "url": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000157086740-junior-application-security-engineer-all-genders-?utm_source=freehire.me",
+      "location": "Hamburg, HH, de",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "9610c81da73e48607695c61d00ba63c040817091",
+      "title": "Junior Application Security Engineer (all genders)",
+      "url": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000157087709-junior-application-security-engineer-all-genders-?utm_source=freehire.me",
+      "location": "Hamburg, HH, de",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "8cb2cfef73bd969154cd096c5d552c8dbf5bba72",
       "title": "Junior Application Security Engineer (all genders)",

@@ -2,40 +2,40 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 10,
+  "totalPostings": 19,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 15
     },
     {
       "hub": "Vancouver",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
+      "count": 6
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -48,80 +48,80 @@
     0,
     0,
     0,
-    10,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6bc34785a021d2f067a131ff5d5a8e2751ce81db",
+      "title": "AI and DSP Applications Engineer Intern",
+      "url": "https://go.vansh.nyc/fy",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "2993faf1279030fbd0ebcf69fa3d740976f97508",
+      "title": "Applied AI Engineering Intern, Hardware Systems",
+      "url": "https://go.vansh.nyc/et",
+      "location": "Vancouver, BC, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ef64640e348c10e4fce7ca5c5894c7b1ef922ebe",
+      "title": "Camera Design Implementation Intern",
+      "url": "https://go.vansh.nyc/es",
+      "location": "Vancouver, BC, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "31ad4643937ec30035cbc09a999551f462a3424b",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://go.vansh.nyc/el",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "234949b88cc7814a9a68fdb1ded8ba19f17ee3ea",
+      "title": "Camera Design Implementation Intern",
+      "url": "https://go.vansh.nyc/ek",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "9de72ac9f6220bfef956444f40cc1c358c4712ab",
+      "title": "Edge AI and Display Hardware Architecture Intern",
+      "url": "https://go.vansh.nyc/dY",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "e02d99bddf204e7949dee8464508f90adabc8004",
+      "title": "Display Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/dX",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "dc2ae270a7700198acdb2941adc6f551e5b4f93a",
+      "title": "QDSP Hardware Physical Design Intern",
+      "url": "https://go.vansh.nyc/c9",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "9ba52b1f8b7e337284e232117ec6f6f67bdc9233",
+      "title": "Machine Learning AISW Intern",
+      "url": "https://go.vansh.nyc/c8",
+      "location": "Markham, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "27d818d111457c28ad41940dbc45cc995b93ead9",
       "title": "AI and DSP Applications Engineer Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721686396",
       "location": "Markham, Canada",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "f1f53a0aca1a08a216b31e7fdd37dcae2bbb3f87",
-      "title": "Applied AI Engineering Intern, Hardware Systems",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721678733",
-      "location": "Vancouver, BC, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "ddc7246dc1391d9d21455d89cfac3fab88b73dbf",
-      "title": "Camera Design Implementation Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721678727",
-      "location": "Vancouver, BC, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "1bbbd39b48504de61763bcfc150b5fbbb9d57a06",
-      "title": "Applied AI Engineer Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721664194",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "b26a1533133c65b30c19738a3f94a78dcd278f62",
-      "title": "Camera Design Implementation Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721664170",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "32c6b2f5ce4c8ed223299aaf732f2e62452e9d3e",
-      "title": "Edge AI and Display Hardware Architecture Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721661830",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "b8a9ed3ed9f85da0642895fc0e2f776b20216a05",
-      "title": "Display Systems Engineer Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "863f5f49c16cec200417319d38292bb609abb8bf",
-      "title": "QDSP Hardware Physical Design Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721636316",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "f5850dfc8c5664dafcbb20e787f21bc55d677af6",
-      "title": "Machine Learning AISW Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721636765",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "32fd81e29829a040ca047ac466223dca8bb24928",
-      "title": "Automotive Engineering Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721615591",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
     }
   ]
 }

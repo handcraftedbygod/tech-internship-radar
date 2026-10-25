@@ -2,21 +2,21 @@
   "slug": "toyota",
   "name": "Toyota",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f68ebf09ebc2ef0eccee70997925b6f3114b7de0",
+      "title": "Data Science Intern, TFS",
+      "url": "https://go.vansh.nyc/dm",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "00f409a7b227f74f95882bfcbf384c39257c1321",
       "title": "Data Science Intern, TFS",

@@ -2,21 +2,21 @@
   "slug": "brain",
   "name": "Brain Co.",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 8,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 8
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,39 @@
     0,
     0,
     0,
-    8,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1a01292f126da9165bd47e87d2ba2345ca69f9f",
+      "title": "New Grad 2027: AI Platform Engineer",
+      "url": "https://go.vansh.nyc/Av",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "2d66511a09385ed5867a4ee2ad5bd526bfa54b36",
+      "title": "New Grad 2027: AI Product Engineer",
+      "url": "https://go.vansh.nyc/Au",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "72609f4df5b40a91251abb6ce8e644eb3bb7652a",
+      "title": "New Grad 2027: AI Security Engineer",
+      "url": "https://go.vansh.nyc/At",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "19484815524fad9845f192cb32f6107669369a86",
+      "title": "New Grad 2027: AI/ML Engineer",
+      "url": "https://go.vansh.nyc/As",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c72c559ff86946e36103136ba4024f9323435530",
       "title": "New Grad 2027: AI Platform Engineer",
@@ -73,20 +101,6 @@
       "id": "ac5a7429f78f22155b9371fda6eb07c8e4283106",
       "title": "AI Security Engineer Co-Op Intern, Winter 2027",
       "url": "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "dba95065a4dc297fa9131effa8a960feded3d555",
-      "title": "Machine Learning Engineer, Applied AI Co-Op Intern, Winter 2027",
-      "url": "https://jobs.ashbyhq.com/brainco/b6adda4c-490c-4e9e-8354-e55c05d3c6ac/application",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "7089d92d6571b69708e9ce531f5d234bf53f3b06",
-      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
-      "url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a/application",
       "location": "San Francisco, CA",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }

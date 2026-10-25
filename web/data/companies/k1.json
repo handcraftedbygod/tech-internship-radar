@@ -2,21 +2,21 @@
   "slug": "k1",
   "name": "K1",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "72e3b6428ecc5716f75f3275d0fc91e7351e7dfa",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/d9",
+      "location": "Manhattan Beach, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "4eccf937ec24475977fbb854304249d62dc691d7",
       "title": "AI Intern",

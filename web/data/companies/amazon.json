@@ -2,52 +2,52 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 17,
+  "currentOpenings": 34,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 19,
+  "totalPostings": 36,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 17
     },
     {
       "hub": "Seattle",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Vancouver",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
-      "hub": "Dublin",
-      "count": 1
+      "hub": "Toronto",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 22
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -60,80 +60,80 @@
     0,
     0,
     1,
-    18,
+    35,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "ba2d752066d8d5f3536d1e6cad41976552361e13",
-      "title": "Software Development Engineer Intern, Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "id": "307b5b7b23c637c923e18c7582e6c144fbcd0469",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027?utm_source=freehire.me",
+      "location": "London, England, GBR",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "a23ce99f13b7f335187c12e7ce0bd734b774dbbf",
-      "title": "ASIC Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+      "id": "8c2a3d3ef4e2ad8085cdac78bdb6d6456223d350",
+      "title": "Data Engineer",
+      "url": "https://go.vansh.nyc/Bh",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "7e49ca9eeac77ab712b3d432028b77d628550adb",
+      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
+      "url": "https://go.vansh.nyc/Bg",
       "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "1cc934b427bb32e6d77ffacda6a50273f9c26fab",
-      "title": "Cloud Hardware Development Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
-      "location": "Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "09020370373e594a8d621dfa89aad3a47e46f065",
-      "title": "Embedded Firmware Co-op",
-      "url": "https://amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
-      "location": "North Reading, MA, Westborough, MA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "7ddc5a77ca95d793be122ec3c8113ef107b89cf7",
-      "title": "Software Engineer Intern, AWS Database",
-      "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
-      "location": "United States",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "6d10c9eb83f275d3fe1ab219a73b514f1ac9cc5d",
-      "title": "Systems Development Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+      "id": "fca17ccc094cb96fadd9234d3cc7e181876bc195",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/B2",
       "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "001d68e93d10d882c396b277b767dd0c777f807a",
-      "title": "Systems Development Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
-      "location": "Bellevue, WA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "id": "ae39124b02e049897c991a4b4dc6be5076827d61",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/AD",
+      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "ffb8ac7588db8e38e0673416b5dd6e174858c3b3",
-      "title": "Software Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+      "id": "47f9de0ce708389d508f554eee5b0a63607ef312",
+      "title": "Software Development Engineer Intern, Amazon Leo",
+      "url": "https://go.vansh.nyc/hR",
       "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "19e604b7acf32da63d27e74df2ca83901bd87282",
+      "id": "83a007bcd8d75cf74429b8cfa5fca62d4636b969",
       "title": "ASIC Engineer Intern",
-      "url": "https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
-      "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "url": "https://go.vansh.nyc/hA",
+      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     },
     {
-      "id": "6fc4326c8c724f0252a4e0c8deb5e98659565ebe",
-      "title": "Software Engineer Intern, Embedded Systems",
-      "url": "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+      "id": "39f995337b1e1ce0d26d51b14b2a1912453a294c",
+      "title": "Cloud Hardware Development Engineer Intern",
+      "url": "https://go.vansh.nyc/gL",
+      "location": "Austin, TX, Cupertino, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "64422c3420313b055823269f26dc5af4173687a9",
+      "title": "Embedded Firmware Co-op",
+      "url": "https://go.vansh.nyc/gK",
+      "location": "North Reading, MA, Westborough, MA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "d3b72eb8d81961fc6b03aef612c9c71b92504583",
+      "title": "Software Engineer Intern, AWS Database",
+      "url": "https://go.vansh.nyc/gJ",
       "location": "United States",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

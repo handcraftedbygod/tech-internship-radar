@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70b5212f5983d43540a2cbb0be57b60e2c4fd7d5",
+      "title": "Developer Productivity Intern",
+      "url": "https://go.vansh.nyc/hT",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "9278f2fde3cc4c650ffe80353d7243f8ff41f3bc",
       "title": "Developer Productivity Intern",

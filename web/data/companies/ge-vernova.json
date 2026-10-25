@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 15.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Berlin",
@@ -30,7 +30,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,11 +43,18 @@
     0,
     5,
     3,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "97f651f46967758cb4c99af61b6e9d10cf294636",
+      "title": "Product Management Intern",
+      "url": "https://go.vansh.nyc/he",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a5669a0d983af27c66d579ab3ffdfd04c3b9e35a",
       "title": "Product Management Intern",
@@ -110,13 +117,6 @@
       "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-6db9fb",
       "location": "Flexible / Remote, I-n-Salah, Algeria",
       "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "8890509078518e085d856a9435e839b6983a3715",
-      "title": "GE Vernova GridOS  Software Test Engineer - Intern - Summer 2027",
-      "url": "https://www.themuse.com/jobs/gevernova/ge-vernova-gridos-software-test-engineer-intern-summer-2027",
-      "location": "Atlanta, GA",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

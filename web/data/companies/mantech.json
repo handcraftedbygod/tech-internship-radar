@@ -2,21 +2,21 @@
   "slug": "mantech",
   "name": "ManTech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0464a38e02d2ba96224a3907344ad4e5aa1160a8",
+      "title": "AI Workflow Intern",
+      "url": "https://go.vansh.nyc/e0",
+      "location": "Remote in USA, Stafford, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b7362ff8aa6c02c0a37104ca0b53073b15b98faf",
       "title": "AI Workflow Intern",

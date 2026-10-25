@@ -2,30 +2,30 @@
   "slug": "adobe",
   "name": "Adobe",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 5,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,39 @@
     0,
     0,
     0,
-    5,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "acaeb06fa6dcf956fd7e7d0ce13c8ce3032e22b4",
+      "title": "Security Engineer Intern",
+      "url": "https://go.vansh.nyc/cM",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "e8fe78717cacc09a0b8b750f7aeae36f2875ad4c",
+      "title": "Data, AI & Innovation Intern",
+      "url": "https://go.vansh.nyc/bv",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "4b4d8fc61bfe21d569b3d429ca8189e33f6faff8",
+      "title": "AI & Architecture Intern",
+      "url": "https://go.vansh.nyc/bu",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "1b27b1e073841cff7b60a3deda1b2b4c3d64371e",
+      "title": "Security Engineer Intern",
+      "url": "https://go.vansh.nyc/bk",
+      "location": "Lehi, UT",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "0bf2df139ce3e5322b5f37aec44db9cceb8d47ef",
       "title": "Security Engineer Intern",

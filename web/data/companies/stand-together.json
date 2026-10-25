@@ -2,21 +2,21 @@
   "slug": "stand-together",
   "name": "Stand Together",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d1a08e8c1612b1acf50167fb5fc29bddb4b02c7",
+      "title": "Data Analyst Intern, Open the Books",
+      "url": "https://go.vansh.nyc/ft",
+      "location": "United States",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "55c90192b769efddc714019a969c402d574b2d07",
       "title": "Data Analyst Intern, Open the Books",

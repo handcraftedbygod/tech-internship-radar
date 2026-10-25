@@ -2,21 +2,21 @@
   "slug": "scout-ai",
   "name": "Scout AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b327a74f8adde16e6ae1a1032abe7f8cbd55bdd",
+      "title": "AI Engineer Intern, Fury Team",
+      "url": "https://go.vansh.nyc/hV",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e24c419db0c534bfcad4da13193dd6f896ceeefe",
       "title": "AI Engineer Intern, Fury Team",

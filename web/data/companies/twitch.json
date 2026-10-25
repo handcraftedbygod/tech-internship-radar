@@ -2,21 +2,21 @@
   "slug": "twitch",
   "name": "Twitch",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39930c8417abb9287340151dd460924000262f02",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://go.vansh.nyc/f5",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "541dfd2000bf7e9703cce1e7333f9e25f13bb393",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://go.vansh.nyc/eV",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "e103a3954f6deb074d88616fecbd563e386d7bd5",
       "title": "Undergrad Software Engineering Intern",

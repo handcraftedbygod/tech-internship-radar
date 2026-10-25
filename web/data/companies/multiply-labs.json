@@ -2,21 +2,21 @@
   "slug": "multiply-labs",
   "name": "Multiply Labs",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc15cf0e30c7236aba932159459a24e3e5bfa8d7",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://go.vansh.nyc/hH",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ef486474e3d441538a793c463d2d4b22b79e6fc0",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/hG",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "00ab6a9edb7126beaaf42e8966c77373803b6ba1",
       "title": "Robotics Software Engineer Intern",

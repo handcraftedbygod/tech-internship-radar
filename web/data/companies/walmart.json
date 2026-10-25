@@ -2,21 +2,21 @@
   "slug": "walmart",
   "name": "Walmart",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "product",
       "label": "Product",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8102212dc136fbeebd8a6ecd25f9014416d8aa74",
+      "title": "Automation, Product Manager, Corporate Intern",
+      "url": "https://go.vansh.nyc/eW",
+      "location": "Lancaster, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "25f1943daf39351cab5fe06451667cdfb5a1a87b",
       "title": "Automation, Product Manager, Corporate Intern",

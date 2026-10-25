@@ -2,21 +2,21 @@
   "slug": "interclypse",
   "name": "Interclypse",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44e58bb480f00e0e20f95b9d049f6190fa02c689",
+      "title": "Junior Full Stack Software Engineer Intern",
+      "url": "https://go.vansh.nyc/gn",
+      "location": "Annapolis Junction, MD",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "59fb93b0e45fe30500869c9a62da30eac6b0ec3c",
       "title": "Junior Full Stack Software Engineer Intern",

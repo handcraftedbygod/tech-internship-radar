@@ -2,30 +2,30 @@
   "slug": "amplify",
   "name": "Amplify",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
       "id": "product",
       "label": "Product",
-      "count": 1
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 1
     }
   ],
@@ -39,11 +39,32 @@
     0,
     0,
     0,
-    4,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1fd609313e3f08581b9271abd6c6eec84719e393",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/c7",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "faf6ae674462ec81e41c31253a08f646d8056107",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/c6",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "7eef0fb287a69c212fefbc0ce0d58de29c7fe50e",
+      "title": "AI Scientist Intern",
+      "url": "https://go.vansh.nyc/c5",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "0e0359ff71d13f3da6f20491340e2b259f2c5f38",
       "title": "Data Analytics Intern",

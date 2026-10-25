@@ -2,21 +2,21 @@
   "slug": "sony",
   "name": "Sony",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "10ba46ae75e0bb32818262ff66a35381d47a51af",
+      "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
+      "url": "https://go.vansh.nyc/cP",
+      "location": "Remote in USA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "7efeec51781158b35fd24286db2e96cf36d32a79",
       "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",

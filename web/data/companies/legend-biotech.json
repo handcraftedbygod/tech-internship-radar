@@ -2,21 +2,21 @@
   "slug": "legend-biotech",
   "name": "Legend Biotech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28904807e7583f1c968c08bc3de982e67a36b9ff",
+      "title": "Data Intern",
+      "url": "https://go.vansh.nyc/bz",
+      "location": "Bridgewater, NJ",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "27280f4b6bb4eef21889070779f16151c5e981cd",
       "title": "Data Intern",

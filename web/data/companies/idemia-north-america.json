@@ -2,21 +2,21 @@
   "slug": "idemia-north-america",
   "name": "IDEMIA North America",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32e19951c1bc290c5b7c536e35624ff39727f33d",
+      "title": "Cloud Software Engineering Intern",
+      "url": "https://go.vansh.nyc/gr",
+      "location": "Reston, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1ea023a973f2c8a9732255492fa54842a9a30e1d",
       "title": "Cloud Software Engineering Intern",

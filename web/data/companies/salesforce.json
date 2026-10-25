@@ -2,10 +2,10 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 16,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 17,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "New York",
@@ -37,12 +37,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,25 @@
     1,
     4,
     6,
-    20,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b2fd67fc3007927dcc0ce8fd3088001a579fd91",
+      "title": "AI Research Intern",
+      "url": "https://go.vansh.nyc/cG",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "fdf8d9112a24af844ed191dfd29c87c83744b4e1",
+      "title": "Software Engineer Intern, Security/Government",
+      "url": "https://go.vansh.nyc/bA",
+      "location": "San Francisco, CA, Bellevue, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "8b7458f84bd2a2f73c128a54fc11043ed8b78a67",
       "title": "AI Research Intern",
@@ -114,20 +128,6 @@
       "title": "Commercial Graduate Program - Sales Path - Norwegian Speaking Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Norwegian-Market_JR362644-1",
       "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "2dfba78d0fb7de2729f430e6f062b9e1dc18077e",
-      "title": "Commercial Graduate Program - Sales Path - Danish Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Danish-Market_JR362645-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "739420befc9003e24294210c65244e36953b6644",
-      "title": "Summer 2027 Intern - Solution Engineer",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
-      "location": "New York - New York",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]

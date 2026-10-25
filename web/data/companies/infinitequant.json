@@ -2,21 +2,21 @@
   "slug": "infinitequant",
   "name": "InfiniteQuant",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be0b1f775c631de47a133b8aa89d6334e24825c7",
+      "title": "Quantitative Researcher Intern",
+      "url": "https://go.vansh.nyc/eP",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "504c2020654af3fdf97a03d29525dac329d5ebab",
       "title": "Quantitative Researcher Intern",

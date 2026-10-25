@@ -2,30 +2,30 @@
   "slug": "hitachi",
   "name": "Hitachi",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,32 @@
     0,
     1,
     0,
-    4,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f72bb9a3c4741ab74b017d228e5f96e3a1b23707",
+      "title": "Test Engineering Intern",
+      "url": "https://go.vansh.nyc/ex",
+      "location": "Norman, OK",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "82802145e2534fbe5f2aa9fc1254a0a2be10e95d",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/du",
+      "location": "Liberty, SC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "6f86b7fe593c5bb6fbe7afb18a1ea8327c9ee551",
+      "title": "AI Intern, Supply Chain",
+      "url": "https://go.vansh.nyc/d0",
+      "location": "Toronto, ON, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "f515cb1ed6169526652fb9a7f360a0ead4841475",
       "title": "Test Engineering Intern",

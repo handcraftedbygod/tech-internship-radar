@@ -2,31 +2,31 @@
   "slug": "booz-allen",
   "name": "Booz Allen",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 8,
+  "totalPostings": 13,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,11 +39,46 @@
     0,
     0,
     3,
-    5,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92755d6fc23554a1585b117c341d355caa47a6c8",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://go.vansh.nyc/Bw",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, Arlington, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "913813b493f41056bf136b73bc75d585c3ec6e64",
+      "title": "New Grad 2027: Systems Engineer",
+      "url": "https://go.vansh.nyc/Be",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ca9e2be10c172eb4b84024dcc45119d9a76f765b",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://go.vansh.nyc/Bd",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "b4c5cba8d12cbe7fb1c2a328f1f947d4453e1ebc",
+      "title": "New Grad 2027: Software Developer",
+      "url": "https://go.vansh.nyc/Bc",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "ebd9f97cdfdcbe44e64712e40318158f4db3be9f",
+      "title": "Enterprise Cybersecurity Data and Business Intelligence Analyst Intern",
+      "url": "https://go.vansh.nyc/fl",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "c30b819dbb812bc27002f5d6856bc0b9e0b7dc2e",
       "title": "New Grad 2027: Data Scientist",
@@ -78,27 +113,6 @@
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280",
       "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "707e66f50390d3ebb0bb4b4c59566eeaac369847",
-      "title": "University - 2027 Summer Games Systems Engineer Intern - Rome, NY",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386?utm_source=freehire.me",
-      "location": "Rome, NY",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "dd505b08078ae6e3cccf10ee98f04098fc389e20",
-      "title": "University, 2027 Summer Games Software Developer Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029?utm_source=freehire.me",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "9ac797f992a1bb2c4a8d6e72eecd5e1d71c3f68f",
-      "title": "University, 2027 Summer Games Data Scientist Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143?utm_source=freehire.me",
-      "location": "Rome, NY",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

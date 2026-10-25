@@ -2,26 +2,26 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb6518b559407fab24f5f16a8dfcd60d6147d849",
+      "title": "Aftersales Data Analyst Intern",
+      "url": "https://go.vansh.nyc/gB",
+      "location": "Kirkland, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "8c11b725b193e219d77d27dbd8a83f9acdc247ed",
+      "title": "Field Service Data Analyst Intern",
+      "url": "https://go.vansh.nyc/dd",
+      "location": "Kirkland, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "a1abab92afd40df9816cf1c6ea7df9fbf1b57f2d",
+      "title": "Warranty Data Analyst Intern",
+      "url": "https://go.vansh.nyc/cf",
+      "location": "Kirkland, WA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "7320de256f49412aa1c783b27e0b7e7d433f8fbb",
       "title": "Aftersales Data Analyst Intern",

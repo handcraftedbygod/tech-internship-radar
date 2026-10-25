@@ -2,18 +2,18 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 7,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 8
     },
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Munich",
@@ -24,12 +24,12 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 3
+      "count": 6
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "swe",
@@ -52,11 +52,46 @@
     0,
     1,
     0,
-    6,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bb589f5de51e0ac1eb84b98d511ef36732c9f849",
+      "title": "Design Engineer Intern, Pathfinding",
+      "url": "https://go.vansh.nyc/d7",
+      "location": "San Jose, CA, Folsom, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "2170fa8e4e87ec99d7c345f3d385853b64f05fb6",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://go.vansh.nyc/d6",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "99f116083a5811059acf9e3c835a3e1889d267cb",
+      "title": "SMAI Probe AI Engineer Intern",
+      "url": "https://go.vansh.nyc/cE",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "068f110d07c8092909b9b91a9016e909b2d55409",
+      "title": "HBM Design Engineer Intern - HBM",
+      "url": "https://go.vansh.nyc/bW",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "8683ff565518a8965e17f95401f195d65c6ed8b1",
+      "title": "Design Engineer Intern, HBM",
+      "url": "https://go.vansh.nyc/bq",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "0b6ccee5073e0be95df4764f1f8120e8a731d462",
       "title": "Design Engineer Intern, Pathfinding",
@@ -91,20 +126,6 @@
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "2ecb3fe7b7b52ebc458353a63a9b6a2756c42fca",
-      "title": "Design Engineer Intern, HBM",
-      "url": "https://micron.wd1.myworkdayjobs.com/external/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112552",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "1fd2cad3e27c493eab8269dfd343f487f329b3a5",
-      "title": "Working Student in Software Quality Assurance (m/f/d)",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Munich-MDC-Germany/DRAM-Product-Engineer-Intern_JR82680?utm_source=freehire.me",
-      "location": "Munich (MDC), Germany",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
     }
   ]
 }

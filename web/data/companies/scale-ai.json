@@ -2,9 +2,9 @@
   "slug": "scale-ai",
   "name": "Scale AI",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 3
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "New York",
+      "count": 2
     },
     {
-      "hub": "New York",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -46,11 +46,18 @@
     0,
     0,
     7,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "01f6cbb2b9b55fea8031827c97bd0e69052e9af3",
+      "title": "Machine Learning Research Intern",
+      "url": "https://go.vansh.nyc/br",
+      "location": "New York, NY, San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "eb9e563b63f88ae05d908190b5f9934dd567ced1",
       "title": "Machine Learning Research Intern (Summer 2027)",

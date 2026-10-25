@@ -2,21 +2,21 @@
   "slug": "walrus",
   "name": "Walrus",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a8153f649f82fcce9d8ccc9b555722e042dd981b",
+      "title": "Full Stack Developer Intern",
+      "url": "https://go.vansh.nyc/dZ",
+      "location": "NYC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "1426852ffb50c6ef36db7f5ab9f3b64142d9fbed",
       "title": "Full Stack Developer Intern",

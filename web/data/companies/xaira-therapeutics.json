@@ -2,21 +2,21 @@
   "slug": "xaira-therapeutics",
   "name": "Xaira Therapeutics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc71ea6c480e0b45ba5585f13bb2ef6df17e8095",
+      "title": "Robotics Systems & Simulation Engineer",
+      "url": "https://go.vansh.nyc/AR",
+      "location": "South San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "664bb985fbb821c6643109c54ddfd60c7e69798f",
       "title": "Robotics Systems & Simulation Engineer",

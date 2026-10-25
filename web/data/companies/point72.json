@@ -4,19 +4,19 @@
   "tier": "trading",
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 11.6,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -39,11 +39,18 @@
     0,
     1,
     1,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82f8fd2860665a5f99835c50b53028ffe548df87",
+      "title": "Quantitative Developer Intern",
+      "url": "https://go.vansh.nyc/cd",
+      "location": "NYC",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "b9ecb4ae5723b600765c0c934f2c2b59f04dfe5a",
       "title": "Quantitative Developer Intern",

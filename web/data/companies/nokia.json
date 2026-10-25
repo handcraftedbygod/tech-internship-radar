@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     5,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e056e870ba625654c42a58303923936b97335ee",
+      "title": "Network Systems Engineer Co-op",
+      "url": "https://go.vansh.nyc/gX",
+      "location": "Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "99c1cf132ad006cd48df1f777faa9ed6d4ea43be",
       "title": "Network Systems Engineer Co-op",

@@ -2,21 +2,21 @@
   "slug": "trimble",
   "name": "Trimble",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b202ff0e45b8d5145a2931aef5f75de20d064424",
+      "title": "Automated Test Engineering Intern",
+      "url": "https://go.vansh.nyc/hX",
+      "location": "Richmond Hill, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "98b2e481e3ab498db6835d0f5313ef4d2e520bc7",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/h6",
+      "location": "Richmond Hill, Canada",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "2260679c325e5df5573eadae983134b2eb6f3220",
       "title": "Automated Test Engineering Intern",

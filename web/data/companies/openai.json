@@ -2,21 +2,21 @@
   "slug": "openai",
   "name": "OpenAI",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "336d98ec0eded824cb41d6731d8bfcbe6bfdba0d",
+      "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+      "url": "https://go.vansh.nyc/bO",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "4787ebbaeb3b66ec76514eb574bacaa83d6293f5",
       "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",

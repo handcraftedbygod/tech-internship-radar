@@ -1,0 +1,52 @@
+{
+  "slug": "rits-center",
+  "name": "RITS Center",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-25T08:58:32.015Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a40d8fef6f59e7cc5a3389b51dddb8d01ca9745e",
+      "title": "Junior DevOps Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__32869395__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "5321b8459d8dab0c653f84df0054c221fea9627c",
+      "title": "Junior DevOps Engineer: Azure & Kubernetes (Hybrid)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__32871003__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    }
+  ]
+}

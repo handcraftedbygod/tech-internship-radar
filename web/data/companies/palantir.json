@@ -2,18 +2,18 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 17,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 19,
+  "totalPostings": 23,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 10
+      "hub": "New York",
+      "count": 12
     },
     {
-      "hub": "New York",
-      "count": 8
+      "hub": "London",
+      "count": 10
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 23
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,39 @@
     0,
     1,
     1,
-    17,
+    21,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3300e4efeb314a1b1d62f3d29fd8c9c4de8d6c48",
+      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
+      "url": "https://go.vansh.nyc/Bb",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "95db268ccd5a962be8b0261116a74e312b0beabb",
+      "title": "Software Engineer, Query Engines",
+      "url": "https://go.vansh.nyc/Az",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "3128076792872e554059c532ab7d12f579fa8a07",
+      "title": "Forward Deployed Software Engineer Intern, Warp Speed",
+      "url": "https://go.vansh.nyc/fD",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "710d75714b87e6d01fe08f194d39f3163fff7b77",
+      "title": "Software Engineer Intern, Query Engines",
+      "url": "https://go.vansh.nyc/bJ",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "fe30517f66e13457e513e51fba3a1c090b14170f",
       "title": "Forward Deployed Software Engineer Intern, Warp Speed",
@@ -83,34 +111,6 @@
       "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "5e5f621b028e5ed31dac11e1aa83f4cd277ba4e3",
-      "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-infrastructure-engineer-new-grad-uk-government-london-united-kingdom-132813",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "be402e39ff37f6bdad4d43dc968a6932b0d5c5e0",
-      "title": "Forward Deployed Software Engineer, Internship - Commercial",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-commercial-london-united-kingdom-297932",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "b77a39b72e69da864e07f74b7999dcc321002f51",
-      "title": "Forward Deployed Software Engineer, Internship - UK Government",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-internship-uk-government-london-united-kingdom-357383",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "c4f60995411087a764a69c8eb5c58853d4ba24b3",
-      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/palantir/forward-deployed-software-engineer-new-grad-commercial-london-united-kingdom-70903",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

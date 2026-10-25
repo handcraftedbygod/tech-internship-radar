@@ -2,30 +2,30 @@
   "slug": "inversion-space",
   "name": "Inversion Space",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -39,11 +39,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4699249d8828ec65eaba653a6e4d6cbe0dc297ca",
+      "title": "Vehicle Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ci",
+      "location": "Playa Vista, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "897aa109d8ecadbe9beb2627923d59233fa8ec76",
+      "title": "AI & Internal Tools Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ch",
+      "location": "Playa Vista, CA",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "057314a274c92c036e831b2fb7dc72d2302aeea1",
       "title": "Vehicle Software Engineer Intern",

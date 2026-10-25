@@ -2,25 +2,25 @@
   "slug": "the-toro-company",
   "name": "The Toro Company",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f3de72f0b6825f07ba6e3c31c1a4cb4aa1e660c",
+      "title": "Cloud Software Development Intern",
+      "url": "https://go.vansh.nyc/bD",
+      "location": "Frederick, CO",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "def836191d114393f928d4e19bd586e61080672c",
       "title": "Cloud Software Development Intern",

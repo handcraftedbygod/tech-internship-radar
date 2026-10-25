@@ -2,21 +2,21 @@
   "slug": "copart",
   "name": "Copart",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     2,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8a941b34b1341227761106f571e2328d314ad48f",
+      "title": "SDET Intern",
+      "url": "https://go.vansh.nyc/eE",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
+    {
+      "id": "0da2bed0d32d4d70c7ad53b7dc570aa967a5ff82",
+      "title": "QA Engineer Intern",
+      "url": "https://go.vansh.nyc/ew",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+    },
     {
       "id": "a642e8e72a3b8ef18e59363da16dceac25e7396e",
       "title": "SDET Intern",
