@@ -1,5 +1,237 @@
 [
   {
+    "weekOf": "2026-10-18",
+    "newCount": 1377,
+    "prevWeekCount": 820,
+    "pctChange": 67.9,
+    "totalTracked": 7669,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 874
+      },
+      {
+        "hub": "San Francisco",
+        "count": 111
+      },
+      {
+        "hub": "London",
+        "count": 65
+      },
+      {
+        "hub": "Toronto",
+        "count": 58
+      },
+      {
+        "hub": "New York",
+        "count": 56
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "count": 34
+      },
+      {
+        "slug": "citi",
+        "name": "Citi",
+        "count": 27
+      },
+      {
+        "slug": "cisco",
+        "name": "Cisco",
+        "count": 25
+      },
+      {
+        "slug": "1password",
+        "name": "1Password",
+        "count": 24
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "count": 21
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 331,
+      "sample": [
+        {
+          "slug": "about-you",
+          "name": "About You"
+        },
+        {
+          "slug": "acxiom",
+          "name": "Acxiom"
+        },
+        {
+          "slug": "ad4-octogono",
+          "name": "Ad4 Octogono"
+        },
+        {
+          "slug": "adobe",
+          "name": "Adobe"
+        },
+        {
+          "slug": "adobe-creative-marketing-and-document-management-solutions",
+          "name": "Adobe: Creative, marketing and document management solutions"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "hw",
+      "label": "Hardware",
+      "pctChange": 630
+    },
+    "notableHiring": [
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "badge": "FAANG",
+        "count": 34
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "badge": "FAANG",
+        "count": 21
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 8
+      },
+      {
+        "slug": "microsoft",
+        "name": "Microsoft",
+        "badge": "FAANG",
+        "count": 8
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 6
+      },
+      {
+        "slug": "palantir-technologies",
+        "name": "Palantir Technologies",
+        "badge": "FAANG",
+        "count": 5
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "amazoncom-services",
+        "name": "Amazon.com Services LLC",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "doordash",
+        "name": "DoorDash",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "scale-ai",
+        "name": "Scale AI",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "wise",
+        "name": "Wise",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "openai",
+        "name": "OpenAI",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "point72",
+        "name": "Point72",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "uber",
+        "name": "Uber",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "sap-it-business-systeme",
+        "name": "SAP IT Business Systeme",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "databricks",
+        "name": "Databricks",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "tesla-germany",
+        "name": "Tesla Germany GmbH",
+        "badge": "FAANG",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Point72",
+      "title": "Quantitative Developer Intern",
+      "url": "https://boards.greenhouse.io/point72/jobs/7609197002",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 101,
+      "high": 126
+    },
+    "headline": {
+      "company": "Palantir",
+      "title": "Software Engineer Intern, Query Engines",
+      "url": "https://go.vansh.nyc/bJ",
+      "hub": "New York",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 50,
+      "high": 63
+    },
+    "earlyPick": {
+      "company": "1Password",
+      "title": "Developer Intern, Credential Brokering - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+      "season": "Winter 2027",
+      "hub": "Other"
+    }
+  },
+  {
     "weekOf": "2026-10-11",
     "newCount": 820,
     "prevWeekCount": 351,
