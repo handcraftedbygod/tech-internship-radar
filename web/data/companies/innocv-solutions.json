@@ -2,20 +2,25 @@
   "slug": "innocv-solutions",
   "name": "INNOCV Solutions",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc4e191401596048e261e137114ece077a6e5d8a",
+      "title": "Junior Backend Go Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__363840794__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "882fa58d7ad93f5e13177f3736bbdaee6831f646",
+      "title": "Junior Go Backend Developer — Flexible Hours & Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__363840755__7107?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "0e3ee5e0bbab372fcc1a96ed5b0ec6625b2d8cd3",
       "title": "Junior Backend Go Developer",

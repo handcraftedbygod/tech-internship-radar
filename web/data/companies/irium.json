@@ -2,21 +2,21 @@
   "slug": "irium",
   "name": "Irium",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3008199de5cc9949cfef639e281c29a46752520f",
+      "title": "Devops Engineer Junior",
+      "url": "https://himalayas.app/companies/irium/jobs/devops-engineer-junior?utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "2758d06e4c7e9348557b1b9aa5ad596d4af20dd6",
       "title": "Junior Java Full-Stack Developer – Hybrid/Remote",

@@ -2,21 +2,25 @@
   "slug": "bwi",
   "name": "BWI GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
       "count": 5
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     5,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eedd39aca7cbee5909164eb0dc84d40024fb31ab",
+      "title": "Junior Systems Engineer - Windows Server &amp; Automation (m/w/d)",
+      "url": "https://helixjobs.com/_/jobad?prj=33P70851&utm_source=freehire.me",
+      "location": "Erfurt; Nürnberg; Wilhelmshaven; Berlin; Bonn; Leipzig",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "f837e38936254e80a85077c0b88659fd04610412",
       "title": "Junior Cyber Security Developer / Anwendungsentwickler (m/w/d)",

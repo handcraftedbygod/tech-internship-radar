@@ -2,9 +2,9 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 52.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     3,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba38616610c9caadcba94491771dd7387d75dc96",
+      "title": "AI Software Engineer, Vehicle Engineering",
+      "url": "https://go.vansh.nyc/BJ",
+      "location": "Hawthorne, CA",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "57fdc02c2fa09d75dd954dc6f7b1ef3236543c25",
       "title": "Software Engineer Intern, Fleet Health Instrumentation",

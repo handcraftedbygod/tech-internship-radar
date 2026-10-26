@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 18,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "San Francisco",
@@ -26,6 +26,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     1,
     0,
-    19,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "21a74a44d0139a95eaea515d6c2a82a97505e013",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/BP",
+      "location": "East Hartford, CT",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "c26e80c22d636151515768756c787f4793775144",
       "title": "Software Engineer Co-op",
@@ -104,13 +116,6 @@
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "ff258fd1d9e5e9bd8f4f9addeaeb346470ce2c95",
-      "title": "Software Engineer Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
-      "location": "Richardson, TX",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]

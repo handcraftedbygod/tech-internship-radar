@@ -2,21 +2,21 @@
   "slug": "experis-uk",
   "name": "Experis UK",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c2ba1918893d16351b71c657e34d12fe1b273df3",
+      "title": "Junior Android Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5940858640?utm_medium=api&utm_source=freehire.me",
+      "location": "Waterloo, South East London",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "cfee70a9e47149e60be908ba795b7e988a44fd7d",
       "title": "Junior iOS Developer",

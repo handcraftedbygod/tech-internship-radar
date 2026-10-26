@@ -2,9 +2,9 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Montreal",
       "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "hw",
@@ -43,11 +47,18 @@
     0,
     0,
     5,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "940e550556c8d3a2f297723f5dc2ff472abb0d03",
+      "title": "AI/ML Developer Intern",
+      "url": "https://go.vansh.nyc/BM",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "083267ffd47a04adbd639d1bc134eb138e4b5b63",
       "title": "Cybersecurity Engineering Intern",
@@ -110,13 +121,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804?utm_source=freehire.me",
       "location": "Bristol, Avon, United Kingdom",
       "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "d74bb390391c5c7bf8240df421ea2067820a4792",
-      "title": "Systems/Software Engineer - Internship (C++/Linux)",
-      "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130?utm_source=freehire.me",
-      "location": "Galway, Galway, Ireland",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

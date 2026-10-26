@@ -2,14 +2,14 @@
   "slug": "qualify-nation-recruitment",
   "name": "Qualify Nation Recruitment",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 20.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f4ee55ca2d463f00c2a4ec01598a11600a840636",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57486363?utm_source=freehire.me",
+      "location": "Sheffield",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "57582b5d85a8e53e045c8cb58b759e3fcc1cbada",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
@@ -100,13 +107,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57444069?utm_source=freehire.me",
       "location": "Plymouth",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "41e8a5029fb978fb2009d00da7e8f49d7f95b14e",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "url": "https://grow.qualifynation.com/api/public/reed-webhook?utm_source=freehire.me",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

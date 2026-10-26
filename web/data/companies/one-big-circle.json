@@ -2,21 +2,21 @@
   "slug": "one-big-circle",
   "name": "One Big Circle",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     1,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f5ee922432d00fa76d7c505e0009e2151b0c4b6",
+      "title": "Junior Software Engineer: Grow with Scalable Data Platform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__582026361__7082?geoID=22&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Bristol, United Kingdom",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "e015ef9010fe9abd37caa24f86c087b1506840b2",
       "title": "Junior Platform Engineer – Data, Web & Cloud",

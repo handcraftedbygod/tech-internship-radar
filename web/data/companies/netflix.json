@@ -1,0 +1,45 @@
+{
+  "slug": "netflix",
+  "name": "Netflix",
+  "tier": "elite",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-26T09:43:59.686Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "caf0e509ae65c0df8a5903047d4d33700fb3fe6b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/BN",
+      "location": "Los Gatos, CA",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    }
+  ]
+}

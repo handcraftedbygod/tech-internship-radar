@@ -2,21 +2,21 @@
   "slug": "distans",
   "name": "Distans",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b0e7f5ef521d81a5f7a91332fcdba3ac457bd02",
+      "title": "Junior Frontend-utvecklare",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31641359?utm_source=freehire.me",
+      "location": "Sverige",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "6d8f77311c59e1c68877307ee1ca2c4750c60207",
       "title": "Junior Software Engineer till Faverli",

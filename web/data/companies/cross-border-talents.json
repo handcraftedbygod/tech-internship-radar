@@ -2,14 +2,14 @@
   "slug": "cross-border-talents",
   "name": "Cross Border Talents",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "biz",
       "label": "Business",
       "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    5,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef5a90c4cf5e9f11a3c3e93ac269d8f29d551ba9",
+      "title": "Hybrid Junior Marketer with a Software Corporation (German Language)",
+      "url": "https://www.careers-page.com/cross-border-talents-cbt/job/QXR7RW33?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "eccc0b481b54a9c36db5d1863dee1c39d673c8b5",
+      "title": "Hybrid Junior Marketer with a Software Corporation (Dutch Language)",
+      "url": "https://www.careers-page.com/cross-border-talents-cbt/job/QYW46R85?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "85cd3f62bbe0317eb38bfac1ec9c7a1dc105f575",
       "title": "Dutch Speaking Junior Business Developer in Barcelona (Hybrid)",

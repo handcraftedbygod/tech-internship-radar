@@ -2,21 +2,21 @@
   "slug": "carbon13",
   "name": "Carbon13 group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "523a6cdaf6b8a32a4bd60fb1e74f8147c2933f35",
+      "title": "Climate Tech Data Engineer Intern – Hybrid (London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__582675867__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "368b32cdc306137676f67309a62c4f219c5172f3",
       "title": "Data Engineering & Automation Intern",

@@ -2,21 +2,21 @@
   "slug": "john-deere",
   "name": "John Deere",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "product",
@@ -39,11 +39,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0cb0b2456318fea23b2e7a530f161ecd32b14536",
+      "title": "Praktikum KI-Anwendung in der Farbgebung: Machine Learning & Agentic AI (m/w/d)",
+      "url": "https://jobs.deere.com/eightfold/job/BRUCHSAL-Praktikum-KI-Anwendung-in-der-Farbgebung-Machine-Learning-&-Agentic-AI-%28mwd%29-Bade-76646/1439900800/?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "95f459dcdf9e9aa6f8674bcec35273d778d521b2",
       "title": "Software Engineer Student Intern, Product Engineering",

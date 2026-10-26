@@ -2,25 +2,25 @@
   "slug": "onefamily",
   "name": "OneFamily",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af9de49b3109d8791de0bf1393a1dd21222a1eb3",
+      "title": "Junior Data Engineer (1 Year FTC)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__583467933__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "ad0145d60d62445152f19827f86de07c932c3838",
       "title": "Junior BI Developer (1 Year FTC)",

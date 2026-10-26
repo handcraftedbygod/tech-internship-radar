@@ -2,21 +2,21 @@
   "slug": "servicenow",
   "name": "ServiceNow",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e5387ada05fc23c7cccac1045507cf6a51ed8ad7",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/BI",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "f2a12dd24f1e07a36bf29338bb06ef3f53045450",
       "title": "Associate Software Engineer",

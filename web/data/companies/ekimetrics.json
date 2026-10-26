@@ -2,14 +2,14 @@
   "slug": "ekimetrics",
   "name": "Ekimetrics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49cab4e31658f8734748e7284b5a275f24da2a54",
+      "title": "Junior Data Scientist & Marketing Effectiveness - Jan-March 2027 Start date",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/junior-data-scientist-marketing-effectiveness-jan-march-2027-start-date-london-325997",
+      "location": "London",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "5aa4c94786174a41d48f863d31211caffd724676",
       "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",

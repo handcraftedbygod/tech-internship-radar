@@ -1,22 +1,22 @@
 {
   "slug": "nexis",
-  "name": "Nexis GmbH",
+  "name": "nexis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 26,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,32 @@
     0,
     0,
     2,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "22987eb22564608bdb79bdb8bb82d0974569b2a1",
+      "title": "Junior DevOps & Infrastructure Engineer (m/w/d)",
+      "url": "https://nexis.jobs.personio.com/job/2670400?utm_source=freehire.me",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "f323411bce7e7d62be58e46cad468acbba5c6e54",
+      "title": "(Junior) Software Developer Java EE (m/w/d)",
+      "url": "https://nexis.jobs.personio.com/job/1436846?utm_source=freehire.me",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "a128e74bcb0d1ee057d8bb2830068a9c5270765e",
+      "title": "Werkstudent (m/w/d) Infrastructure & DevOps",
+      "url": "https://nexis.jobs.personio.com/job/2670392?utm_source=freehire.me",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "f22f86cdaf93eda14f9c361bbd79c48714648f82",
       "title": "Junior DevOps & Infrastruktur Engineer (m/w/d)",

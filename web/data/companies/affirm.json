@@ -2,9 +2,9 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -42,11 +42,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33a87a71fa9ef8aa95b72e265bc34e3d05430dc7",
+      "title": "Software Engineer I (New Grad 2027) - Instruments team",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003?utm_source=freehire.me",
+      "location": "Remote UK",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "82f8f704bc280668828ec3299629b4b2e0ff2dc4",
       "title": "Software Engineer I (New Grad 2027) - Instruments team",

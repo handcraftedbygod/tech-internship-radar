@@ -1,0 +1,59 @@
+{
+  "slug": "celad",
+  "name": "Celad",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-26T09:43:59.686Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ecc2ca2b462d5ad6f2350d804dfc5e60b31e0d88",
+      "title": "Junior Data Engineer: Snowflake Platform & Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160513094__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "081e0bae8d44a24b848f5afbc4f007b9a2a53d3d",
+      "title": "Junior Data Engineer (Snowflake) | Build Data Flows",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160509628__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
+    {
+      "id": "6e193185989b1b45b231316dad47d4b313746564",
+      "title": "Data Engineer Snowflake Junior (F/H)",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160509313__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    }
+  ]
+}

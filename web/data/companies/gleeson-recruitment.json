@@ -2,21 +2,21 @@
   "slug": "gleeson-recruitment",
   "name": "Gleeson Recruitment Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "494bc8a793734bbc2913670e1539a5837347ff4f",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5940375626?utm_medium=api&utm_source=freehire.me",
+      "location": "Quinton, Birmingham",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "b7d9cbdd342c432c48bfb09b0d3486c8c718e153",
       "title": "Junior Software Engineer",

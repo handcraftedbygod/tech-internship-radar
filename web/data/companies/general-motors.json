@@ -2,14 +2,14 @@
   "slug": "general-motors",
   "name": "General Motors",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c36339a9baaa8f86731d88554e51dc6813ebf462",
+      "title": "New Grad 2027: Software Test Developer, Propulsion Thermal Management",
+      "url": "https://go.vansh.nyc/BK",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-26T09:43:59.686Z"
+    },
     {
       "id": "0c81d022f07816a9bff68390daaf08ba5b59ec42",
       "title": "Research and Development Intern, System Safety",
