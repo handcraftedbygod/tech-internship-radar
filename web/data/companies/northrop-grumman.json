@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": null,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    13,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b7913d900c2897614bea7aa7a382256fe21d1f1",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/ST",
+      "location": "Beavercreek, OH",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "d65c427139b9dbab1f0ae5efbd838a8f842de857",
       "title": "New Grad 2027: Associate/Software Engineer Pathways",
@@ -100,13 +107,6 @@
       "title": "Software Engineering Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
       "location": "Colorado Springs, CO",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "6bbbd0cd2a2595234cc96a5d1a93c88a952c9b2a",
-      "title": "Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
-      "location": "Aurora, CO",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

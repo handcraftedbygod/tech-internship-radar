@@ -2,9 +2,9 @@
   "slug": "cvs-health",
   "name": "CVS Health",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    14,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51c3d0b2b51a7f5fb3097dc463494ba0dc8207a8",
+      "title": "Innovation & Technology Intern, Data Engineering",
+      "url": "https://go.vansh.nyc/OI",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "32e67b1b558b548c9617b2815a2d5e0f464757bd",
       "title": "Software Engineering Intern, Data & Intelligence",
@@ -103,13 +110,6 @@
       "id": "0559e6254fbc679791e6d5897dadbf4f366fc41c",
       "title": "Software Engineering: Data & Intelligence Intern, Innovation & Technology",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "7dc3727f4054de28f7ea2c289c2b3501cf2ec697",
-      "title": "Data Science Intern, Innovation & Technology",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }

@@ -2,14 +2,14 @@
   "slug": "corriculo",
   "name": "Corriculo Ltd",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe6abb4652075d60f5ab3930406ad5c64c1eef08",
+      "title": "Junior Software Engineer: Python/SQL & AI Tools, London",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__585015556__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "0a521cd986a99dbce2525ac1bea3b600c37690b5",
+      "title": "Junior Software Engineer, Python, SQL, AI, London, COR7728",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__585015122__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "5d7075fb03f8a0c18cb684738e1ab0dd33cf6016",
       "title": "Junior Software Engineer, Python, SQL, AI, London, COR7728",

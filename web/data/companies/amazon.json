@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 34,
+  "currentOpenings": 36,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 36,
+  "totalPostings": 38,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
@@ -16,12 +16,12 @@
       "count": 6
     },
     {
-      "hub": "Vancouver",
+      "hub": "London",
       "count": 4
     },
     {
-      "hub": "London",
-      "count": 2
+      "hub": "Vancouver",
+      "count": 4
     },
     {
       "hub": "Toronto",
@@ -37,12 +37,12 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -60,11 +60,25 @@
     0,
     0,
     1,
-    35,
+    37,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7973f9ab21ca4925edf31918b854f88c0964d4c9",
+      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk?utm_source=freehire.me",
+      "location": "London, England, GBR",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "1f933bd16922a8c4bd46b2ac3a4ae6459b1432b1",
+      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk?utm_source=freehire.me",
+      "location": "London, England, GBR",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "307b5b7b23c637c923e18c7582e6c144fbcd0469",
       "title": "Business Developer Intern, Early Careers 2027",
@@ -119,20 +133,6 @@
       "title": "Cloud Hardware Development Engineer Intern",
       "url": "https://go.vansh.nyc/gL",
       "location": "Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "64422c3420313b055823269f26dc5af4173687a9",
-      "title": "Embedded Firmware Co-op",
-      "url": "https://go.vansh.nyc/gK",
-      "location": "North Reading, MA, Westborough, MA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "d3b72eb8d81961fc6b03aef612c9c71b92504583",
-      "title": "Software Engineer Intern, AWS Database",
-      "url": "https://go.vansh.nyc/gJ",
-      "location": "United States",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

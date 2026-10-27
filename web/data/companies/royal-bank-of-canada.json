@@ -1,0 +1,118 @@
+{
+  "slug": "royal-bank-of-canada",
+  "name": "Royal Bank of Canada",
+  "tier": null,
+  "currentOpenings": 9,
+  "firstTrackedAt": "2026-10-27T09:37:35.915Z",
+  "totalPostings": 9,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    },
+    {
+      "hub": "Vancouver",
+      "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 2
+    },
+    {
+      "hub": "Montreal",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b62606456b86752b51c23af4c9b9f2c8cf6f1743",
+      "title": "Developer Intern",
+      "url": "https://go.vansh.nyc/Qe",
+      "location": "Calgary, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "28d4575fbb12b602581a3bccb00d3275cb93623a",
+      "title": "Developer Intern",
+      "url": "https://go.vansh.nyc/Qd",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "1d835e184564ea968ec425dbc695ad9f5ccf67dc",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/Qc",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "7748a2e1e68bad87034d98eb383d7b3269368933",
+      "title": "Developer Intern",
+      "url": "https://go.vansh.nyc/Qb",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "eb3307186e59cd7fb689afceb0a0a446f525302c",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/Qa",
+      "location": "Calgary, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "afe3dfe673a37ef5699d82c37a359611db928d18",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/OJ",
+      "location": "Halifax, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "bfcb73752c1208db79d23f7a0178ffc14648e3d2",
+      "title": "Developer Intern",
+      "url": "https://go.vansh.nyc/OH",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "7294b756e7ab201330df74ce8679f6d7fe17a13b",
+      "title": "Developer Intern",
+      "url": "https://go.vansh.nyc/OG",
+      "location": "Halifax, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "05268efe4c89d9e20b1a9c2334f0923e08c3927d",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/OF",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    }
+  ]
+}

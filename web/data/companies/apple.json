@@ -2,14 +2,18 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 9,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 14,
-  "avgPostingDurationDays": 13.4,
+  "totalPostings": 19,
+  "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 7
+    },
+    {
+      "hub": "Other",
+      "count": 6
     },
     {
       "hub": "Paris",
@@ -22,22 +26,23 @@
     {
       "hub": "London",
       "count": 2
-    },
-    {
-      "hub": "Other",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 7
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 10
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 8
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -50,11 +55,46 @@
     0,
     0,
     2,
-    12,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2260ac98c4dc58042ea72386ed90265e6a8f8a9d",
+      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+      "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
+      "location": "Cambridge",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "ea8bfffcb1aca45c064a3653fbebc0cf9f1b2f64",
+      "title": "Cellular Baseband Design Verification Intern",
+      "url": "https://go.vansh.nyc/Dd",
+      "location": "United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "0fc6fcabf49a86e4e20be5a58cbd7c3b9520e99c",
+      "title": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
+      "url": "https://go.vansh.nyc/Dc",
+      "location": "United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "fe02ac35f28f2b982e66a0329415e579bd405673",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/D9",
+      "location": "United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "7ec9b39402974c9b98735fbe9e93ddee7ec5be32",
+      "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
+      "url": "https://go.vansh.nyc/D3",
+      "location": "United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "379a7f035695bc6502aae2358052f0c5319e91c6",
       "title": "Software Engineer Intern, iCloud Platform",
@@ -89,41 +129,6 @@
       "url": "https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test?utm_source=freehire.me",
       "location": "Munich",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "77397c586e47c0f736c23cb92ac2549f18e6bc85",
-      "title": "SoC Machine Learning Software Engineer Intern",
-      "url": "https://jobs.apple.com/en-us/details/200689488",
-      "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "671a66f842166441b9f23a05a4d59e541120dfe8",
-      "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
-      "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear?utm_source=freehire.me",
-      "location": "Paris",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "1128bcf38f5434803707d256ea14bc9032800c83",
-      "title": "Software Engineering Intern, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "e791283c3009591426465cdde41584b87759b83a",
-      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
-      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "40d57bf14f40ff741c9500a763fa63ae2dd13327",
-      "title": "Internship - Software Engineering - Wireless Data Science",
-      "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]
 }

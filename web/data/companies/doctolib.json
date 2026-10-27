@@ -2,9 +2,9 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 35,
+  "totalPostings": 37,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Other",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,25 @@
     0,
     5,
     5,
-    25,
+    27,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c4299cb7997e85a37adc1e932ffc65ee2daa0e8",
+      "title": "Machine Learning Engineer Intern (x/f/m)",
+      "url": "https://jobs.ashbyhq.com/doctolib/1a05fc07-99a5-4148-8b34-2b644d9ed030?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "da550692fef993761b632714d6f10165124a8dab",
+      "title": "Machine Learning Engineer Intern (x/f/m)",
+      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8042970003",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "8c5184345efa0c34dfaf7926c4e492df0b1bb30b",
       "title": "Praktikum Campaign Management (x/f/m)",
@@ -115,20 +129,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
       "location": "Berlin, Berlin",
       "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "ee3a395e20724530f20cca2430c47e2c4f177976",
-      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineering-intern-fullstack-paris-paris-paris-352989",
-      "location": "Paris, Paris",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "d292bee7f5d9d6d466fe3682bf8a40068ef1b424",
-      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
-      "url": "https://jobs.ashbyhq.com/doctolib/89f0374d-48e3-4774-8a46-edfeb0657e8a?utm_source=freehire.me",
-      "location": "Paris",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]
 }

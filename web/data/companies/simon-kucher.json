@@ -2,9 +2,9 @@
   "slug": "simon-kucher",
   "name": "simon-kucher",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Munich",
       "count": 1
+    },
+    {
+      "hub": "Stockholm",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -37,11 +41,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6df7ff081f3bd67f9f249e1e48dc005088265861",
+      "title": "Internship Healthcare & Life Sciences – Data Science (m/f/d)",
+      "url": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/4496?c=simon-kucher&utm_source=freehire.me",
+      "location": "Stockholm, SE",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "9fc586ffe42a68f28207862a894e728c1d664b41",
       "title": "Praktikum Associate Consultant Healthcare & Life Sciences – Data Science (m/w/d)",

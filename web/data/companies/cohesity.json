@@ -2,13 +2,17 @@
   "slug": "cohesity",
   "name": "Cohesity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0dc1c89460eca0087590d5ab23caa815566c7858",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Tc",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "354681a657c0cd902ef525c30ad841e034f593b8",
       "title": "Data Analyst- Intern- London",

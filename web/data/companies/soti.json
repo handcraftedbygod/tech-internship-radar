@@ -2,26 +2,26 @@
   "slug": "soti",
   "name": "SOTI",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 5,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
       "id": "product",
       "label": "Product",
       "count": 4
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,39 @@
     0,
     0,
     1,
-    4,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95441d768505a99cbfc7592ebbc3814687af030f",
+      "title": "Software Developer Intern, Server",
+      "url": "https://go.vansh.nyc/SJ",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "e21533e11a40cd51b6aac00cca6b65386325a44e",
+      "title": "Software Developer Intern, Android",
+      "url": "https://go.vansh.nyc/SI",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "88890121226db533796c57626e9ea6e24f57b4db",
+      "title": "Quality Assurance Specialist Intern, SOTI Connect",
+      "url": "https://go.vansh.nyc/SH",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "4326754602a616ac378e0278a67dbf88ce21d9e5",
+      "title": "Performance Test Engineer Intern",
+      "url": "https://go.vansh.nyc/SG",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "a12cbebd6ad87a1c66fdd2cb9541ade79377ff43",
       "title": "Associate Product Manager Intern",

@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 22
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     },
     {
       "id": "biz",
@@ -43,11 +43,25 @@
     0,
     1,
     0,
-    20,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4a3c6026fe43be6d94a31abeb2a31710225d90df",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/T2",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "02fb058ab7fff2e8256c63497ded61e8ee94041d",
+      "title": "Software Platform Engineer Co-op",
+      "url": "https://go.vansh.nyc/CR",
+      "location": "Aurora, CO, Remote, United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "21a74a44d0139a95eaea515d6c2a82a97505e013",
       "title": "Embedded Software Engineering Intern",
@@ -103,20 +117,6 @@
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
       "location": "Annapolis, MD",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "dee22d2bf5506132adabe0da3267f505024367fb",
-      "title": "Software Engineering Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "aada3913cafda47398e6459f8d35591f4fb38baa",
-      "title": "Software Engineering Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

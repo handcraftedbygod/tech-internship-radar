@@ -2,14 +2,14 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": null,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "New York",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -48,11 +48,18 @@
     0,
     0,
     0,
-    17,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "661c6033d3741a00222acdaf1890b7e10c9c594a",
+      "title": "AI Scientist Co-op",
+      "url": "https://go.vansh.nyc/T1",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "08a280b729a7732e19060149dbd0a53313d3aaf7",
       "title": "Machine Learning Engineer Co-op",
@@ -115,13 +122,6 @@
       "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
       "location": "Toronto, ON",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "3ea42c00c3c002776c3aaa3e9a05bdc7242bac99",
-      "title": "Application/Software Developer Co-op - Capital Markets Technology",
-      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

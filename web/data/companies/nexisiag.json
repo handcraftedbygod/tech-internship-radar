@@ -2,21 +2,21 @@
   "slug": "nexisiag",
   "name": "nexisiag",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7daa3474a77fbd830a4507f2216974303052128d",
+      "title": "Werkstudent (m/w/d) Infrastructure & DevOps",
+      "url": "https://nexisiag.jobs.personio.com/job/2670392?utm_source=freehire.me",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "800c353bb709b1388886f0128f3968bf4c8a9d69",
       "title": "Junior DevOps & Infrastructure Engineer (m/w/d)",

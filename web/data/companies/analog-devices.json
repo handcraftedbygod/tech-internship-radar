@@ -2,9 +2,9 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -14,18 +14,22 @@
     {
       "hub": "Vancouver",
       "count": 2
+    },
+    {
+      "hub": "Boston",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +42,25 @@
     0,
     1,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a60f5939cb256744a4a4988f97cc96f17395dd57",
+      "title": "Embedded Systems Co-op",
+      "url": "https://go.vansh.nyc/Qg",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "f3641517c17e49adf5b2597ce843ab28c84056e1",
+      "title": "DevOps Co-op",
+      "url": "https://go.vansh.nyc/Qf",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "95edc3bf59fb62654aeefa8573e806ec5b10d010",
       "title": "Associate Engineer, SDK and Tools Development",

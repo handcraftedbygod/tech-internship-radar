@@ -1,0 +1,45 @@
+{
+  "slug": "ptc",
+  "name": "PTC",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-27T09:37:35.915Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9e0cd0436b8df71f463dffe03cdeabacb59522ae",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/CS",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    }
+  ]
+}

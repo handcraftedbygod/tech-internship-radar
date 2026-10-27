@@ -2,21 +2,21 @@
   "slug": "stampay",
   "name": "Stampay",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "189cd244ddb6ba0baa717166b0146cb83bfbcfe7",
+      "title": "Junior Front-End Entwickler (m/w/d) - Webentwicklung, Anwendungsentwicklung, Ingenieur",
+      "url": "https://www.adzuna.de/land/ad/5941988892?se=xobNBjjR8RGjD_8hTDo2ZA&utm_medium=api&utm_source=freehire.me&v=C05BF909B2CE30C50A4D875A47B42EE3285FBE01",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "2c86e908615b4b1ff2d83b819d7470a19ca29441",
       "title": "Junior Front-End Entwickler (m/w/d) (Softwareentwickler/in)",

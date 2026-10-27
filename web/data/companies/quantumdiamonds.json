@@ -2,20 +2,25 @@
   "slug": "quantumdiamonds",
   "name": "Quantumdiamonds",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ebcf654989fd8647e72ca805bfe27cff777504fc",
+      "title": "Research Software Engineering Intern (f/m/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantumdiamonds/research-software-engineering-intern-munich-222265",
+      "location": "Munich HQ",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "3afd89e59e37c6bcf7c56456b67296ede5669207",
       "title": "Data Science Intern (f/m/d)",

@@ -1,0 +1,64 @@
+{
+  "slug": "docusign",
+  "name": "DocuSign",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-27T09:37:35.915Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e3fa4d88b401689f13807953f954509b306fa82e",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/BU",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "51e2ca9a5dafc7f42cccdf56995fe02788b71f47",
+      "title": "Agentic AI Engineer Intern",
+      "url": "https://go.vansh.nyc/BS",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "5be6910c55a3e3533a78b7b56f5329f6567db8c0",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/BR",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    }
+  ]
+}

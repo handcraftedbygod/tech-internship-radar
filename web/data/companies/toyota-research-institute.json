@@ -2,21 +2,21 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a7cc94b8c6723b785ff63ce3c92a8bf9df5f115f",
+      "title": "Robotics Intern, Trustworthy Learning under Uncertainty",
+      "url": "https://go.vansh.nyc/Th",
+      "location": "Los Altos, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "9d4e07cd3bc9c9c63766ba37ed48664184da95b5",
       "title": "Human Aware Interactions and Learning Intern",

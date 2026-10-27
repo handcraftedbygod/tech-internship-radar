@@ -2,14 +2,14 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 18.3,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "hw",
@@ -43,11 +43,18 @@
     0,
     1,
     13,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e6e8ad5ac8805d591893a8ced6b5f652f7d2d69f",
+      "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "439825e4dfc648941538bac9449e1f1e271d8426",
       "title": "Growth Marketing Intern (Summer 2027)",
@@ -108,13 +115,6 @@
       "id": "daba66f515c6073a17ffdda968bd69a8f99429df",
       "title": "Software Engineer, New Grad (2027)",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-      "location": "San Francisco",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "818213fd8d8ed9de6cb6836cc6a8f49d04d6c6b6",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
       "location": "San Francisco",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }

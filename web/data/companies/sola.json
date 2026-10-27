@@ -1,0 +1,45 @@
+{
+  "slug": "sola",
+  "name": "Sola",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-27T09:37:35.915Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ce06d7d6518cfc901e4305eb4c238cacd75bee8b",
+      "title": "Forward Deployed Engineer",
+      "url": "https://go.vansh.nyc/I8",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "zillow",
   "name": "Zillow",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70569061762fba59f9bdb41e9779343bfe68ca5a",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/Tk",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "2073671b3a7531ed7ab2dd483b7bfbcc266f8ece",
       "title": "Software Development Engineer Intern",

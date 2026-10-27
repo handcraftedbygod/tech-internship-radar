@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 10,
+  "totalPostings": 13,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,32 @@
     0,
     0,
     0,
-    10,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6aede6d62e7779fd11b13e01f3e89b1479ebc667",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/UZ",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "003804332b62f4109596bfd94554903659730356",
+      "title": "Associate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/UY",
+      "location": "Greenville, TX",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "c4d0dc48bd65768687c39842c922a929280d1679",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Tb",
+      "location": "Rockwall, TX",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "2e46097fc7295f900aac0cc4ca0f18c45c0de87a",
       "title": "New Grad 2027: Associate Software Engineer",
@@ -82,27 +103,6 @@
       "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
       "location": "Colorado Springs, CO",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "c5bde8627e8949b5c2a9f9f9a97206986b24fe51",
-      "title": "Image Processing Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
-      "location": "Tulsa, OK",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "96c1f5eb718bbaea40efffa24cb65bc47b39200f",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
-      "location": "Salt Lake City, UT",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "c883cd4c387cc4b27836329bdbb320dbab247341",
-      "title": "Software Engineering Intern",
-      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors",
-      "location": "Salt Lake City, UT",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

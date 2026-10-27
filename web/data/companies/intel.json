@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 12.6,
+  "totalPostings": 22,
+  "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 18
     },
     {
       "hub": "Munich",
@@ -30,6 +30,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -42,11 +47,32 @@
     0,
     0,
     0,
-    19,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "827ce52a41e0191204865e963ef6a02b5298e66e",
+      "title": "IP Design Verification Engineer",
+      "url": "https://go.vansh.nyc/To",
+      "location": "Santa Clara, CA, Worcester, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "3e7b17ec08e0fbd9cff774d3f0049b769f7eda41",
+      "title": "SoC Design Verification Engineer (Master's)",
+      "url": "https://go.vansh.nyc/Tn",
+      "location": "Hillsboro, OR, Folsom, CA, Fort Collins, CO",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "7aebf7be1ae66d1f294153df86e36a4a58751c01",
+      "title": "SoC Logic Design Engineer (Master's)",
+      "url": "https://go.vansh.nyc/Tl",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "09dedd9e15d795857e352cbf7d630c5001d5267e",
       "title": "Software Engineer, CAD/EDA Tools (Master's)",
@@ -95,27 +121,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "283899c4038b9906d7008784d37ed60df8cff528",
-      "title": "Media AI Software Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "9f19613618a3d7dcf739e48b299f56a88fa11147",
-      "title": "Information Security Engineer Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
-      "location": "Folsom, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "de2bd025c9d6e7681b3abb5d0a0526aae207de98",
-      "title": "AI Software Development Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

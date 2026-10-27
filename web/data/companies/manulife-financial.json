@@ -2,14 +2,18 @@
   "slug": "manulife-financial",
   "name": "Manulife Financial",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
       "count": 3
+    },
+    {
+      "hub": "Boston",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24f86166bfbe9b52f208204c9c4ecd78864106af",
+      "title": "New Grad 2027: GRO Program, Data",
+      "url": "https://go.vansh.nyc/Td",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "1fac5965b6b8715dc62675b02818739c220877b5",
       "title": "AI Intern",

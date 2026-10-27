@@ -2,21 +2,21 @@
   "slug": "highmark-health",
   "name": "Highmark Health",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,39 @@
     0,
     0,
     0,
-    2,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ab18f74b03d14975ae7eb595d81db66f6bf81fd",
+      "title": "Cyber Risk Management Analyst Undergraduate Intern",
+      "url": "https://go.vansh.nyc/UF",
+      "location": "Camp Hill, PA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "1b2251c92a3ba268c0b67f3e94f6e882fa8bb036",
+      "title": "Provider Delivery Software Engineer Intern",
+      "url": "https://go.vansh.nyc/T8",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "37075becf11f17c5981b86326bf31e8513f4b208",
+      "title": "Enterprise Architecture Software Engineer & Architect Intern",
+      "url": "https://go.vansh.nyc/SS",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "cf338a0eae0e4b94607b1342b8cfc5fdf0c4a32a",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/SR",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "c7c72e2d64e00c0645167c7ecbb27d382bd961f2",
       "title": "Data Analyst Intern",

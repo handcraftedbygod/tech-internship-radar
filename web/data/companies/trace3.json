@@ -2,14 +2,14 @@
   "slug": "trace3",
   "name": "Trace3",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39aab803527cb0b537cd4d8872f1c265d439cb00",
+      "title": "Innovation Research & Development Lab Intern",
+      "url": "https://go.vansh.nyc/SL",
+      "location": "Irvine, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "e0a8016c0d04669da3639543330dd6a3e2690086",
       "title": "Data and Analytics Engineer Intern",

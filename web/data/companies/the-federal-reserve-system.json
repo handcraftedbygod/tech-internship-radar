@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": null,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af2d256422902fe7833498748c33620f96f3dcca",
+      "title": "Innovation Intern",
+      "url": "https://go.vansh.nyc/Qt",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "8c8d5a5c3ac620efab12f079eb432f43557f71d3",
       "title": "Technology Risk Intern",

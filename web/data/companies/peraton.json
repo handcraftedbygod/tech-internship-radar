@@ -2,14 +2,14 @@
   "slug": "peraton",
   "name": "Peraton",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "716036c2c7ae392240657e3bb68d1967ae2206dc",
+      "title": "Solution Architect Co-op",
+      "url": "https://go.vansh.nyc/T6",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "ac1ccd9a67e2c81c523aced202356b022c38a984",
       "title": "Junior Data Engineer, ETL/GIS",

@@ -2,9 +2,9 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 42,
+  "totalPostings": 44,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 9
+      "count": 11
     },
     {
       "hub": "Berlin",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 16
+      "count": 18
     },
     {
       "id": "hw",
@@ -56,11 +56,25 @@
     0,
     17,
     15,
-    10,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c0174dc8ddbcac6429e07023b82e3d0256949e4",
+      "title": "Werkstudent (w/m/d) Data Science im operativen Service",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1566300-2-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "060d9ca426d3aa3232c7c60ac62113c0a316aea9",
+      "title": "Werkstudent (w/m/d) Data Science im operativen Service",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1566300-2-S",
+      "location": "München",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "95faf4687e0b7c5485f12598f6581ff6b4569d23",
       "title": "Python Backend Developer Intern, Energy Flexibility Platform",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633549-2-S",
       "location": "München",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "8bfb80a7464fb2270d0371ae6b0993eda0da859e",
-      "title": "Werkstudent (w/m/d) Software Engineering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1641375-1-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "d9ad19349f68477dd0a936a41c62f1de0af83a68",
-      "title": "Working Student (f/m/d) for Federated Software Architectures",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1600672-2-S",
-      "location": "Garching an der Alz",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }
   ]
 }

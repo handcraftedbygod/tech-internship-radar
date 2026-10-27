@@ -2,21 +2,21 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42c0e6b28b2bc96c5cbb44e0b14a69ada902f65d",
+      "title": "Undergrad Technical Intern",
+      "url": "https://go.vansh.nyc/SU",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "4f3e4945887dfcf35cd0276e0d95f1634559131d",
       "title": "IP Design Intern",

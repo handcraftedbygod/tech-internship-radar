@@ -2,20 +2,25 @@
   "slug": "schneider-electric",
   "name": "Schneider Electric",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-25T04:39:11.466Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 60.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c9443201c10725c18dead7a9f01c3645d97688e8",
+      "title": "Stagiaire Business Developer & Marketing Stratégique IRVE (BAC+4/5)",
+      "url": "https://se.jibeapply.com/careers-home/jobs/133069?utm_source=freehire.me",
+      "location": "France-HAUTS-DE-SEINE-RUEIL MALMAISON",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "9df0bd97f2cc8a4d3a06a9abacc41a74d31da598",
       "title": "Software Engineer Intern",

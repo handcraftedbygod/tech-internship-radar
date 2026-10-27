@@ -2,21 +2,21 @@
   "slug": "distans",
   "name": "Distans",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb1991a8d5a736111318aa981e817305027b3939",
+      "title": "Junior Frontend Developer",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31647421?utm_source=freehire.me",
+      "location": "Sverige",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "0b0e7f5ef521d81a5f7a91332fcdba3ac457bd02",
       "title": "Junior Frontend-utvecklare",

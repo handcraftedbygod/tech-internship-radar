@@ -2,9 +2,9 @@
   "slug": "cadence",
   "name": "Cadence",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -42,11 +42,18 @@
     0,
     0,
     3,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0902ee127d72b6012bbd3726344704b7b16e3146",
+      "title": "CST Application Engineer Intern, Silicon",
+      "url": "https://go.vansh.nyc/Sz",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "d108e07ed1a4ad6578e2dfa6a35b07446a684e44",
       "title": "Intern: AI for Silicon Test Data Analytics & Failure Analysis",

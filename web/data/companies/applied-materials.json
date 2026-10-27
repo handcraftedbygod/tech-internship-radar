@@ -2,21 +2,21 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "biz",
@@ -34,11 +34,18 @@
     0,
     0,
     1,
-    12,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a726369e2bc7a9403a756c8321b2697852608eed",
+      "title": "Algorithm Developer (Master's)",
+      "url": "https://go.vansh.nyc/Te",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "587f6d50f0ba056adeeaf58f690ec29e7cca87b0",
       "title": "New Grad 2027: Software Engineer",
@@ -99,13 +106,6 @@
       "id": "1bb57988c71aae60e76a19c5cb1b5916fdb610c2",
       "title": "Business Intelligence Analyst I",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "ecf09885585e2e1a638164394459228e93076504",
-      "title": "Algorithm Developer (Master's)",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }

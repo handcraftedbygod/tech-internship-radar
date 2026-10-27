@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 11,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -51,11 +51,18 @@
     0,
     2,
     0,
-    13,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f451052b5dd6a77e524cd6efaf112cbbd88e6212",
+      "title": "Software Engineering Intern, Developer Tools - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209?utm_source=freehire.me",
+      "location": "France, Courbevoie",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "22a0e17435896fc9b1f4e274595538f8cd5b3767",
       "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
@@ -116,13 +123,6 @@
       "id": "a99131a8ac09ce7cceab53d28075cf5e31a843ec",
       "title": "Sparse Linear Algebra Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "afa3e496c774d75a80057e326b8b113a7c82aedd",
-      "title": "Differentiable Simulation Research Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }

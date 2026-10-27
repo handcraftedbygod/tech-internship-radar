@@ -2,21 +2,21 @@
   "slug": "riverlane",
   "name": "Riverlane",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c392c44a0f97914954b1c1294378e045109f00a",
+      "title": "Software Engineering Internship 2027",
+      "url": "https://www.riverlane.com/jobs?gh_jid=5000786101&utm_source=freehire.me#vacancies",
+      "location": "Cambridge, UK",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "290159423cce753e7533a5cee87d65059b0455fc",
       "title": "Software Engineering Internship 2027",

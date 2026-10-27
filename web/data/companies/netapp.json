@@ -2,21 +2,25 @@
   "slug": "netapp",
   "name": "NetApp",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c9be6a0c569a3e117d93293262d40ef301328fa2",
+      "title": "Software Engineer, Cloud Volumes (Master's)",
+      "url": "https://go.vansh.nyc/UL",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "c351cc96aac84ef15810fa13071443543997eb66",
       "title": "Software Engineer Intern",

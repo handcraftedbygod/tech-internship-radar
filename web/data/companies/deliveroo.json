@@ -2,21 +2,21 @@
   "slug": "deliveroo",
   "name": "Deliveroo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dbcbd4d2b9a43a7eabc4b95952d0f40d887d86f",
+      "title": "Software Engineer, New Grad",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627?utm_source=freehire.me",
+      "location": "London, United Kingdom - Deliveroo",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "6f4985c56235f1f95276d3443098d9daad85a6eb",
       "title": "Software Engineer, New Grad",

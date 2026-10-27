@@ -2,14 +2,14 @@
   "slug": "studentjob",
   "name": "StudentJob",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     0,
     4,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf7a0a5ddbcf7b1a1ca82745f6ae70539aac23ce",
+      "title": "Data Science & Machine Learning Engineering Analyst - Junior Consultant",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__174610796__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "f49832b2ff7a2b883681edd400f09175cbb8940b",
       "title": "Junior Consultant - Data Science & Machine Learning Engineering Analyst",

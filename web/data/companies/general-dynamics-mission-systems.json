@@ -2,21 +2,21 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": null,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "780db2d253f435d3811a6af894fd0f8a39a3abd6",
+      "title": "Software Test Engineer Intern",
+      "url": "https://go.vansh.nyc/T5",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "deaf11fc1727f12add9c26a3e365969b5918e91d",
       "title": "Software Engineer Intern",

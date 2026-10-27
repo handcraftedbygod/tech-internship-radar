@@ -2,20 +2,25 @@
   "slug": "danaher",
   "name": "Danaher Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b4d8ead008a0b43075fcb37fc9b8e4760b79359d",
+      "title": "Supply Chain AI Co-op",
+      "url": "https://go.vansh.nyc/T9",
+      "location": "United States",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "87a44498220a5e6f677938d238e51de4698bda68",
       "title": "CCM Data Governance Intern",

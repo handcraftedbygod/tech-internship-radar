@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 16,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 16,
-  "avgPostingDurationDays": null,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 8.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 16
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "hw",
@@ -44,11 +44,25 @@
     0,
     0,
     0,
-    16,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f4d525c907ecefdbdcfbe826180ad8c7027f959",
+      "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
+      "url": "https://go.vansh.nyc/Sj",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "e086777c0f3a4e07f50d81ba31419f6c4c47ad02",
+      "title": "Autonomy Engineer Intern, Simulation & Robotics",
+      "url": "https://go.vansh.nyc/Si",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "5ed446e841b8eb45cfdfdeb0b1109153858f9e03",
       "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
@@ -102,20 +116,6 @@
       "id": "6ab7ed27edacea38d07c35005df836971331c16b",
       "title": "Hardware Test and Reliability Intern",
       "url": "https://go.vansh.nyc/By",
-      "location": "San Mateo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "a9a7246ed1cae74ebc72a1e7a0ef15e153630b39",
-      "title": "Wireless Hardware Engineer Intern",
-      "url": "https://go.vansh.nyc/i",
-      "location": "San Mateo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "664badf41029d2b0621b58080ae07d77648808b1",
-      "title": "Frontend Software Engineer Intern",
-      "url": "https://go.vansh.nyc/eS",
       "location": "San Mateo, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

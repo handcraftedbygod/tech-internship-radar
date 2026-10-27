@@ -2,17 +2,30 @@
   "slug": "crowe",
   "name": "Crowe",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Chicago",
       "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -29,11 +42,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4a28729f7867767ce46df1c8211f1322b4913dc3",
+      "title": "Incident Response Intern",
+      "url": "https://go.vansh.nyc/SE",
+      "location": "Sarasota, FL",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "a29bd770696b35835b085fcc216de3b4c88c8593",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/SD",
+      "location": "Chicago, IL, Indianapolis, IN, Dallas, TX, New York, NY",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "551d861edb442ba36b610a39a964561692031f4e",
       "title": "Data Analytics Developer Intern",

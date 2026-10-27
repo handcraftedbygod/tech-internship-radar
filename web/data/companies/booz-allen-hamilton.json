@@ -2,21 +2,21 @@
   "slug": "booz-allen-hamilton",
   "name": "Booz Allen Hamilton",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,53 @@
     0,
     0,
     0,
-    3,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8dd5fde61f63572edc64c5afba03ad42768aa976",
+      "title": "Systems Engineer Intern, Games",
+      "url": "https://go.vansh.nyc/T0",
+      "location": "Albuquerque, NM",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "bc67b03f0e4cc2143885095773c75921786de41d",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SZ",
+      "location": "Dayton, OH",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "7c41d7f2c9cfc9fe3d4123d9e0a80ad8b1ed20ac",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SY",
+      "location": "Detroit, MI",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "0aa1e76ac6c91fd62f3137e21f8ac6bfbffae17a",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/SX",
+      "location": "Detroit, MI",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "470ee0a56ae639544434bfbb222c873f4723d4f0",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/Sx",
+      "location": "Lexington, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
+    {
+      "id": "f24a5c696ccd6fdb7e6144acb4ba3f7564a63bbb",
+      "title": "Games Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/Qs",
+      "location": "Lexington, MA",
+      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+    },
     {
       "id": "fb8699de04243eceb39c172d28cfef91ec374907",
       "title": "Software Engineer Intern",
