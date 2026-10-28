@@ -2,14 +2,14 @@
   "slug": "peraton",
   "name": "Peraton",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a3ccd6798a5951610731361ccfd11d65beb65645",
+      "title": "Cybersecurity Engineer Co-op",
+      "url": "https://go.vansh.nyc/W2",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "716036c2c7ae392240657e3bb68d1967ae2206dc",
       "title": "Solution Architect Co-op",

@@ -2,21 +2,21 @@
   "slug": "steadforce",
   "name": "Steadforce",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b6f3d923fca36e5f2d3f72ee333e24ba2b01e2f3",
+      "title": "Junior Software Engineer Schwerpunkt Projektmanagement (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtNWIyMzk0OWJfSkI1MjgwMDA4LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "ba8e0375e00a77c89146ee9af72c442c4ff18886",
       "title": "Junior Software Engineer Schwerpunkt Projektmanagement (m/w/d) (Informatiker/in)",

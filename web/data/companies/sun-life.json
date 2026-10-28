@@ -2,14 +2,14 @@
   "slug": "sun-life",
   "name": "Sun Life",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8658ef408ddcea7db22511f66c106a6503c03c7f",
+      "title": "Quality Engineering Analyst Intern",
+      "url": "https://go.vansh.nyc/Xj",
+      "location": "Waterloo, Canada",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "0f3a1c646685e089074967d366cbc82e4bdc6c3b",
       "title": "Data Science Intern",

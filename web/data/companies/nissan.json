@@ -2,21 +2,21 @@
   "slug": "nissan",
   "name": "Nissan",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27e78dfe08a79a80c6357d32f59f14bbc8b2831c",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/VH",
+      "location": "Dallas, TX, Franklin, TN",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "32aeac165c7e8f39fdde6dac2c8d2cb43d5a4866",
       "title": "Cyber Security Intern",

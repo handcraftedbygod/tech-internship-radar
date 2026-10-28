@@ -2,21 +2,21 @@
   "slug": "wise",
   "name": "Wise",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ec26b2253482b65eb67baf3955328b9ec0fbf774",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000157817979-software-engineering-intern?utm_source=freehire.me",
+      "location": "London, gb",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "d492bde2cafe871a1dc323834cd95d5a3d730fdf",
       "title": "Data Science Intern",

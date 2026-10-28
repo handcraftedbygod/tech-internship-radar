@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 14,
+  "totalPostings": 18,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 16
     },
     {
       "id": "ai",
@@ -34,11 +34,39 @@
     0,
     0,
     0,
-    14,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74b05827b356baf4181cab33a436a2c65f939ef6",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Wo",
+      "location": "Boulder, CO",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "983932899e2069389a55628d93fc08f37046a5bc",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Wn",
+      "location": "Azusa, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "ef19e587689f3f1315ef082c5b7cc367f8a08296",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/Vw",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "e737b768cf7223a07fe7b5bd74049ac391ff1dff",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Wl",
+      "location": "Azusa, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "6b7913d900c2897614bea7aa7a382256fe21d1f1",
       "title": "Software Engineering Intern",
@@ -80,34 +108,6 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "location": "San Antonio, TX",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "65ceb560cacfe5691aa271e97f8b555ef36b8dcc",
-      "title": "Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
-      "location": "Roy, UT",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "18638da8ba260ad3ffe0aabb904fbf12f4ff2f4d",
-      "title": "Cyber Systems Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
-      "location": "Tampa, FL",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a96dbdcc3b33b1925e6e82a551d6e3861c997de3",
-      "title": "Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
-      "location": "Boulder, CO",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "3088219f17f26e9211454511c94882157d224c84",
-      "title": "Software Engineering Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
-      "location": "Colorado Springs, CO",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

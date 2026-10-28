@@ -2,21 +2,21 @@
   "slug": "kraft-heinz",
   "name": "Kraft Heinz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09f8bd323b800d9017c267a4d86956acd0e03e9f",
+      "title": "Data Analyst Intern",
+      "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Nijmegen/Data-Analyst-Intern_R-108008-2?utm_source=freehire.me",
+      "location": "Nijmegen",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "f90dfe355b41a75739a7412b98ae7e079bbfad0e",
       "title": "Culinary & Insights Data Analyst Intern",

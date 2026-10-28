@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 36,
+  "currentOpenings": 37,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 38,
+  "totalPostings": 39,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
@@ -24,15 +24,15 @@
       "count": 4
     },
     {
-      "hub": "Toronto",
-      "count": 2
+      "hub": "San Francisco",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 23
     },
     {
       "id": "hw",
@@ -60,11 +60,18 @@
     0,
     0,
     1,
-    37,
+    38,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0323f171767872b9e10238c0a73f456a47861a47",
+      "title": "Database Engineer Intern",
+      "url": "https://go.vansh.nyc/WF",
+      "location": "Seattle, WA, East Palo Alto, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "7973f9ab21ca4925edf31918b854f88c0964d4c9",
       "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
@@ -126,13 +133,6 @@
       "title": "ASIC Engineer Intern",
       "url": "https://go.vansh.nyc/hA",
       "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "39f995337b1e1ce0d26d51b14b2a1912453a294c",
-      "title": "Cloud Hardware Development Engineer Intern",
-      "url": "https://go.vansh.nyc/gL",
-      "location": "Austin, TX, Cupertino, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

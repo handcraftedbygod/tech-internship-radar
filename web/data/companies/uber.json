@@ -2,21 +2,25 @@
   "slug": "uber",
   "name": "Uber",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Seattle",
       "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dbd82cd45bc5f5798acb0d42ccfeb7d5428e441f",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Wx",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "844e2c4af64f08d532c2124669daa5132148202a",
       "title": "Software Engineer Intern",

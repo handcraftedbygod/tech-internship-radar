@@ -4,23 +4,23 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cdb17996c2cb76615c203d8481a25d2f926debfb",
+      "title": "Research Engineer Intern, Environments, Data and Post-Training",
+      "url": "https://go.vansh.nyc/WU",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "39ef9ed4db98ffbe04df84f1830adf1dd0d5cec6",
+      "title": "Research Engineer Intern, Benchmarking",
+      "url": "https://go.vansh.nyc/WT",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "55e2c7b42ae73ad98e9842c18c24a5874786c56e",
       "title": "Software Engineer Intern",

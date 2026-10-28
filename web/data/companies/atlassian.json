@@ -2,9 +2,9 @@
   "slug": "atlassian",
   "name": "Atlassian",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 23,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e2c2649c535bcf4a0fe541dc981a5204ff8d297",
+      "title": "New Grad 2027: Security Engineer",
+      "url": "https://go.vansh.nyc/X1",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e86566a20b014df0ab651e28a2cfe3d56761c44a",
       "title": "Software Engineer Intern, 2027 Canada",

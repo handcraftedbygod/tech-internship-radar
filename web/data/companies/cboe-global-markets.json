@@ -2,14 +2,18 @@
   "slug": "cboe-global-markets",
   "name": "Cboe Global Markets",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c0820078b6877e4fa9e544dccebd6b95e2ddcd0",
+      "title": "Linux Engineer Intern",
+      "url": "https://go.vansh.nyc/W4",
+      "location": "Chicago, IL, Kansas City, MO, New York, NY",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "8a110739f49e5ec8c63dd552a75398f2b993d9e1",
       "title": "Data Pipeline Engineer Intern",

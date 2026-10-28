@@ -2,18 +2,18 @@
   "slug": "visa",
   "name": "Visa",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 32,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 41,
+  "totalPostings": 65,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 31
+      "count": 48
     },
     {
       "hub": "Austin",
-      "count": 7
+      "count": 12
     },
     {
       "hub": "San Francisco",
@@ -22,28 +22,32 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 49
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 4
     },
     {
       "id": "product",
       "label": "Product",
       "count": 4
-    },
-    {
-      "id": "biz",
-      "label": "Business",
-      "count": 3
     },
     {
       "id": "quant",
@@ -61,80 +65,80 @@
     0,
     0,
     32,
-    9,
+    33,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "ad8bf76b43eeee8f3c738c3cdd999d3ba462b6a6",
-      "title": "Data Science Intern, Data and AI Team",
-      "url": "https://go.vansh.nyc/UG",
-      "location": "Foster City, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+      "id": "1b08609b88ae35bdbca064cd2b31d49d255de3b6",
+      "title": "Network and Security Engineering Intern",
+      "url": "https://go.vansh.nyc/Xh",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     },
     {
-      "id": "606580ed309bb6b88e859338b264e3199367188e",
-      "title": "Consulting & Analytics Intern - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W",
-      "location": "US - Atlanta, GA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "42a8c3ab76e83d510066eb808b1193f948e96dc9",
-      "title": "Workforce Protection Intern - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Workforce-Protection-Intern---Summer-2027_REF089901W-2",
-      "location": "US - Foster City, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "dfa3e72b60556778f954097caaf2aa529507a1e8",
-      "title": "Real Estate Intern - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W",
-      "location": "US - San Francisco, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "4593d3feff04a0648046b85b7adf1cc2a5148169",
-      "title": "Product Management Intern, Data and AI Team - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
-      "location": "US - Foster City, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "90a11db7afb8c2a03a4e9476d2c60b21a0f490f9",
-      "title": "Data Science Intern, Data and AI Team – Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
-      "location": "US - Foster City, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "a7d5066119906410305d10cf1404aa29d51645cf",
-      "title": "Business Strategy Intern, Data and AI Team - Summer 2027",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
-      "location": "US - Foster City, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "0a700d5246ab64c2505394fa5b9e736141e9169b",
-      "title": "Data Science Intern",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
-      "location": "GB - London, United Kingdom",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "c4004c87acbd3265ae973d363ac4596f393beb68",
-      "title": "Associate Cybersecurity Analyst - Junior (Local Candidates)",
-      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Associate-Cybersecurity-Analyst---Junior--Local-Candidates-_REF088932W",
-      "location": "US - Ashburn, VA",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "d08cb7e42336c0da3f17a493dbf05cfad0e10cba",
-      "title": "Software Engineer, Intern - 2027 Ashburn, VA",
-      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-2027-ashburn-va",
+      "id": "71919b2aaed024dae36adfed981a58f80331e71f",
+      "title": "Network and Security Engineering Intern",
+      "url": "https://go.vansh.nyc/Xg",
       "location": "Ashburn, VA",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "cd9db40e5626c82701330f08a0bb1aeac37e4d2b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Xf",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "aa07b32e89032e8508695bf48b99e9196e7002c9",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Xe",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "2998a0264a9b87e320ddce885ad608b2e31e5054",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VE",
+      "location": "Ashburn, VA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "98caf7b369a7618e507177844051a1108b886cad",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VC",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "e031b1b58868db579f65908facab9f575c3ac980",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VB",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "08de36f0f4caeaa2f371651a4464b81de2372ec2",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vz",
+      "location": "Ashburn, VA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "260ec4b6dcc4c7b5d9b9864b9a1813066c3c427a",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vy",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "43e6fc8ce06de75e6274549cb24e2bf3d54e50f9",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vx",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-heilbronn",
   "name": "FERCHAU GmbH Niederlassung Heilbronn",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     4,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92cd41a7211af62a6588d0423797f657bca9b9a2",
+      "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-292456_JB5283355-S?utm_source=freehire.me",
+      "location": "Heilbronn, Neckar, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "8888ea02e152437203e3966a45f631878b00a45a",
       "title": "(Junior) Embedded Software Entwickler (m/w/d) (Softwareentwickler/in)",
@@ -95,13 +102,6 @@
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-487081_JB5224429-S?utm_source=freehire.me",
       "location": "Heilbronn, Neckar, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "a3f53100d1e9ddf0f1f771b4081f681fa1536688",
-      "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDg3MDgxX0pCNTIyNDQyOS1TIDE?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]

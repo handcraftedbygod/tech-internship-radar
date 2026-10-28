@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 79,
+  "totalPostings": 82,
   "avgPostingDurationDays": 25.5,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 47
+      "count": 50
     },
     {
       "hub": "Madrid",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 59
+      "count": 61
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -56,11 +56,32 @@
     0,
     33,
     26,
-    20,
+    23,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52a0b1061e6db144e8dc7595014fcbc7fd82d83e",
+      "title": "Junior Occupational Health and Safety",
+      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000157983645/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "fa7387005251f351712c94742ce30aaadba799e9",
+      "title": "Junior Privacy Counsel",
+      "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000157869414/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "c5d7c706bba9aa3f586477894084e0c182249328",
+      "title": "Junior Business Performance Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-business-performance-analyst-in-barcelona-spain-jid-744000158104139/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e1e1d75a2532820924eb735c49a2cf1da50fe0cd",
       "title": "Junior Occupational Health and Safety",
@@ -109,27 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-middle-retail-sales-executive-in-kyiv-ukraine-jid-744000156032999/",
       "location": "Kyiv, Ukraine",
       "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "5a4df5b2a137f36d9613e96af66188f476974909",
-      "title": "Intern Retail Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-retail-global-hq-in-barcelona-spain-jid-744000155970319/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "54c7f04845306996d7ad96a27853508c9bb6f7ba",
-      "title": "Junior/Middle Retail Sales Executive",
-      "url": "https://careers.glovoapp.com/job/junior-middle-retail-sales-executive-in-kyiv-ukraine-jid-744000155804924/",
-      "location": "Kyiv, Ukraine",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "ae5165510e79d1c2dd83e071e0040f74bd4f43f9",
-      "title": "Intern Brands Ads Global HQ",
-      "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000155755749/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]
 }

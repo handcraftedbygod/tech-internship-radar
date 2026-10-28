@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 21,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 27
     },
     {
       "hub": "San Francisco",
@@ -20,16 +20,16 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
-    },
-    {
-      "id": "biz",
-      "label": "Business",
-      "count": 1
+      "count": 24
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -43,11 +43,46 @@
     0,
     1,
     0,
-    22,
+    27,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5d3a7c0a60e89d0ffc723559815e79b40f45aa5",
+      "title": "Embedded Software Engineer I",
+      "url": "https://go.vansh.nyc/VA",
+      "location": "Mckinney, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "da2e1b397230f7202ab48b140d57844603950bb8",
+      "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
+      "url": "https://go.vansh.nyc/WQ",
+      "location": "Marlborough, MA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "66f52da4c57f235a93461422f0b6052bc6465d53",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Ww",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "a52591838db139fa74b2210d5467130690d6701b",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VI",
+      "location": "Goleta, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "d220452aa3c2cc5e5fb915a1723e1728722cbb81",
+      "title": "Secure Software Intern",
+      "url": "https://go.vansh.nyc/VG",
+      "location": "Woburn, MA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "4a3c6026fe43be6d94a31abeb2a31710225d90df",
       "title": "Software Engineering Intern",
@@ -82,41 +117,6 @@
       "url": "https://go.vansh.nyc/eq",
       "location": "Aurora, CO",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "12178ffa506944bcd43731cd4ca3e56de4efc004",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/dr",
-      "location": "Tewksbury, MA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "3d1a348819b6c60f6a675ce881fa4f65aff999a8",
-      "title": "Software Engineer Co-op",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
-      "location": "Remote in USA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "f8b1a8a27888e4187751960adb2e073e014fb9f0",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "2c359616e695c033ab7507bd79d0f4d538760d2e",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127",
-      "location": "Tewksbury, MA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "f8033058224b03886d5884a88b37d27129ce51c0",
-      "title": "Software Engineer Intern",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
-      "location": "Annapolis, MD",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

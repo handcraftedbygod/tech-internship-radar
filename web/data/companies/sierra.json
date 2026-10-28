@@ -2,14 +2,14 @@
   "slug": "sierra",
   "name": "Sierra",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61060dbf02bd277210bc78b4cf1fd620cbc2fc01",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db",
+      "location": "London",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "79f26c4b35fe6002e1e841a463905c0aa711a767",
       "title": "Software Engineer Intern, Agent (London 2027)",

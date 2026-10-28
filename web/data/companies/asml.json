@@ -2,9 +2,9 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     2,
     2,
-    15,
+    16,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4eb4508ad1d4be995fdaad28a1cbb161394a8f1",
+      "title": "Frontend Developer Intern",
+      "url": "https://go.vansh.nyc/Wr",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "f8837f2fad4b9cabad085784830830017abbc55a",
       "title": "Platform Software Engineer In Test Intern",
@@ -105,13 +112,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "fd79352aa751eec0421eb6a80490d0ce555f0d71",
-      "title": "Computer Science | Software Engineering (thesis) internship: observability-driven synthetic contract testing",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Eindhoven-Netherlands/Computer-Science---Software-Engineering--thesis--internship--observability-driven-synthetic-contract-testing_J-00354536?utm_source=freehire.me",
-      "location": "Eindhoven, Netherlands",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

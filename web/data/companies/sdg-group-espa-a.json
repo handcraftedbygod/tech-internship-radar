@@ -2,14 +2,14 @@
   "slug": "sdg-group-espa-a",
   "name": "SDG Group España",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     0,
     4,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e92ef50379cd8ac9da1f573e0b2b97d21d79cfe",
+      "title": "Junior Data Engineer - Hybrid, Training & Growth",
+      "url": "https://es.whatjobs.com/pub_api__cpl__364489158__7107?geoID=7637&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Logroño, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "145354704ae44b21815777d6cf5db40551d44940",
       "title": "Junior Data Engineering & Analytics Consultant",

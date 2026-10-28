@@ -2,14 +2,14 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 12,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 11
     },
     {
       "hub": "San Francisco",
@@ -29,12 +29,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -52,11 +52,32 @@
     0,
     1,
     0,
-    11,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c81bfa80763975e8b593a87c8dfe16e4b7396d2",
+      "title": "HBM Data Scientist Intern",
+      "url": "https://go.vansh.nyc/VY",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "73c7947889b2c30b881e2058dc2ede04275b6e9e",
+      "title": "AI Engineer Intern, Platform",
+      "url": "https://go.vansh.nyc/VX",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "744471cc7ad97144a09f6107a55a5a50d71041da",
+      "title": "Product Yield Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VP",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "bb589f5de51e0ac1eb84b98d511ef36732c9f849",
       "title": "Design Engineer Intern, Pathfinding",
@@ -105,27 +126,6 @@
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "d3bffab3ee0474da8a452df5bab7edab513184e6",
-      "title": "SSD Firmware Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/external/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
-      "location": "San Jose, CA, Boise, ID",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "631c3a472db75dc0ae6239c5bfbd8965e8be3aac",
-      "title": "SMAI Probe AI Engineer Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "b84f5b62391f19e980b06017ab1e875c6bd9e824",
-      "title": "HBM Design Engineer Intern - HBM",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "sr2",
   "name": "SR2",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,25 @@
     0,
     0,
     1,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ca4b3aeeb6df2451b80ee7449f36b5bc1835f56",
+      "title": "Junior Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-security-engineer/57495184?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "0c1d2a398e6c835e77a2059b396c7b84962cf577",
+      "title": "Junior Security Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5942768483?se=YHL7VQLS8RGP5qAzl8cCOw&utm_medium=api&utm_source=freehire.me&v=0E4B2FFA8296D0F913DBCCFB0FE57A4FB43A79C7",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "b254ea0c71a0dc57806eac19132444ec9b203c8e",
       "title": "Junior Data Engineer - AWS - SC Cleared",

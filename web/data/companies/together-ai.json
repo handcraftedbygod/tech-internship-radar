@@ -2,14 +2,14 @@
   "slug": "together-ai",
   "name": "Together AI",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 18.3,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 21.3,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Amsterdam",
@@ -31,6 +31,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,11 +48,18 @@
     0,
     1,
     13,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1fb5aae603c970c469a78b902c4840a17975dbc8",
+      "title": "(Senior/Junior AI Inference Reliability Engineer, Compute Infra",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5268939007",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e6e8ad5ac8805d591893a8ced6b5f652f7d2d69f",
       "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
@@ -109,13 +121,6 @@
       "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
       "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "daba66f515c6073a17ffdda968bd69a8f99429df",
-      "title": "Software Engineer, New Grad (2027)",
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-      "location": "San Francisco",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
     }
   ]

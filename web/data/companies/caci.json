@@ -2,21 +2,21 @@
   "slug": "caci",
   "name": "CACI",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73cd23c5f9d2bd68130fcc7456748a62766927f1",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/VM",
+      "location": "Sarasota, FL",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "f866982a983b430ce4169515a82082b18d23e0ff",
       "title": "Software Engineering Intern",

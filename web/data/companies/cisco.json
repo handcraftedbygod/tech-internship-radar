@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 26,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 37,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 38,
+  "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Krakow",
@@ -48,6 +48,11 @@
       "id": "product",
       "label": "Product",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -60,11 +65,18 @@
     0,
     1,
     8,
-    28,
+    29,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3435ec2aadde6c6d1682de891c3e175e2c17aaa1",
+      "title": "ASIC Design Verification Engineer I",
+      "url": "https://go.vansh.nyc/Wc",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "cd1c817fa718148333f46bf17c6d80a1438f5ea6",
       "title": "Software Developer, Embedded Systems I",
@@ -125,13 +137,6 @@
       "id": "9bd5f19a86241b39e12029b33b819407cd7ba61a",
       "title": "Machine Learning Engineer I Intern",
       "url": "https://go.vansh.nyc/e7",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "05e003deaeacd131f2755ca1a2554c5bbc8a7688",
-      "title": "Software Engineer Intern, Full Stack / Backend II",
-      "url": "https://go.vansh.nyc/e4",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

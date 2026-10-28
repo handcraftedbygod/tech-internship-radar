@@ -2,17 +2,22 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d6111579ececb2db0c1e64719f609f6cd0b3cd07",
+      "title": "New Grad 2027: Autonomous Software Engineer",
+      "url": "https://go.vansh.nyc/Xb",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "abc7115aa9e3221d885e85cd434fc377c182ec8a",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/X7",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "ef44fb2170f30cc8636d670aaebbb704af82354c",
       "title": "Data Science Intern",

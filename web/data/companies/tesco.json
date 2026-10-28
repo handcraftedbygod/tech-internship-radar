@@ -2,21 +2,21 @@
   "slug": "tesco",
   "name": "Tesco",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df394549c06aca52e5816c23dd1325b73f8b62b8",
+      "title": "Technology - Software Engineering Internship",
+      "url": "https://www.adzuna.co.uk/jobs/details/5942722445?utm_medium=api&utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "2a813e64ecbe0fd0f6ea263a0ba333883433082b",
       "title": "IMS Technology - Software Engineering Graduate Scheme",

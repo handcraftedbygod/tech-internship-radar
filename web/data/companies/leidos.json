@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     10,
     1,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a9413782bc1c3ab67860eaa49a4d86f4d1fc1b22",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://go.vansh.nyc/Wv",
+      "location": "Pearl Harbor, HI",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "d7ba48ead896f94e2f7b1d8316500ab8eef13026",
       "title": "AI/ML Intern",
@@ -105,13 +112,6 @@
       "title": "Transport Network Engineer Intern",
       "url": "https://www.themuse.com/jobs/leidos/transport-network-engineer-intern-9631ae",
       "location": "O'Fallon, IL",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "ba9f3d1d55dd55fedba1ad9f5281e207821c64b6",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-ffaaf5",
-      "location": "Honolulu, HI",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

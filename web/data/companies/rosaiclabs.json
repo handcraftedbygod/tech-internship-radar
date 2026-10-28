@@ -1,0 +1,69 @@
+{
+  "slug": "rosaiclabs",
+  "name": "RosaicLabs",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "aab6f8eeed3bb75b781002fa545e298ade1c1b96",
+      "title": "AI Accelerator Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Xp",
+      "location": "Austin, TX, Santa Clara, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "bac9e79ae89d6e5601be8ed9ea26db4c553bbdd1",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Xo",
+      "location": "Austin, TX, Santa Clara, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "678cc5b049bc949790cf4711f65d0a88cdab8dc9",
+      "title": "CPU Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Xn",
+      "location": "Austin, TX, Santa Clara, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

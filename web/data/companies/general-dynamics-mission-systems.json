@@ -2,14 +2,14 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 8
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8aa64fe597e8c549cd64532d646d0ceab962dc91",
+      "title": "Software Test Engineering Intern, Space and Embedded Crypto",
+      "url": "https://go.vansh.nyc/W0",
+      "location": "Scottsdale, AZ",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "780db2d253f435d3811a6af894fd0f8a39a3abd6",
       "title": "Software Test Engineer Intern",

@@ -2,9 +2,9 @@
   "slug": "hitachi",
   "name": "Hitachi",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e351d0e62f51b6bca37790a161f095b67917fec8",
+      "title": "Software Analyst Intern",
+      "url": "https://go.vansh.nyc/Wz",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "f72bb9a3c4741ab74b017d228e5f96e3a1b23707",
       "title": "Test Engineering Intern",

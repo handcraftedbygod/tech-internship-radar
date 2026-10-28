@@ -2,14 +2,14 @@
   "slug": "philips",
   "name": "Philips",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Amsterdam",
@@ -31,6 +31,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,11 +48,18 @@
     0,
     1,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1662f37631c9a373509e171e1288bf4bc917a3b3",
+      "title": "Embedded Test Engineer Co-op",
+      "url": "https://go.vansh.nyc/Xl",
+      "location": "Murrysville, PA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "4fe12326259d3b8ff8c1e0263f832afbfbef37b5",
       "title": "Internship: Full Stack Developer in Finance Domain",

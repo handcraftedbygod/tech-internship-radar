@@ -2,21 +2,21 @@
   "slug": "futurum-technology",
   "name": "Futurum Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "582ab583f14216853150c3f01fcfff7445a72a58",
+      "title": "Junior Java Developer",
+      "url": "https://jobs.smartrecruiters.com/FuturumTechnologyLtd/744000157974869-junior-java-developer?utm_source=freehire.me",
+      "location": "Kraków, pl",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e75ddff881460e7db1742b57ded34b3e58d4ed67",
       "title": "Junior Front-end Developer",

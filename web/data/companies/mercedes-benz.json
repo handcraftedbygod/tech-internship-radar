@@ -2,10 +2,10 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 41,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 42,
+  "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stuttgart",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 16
+      "count": 17
     }
   ],
   "hiringMonths": [
@@ -50,11 +50,18 @@
     0,
     19,
     10,
-    12,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f12320dcf6e667edc71ed1a0d42b3de81e38f52a",
+      "title": "Werkstudent AI Cybersecurity (m/w/d/x)",
+      "url": "https://jobs.mercedes-benz.com/werkstudent-ai-cybersecurity-m-w-d-x--244149-J000244149?utm_source=freehire.me",
+      "location": "Stuttgart, Germany",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "8e0ca3f4102fa5b17e1cd090cd7f472859e3f9a7",
       "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
@@ -115,13 +122,6 @@
       "id": "b6253bb60b161166814af81b4b8654e589dda123",
       "title": "Working Student Data Analytics for Infotainment Systems",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638275-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "7fa4e4ea10c79bc3e55c3dde39c7b9a5b0f96478",
-      "title": "Werkstudent*in Agiles Programmmanagement Automotive Software-Plattform",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638801-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }

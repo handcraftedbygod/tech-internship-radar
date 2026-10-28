@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "Berlin",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     },
     {
       "id": "product",
@@ -43,11 +43,25 @@
     0,
     5,
     3,
-    5,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f02de7d67b93c33fb799faba88b5debb38817c8",
+      "title": "Data Scientist",
+      "url": "https://go.vansh.nyc/WJ",
+      "location": "Greenville, SC",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "4269a46d681e6f57be3056cb443a6eb4e33660ed",
+      "title": "New Grad: AI Engineer",
+      "url": "https://go.vansh.nyc/WH",
+      "location": "Greenville, SC",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "97f651f46967758cb4c99af61b6e9d10cf294636",
       "title": "Product Management Intern",
@@ -103,20 +117,6 @@
       "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Berlin/Working-Student---Internship--f-m-d----OT-Cybersecurity---Vulnerability-Management_R5052047-2?utm_source=freehire.me",
       "location": "Berlin",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "430413578ef36435c5bf04b471be567430c9f175",
-      "title": "Grid Automation & Software Intern",
-      "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-35dfc5",
-      "location": "Flexible / Remote, Marrakesh, Morocco",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
-    },
-    {
-      "id": "a9768324c3ee997a2bec3de5c561fec8c6000128",
-      "title": "Grid Automation & Software Intern",
-      "url": "https://www.themuse.com/jobs/gevernova/grid-automation-software-intern-6db9fb",
-      "location": "Flexible / Remote, I-n-Salah, Algeria",
-      "firstSeenAt": "2026-08-27T15:01:46.813Z"
     }
   ]
 }

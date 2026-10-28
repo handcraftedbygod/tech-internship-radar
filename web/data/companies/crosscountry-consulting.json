@@ -1,0 +1,52 @@
+{
+  "slug": "crosscountry-consulting",
+  "name": "CrossCountry Consulting",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4acebf3b816ba4354feadf3fd3fa65b6aa0d30fe",
+      "title": "New Grad: Forward Deployed Software Engineer",
+      "url": "https://go.vansh.nyc/VL",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "95ebc045c7bd017984eb0c8af11a1c8759f9ce11",
+      "title": "New Grad: Forward Deployed Software Engineer",
+      "url": "https://go.vansh.nyc/VK",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

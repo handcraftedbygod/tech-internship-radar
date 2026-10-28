@@ -2,21 +2,21 @@
   "slug": "clevry-finland",
   "name": "Clevry Finland Oy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a19bc2ef48203958d903bd9bec40fb1fdb6a674",
+      "title": "Junior Developer, Clevry",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTZlNzMzNzYtNmRkZC00YzIyLWJiMWItZDcxYWIyZDVhZjFiIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "1d05b1d446eb813bb804e4c9c98e111a8b23b4d3",
       "title": "Junior Developer, Clevry",

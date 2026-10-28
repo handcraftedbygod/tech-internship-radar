@@ -2,14 +2,14 @@
   "slug": "texas-instruments",
   "name": "Texas Instruments",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -22,6 +22,11 @@
       "id": "design",
       "label": "Design",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +39,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "372a1c63002b4a6a38c6072db01fc85b0f25c83f",
+      "title": "Web Marketing Intern, Front-end Developer",
+      "url": "https://go.vansh.nyc/Wf",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e635d81260116d22f9be9e51006ec39ca6e858c6",
       "title": "Digital Design Verification Engineering Intern",

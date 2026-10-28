@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    13,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "815aff1da8e804745ea209d06b934c5ea57e3d2f",
+      "title": "Associate, Software Engineering",
+      "url": "https://go.vansh.nyc/Ve",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "6aede6d62e7779fd11b13e01f3e89b1479ebc667",
       "title": "Software Engineer Intern",
@@ -96,13 +103,6 @@
       "url": "https://jobs.l3harris.com/job/Tulsa-Intern,-Software-Engineer-OK-74115/1442777600/?ats=successfactors",
       "location": "Tulsa, OK",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "c5562d245d4c132badbd052c3f789a6b63b21c72",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors",
-      "location": "Colorado Springs, CO",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

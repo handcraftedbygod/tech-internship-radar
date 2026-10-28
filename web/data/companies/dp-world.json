@@ -2,21 +2,25 @@
   "slug": "dp-world",
   "name": "DP World",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 6
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3da126ca62c4e5c69e8862f75699dbb29ca2a3b9",
+      "title": "Junior I.T Software Developer",
+      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27713?utm_source=freehire.me",
+      "location": "Dublin, Eastern and Midland Region, Ireland",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "9cf68ebacb47f865583082d6dabca6ca9aa695de",
       "title": "Network Engineering Intern",

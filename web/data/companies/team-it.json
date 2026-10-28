@@ -1,0 +1,66 @@
+{
+  "slug": "team-it",
+  "name": "Team IT",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Lisbon",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0cec2dcd5574e49e4b34b1612b8c387f6d109395",
+      "title": "Junior Fullstack Developer (TypeScript & React)",
+      "url": "https://jobpage.cvwarehouse.com/?companyGuid=ce3ae4ae-9f54-4f25-9a70-4d486d0d7a27&job=403695&lang=en-US&utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "ad0bdf0384442af5d32607dc8e97f13dbb27fe00",
+      "title": "Junior Cloud Engineer",
+      "url": "https://jobpage.cvwarehouse.com/?companyGuid=ce3ae4ae-9f54-4f25-9a70-4d486d0d7a27&job=403708&lang=en-US&utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "96da4ce8554289eeca987a9bbde32ca77048a458",
+      "title": "Junior DevOps Engineer",
+      "url": "https://jobpage.cvwarehouse.com/?companyGuid=ce3ae4ae-9f54-4f25-9a70-4d486d0d7a27&job=403699&lang=en-US&utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "31bc819a44d69234e09752a200977b7a433f71e0",
+      "title": "Junior Site Reliability Engineer (SRE)",
+      "url": "https://jobpage.cvwarehouse.com/?companyGuid=ce3ae4ae-9f54-4f25-9a70-4d486d0d7a27&job=403694&lang=en-US&utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

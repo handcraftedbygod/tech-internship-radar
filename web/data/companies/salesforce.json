@@ -2,10 +2,10 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 11,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 33,
-  "avgPostingDurationDays": 15.7,
+  "totalPostings": 34,
+  "avgPostingDurationDays": 15.2,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Chicago",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     1,
     4,
     6,
-    22,
+    23,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8176a3f3cd087f5e796037208839cef0d56e5ace",
+      "title": "Forward Deployed Engineer Intern, Global Public Sector",
+      "url": "https://go.vansh.nyc/WD",
+      "location": "United States",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "0b2fd67fc3007927dcc0ce8fd3088001a579fd91",
       "title": "AI Research Intern",
@@ -120,13 +127,6 @@
       "id": "4de5fa7adbfbafd52ef3002eb2f3f6beda8b7abd",
       "title": "Commercial Graduate Program - Sales Path - Swedish Speaking Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Swedish-Market_JR362643-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "9bd5a19472510e8c32342a1798d0ed1e95a696b7",
-      "title": "Commercial Graduate Program - Sales Path - Norwegian Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Norwegian-Market_JR362644-1",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }

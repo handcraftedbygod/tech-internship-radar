@@ -2,21 +2,25 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 15
+    },
+    {
+      "hub": "Barcelona",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "biz",
@@ -44,11 +48,25 @@
     0,
     0,
     12,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd4f717155096c8de9f13b3c06b12ceede7435ca",
+      "title": "Data Analyst Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/fb5d65f8-3619-46fa-8397-43d9ec1450f6?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "f9d6adb2a2205b9e9db091c317c0e27157ffa233",
+      "title": "Data Analyst Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/fb5d65f8-3619-46fa-8397-43d9ec1450f6",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "45f25346e8b55e9b47b3790ece7c0f87e111215e",
       "title": "AI Content & Knowledge Manager Intern",
@@ -102,20 +120,6 @@
       "id": "42079da507e164ef94301b8b1dd29b941c892829",
       "title": "Seller Onboarding and Support Intern ",
       "url": "https://jobs.ashbyhq.com/backmarket/a2d647bf-ab8d-48c5-8fa5-25d11fe55f54",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "b9b78319d6d9afbaa60f1f4f99258ce29aa6aa1c",
-      "title": "Business Analyst Intern, Trade-In",
-      "url": "https://jobs.ashbyhq.com/backmarket/8feb95fc-6c41-4b1b-adc1-4d090da2809d",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "141c815d1d0400602a4dae27cf69eb87196e316b",
-      "title": "CRM Engagement Intern",
-      "url": "https://jobs.ashbyhq.com/backmarket/d26936dd-15ad-4932-94eb-9d07995aa0d6",
       "location": "Paris",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }

@@ -1,0 +1,45 @@
+{
+  "slug": "at-t",
+  "name": "AT&T",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9105e9cda9b3237e02fad9e5859539b3c3c5eac1",
+      "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+      "url": "https://go.vansh.nyc/WI",
+      "location": "Bothell, WA, Dallas, TX, Alpharetta, GA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 13,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,18 @@
     0,
     0,
     2,
-    17,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e551be3e34587a16859a1e2f91d1d37bd4d96a69",
+      "title": "SoC Physical Design Engineer, Place and Route",
+      "url": "https://go.vansh.nyc/WL",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "2260ac98c4dc58042ea72386ed90265e6a8f8a9d",
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
@@ -120,13 +127,6 @@
       "id": "9d8e1fd9544e5a34ae45e43ddf7d291925efca6f",
       "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
       "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "ec0aa889ab5504dfdd216cc8b53aa62c7de29de8",
-      "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
-      "url": "https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test?utm_source=freehire.me",
       "location": "Munich",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }

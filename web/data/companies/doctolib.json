@@ -2,10 +2,10 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 37,
-  "avgPostingDurationDays": 12.6,
+  "totalPostings": 38,
+  "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Other",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,18 @@
     0,
     5,
     5,
-    27,
+    28,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "639d54d250e410f135743efef13f06b245fd4354",
+      "title": "Machine Learning Engineer Intern (x/f/m)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/machine-learning-engineer-intern-paris-paris-291838",
+      "location": "Paris, Paris",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "3c4299cb7997e85a37adc1e932ffc65ee2daa0e8",
       "title": "Machine Learning Engineer Intern (x/f/m)",
@@ -121,13 +128,6 @@
       "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027",
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003?utm_source=freehire.me",
       "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "efa377e0cfd793d79369a36105a4076522419207",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
-      "location": "Berlin, Berlin",
       "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }
   ]

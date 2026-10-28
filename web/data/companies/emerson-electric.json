@@ -1,0 +1,52 @@
+{
+  "slug": "emerson-electric",
+  "name": "Emerson Electric",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c98b7db701e6cfef3e069991bcd87be6a4adca0f",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/WK",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "1bcbf24ce868263c785fc8a4e07cd2e9cfe74332",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/WG",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

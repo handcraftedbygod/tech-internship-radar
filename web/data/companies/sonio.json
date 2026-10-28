@@ -1,22 +1,22 @@
 {
   "slug": "sonio",
-  "name": "sonio",
+  "name": "Sonio",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4d070c99d390a311ac00f51c929d7b3dbc7db93",
+      "title": "Clinical Data Analyst intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/clinical-data-analyst-intern-paris-367048",
+      "location": "Paris office",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "3e0d0a27f82d1cfcde29215e40bce1c8aaac62d6",
+      "title": "Software Engineer Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/software-engineer-intern-paris-442271",
+      "location": "Paris office",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "849b7acc1afbd27e31dddb508574f05627419a94",
       "title": "Software Engineer Intern",

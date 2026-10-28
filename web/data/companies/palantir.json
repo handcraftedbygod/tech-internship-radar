@@ -2,9 +2,9 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 21,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     }
   ],
   "hiringMonths": [
@@ -37,11 +41,18 @@
     0,
     1,
     1,
-    21,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b78de53302a130aa47d925b5027d03d960d37995",
+      "title": "Forward Deployed Software Engineer, Internship",
+      "url": "https://www.arbeitnow.fr/jobs/companies/palantir/forward-deployed-software-engineer-internship-paris-france-405810",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "3300e4efeb314a1b1d62f3d29fd8c9c4de8d6c48",
       "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
@@ -102,13 +113,6 @@
       "id": "32f1c596d1051701e3c9a2fd8044949854cf71a2",
       "title": "Deployment Strategist, New Grad - Warp Speed",
       "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "8b16c11ca1cb7f52d2992fbd09259fdcb5b55bd7",
-      "title": "Deployment Strategist, Internship - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }

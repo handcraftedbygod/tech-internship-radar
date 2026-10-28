@@ -2,14 +2,14 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Barcelona",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -42,11 +42,18 @@
     0,
     4,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eae419903eda8b8aa5cfe9810df1cc0c8fb32ec8",
+      "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501?utm_source=freehire.me",
+      "location": "Rotkreuz",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "6f9f13b99ba8ec6e2f6747f35b1d35154f1938d5",
       "title": "Junior Custom Software Developer - RDT Data Platforms",

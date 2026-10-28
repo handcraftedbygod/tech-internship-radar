@@ -2,14 +2,14 @@
   "slug": "harnham-data-amp-analytics-recruitment",
   "name": "Harnham - Data &amp; Analytics Recruitment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0143dfb2c0008d0ca20cf8277d24296d27af7301",
+      "title": "Junior Data Scientist",
+      "url": "https://www.reed.co.uk/jobs/junior-data-scientist/57498382?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "28ccab82f40d43e04131111d83af792903a91801",
       "title": "Junior Data Engineer",

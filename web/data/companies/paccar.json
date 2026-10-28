@@ -2,26 +2,31 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
       "label": "Business",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,11 +39,25 @@
     0,
     0,
     0,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6ad77154c963c285f818d9431e1abefa23fc7a0",
+      "title": "Application Developer Intern",
+      "url": "https://go.vansh.nyc/WV",
+      "location": "Chillicothe, OH",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "ef27e8b8fe4fe953887160542d1bcb8c51a19d9d",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/WP",
+      "location": "Chillicothe, OH",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "eb6518b559407fab24f5f16a8dfcd60d6147d849",
       "title": "Aftersales Data Analyst Intern",

@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 10,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 14
     },
     {
       "hub": "Munich",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "hw",
@@ -51,11 +51,39 @@
     0,
     2,
     0,
-    14,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3bb8e854fe4679ae49294fd7b48cf1e50c75a049",
+      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939?utm_source=freehire.me",
+      "location": "UK, Remote",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "40bff8b8111523d382fc4f1f5c4ee643069271c7",
+      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942?utm_source=freehire.me",
+      "location": "Germany, Remote",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "5646b278978cae3a2959896a9d9c6ee8939843c9",
+      "title": "New Grad 2027: Formal Verification Engineer",
+      "url": "https://go.vansh.nyc/Wq",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "58e7885f8bd5f54a5bfbde012baab7ee61a0d0f7",
+      "title": "New Grad 2027: Deep Learning Performance Architect",
+      "url": "https://go.vansh.nyc/Wk",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "f451052b5dd6a77e524cd6efaf112cbbd88e6212",
       "title": "Software Engineering Intern, Developer Tools - 2027",
@@ -97,34 +125,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "b3ba859d32ba217fb16db58e3926f7bd6292b0f8",
-      "title": "Software Intern - Embedded Systems 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1?utm_source=freehire.me",
-      "location": "UK, Bristol",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "9bb7db86865f62cbf8d724cdbc7ead54aecdeb0b",
-      "title": "AI Developer Technology Intern - 2027",
-      "url": "https://artificialintelligencejobs.co/jobs/nvidia-ai-developer-technology-intern-2027-ade52084",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "83fbbb773534e72590d28391c825a62680c69021",
-      "title": "ASIC Verification Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a99131a8ac09ce7cceab53d28075cf5e31a843ec",
-      "title": "Sparse Linear Algebra Libraries Intern",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

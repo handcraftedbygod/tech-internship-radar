@@ -2,17 +2,21 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Vancouver",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,25 @@
     0,
     3,
     8,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "02cba433e980bc3fbf8c1d6397a2c31c9a08af71",
+      "title": "Intern DevOps Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "5a1eca68331410ede2d03359337bccf18d389ff1",
+      "title": "Localization and QA Automation Developer Co-op",
+      "url": "https://go.vansh.nyc/We",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "7ebbba82b261cc64ee082de4bb934d24638158a4",
       "title": "Intern Software Developer (Java)",
@@ -93,20 +111,6 @@
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-09-24T13:06:51.115Z"
-    },
-    {
-      "id": "db9839ac72ee52217656f937ebf251970ea7da32",
-      "title": "Intern Software Developer (C#)",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--C--_R67818?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "c9d37e618f4994d7363459a2cd2b10d1562a8cdd",
-      "title": "Intern Software Developer (Java)",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--Java-_R68285?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

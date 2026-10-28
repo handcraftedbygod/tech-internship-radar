@@ -1,0 +1,45 @@
+{
+  "slug": "futo",
+  "name": "FUTO",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "04589bcd2bcfbbb16de24342107a30ac0bee13b7",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/WW",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

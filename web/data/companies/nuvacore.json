@@ -2,13 +2,17 @@
   "slug": "nuvacore",
   "name": "NUVACORE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Austin",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e16d6c2becf47873b91d326caaf70fdf137e0658",
+      "title": "CPU Design & Verification Engineer",
+      "url": "https://go.vansh.nyc/Vs",
+      "location": "Austin, TX, / Santa Clara, TX, /, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "921aebfebb7645f8c894b7a8e3bd81ff4725f375",
       "title": "CPU Software Intern",

@@ -2,20 +2,25 @@
   "slug": "hive-financial-systems",
   "name": "Hive Financial Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e919f68070c0f1676e0cf894f20cbf136b2652b",
+      "title": "Analytics Intern",
+      "url": "https://go.vansh.nyc/Xk",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "c46ab5610c27eed06694bd1e6ff48403c5986141",
       "title": "Software Engineer Intern",

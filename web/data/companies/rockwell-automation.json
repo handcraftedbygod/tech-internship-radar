@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Katowice",
@@ -21,6 +21,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -33,11 +38,18 @@
     0,
     1,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b4824fe96f995f542e61e2e4358cd4ddcd26fde",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/Vd",
+      "location": "Milwaukee, WI, Chelmsford, MA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "e2a56152091b143ffd492c5a9650a2cc039df091",
       "title": "Firmware Engineer Intern",

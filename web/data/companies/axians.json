@@ -2,14 +2,14 @@
   "slug": "axians",
   "name": "Axians",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Lisbon",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e8d5133d294a325bafb6d4221a0110201d5913e6",
+      "title": "Junior Software Engineer PLC/ SCADA",
+      "url": "https://jobs.vinci.com/en/job/doetinchem/junior-software-engineer-plc-scada/1441/33448305536?utm_source=freehire.me",
+      "location": "Doetinchem, Gelderland, Nederland",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "ceb58ec49686ae672f88157ea2e94187255377f2",
       "title": "Junior Software &amp; AI Engineer",

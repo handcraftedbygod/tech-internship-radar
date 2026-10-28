@@ -2,14 +2,14 @@
   "slug": "idme",
   "name": "ID.me",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53f6c5ef7a1e29b85e2b0e20c18c5c088e499fbb",
+      "title": "New Grad 2027: General Program",
+      "url": "https://go.vansh.nyc/W3",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "11f81f02b5ff67d057a94f52a37e3812677904fd",
       "title": "Analytics Engineer Intern",

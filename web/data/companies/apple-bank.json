@@ -1,0 +1,45 @@
+{
+  "slug": "apple-bank",
+  "name": "Apple Bank",
+  "tier": "elite",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2d02b237ca180fc4ec9f3124b5856963b1e9b1d2",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/VV",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

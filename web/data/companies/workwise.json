@@ -2,14 +2,14 @@
   "slug": "workwise",
   "name": "Workwise GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Frankfurt",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     2,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0352862d468d85ad78578c3d0d26f44193b8e78",
+      "title": "Junior Consultant - Projektmgmt / Prozesse / Software (m/w/d) (IT-Projektkoordinator/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk3NTEzOTU2MS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "2e9207ca0ae1e926cedfbabcd8a8bd0e60b3e8bf",
       "title": "Junior Shopify Entwickler - E-Commerce / TypeScript (m/w/d) (Frontend-Entwickler/in)",

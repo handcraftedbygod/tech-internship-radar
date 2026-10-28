@@ -1,0 +1,45 @@
+{
+  "slug": "boston-properties",
+  "name": "Boston Properties",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-28T10:22:09.805Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "260ed83fffb3efc72801d05356664e004763e4cc",
+      "title": "Cyber Security Co-op",
+      "url": "https://go.vansh.nyc/VJ",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    }
+  ]
+}

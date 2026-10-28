@@ -1,22 +1,22 @@
 {
   "slug": "fossil",
-  "name": "Fossil Group",
+  "name": "Fossil",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "81df508574a318f21a187d93ca11dcc29a53885d",
+      "title": "Gen AI Data Engineer Intern - Barcelona (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__364488122__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
+    {
+      "id": "39da1192333334af6bf82af8627e2367d7ccc8be",
+      "title": "Data Engineer Intern (Gen AI & Analytics) – Temporary 12 Months (f/m/x)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__364487970__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+    },
     {
       "id": "37f77c023238ef9940ad6e7671078cde8d5ba268",
       "title": "Data Engineer Intern (Gen AI & Analytics) – Temporary 12 Months (f/m/x)",
