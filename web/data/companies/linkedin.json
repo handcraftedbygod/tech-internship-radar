@@ -2,21 +2,21 @@
   "slug": "linkedin",
   "name": "LinkedIn",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f91445cf8d8b79ae5a33d3a22929a6192947ed24",
+      "title": "Software Engineer Intern, First Play",
+      "url": "https://go.vansh.nyc/Y5",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "77ae5f8125c8bf8f9bc74f355ee36bf676cb757f",
       "title": "Software Engineer Intern",

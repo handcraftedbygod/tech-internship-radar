@@ -2,20 +2,25 @@
   "slug": "sherwin-williams",
   "name": "Sherwin-Williams",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "712e479fbefb97a5efbe39ad42ed37b0012fb6a1",
+      "title": "R&D Data Science Co-op",
+      "url": "https://go.vansh.nyc/Yv",
+      "location": "Brecksville, OH",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "f57e3429fed5fb57a53cc48f39fb02dc523829e4",
       "title": "R&D Product Systems Intern",

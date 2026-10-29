@@ -1,0 +1,56 @@
+{
+  "slug": "neon",
+  "name": "Neon",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-29T10:44:48.298Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7736affa510f549d181a1a20785fba33b74a2715",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/YJ",
+      "location": "San Francisco, CA, Mountain View, CA, Bellevue, WA, Vancouver, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "84d187b64646a346d8582e0e2c9e4f581b48ff90",
+      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+      "url": "https://go.vansh.nyc/YI",
+      "location": "Mountain View, CA, Bellevue, WA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 14.3,
   "topLocations": [
     {
@@ -12,19 +12,19 @@
       "count": 5
     },
     {
-      "hub": "Krakow",
-      "count": 3
+      "hub": "Other",
+      "count": 4
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Krakow",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,25 @@
     0,
     3,
     2,
-    5,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "31c7116695eb4fed23127e3a24cb5694b298cfff",
+      "title": "Intern, Software Engineer (Javascript) - 12 months",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2?utm_source=freehire.me",
+      "location": "Sheffield, GBP",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "dae848393922d744e0a5a7548d03748332eb5817",
+      "title": "Intern, Software Engineer (C++/.NET) - 12 months",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2?utm_source=freehire.me",
+      "location": "Sheffield, GBP",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "41f44c6e7265eeb6dedd9687998349e5f959b534",
       "title": "Intern, Software QA Engineer",
@@ -97,20 +111,6 @@
       "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-391e92",
       "location": "Montreal, Canada",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "e7a2f8c5e5195bd53a150a74a2e8de4f7dc510ea",
-      "title": "Stagiaire en Développement Cloud, Intern Cloud Developer - FCAP",
-      "url": "https://www.themuse.com/jobs/autodesk/stagiaire-en-developpement-cloud-intern-cloud-developer-fcap",
-      "location": "Montreal, Canada",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "fe5ac668b5e5e980b6b70bac1daabacd7d84bd59",
-      "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-      "url": "https://www.themuse.com/jobs/autodesk/stagiaire-en-developpement-cloud-intern-cloud-developer-1b95bb",
-      "location": "Montreal, Canada",
-      "firstSeenAt": "2026-08-09T05:05:05.965Z"
     }
   ]
 }

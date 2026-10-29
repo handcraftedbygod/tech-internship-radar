@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 26,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 38,
+  "totalPostings": 40,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 23
+      "count": 25
     },
     {
       "hub": "Krakow",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 10
     },
     {
       "id": "hw",
@@ -65,11 +65,25 @@
     0,
     1,
     8,
-    29,
+    31,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58671058de5598aff9821f2818658711399c6c31",
+      "title": "Data Science Analyst I",
+      "url": "https://go.vansh.nyc/XC",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "7a85b04b1407947a6e75329d55f9be5d131481f3",
+      "title": "Data Science Analyst 1",
+      "url": "https://go.vansh.nyc/XA",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "3435ec2aadde6c6d1682de891c3e175e2c17aaa1",
       "title": "ASIC Design Verification Engineer I",
@@ -123,20 +137,6 @@
       "id": "dfbe132c1f26fd4c02f475dc21b2fd72641ec02f",
       "title": "Engineering Product Management Specialist I Intern",
       "url": "https://go.vansh.nyc/eb",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "90389d75ad8b32f5a0462b27556e992d4c4595e6",
-      "title": "Machine Learning Engineer II Intern",
-      "url": "https://go.vansh.nyc/e8",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "9bd5f19a86241b39e12029b33b819407cd7ba61a",
-      "title": "Machine Learning Engineer I Intern",
-      "url": "https://go.vansh.nyc/e7",
       "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

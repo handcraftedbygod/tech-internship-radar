@@ -2,10 +2,10 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 38.3,
+  "totalPostings": 29,
+  "avgPostingDurationDays": 30.1,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "San Francisco",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 26
     },
     {
       "id": "design",
@@ -47,16 +47,30 @@
     1,
     17,
     0,
-    9,
+    11,
     0,
     0
   ],
   "recentPostings": [
     {
+      "id": "ef9628bacb259fa5480b41411eca7eecfc52cf76",
+      "title": "Software Engineering Internship - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/software-engineering-internship-london-374937",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "f3fc267717c541bb61122000412779968f031ca6",
+      "title": "Software Engineer I (New Grad)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/software-engineer-i-new-grad-london-222523",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
       "id": "2a59f955a08eb5d8f76e587add9c9111760cdde9",
       "title": "(New Grad) Account Development Representative II - Phoenix",
       "url": "https://www.samsara.com/company/careers/roles/8325356?gh_jid=8325356",
-      "location": "Phoenix, Arizona, United States",
+      "location": "Remote - AZ",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     },
     {
@@ -84,7 +98,7 @@
       "id": "d17bf0d037a0218c95f661a07aeac9e3a5fad2fa",
       "title": "Account Development Representative Intern - Phoenix",
       "url": "https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371",
-      "location": "Phoenix, Arizona, United States",
+      "location": "Remote - AZ",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     },
     {
@@ -107,20 +121,6 @@
       "url": "https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373",
       "location": "Atlanta, Georgia, United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "cef40591f87116a9b56c8c78149cf1b233ab5703",
-      "title": "Account Development Representative Intern - Phoenix",
-      "url": "https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784",
-      "location": "Phoenix, Arizona, United States",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "44bd571f508723e5e4c667793152363c3686c7f4",
-      "title": "(New Grad) Account Development Representative II - Phoenix",
-      "url": "https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371",
-      "location": "Phoenix, Arizona, United States",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

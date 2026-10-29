@@ -2,10 +2,10 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 34,
-  "avgPostingDurationDays": 15.2,
+  "totalPostings": 35,
+  "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -25,7 +25,7 @@
     },
     {
       "hub": "Chicago",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     1,
     4,
     6,
-    23,
+    24,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61f1d690ed1ad17085ac58a2c1d3f06edbcf3491",
+      "title": "Summer 2027 Intern - Pro Serve Strategy & Change Management",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2",
+      "location": "Illinois - Chicago",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "8176a3f3cd087f5e796037208839cef0d56e5ace",
       "title": "Forward Deployed Engineer Intern, Global Public Sector",
@@ -120,13 +127,6 @@
       "id": "e54328e5dc599feb11c8cecd3bcd72b3a8fee032",
       "title": "Commercial Graduate Program - Sales Path - Dutch Speaking Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---BNL-Dutch-Speaking-Market_JR363186-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "4de5fa7adbfbafd52ef3002eb2f3f6beda8b7abd",
-      "title": "Commercial Graduate Program - Sales Path - Swedish Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---Swedish-Market_JR362643-1",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }

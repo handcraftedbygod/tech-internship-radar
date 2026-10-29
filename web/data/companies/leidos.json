@@ -2,26 +2,26 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 17,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 19
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -39,11 +39,25 @@
     0,
     10,
     1,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33993924627179b21ff4c6e5cbe63a6f0b693468",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/Y4",
+      "location": "Fort Belvoir, VA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "76afd7ec9fedc79e75a137856aa2439a25a00e2b",
+      "title": "Cybersecurity Engineer Co-op",
+      "url": "https://go.vansh.nyc/XZ",
+      "location": "Bethesda, MD",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "a9413782bc1c3ab67860eaa49a4d86f4d1fc1b22",
       "title": "Cybersecurity Analyst Intern",
@@ -98,20 +112,6 @@
       "title": "Cybersecurity Analyst Intern",
       "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-fc9032",
       "location": "Reynoldsburg, OH",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "88a05488f470fbb0cb1b309786d2f78b32cdf9aa",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-5931b9",
-      "location": "Roy, UT",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
-    },
-    {
-      "id": "15dcafb3e407a436cecc36427fc33358aa7fa3ac",
-      "title": "Transport Network Engineer Intern",
-      "url": "https://www.themuse.com/jobs/leidos/transport-network-engineer-intern-9631ae",
-      "location": "O'Fallon, IL",
       "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]

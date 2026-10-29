@@ -2,21 +2,21 @@
   "slug": "berkshire-hathaway-energy",
   "name": "Berkshire Hathaway Energy",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e66d8d97e3fd581669f9401bb822ea1f50c4557e",
+      "title": "Intern, Data Systems",
+      "url": "https://go.vansh.nyc/XM",
+      "location": "Bridgeport, WV",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "533aecb7374bc605a2b0a2eaeccb17d039467ad7",
       "title": "Software Engineering Intern",

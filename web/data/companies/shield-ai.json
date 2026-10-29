@@ -2,21 +2,21 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a1f771e332f25466efb558cdb9eeb0b771bf0904",
+      "title": "New Grad: Engineer I, Software Test and Automation",
+      "url": "https://go.vansh.nyc/XO",
+      "location": "Washington, DC, San Diego, CA, Dallas, TX",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "d6111579ececb2db0c1e64719f609f6cd0b3cd07",
       "title": "New Grad 2027: Autonomous Software Engineer",

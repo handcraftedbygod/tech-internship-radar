@@ -2,9 +2,9 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 42,
+  "totalPostings": 43,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stuttgart",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Berlin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -50,11 +50,18 @@
     0,
     19,
     10,
-    13,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "447d1aee7e412c6a12767b2759cd5ce642244637",
+      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
+      "url": "https://jobs.mercedes-benz.com/sap-s-4hana-junior-developer-application-architect-d-m-w-x--239360-MER00047ZP?utm_source=freehire.me",
+      "location": "Stuttgart, Germany",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "f12320dcf6e667edc71ed1a0d42b3de81e38f52a",
       "title": "Werkstudent AI Cybersecurity (m/w/d/x)",
@@ -116,13 +123,6 @@
       "title": "Werkstudent*in (SW-Developer Data Campaigns for Automated Driving & ADAS)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638289-1-S",
       "location": "Böblingen",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "b6253bb60b161166814af81b4b8654e589dda123",
-      "title": "Working Student Data Analytics for Infotainment Systems",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638275-1-S",
-      "location": "Sindelfingen",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

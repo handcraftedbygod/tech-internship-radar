@@ -2,18 +2,18 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 19,
+  "totalPostings": 22,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "Vancouver",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -28,14 +28,14 @@
       "count": 6
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 4
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -48,11 +48,32 @@
     0,
     0,
     0,
-    19,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e9f6a8edafb79a5f81c95cbe2ef356a230c3db5a",
+      "title": "Deep Learning Research Intern",
+      "url": "https://go.vansh.nyc/YP",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "ff7b8976bf800926fb5ad092ff4962d9a34f1339",
+      "title": "Camera Design Engineering Intern",
+      "url": "https://go.vansh.nyc/Yi",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "45a2140acb6693b49fad7a59f5378a69c58c80b8",
+      "title": "Deep Learning Research Intern, Interim Engineering Systems",
+      "url": "https://go.vansh.nyc/Yh",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "6bc34785a021d2f067a131ff5d5a8e2751ce81db",
       "title": "AI and DSP Applications Engineer Intern",
@@ -101,27 +122,6 @@
       "url": "https://go.vansh.nyc/dX",
       "location": "Markham, ON, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "dc2ae270a7700198acdb2941adc6f551e5b4f93a",
-      "title": "QDSP Hardware Physical Design Intern",
-      "url": "https://go.vansh.nyc/c9",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "9ba52b1f8b7e337284e232117ec6f6f67bdc9233",
-      "title": "Machine Learning AISW Intern",
-      "url": "https://go.vansh.nyc/c8",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "27d818d111457c28ad41940dbc45cc995b93ead9",
-      "title": "AI and DSP Applications Engineer Intern",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721686396",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

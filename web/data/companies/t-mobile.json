@@ -2,21 +2,31 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +39,32 @@
     0,
     0,
     0,
-    2,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f3b61bab76a93a7bafa6d147a57fe7cc0b7c8e4",
+      "title": "Associate Technical Product Manager Intern",
+      "url": "https://go.vansh.nyc/Yg",
+      "location": "Frisco, TX",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "072d84c14e56cbcf5ebaa4d573224c56d4f99544",
+      "title": "Associate AI Engineer Intern",
+      "url": "https://go.vansh.nyc/Yf",
+      "location": "Frisco, TX, Overland Park, KS",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "0e2a430f89bc2bef9d435caf71afc775334f5d71",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ye",
+      "location": "Overland Park, KS",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "b59710a7a7869fad904e3f63acb4f89f2f74be2b",
       "title": "Software Engineer Intern, Cloud Security",

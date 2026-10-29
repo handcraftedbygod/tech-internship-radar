@@ -4,24 +4,24 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 8.2,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "391380eebebc029e2fb673d5473846f1e3f8e4ab",
+      "title": "Software Verification Engineer, AV Platform",
+      "url": "https://go.vansh.nyc/XN",
+      "location": "Milford, MI, Warren, MI",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "c36339a9baaa8f86731d88554e51dc6813ebf462",
       "title": "New Grad 2027: Software Test Developer, Propulsion Thermal Management",

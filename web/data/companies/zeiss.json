@@ -2,17 +2,17 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
-      "hub": "Munich",
-      "count": 5
+      "hub": "Other",
+      "count": 7
     },
     {
-      "hub": "Other",
+      "hub": "Munich",
       "count": 5
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 13
     },
     {
       "id": "swe",
@@ -46,11 +46,25 @@
     0,
     9,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab2bfcd9876841524ed6b2d591930a32a057a1ff",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5944751066?se=6u5JcoXT8RGM9LiW6j198w&utm_medium=api&utm_source=9141e2e6&v=CC9DB04F0A076BB11C1C89F3687E986C0325587D",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "cfefe71ed98c2f7500c14deb1f2c1c963a783b82",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5945300785?se=6u5JcoXT8RGM9LiW6j198w&utm_medium=api&utm_source=9141e2e6&v=6AEB6E6A9032FD59F07F274A95FCE0B39A58669C",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "7c52a509653d399037a35f75d6b8a09b3c81381f",
       "title": "Internship in AI & Machine Learning (f/m/x)",
@@ -106,20 +120,6 @@
       "url": "https://www.adzuna.de/details/5833702600?utm_medium=api&utm_source=freehire.me",
       "location": "München, München (Kreis)",
       "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "d4b1f92686137c1f0ad1f1b980b1657de6eae3b3",
-      "title": "Internship Machine Learning",
-      "url": "https://www.adzuna.de/land/ad/5831197043?se=JLueIOWS8RG9ks23jnlnsA&utm_medium=api&utm_source=9141e2e6&v=017DFF1B82FD6AD365351BD33B1984E479E91D7A",
-      "location": "München, München (Kreis)",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "2a2705a16e2e82448da868682b3a99f6e1afd226",
-      "title": "Internship Machine Learning",
-      "url": "https://www.adzuna.de/land/ad/5830834835?se=JLueIOWS8RG9ks23jnlnsA&utm_medium=api&utm_source=9141e2e6&v=694E87E4C0FCDA3CEADD7F52B186650B1B0471F1",
-      "location": "München, München (Kreis)",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

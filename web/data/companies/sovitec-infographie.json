@@ -2,21 +2,21 @@
   "slug": "sovitec-infographie",
   "name": "SOVITEC INFOGRAPHIE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "00cd70826a087f4965b45c56f47388c1342a703f",
+      "title": "Commercial B2B Junior / Business Developer - Retail (H/F)",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215SCZZ?utm_source=freehire.me",
+      "location": "CERGY",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "5813e0fbaa40026fbc265452e0fc331d81a9df71",
+      "title": "Commercial B2B Junior / Business Developer - Retail (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjE1U0NaWiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "3513ca1c021a547f68bbcd46856ca8ff8a682c9c",
       "title": "Commercial B2B Junior / Business Developer - Retail (H/F)",

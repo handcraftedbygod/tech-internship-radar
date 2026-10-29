@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -39,11 +39,18 @@
     0,
     3,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08e5e80a729a319139ff324b8f2c4f477dfe955c",
+      "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295?utm_source=freehire.me",
+      "location": "Toulouse Area",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "b40bc21cae250a1603e5e562ada5df676361dc0d",
       "title": "Early Career - Embedded Software Engineer (m/f)",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 9
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "852aef2af2b7645db2286495478f13bf7e0014a9",
+      "title": "Design and Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Yk",
+      "location": "Beavercreek, OH",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "8dd5fde61f63572edc64c5afba03ad42768aa976",
       "title": "Systems Engineer Intern, Games",

@@ -2,14 +2,14 @@
   "slug": "american-express",
   "name": "American Express",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "New York",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "product",
@@ -47,11 +47,18 @@
     0,
     19,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0f67051799e8800069111592801411e0ebda580",
+      "title": "New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's)",
+      "url": "https://go.vansh.nyc/XE",
+      "location": "Ca, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "294ad0387bf38378815cd19e3c17a3e51d147f57",
       "title": "Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London)",
@@ -113,13 +120,6 @@
       "title": "AI Engineer Intern, Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
       "location": "Phoenix, AZ",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "480344ace199c9c5af6beba258d6bc244a588df6",
-      "title": "Software Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
-      "location": "Charlotte, NC",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]

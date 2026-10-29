@@ -2,14 +2,18 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 14,
+  "totalPostings": 16,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -34,11 +43,25 @@
     0,
     0,
     1,
-    13,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bfbafb70e10f0e7ea5fefb34ce99da6bb830bb81",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/Ya",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "b1bd8cb8ae16979b717c4d464c766bcae0bd3d46",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/Y3",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "a726369e2bc7a9403a756c8321b2697852608eed",
       "title": "Algorithm Developer (Master's)",
@@ -94,20 +117,6 @@
       "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
       "location": "Gloucester, MA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "6facb47c883883f61d73a8708dbf4e44b7238658",
-      "title": "Software Engineer (Master's)",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
-      "location": "Chandler, AZ",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "1bb57988c71aae60e76a19c5cb1b5916fdb610c2",
-      "title": "Business Intelligence Analyst I",
-      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

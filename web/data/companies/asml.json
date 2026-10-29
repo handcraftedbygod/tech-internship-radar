@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 20,
+  "totalPostings": 22,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "San Francisco",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,25 @@
     0,
     2,
     2,
-    16,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24f168cdb34c599cf1646a0e50215b82d13dbc13",
+      "title": "Data Engineer Co-op",
+      "url": "https://go.vansh.nyc/Yt",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "85b91075616b3e0ad7990dd5ab0651d895869910",
+      "title": "Software Development Engineer in Test Intern",
+      "url": "https://go.vansh.nyc/Y2",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "e4eb4508ad1d4be995fdaad28a1cbb161394a8f1",
       "title": "Frontend Developer Intern",
@@ -98,20 +112,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "647bb667cbbbb033885dc7cb4e083f1e9aadf7e9",
-      "title": "Data Science | Business Analytics internship: dashboard reporting automation",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--dashboard-reporting-automation_J-00355547?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "57a9070391c85451728f03ad557bdb07a460859f",
-      "title": "Computer Science | Software Engineering internship: test impact analysis",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--test-impact-analysis_J-00354297?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

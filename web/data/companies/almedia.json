@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 10.7,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce35318f896be9faacc931aadd428fb9514d8f5b",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-data-scientist-berlin-298579",
+      "location": "Berlin",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "9504f0ecf3ea47b0ad4e762b3a6848f3d5096952",
       "title": "Junior Data Scientist",
@@ -99,13 +106,6 @@
       "id": "5c8f9e77bd0ccd9e40e6ca20497ab667b1aff33e",
       "title": "Junior Backend Engineer",
       "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-backend-engineer-berlin-91141",
-      "location": "Berlin",
-      "firstSeenAt": "2026-08-03T06:58:28.460Z"
-    },
-    {
-      "id": "d2d234f943a91a25925c51cf7e37912fa10768c0",
-      "title": "Junior Frontend Engineer",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-frontend-engineer-berlin-358337",
       "location": "Berlin",
       "firstSeenAt": "2026-08-03T06:58:28.460Z"
     }

@@ -2,10 +2,10 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
-  "avgPostingDurationDays": 10.2,
+  "totalPostings": 17,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Lodz",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Stockholm",
@@ -29,6 +29,11 @@
       "id": "swe",
       "label": "Software",
       "count": 16
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -41,11 +46,18 @@
     0,
     5,
     5,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bc66aaab5f44d9e4c3fba69a51b37d49c96f0493",
+      "title": "AI and Automation Engineer Intern",
+      "url": "https://go.vansh.nyc/YK",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "d47f56685a50f39b52b339aa7894f49d98cd757a",
       "title": "Cybersecurity Analyst Intern",
@@ -108,13 +120,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5MDkzNiAxMjE?lang=en",
       "location": "Sweden",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "28f13696319d32fa91068caf022b6ea4409def90",
-      "title": "Junior Software Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121776836269-junior-software-developer-g%C3%B6teborg-v%C3%A4stra-g%C3%B6taland-sweden?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Göteborg,Västra Götaland,Sweden",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]
 }

@@ -2,25 +2,25 @@
   "slug": "disney",
   "name": "Disney",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
-      "hub": "Vancouver",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Vancouver",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0136faec114e84a89361fd8b0674c2824a3777c",
+      "title": "Full Stack Web Development Intern, Walt Disney Animation Studios",
+      "url": "https://go.vansh.nyc/YM",
+      "location": "Burbank, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "cf97d2e07609fe38f65841eb8bbe234ee6f975e5",
+      "title": "Enterprise Technology & Data Software Engineering Intern",
+      "url": "https://go.vansh.nyc/YL",
+      "location": "Orlando, FL",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "faf6397f517df54a88cc9df2153c4dc71a778d13",
       "title": "Software Engineer Intern, Pipeline Infrastructure",

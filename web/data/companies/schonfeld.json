@@ -2,11 +2,15 @@
   "slug": "schonfeld",
   "name": "Schonfeld",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 22,
   "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -16,6 +20,16 @@
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +43,25 @@
     0,
     0,
     1,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c52604f70a90ed23fd67f30f286902cf86af836e",
+      "title": "Enterprise AI Intern",
+      "url": "https://go.vansh.nyc/XY",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "4fba68c2a5249265aef934ef1de7635a29cb265c",
+      "title": "DMFI Intern",
+      "url": "https://go.vansh.nyc/Xw",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "26db2bde38e473b1abf737401a24a5ad12277b92",
       "title": "2027 DMFI Quant Developer Intern",

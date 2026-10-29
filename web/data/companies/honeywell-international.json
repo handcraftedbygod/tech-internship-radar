@@ -2,20 +2,25 @@
   "slug": "honeywell-international",
   "name": "Honeywell International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b44ab6444715c34f53d70308d5ffd9b5b12c84ff",
+      "title": "Intern - Embedded Software Engineer",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99122790?utm_source=freehire.me",
+      "location": "Tewkesbury, Gloucestershire, United Kingdom",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "8a9090bc68c9fc07383053824adc0030365133be",
       "title": "Intern – Software Engineer",

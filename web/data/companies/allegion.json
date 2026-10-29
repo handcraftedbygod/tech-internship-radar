@@ -2,17 +2,22 @@
   "slug": "allegion",
   "name": "Allegion",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1332ba34a3f59935604ce4a08ac9df1515c72a1b",
+      "title": "Software Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/Xv",
+      "location": "Golden, CO",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "26669ec521b09fea1a7dae51d5227cb72062d9ad",
+      "title": "Software Engineering Intern, Quality Assurance",
+      "url": "https://go.vansh.nyc/Xt",
+      "location": "Golden, CO",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "5ae5be6760e9fa7e4a7045509183a8c5fc27de0f",
       "title": "Software Operations Engineer Intern",

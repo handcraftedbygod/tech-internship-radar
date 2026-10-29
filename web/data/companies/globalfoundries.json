@@ -2,14 +2,14 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Austin",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 4
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
@@ -48,11 +48,18 @@
     0,
     0,
     0,
-    12,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "022f9b98431b5d4e272fe0cd94e1d0ed2145b55f",
+      "title": "AI Enabled Device Modeling",
+      "url": "https://go.vansh.nyc/YF",
+      "location": "Malta, NY, Essex Junction, VT",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "fe2a7ece525099d0d0f16ed8291760d13f70faf1",
       "title": "New Grad 2027: AI Software Engineer",
@@ -114,13 +121,6 @@
       "title": "New Grad 2027: AI Software Engineer",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
       "location": "Santa Clara, CA, Richardson, TX",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "d2488e8b09bc08e45bef131f8867c64423c7b7d8",
-      "title": "New Grad 2027: AI/ML Systems Engineer",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163",
-      "location": "Richardson, TX",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]

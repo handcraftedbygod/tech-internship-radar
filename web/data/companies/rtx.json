@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 28
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "hw",
@@ -43,11 +43,18 @@
     0,
     1,
     0,
-    27,
+    28,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9478fdcdcc7a6ff32c2fc5e30d42e72dd4fe9562",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/Xu",
+      "location": "Marlborough, MA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "a5d3a7c0a60e89d0ffc723559815e79b40f45aa5",
       "title": "Embedded Software Engineer I",
@@ -109,13 +116,6 @@
       "title": "Software Engineer Co-op",
       "url": "https://go.vansh.nyc/ez",
       "location": "Remote in USA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "b3c0269802c2e61f9853acd685cd56fb59403859",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/eq",
-      "location": "Aurora, CO",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

@@ -2,13 +2,17 @@
   "slug": "vanderlande-industries",
   "name": "Vanderlande Industries",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6662bdf6693352e0f01cf805b581e279160c0e9e",
+      "title": "Junior Software Engineer – AI Vision / Computer Vision",
+      "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/Barcelona-Spain/Junior-Software-Engineer---AI-Vision---Computer-Vision_JR37540-2?utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "4aad9118303cad869c505de86c6dd49bbf7476e6",
       "title": "Junior Software Engineer Emulation",

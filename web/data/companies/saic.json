@@ -2,21 +2,21 @@
   "slug": "saic",
   "name": "SAIC",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea94ed9a02d8234f7e83182c3d6799127a2f8666",
+      "title": "Software Engineer Associate",
+      "url": "https://go.vansh.nyc/XG",
+      "location": "Crane, IN",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "bf1970dd0ac2e692080221214d3f66157e871fad",
       "title": "Software Test Engineer",

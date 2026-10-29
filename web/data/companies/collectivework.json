@@ -2,26 +2,26 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     4,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc464cb46e0e299434d413a2b4a3914720fe28a9",
+      "title": "Junior Développeur Fullstack IA (H/F) - Freelance",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODI5NjIwNyA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "ffcd5b5cdba3c9b73fcc84875c23bb8c1f8d54c8",
+      "title": "Data Engineer Junior - IBM TM1 / PAX - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODI5NjI3MyA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "727316b9c16ef89f0428c87ff3fdc07607d2afd8",
       "title": "Data Engineer Databricks Junior  - CDI (H/F)",
@@ -94,20 +108,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzAzMDMwMCA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "21b4ed2b30c31b39f146c7d2b60820f02c0d35c2",
-      "title": "SRE Engineering Platform Devops Junior H/F - Freelance",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/Njk2MTg5OSA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "84de2ec03e6b785eb9ea10215ca2c1153502138f",
-      "title": "SRE Engineering Platform Devops Junior H/F - Freelance",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/Njk2MTg5OSA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

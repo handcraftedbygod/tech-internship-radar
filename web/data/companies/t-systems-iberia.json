@@ -2,14 +2,14 @@
   "slug": "t-systems-iberia",
   "name": "T-Systems Iberia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Madrid",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 3
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     },
     {
       "id": "biz",
@@ -43,11 +43,18 @@
     0,
     4,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b400075c031eedef662ea5ba9dd9ff4952524214",
+      "title": "Junior Cloud Engineer",
+      "url": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000158011444?utm_source=freehire.me",
+      "location": "Sevilla, Andalusia",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "5597f038bca753f74bfab00da5548a93ccf26e87",
       "title": "Junior Data Engineer — GCP, PySpark & AI (Hybrid)",

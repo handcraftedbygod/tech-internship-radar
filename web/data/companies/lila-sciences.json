@@ -2,14 +2,14 @@
   "slug": "lila-sciences",
   "name": "Lila Sciences",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43f0188a9d9ee8f8ef3daf95edc4bbd2742dca86",
+      "title": "Structuring Scientific Data for Discovery Co-op",
+      "url": "https://go.vansh.nyc/XH",
+      "location": "Cambridge, MA, San Francisco, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "21f7cccd858b264de18e78e3a22e163928db35ba",
       "title": "Robot Perception & State Estimation Co-op",

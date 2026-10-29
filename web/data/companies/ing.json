@@ -1,18 +1,18 @@
 {
   "slug": "ing",
-  "name": "ing",
+  "name": "ING",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
-      "hub": "Katowice",
-      "count": 1
+      "hub": "Amsterdam",
+      "count": 2
     },
     {
-      "hub": "Amsterdam",
+      "hub": "Katowice",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5841966ef6000d5a9a819ea2b583b99a3af8289e",
+      "title": "INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES",
+      "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/INTERNSHIP-SOFTWARE-ENGINEER---ING-MORTGAGES_REQ-10123832?utm_source=freehire.me",
+      "location": "HBP (Amsterdam - Haarlerbergpark)",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "103288f30bbe8a7930f83b9456d051cdf7a8f555",
       "title": "Junior Data Scientist",

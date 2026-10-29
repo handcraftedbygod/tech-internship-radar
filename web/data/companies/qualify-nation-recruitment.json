@@ -2,14 +2,14 @@
   "slug": "qualify-nation-recruitment",
   "name": "Qualify Nation Recruitment",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 15.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     1,
     0,
-    12,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b672400ab9e585263f1054e0bdabdc7b1848067d",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/ingenieur-devops-cloud/trainee-devops-engineer-no-experience-needed-ref-7501-69?utm_source=freehire.me",
+      "location": "Plymouth, Royaume-Uni",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "9b702bcee60dee54218ed67681c3a93f82a6bd16",
+      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
+      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57495800?utm_source=freehire.me",
+      "location": "Plymouth",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "7bd1a52b4eb984d36a3a0db8c30ba3b1c8aabf43",
       "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
@@ -93,20 +107,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57464598?utm_source=freehire.me",
       "location": "Leicester",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "7e6cfad6ced94feaa4b9f548d3967ac03eebf3ab",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57451868?utm_source=freehire.me",
-      "location": "Plymouth",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "9a1d43c9e4a8d6645deee6974a07d8a457cc9b4b",
-      "title": "Trainee DevOps Engineer | No experience needed (Ref: 7501)",
-      "url": "https://www.reed.co.uk/jobs/trainee-devops-engineer--no-experience-needed-ref-7501/57447052?utm_source=freehire.me",
-      "location": "Nottingham",
-      "firstSeenAt": "2026-10-14T09:19:46.299Z"
     }
   ]
 }

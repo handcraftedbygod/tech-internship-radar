@@ -4,8 +4,8 @@
   "tier": "elite",
   "currentOpenings": 14,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 16.8,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 15.8,
   "topLocations": [
     {
       "hub": "Munich",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Paris",
@@ -42,7 +42,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,18 @@
     0,
     0,
     2,
-    18,
+    19,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33de78615c3e5bb7a45a78d75482c1acd3dd46e6",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/Yx",
+      "location": "Beaverton, OR",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "e551be3e34587a16859a1e2f91d1d37bd4d96a69",
       "title": "SoC Physical Design Engineer, Place and Route",
@@ -120,13 +127,6 @@
       "id": "04011ef78a34923b0c06b8635ef7a315d52fc164",
       "title": "Aeon Modeling Software Intern",
       "url": "https://jobs.apple.com/en-us/details/200690119/aeon-modeling-software-intern?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "9d8e1fd9544e5a34ae45e43ddf7d291925efca6f",
-      "title": "Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE",
-      "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte?utm_source=freehire.me",
       "location": "Munich",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }

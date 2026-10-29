@@ -1,0 +1,45 @@
+{
+  "slug": "workday",
+  "name": "Workday",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-29T10:44:48.298Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a2409b1216cc88925779f4d584735a90b2147693",
+      "title": "Analytics Engineer Intern",
+      "url": "https://go.vansh.nyc/Y6",
+      "location": "Pleasanton, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    }
+  ]
+}

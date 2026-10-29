@@ -2,14 +2,14 @@
   "slug": "marvell",
   "name": "Marvell",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Toronto",
@@ -26,6 +26,11 @@
       "id": "design",
       "label": "Design",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "35fc014498a82029383744a5bd99bdd4c5cdb766",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/Yp",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "58f13e05e887601df0ce1f3354557da5c3630101",
       "title": "Design Verification Intern",

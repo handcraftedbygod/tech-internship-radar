@@ -2,21 +2,21 @@
   "slug": "glean",
   "name": "Glean",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4e32b8172f3823d4ef5d90858121bece50dbaf9d",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/XJ",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "c4337ea095945140d8dbaa9cd4017d62d2c46e57",
       "title": "Software Engineer Intern",

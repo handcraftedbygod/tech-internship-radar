@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b691b0165739211239786e3ac4a1a563c485de14",
+      "title": "New Grad: Routing/IP Software Engineer",
+      "url": "https://go.vansh.nyc/Ym",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "8165ec5989d35564ebe084943b10d89e27defbbc",
       "title": "Software Engineer (Security)",

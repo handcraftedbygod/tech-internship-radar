@@ -2,18 +2,18 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 15,
+  "totalPostings": 18,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Munich",
@@ -22,24 +22,24 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 7
+    },
+    {
       "id": "design",
       "label": "Design",
       "count": 6
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 6
+      "id": "hw",
+      "label": "Hardware",
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
       "count": 2
-    },
-    {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -52,11 +52,32 @@
     0,
     1,
     0,
-    14,
+    17,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5949cfb4da8b363333dd2d1df6d5798abf9a691e",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/XX",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "c160f0035c23f8257a6610a8a5f3ff83594b77db",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/XW",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "7355adf129bc7b829938fd9c2e626838a009ad88",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/XF",
+      "location": "San Jose, CA, Folsom, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "1c81bfa80763975e8b593a87c8dfe16e4b7396d2",
       "title": "HBM Data Scientist Intern",
@@ -105,27 +126,6 @@
       "url": "https://go.vansh.nyc/bW",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "8683ff565518a8965e17f95401f195d65c6ed8b1",
-      "title": "Design Engineer Intern, HBM",
-      "url": "https://go.vansh.nyc/bq",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "0b6ccee5073e0be95df4764f1f8120e8a731d462",
-      "title": "Design Engineer Intern, Pathfinding",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
-      "location": "San Jose, CA, Folsom, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "1265c3d665b9dcfecb7ac4cff70e70bce5b967bd",
-      "title": "Machine Learning Engineering Intern",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

@@ -1,22 +1,26 @@
 {
   "slug": "dsm-firmenich",
-  "name": "Dsm Firmenich",
+  "name": "dsm-firmenich",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     2,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "459b0cb96c2d3595c03d12ca8a1598b2532ff0b1",
+      "title": "Internship Finance Data Science & Margin Analytics",
+      "url": "https://jobs.dsm-firmenich.com/careers/job/562949978713403?utm_source=freehire.me",
+      "location": "Maastricht, Netherlands",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "27654ff4060998a17635a03ef7c7a75c55defea7",
       "title": "Trainee Data Scientist / Industrial Trainee Data Analyst",

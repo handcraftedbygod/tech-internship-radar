@@ -2,18 +2,18 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 58,
+  "totalPostings": 61,
   "avgPostingDurationDays": 35.6,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 31
+      "count": 33
     },
     {
       "hub": "Munich",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "New York",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 27
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ai",
@@ -65,11 +65,32 @@
     27,
     10,
     17,
-    4,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d7fc37dfc72477d3768eaa3b6f271802f3be3e4",
+      "title": "Strategy & Operations Graduated Internship (12 months)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "5517e71f3917bf276aeeec1cab1fd5df62bec3ba",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian speaking)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "addebbe2f66b64027089f31fb6a7fbab9f11d6e9",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "77aea3b2bf01aecd475c2b8f4db211d7bf610e05",
       "title": "Intern Technology Consultant - Data & AI",
@@ -118,27 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/8005202003?gh_jid=8005202003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "a38a89b34392f4cb569e43acc7b163b988448f5d",
-      "title": "Intern Deal Operations and Analysis",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7996939003?gh_jid=7996939003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "98b26d784a8eadba086c6a797527e352079e2f34",
-      "title": "Technology & Management Consulting Intern (Value Engineering - UKI Market)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8002255003?gh_jid=8002255003",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "8289d3811f77e697811f9014c9c98548665803dd",
-      "title": "Field Marketing (DACH Region) Working Student",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8002256003?gh_jid=8002256003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }
   ]
 }

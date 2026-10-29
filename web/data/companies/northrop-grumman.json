@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 15,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 18,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 20
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    18,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56a202e0ccc791e2d15d4218f3a558d7d53cb224",
+      "title": "Associate Software Engineer, Pathways Program",
+      "url": "https://go.vansh.nyc/Yn",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "f4dc65777daaa6e4c61c7b865adfe6a657f53071",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/Xs",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "74b05827b356baf4181cab33a436a2c65f939ef6",
       "title": "New Grad 2027: Associate Software Engineer",
@@ -94,20 +108,6 @@
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
       "location": "Dulles, VA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "83b76e71395e67f799c07c1a7f21c0f9dc0c6e9b",
-      "title": "New Grad 2027: Associate/Software Engineer Pathways",
-      "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
-      "location": "Linthicum, MD",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "8a185e64d97ceef5814615b88c4bf78413cca709",
-      "title": "Cyber Software Engineer Intern",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
-      "location": "San Antonio, TX",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

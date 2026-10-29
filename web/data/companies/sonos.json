@@ -2,25 +2,25 @@
   "slug": "sonos",
   "name": "Sonos",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Seattle",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8dc50685a9b2d1aa8c18e6da6fc1f3f73b1481ac",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Y1",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "68fad049f4943ecb810ac8fe1e93291e13e86bd7",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/XB",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "be3401329935a4784796ba13ae9a6e1cacd601e2",
       "title": "Data Quality Intern",

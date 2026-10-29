@@ -2,21 +2,21 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 16.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     4,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "311b079895e4fb94962ce3ff44386735d42cb99e",
+      "title": "Junior Java Software Engineer",
+      "url": "https://careers.epam.com/en/vacancy/junior-java-software-engineer-bltgrizmnsygap5nzz6_en?utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "e28a18ec456ff0a98735fc469c6f26fb6fd761b0",
       "title": "Junior Java Developer",

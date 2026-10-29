@@ -2,14 +2,14 @@
   "slug": "sierra",
   "name": "Sierra",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "576d4be89c8c182c2ca76169a0e62d17f17ae57c",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/software-engineer-agent-new-grad-2027-london-205693",
+      "location": "London",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "61060dbf02bd277210bc78b4cf1fd620cbc2fc01",
       "title": "Software Engineer, Agent (New Grad 2027)",
@@ -98,13 +105,6 @@
       "id": "350f530c18e77404db569db8d03b7dc063b94969",
       "title": "Intern, Agent Development (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "0bf9531226d56f8376ba7146cc54b836e75b7b39",
-      "title": "Software Engineer, Agent (New Grad 2027)",
-      "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
       "location": "San Francisco, CA",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }

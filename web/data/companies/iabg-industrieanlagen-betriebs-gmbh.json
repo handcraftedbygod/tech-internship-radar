@@ -2,14 +2,14 @@
   "slug": "iabg-industrieanlagen-betriebs-gmbh",
   "name": "IABG Industrieanlagen Betriebs-GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -38,11 +38,25 @@
     0,
     0,
     5,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2770679eda76461df1b542438d2d33e54c38ec22",
+      "title": "(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003925631-S?utm_source=freehire.me",
+      "location": "Dresden, SACHSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "59f76dc207a5c493b06b1fabf880d310aed28573",
+      "title": "(Junior) Data Analyst mit Schwerpunkt militärische Luftfahrzeuge (m/w/d) (Data-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzkyNTYzMS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "3da0ee244058e503c281ef8f2ed408e8c9614589",
       "title": "(Junior) Software Engineer – Distributed Simulation & Interoperability (Softwareentwickler/in)",

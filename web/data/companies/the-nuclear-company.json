@@ -2,20 +2,25 @@
   "slug": "the-nuclear-company",
   "name": "The Nuclear Company",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c525ca71432e96dfc97f1a0473f3b0fb5f064f94",
+      "title": "Security Engineer Intern",
+      "url": "https://go.vansh.nyc/XL",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "302ab537144a2cdb4590390cdb07a566dd3af21c",
       "title": "AI Applied Research Intern",

@@ -2,21 +2,21 @@
   "slug": "hootsuite",
   "name": "Hootsuite",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 27.2,
   "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 2
+    },
     {
       "hub": "Vancouver",
       "count": 1
     },
     {
       "hub": "London",
-      "count": 1
-    },
-    {
-      "hub": "Toronto",
       "count": 1
     }
   ],
@@ -30,6 +30,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -42,11 +47,18 @@
     0,
     3,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "48c9d7d1a1b35581f88321249f116e17bec0bae2",
+      "title": "Junior Cyber Incident Response Analyst",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8331544",
+      "location": "Vancouver, British Columbia, Canada; Toronto, Ontario, Canada; Ottawa, Ontario, Canada",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "a11663c0a2ace2a36dfb49d48ebcd7e60a8e5632",
       "title": "Junior IT Operations Administrator",

@@ -2,17 +2,26 @@
   "slug": "hp",
   "name": "HP",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 5,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
       "count": 5
+    },
+    {
+      "hub": "San Francisco",
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -21,11 +30,6 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 1
     }
   ],
@@ -39,11 +43,32 @@
     0,
     0,
     1,
-    4,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c1f90d003ce904b0172d1c20e0d0e44e7e927dd",
+      "title": "Software Product Security Intern, HP IQ",
+      "url": "https://go.vansh.nyc/YE",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "be73d100031530dd74057ade43ce00508516f23c",
+      "title": "Software Quality Assurance Intern",
+      "url": "https://go.vansh.nyc/YA",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "7b5fd0daaa31d338279c3438c6aee623c9c7ff6a",
+      "title": "Software Systems Intern, IQ",
+      "url": "https://go.vansh.nyc/Yz",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "18bdaa57b667c2785da5ef1797094c55923c5c4c",
       "title": "Data Science Intern",

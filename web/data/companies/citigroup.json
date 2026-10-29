@@ -2,11 +2,15 @@
   "slug": "citigroup",
   "name": "Citigroup",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Warsaw",
       "count": 1
@@ -20,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +42,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d14dfaccbbf5103f9b8a2b9eae069a44bf2e86ae",
+      "title": "Junior Fullstack Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__586267868__7082?geoID=7&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
+    {
+      "id": "d1c72d447c6eba68eeb69e2f7a48d3896a16ab9c",
+      "title": "Junior Full-Stack Developer: Java & Angular",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__586267273__7082?geoID=7&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "31dcc61d791555e3af67f886fdaf914a3b290153",
       "title": "Junior Software Engineer - Generative AI Platforms",

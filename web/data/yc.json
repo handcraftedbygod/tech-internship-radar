@@ -184,7 +184,7 @@
     },
     {
       "name": "Mesmer",
-      "oneLiner": "The operating system for the 100x Engineering Team",
+      "oneLiner": "We build software factories for engineering teams",
       "batch": "Spring 2025",
       "location": "Berlin, Berlin, Germany",
       "url": "https://www.ycombinator.com/companies/mesmer"
@@ -212,6 +212,13 @@
     }
   ],
   "northAmerica": [
+    {
+      "name": "HillStar",
+      "oneLiner": "Agents to help utilities make better buying decisions.",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/hillstar"
+    },
     {
       "name": "Helios Intelligence",
       "oneLiner": "At-home molecular body test: 1,000+ biomarkers from a drop of blood",
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/waddle-labs"
-    },
-    {
-      "name": "Hubble",
-      "oneLiner": "AI-native retrieval engine for medical records",
-      "batch": "Summer 2026",
-      "location": "Seattle, WA, USA",
-      "url": "https://www.ycombinator.com/companies/hubble-ai"
     }
   ]
 }

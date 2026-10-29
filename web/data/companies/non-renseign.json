@@ -2,21 +2,21 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     4,
     2,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1a95b3874b982d4f8ea8c5c18e03a9482377fc5f",
+      "title": "Développeur / Développeuse Fullstack Junior - CDI (Lyon) (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODMwMzcwNyA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "a4820868414395cdd71aae43707ca4bd7a4b72c7",
       "title": "Développeur / Développeuse Fullstack Junior - CDI (Lyon) (H/F)",

@@ -2,21 +2,21 @@
   "slug": "artefact",
   "name": "Artefact",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 16.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -34,11 +34,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a5f34f12254f39e05393953aa05298081260171",
+      "title": "Data Scientist Intern - Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefact/data-scientist-intern-paris-9th-arrondissement-of-paris-75009-paris-108149",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+    },
     {
       "id": "4d1d0a72e14ffdeedf5603ddace2ad0635cefa08",
       "title": "Intern Data Analyst - Paris ",
