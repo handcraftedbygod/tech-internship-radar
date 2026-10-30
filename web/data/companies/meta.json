@@ -2,21 +2,21 @@
   "slug": "meta",
   "name": "Meta",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1232fbc8a9b497af32b98b0337de0c4e94209a8f",
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/profile/job_details/1847186939636437/?utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "ca51b671022c94b4246fd251a87ea1b85759f5f7",
       "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",

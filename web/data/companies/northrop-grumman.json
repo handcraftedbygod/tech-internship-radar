@@ -4,24 +4,24 @@
   "tier": null,
   "currentOpenings": 15,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 20,
+  "totalPostings": 22,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 22
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    20,
+    22,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "beb25b4b52547ba9504c4ad39cc820c656553df8",
+      "title": "Associate Data Scientist",
+      "url": "https://go.vansh.nyc/10d",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "88d340514c9188ccf9358e7c09d4215fab2f08a9",
+      "title": "New Grad 2027: Associate Cyber Software Engineer",
+      "url": "https://go.vansh.nyc/Zv",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "56a202e0ccc791e2d15d4218f3a558d7d53cb224",
       "title": "Associate Software Engineer, Pathways Program",
@@ -94,20 +108,6 @@
       "url": "https://go.vansh.nyc/Ay",
       "location": "Linthicum, MD",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "5f7a7d02a2019cd85c7435bcfc0ac17c67729762",
-      "title": "Systems Engineering Intern, AI Experience",
-      "url": "https://go.vansh.nyc/f7",
-      "location": "Dulles, VA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "c6e6267b3cb1e58ce46a86d099b7a1c95c233d16",
-      "title": "Systems Engineering Intern, AI Experience",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
-      "location": "Dulles, VA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

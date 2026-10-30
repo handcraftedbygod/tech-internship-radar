@@ -2,21 +2,21 @@
   "slug": "two-six-technologies",
   "name": "Two Six Technologies",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d20eb3f90b6eb4f08943e1472cb4f22a89dea0a1",
+      "title": "Systems Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Z3",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "48648725ab52dcab2c5af85d58f899901c8a5c2d",
       "title": "Research Intern",

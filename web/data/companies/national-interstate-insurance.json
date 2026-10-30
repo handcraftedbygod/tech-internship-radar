@@ -2,21 +2,21 @@
   "slug": "national-interstate-insurance",
   "name": "National Interstate Insurance",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 6,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,11 +39,39 @@
     0,
     0,
     0,
-    6,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b665ae2684cb7dcd6ba5e164777074903150b4fa",
+      "title": "DevOps Developer Intern",
+      "url": "https://go.vansh.nyc/Zr",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "2eaf1b8d212c81fb7c981eb7e7ea1fe3414d9c8d",
+      "title": "IT Data Intern",
+      "url": "https://go.vansh.nyc/Zf",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "0e8a455ecfc38f92fafd009496b48d88b174f7be",
+      "title": "Content Publishing Developer Intern",
+      "url": "https://go.vansh.nyc/Ze",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "7949fb2e85acdc8985e511f1fc088f3cd6c6acc0",
+      "title": "Extreme Programming Engineer Intern",
+      "url": "https://go.vansh.nyc/Zd",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "d7fced3c60dcf01b704be30a9b6d91e28c22987f",
       "title": "Claims Lab Developer Intern",

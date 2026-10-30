@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 3
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "product",
       "label": "Product",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -39,11 +39,18 @@
     0,
     0,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff57f08a49456a9c99d84838849beb8d49a81369",
+      "title": "Associate Product Manager Intern",
+      "url": "https://go.vansh.nyc/Zz",
+      "location": "Overland Park, KS",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "2f3b61bab76a93a7bafa6d147a57fe7cc0b7c8e4",
       "title": "Associate Technical Product Manager Intern",

@@ -2,35 +2,39 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 22,
+  "currentOpenings": 25,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": null,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 19
     },
     {
       "hub": "Vancouver",
       "count": 5
+    },
+    {
+      "hub": "Toronto",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 9
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 6
     },
     {
       "id": "hw",
       "label": "Hardware",
       "count": 6
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 5
     },
     {
       "id": "design",
@@ -48,11 +52,39 @@
     0,
     0,
     0,
-    22,
+    26,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9fe9fe8bb4c021e737b2296154a8b76a63159d11",
+      "title": "Soft IP Engineer Co-op",
+      "url": "https://go.vansh.nyc/10m",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "26b12dfa911850e17e7959bed5d8281d7d92766a",
+      "title": "Deep Learning Research Intern, Embodied AI Systems",
+      "url": "https://go.vansh.nyc/ZM",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "3fb1b473e81693085f75a5dcf19d1793a973eea2",
+      "title": "AI Software Systems Co-op",
+      "url": "https://go.vansh.nyc/ZL",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "306c51d8da30608c7bf67b58ba6cb145c440c6c1",
+      "title": "AI Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/ZK",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "e9f6a8edafb79a5f81c95cbe2ef356a230c3db5a",
       "title": "Deep Learning Research Intern",
@@ -93,34 +125,6 @@
       "title": "Camera Design Implementation Intern",
       "url": "https://go.vansh.nyc/es",
       "location": "Vancouver, BC, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "31ad4643937ec30035cbc09a999551f462a3424b",
-      "title": "Applied AI Engineer Intern",
-      "url": "https://go.vansh.nyc/el",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "234949b88cc7814a9a68fdb1ded8ba19f17ee3ea",
-      "title": "Camera Design Implementation Intern",
-      "url": "https://go.vansh.nyc/ek",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "9de72ac9f6220bfef956444f40cc1c358c4712ab",
-      "title": "Edge AI and Display Hardware Architecture Intern",
-      "url": "https://go.vansh.nyc/dY",
-      "location": "Markham, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "e02d99bddf204e7949dee8464508f90adabc8004",
-      "title": "Display Systems Engineer Intern",
-      "url": "https://go.vansh.nyc/dX",
-      "location": "Markham, ON, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

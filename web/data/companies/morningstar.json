@@ -2,21 +2,25 @@
   "slug": "morningstar",
   "name": "morningstar",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Madrid",
       "count": 3
+    },
+    {
+      "hub": "Chicago",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ba8718bc9fc16456ec61d8ca0cffce11c72bbe0",
+      "title": "Associate Software Engineer, Central Tech AI",
+      "url": "https://go.vansh.nyc/10f",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "f29b3624d824b68e710015c522dfeba0fb166529",
       "title": "Data Analyst Intern (Italian Speaker)",

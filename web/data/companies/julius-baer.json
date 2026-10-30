@@ -2,14 +2,18 @@
   "slug": "julius-baer",
   "name": "Julius Baer",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Zurich",
       "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +38,18 @@
     0,
     1,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fdb63eb39df0e4041883ae68ee4048f5311801a8",
+      "title": "Junior Frontend Engineer 100% (f/m/d)",
+      "url": "https://juliusbaer.wd3.myworkdayjobs.com/External/job/Madrid/Junior-Frontend-Engineer-100---f-m-d-_r-20206-1?utm_source=freehire.me",
+      "location": "Madrid",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "927ef8d325705328943cb036756556c638b58c01",
       "title": "Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme]",

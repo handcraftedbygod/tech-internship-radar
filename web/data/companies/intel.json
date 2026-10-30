@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 22,
+  "totalPostings": 23,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -47,11 +47,18 @@
     0,
     0,
     0,
-    22,
+    23,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fdf71086b510d4a8c9d346ec256e98fbce5af589",
+      "title": "EDA Tools Software Engineer",
+      "url": "https://go.vansh.nyc/Zb",
+      "location": "Hillsboro, OR",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "827ce52a41e0191204865e963ef6a02b5298e66e",
       "title": "IP Design Verification Engineer",
@@ -112,13 +119,6 @@
       "id": "bef5d957624dab5721fd0c7c5d819d9c5f0063c4",
       "title": "System Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "61d2cd562698773eabfe657afe4b9fdf7b440e25",
-      "title": "Intern Software QA Test Engineer",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }

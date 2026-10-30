@@ -4,15 +4,15 @@
   "tier": "elite",
   "currentOpenings": 14,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 21,
-  "avgPostingDurationDays": 15.8,
+  "totalPostings": 22,
+  "avgPostingDurationDays": 15.5,
   "topLocations": [
     {
-      "hub": "Munich",
-      "count": 7
+      "hub": "Other",
+      "count": 8
     },
     {
-      "hub": "Other",
+      "hub": "Munich",
       "count": 7
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "design",
@@ -55,11 +55,18 @@
     0,
     0,
     2,
-    19,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b74e3687a68068a9ab2db49849e4a2b15f3f8a3a",
+      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+      "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
+      "location": "Aachen",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "33de78615c3e5bb7a45a78d75482c1acd3dd46e6",
       "title": "Design Verification Engineer Intern",
@@ -122,13 +129,6 @@
       "url": "https://jobs.apple.com/en-us/details/200690139/internship-software-engineering?utm_source=freehire.me",
       "location": "Munich",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "04011ef78a34923b0c06b8635ef7a315d52fc164",
-      "title": "Aeon Modeling Software Intern",
-      "url": "https://jobs.apple.com/en-us/details/200690119/aeon-modeling-software-intern?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

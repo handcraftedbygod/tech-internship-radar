@@ -1,6 +1,13 @@
 {
   "europe": [
     {
+      "name": "Lucebox",
+      "oneLiner": "Self-improving inference workstation",
+      "batch": "Winter 2027",
+      "location": "Milan, Lombardy, Italy",
+      "url": "https://www.ycombinator.com/companies/lucebox"
+    },
+    {
       "name": "CONUS",
       "oneLiner": "The AI knowledge layer for medical devices",
       "batch": "Fall 2026",
@@ -170,7 +177,7 @@
     },
     {
       "name": "Hera",
-      "oneLiner": "AI Motion Designer",
+      "oneLiner": "The AI-native creative canvas",
       "batch": "Summer 2025",
       "location": "Berlin, Berlin, Germany",
       "url": "https://www.ycombinator.com/companies/hera-video"
@@ -202,13 +209,6 @@
       "batch": "Spring 2025",
       "location": "Paris, Île-de-France, France",
       "url": "https://www.ycombinator.com/companies/lucis"
-    },
-    {
-      "name": "Parsewise",
-      "oneLiner": "Multi-document processing for your risk teams, AI agents, pipelines",
-      "batch": "Spring 2025",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.ycombinator.com/companies/parsewise"
     }
   ],
   "northAmerica": [
@@ -225,6 +225,20 @@
       "batch": "Fall 2026",
       "location": "Boston, MA, USA",
       "url": "https://www.ycombinator.com/companies/helios-intelligence"
+    },
+    {
+      "name": "Wingman Law",
+      "oneLiner": "AI-native personal injury law firm",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/wingman-law"
+    },
+    {
+      "name": "Super Powers Mobility (SPM)",
+      "oneLiner": "The highest performance modular battery packs for mobility/vehicles",
+      "batch": "Fall 2026",
+      "location": "Pittsburgh, PA, USA",
+      "url": "https://www.ycombinator.com/companies/super-powers-mobility-spm"
     },
     {
       "name": "Voyager",
@@ -248,11 +262,11 @@
       "url": "https://www.ycombinator.com/companies/rhem-labs"
     },
     {
-      "name": "Volaren Inc.",
-      "oneLiner": "The investing agent that comes to you",
+      "name": "Volaren",
+      "oneLiner": "The personal investing agent that comes to you",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/volaren-inc"
+      "url": "https://www.ycombinator.com/companies/volaren"
     },
     {
       "name": "Inflection Space Systems",
@@ -407,20 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/lamb-labs"
-    },
-    {
-      "name": "Synapse Semiconductor",
-      "oneLiner": "New semiconductors that merge compute and vision",
-      "batch": "Summer 2026",
-      "location": "Durham, NC, USA",
-      "url": "https://www.ycombinator.com/companies/synapse-semiconductor"
-    },
-    {
-      "name": "Waddle Labs",
-      "oneLiner": "LLMs that control robots",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/waddle-labs"
     }
   ]
 }

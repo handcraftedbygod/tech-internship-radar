@@ -2,21 +2,25 @@
   "slug": "t-systems-international",
   "name": "T-Systems International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Madrid",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -34,11 +38,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4e55360f26cb16067eb5c1ca615642496ad46eb",
+      "title": "Junior Cloud Engineer (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000158333429-junior-cloud-engineer-m-f-d-?utm_source=freehire.me",
+      "location": "Granada, Reus & Sevilla, es",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "a53ddd4bf2a132dc7e1b44afded494b24d971713",
       "title": "Hybrid Junior Data Engineer: GCP, PySpark & AI",

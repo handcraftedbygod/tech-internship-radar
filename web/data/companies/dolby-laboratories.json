@@ -2,21 +2,21 @@
   "slug": "dolby-laboratories",
   "name": "Dolby Laboratories",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a687dd603a14ee2cbf31971e2db5250ad0624d03",
+      "title": "Intern, Software Engineering (November 2026)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__33498625__7143?geoID=3028&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "298f181a75a126726847f07b346f500f176b6a41",
       "title": "Intern, Software Engineering",

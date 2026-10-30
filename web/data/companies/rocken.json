@@ -1,0 +1,56 @@
+{
+  "slug": "rocken",
+  "name": "ROCKEN",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-30T10:44:41.092Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Zurich",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7b3fef122013ab6238e9af5960573af28ff6c229",
+      "title": "Junior Cloud & DevOps Engineer (m/w/d)",
+      "url": "https://www.xing.com/jobs/zuerich-junior-cloud-devops-engineer-158866797?utm_source=freehire.me",
+      "location": "Zürich, Kanton Zürich",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "02da87bf29bbb8d6dda4ac89ea9efaacbc63501e",
+      "title": "Junior Platform Engineer / DevOps (m/w/d)",
+      "url": "https://www.xing.com/jobs/luzern-junior-platform-engineer-devops-158866807?utm_source=freehire.me",
+      "location": "Luzern, Kanton Luzern",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    }
+  ]
+}

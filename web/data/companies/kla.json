@@ -2,21 +2,21 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 8.2,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 12
     },
     {
       "id": "design",
@@ -39,11 +39,32 @@
     0,
     0,
     0,
-    12,
+    15,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38dfc7b96301a217966cf5cb9971badbd64c63ce",
+      "title": "System Software Engineer - Distributed Computing (Master's)",
+      "url": "https://go.vansh.nyc/YT",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "e98b7d3cda5c907f7e1742daea72dfa6ef1e5849",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/Zl",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "3123680713cac8bfa4e376c29667e793bb743fab",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/YS",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "2546ce20ad9f0a1eeba0babd8d79bf1a0371b49f",
       "title": "Software Engineer Intern, C++, Linux",
@@ -92,27 +113,6 @@
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
       "location": "Remote",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "14ae5d95a68797c6ae5818f36165784ef066be8f",
-      "title": "Computer Vision/Machine Learning Intern",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "b4d62d95422dfde71f54580c93738c849793019d",
-      "title": "Software Engineer Intern, AI",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
-      "location": "Ann Arbor, MI",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "f1661912cd9c7f285a5e0b749a818553d1cbb375",
-      "title": "Software Engineering Intern",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
-      "location": "Ann Arbor, MI",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

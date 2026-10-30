@@ -2,21 +2,26 @@
   "slug": "regeneron-pharmaceuticals",
   "name": "Regeneron Pharmaceuticals",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45f70221846b9a2a05109a22afd5edfa298960e2",
+      "title": "IT, Digital Enablement & Information Security Intern",
+      "url": "https://go.vansh.nyc/Zk",
+      "location": "Tarrytown, NY, Sleepy Hollow, NY",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "947ea14488cfa026191683331f93a0dd98fbd2e5",
+      "title": "Genomics, Computational Biology & Translational Data Science Intern",
+      "url": "https://go.vansh.nyc/Zj",
+      "location": "Tarrytown, NY, Sleepy Hollow, NY",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "e2c54db1fb0fba02ea9ea60de45478239874f39e",
       "title": "AI/ML & Data Engineering Intern",

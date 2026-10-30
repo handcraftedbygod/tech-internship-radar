@@ -2,14 +2,14 @@
   "slug": "sanofi",
   "name": "Sanofi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     1,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b62ab1179097ebd60eaa3f88be83f9c5b612b886",
+      "title": "Advanced Analytics Intern",
+      "url": "https://go.vansh.nyc/104",
+      "location": "Cambridge, MA, Morristown, NJ",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "eab73db9fe0bb27918ddade1a71ac45866654685",
       "title": "internship 6 months data science",

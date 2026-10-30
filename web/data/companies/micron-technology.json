@@ -2,14 +2,14 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "San Francisco",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "design",
+      "label": "Design",
       "count": 7
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 6
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 7
     },
     {
       "id": "hw",
@@ -52,11 +52,18 @@
     0,
     1,
     0,
-    17,
+    18,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "830874876b5d2e83d7c7e6243606a90fcfafbbed",
+      "title": "ASIC Digital Design Intern",
+      "url": "https://go.vansh.nyc/Z8",
+      "location": "Minneapolis, MN",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "5949cfb4da8b363333dd2d1df6d5798abf9a691e",
       "title": "Embedded Software Engineering Intern",
@@ -118,13 +125,6 @@
       "title": "SMAI Probe AI Engineer Intern",
       "url": "https://go.vansh.nyc/cE",
       "location": "Boise, ID",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "068f110d07c8092909b9b91a9016e909b2d55409",
-      "title": "HBM Design Engineer Intern - HBM",
-      "url": "https://go.vansh.nyc/bW",
-      "location": "Richardson, TX",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

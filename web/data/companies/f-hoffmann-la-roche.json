@@ -2,13 +2,17 @@
   "slug": "f-hoffmann-la-roche",
   "name": "F. Hoffmann-La Roche AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +38,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "109cfee1e9ac315bcf615de05d07a60650379bda",
+      "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__47352349__7095?geoID=156&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Rotkreuz, Switzerland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "11a8a652f3c00cab09b5e9c5c15ace4c04bd2c0b",
       "title": "Junior Data Platform Software Engineer",

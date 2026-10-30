@@ -2,14 +2,14 @@
   "slug": "philips",
   "name": "Philips",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Amsterdam",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     },
     {
@@ -48,11 +48,18 @@
     0,
     1,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef5172181cc83efcd809bc6906936f5a7908ef23",
+      "title": "Data Engineer Co-op, Biocompatibility",
+      "url": "https://go.vansh.nyc/ZZ",
+      "location": "Murrysville, PA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "1662f37631c9a373509e171e1288bf4bc917a3b3",
       "title": "Embedded Test Engineer Co-op",

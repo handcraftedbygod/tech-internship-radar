@@ -2,21 +2,21 @@
   "slug": "danaher",
   "name": "Danaher Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a75bee3e479a47b37868a1becc64ed509e03c41b",
+      "title": "Application Integration Developer Intern",
+      "url": "https://go.vansh.nyc/ZF",
+      "location": "Brea, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "b4d8ead008a0b43075fcb37fc9b8e4760b79359d",
       "title": "Supply Chain AI Co-op",

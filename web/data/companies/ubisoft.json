@@ -2,20 +2,25 @@
   "slug": "ubisoft",
   "name": "Ubisoft",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4908fba95fd0b8236271e1cb01290b36b1fedcc7",
+      "title": "Marketing & Data Analytics Assistant – Internship (6-month) March 2026 (W/M/NB)",
+      "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158509899-marketing-data-analytics-assistant-internship-6-month-march-2026-w-m-nb-?utm_source=freehire.me",
+      "location": "Paris, IDF, fr",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "3906ffca2091fc5d95b7cad26d020a8e4e2254ec",
       "title": "Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)",

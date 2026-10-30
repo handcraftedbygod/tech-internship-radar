@@ -2,10 +2,10 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 28,
+  "currentOpenings": 29,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 40,
-  "avgPostingDurationDays": 11.1,
+  "totalPostings": 42,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "San Francisco",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Vancouver",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 23
     },
     {
       "id": "ai",
@@ -65,11 +65,25 @@
     0,
     1,
     8,
-    31,
+    33,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0ffd83e8200f3fa15eb4649efd03a98d8d1f2a0b",
+      "title": "Software QA Engineer I",
+      "url": "https://go.vansh.nyc/Zp",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "28fbbc111be73855a272e0f56c6cf5f696297f51",
+      "title": "Security Consulting Engineer I Intern",
+      "url": "https://go.vansh.nyc/Zg",
+      "location": "Research Triangle Park, NC",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "58671058de5598aff9821f2818658711399c6c31",
       "title": "Data Science Analyst I",
@@ -124,20 +138,6 @@
       "title": "Software Engineer Intern, Data & AI",
       "url": "https://go.vansh.nyc/gs",
       "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "d89c84edcb213f94d3dbf2406539a74eb7ffe5c7",
-      "title": "AI Operations Engineer I Intern",
-      "url": "https://go.vansh.nyc/ec",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "dfbe132c1f26fd4c02f475dc21b2fd72641ec02f",
-      "title": "Engineering Product Management Specialist I Intern",
-      "url": "https://go.vansh.nyc/eb",
-      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

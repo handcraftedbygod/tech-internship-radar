@@ -2,21 +2,21 @@
   "slug": "caci",
   "name": "CACI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9784f403446bea230da9dbfdca426d1028088158",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/YV",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "73cd23c5f9d2bd68130fcc7456748a62766927f1",
       "title": "Software Engineering Intern",

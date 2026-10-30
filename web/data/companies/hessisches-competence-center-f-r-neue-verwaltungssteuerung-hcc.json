@@ -2,21 +2,21 @@
   "slug": "hessisches-competence-center-f-r-neue-verwaltungssteuerung-hcc",
   "name": "Hessisches Competence Center für Neue Verwaltungssteuerung (HCC)",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d386f76a2daf729ff561aaac1a97e68bcd8170e",
+      "title": "SAP Junior Developer (m/w/d) (Verwaltungsinformatiker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTQwODktMDE1MDcwMTgtUyAx?lang=en&utm_source=freehire.me",
+      "location": "Wiesbaden, Germany",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "5c45a8fc6f3c5add11b9d1a34256362c39e7a086",
       "title": "SAP Junior Developer (m/w/d) (Verwaltungsinformatiker/in)",

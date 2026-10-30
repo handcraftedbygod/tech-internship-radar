@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 9.6,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -43,11 +43,18 @@
     0,
     1,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2c7ffd8970fc34a8d75d12bdc99abd0557ec1f9",
+      "title": "Software & Systems Testing Engineering Intern",
+      "url": "https://go.vansh.nyc/YX",
+      "location": "Arden Hills, MN",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "57f69f9b25d44b3ef84449639b81a53d50e9c4e2",
       "title": "AI Solutions Engineering Intern",

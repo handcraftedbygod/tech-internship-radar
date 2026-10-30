@@ -2,17 +2,17 @@
   "slug": "sonos",
   "name": "Sonos",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Seattle",
-      "count": 2
+      "hub": "Boston",
+      "count": 3
     },
     {
-      "hub": "Boston",
+      "hub": "Seattle",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86629e53104067203fa09732b37278ac9d400ff4",
+      "title": "Software Partner Engineering Intern",
+      "url": "https://go.vansh.nyc/YW",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "8dc50685a9b2d1aa8c18e6da6fc1f3f73b1481ac",
       "title": "Software Engineering Intern",

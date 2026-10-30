@@ -2,9 +2,9 @@
   "slug": "cibc",
   "name": "CIBC",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "New York",
       "count": 2
+    },
+    {
+      "hub": "Montreal",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -25,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -48,11 +52,18 @@
     0,
     0,
     0,
-    19,
+    20,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d6bc3c38e2cb03923a3c984035d53f6dc04d77e",
+      "title": "AI Developer Co-op, Bilingual",
+      "url": "https://go.vansh.nyc/YZ",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "bd0134b9e291af8c7d89a9cb77a2fb5e6158e82a",
       "title": "Data Analyst Co-op",
@@ -115,13 +126,6 @@
       "url": "https://go.vansh.nyc/bH",
       "location": "Toronto, ON",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "64fc8546d690a8399a3164a314a94da88d4c4ebc",
-      "title": "Machine Learning Engineer Co-op",
-      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

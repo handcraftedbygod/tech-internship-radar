@@ -2,21 +2,21 @@
   "slug": "gilead-sciences",
   "name": "Gilead Sciences",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 11.1,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     },
     {
       "id": "ai",
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f728718b9b209d80a1557c32d2c89f4a0e4396d",
+      "title": "Research Intern, Oncology Biomarker - AI",
+      "url": "https://go.vansh.nyc/Z7",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "6300deb62993785444ea2fe180af7c9b08fca9c0",
+      "title": "Research Intern, Inflammation, AI",
+      "url": "https://go.vansh.nyc/Z6",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "b02ac0577c56a458ddccfd832ffd37d7e8ed341f",
+      "title": "Research Intern, Discovery Sciences and Technologies, AI",
+      "url": "https://go.vansh.nyc/Z5",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "dc20b5afb957c1ecb8968f92603f3e342319f7dc",
       "title": "Research Intern, Clinical Virology - AI",

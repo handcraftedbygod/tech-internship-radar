@@ -1,0 +1,52 @@
+{
+  "slug": "mindpal",
+  "name": "MindPal",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-30T10:44:41.092Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "945cbd5b7f37db947775849e80fa389ba005a9cb",
+      "title": "Junior Backend Developer (Python)",
+      "url": "https://mindpal.peopleforce.io/careers/v/243524-junior-backend-developer-python?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "159e8d8ebae8ca84c1c262dd2ca3c977481fc6b4",
+      "title": "Junior Software Developer (React / Supabase)",
+      "url": "https://mindpal.peopleforce.io/careers/v/244744-junior-software-developer-react-supabase?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    }
+  ]
+}

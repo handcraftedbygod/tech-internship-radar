@@ -2,21 +2,21 @@
   "slug": "tough-training",
   "name": "Tough Training Gmbh",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "design",
       "label": "Design",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     2,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "746f30925b95d65981f0971d05f84d4d96fdc8d5",
+      "title": "Junior Developer / Game Designer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5946483380?se=6jPUTSrU8RGtNfaz7h8Sxg&utm_medium=api&utm_source=freehire.me&v=B607AA342770BC066E36594A1BF8C0069E390060",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "5ec759f01b88dd7ee9a323c9d85c9284f957e823",
       "title": "Junior Developer / Game Designer (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "artefactlinkedin",
   "name": "Artefactlinkedin",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     2,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fa2479a64c7790835ebf0a32c620fd7cf4665bfe",
+      "title": "Data Scientist Intern - Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/data-scientist-intern-paris-9th-arrondissement-of-paris-75009-paris-294268",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "726f6b19c8798dde58983cf93dca21a3fdb96792",
       "title": "Junior Data Scientist - Casablanca",

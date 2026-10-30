@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "product",
@@ -38,11 +38,18 @@
     0,
     1,
     0,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f13fc202eec3bdd975ab6f099d69986864f6a1a1",
+      "title": "Applied Scientist Intern, Turing",
+      "url": "https://go.vansh.nyc/Z4",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "5f739c3d4188b0be5f3ac0e28d81fd00e99f4e94",
       "title": "Product Manager Intern",
@@ -105,13 +112,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773?utm_source=freehire.me",
       "location": "Ireland, Dublin, Dublin",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "bcd53a8c5e7f7d0a5811fc3ca30d8e16b71285a2",
-      "title": "Product Manager Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-      "location": "Remote",
-      "firstSeenAt": "2026-08-05T06:26:39.961Z"
     }
   ]
 }

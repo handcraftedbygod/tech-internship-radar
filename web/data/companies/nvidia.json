@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 14,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Munich",
@@ -22,18 +22,22 @@
     {
       "hub": "Warsaw",
       "count": 1
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -51,11 +55,25 @@
     0,
     2,
     0,
-    19,
+    21,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2186565888e0ec0a3607cd17c6b55ed423776a3a",
+      "title": "AI Systems Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10o",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "6aeaef60db8eea2cd6f2a5bd761e0048898bf906",
+      "title": "Compiler Software Engineer Intern",
+      "url": "https://go.vansh.nyc/102",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "30e4203c0cc18e5b7845103e9382e2ab2f3d1e90",
       "title": "GPU Verification Engineer",
@@ -111,20 +129,6 @@
       "url": "https://go.vansh.nyc/Aw",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "72f56d856b731f876c14596c8fda4c521e9a8c5b",
-      "title": "ASIC Verification Intern",
-      "url": "https://go.vansh.nyc/bT",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "9c16ec6d96f6928b8ecd0dea7e81eeb10d6c69b7",
-      "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 32,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 82,
-  "avgPostingDurationDays": 26.3,
+  "totalPostings": 83,
+  "avgPostingDurationDays": 26.4,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 50
+      "count": 51
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 61
+      "count": 62
     },
     {
       "id": "biz",
@@ -56,11 +56,18 @@
     0,
     33,
     26,
-    23,
+    24,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea26f37db8de48f8180a04af704456f4a72fd5ce",
+      "title": "Junior Consultant- Ads Strategy",
+      "url": "https://careers.glovoapp.com/job/junior-consultant-ads-strategy-in-barcelona-spain-jid-744000158564484/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "52a0b1061e6db144e8dc7595014fcbc7fd82d83e",
       "title": "Junior Occupational Health and Safety",
@@ -123,13 +130,6 @@
       "url": "https://careers.glovoapp.com/job/intern-brands-ads-global-hq-in-barcelona-spain-jid-744000156554419/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "87d20f5d62cdf9b6c5cb5b96a22167d9af602d3f",
-      "title": "Junior/Middle Retail Sales Executive",
-      "url": "https://careers.glovoapp.com/job/junior-middle-retail-sales-executive-in-kyiv-ukraine-jid-744000156032999/",
-      "location": "Kyiv, Ukraine",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
     }
   ]
 }

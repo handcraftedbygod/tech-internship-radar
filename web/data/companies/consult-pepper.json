@@ -2,20 +2,25 @@
   "slug": "consult-pepper",
   "name": "Consult & Pepper AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     1,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ec1278d9d8291830ecf96ba8bf0ccf755e0a7cc1",
+      "title": "(Junior) Java-Crack (Software Entwickler :in) 80%-100%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/YTYzM2EyYzMtMmI1OC00YmVmLThkNjUtYzNlNWQyY2RjYjc3IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "c2da05fae310e5db8f47de96c1945599bb5c68af",
       "title": "Junior Data Engineer (a)",

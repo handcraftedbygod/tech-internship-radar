@@ -1,0 +1,52 @@
+{
+  "slug": "genius-ai",
+  "name": "Genius AI",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-30T10:44:41.092Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a5e56961f180869c9c32df86272680529bdaec96",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/108",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "06be059d00497b097be65a10a0f5ea985e43fbd7",
+      "title": "Engineering Intern",
+      "url": "https://go.vansh.nyc/107",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -34,11 +34,18 @@
     0,
     2,
     0,
-    5,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e667afa370f600d20c1236e11b9c90b224cb0181",
+      "title": "Junior Software Engineer, C++ - Tieto Tech Consulting (m/f/d)",
+      "url": "https://jobs.smartrecruiters.com/Tieto2/744000158514388-junior-software-engineer-c-tieto-tech-consulting-m-f-d-?utm_source=freehire.me",
+      "location": "Wrocław, Lower Silesian Voivodeship, pl",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "78be93a946ce262fb9667c3c1441dbe25b32da98",
       "title": "Junior Software Engineer, C- Tieto Tech Consulting (m/f/d)",

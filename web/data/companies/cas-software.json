@@ -2,21 +2,21 @@
   "slug": "cas-software",
   "name": "CAS Software AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Karlsruhe",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "62df5abe0e8a70e12dd94b05aeb085f560d41f68",
+      "title": "Praktikum Softwareentwicklung Backend | Frontend | Full Stack (w/m/d)",
+      "url": "https://www.adzuna.de/details/5945389383?utm_medium=api&utm_source=freehire.me",
+      "location": "Karlsruhe, Karlsruhe (Kreis)",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "9017a55a8fbf9752be1190b5a3ced52af3a75e9f",
       "title": "Junior Fullstack Developer (w/m/d)",

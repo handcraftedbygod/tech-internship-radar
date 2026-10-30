@@ -2,21 +2,21 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -34,11 +34,18 @@
     0,
     0,
     5,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da64f1e1c922a0140e703dcdc6307c8affda94d0",
+      "title": "Software Development Trainee",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40305?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "0e056e870ba625654c42a58303923936b97335ee",
       "title": "Network Systems Engineer Co-op",

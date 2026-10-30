@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 8,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     10,
     1,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7240d73aeebbe084b35dfa9e6aba9b4ee0b02959",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/ZT",
+      "location": "Annapolis Junction, MD",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "33993924627179b21ff4c6e5cbe63a6f0b693468",
       "title": "Data Engineer Intern",
@@ -106,13 +113,6 @@
       "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-28cf06",
       "location": "Annapolis Junction, MD",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "1b8d540e5f2abd7203b598c0d552a43ac355830a",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://www.themuse.com/jobs/leidos/cybersecurity-analyst-intern-fc9032",
-      "location": "Reynoldsburg, OH",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

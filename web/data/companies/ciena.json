@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Montreal",
@@ -26,6 +26,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,25 @@
     0,
     0,
     0,
-    8,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e44983a56d365eb1873c4914c2fcff74162cc24",
+      "title": "Hardware Characterization Automation Co-op",
+      "url": "https://go.vansh.nyc/ZD",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "d901650281130d6d963785caf9d14e4963fb1179",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/ZC",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "b691b0165739211239786e3ac4a1a563c485de14",
       "title": "New Grad: Routing/IP Software Engineer",

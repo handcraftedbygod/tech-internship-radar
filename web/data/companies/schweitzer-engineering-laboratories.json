@@ -2,21 +2,21 @@
   "slug": "schweitzer-engineering-laboratories",
   "name": "Schweitzer Engineering Laboratories",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ee2fa882bbfb070adf04c3f8506c2c0d0c3dda7",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ZH",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "3ada40c25a42b6ab70f194f9e3a36008bdc74986",
       "title": "Software Engineer Intern",

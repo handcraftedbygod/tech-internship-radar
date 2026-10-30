@@ -2,25 +2,25 @@
   "slug": "zoox",
   "name": "Zoox",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -34,11 +34,25 @@
     0,
     0,
     0,
-    2,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a1f4f0bcaec13744a6d778bf31e25764cc1df610",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ZY",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "97c0aee4164b43d00d47fe654483fe547c9f3937",
+      "title": "Autonomy and Geofence Expansion Intern",
+      "url": "https://go.vansh.nyc/ZX",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "c82a21f3ad2609378e672cdef3db91e086a3ad74",
       "title": "Freeways Data Evaluation Intern",

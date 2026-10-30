@@ -2,20 +2,25 @@
   "slug": "jm-family-enterprises",
   "name": "JM Family Enterprises",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98f2af7a470fc81804be25b46805ac19ff1f6f27",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/YU",
+      "location": "Deerfield Beach, FL, Jacksonville, FL",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "1cc0398998bb719e8fdab9492375989014d70489",
       "title": "Data Engineer Intern",

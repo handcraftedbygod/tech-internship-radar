@@ -2,14 +2,14 @@
   "slug": "motorola",
   "name": "Motorola",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     3,
     8,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e698512d34e1411961d8568021e5e20de3d9922c",
+      "title": "Junior Java DevOps Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Junior-Java-DevOps-Engineer_R70211-1?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "02cba433e980bc3fbf8c1d6397a2c31c9a08af71",
       "title": "Intern DevOps Engineer",
@@ -104,13 +111,6 @@
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer---Java_R68799?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "e6a82429d74f59381a4a01a677c68c4fc78ff2ed",
-      "title": "Intern Software Developer (React/JS)",
-      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
     }
   ]
 }

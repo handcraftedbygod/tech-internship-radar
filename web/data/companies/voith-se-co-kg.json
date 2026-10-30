@@ -2,17 +2,22 @@
   "slug": "voith-se-co-kg",
   "name": "Voith SE & Co. KG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -29,11 +34,32 @@
     0,
     0,
     0,
-    1,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c589736b62719d00100834c61377811c54b12db",
+      "title": "Praktikum (m|w|d) im Bereich Data Science & Process Improvement",
+      "url": "https://www.adzuna.de/land/ad/5946113868?se=IBi4TyrU8RGQ-s1xb079dA&utm_medium=api&utm_source=freehire.me&v=C8D033584D9C8A29AF0222041DC35A619A8D19A2",
+      "location": "Crailsheim, Schwäbisch Hall (Kreis)",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "9021d8fc0581d1c6072f4a21a2ccf2481e98926b",
+      "title": "Praktikum (m w d) im Bereich Data Science & Process Improvement",
+      "url": "https://www.adzuna.de/land/ad/5946486014?se=HIwTTSrU8RGsocup6B7Wyw&utm_medium=api&utm_source=freehire.me&v=007331BA366D0FAC973D57AA39B5ABF9310B54B4",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "a8a8775e00153f8fb7cc5fd56f0ceb9bf3064666",
+      "title": "Praktikum (m|w|d) im Bereich Data Science & Process Improvement",
+      "url": "https://gute-jobs.de/viewjob-5xe85?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=jsba-premium&utm_term=praktikum-m-w-d-im-bereich-data-science-process-improvement",
+      "location": "Crailsheim",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "1a9d1c5315b4cb84b8aa84a919f4d6a0bc5d0bb8",
       "title": "Werkstudent (m|w|d) - Digital Strategy & Software Business/ Corporate Strategy",

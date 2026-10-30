@@ -2,13 +2,17 @@
   "slug": "talos",
   "name": "Talos",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": 13.1,
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "New York",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "76754f8259998b39dcb3cfd799efba1b98be0f75",
+      "title": "Software Engineer Intern, Dealer",
+      "url": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977?utm_source=freehire.me",
+      "location": "New York",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "fbf5dba8336d34d68a7e19fb460190a9758c4c33",
       "title": "Software Engineer Intern, Infrastructure",

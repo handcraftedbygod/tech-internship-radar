@@ -2,25 +2,29 @@
   "slug": "general-motors",
   "name": "General Motors",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
       "count": 8
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 4
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 4
     }
   ],
@@ -34,11 +38,18 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7cddadd6307e48a62a4218619c7066b4c58ee736",
+      "title": "AI/ML Engineer Intern, Autonomous Vehicles",
+      "url": "https://go.vansh.nyc/ZG",
+      "location": "Seattle, WA, Sunnyvale, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "391380eebebc029e2fb673d5473846f1e3f8e4ab",
       "title": "Software Verification Engineer, AV Platform",

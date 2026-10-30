@@ -2,14 +2,14 @@
   "slug": "walmart",
   "name": "Walmart",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "product",
       "label": "Product",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "541923cdbe64f0105c8226c640819e0c3bb7996b",
+      "title": "Data & Tech Transformation Intern",
+      "url": "https://go.vansh.nyc/ZW",
+      "location": "Bentonville, AR",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "8102212dc136fbeebd8a6ecd25f9014416d8aa74",
       "title": "Automation, Product Manager, Corporate Intern",

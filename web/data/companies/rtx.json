@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 21,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 29,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 31,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 30
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "hw",
@@ -30,6 +30,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -43,11 +48,25 @@
     0,
     1,
     0,
-    28,
+    30,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "804b2d56733a4e84f48fd97adc37430d45d73a5b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ZE",
+      "location": "Sterling, VA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "af40c6b1e661e66258b74e20f6fb0ca4975af6ec",
+      "title": "Sustainment Data and Analytics Intern",
+      "url": "https://go.vansh.nyc/Zm",
+      "location": "East Hartford, CT",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "9478fdcdcc7a6ff32c2fc5e30d42e72dd4fe9562",
       "title": "Software Engineer Co-op",
@@ -103,20 +122,6 @@
       "url": "https://go.vansh.nyc/CR",
       "location": "Aurora, CO, Remote, United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "21a74a44d0139a95eaea515d6c2a82a97505e013",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://go.vansh.nyc/BP",
-      "location": "East Hartford, CT",
-      "firstSeenAt": "2026-10-26T09:43:59.686Z"
-    },
-    {
-      "id": "c26e80c22d636151515768756c787f4793775144",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/ez",
-      "location": "Remote in USA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

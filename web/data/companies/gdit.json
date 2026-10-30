@@ -2,20 +2,25 @@
   "slug": "gdit",
   "name": "GDIT",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2d565887d5a6b69fd59f1be23019097c03f92df",
+      "title": "Tier I Security Operations Center (SOC) Analyst",
+      "url": "https://go.vansh.nyc/YY",
+      "location": "Bossier City, LA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "110da517d35a6ac56c3fd2454d0f01a580c37915",
       "title": "Cybersecurity Exercise Planner (Junior)",

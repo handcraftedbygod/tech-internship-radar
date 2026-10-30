@@ -2,21 +2,21 @@
   "slug": "gmv",
   "name": "GMV",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a79809a3b50f59b988295679be34f6fc01d2330e",
+      "title": "Junior Electronic Systems Engineer - Telecommunications",
+      "url": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5163?c=gmv&utm_source=freehire.me",
+      "location": "Tres Cantos, Community of Madrid",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "2500e2f6ccf7dc22bef980e1c311024234cc1016",
       "title": "Internship: Software engineer",

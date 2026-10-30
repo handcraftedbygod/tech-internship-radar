@@ -1,22 +1,22 @@
 {
   "slug": "carbonchain",
-  "name": "Carbonchain",
+  "name": "CarbonChain",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,25 @@
     0,
     1,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2bb58c802cd7bdbf2ebbd7c978bccec716653ba7",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__582025346__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "9c6b447db85ded0ee67463eec64cdf87aa9b3718",
+      "title": "Junior Data Engineer: Climate Data Pipelines & SQL (London)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__582022760__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "67159b022827d5864aede3818b9c9bb7b247c878",
       "title": "Junior Data Engineer",

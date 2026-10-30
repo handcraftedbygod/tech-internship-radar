@@ -2,21 +2,25 @@
   "slug": "ptc",
   "name": "PTC",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Boston",
       "count": 3
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68dc114bab98c9c5c0c379fbdea10963ff04ba98",
+      "title": "Arena Engineering Intern",
+      "url": "https://go.vansh.nyc/Zw",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "ead110b3acca4cf528676ed8755da3f0aaf6125f",
       "title": "Onshape SysOps Intern",

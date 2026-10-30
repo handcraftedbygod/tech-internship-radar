@@ -2,14 +2,14 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Other",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,25 @@
     0,
     1,
     4,
-    4,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "69a308cbdec5b94d95f17cb6847af7128e21500b",
+      "title": "Summer Intern 2027 - Alan Summer Internship Program",
+      "url": "https://jobs.ashbyhq.com/alan/22f1cd8e-0cff-4a31-8bf6-547c0dba45a7",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "460548f53ca6268eb35271e6b28c5812a95fc17a",
+      "title": "Sales Graduate Program 🇫🇷 ",
+      "url": "https://jobs.ashbyhq.com/alan/60c77cbe-9a21-4bb0-b182-99456e138b81",
+      "location": "Paris, France; Bordeaux, France",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "8a74f26042222f2eb8e5e6d8319a2de39c89eb4f",
       "title": "Enterprise Sales & Strategy Associate (Internship)",
@@ -98,13 +112,6 @@
       "url": "https://jobs.ashbyhq.com/alan/da063092-f787-451c-892f-2b724c627f5f",
       "location": "Paris, France",
       "firstSeenAt": "2026-09-02T08:26:00.692Z"
-    },
-    {
-      "id": "df6a547f470815b70e9997c5cc95ff3a0050596d",
-      "title": "Insurance Legal - Internship",
-      "url": "https://jobs.ashbyhq.com/alan/0507d0de-823b-4058-bd6e-ec2428d362fd",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-08-28T15:57:00.356Z"
     }
   ]
 }

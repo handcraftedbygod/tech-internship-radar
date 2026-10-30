@@ -2,21 +2,21 @@
   "slug": "johns-hopkins-apl",
   "name": "Johns Hopkins APL",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eca4411ecdbe25ef3537eaef7213e3e40c7fa309",
+      "title": "New Grad 2027: Software Systems Engineer",
+      "url": "https://go.vansh.nyc/10j",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "8a3776af0cebd7b1b9f4b19a289cea590a1731c3",
       "title": "New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection",

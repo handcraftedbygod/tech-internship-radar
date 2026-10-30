@@ -2,17 +2,17 @@
   "slug": "airbus-operations-gmbh-werk-bremen",
   "name": "Airbus Operations GmbH Werk Bremen",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
-      "hub": "Bremen",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "Bremen",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -38,11 +38,18 @@
     0,
     1,
     2,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "072736e020b1045de4777de74c51f376e3729b63",
+      "title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-979990298-S",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "98e99efa4461f2525d69a20ff4fdfe2217256d23",
       "title": "Working Student (d/f/m) as Software Development Assistant",

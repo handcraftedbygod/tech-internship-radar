@@ -2,26 +2,26 @@
   "slug": "booz-allen",
   "name": "Booz Allen",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 13,
+  "totalPostings": 16,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 6
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 7
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 7
     },
     {
       "id": "biz",
@@ -39,11 +39,32 @@
     0,
     0,
     3,
-    10,
+    13,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b07447b1750fb9f91baaa73e7f7176fa4e467a58",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://go.vansh.nyc/ZR",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "91b1eece262338bc0280b0a33f06e9d7c5313bdd",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://go.vansh.nyc/ZQ",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
+    {
+      "id": "e4ac84476d69af8f217169bedd04c6500f599276",
+      "title": "New Grad 2027: Software Developer",
+      "url": "https://go.vansh.nyc/ZP",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "92755d6fc23554a1585b117c341d355caa47a6c8",
       "title": "New Grad 2027: Data Scientist",
@@ -92,27 +113,6 @@
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
       "location": "McLean, VA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "1c278eeeeec087cb9a12194047a7981cf441e72b",
-      "title": "New Grad 2027: Systems Engineer",
-      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
-      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "5ed5a619ec0417c76d38ed69bcf409c4cf19e051",
-      "title": "New Grad 2027: Data Scientist",
-      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282",
-      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "8fe13f36efba744906b6a39937bffc35c6e3c24d",
-      "title": "New Grad 2027: Software Developer",
-      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280",
-      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

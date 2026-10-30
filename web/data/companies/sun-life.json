@@ -2,14 +2,18 @@
   "slug": "sun-life",
   "name": "Sun Life",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 3
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +38,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f440e80e09d1fc37f415e49c1bc0477355aa0c8",
+      "title": "Data Analyst Co-op",
+      "url": "https://go.vansh.nyc/ZB",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "8658ef408ddcea7db22511f66c106a6503c03c7f",
       "title": "Quality Engineering Analyst Intern",

@@ -1,22 +1,22 @@
 {
   "slug": "xantium",
-  "name": "Xantium Group",
+  "name": "Xantium",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5310c6a4911b69115282fc9b38301861d197e0af",
+      "title": "Quantitative Developer Intern",
+      "url": "https://job-boards.greenhouse.io/xantium/jobs/4360768009?utm_source=freehire.me",
+      "location": "London, England",
+      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+    },
     {
       "id": "220dae832fe9958b208280fdf02485fea1f73857",
       "title": "Quantitative Developer Intern",
