@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 11.7,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -39,11 +39,18 @@
     0,
     10,
     1,
-    9,
+    10,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6bd252343f5379861525557d7d7891b43b81b5c",
+      "title": "Software Developer Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-be0b6c",
+      "location": "Annapolis Junction, MD",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "7240d73aeebbe084b35dfa9e6aba9b4ee0b02959",
       "title": "Software Developer Intern",
@@ -106,13 +113,6 @@
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
       "location": "Remote in USA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "f21f74ac13d5b3179a4c5bf972edd968c3532d82",
-      "title": "Software Developer Intern",
-      "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-28cf06",
-      "location": "Annapolis Junction, MD",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Austin",
@@ -23,13 +23,13 @@
       "count": 9
     },
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 2
-    },
-    {
       "id": "design",
       "label": "Design",
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 2
     }
   ],
@@ -43,11 +43,18 @@
     0,
     0,
     0,
-    13,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af241b1440a3de15448d88fcf44545dc4d742b16",
+      "title": "FPGA Design Intern",
+      "url": "https://go.vansh.nyc/11u",
+      "location": "Calabasas, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "7cf35c3ebc93dbdeb91e05bc220861a3b5364ec9",
       "title": "Application Development Intern",
@@ -110,13 +117,6 @@
       "url": "https://jobs.keysight.com/jobs/55110?icims=1",
       "location": "Santa Rosa, CA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "ffd1cb300a073e3aa34404fca32e427174720e1c",
-      "title": "Software Engineer Intern, R&D",
-      "url": "https://jobs.keysight.com/jobs/54805?icims=1",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

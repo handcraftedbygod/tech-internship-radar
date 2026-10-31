@@ -2,9 +2,9 @@
   "slug": "sierra",
   "name": "Sierra",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     4,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f5ec320d9f883a20c870d64b833f8492ad2445f",
+      "title": "Research Intern",
+      "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "576d4be89c8c182c2ca76169a0e62d17f17ae57c",
       "title": "Software Engineer, Agent (New Grad 2027)",
@@ -98,13 +105,6 @@
       "id": "3e3b6060c008b0bc8aa1a70210257ebaca98ad4c",
       "title": "APX (New Grad 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "350f530c18e77404db569db8d03b7dc063b94969",
-      "title": "Intern, Agent Development (Summer 2027)",
-      "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
       "location": "San Francisco, CA",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }

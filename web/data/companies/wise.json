@@ -2,21 +2,25 @@
   "slug": "wise",
   "name": "Wise",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
       "count": 3
+    },
+    {
+      "hub": "Austin",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -34,11 +38,25 @@
     0,
     0,
     0,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ba5fb1f745ca2f6f061149183f62f48defef84e",
+      "title": "New Grad 2027: Product Analyst",
+      "url": "https://go.vansh.nyc/11h",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "ce24c8e25399d324f7ef760e185df616e3c99151",
+      "title": "New Grad 2027: Product Analyst",
+      "url": "https://go.vansh.nyc/10u",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "ec26b2253482b65eb67baf3955328b9ec0fbf774",
       "title": "Software Engineering Intern",

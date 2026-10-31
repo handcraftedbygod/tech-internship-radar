@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Madrid",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -43,11 +43,18 @@
     0,
     1,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f421d3fe386f1ac3e858a35693b84f40f229060",
+      "title": "Software Test Engineer Intern",
+      "url": "https://go.vansh.nyc/11g",
+      "location": "Waltham, MA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "e2c7ffd8970fc34a8d75d12bdc99abd0557ec1f9",
       "title": "Software & Systems Testing Engineering Intern",

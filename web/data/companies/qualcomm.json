@@ -2,10 +2,10 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 25,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 26,
-  "avgPostingDurationDays": 10.9,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Vancouver",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Toronto",
@@ -29,7 +29,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "hw",
@@ -52,11 +52,25 @@
     0,
     0,
     0,
-    26,
+    28,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e46679bdb554c19e60ffed068f5ae072ae227be",
+      "title": "Camera HW ASIC Verification Intern",
+      "url": "https://go.vansh.nyc/11z",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "e1ca29521cfcc11564b06edf2ad87fdf133391ac",
+      "title": "Camera Systems Intern",
+      "url": "https://go.vansh.nyc/11v",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "9fe9fe8bb4c021e737b2296154a8b76a63159d11",
       "title": "Soft IP Engineer Co-op",
@@ -111,20 +125,6 @@
       "title": "AI and DSP Applications Engineer Intern",
       "url": "https://go.vansh.nyc/fy",
       "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "2993faf1279030fbd0ebcf69fa3d740976f97508",
-      "title": "Applied AI Engineering Intern, Hardware Systems",
-      "url": "https://go.vansh.nyc/et",
-      "location": "Vancouver, BC, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "ef64640e348c10e4fce7ca5c5894c7b1ef922ebe",
-      "title": "Camera Design Implementation Intern",
-      "url": "https://go.vansh.nyc/es",
-      "location": "Vancouver, BC, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

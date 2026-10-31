@@ -2,21 +2,21 @@
   "slug": "infineon",
   "name": "Infineon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
@@ -34,11 +34,18 @@
     0,
     0,
     1,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e60742466c823720b9787e59c27403c463b4db5f",
+      "title": "Werkstudent – Data Science & Technology Support (w/m/div)",
+      "url": "https://jobs.infineon.com/careers/job/563808972253233?utm_source=freehire.me",
+      "location": "Dresden",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "00c474f17a24651c5d1739eee606218d5c324655",
       "title": "HR Data Analyst Trainee (f/m/div)",

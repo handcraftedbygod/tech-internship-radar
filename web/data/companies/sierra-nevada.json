@@ -2,20 +2,25 @@
   "slug": "sierra-nevada",
   "name": "Sierra Nevada Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6b9be1c2238c652ba016a39e04ac3a62f014174",
+      "title": "Firmware Engineering Intern",
+      "url": "https://go.vansh.nyc/10G",
+      "location": "Folsom, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "a6a86ddccefe078bb6b17c0fcbba943af7234704",
       "title": "Cybersecurity Analyst Intern",

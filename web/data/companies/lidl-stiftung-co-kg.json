@@ -2,14 +2,14 @@
   "slug": "lidl-stiftung-co-kg",
   "name": "Lidl Stiftung & Co KG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 14,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 13
     },
     {
       "hub": "Karlsruhe",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 12
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 2
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,31 +38,80 @@
     0,
     2,
     0,
-    1,
+    12,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "5019371d97c98b3385ab846157ede3f9930e9076",
+      "id": "035d5c9e2876c0cbcc5e3eb29eb5b423d80a604e",
+      "title": "Praktikum Data Science in Neckarsulm",
+      "url": "https://de.whatjobs.com/pub_api__cpl__500057382__7078?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "17bae3658bbee166d9f3cce4c285a96159a3386b",
+      "title": "Praktikum Data Analytics & Digitalisierung",
+      "url": "https://de.whatjobs.com/pub_api__cpl__500057344__7078?geoID=2779&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Dresden, Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "50782bc245aaa11ac0d93052cc60bf63538d7069",
       "title": "Praktikum Data Science",
-      "url": "https://www.adzuna.de/land/ad/5942314389?se=wGx9WGrR8RGOEpOGFIgEig&utm_medium=api&utm_source=freehire.me&v=466485E4F2F5D10343AFDC8DFC824A7C60004B8E",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+      "url": "https://de.whatjobs.com/pub_api__cpl__500057294__7078?geoID=7110&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Köln, Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     },
     {
-      "id": "af52a82b628887b26c25cef0c0070f1c3f42e440",
-      "title": "(Junior) Customer Data Analyst (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5849219498?se=uB7iA0-c8RGuLL9C0ozRow&utm_medium=api&utm_source=freehire.me&v=A0DF35CC5C2733394E55EE4B8513FA8135C6D8A0",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
+      "id": "d4c369f45fa9463494f032b42f4eaf5abec22db3",
+      "title": "Praktikum Data Analytics & Digitalisierung in Neckarsulm",
+      "url": "https://de.whatjobs.com/pub_api__cpl__500059550__7078?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     },
     {
-      "id": "5209b545029f53da5958761708aee2147c842165",
-      "title": "(Junior) Customer Data Analyst (m/w/d)",
-      "url": "https://de.whatjobs.com/pub_api__cpl__477377699__7078?geoID=6597&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Karlsruhe, Germany",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
+      "id": "61b0e84415264e70a908a02d90451d790339dc50",
+      "title": "Praktikum Data Science - Immobilien",
+      "url": "https://de.whatjobs.com/pub_api__cpl__500057407__7078?geoID=740&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Baden Baden, Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "36497103dc5f5813c10a5b5efe194645061a5540",
+      "title": "Praktikum Data Analytics & Digitalisierung",
+      "url": "https://www.adzuna.de/land/ad/5947657092?se=XknPn_PU8RGwktAaR13HnA&utm_medium=api&utm_source=freehire.me&v=78F09A1C356DD61971EA98AD4E24923CFEE29F8A",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "4a1a6195c6be832ddc21af99c87d22e177b14758",
+      "title": "Praktikum Data Science",
+      "url": "https://www.adzuna.de/land/ad/5947657128?se=XknPn_PU8RGwktAaR13HnA&utm_medium=api&utm_source=freehire.me&v=6824DD1DE7AF697C483F01C1D4B574BAAC7191D1",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "5ffa569eed31242e1d4b1e41072f87471acab33c",
+      "title": "Praktikum Data Science - Immobilien",
+      "url": "https://www.adzuna.de/land/ad/5947657221?se=XknPn_PU8RGwktAaR13HnA&utm_medium=api&utm_source=freehire.me&v=9166905888D3BABD44BD905410B5361759728649",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "b3fbb08d7e6a41f001dfc7eff094093e807bfa66",
+      "title": "Praktikum Data Science M/F/X - Crailsheim",
+      "url": "https://www.adzuna.de/details/5947742724?utm_medium=api&utm_source=freehire.me",
+      "location": "Neckarsulm, Heilbronn (Kreis)",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "a416cad5029cebc169b5c6cb9e22a8179e6b3220",
+      "title": "Praktikum Data Science im Immobilienbereich M/F/X",
+      "url": "https://www.adzuna.de/details/5947742731?utm_medium=api&utm_source=freehire.me",
+      "location": "Böhlitz-Ehrenberg, Leipzig",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

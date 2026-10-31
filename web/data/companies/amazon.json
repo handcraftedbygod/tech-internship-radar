@@ -2,10 +2,10 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 37,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 39,
-  "avgPostingDurationDays": 13.5,
+  "totalPostings": 42,
+  "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -25,14 +25,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "hw",
@@ -42,12 +42,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -60,11 +60,32 @@
     0,
     0,
     1,
-    38,
+    41,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1a4b87697ea8f870874adb712b92558f54f75bd",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027?utm_source=freehire.me",
+      "location": "Munich, Bavaria, DEU",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "cd176643f53f9fc7c06d309418868389e48724d0",
+      "title": "New Grad 2027: Software Development Engineer, Database",
+      "url": "https://go.vansh.nyc/11i",
+      "location": "Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "db5cae02343e2621697449ed60996217bd4ba835",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+      "url": "https://go.vansh.nyc/10y",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "0323f171767872b9e10238c0a73f456a47861a47",
       "title": "Database Engineer Intern",
@@ -112,27 +133,6 @@
       "title": "New Grad 2027: Software Development Engineer",
       "url": "https://go.vansh.nyc/B2",
       "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "ae39124b02e049897c991a4b4dc6be5076827d61",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://go.vansh.nyc/AD",
-      "location": "Madison, WI, Boston, MA, Seattle, WA, Austin, TX, Detroit, MI, Santa Clara, CA, Arlington, VA, Minneapolis, MN, Denver, CO",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "47f9de0ce708389d508f554eee5b0a63607ef312",
-      "title": "Software Development Engineer Intern, Amazon Leo",
-      "url": "https://go.vansh.nyc/hR",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "83a007bcd8d75cf74429b8cfa5fca62d4636b969",
-      "title": "ASIC Engineer Intern",
-      "url": "https://go.vansh.nyc/hA",
-      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

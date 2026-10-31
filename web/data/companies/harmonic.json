@@ -1,0 +1,45 @@
+{
+  "slug": "harmonic",
+  "name": "Harmonic",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "eef282814dba96cad57baed8a7cd9f9b7ba190f5",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/10K",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

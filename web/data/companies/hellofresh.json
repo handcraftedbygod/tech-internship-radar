@@ -2,10 +2,10 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 38,
-  "avgPostingDurationDays": 31,
+  "totalPostings": 39,
+  "avgPostingDurationDays": 27.7,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "biz",
@@ -50,11 +50,18 @@
     5,
     8,
     14,
-    11,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8afc28161d4f007391e36e8652be421e6584e8ee",
+      "title": "Junior Quality Control Associate",
+      "url": "https://careers.hellofresh.com/global/en/job/8250016?gh_jid=8250016",
+      "location": "Mississauga, Ontario, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "d3e2c9cf525025343efce9617e4ebeca6f3b628d",
       "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
@@ -116,13 +123,6 @@
       "title": "Junior Procurement Category Manager (f/m/x)",
       "url": "https://careers.hellofresh.com/global/en/job/8259670?gh_jid=8259670",
       "location": "Amsterdam, North Holland, Netherlands",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "1465b16a5e27c61894d6c96ddbb61c7444901beb",
-      "title": "Junior Procurement Category Manager (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8259742?gh_jid=8259742",
-      "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]

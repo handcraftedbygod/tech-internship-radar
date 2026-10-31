@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 12,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     1,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "126f1c8ad2a366ed186f59e90854a44bcd4cea1b",
+      "title": "Software Engineering / AI Engineering Intern",
+      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "048da884687ae67fc732d6afc2d37f4d4173872f",
       "title": "IT & Digital Intern",

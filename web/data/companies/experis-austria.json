@@ -2,25 +2,25 @@
   "slug": "experis-austria",
   "name": "Experis Austria",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 4
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 4
     }
   ],
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ffd283724c089a3d1ed6078fa3fd9ea67e9eb383",
+      "title": "Junior iOS Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__590150368__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "97c26e7f79494bbd32ea58856e59bcea6ebac1b2",
       "title": "Hybrid Junior Android Developer — Collaborative Team",

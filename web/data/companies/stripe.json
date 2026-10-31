@@ -2,18 +2,18 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 23,
+  "currentOpenings": 27,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 24,
+  "totalPostings": 28,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "New York",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Dublin",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 6
     },
     {
       "id": "product",
@@ -55,11 +55,39 @@
     1,
     2,
     13,
-    8,
+    12,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c089703b17cc22b7f7048b32d0a46611aa15d614",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+      "location": "San Francisco, New York City, Seattle",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "8189da242597c7fc34b311d9ca259e6fdac3399e",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+      "location": "Toronto",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "a9d7c6e21d4aeac8157b5ae9ced6d984bbd4bdba",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+      "location": "Toronto",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "7c2d1c6811f9045ad781930c5d9a17cc18f4111c",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+      "location": "San Francisco, New York City, Seattle",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "468d677a65db2185c0237f9143e47f1f7b027596",
       "title": "Security Engineer, New Grad",
@@ -101,34 +129,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8194287",
       "location": "Toronto",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "2852b4eca2c64e20c12f179896f532d660506ace",
-      "title": "Data Analyst, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "421418ad67722d0e786592e8d2826faa6865275a",
-      "title": "High School Internship, Software Engineering (Summer 2027)",
-      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "location": "Seattle, San Francisco",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "5bcf26a4407f113ff63c53b04cffabbc2f2332e9",
-      "title": "Software Engineer, Early Career — Immediate Start",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-      "location": "San Francisco, Seattle, New York",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "42f9734399e18980e87eb0592304d4140dfe1cac",
-      "title": "Software Engineer, Early Career — Immediate Start",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-      "location": "Toronto",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

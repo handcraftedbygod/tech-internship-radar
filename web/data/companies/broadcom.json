@@ -1,0 +1,52 @@
+{
+  "slug": "broadcom",
+  "name": "Broadcom",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4a7193b70974a15434d65d6c88ae4b494f68a4fe",
+      "title": "Physical Design Engineer, ASIC Products Division (Master's)",
+      "url": "https://go.vansh.nyc/124",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "aafcdb16fc053a790b6fe86c7a17f4019940c6d7",
+      "title": "New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's)",
+      "url": "https://go.vansh.nyc/123",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

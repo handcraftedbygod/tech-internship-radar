@@ -2,20 +2,25 @@
   "slug": "pigment",
   "name": "Pigment",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b4475ecc9bbcd9acd5dadc68baada4633a5de389",
+      "title": "Data Scientist Internship",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/data-scientist-internship-paris-490344",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "5a9725fecda5ffdc1eb2b01dad958fe4c4bf4aee",
+      "title": "Internship - Software Engineer (Back, Fullstack)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/internship-software-engineer-back-fullstack-paris-403086",
+      "location": "Paris",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "e9114a6f155ee4f822441a671264a72faa9722f7",
       "title": "Junior Backend Engineer",

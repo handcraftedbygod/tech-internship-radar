@@ -2,10 +2,10 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 10,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 35,
-  "avgPostingDurationDays": 14.5,
+  "totalPostings": 36,
+  "avgPostingDurationDays": 14.2,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "New York",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -55,11 +55,18 @@
     1,
     4,
     6,
-    24,
+    25,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f4d45a185a261520a75f9c08385ef24b02ecb8ca",
+      "title": "AI Labs Intern, Emerging Talent",
+      "url": "https://go.vansh.nyc/10J",
+      "location": "San Francisco, CA, Seattle, WA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "61f1d690ed1ad17085ac58a2c1d3f06edbcf3491",
       "title": "Summer 2027 Intern - Pro Serve Strategy & Change Management",
@@ -120,13 +127,6 @@
       "id": "5707be23df41b0038e766c0f1f314cec8833d239",
       "title": "Commercial Graduate Program - Solution Engineering Path - Dutch Speaking Market",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "e54328e5dc599feb11c8cecd3bcd72b3a8fee032",
-      "title": "Commercial Graduate Program - Sales Path - Dutch Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Commercial-Path---BNL-Dutch-Speaking-Market_JR363186-1",
       "location": "Ireland - Dublin",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }

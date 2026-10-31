@@ -2,17 +2,21 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 16,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 11.4,
+  "totalPostings": 40,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 31
     },
     {
       "hub": "Munich",
+      "count": 3
+    },
+    {
+      "hub": "Austin",
       "count": 3
     },
     {
@@ -22,26 +26,32 @@
     {
       "hub": "Warsaw",
       "count": 1
-    },
-    {
-      "hub": "Austin",
-      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 26
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 6
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 5
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -55,80 +65,80 @@
     0,
     2,
     0,
-    21,
+    38,
     0,
     0
   ],
   "recentPostings": [
     {
-      "id": "2186565888e0ec0a3607cd17c6b55ed423776a3a",
-      "title": "AI Systems Software Engineering Intern",
-      "url": "https://go.vansh.nyc/10o",
+      "id": "161448245e53ba35746efc6d937c2ab46b238798",
+      "title": "Security Architect",
+      "url": "https://go.vansh.nyc/11L",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "9845d4a9e143cbee62c258bfd09d6fdfa0f7c351",
+      "title": "Power Methodology and Modeling Engineer (Master's)",
+      "url": "https://go.vansh.nyc/11H",
       "location": "Austin, TX",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     },
     {
-      "id": "6aeaef60db8eea2cd6f2a5bd761e0048898bf906",
-      "title": "Compiler Software Engineer Intern",
-      "url": "https://go.vansh.nyc/102",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
+      "id": "36fd94f293a722c032470ef37c5c1fc046b088f2",
+      "title": "Software Engineer, Hardware Tools and Methodology (Master's)",
+      "url": "https://go.vansh.nyc/11G",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     },
     {
-      "id": "30e4203c0cc18e5b7845103e9382e2ab2f3d1e90",
+      "id": "82548c510452b84daacec4b43ff006d5ce48a218",
+      "title": "RTL Power Optimization Engineer (Master's)",
+      "url": "https://go.vansh.nyc/11E",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "a075b76f773da996229c9ad2676cc25d26a8a9ee",
+      "title": "ASIC Design Verification Engineer (Master's)",
+      "url": "https://go.vansh.nyc/11C",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "b81e64ac487973193a95162f692d46f7bd95e9a8",
+      "title": "Cell Modeling and Verification Engineer",
+      "url": "https://go.vansh.nyc/11B",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "f315cb85b4bdcc88a526142660aaf983cd41d74d",
+      "title": "ASIC Physical Design and Timing Engineer (Master's)",
+      "url": "https://go.vansh.nyc/11A",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "b92ddc92516e1c5108cd510ddf9f0c7866e12bc8",
+      "title": "Applied Systems Engineering Rotation Engineer",
+      "url": "https://go.vansh.nyc/11r",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "7288e6a37ce2855606d6d468bfebeb14df69bd98",
       "title": "GPU Verification Engineer",
-      "url": "https://go.vansh.nyc/YQ",
+      "url": "https://go.vansh.nyc/11q",
       "location": "Westford, MA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     },
     {
-      "id": "3bb8e854fe4679ae49294fd7b48cf1e50c75a049",
-      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939?utm_source=freehire.me",
-      "location": "UK, Remote",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "40bff8b8111523d382fc4f1f5c4ee643069271c7",
-      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942?utm_source=freehire.me",
-      "location": "Germany, Remote",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "5646b278978cae3a2959896a9d9c6ee8939843c9",
-      "title": "New Grad 2027: Formal Verification Engineer",
-      "url": "https://go.vansh.nyc/Wq",
+      "id": "dedead93de7756de94c8a61a803489bcaf6d769c",
+      "title": "Architecture Energy Modeling Engineer (Master's)",
+      "url": "https://go.vansh.nyc/11p",
       "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "58e7885f8bd5f54a5bfbde012baab7ee61a0d0f7",
-      "title": "New Grad 2027: Deep Learning Performance Architect",
-      "url": "https://go.vansh.nyc/Wk",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "f451052b5dd6a77e524cd6efaf112cbbd88e6212",
-      "title": "Software Engineering Intern, Developer Tools - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209?utm_source=freehire.me",
-      "location": "France, Courbevoie",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "22a0e17435896fc9b1f4e274595538f8cd5b3767",
-      "title": "New Grad 2027: High-Performance LLM Training Engineer (Master's)",
-      "url": "https://go.vansh.nyc/Ax",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "5d5fe4d43c84bce4ce1cbba4fdda78a6556997c9",
-      "title": "Software Engineer, Agent Performance Modeling (Master's)",
-      "url": "https://go.vansh.nyc/Aw",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

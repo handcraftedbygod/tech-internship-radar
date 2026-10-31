@@ -2,17 +2,17 @@
   "slug": "axa",
   "name": "AXA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
-      "hub": "Paris",
-      "count": 4
+      "hub": "Other",
+      "count": 5
     },
     {
-      "hub": "Other",
+      "hub": "Paris",
       "count": 4
     },
     {
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -37,11 +37,18 @@
     0,
     1,
     4,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5aa69c81b748ca3a5af1c4c89ffc8483ae3583b",
+      "title": "Internship - HR Data Engineer",
+      "url": "https://axa.jibeapply.com/careers-home/jobs/29970?utm_source=freehire.me",
+      "location": "MATIGNON GIE AXA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "1e0f406297d05a0aaeeef77fd491f5369e5c46bf",
       "title": "Data Engineering & Analytics Internship: Databricks",

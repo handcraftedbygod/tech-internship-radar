@@ -1,0 +1,73 @@
+{
+  "slug": "tevora",
+  "name": "Tevora",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 5
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d308d38d677011b5f32a3ecf0629e4c1aeba8a58",
+      "title": "Cybersecurity Intern, Threat",
+      "url": "https://go.vansh.nyc/12f",
+      "location": "Irvine, CA, Fairfax, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "e23a500a3ed5e3b6ff6518fccb55934d8a159ed9",
+      "title": "Cybersecurity Intern, Solutions",
+      "url": "https://go.vansh.nyc/12e",
+      "location": "Irvine, CA, Fairfax, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "58fb82af6ae809bed207003be1b1efce97d5e322",
+      "title": "Cybersecurity Intern, Payments",
+      "url": "https://go.vansh.nyc/12d",
+      "location": "Fairfax, VA, Irvine, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "7d4e22cc9df98ff78919d597f23079cee445b73f",
+      "title": "Cybersecurity Intern, Healthcare",
+      "url": "https://go.vansh.nyc/12c",
+      "location": "Irvine, CA, Fairfax, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "d5d9d8bb387875a16efd650cdf3c54c9433609d9",
+      "title": "Cybersecurity Intern, Federal",
+      "url": "https://go.vansh.nyc/12b",
+      "location": "Fairfax, VA, Irvine, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

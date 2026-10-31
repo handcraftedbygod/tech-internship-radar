@@ -2,20 +2,25 @@
   "slug": "nav-canada",
   "name": "NAV CANADA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "593314c5bc575d74e0619f735809c11a971e43c8",
+      "title": "Aviation Predictive Analytics Co-op",
+      "url": "https://go.vansh.nyc/118",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "ae331d52f2e5181bdb2c42ee78e774d6a8c6d64e",
       "title": "Business Automation Developer",

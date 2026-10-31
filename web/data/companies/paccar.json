@@ -2,14 +2,14 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": null,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
@@ -26,7 +26,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,11 +39,18 @@
     0,
     0,
     0,
-    8,
+    9,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1cbe968e3b5fd15d6cd26667989826bf43e127b6",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/11R",
+      "location": "United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "f6ad77154c963c285f818d9431e1abefa23fc7a0",
       "title": "Application Developer Intern",

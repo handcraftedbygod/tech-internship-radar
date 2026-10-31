@@ -2,26 +2,26 @@
   "slug": "nokia",
   "name": "Nokia",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     5,
-    4,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6fc7fcc41f2bd8b86c8caae8f87b6e8aaa35602b",
+      "title": "Software Quality Assurance Trainee",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40304?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "2a3a5938239254affafdddd07427ff5770c70a19",
+      "title": "Financial Data Engineering / Business Data Analytics Trainee — Patent Portfolio Management",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41680?utm_source=freehire.me",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "b13434e9334a79c363996da00500b3f3574fe3ee",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/112",
+      "location": "United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "da64f1e1c922a0140e703dcdc6307c8affda94d0",
       "title": "Software Development Trainee",
@@ -87,20 +108,6 @@
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/36522?utm_source=freehire.me",
       "location": "Portugal",
       "firstSeenAt": "2026-09-22T09:03:32.137Z"
-    },
-    {
-      "id": "bec5afca9d54748932f5c286ac0eca473605da68",
-      "title": "AI-Native DevOps Engineer Trainee",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38204?utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "99620b49ed17796675fc571ddb50b66b53beaafa",
-      "title": "Junior Software Engineer C++",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39808?utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]
 }

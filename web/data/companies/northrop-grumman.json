@@ -2,14 +2,14 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": 9.9,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,18 @@
     0,
     0,
     0,
-    22,
+    23,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0fcfc4750fe2c68e61f8cbd3b34053c4987e9422",
+      "title": "Data Scientist Intern, Product Support",
+      "url": "https://go.vansh.nyc/125",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "beb25b4b52547ba9504c4ad39cc820c656553df8",
       "title": "Associate Data Scientist",
@@ -101,13 +108,6 @@
       "url": "https://go.vansh.nyc/ST",
       "location": "Beavercreek, OH",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "d65c427139b9dbab1f0ae5efbd838a8f842de857",
-      "title": "New Grad 2027: Associate/Software Engineer Pathways",
-      "url": "https://go.vansh.nyc/Ay",
-      "location": "Linthicum, MD",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

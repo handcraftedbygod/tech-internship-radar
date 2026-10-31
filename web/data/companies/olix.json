@@ -1,22 +1,22 @@
 {
   "slug": "olix",
-  "name": "OLIX",
+  "name": "Olix",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "145c9aea28e81352b168ac9b8dc98e895c9b2ef8",
+      "title": "Software Engineering Intern",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/olix/software-engineering-intern-london-378383",
+      "location": "London, UK",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "1540536b177fedf4b10c7d0a738b880fd141c763",
       "title": "Software Engineering Intern",

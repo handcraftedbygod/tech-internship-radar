@@ -2,13 +2,17 @@
   "slug": "tohmo",
   "name": "TOHMO",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -29,11 +33,25 @@
     0,
     0,
     0,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a67ced95c21b42fe35ca67958a9b7ddebe88bacd",
+      "title": "Stage - Business Developer Junior - Mobilité Electrique - H/F",
+      "url": "https://www.jobteaser.com/fr/job-offers/4d47892f-f96e-4021-a5c4-eadf250f9b27-tohmo-stage-business-developer-junior-mobilite-electrique-h-f?utm_source=freehire.me",
+      "location": "Lyon, Auvergne-Rhône-Alpes",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "180cf1be40df6e404338a639547264a492c710a9",
+      "title": "Stage - Business Developer Junior - Mobilité Electrique - H/F",
+      "url": "https://www.jobteaser.com/fr/job-offers/a633a4b1-c660-4104-aae3-67cce2192ff5-tohmo-stage-business-developer-junior-mobilite-electrique-h-f?utm_source=freehire.me",
+      "location": "Paris, Île-de-France",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "f5ed88c6ea17c6cc09e5128c6b5fa2113f9b5f7a",
       "title": "Stage - Business Developer Junior - Mobilité Electrique - H/F",

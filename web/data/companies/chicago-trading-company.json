@@ -2,14 +2,14 @@
   "slug": "chicago-trading-company",
   "name": "Chicago Trading Company",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "quant",
       "label": "Quant",
-      "count": 2
+      "count": 4
     },
     {
       "id": "swe",
@@ -38,11 +38,25 @@
     0,
     3,
     0,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19e2ef9720935dcd82a96e775779ec5434ed1ef2",
+      "title": "New Grad 2027: Quant Trading Associate",
+      "url": "https://go.vansh.nyc/11f",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "3304152cc287549bae7eedc6c76655673f5412af",
+      "title": "New Grad 2027: Quant Trading Associate",
+      "url": "https://go.vansh.nyc/11e",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "3dea320e3c6c03be3c0b0cfe4a51bea40e25aca2",
       "title": "Quant Trading Intern",

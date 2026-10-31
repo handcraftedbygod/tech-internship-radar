@@ -2,14 +2,14 @@
   "slug": "vsp-vision",
   "name": "VSP Vision",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d8e33a1a9b7252c0519fac2672c74c40170017ff",
+      "title": "Agentic & Machine Learning Development Intern, AI",
+      "url": "https://go.vansh.nyc/113",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "0e8bb67f89fbf2cd93ae56585d37d84000ba3fef",
       "title": "Software Engineer Intern, Technology Innovation",

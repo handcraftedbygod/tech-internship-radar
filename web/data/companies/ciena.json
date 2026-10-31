@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": null,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -43,11 +43,18 @@
     0,
     0,
     0,
-    10,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c80c635483181e6fa8f4263be2d9ef07f2f4a47",
+      "title": "New Grad: Photonic Card Software Developer",
+      "url": "https://go.vansh.nyc/10O",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "3e44983a56d365eb1873c4914c2fcff74162cc24",
       "title": "Hardware Characterization Automation Co-op",
@@ -109,13 +116,6 @@
       "title": "Services Business Intelligence & Analytics Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
       "location": "Montreal, QC, Canada, Ottawa, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a878112068aa91a6c93829f0f2ed423bdb0f35dd",
-      "title": "Software Engineer Intern, Security",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-      "location": "Atlanta, GA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]

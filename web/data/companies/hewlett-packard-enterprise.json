@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Montreal",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "hw",
@@ -47,11 +47,18 @@
     0,
     0,
     5,
-    10,
+    11,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ee9e23a6b5a8647e0a0b54adfb17bf57e442178",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/111",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "f441f4cbc66415807d9e5a5cacc0ff86794e04c8",
       "title": "ASIC Verification Engineering Intern",
@@ -114,13 +121,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
       "location": "Roseville, CA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "4c96be2fa5c61ba60002299ca17505ef5b092850",
-      "title": "Hardware Engineering Design Intern",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
-      "location": "Roseville, CA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

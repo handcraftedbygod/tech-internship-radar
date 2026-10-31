@@ -1,0 +1,57 @@
+{
+  "slug": "mativ",
+  "name": "Mativ",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e1a931c33426b54925ba121665f08e0a2484f11e",
+      "title": "Data Science and Business Analytics Intern",
+      "url": "https://go.vansh.nyc/11Y",
+      "location": "Alpharetta, GA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "e2f855546dcc70981b30338f220b91fbe81e03f6",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/11W",
+      "location": "Alpharetta, GA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

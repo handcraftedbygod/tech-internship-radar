@@ -2,9 +2,9 @@
   "slug": "morningstar",
   "name": "morningstar",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     2,
     0,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a62b6000cd1a0311e9fbc6c726dbbd993ac7b32",
+      "title": "Tech Intern",
+      "url": "https://go.vansh.nyc/114",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "2ba8718bc9fc16456ec61d8ca0cffce11c72bbe0",
       "title": "Associate Software Engineer, Central Tech AI",

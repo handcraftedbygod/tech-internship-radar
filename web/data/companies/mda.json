@@ -1,0 +1,57 @@
+{
+  "slug": "mda",
+  "name": "MDA",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Montreal",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9fe0c4207880a12dd30c58dcff9dbabe2933f610",
+      "title": "FPGA Verification Intern",
+      "url": "https://go.vansh.nyc/127",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "3b88122cb6f2c3bb7cfba58874ca4d71c9d0831c",
+      "title": "FPGA Designer Intern",
+      "url": "https://go.vansh.nyc/126",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

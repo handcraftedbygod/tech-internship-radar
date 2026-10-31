@@ -2,21 +2,21 @@
   "slug": "staffgate",
   "name": "Staffgate Oy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     5,
     0,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6f3a3309656e6b3d8033c7ffe3f7403c86e5c2e",
+      "title": "Full Stack Developer Junior / Trainee",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZWVkMDJhYTYtY2ZmZi00Zjc0LTlhMTctZDAyMzE2MTg5NjkyIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "3afd4f7e601b87c6cb5e73566c4d4210449ff687",
       "title": "Junior Full-Stack Developer - Grow with Modern Web Apps",

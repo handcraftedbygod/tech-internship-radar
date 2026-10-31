@@ -1,0 +1,57 @@
+{
+  "slug": "beli",
+  "name": "Beli",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7cc4655304ffa17b5a0b3ea1a5f9c759bccb523c",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/11U",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "2626ccce3d6775b8f56c6441c9810ca9f4b0aff2",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/11T",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

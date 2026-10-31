@@ -2,14 +2,14 @@
   "slug": "snowflake",
   "name": "Snowflake",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Warsaw",
@@ -33,7 +33,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -46,11 +51,25 @@
     0,
     1,
     7,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6ceeb1630f2ba5462c6767270e6fbcc21993ee25",
+      "title": "Product Management Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "2c34f6399bd47bb94b00c566295f8e516e0ab880",
+      "title": "Product Marketing- Agentic Analytics Intern (Spring 2027)",
+      "url": "https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9",
+      "location": "US-CA-Menlo Park",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "91255715b7b5549a228428a073b34a672daadde9",
       "title": "Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)",
@@ -106,20 +125,6 @@
       "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
       "location": "DE-Berlin-Trion Building",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "1e2020ff0d9a445ecb76ab37b22f3754a8187b85",
-      "title": "Applied AI Intern - Warsaw",
-      "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
-      "location": "PL-Warsaw-Lixa C",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "37a23d326953257581d7832a7e17ab7d2beb20fc",
-      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
-      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
-      "location": "US-WA-Bellevue",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
     }
   ]
 }

@@ -2,26 +2,26 @@
   "slug": "mitre",
   "name": "MITRE",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": null,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,11 +34,32 @@
     0,
     0,
     0,
-    3,
+    6,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5554d5bb841046f6a5308b74dfcb9bb3145f238c",
+      "title": "Data Science and Engineering Intern",
+      "url": "https://go.vansh.nyc/10t",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "7d06d85f30722013d9a4324bb87adabc9aadddad",
+      "title": "Critical Infrastructure Protection Intern",
+      "url": "https://go.vansh.nyc/10s",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "40f34985c7edad967c94ac3b9fae03934d474dc0",
+      "title": "Trustworthy AI Intern",
+      "url": "https://go.vansh.nyc/10r",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "3dc6d15cc15d68b7e7d97527aafd1e47b643728b",
       "title": "Autonomous Systems Intern",

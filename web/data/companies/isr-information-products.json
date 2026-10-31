@@ -2,14 +2,14 @@
   "slug": "isr-information-products",
   "name": "ISR Information Products AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 34,
+  "totalPostings": 36,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 23
     },
     {
       "hub": "Berlin",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -38,11 +38,25 @@
     0,
     29,
     2,
-    3,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa28baba43130c6d6d8996fc9fdc716cdb28a924",
+      "title": "Junior DevOps Engineer Infrastruktur Monitoring Automatisierung (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003939832-S?utm_source=freehire.me",
+      "location": "Münster, Westfalen, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "cf8e1199ae4ec7c4c51413c7cbdf0e7232abcb36",
+      "title": "Junior DevOps Engineer Infrastruktur Monitoring Automatisierung (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzkzOTgzMi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "a3df3f5e06becea92ef5c17d297da33b5b7af222",
       "title": "Junior DevOps Engineer Infrastruktur Monitoring Automatisierung (m/w/d) - ISR Information Products AG",
@@ -98,20 +112,6 @@
       "url": "https://www.adzuna.de/land/ad/5851140037?se=zg5-sVuf8RGZfcGiONvJew&utm_medium=api&utm_source=freehire.me&v=EA154FB63C78E448BAB65DD138DE0392045AC947",
       "location": "Deutschland",
       "firstSeenAt": "2026-08-24T04:44:21.499Z"
-    },
-    {
-      "id": "e9aaee01cf0fdf8797ce20c3f55f374c5e738681",
-      "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5851140055?se=ZLNj8B-f8RGuhb29SBmEeQ&utm_medium=api&utm_source=freehire.me&v=FD3CC9275D0AD7056244DBA1AAA674E4C6C63F96",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-08-24T04:44:21.499Z"
-    },
-    {
-      "id": "a198c6c26fb632a2942a520ad8734ccb355ece2a",
-      "title": "Computer Engineer as Trainee Data Engineer / Data Scientist (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5851140055?se=FrJh1Uae8RGU6LIjyaRnwA&utm_medium=api&utm_source=freehire.me&v=FD3CC9275D0AD7056244DBA1AAA674E4C6C63F96",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]
 }

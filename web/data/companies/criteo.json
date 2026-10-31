@@ -2,9 +2,9 @@
   "slug": "criteo",
   "name": "Criteo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -38,11 +38,18 @@
     0,
     1,
     2,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c83f2e4fa27bc961ceed51defd686f0a4640c03b",
+      "title": "Data Analyst Intern",
+      "url": "https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Barcelona/Data-Analyst-Intern_r21329?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "2315f29fcf432f0e29e34ad800a69e474d89ab76",
       "title": "DevOps Engineer Intern",

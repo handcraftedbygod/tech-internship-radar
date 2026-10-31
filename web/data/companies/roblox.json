@@ -2,14 +2,14 @@
   "slug": "roblox",
   "name": "Roblox",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 22.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -44,11 +44,18 @@
     0,
     6,
     4,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e256b954a577cf83f9e0b18261ca4004e6583a3c",
+      "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+      "location": "San Mateo, CA, United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "fc3d08deb075c18ca59f7c367a1d590f5e6b8772",
       "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
@@ -109,13 +116,6 @@
       "id": "a54b87a49fb2a7bca8ca0570a18d6619e0ae8bff",
       "title": "[Summer 2027] Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-      "location": "San Mateo, CA, United States",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
-    },
-    {
-      "id": "8fa31353b5f6a678441676c19e066f8e1c56b1f3",
-      "title": "[2027] Software Engineer, Early Career",
-      "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
       "location": "San Mateo, CA, United States",
       "firstSeenAt": "2026-08-06T06:29:13.112Z"
     }

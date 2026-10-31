@@ -4,8 +4,8 @@
   "tier": "elite",
   "currentOpenings": 14,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": 15.5,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 15.2,
   "topLocations": [
     {
       "hub": "Other",
@@ -16,15 +16,15 @@
       "count": 7
     },
     {
+      "hub": "London",
+      "count": 3
+    },
+    {
       "hub": "Paris",
       "count": 2
     },
     {
       "hub": "Zurich",
-      "count": 2
-    },
-    {
-      "hub": "London",
       "count": 2
     }
   ],
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -55,11 +55,18 @@
     0,
     0,
     2,
-    20,
+    21,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d67378cc7674aa0a19561f62e15ddcb7caa3e47f",
+      "title": "Intern, Site Reliability Engineer, iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "b74e3687a68068a9ab2db49849e4a2b15f3f8a3a",
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
@@ -122,13 +129,6 @@
       "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform?utm_source=freehire.me",
       "location": "London",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "1719c8355ba57c61ff2b0da5709265b758316bf4",
-      "title": "Internship - Software Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200690139/internship-software-engineering?utm_source=freehire.me",
-      "location": "Munich",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

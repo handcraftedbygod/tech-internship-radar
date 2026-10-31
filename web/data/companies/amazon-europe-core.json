@@ -1,0 +1,63 @@
+{
+  "slug": "amazon-europe-core",
+  "name": "Amazon Europe Core",
+  "tier": "elite",
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2fad35985b53f19db7bc6267393aa97f5e41a745",
+      "title": "Software Dev Engineer internship - Embedded Development (m/w/d)",
+      "url": "https://www.adzuna.de/details/5947240847?utm_medium=api&utm_source=freehire.me",
+      "location": "Berlin, Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "cae2b55bdf55f67d8d3c13bbef1d50d89bc34980",
+      "title": "Software Dev Engineer Internship - Embedded Development (linux) (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947574223?se=zsf4oPPU8RGH0KfM3_j2BQ&utm_medium=api&utm_source=freehire.me&v=09A47CCC942E0EFEEA82AC13B363C9EFE58B129F",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "1460721913a3555194821f32e604fbd45cc0edcd",
+      "title": "Software Dev Engineer Internship - Embedded Development (linux) (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947574223?se=cuo9TRPV8RGbybSyntEGdA&utm_medium=api&utm_source=9141e2e6&v=09A47CCC942E0EFEEA82AC13B363C9EFE58B129F",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

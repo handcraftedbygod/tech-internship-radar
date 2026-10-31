@@ -2,21 +2,21 @@
   "slug": "abrio",
   "name": "ABRIO GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -29,11 +29,18 @@
     0,
     3,
     1,
-    0,
+    1,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b14b525272667e4b52754b82a647cce1407c5034",
+      "title": "Junior Fullstack Developer",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-55975",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "782fcc81670dd5fe0b738db715b64c07ae53a7ae",
       "title": "Junior Fullstack Developer",

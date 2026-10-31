@@ -1,0 +1,45 @@
+{
+  "slug": "the-new-york-times",
+  "name": "The New York Times",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ab8548cf2ddfefbf6de0896f6a837be14fd4d91f",
+      "title": "Backend Engineering Intern, Wirecutter",
+      "url": "https://go.vansh.nyc/10Y",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

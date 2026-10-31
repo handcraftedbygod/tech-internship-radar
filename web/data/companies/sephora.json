@@ -1,0 +1,59 @@
+{
+  "slug": "sephora",
+  "name": "Sephora",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5a34adec07e0644fb0b2bed494a9891322d4e422",
+      "title": "AI & Distribution Analytics Intern",
+      "url": "https://go.vansh.nyc/11Q",
+      "location": "United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "9c6b530a07b63f28d557f266ffd46b5acc85a051",
+      "title": "AI Platform Infrastructure Intern, Technology",
+      "url": "https://go.vansh.nyc/11N",
+      "location": "United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "2918f21d659ca0ad55d012de218e0ee05860264c",
+      "title": "AI Automation Intern, WMS & DC Systems",
+      "url": "https://go.vansh.nyc/11M",
+      "location": "United States",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

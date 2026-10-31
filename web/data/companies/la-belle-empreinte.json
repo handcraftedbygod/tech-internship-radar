@@ -2,14 +2,14 @@
   "slug": "la-belle-empreinte",
   "name": "LA BELLE EMPREINTE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,25 @@
     0,
     0,
     2,
-    0,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "922a8e94020ed1e8476b5e7451c4b58950798ac2",
+      "title": "DEVELOPPEUR JUNIOR FULL STACK & IA (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODQyMzgzNCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "cc3d2f1cbb2ad0bf3c14212b216b728f947b16bd",
+      "title": "DEVELOPPEUR JUNIOR FULL STACK & IA (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODQyMzgzNCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "8d56b4285d3c0b3cfb6666befa805cc57bc73671",
       "title": "DEVELOPPEUR JUNIOR FULL STACK & IA",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 10.2,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,18 @@
     0,
     0,
     0,
-    6,
+    7,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df67bf92c3cbf2be112b82667f5cab95a581e764",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__583279701__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "4f65030e387e66db3ad116e3c4b82759c5362ec8",
       "title": "Junior Data Engineer — Helpdesk & Data Pipelines",

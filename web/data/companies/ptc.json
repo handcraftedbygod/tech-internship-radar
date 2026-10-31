@@ -2,9 +2,9 @@
   "slug": "ptc",
   "name": "PTC",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "San Francisco",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -33,11 +37,18 @@
     0,
     0,
     0,
-    4,
+    5,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03cb35bb95e74664e9422e09c07045cc4e947848",
+      "title": "Software Engineering Summer Internship 2027 - Cambridge",
+      "url": "https://ptc.wd1.myworkdayjobs.com/PTC/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998?utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "68dc114bab98c9c5c0c379fbdea10963ff04ba98",
       "title": "Arena Engineering Intern",

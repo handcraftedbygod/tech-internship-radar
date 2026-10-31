@@ -2,9 +2,9 @@
   "slug": "stark",
   "name": "Stark",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -38,11 +42,18 @@
     0,
     0,
     5,
-    2,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d6acd143a0f0f75bd2eaf0207dfa4f4468691d2",
+      "title": "Junior Software Engineer – Robotics Swarming (All Genders)",
+      "url": "https://job-boards.eu.greenhouse.io/skdse/jobs/4981493101?utm_source=freehire.me",
+      "location": "Germany; Munich, Bavaria, Germany",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "0e14d9c5c9102d30f2d44244435e49125bd10bb7",
       "title": "Production Data Engineer - Intern (All Genders)",

@@ -1,0 +1,52 @@
+{
+  "slug": "abound",
+  "name": "Abound",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-10-31T10:12:38.255Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5c36b59e0b3f1c738befe80f0720f3ee4dfbfe8b",
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.ashbyhq.com/abound/582538c4-9b6e-464f-932e-eb4a4337bc7b?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "933808c70ddc5bf3acfd0ab650646382a46aab72",
+      "title": "Junior Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/junior-software-engineer-london-448712",
+      "location": "London",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    }
+  ]
+}

@@ -2,18 +2,18 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 124,
+  "totalPostings": 126,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 100
+      "count": 101
     },
     {
       "hub": "Seattle",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "London",
@@ -35,6 +35,11 @@
       "id": "biz",
       "label": "Business",
       "count": 4
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -47,11 +52,25 @@
     0,
     114,
     9,
-    1,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83a6a4fb8e86ae2aac52757e08fa2a7a63ffe89f",
+      "title": "Product Manager Intern, Global Monetization Product and Technology",
+      "url": "https://go.vansh.nyc/11y",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "297fe82cb17454af66678d5a5e2c23c47bfa7425",
+      "title": "Product Manager Project Intern, Global Monetization Product and Technology",
+      "url": "https://go.vansh.nyc/11x",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "67790a1cac7268e22c4a106f0a98a7ab5ce3935a",
       "title": "Software Engineer Intern, Recommendation Performance Efficiency",
@@ -106,20 +125,6 @@
       "title": "Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer",
       "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommerce-quality-platform-ai-test-automation-2027-summer",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "83abcf94dc1e83e397c4704d9a08445f5b371ebb",
-      "title": "Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-knowledge-graph-2027-start-phd-4bdca5",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "6f178cfc2cbbeb8a2836a42d5751c95df0f94785",
-      "title": "Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommercequality-platform-ai-test-automation-2027-summer",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-09-04T08:34:08.869Z"
     }
   ]

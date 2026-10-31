@@ -2,21 +2,25 @@
   "slug": "nissan",
   "name": "Nissan",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": null,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
       "count": 7
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -34,11 +38,18 @@
     0,
     0,
     0,
-    7,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea578d58b7017ebc08dc7ca2ece787c9faabba97",
+      "title": "Vehicle Noise Testing & Machine Learning Engineer, Trainee",
+      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Barcelona-ZF/Vehicle-Noise-Testing---Machine-Learning-Engineer--Trainee_R00215503-1?utm_source=freehire.me",
+      "location": "Barcelona ZF",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "27e78dfe08a79a80c6357d32f59f14bbc8b2831c",
       "title": "AI Intern",

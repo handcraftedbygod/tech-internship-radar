@@ -2,25 +2,25 @@
   "slug": "kassavirtanen",
   "name": "Kassavirtanen Oy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Helsinki",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -33,11 +33,32 @@
     0,
     0,
     4,
-    0,
+    3,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e25af491dd623f0dc10b5ffd20fb11b2f8af5c99",
+      "title": "Junior Software Tester",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/YTI4N2E3ODAtMmVkNC00MThlLTlhMTktNDE4MjNiNzljYmViIDgx?lang=en&utm_source=freehire.me",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "1505fb81582fca1845987a1208312e7b2029386d",
+      "title": "Junior Software Tester",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/a287a780-2ed4-418e-9a19-41823b79cbeb/en?utm_source=freehire.me",
+      "location": "Helsinki, Finland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "16b074df296416991f889c1442a6fbbd39c0bcd1",
+      "title": "Junior Software Tester",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/YTI4N2E3ODAtMmVkNC00MThlLTlhMTktNDE4MjNiNzljYmViIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "b411dabfc3a29aab18a2e42ac78f5b3d4e25f38a",
       "title": "Junior Front-end Developer",

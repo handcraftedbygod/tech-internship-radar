@@ -2,14 +2,14 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 16
     },
     {
       "id": "swe",
@@ -46,11 +46,25 @@
     0,
     9,
     0,
-    6,
+    8,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8391be36e20ed0d81d7be16d82861c76c56480d9",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5944836219?se=cuo9TRPV8RGbybSyntEGdA&utm_medium=api&utm_source=9141e2e6&v=A2C052EF5A0A12FB43FCD3D098CB60F5982D3D3A",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "e93c5373e3d0d8b327e54d0065235235ba5be493",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5944751066?se=cuo9TRPV8RGbybSyntEGdA&utm_medium=api&utm_source=9141e2e6&v=CC9DB04F0A076BB11C1C89F3687E986C0325587D",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "dcb02808e7e2b58a5bf68c8f7af96c423e172447",
       "title": "Internship in AI & Machine Learning (f/m/x)",
@@ -106,20 +120,6 @@
       "url": "https://www.adzuna.de/land/ad/5837091981?se=3IFfOdmW8RGqC9vxFa8eKw&utm_medium=api&utm_source=9141e2e6&v=D3E97D1D3574BDAAA0B036297B60D26D822B003A",
       "location": "Deutschland",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "da878f250bde3fe582f62d1857779998cd560fe5",
-      "title": "Internship Data Scientist in Zurich (f/m/x)",
-      "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Zurich/Internship-Data-Scientist-in-Zurich--f-m-x-_JR_1049900?utm_source=freehire.me",
-      "location": "Zurich",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "329ed4fa16b836d24830c0126f8c4d151fa8de98",
-      "title": "Internship Data Scientist in Zurich (f/m/x)",
-      "url": "https://www.adzuna.de/land/ad/5837091981?se=sjVOzQ6W8RGbOuxrzDNdaA&utm_medium=api&utm_source=9141e2e6&v=D3E97D1D3574BDAAA0B036297B60D26D822B003A",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

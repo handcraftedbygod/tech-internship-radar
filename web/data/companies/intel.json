@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 12.2,
+  "totalPostings": 24,
+  "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ai",
@@ -47,11 +47,18 @@
     0,
     0,
     0,
-    23,
+    24,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7441a4025f6a5b98854d76bf2d8bfdab5ef825ef",
+      "title": "New Grad: Software Application Development Engineer",
+      "url": "https://go.vansh.nyc/11c",
+      "location": "Hillsboro, OR, Phoenix, AZ",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "fdf71086b510d4a8c9d346ec256e98fbce5af589",
       "title": "EDA Tools Software Engineer",
@@ -114,13 +121,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "bef5d957624dab5721fd0c7c5d819d9c5f0063c4",
-      "title": "System Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

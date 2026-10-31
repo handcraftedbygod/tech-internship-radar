@@ -2,20 +2,25 @@
   "slug": "free-work",
   "name": "Free-Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -29,11 +34,18 @@
     0,
     0,
     0,
-    1,
+    2,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c50f4a092ca2f643b8fd65b984302384391029ed",
+      "title": "Business Developer Junior – ESN - Conseil en Ingénierie à Lyon H/F",
+      "url": "https://www.cadremploi.fr/emploi/detail_offre?offreId=156569535309990632&utm_source=freehire.me",
+      "location": "Lyon, Rhône-Alpes",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "306477d87cb5e46ba6eaae035bef5e864da12d16",
       "title": "Junior Data Engineer: SSIS & SQL Server Pipelines",

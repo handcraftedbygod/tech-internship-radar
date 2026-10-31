@@ -2,14 +2,14 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 11.1,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "Other",
@@ -20,12 +20,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
       "label": "Design",
       "count": 5
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,11 +43,25 @@
     0,
     0,
     0,
-    12,
+    14,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8820b5aab1fa0107be8efb6e9d2860e8b0b9aca3",
+      "title": "Hardware Design Engineer Intern",
+      "url": "https://go.vansh.nyc/10W",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
+    {
+      "id": "3d76f29f674625f31fe44659fb18a1d86aa88c9c",
+      "title": "FPGA Development Tools Intern",
+      "url": "https://go.vansh.nyc/10V",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "cfac99b179a1d08e3ccb20e8ba6eecb25e300d30",
       "title": "Internship – FPGA Software Design Engineer",
@@ -98,20 +117,6 @@
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
       "location": "Toronto, Canada",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "3f99414050eeb192651c5030c7c2f27e56b01c3c",
-      "title": "Software Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Toronto-Ontario-Canada/Software-Intern_R03373",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "c6031fc1ce3862777dcc5672cbfe1f2304bdd427",
-      "title": "FPGA IP Design Engineer Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

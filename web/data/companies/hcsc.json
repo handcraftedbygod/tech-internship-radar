@@ -2,25 +2,25 @@
   "slug": "hcsc",
   "name": "HCSC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     },
     {
@@ -39,11 +39,18 @@
     0,
     0,
     0,
-    3,
+    4,
     0,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08d273e2f61403d393cdf166f7f9ac9c41fdb682",
+      "title": "Cybersecurity Operations Intern",
+      "url": "https://go.vansh.nyc/11Z",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+    },
     {
       "id": "2aac025f914451be56a10dffca3d4e8587d9990b",
       "title": "Product Engineer Intern",
