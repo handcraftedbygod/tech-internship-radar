@@ -1,5 +1,273 @@
 [
   {
+    "weekOf": "2026-10-25",
+    "newCount": 1560,
+    "prevWeekCount": 1377,
+    "pctChange": 13.3,
+    "totalTracked": 9229,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 832
+      },
+      {
+        "hub": "San Francisco",
+        "count": 277
+      },
+      {
+        "hub": "London",
+        "count": 84
+      },
+      {
+        "hub": "Seattle",
+        "count": 66
+      },
+      {
+        "hub": "New York",
+        "count": 39
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "tiktok",
+        "name": "TikTok",
+        "count": 160
+      },
+      {
+        "slug": "bytedance",
+        "name": "ByteDance",
+        "count": 106
+      },
+      {
+        "slug": "visa",
+        "name": "Visa",
+        "count": 35
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "count": 30
+      },
+      {
+        "slug": "lidl-stiftung-co-kg",
+        "name": "Lidl Stiftung & Co KG",
+        "count": 24
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 422,
+      "sample": [
+        {
+          "slug": "326-altera-semiconductor-technology-uk",
+          "name": "326 Altera Semiconductor Technology UK Limited"
+        },
+        {
+          "slug": "42dot",
+          "name": "42dot"
+        },
+        {
+          "slug": "55-tech",
+          "name": "55 Tech"
+        },
+        {
+          "slug": "8808-mentor-medical-systems-bv-legal-entity",
+          "name": "8808-Mentor Medical Systems B.V. Legal Entity"
+        },
+        {
+          "slug": "abacus-insights",
+          "name": "Abacus Insights"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "ai",
+      "label": "Data / AI",
+      "pctChange": 57.2
+    },
+    "notableHiring": [
+      {
+        "slug": "visa",
+        "name": "Visa",
+        "badge": "NOTABLE",
+        "count": 35
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 30
+      },
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "badge": "FAANG",
+        "count": 10
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 9
+      },
+      {
+        "slug": "amazon-europe-core",
+        "name": "Amazon Europe Core",
+        "badge": "FAANG",
+        "count": 8
+      },
+      {
+        "slug": "squarepoint-capital",
+        "name": "Squarepoint Capital",
+        "badge": "NOTABLE",
+        "count": 7
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 4
+      },
+      {
+        "slug": "databricks",
+        "name": "Databricks",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "wise",
+        "name": "Wise",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "palantir-technologies",
+        "name": "Palantir Technologies",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "meta",
+        "name": "Meta",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "netflix",
+        "name": "Netflix",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "spacex",
+        "name": "SpaceX",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "apple-bank",
+        "name": "Apple Bank",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "amazon-development-center-us-inc-b02",
+        "name": "Amazon Development Center U.S., Inc. - B02",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "uber",
+        "name": "Uber",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "amazon-uk-services",
+        "name": "Amazon UK Services Ltd.",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "figma",
+        "name": "Figma",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "microsoft",
+        "name": "Microsoft",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "roblox",
+        "name": "Roblox",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap",
+        "name": "SAP",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Roblox",
+      "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+      "hub": "San Francisco",
+      "currency": "usd",
+      "low": 92,
+      "high": 115
+    },
+    "headline": {
+      "company": "Palantir",
+      "title": "Finance Operator Intern",
+      "url": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
+      "hub": "New York",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 40,
+      "high": 50
+    },
+    "earlyPick": {
+      "company": "Enterprise Mobility",
+      "title": "Intern - Systems Engineer, Summer 2027",
+      "url": "https://www.themuse.com/jobs/enterprisemobility/intern-systems-engineer-summer-2027",
+      "season": "Summer 2027",
+      "hub": "Other"
+    }
+  },
+  {
     "weekOf": "2026-10-18",
     "newCount": 1377,
     "prevWeekCount": 820,
