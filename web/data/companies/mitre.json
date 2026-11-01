@@ -2,21 +2,21 @@
   "slug": "mitre",
   "name": "MITRE",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7698d5cd0176b6d70af34f46e2f1dc62e7eb196f",
+      "title": "AI Solutions Architect Intern",
+      "url": "https://go.vansh.nyc/13Y",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "5554d5bb841046f6a5308b74dfcb9bb3145f238c",
       "title": "Data Science and Engineering Intern",

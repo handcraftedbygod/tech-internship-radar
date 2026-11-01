@@ -2,14 +2,14 @@
   "slug": "la-international",
   "name": "LA International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     4,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04bc48c6a66029bf35b204d5c01cc1e554a2c903",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__594121725__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "3ed4ce75c5d81f78ac0c556d1b32fc863276a184",
+      "title": "Junior Java Developer – Spring Boot, Hybrid London",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__594121374__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "fb870ac8f8e52504a3ae1c43e733b193192f48e2",
       "title": "Junior Full Stack Developer",

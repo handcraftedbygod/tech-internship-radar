@@ -2,21 +2,21 @@
   "slug": "nintendo",
   "name": "Nintendo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,59 @@
     0,
     0,
     1,
-    0,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5773e7e88547cde773c34ea85002bc6f85be9d3f",
+      "title": "Software Engineer Intern, Performance Tools",
+      "url": "https://go.vansh.nyc/12q",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "f654a721c8d20f85d2f04eead6c5ff848192513e",
+      "title": "Software Engineer Intern, Connectivity",
+      "url": "https://go.vansh.nyc/12p",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "0bd655ab3b1b6525cfaa44e7ef048d186142243f",
+      "title": "Software Engineer Intern, Platform Security",
+      "url": "https://go.vansh.nyc/12o",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "fcd526a9c20dbd0f2fa5f2c9d92ce1a97b8314ef",
+      "title": "Software Engineer Intern, Audio",
+      "url": "https://go.vansh.nyc/12n",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "8184972b88092c1f474d55c619d7e9e16a607052",
+      "title": "Software Engineer Intern, DevOps",
+      "url": "https://go.vansh.nyc/12m",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "ecbc20950360ab2dc2cfbc7e5b56b06a109b067e",
+      "title": "Software Engineer Intern, CPU Profiler",
+      "url": "https://go.vansh.nyc/12l",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "0863635600487473f47532ae518470dca98648df",
+      "title": "Software Engineer Intern, CPU Debugger",
+      "url": "https://go.vansh.nyc/12k",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "a0ff74b6b893be45d8dde88c10d4987f6649a9b3",
       "title": "Software Engineer Intern, Graphics",

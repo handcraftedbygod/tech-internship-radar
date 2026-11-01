@@ -2,21 +2,21 @@
   "slug": "sr2-rec",
   "name": "SR2 REC LTD",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     1,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68d0700e9266cc9222a6210813f8d209d4e0b827",
+      "title": "Junior Data Engineer - AWS - SC Cleared",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__584289032__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "ca84d8774ddf3db32098843d88a5f3aa1e4c8654",
+      "title": "Junior Data Engineer - AWS, Kafka & Terraform (SC)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__584289383__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "07821849f625420cd277f7c01fdc328e21d4867f",
       "title": "Junior Data Engineer - AWS, Kafka & Terraform (SC)",

@@ -2,13 +2,17 @@
   "slug": "geotab",
   "name": "Geotab",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1393fce3bce576af8133b891e09c2873df4ad1ce",
+      "title": "Software Developer Intern, Geotab Vitality",
+      "url": "https://go.vansh.nyc/17F",
+      "location": "Oakville, Canada, Toronto, Canada, Waterloo, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "88af385efb61c91598747efc0804d37304cf9cd0",
+      "title": "Software Developer Intern, MyAdmin",
+      "url": "https://go.vansh.nyc/17E",
+      "location": "Oakville, Canada, Waterloo, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e09dae6dc02c6cfeb293af1f598e71ef1b10e1c0",
       "title": "Data Analyst Intern",

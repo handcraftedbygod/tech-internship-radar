@@ -2,21 +2,21 @@
   "slug": "one-big-circle",
   "name": "One Big Circle",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     3,
     1,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0925aa32d096407aa0d1e651dc9682d149b7cf76",
+      "title": "Junior Software Engineer: Grow with Scalable Data Platform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__582026361__7082?utm_campaign=publisher&utm_medium=api&geoID=22&utm_source=freehire.me",
+      "location": "Bristol, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "4f5ee922432d00fa76d7c505e0009e2151b0c4b6",
       "title": "Junior Software Engineer: Grow with Scalable Data Platform",
@@ -96,13 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5840202842?utm_medium=api&utm_source=freehire.me",
       "location": "Bishopsworth, Bristol",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "3919f8e4dfff887cdccdf17d77d61b730b2c7f52",
-      "title": "Junior Device Software Developer",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__494129116__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "United Kingdom",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

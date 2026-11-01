@@ -1,0 +1,52 @@
+{
+  "slug": "new-york-iso",
+  "name": "New York ISO",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "350ca8ff6ddf485c3cedffd9b12d45e5f81d9411",
+      "title": "Software Engineering Co-op, IT",
+      "url": "https://go.vansh.nyc/13J",
+      "location": "Rensselaer, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "3603b96056342c0cbfb04c98031d4f803bb903f5",
+      "title": "IT Software Development Intern",
+      "url": "https://go.vansh.nyc/13f",
+      "location": "Rensselaer, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

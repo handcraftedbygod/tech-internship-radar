@@ -2,13 +2,17 @@
   "slug": "arcesium",
   "name": "Arcesium",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Lisbon",
+      "count": 1
+    },
+    {
+      "hub": "New York",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9de094a4b9a7e9f4ab316a9895e40b51fdc74b6f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/12z",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "25c4a60f6702a6ad8891ad194f54a0cc9bca860c",
       "title": "Junior Software Engineer",

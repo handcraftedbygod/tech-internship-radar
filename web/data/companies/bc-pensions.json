@@ -2,21 +2,21 @@
   "slug": "bc-pensions",
   "name": "BC Pensions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3cbf05e085a8dc9c6fb65e6a849d55eb16c452d2",
+      "title": "Junior Security Analyst Co-op",
+      "url": "https://go.vansh.nyc/13B",
+      "location": "Victoria, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e1724f9b9c376fb2fb8e739c26644744a7373bab",
       "title": "Application Developer Co-op",

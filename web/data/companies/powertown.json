@@ -1,0 +1,45 @@
+{
+  "slug": "powertown",
+  "name": "Powertown",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4c00302d9db3919603c982d5ac880d815133f46e",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/13k",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

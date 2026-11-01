@@ -2,25 +2,25 @@
   "slug": "talent-international-uk",
   "name": "TALENT INTERNATIONAL UK LTD",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,31 @@
     0,
     0,
     3,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b138d866db9a7c2d77d75e8bf80655ebfa39d5da",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5945425402?se=7HnvfJPT8RGBzIFjJBUquw&utm_medium=api&v=28BEEBABD370EDAAB82BA13F2F6A64165E9290F2&utm_source=freehire.me",
+      "location": "West Midlands, UK",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "d374c103ef551e3c2b7d562261f940e740d0c24d",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__588854162__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "e05477c1fc7ac2e4e7bde28c0c7eb00544ef9f3c",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__589312581__7082?utm_campaign=publisher&utm_medium=api&geoID=12&utm_source=freehire.me",
+      "location": "West Midlands, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "92e34d93ed9171aa69e2d0cd359a8ff11bf6274c",
       "title": "Junior Data Engineer",

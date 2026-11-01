@@ -1,0 +1,52 @@
+{
+  "slug": "foresters-financial",
+  "name": "Foresters Financial",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c4c2545eceba3740cc6078126a3a1fc510af93bd",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/13E",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "63224d278594a325e913498afdbfcaba5af2d9ce",
+      "title": "Software Engineer Co-op, AI",
+      "url": "https://go.vansh.nyc/13D",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

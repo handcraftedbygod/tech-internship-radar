@@ -2,21 +2,21 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     0,
     0,
     9,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53f846fc2b5fa69b89aa3ceb03ec61852702fade",
+      "title": "DevOps Engineer Intern",
+      "url": "https://go.vansh.nyc/12S",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "8aa64fe597e8c549cd64532d646d0ceab962dc91",
       "title": "Software Test Engineering Intern, Space and Embedded Crypto",

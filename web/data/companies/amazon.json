@@ -2,18 +2,18 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 23,
+  "currentOpenings": 27,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 42,
+  "totalPostings": 46,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 20
     },
     {
       "hub": "Seattle",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 28
     },
     {
       "id": "hw",
@@ -61,10 +61,38 @@
     0,
     1,
     41,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bb4a23c62e6bab94d26da24a1abaa18ebcddda4",
+      "title": "Software Development Engineer, Amazon Leo",
+      "url": "https://go.vansh.nyc/17q",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "7034b40b8cadf4ef697f052173a74942f1f9003d",
+      "title": "Software Development Engineer, Amazon Dedicated Cloud",
+      "url": "https://go.vansh.nyc/17p",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "5d6d59396babf72efeab75c0264a3ec989507be7",
+      "title": "Software Development Engineer",
+      "url": "https://go.vansh.nyc/17o",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "99bc093363780a5da6c0fdbe42b9cb35d78c679a",
+      "title": "New Grad 2027: ASIC Engineer I, Annapurna Labs",
+      "url": "https://go.vansh.nyc/17n",
+      "location": "Cupertino, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e1a4b87697ea8f870874adb712b92558f54f75bd",
       "title": "Business Developer Intern, Early Careers 2027",
@@ -106,34 +134,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk?utm_source=freehire.me",
       "location": "London, England, GBR",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "307b5b7b23c637c923e18c7582e6c144fbcd0469",
-      "title": "Business Developer Intern, Early Careers 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027?utm_source=freehire.me",
-      "location": "London, England, GBR",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "8c2a3d3ef4e2ad8085cdac78bdb6d6456223d350",
-      "title": "Data Engineer",
-      "url": "https://go.vansh.nyc/Bh",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "7e49ca9eeac77ab712b3d432028b77d628550adb",
-      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
-      "url": "https://go.vansh.nyc/Bg",
-      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "fca17ccc094cb96fadd9234d3cc7e181876bc195",
-      "title": "New Grad 2027: Software Development Engineer",
-      "url": "https://go.vansh.nyc/B2",
-      "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "yora-sigma",
   "name": "Yora Sigma",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7026a2913ef3c8ade3562d1e495971dcb5aea75f",
+      "title": "Junior Android Platform Software Engineer",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21940953__7150?utm_campaign=publisher&utm_medium=api&geoID=21&utm_source=freehire.me",
+      "location": "Västra Götalands län, Sweden",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "4e66fc781f0735fe36a49b2b84b8ca259358ec23",
       "title": "Junior Android Platform Software Engineer",

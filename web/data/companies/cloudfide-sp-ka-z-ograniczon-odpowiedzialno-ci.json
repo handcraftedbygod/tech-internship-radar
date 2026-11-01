@@ -2,13 +2,17 @@
   "slug": "cloudfide-sp-ka-z-ograniczon-odpowiedzialno-ci",
   "name": "CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bcd03a3113543244383d97e7ab857b303a5e37d5",
+      "title": "Junior Data Engineer - Azure & Databricks, Remote Growth Path",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__33932022__7143?utm_campaign=publisher&utm_medium=api&geoID=1030&utm_source=freehire.me",
+      "location": "Kielce, Poland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "ff14f61c39954f28430c48fa609235c3c3eb5824",
       "title": "Junior+/Mid Data Engineer",

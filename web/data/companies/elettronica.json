@@ -2,21 +2,21 @@
   "slug": "elettronica",
   "name": "Elettronica GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3bf8ba5395d89e534ef952a42d2483e9584fdac4",
+      "title": "Werkstudent – Software Development (gn) (Berufsspezialist/in - Softwareentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTI1MTMtMDAwNzY2MDg3NS1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Meckenheim, Rheinland, Germany",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "81794989e392f7f7cd4d119450233970a6f7fd1d",
       "title": "Werkstudent – Software Development (gn) (Berufsspezialist/in - Softwareentwicklung)",

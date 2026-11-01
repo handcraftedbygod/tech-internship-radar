@@ -2,14 +2,14 @@
   "slug": "procter-gamble-espa-a",
   "name": "Procter & Gamble España",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     8,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cf30779bc5021b8337499ba3536300fca664dc3",
+      "title": "Data Engineer Internship (m/f/x)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366291525__7107?utm_campaign=publisher&utm_medium=api&geoID=2&utm_source=freehire.me",
+      "location": "Aragon, Spain",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "fd2302181df66bb6134b5fef3e3a6fc4ffc8a292",
       "title": "Data Engineer Internship (m/f/x)",

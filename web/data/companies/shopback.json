@@ -1,0 +1,56 @@
+{
+  "slug": "shopback",
+  "name": "ShopBack",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7a4e9dc7190072d5b7aee4cbdb4d7a0495f166f4",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/13p",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "8dcee98ae768b02e515a07d41a586b853ac1a1d5",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/13o",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

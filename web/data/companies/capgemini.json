@@ -2,9 +2,9 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     12,
     10,
     9,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1aa2e138e7c3516f7ea6e33fdac0ca1023c110f",
+      "title": "Werkstudent Software Engineering (w/m/d)",
+      "url": "https://careers.capgemini.com/job/Berlin-Werkstudent-Software-Engineering-%28wmd%29/1281529601/?utm_source=freehire.me",
+      "location": "Berlin, DE",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "bd5f7ccd01af5576841122096b4beef95803c327",
       "title": "Junior Data Scientist",
@@ -122,13 +129,6 @@
       "url": "https://careers.capgemini.com/job/Lisboa-Junior-Cloud-Platform-Engineer/1431013233/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "702b243e0d0e06f02efb43b5b0472bc59b31876a",
-      "title": "Junior Site Reliability Engineer",
-      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Site-Reliability-Engineer/1438343533/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-09-21T09:38:26.661Z"
     }
   ]
 }

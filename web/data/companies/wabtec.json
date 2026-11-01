@@ -2,21 +2,21 @@
   "slug": "wabtec",
   "name": "Wabtec",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ec90cfab6feca220f75d964b25436f444126309",
+      "title": "LEAD Information Technology Intern",
+      "url": "https://go.vansh.nyc/13u",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "a95f1b9af7eea5b513ac9e821452588e260dbd98",
       "title": "Software Engineering Co-op",

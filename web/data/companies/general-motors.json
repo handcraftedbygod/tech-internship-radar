@@ -2,9 +2,9 @@
   "slug": "general-motors",
   "name": "General Motors",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 8
     },
     {
-      "hub": "Seattle",
-      "count": 1
+      "hub": "Dublin",
+      "count": 2
     },
     {
-      "hub": "Dublin",
+      "hub": "Seattle",
       "count": 1
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "956a063a4b40449c7bff3e8f7728bacd833450e0",
+      "title": "Java Software Engineer Intern",
+      "url": "https://www.themuse.com/jobs/generalmotors/java-software-engineer-intern",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e99c899e8354082415ac96ec10195259637e5ed7",
       "title": "Java Software Engineer Intern",
@@ -107,13 +114,6 @@
       "id": "3fde3b560bee168c1ab132266ba0cce8aa2da01f",
       "title": "Research and Development Intern, Machine Learning for Automation",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
-      "location": "Warren, MI",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "57d2fbf42404afeedbcc1124ac5f9d80f94ebbe5",
-      "title": "Research and Development Intern, Defense Lab Modeling and Simulation",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729",
       "location": "Warren, MI",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }

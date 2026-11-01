@@ -2,25 +2,30 @@
   "slug": "amazon-europe-core",
   "name": "Amazon Europe Core",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 3,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     },
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
+      "count": 7
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,45 @@
     0,
     0,
     3,
-    0,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f6b0f7c75f0195d0875b5d70b9b4d5fff4b7a3a",
+      "title": "Software Dev Engineer Internship - Embedded Development (linux) (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947574223?se=pEQ3BVjV8RGzkfY_QG7FnA&utm_medium=api&v=09A47CCC942E0EFEEA82AC13B363C9EFE58B129F&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "ea996c7cc296ee706815b34360a4978746321ad2",
+      "title": "2027 Software Dev Engineer Intern - Germany (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5946100440?se=rjZEiePV8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=B517523458F91BFD198E54A253DEA9E3CD564CB9",
+      "location": "Berlin, Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "9b19efa8efb318ebb4a1e531e29cc03d7f997ee6",
+      "title": "Software Dev Engineer Internship - Embedded Development (linux) (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947574223?se=rjZEiePV8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=09A47CCC942E0EFEEA82AC13B363C9EFE58B129F",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "2c09839752d125637e6031c88967c702010b902b",
+      "title": "Software Dev Engineer Internship - Embedded Development (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947572956?se=rjZEiePV8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=FDF08619AF08466FF415DEF3436A5854BF569F86",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "f89f33390d8a26e6d5bd5e0ee77de34c47a05c7d",
+      "title": "Software Dev Engineer internship - Embedded Development (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5947240847?se=rjZEiePV8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=7A8482268A09A6EF1FD95C9826D3511FDD3C46A9",
+      "location": "Berlin, Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "2fad35985b53f19db7bc6267393aa97f5e41a745",
       "title": "Software Dev Engineer internship - Embedded Development (m/w/d)",

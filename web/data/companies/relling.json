@@ -1,0 +1,52 @@
+{
+  "slug": "relling",
+  "name": "Relling",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fb5f913c69be68bd51fda10d804b42d5203300e0",
+      "title": "New Grad: Robotics Software Engineer",
+      "url": "https://go.vansh.nyc/13S",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "846a2cb77bb7b5fa6f1831b420c983862b12b662",
+      "title": "Robotics Software Engineering Intern",
+      "url": "https://go.vansh.nyc/13m",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

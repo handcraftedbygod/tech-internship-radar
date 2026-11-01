@@ -2,14 +2,14 @@
   "slug": "sagacity",
   "name": "Sagacity",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "05a028a5c2876aa1993a4847f27ae82063efb307",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__583279701__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "df67bf92c3cbf2be112b82667f5cab95a581e764",
       "title": "Junior Data Engineer",

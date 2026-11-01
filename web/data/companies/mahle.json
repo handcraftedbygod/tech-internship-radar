@@ -2,21 +2,25 @@
   "slug": "mahle",
   "name": "MAHLE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Stuttgart",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fffb06696f677f2499ad6b14a081368d7e5c0246",
+      "title": "Praktikum Produkt-Portfolio-Management Data Analytics (m/w/d)",
+      "url": "https://careers.mahle.com/job/Stuttgart-Praktikum-Produkt-Portfolio-Management-Data-Analytics-%28mwd%29-70469/1442407033/?utm_source=freehire.me",
+      "location": "Stuttgart, DE, 70469",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "050210282844990fa60c0d0e424d9a78e0dfa1b1",
       "title": "Internship Machine Learning and Data Science (m/f/d)",

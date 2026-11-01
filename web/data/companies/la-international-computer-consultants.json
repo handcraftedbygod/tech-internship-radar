@@ -2,17 +2,17 @@
   "slug": "la-international-computer-consultants",
   "name": "LA International Computer Consultants Ltd",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "London",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6a3c61c2250b77b805509c69043915a89d9e86fd",
+      "title": "Hybrid Junior Java Developer – London (6m Contract)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__594122062__7082?utm_campaign=publisher&utm_medium=api&geoID=33051&utm_source=freehire.me",
+      "location": "City of Westminster, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "b5753c5f54141f7a1fbd49170cda6bc65da2589c",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__594122051__7082?utm_campaign=publisher&utm_medium=api&geoID=33051&utm_source=freehire.me",
+      "location": "City of Westminster, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e27ad985e19057169c583b3b62fc193aa90d0a3d",
       "title": "Junior Java Developer",

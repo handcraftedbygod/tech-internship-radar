@@ -2,9 +2,9 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 36,
+  "totalPostings": 37,
   "avgPostingDurationDays": 14.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "New York",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     4,
     6,
     25,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9adc1fea4f5b0491ce8c2a4f3393315f563ab42",
+      "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
+      "url": "https://www.themuse.com/jobs/salesforce/summer-2027-intern-software-engineer-securitygovernment",
+      "location": "Bellevue, WA, San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "f4d45a185a261520a75f9c08385ef24b02ecb8ca",
       "title": "AI Labs Intern, Emerging Talent",
@@ -122,13 +129,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "5707be23df41b0038e766c0f1f314cec8833d239",
-      "title": "Commercial Graduate Program - Solution Engineering Path - Dutch Speaking Market",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Commercial-Graduate-Rotation-Program---Solution-Engineering-Path---BNL-Dutch-Speaking-Market_JR362669-1",
-      "location": "Ireland - Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]
 }

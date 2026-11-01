@@ -2,21 +2,21 @@
   "slug": "voith-se-co-kg",
   "name": "Voith SE & Co. KG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -35,10 +35,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0c2fd774c66b30b2a67db31003ea0bca52916840",
+      "title": "Praktikum (m|w|d) im Bereich Data Science & Process Improvement",
+      "url": "https://www.adzuna.de/land/ad/5947126891?se=KNPzaMHU8RGGCOFuy44SDg&utm_medium=api&v=F62F908BB1E2175A61B82653D9619733A6C0EE8B&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "72db6915ad448301fdc48093b683a037a6566efd",
       "title": "Praktikum (m w d) im Bereich Data Science & Process Improvement",

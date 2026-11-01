@@ -2,21 +2,21 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 30,
+  "currentOpenings": 34,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 40,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 45,
+  "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 31
-    },
-    {
-      "hub": "Munich",
-      "count": 3
+      "count": 35
     },
     {
       "hub": "Austin",
+      "count": 4
+    },
+    {
+      "hub": "Munich",
       "count": 3
     },
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 30
     },
     {
       "id": "ai",
@@ -42,7 +42,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -66,10 +66,45 @@
     2,
     0,
     38,
-    0,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f8e673a81245c99ad954e138619fb520b3dc66b",
+      "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
+      "url": "https://go.vansh.nyc/10i",
+      "location": "Santa Clara, CA, Austin, TX",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "50be2ccef84631d85b9fbb5194e3bb7ff5824311",
+      "title": "Deep Learning Intern",
+      "url": "https://go.vansh.nyc/12j",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "b31793c241664cbd108404e3f3a7fc2cbb360dfc",
+      "title": "Developer and Performance Technology Intern",
+      "url": "https://go.vansh.nyc/12i",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "349ad75dc60bf0a701f76753e428aad385b79777",
+      "title": "Autonomous Vehicles and Robotics Intern",
+      "url": "https://go.vansh.nyc/12h",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "afac01a2d401020a84c9f34730e0ffa2b62114cd",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/12g",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "161448245e53ba35746efc6d937c2ab46b238798",
       "title": "Security Architect",
@@ -103,41 +138,6 @@
       "title": "ASIC Design Verification Engineer (Master's)",
       "url": "https://go.vansh.nyc/11C",
       "location": "Austin, TX",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "b81e64ac487973193a95162f692d46f7bd95e9a8",
-      "title": "Cell Modeling and Verification Engineer",
-      "url": "https://go.vansh.nyc/11B",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "f315cb85b4bdcc88a526142660aaf983cd41d74d",
-      "title": "ASIC Physical Design and Timing Engineer (Master's)",
-      "url": "https://go.vansh.nyc/11A",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "b92ddc92516e1c5108cd510ddf9f0c7866e12bc8",
-      "title": "Applied Systems Engineering Rotation Engineer",
-      "url": "https://go.vansh.nyc/11r",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "7288e6a37ce2855606d6d468bfebeb14df69bd98",
-      "title": "GPU Verification Engineer",
-      "url": "https://go.vansh.nyc/11q",
-      "location": "Westford, MA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "dedead93de7756de94c8a61a803489bcaf6d769c",
-      "title": "Architecture Energy Modeling Engineer (Master's)",
-      "url": "https://go.vansh.nyc/11p",
-      "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]

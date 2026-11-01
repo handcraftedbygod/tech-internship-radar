@@ -1,0 +1,52 @@
+{
+  "slug": "zus-health",
+  "name": "Zus Health",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1e4eb9bead38b4d3a2c622dca79693e201a82a3c",
+      "title": "Platform Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/13N",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "1c296ea1f3c7416b2565b1e6c04ebddfceb04f6e",
+      "title": "Data Acquisition Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/13M",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

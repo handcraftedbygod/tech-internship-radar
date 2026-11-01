@@ -1,0 +1,45 @@
+{
+  "slug": "fedex",
+  "name": "FedEx",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ac9de3c87c0e86eaf97deb5171bdd6d31da13f0a",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/13Z",
+      "location": "Memphis, TN",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

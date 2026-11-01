@@ -2,21 +2,21 @@
   "slug": "patreon",
   "name": "Patreon",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "product",
@@ -35,10 +35,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c576518e4680ac5f0c5548952caa5352aa9448dd",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/13j",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "33259f7e6be5f4700e3d68604e9e0c12cbcdc527",
       "title": "Product Manager Intern",

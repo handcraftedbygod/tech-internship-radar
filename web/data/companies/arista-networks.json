@@ -2,25 +2,25 @@
   "slug": "arista-networks",
   "name": "Arista Networks",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
-      "hub": "Dublin",
+      "hub": "Other",
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Dublin",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b72a164af9fa92ea80510c5aafb5dad7571bbca",
+      "title": "Software Engineer Intern, C/C++",
+      "url": "https://go.vansh.nyc/12B",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "6f14420af93708aeafb2a5f5ca9e75601cbee055",
       "title": "Network Engineer - Test (Intern)",

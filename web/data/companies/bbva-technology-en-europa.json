@@ -2,21 +2,21 @@
   "slug": "bbva-technology-en-europa",
   "name": "BBVA Technology en Europa",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61704017e8f254dfc34f80d3ec70eef7eed4e807",
+      "title": "Junior Backend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__365362921__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "e9e3644ae8f4d17c465c12ac6b68d94dd644d0ff",
       "title": "Junior Backend Developer",

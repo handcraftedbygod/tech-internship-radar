@@ -2,25 +2,25 @@
   "slug": "adt",
   "name": "ADT",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5523334d3be0211606552cbc888c7b6d9abfbeb",
+      "title": "Technology & Engineering Intern",
+      "url": "https://go.vansh.nyc/12y",
+      "location": "Boca Raton, FL",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "b976a5ebec2ae9fabf8848e09b7289265773088e",
       "title": "Cybersecurity & Risk Intern",

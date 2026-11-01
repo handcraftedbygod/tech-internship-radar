@@ -2,14 +2,14 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "biz",
@@ -44,10 +44,17 @@
     0,
     1,
     15,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf1195acdf0424b44484d736dcd6a2e5cc5d37d3",
+      "title": "2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)",
+      "url": "https://www.themuse.com/jobs/appliedmaterials/2027-summer-intern-software-engineer-bachelors-degree-santa-clara",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "bfbafb70e10f0e7ea5fefb34ce99da6bb830bb81",
       "title": "Data Science Intern",
@@ -110,13 +117,6 @@
       "url": "https://go.vansh.nyc/d5",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "49c8ded7fe9ca500133561bedc11de22a2baf28b",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
-      "location": "Gloucester, MA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 15,
+  "totalPostings": 17,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     },
     {
       "id": "design",
@@ -40,10 +40,24 @@
     0,
     0,
     15,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77f99546bfa216e94451dbcc761a9e49c4075ee3",
+      "title": "Software Engineering Intern, C++ and Unix",
+      "url": "https://go.vansh.nyc/13b",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "2b1418272970d7acb3bec1fa0cc07772fbd61dd4",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/13a",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "38dfc7b96301a217966cf5cb9971badbd64c63ce",
       "title": "System Software Engineer - Distributed Computing (Master's)",
@@ -99,20 +113,6 @@
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "6f918cea01064865a4da64c8f75ddebfc7ea724a",
-      "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
-      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "fbcdda340d3b3b6ad79af8ceb78945e23f8e678c",
-      "title": "Software Engineer 1",
-      "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
-      "location": "Remote",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

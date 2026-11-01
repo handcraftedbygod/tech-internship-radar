@@ -2,14 +2,14 @@
   "slug": "albany-beck",
   "name": "Albany Beck",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,12 +20,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,24 @@
     0,
     1,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7631031701af1b400ce2673b0177748bbdae72d8",
+      "title": "Junior Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__584289121__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "fe145af168eb1c87583950a00b10d4f0c6f6e47d",
+      "title": "Junior Python Developer: Risk Validation & Finance Tech",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__584289653__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "66965b03c5b16a6e1dabefdfc0d219da604cdb8b",
       "title": "Junior Python Developer",

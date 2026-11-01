@@ -1,0 +1,45 @@
+{
+  "slug": "ema",
+  "name": "Ema",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b1e242238de0ac13cf76780e6c40300b5fd8ff22",
+      "title": "AI Resident Intern",
+      "url": "https://go.vansh.nyc/13C",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

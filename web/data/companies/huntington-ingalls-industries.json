@@ -1,0 +1,52 @@
+{
+  "slug": "huntington-ingalls-industries",
+  "name": "Huntington Ingalls Industries",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e6f518fedf19eb4336915b94c2fa2903b72c3da2",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/14G",
+      "location": "Newport News, VA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "af4fb661b51b75847c010d578c237203a97858e0",
+      "title": "Product Owner - Digital Plant",
+      "url": "https://go.vansh.nyc/14F",
+      "location": "Newport News, VA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

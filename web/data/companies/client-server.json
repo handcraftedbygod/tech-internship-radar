@@ -1,15 +1,15 @@
 {
   "slug": "client-server",
-  "name": "Client Server",
+  "name": "Client Server Limited",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 7,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 9
     },
     {
       "hub": "Other",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     2,
     2,
     3,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20857329687d1a67d8263e865179546e218e4753",
+      "title": "Junior Java Developer — Commodities Trading (Hybrid)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__591470064__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "058d12d4cd7caaf3cd4b72d965cb373215c5d899",
+      "title": "Junior Java Developer - Trading",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__591469906__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "9563c49ad4cc3004e40e570ae3cba03dd8c5d066",
+      "title": "Junior Java Developer – Hybrid WFH & Career Growth",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__591470383__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "7826f3a87b80d2eb042df353f828fd4be2fb7de6",
       "title": "Junior Java Developer — Commodities Trading (Hybrid)",

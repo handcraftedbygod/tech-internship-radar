@@ -2,21 +2,21 @@
   "slug": "experis-austria",
   "name": "Experis Austria",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 13.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "biz",
@@ -35,10 +35,17 @@
     0,
     0,
     9,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44d9992cd07bb90f7362dd58beb1fd776c74414a",
+      "title": "Junior iOS Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__590150368__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "ffd283724c089a3d1ed6078fa3fd9ea67e9eb383",
       "title": "Junior iOS Developer",

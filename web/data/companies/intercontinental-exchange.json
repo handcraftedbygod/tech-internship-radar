@@ -2,11 +2,19 @@
   "slug": "intercontinental-exchange",
   "name": "Intercontinental Exchange",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 1,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 6
+    },
+    {
+      "hub": "New York",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -16,7 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +43,66 @@
     0,
     0,
     1,
-    0,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7fa00c7e42808c092170417a560f874458a8af8a",
+      "title": "Cybersecurity Architect Intern",
+      "url": "https://go.vansh.nyc/136",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "68a6c2ecc2c95622b9270bde97ff30d4aeeaef79",
+      "title": "Software Development Engineer in Test Intern",
+      "url": "https://go.vansh.nyc/135",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "be4728220879935c7b4809d087de1c81a48671b3",
+      "title": "Agentic AI Data Science Intern",
+      "url": "https://go.vansh.nyc/134",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "9ad50c237a1e0665c875fc06d890a69cb9ecacda",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/133",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "a07daf0dcaccc1dea3d61dc9cb5a810ac22d7dbb",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/132",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "080c63b11045bbfeb33e3fa22824f1dd0bfbeff2",
+      "title": "Software Engineering Intern, Java",
+      "url": "https://go.vansh.nyc/131",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "7b819d3b904042957c6952d0e98373bd8d03c182",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/130",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "737ebc5bc134f846849636604c107c207e41e0de",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/12Z",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "5fde8d1b3e23726e5922da21ecca3aaee1a9d563",
       "title": "Summer Internship Program 2027 - Cybersecurity Engineering Intern",

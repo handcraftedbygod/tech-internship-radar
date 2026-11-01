@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 8.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 20
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     19,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9817435dc9a445781e75d779d9782bb4176a3615",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/15J",
+      "location": "Bristol, PA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "119015e8689ec178f861c69b1db05517326fa23d",
       "title": "FPGA Software Tool Developer Co-op",
@@ -96,13 +103,6 @@
       "url": "https://go.vansh.nyc/Tb",
       "location": "Rockwall, TX",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "2e46097fc7295f900aac0cc4ca0f18c45c0de87a",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://go.vansh.nyc/AL",
-      "location": "Colorado Springs, CO",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

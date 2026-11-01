@@ -2,18 +2,18 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 160,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 126,
+  "totalPostings": 284,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 101
+      "count": 228
     },
     {
       "hub": "Seattle",
-      "count": 23
+      "count": 54
     },
     {
       "hub": "London",
@@ -24,17 +24,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 89
+      "count": 162
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 31
+      "count": 108
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 4
+      "count": 12
     },
     {
       "id": "product",
@@ -53,79 +53,79 @@
     114,
     9,
     3,
-    0,
+    158,
     0
   ],
   "recentPostings": [
     {
-      "id": "83a6a4fb8e86ae2aac52757e08fa2a7a63ffe89f",
-      "title": "Product Manager Intern, Global Monetization Product and Technology",
-      "url": "https://go.vansh.nyc/11y",
+      "id": "0f03f13ee277b7849b88d2a91afc4c6a906c67f2",
+      "title": "New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture",
+      "url": "https://go.vansh.nyc/17m",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "59b64e8fc22b01eb16479c3004ecc5f997daa609",
+      "title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
+      "url": "https://go.vansh.nyc/17l",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "943887bfaa7aa4551bb0cb1db1699496571e6e87",
+      "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
+      "url": "https://go.vansh.nyc/17k",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "98448800e7b14fd9eb194b9c56018fac91f8abe1",
+      "title": "New Grad 2027: Machine Learning Engineer, Visual Search",
+      "url": "https://go.vansh.nyc/17j",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "e4d4858cab719c3344e3135fdb825727b23d9445",
+      "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
+      "url": "https://go.vansh.nyc/17i",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "eb07ff304504304c74ff1718e37f68aea81e120f",
+      "title": "New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation",
+      "url": "https://go.vansh.nyc/17h",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "aed4f3bd4920c838060cb0d1eec26f47291a0914",
+      "title": "New Grad 2027: Software Engineer, Business Integrity",
+      "url": "https://go.vansh.nyc/17g",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "9b8303731f0222c4ed51b641c73e768f871d8385",
+      "title": "New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)",
+      "url": "https://go.vansh.nyc/17f",
       "location": "Seattle, WA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
     },
     {
-      "id": "297fe82cb17454af66678d5a5e2c23c47bfa7425",
-      "title": "Product Manager Project Intern, Global Monetization Product and Technology",
-      "url": "https://go.vansh.nyc/11x",
+      "id": "f000f63630166c208df20450b5d67f60088e55a7",
+      "title": "New Grad 2027: Testing Engineer, Intelligent Creation",
+      "url": "https://go.vansh.nyc/17e",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
     },
     {
-      "id": "67790a1cac7268e22c4a106f0a98a7ab5ce3935a",
-      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
-      "url": "https://lifeattiktok.com/search/7673636206961641781",
+      "id": "0bcace9ca39bf03d326cbb8c10f85ce832ed0d54",
+      "title": "New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture",
+      "url": "https://go.vansh.nyc/17d",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "56d3d9f5c99978184f18a131e79c5526279617dc",
-      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-recommendation-mall-2027-start-phd-9d033a",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "291a9d091345e214e42074c7c95eafc818857fe4",
-      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-data-infra-2027-fall",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "9d035dacc1c175f2d87b9f37b56068f341a1dd9f",
-      "title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-supply-chain-logisticsllmagent-2027-start-phd-08f944",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "8f2ac7186ecae9f2ce07fb775d2b4666b7d5e19c",
-      "title": "Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD)",
-      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-ecommerce-knowledge-graph-2027-start-phd",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "8814f691fdbab2d69f84f825a8687ef536118f6a",
-      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-ai-search-visual-search-infra-team-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "b7e973edf1f5f333ace2e5640e5b1d273b87db9a",
-      "title": "Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-engineer-intern-tiktok-search-data-infra-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "e43cf173f2d32b3fc911176a0906ea6b72c79a90",
-      "title": "Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer",
-      "url": "https://www.themuse.com/jobs/tiktok/software-development-engineer-intern-global-ecommerce-quality-platform-ai-test-automation-2027-summer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]
 }

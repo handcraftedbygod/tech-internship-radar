@@ -2,14 +2,14 @@
   "slug": "citigroup",
   "name": "Citigroup",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Warsaw",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
@@ -43,10 +43,24 @@
     0,
     0,
     4,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51cded239b1552b9eafa37e04b03570f2aa80086",
+      "title": "Junior Fullstack Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__586267868__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "95c6beb5a1fb41fa23802fa8ff501e5fc262eabc",
+      "title": "Junior Full-Stack Developer: Java & Angular",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__586267273__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "d14dfaccbbf5103f9b8a2b9eae069a44bf2e86ae",
       "title": "Junior Fullstack Java Developer",

@@ -2,21 +2,21 @@
   "slug": "k-lagan",
   "name": "K-LAGAN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "640c7fd1364d70a8c95b7bf84599394202b5e321",
+      "title": "Java Developer Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366031591__7107?utm_campaign=publisher&utm_medium=api&geoID=425&utm_source=freehire.me",
+      "location": "Málaga, Spain",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "f3a8f7ab09f971dac1c32efdf027a42371823892",
       "title": "Junior Java Developer – Banking Web Apps (Hybrid Málaga)",

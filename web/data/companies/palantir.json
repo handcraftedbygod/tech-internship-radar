@@ -2,14 +2,14 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 24,
+  "totalPostings": 25,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "London",
@@ -29,6 +29,11 @@
       "id": "swe",
       "label": "Software",
       "count": 24
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -42,10 +47,17 @@
     1,
     1,
     22,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7533e0e255fb30fc8f794f3f96168ecca595e69",
+      "title": "Finance Operator Intern",
+      "url": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "b78de53302a130aa47d925b5027d03d960d37995",
       "title": "Forward Deployed Software Engineer, Internship",
@@ -106,13 +118,6 @@
       "id": "9a7df72e053fa9fa1f65e1911189ea4244017d3d",
       "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
       "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "32f1c596d1051701e3c9a2fd8044949854cf71a2",
-      "title": "Deployment Strategist, New Grad - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }

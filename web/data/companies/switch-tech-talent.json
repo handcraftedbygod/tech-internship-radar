@@ -2,21 +2,21 @@
   "slug": "switch-tech-talent",
   "name": "Switch Tech Talent Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2eb54be2b52ac213b5da6d79cd6ea88c9f7a35f3",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__590171346__7082?utm_campaign=publisher&utm_medium=api&geoID=588&utm_source=freehire.me",
+      "location": "Leatherhead, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "7c67165425a9cd3feb00c18c03606eb61e598334",
       "title": "Junior Data Engineer",

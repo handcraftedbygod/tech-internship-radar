@@ -1,0 +1,45 @@
+{
+  "slug": "one-robot",
+  "name": "One Robot",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "aaae4abd0b3959b72d4e5c8ce880ad33debd65f8",
+      "title": "Machine Learning Intern",
+      "url": "https://go.vansh.nyc/13h",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}

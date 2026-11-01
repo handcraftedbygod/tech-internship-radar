@@ -2,21 +2,21 @@
   "slug": "enterprise-mobility",
   "name": "Enterprise Mobility",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 33,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "222a2c265a1598cc6684dae9abe92471e8f6435e",
+      "title": "Intern - Systems Engineer, Summer 2027",
+      "url": "https://www.themuse.com/jobs/enterprisemobility/intern-systems-engineer-summer-2027",
+      "location": "St. Louis, MO",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "b5a33201446be0d962f50590dbb20107c5eda48d",
       "title": "Intern - Software Engineer, Summer 2027",

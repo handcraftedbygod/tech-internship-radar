@@ -2,25 +2,25 @@
   "slug": "schlumberger",
   "name": "Schlumberger Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d4ae57ed2d4179f0cdef4194e76a0ad6a86ccaf",
+      "title": "Data Scientist Intern: Engineering Data & Analytics",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__584289013__7082?utm_campaign=publisher&utm_medium=api&geoID=126&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "4f706b64453491cd22bcff7ff0684966551f2094",
       "title": "Data Scientist Intern: Engineering Data & Analytics",

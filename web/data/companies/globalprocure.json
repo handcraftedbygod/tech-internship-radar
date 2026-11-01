@@ -1,22 +1,27 @@
 {
   "slug": "globalprocure",
-  "name": "Globalprocure",
+  "name": "GlobalProcure",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70c0aa7f723204b645a18ed7992fd612606b3eb4",
+      "title": "Junior JAVA Developer",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16852040__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "5e9740c61114862c82607cdce1ef9ce2596cc782",
+      "title": "Junior Java Developer — Flexible Hours, Growth",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16843002__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "a23c59e023d4b8ed99fb4cee79429a55ec0b7437",
       "title": "Entry Level Software Developer",

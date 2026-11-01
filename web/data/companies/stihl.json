@@ -2,21 +2,21 @@
   "slug": "stihl",
   "name": "STIHL",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "66740d1bcaf91d726b0fd70971a798b3256d6f4f",
+      "title": "Praktikum Power Platform, Data Analytics und KI im Supplier Quality Management",
+      "url": "https://jobs.stihl.com/job/Waiblingen-Praktikum-Power-Platform%2C-Data-Analytics-und-KI-im-Supplier-Quality-Management-BW-71336/1452444933/?utm_source=freehire.me",
+      "location": "Waiblingen, DE",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "5923a388d417c25f823419d32860758a9bb2475e",
       "title": "Praktikum Data Analytics & Data Science - E-Commerce",

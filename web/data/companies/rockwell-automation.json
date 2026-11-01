@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Katowice",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     1,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a45160ca5dfb9e36fef5ce58accd130da74d4c69",
+      "title": "New Grad 2027: EDGE, Information Technology Rotational Program",
+      "url": "https://go.vansh.nyc/13X",
+      "location": "Milwaukee, WI",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "0b4824fe96f995f542e61e2e4358cd4ddcd26fde",
       "title": "Cybersecurity Intern",

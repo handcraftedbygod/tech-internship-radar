@@ -2,9 +2,9 @@
   "slug": "braze",
   "name": "Braze",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     2,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a91c710503a49e00762bc1b6f73d6bc137823f7a",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/12D",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "81c4bd3acf704de0f158702f3158df6dd6baa06d",
       "title": "Intern, Software Engineering",

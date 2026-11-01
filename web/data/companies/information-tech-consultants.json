@@ -2,14 +2,14 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     4,
     4,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ec98cc1eb8b97edb0817ca6bfab8efc8c00e4b46",
+      "title": "Junior Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__588849320__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "da6bb62167f2bafa730cbd7036679d1f01608bd4",
       "title": "Junior Python Developer",
@@ -105,13 +112,6 @@
       "url": "https://uk.whatjobs.com/pub_api__cpl__512214923__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-08-21T04:38:19.902Z"
-    },
-    {
-      "id": "a43db3189b04ca57f3b108592c0eb9e09f8cc3ac",
-      "title": "Junior Data Engineer: Python, SQL & Dashboards",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__510638818__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

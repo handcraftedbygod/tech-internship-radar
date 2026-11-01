@@ -2,20 +2,25 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "caeb28b6c6f4356f8810ac699f0c96ef9cd6a907",
+      "title": "Systems Software Engineering Intern",
+      "url": "https://go.vansh.nyc/17G",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "ec71df0aa12287e153aed07069135e8eed315915",
       "title": "SRAM Design Engineer Intern",

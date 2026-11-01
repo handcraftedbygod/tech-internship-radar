@@ -1,22 +1,22 @@
 {
   "slug": "idemia",
-  "name": "IDEMIA Group",
+  "name": "IDEMIA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,31 @@
     1,
     0,
     0,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47b79f2ac9fd86cb16b5d35a3bc34722861f7491",
+      "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+      "url": "https://go.vansh.nyc/12X",
+      "location": "Brentwood, TN",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "42b2618b179305b8aff5e663ddd1de9de499a4d3",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/12W",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "588c90db1275b1d901d63af2935a836fdeb23dfd",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/12V",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "0eb66e07838d937cdfacbb3654af7e1bc8deb61b",
       "title": "Junior Java Backend Engineer - APIs & Microservices",

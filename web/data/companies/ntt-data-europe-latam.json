@@ -2,21 +2,25 @@
   "slug": "ntt-data-europe-latam",
   "name": "NTT DATA Europe & Latam",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "227dcb5328973f676e530fe0c40f25e73aaef623",
+      "title": "Junior Frontend Developer (JavaScript) - BCN",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366114491__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
     {
       "id": "2daa9e5653839ebcba36c2b888ad9d588d616072",
       "title": "IA | Backend Development | Others Internship - comunidad valenciana",

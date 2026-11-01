@@ -1,0 +1,57 @@
+{
+  "slug": "general-magic",
+  "name": "General Magic",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-01T11:04:08.160Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "25130da9be8ad02ebb1e2bce99f91b9e672fec0e",
+      "title": "Backend Engineer Co-op",
+      "url": "https://go.vansh.nyc/13H",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    },
+    {
+      "id": "a3bffd4685a71ecf28b31b4f6278cc356a5c018c",
+      "title": "AI Engineer Co-op",
+      "url": "https://go.vansh.nyc/13G",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-01T11:04:08.160Z"
+    }
+  ]
+}
