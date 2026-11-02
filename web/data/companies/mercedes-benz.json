@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 43,
+  "totalPostings": 44,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 34
+      "count": 35
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 17
+      "count": 18
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,17 @@
     19,
     10,
     14,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee7bb9c1a6c9612fb4bf30b2995539fa1b13762f",
+      "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
+      "url": "https://jobs.mercedes-benz.com/praktikant-in-data-analytics-ai-mercedes-benz-operating-system-mb-os--244771-MER00049U3?utm_source=freehire.me",
+      "location": "Sindelfingen, Germany",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "447d1aee7e412c6a12767b2759cd5ce642244637",
       "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
@@ -117,13 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1640443-1-S",
       "location": "Immendingen",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "18cc5283b2302e1eadc019f2811221b415935451",
-      "title": "Werkstudent*in (SW-Developer Data Campaigns for Automated Driving & ADAS)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1638289-1-S",
-      "location": "Böblingen",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

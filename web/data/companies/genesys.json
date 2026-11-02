@@ -2,13 +2,17 @@
   "slug": "genesys",
   "name": "Genesys",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Toronto",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09090ff5bab4276f53d516f5167ff3532b120567",
+      "title": "Associate Software Developer in Test",
+      "url": "https://go.vansh.nyc/194",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "3b9ac10e25bf42b36264aacf33a91667a5c209c9",
       "title": "Software Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "tagueri",
   "name": "Tagueri",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c3c73e0cb97ebdb1155ad845defc0ac74b2cb0b0",
+      "title": "Junior Consultant Frontend Development (m/w/d)*",
+      "url": "https://www.adzuna.de/land/ad/5950189457?se=6hIX4oXW8RGiU51LKqb6dQ&utm_medium=api&v=99AC489856E5D97608B2DA7EC587D05B4287CDDC&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "fb99bfbb5cfbe5990fac2daca65136e0d8d16501",
       "title": "Junior Consultant Frontend Development (m/w/d)* (Softwareentwickler/in)",

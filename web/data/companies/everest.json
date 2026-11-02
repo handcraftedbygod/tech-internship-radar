@@ -1,0 +1,45 @@
+{
+  "slug": "everest",
+  "name": "Everest",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-02T12:02:27.024Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "17f2cdc152a323e8608699e7ebbbe7871ad908a9",
+      "title": "Technology Intern",
+      "url": "https://go.vansh.nyc/18M",
+      "location": "Warren, NJ",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    }
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "slug": "eon",
-  "name": "E.ON",
+  "name": "E.ON SE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0f0a84e82a2cfe704022e01b8aea073d9ad6ab0",
+      "title": "Werkstudent:in Digital Transformation und Data Engineering (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12728-885-1-S?utm_source=freehire.me",
+      "location": "Essen, Ruhr, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "d2349240fd1e4bf806d0e606d906077f170ae9e7",
+      "title": "Werkstudent:in Digital Transformation und Data Engineering (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12728-885-1-S",
+      "location": "Essen, Ruhr",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "a797390370a9f092b3f9a4c67ff11c8abd0a534b",
       "title": "Werkstudent:in Digital Transformation & Data Engineering (w/m/d)",

@@ -1,5 +1,117 @@
 [
   {
+    "id": "caf0e509ae65c0df8a5903047d4d33700fb3fe6b",
+    "title": "Software Engineer Intern",
+    "company": "Netflix",
+    "companySlug": "netflix",
+    "location": "Los Gatos, CA",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "461fdc5c198563c83b47c7ebb8edb04095416a9a",
+    "title": "Hardware Development Engineer Intern",
+    "company": "Amazon.com Services LLC",
+    "companySlug": "amazoncom-services",
+    "location": "Bellevue, WA",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "82f8fd2860665a5f99835c50b53028ffe548df87",
+    "title": "Quantitative Developer Intern",
+    "company": "Point72",
+    "companySlug": "point72",
+    "location": "NYC",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "336d98ec0eded824cb41d6731d8bfcbe6bfdba0d",
+    "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+    "company": "OpenAI",
+    "companySlug": "openai",
+    "location": "San Francisco, CA",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "710d75714b87e6d01fe08f194d39f3163fff7b77",
+    "title": "Software Engineer Intern, Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "New York, NY",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "f5d22231a790d22ae17376a88050dd84b595ea67",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "company": "Palantir Technologies",
+    "companySlug": "palantir-technologies",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "3601166d4743b193b7ee3d55312347641f22d03b",
+    "title": "Software Engineer, Internship - Infrastructure",
+    "company": "Palantir Technologies",
+    "companySlug": "palantir-technologies",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "d815664e346aba150e3754015992e4f2bb1627ba",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "company": "Palantir Technologies",
+    "companySlug": "palantir-technologies",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "39650c0d1f4910893f68174edc1434d10c6ffd5f",
+    "title": "Software Engineer, Internship - Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "4eac7f7003b0a36dcd95428880e70e16c322077f",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "New York, NY",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "97e4995aec03593260eab6d3a43a4c36564fccab",
+    "title": "Software Engineer, New Grad - Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "103843d956768c70ba63da91d2cb90476006ed9f",
+    "title": "Software Engineer, Internship - Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "New York, NY",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "4db7b807fcb0a64e6b8488e5f74a232584759b2d",
+    "title": "Software Engineer, Internship - Query Engines",
+    "company": "Palantir",
+    "companySlug": "palantir",
+    "location": "London, United Kingdom",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
+    "id": "19d4ae61ab8f019acfba3a6a3964b21f109c73f1",
+    "title": "2027 – Graduate or Internship, Infrastructure Engineer ",
+    "company": "Qube Research & Technologies",
+    "companySlug": "qube-research-technologies",
+    "location": "London, Paris",
+    "closedAt": "2026-11-02T12:02:27.621Z"
+  },
+  {
     "id": "72f56d856b731f876c14596c8fda4c521e9a8c5b",
     "title": "ASIC Verification Intern",
     "company": "NVIDIA",
@@ -45,118 +157,6 @@
     "company": "Amazon",
     "companySlug": "amazon",
     "location": "Redmond, WA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "b10b71e710f035adcc3d1c4716581c037cca697a",
-    "title": "Product Manager Intern",
-    "company": "Microsoft",
-    "companySlug": "microsoft",
-    "location": "Cambridge, MA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "1e774f9c9955e479f2e06962ae9a173995a905d6",
-    "title": "Software Engineer Intern, Security & Identity",
-    "company": "Microsoft",
-    "companySlug": "microsoft",
-    "location": "United States",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "a23ce99f13b7f335187c12e7ce0bd734b774dbbf",
-    "title": "ASIC Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Seattle, WA, Austin, TX, Cupertino, CA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "1cc934b427bb32e6d77ffacda6a50273f9c26fab",
-    "title": "Cloud Hardware Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Austin, TX, Cupertino, CA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "09020370373e594a8d621dfa89aad3a47e46f065",
-    "title": "Embedded Firmware Co-op",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "North Reading, MA, Westborough, MA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "7ddc5a77ca95d793be122ec3c8113ef107b89cf7",
-    "title": "Software Engineer Intern, AWS Database",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "United States",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "6d10c9eb83f275d3fe1ab219a73b514f1ac9cc5d",
-    "title": "Systems Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Vancouver, Canada",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "001d68e93d10d882c396b277b767dd0c777f807a",
-    "title": "Systems Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Bellevue, WA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "ffb8ac7588db8e38e0673416b5dd6e174858c3b3",
-    "title": "Software Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Redmond, WA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "19e604b7acf32da63d27e74df2ca83901bd87282",
-    "title": "ASIC Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Sunnyvale, CA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "6fc4326c8c724f0252a4e0c8deb5e98659565ebe",
-    "title": "Software Engineer Intern, Embedded Systems",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "United States",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "36451d23b8af40942123e71361f8ab2bd985b139",
-    "title": "Hardware Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Bellevue, WA",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "46b3a1b4cbd1a00b8c5d5fdd02aee5e314a92bc9",
-    "title": "Junior Software Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Detroit, MI",
-    "closedAt": "2026-10-31T10:12:39.120Z"
-  },
-  {
-    "id": "fe30517f66e13457e513e51fba3a1c090b14170f",
-    "title": "Forward Deployed Software Engineer Intern, Warp Speed",
-    "company": "Palantir",
-    "companySlug": "palantir",
-    "location": "New York, NY",
     "closedAt": "2026-10-31T10:12:39.120Z"
   }
 ]

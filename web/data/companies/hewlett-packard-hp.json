@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-hp",
   "name": "Hewlett Packard (HP)",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "San Francisco",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 4
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
+      "id": "swe",
+      "label": "Software",
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "960d43fda9a03ae68073a66bda7570d1a900e399",
+      "title": "Data Science Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "a205b1c83e147b030d86917399350b6402c05aa1",
       "title": "Software Engineer Intern, Connectivity",

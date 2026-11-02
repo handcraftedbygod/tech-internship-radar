@@ -2,20 +2,25 @@
   "slug": "c-s-wholesale-grocers",
   "name": "C&S Wholesale Grocers",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c07daea9e66d069d87774bd74c5b395d4ef87597",
+      "title": "IS Intern, Web Applications",
+      "url": "https://go.vansh.nyc/18J",
+      "location": "Houston, TX",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "e0254831394b2b75c8367512a30b15c40a095082",
       "title": "IS Intern, Data Analytics & Data Science",

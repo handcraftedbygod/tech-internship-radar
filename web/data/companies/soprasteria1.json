@@ -2,21 +2,25 @@
   "slug": "soprasteria1",
   "name": "SopraSteria1",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Katowice",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     3,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44b67c7ae9e754cf6c6bb1cd4486ed3e662d3102",
+      "title": "Junior DevOps Engineer",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159080630-junior-devops-engineer?utm_source=freehire.me",
+      "location": "Nieuwegein, UT, nl",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "da6e8839ae737d14679fa9b1ab83334afcec36c3",
       "title": "Junior Infrastructure Engineer",

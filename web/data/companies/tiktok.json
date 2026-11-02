@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 160,
+  "currentOpenings": 162,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 284,
+  "totalPostings": 286,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 228
+      "count": 230
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 162
+      "count": 164
     },
     {
       "id": "ai",
@@ -53,10 +53,24 @@
     114,
     9,
     3,
-    158,
+    160,
     0
   ],
   "recentPostings": [
+    {
+      "id": "143c660611f601c4a7ee7a9d6c82b6cdb587a4da",
+      "title": "Software Engineer Project Intern, Platform Efficiency",
+      "url": "https://go.vansh.nyc/190",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "bd8f4696829128e768c537bdbcc834fe6ecb5e0d",
+      "title": "Software Engineer Project Intern, Model Infrastructure",
+      "url": "https://go.vansh.nyc/18Z",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "0f03f13ee277b7849b88d2a91afc4c6a906c67f2",
       "title": "New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture",
@@ -111,20 +125,6 @@
       "title": "New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)",
       "url": "https://go.vansh.nyc/17f",
       "location": "Seattle, WA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "f000f63630166c208df20450b5d67f60088e55a7",
-      "title": "New Grad 2027: Testing Engineer, Intelligent Creation",
-      "url": "https://go.vansh.nyc/17e",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "0bcace9ca39bf03d326cbb8c10f85ce832ed0d54",
-      "title": "New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture",
-      "url": "https://go.vansh.nyc/17d",
-      "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]

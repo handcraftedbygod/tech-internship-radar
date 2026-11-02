@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "product",
@@ -39,10 +39,17 @@
     1,
     0,
     10,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc38a6c5c45b30defc254904e67f9c917dbfcafb",
+      "title": "First-Year Explore Program Engineering Intern",
+      "url": "https://go.vansh.nyc/199",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "f13fc202eec3bdd975ab6f099d69986864f6a1a1",
       "title": "Applied Scientist Intern, Turing",
@@ -105,13 +112,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
       "location": "Cambridge, MA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "1f77a78bfc20985ded4a8671b9802badfd4d60a6",
-      "title": "Software Engineer Internship Opportunities",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773?utm_source=freehire.me",
-      "location": "Ireland, Dublin, Dublin",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "insomniac-games",
   "name": "Insomniac Games",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f9820b50ceaa0b9e0455f55ff314171f8713e91",
+      "title": "Undergraduate Tech Art Intern",
+      "url": "https://go.vansh.nyc/18Q",
+      "location": "Burbank, CA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "c4727bbbe44fc7eff4332db601e2346f57ae39b6",
+      "title": "Undergraduate Gameplay Programming Intern",
+      "url": "https://go.vansh.nyc/18P",
+      "location": "Burbank, CA, Remote, United States",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "243db972899f09448d11f13da277e554a1a86813",
       "title": "Engine and Tools Programming Intern",

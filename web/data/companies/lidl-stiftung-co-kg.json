@@ -2,14 +2,14 @@
   "slug": "lidl-stiftung-co-kg",
   "name": "Lidl Stiftung & Co KG",
   "tier": null,
-  "currentOpenings": 24,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 26,
+  "totalPostings": 32,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 25
+      "count": 31
     },
     {
       "hub": "Karlsruhe",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 24
+      "count": 30
     },
     {
       "id": "swe",
@@ -39,10 +39,52 @@
     2,
     0,
     12,
-    12,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc8c8fb05923b78ebb1b2b447c69e6be289d9eb9",
+      "title": "Praktikum Data Science",
+      "url": "https://www.adzuna.de/land/ad/5948598042?se=cozq4O7V8RGryr7uUln1kQ&utm_medium=api&v=DE2C5BD95AAA9326D1DAE58D727060C6D7B3E423&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "57ac4a931d31119841d224725980fd19510bb6f8",
+      "title": "Praktikum Data Science - Immobilien",
+      "url": "https://www.adzuna.de/land/ad/5948598153?se=cozq4O7V8RGryr7uUln1kQ&utm_medium=api&v=B9C8889E60A81144EE53A0265B6218C41E748A9D&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "1f439253dfb8a6342401126948435a63df02fffd",
+      "title": "Praktikum Data Analytics & Digitalisierung",
+      "url": "https://www.adzuna.de/land/ad/5948599011?se=4H-J4O7V8RGzkfY_QG7FnA&utm_medium=api&v=18488A6C547DED566F8BC73FC24B4E388D265DB6&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "a7bbf70ffdfbed0068098db7b0a28968673f1fbe",
+      "title": "Praktikum Data Analytics & Digitalisierung",
+      "url": "https://www.adzuna.de/land/ad/5948600508?se=jPsg4O7V8RGNWO_mnZxWBQ&utm_medium=api&v=3E5A2D6258E6A90026DF5F6762E674DE4EF5A797&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "2b97009645f71822aa84da9b6e6f2f44831735d9",
+      "title": "Praktikum Data Science",
+      "url": "https://www.adzuna.de/land/ad/5948601813?se=LhS83-7V8RGNdZjFkv2-mw&utm_medium=api&v=398270F977B1EB00F28E0AAF166AA28C1D5A0F33&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "b3a4a322f08f16347c3c75ee58d2a85e2cc75cba",
+      "title": "Praktikum Data Science - Immobilien",
+      "url": "https://www.adzuna.de/land/ad/5948601810?se=LhS83-7V8RGNdZjFkv2-mw&utm_medium=api&v=BFD2837379D4617843991939B0CD1448CED502C9&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "1916091a59f6abf1f26461230a242cd8aee48eed",
       "title": "Praktikum Data Analytics & Digitalisierung",
@@ -68,48 +110,6 @@
       "id": "4871d7d611f36f412516d5782cd4c417890dc3c7",
       "title": "Praktikum Data Analytics & Digitalisierung",
       "url": "https://www.adzuna.de/land/ad/5947657092?se=buAnBFjV8RGRQOLR_vdAhg&utm_medium=api&v=78F09A1C356DD61971EA98AD4E24923CFEE29F8A&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "fedf2ef51dc380fbac4ffe143dcafdc14dbb6445",
-      "title": "Praktikum Data Science",
-      "url": "https://www.adzuna.de/land/ad/5947657128?se=buAnBFjV8RGRQOLR_vdAhg&utm_medium=api&v=6824DD1DE7AF697C483F01C1D4B574BAAC7191D1&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "a76b63d7e1733624c805b774583b8d80beebcdc4",
-      "title": "Praktikum Data Science - Immobilien",
-      "url": "https://www.adzuna.de/land/ad/5947657221?se=buAnBFjV8RGRQOLR_vdAhg&utm_medium=api&v=9166905888D3BABD44BD905410B5361759728649&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "0cabc4c8a33b6660955af26334c5d892d8023b4a",
-      "title": "Praktikum Data Analytics & Digitalisierung",
-      "url": "https://www.adzuna.de/land/ad/5948162735?se=JAs8AFjV8RGzkfY_QG7FnA&utm_medium=api&v=7F7A947CDFC49AFB8EBA11841944A6BBDCE06567&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "e4621a2eba97f1d56e8b2c812fe570a522ce82d4",
-      "title": "Praktikum Data Science - Immobilien",
-      "url": "https://www.adzuna.de/land/ad/5948163087?se=Invd_1fV8RGzkfY_QG7FnA&utm_medium=api&v=B95CF25C3B562413FF552E0A535FDEA7F620BB52&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "42148360493e56c1052396f370cc81c8d5fdeed8",
-      "title": "Praktikum Data Science",
-      "url": "https://www.adzuna.de/land/ad/5948176170?se=Invd_1fV8RGzkfY_QG7FnA&utm_medium=api&v=6D33F2CD56D62058D17AEEF9715568F686F8C9A0&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "56cdfff6bbc8996ef0881cb140b27ccf322f63d7",
-      "title": "Praktikum Data Analytics & Digitalisierung",
-      "url": "https://www.adzuna.de/land/ad/5948176198?se=Invd_1fV8RGzkfY_QG7FnA&utm_medium=api&v=A6CD90EC50B27E9AF966479ED11CFE396BD66EF4&utm_source=freehire.me",
       "location": "Deutschland",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

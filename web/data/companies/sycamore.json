@@ -1,0 +1,45 @@
+{
+  "slug": "sycamore",
+  "name": "Sycamore",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-02T12:02:27.024Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6ab9bb00ccd08e60cdaa7fa3864a001dfa8bf436",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/18S",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    }
+  ]
+}

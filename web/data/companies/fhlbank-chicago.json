@@ -1,0 +1,45 @@
+{
+  "slug": "fhlbank-chicago",
+  "name": "FHLBank Chicago",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-02T12:02:27.024Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "42cfbd27874945eeff6c0bff01a886790f699d67",
+      "title": "Application Development Intern",
+      "url": "https://go.vansh.nyc/196",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    }
+  ]
+}

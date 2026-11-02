@@ -2,14 +2,14 @@
   "slug": "bytedance",
   "name": "ByteDance",
   "tier": null,
-  "currentOpenings": 106,
+  "currentOpenings": 107,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 112,
+  "totalPostings": 113,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 85
+      "count": 86
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 66
+      "count": 67
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     6,
     0,
     0,
-    106,
+    107,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd7870a995dfb409714e7bbcf8b913832e00d468",
+      "title": "Student Researcher Intern, Seed Model - Vision",
+      "url": "https://go.vansh.nyc/18Y",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "8b93b6f9992e6c105c052138bfe6c844f46139ed",
       "title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
@@ -112,13 +119,6 @@
       "id": "7cc1c6fe2e6c1b6ea21bc8f92cae3727a860d8de",
       "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
       "url": "https://go.vansh.nyc/15v",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "f9b09bb720616362c5b3c26b94e1e9e6ad8d5264",
-      "title": "New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering)",
-      "url": "https://go.vansh.nyc/15u",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

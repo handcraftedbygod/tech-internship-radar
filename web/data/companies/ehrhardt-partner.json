@@ -2,21 +2,21 @@
   "slug": "ehrhardt-partner",
   "name": "Ehrhardt Partner Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba0063a7cdc6f81516b09f4141336b0d3de12347",
+      "title": "Junior Software Developer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5950198759?se=NJuX2oXW8RGtJ7MW0vvhFA&utm_medium=api&v=DF0CEC5D62C70BAADAD1958DED41E885A71BDC37&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "496fe70f2c59ab4871e81d27a532cd7f7850b50a",
       "title": "Junior Software Developer (m/w/d) (Anwendungsprogrammierer/in)",

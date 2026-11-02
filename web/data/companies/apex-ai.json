@@ -2,21 +2,21 @@
   "slug": "apex-ai",
   "name": "Apex Ai",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cd64b60b137c526d42364de4f26bb680986a4a5a",
+      "title": "Software Engineer — Software Platform & Middleware (Early Career)",
+      "url": "https://www.arbeitnow.com/jobs/companies/apex-ai/software-engineer-software-platform-middleware-early-career-munich-211788",
+      "location": "Munich",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "e9e74bc95342bab4879f617557bb8250c250b73f",
       "title": "Software Engineer — Software Platform & Middleware (Early Career)",

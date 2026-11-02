@@ -1,0 +1,52 @@
+{
+  "slug": "corrata",
+  "name": "Corrata",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-02T12:02:27.024Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Dublin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "65cb449e8bbc9a40f6d656075400e2c779ac7eda",
+      "title": "Junior Java Developer",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6288831__7127?utm_campaign=publisher&utm_medium=api&geoID=253&utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "b88168dc653d5d9b9e35d0ebd905884e59878904",
+      "title": "Junior Java Engineer - Cybersecurity & Mobile Apps",
+      "url": "https://ie.whatjobs.com/pub_api__cpl__6288805__7127?utm_campaign=publisher&utm_medium=api&geoID=253&utm_source=freehire.me",
+      "location": "Dublin, Ireland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    }
+  ]
+}

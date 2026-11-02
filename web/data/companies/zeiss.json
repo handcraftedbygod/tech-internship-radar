@@ -2,14 +2,14 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 19,
+  "totalPostings": 21,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 18
+      "count": 20
     },
     {
       "id": "swe",
@@ -47,10 +47,24 @@
     9,
     0,
     8,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "abe1625e10f90e99ba8a148712d0a753cb755024",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5950196749?se=QkWs1LTW8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=1FD0DC569BCF414CF93F801E92F04CB274AF4B93",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
+    {
+      "id": "ba77f32b56d0007e81570240693e12e24a59c622",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5943666776?se=QkWs1LTW8RGzkfY_QG7FnA&utm_medium=api&utm_source=9141e2e6&v=5E713B48313715C3984F1D0CEC135402413DA296",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-02T12:02:27.024Z"
+    },
     {
       "id": "990a022aca774cb246aef447678f77806da3dfd3",
       "title": "Internship in AI & Machine Learning (f/m/x)",
@@ -106,20 +120,6 @@
       "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317?utm_source=freehire.me",
       "location": "Karlsruhe",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "4f939e563b5dc8d6ef221e636d408a3831a06652",
-      "title": "Internship in AI & Machine Learning (f/m/x)",
-      "url": "https://www.adzuna.de/land/ad/5944041626?se=Sm24M7nS8RGql-zd2-dooQ&utm_medium=api&utm_source=9141e2e6&v=545164AD0E5C3860C638DD0FCEE3B32479AF72DA",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "a5a839dbf60e94403ad7dd48df0e294e3cd9dc80",
-      "title": "Internship – Software Engineering & Agentic Systems for Digital Twins (f/m/x)",
-      "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship---Software-Engineering---Agentic-Systems-for-Digital-Twins--f-m-x-_JR_1053820-3?utm_source=freehire.me",
-      "location": "Oberkochen",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }
