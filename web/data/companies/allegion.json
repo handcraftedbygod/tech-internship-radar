@@ -2,25 +2,30 @@
   "slug": "allegion",
   "name": "Allegion",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     },
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +40,38 @@
     0,
     0,
     3,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03c81ffaf46daea3ee44b65e8621f95b20fd2d60",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1c3",
+      "location": "Golden, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "ff9eef2c0106b73ba971fbdbeac75591677a78e6",
+      "title": "Digital Manufacturing Intern",
+      "url": "https://go.vansh.nyc/1c2",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "116ffd9b3f93ef20ab97622dd01c7d4865972034",
+      "title": "Firmware Engineer Intern, Advanced Development",
+      "url": "https://go.vansh.nyc/1c1",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "a2c59ba7c78613aad924cdc9efc9b0b7737bcdef",
+      "title": "Software Engineering Intern, DevOps",
+      "url": "https://go.vansh.nyc/1c0",
+      "location": "Carmel, IN, Golden, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "1332ba34a3f59935604ce4a08ac9df1515c72a1b",
       "title": "Software Systems Engineering Intern",

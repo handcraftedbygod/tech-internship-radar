@@ -1,0 +1,72 @@
+{
+  "slug": "cwan",
+  "name": "CWAN",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a52e79fac96f83d48177741423d5f4cbe97aa99a",
+      "title": "Gen AI Intern",
+      "url": "https://go.vansh.nyc/1cn",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "a9b41e16cb820e8dd2822a9985cbab750561b880",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1cm",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "3fec44b981c76761a50dbc39423baffa7c10ef00",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1cl",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

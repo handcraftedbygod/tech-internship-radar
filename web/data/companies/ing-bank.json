@@ -2,21 +2,21 @@
   "slug": "ing-bank",
   "name": "ING Bank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 42.6,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6641526a9a0b782717597a4bd1fbf6370e1569ad",
+      "title": "Internship Software Development – Java & AI",
+      "url": "https://careers.ing.com/en/job/amsterdam/internship-software-development-java-and-ai/3121/46560300288?utm_source=freehire.me",
+      "location": "Amsterdam, NL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "38692a835a4c15e9ac5a2d0a9bdd38ffbf4845b4",
       "title": "Junior Data Scientist",

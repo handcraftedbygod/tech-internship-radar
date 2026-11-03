@@ -2,21 +2,21 @@
   "slug": "ernest-gordon-recruitment",
   "name": "Ernest Gordon Recruitment Limited",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-14T05:39:27.708Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "557be99ed965ae230ebbade4a672db7a09b682ce",
+      "title": "Trainee Fire &amp; Security Engineer (Apprentice Trained)",
+      "url": "https://www.reed.co.uk/jobs/trainee-fire-amp-security-engineer-apprentice-trained/57517313?utm_source=freehire.me",
+      "location": "Edinburgh",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "45f329acde2f5c77c7b9262371888c36e21473db",
       "title": "Junior Fire &amp; Security Engineer (Global Company)",

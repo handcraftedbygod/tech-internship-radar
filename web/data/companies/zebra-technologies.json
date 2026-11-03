@@ -2,20 +2,25 @@
   "slug": "zebra-technologies",
   "name": "Zebra Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18d5333dd1ee8e4a8072a0c0fc5057094105606b",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/19O",
+      "location": "Lincolnshire, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "f4cca27d110f119ececde049c1fcde688110b540",
+      "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
+      "url": "https://go.vansh.nyc/19p",
+      "location": "Holtsville, NY",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "32e2a8eae0c641c11322123af063ec69abf2f373",
       "title": "Software Engineer Intern",

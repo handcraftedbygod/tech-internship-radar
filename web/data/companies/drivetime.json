@@ -1,0 +1,64 @@
+{
+  "slug": "drivetime",
+  "name": "DriveTime",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "696e1f90d0f59ec008bcd3b79a32c3217f819f67",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1ct",
+      "location": "Tempe, AZ, Dallas, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "f7476856272fd47efbb4b03cf57521878a0fd5ae",
+      "title": "Database Engineering Intern",
+      "url": "https://go.vansh.nyc/1cs",
+      "location": "Tempe, AZ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "b5a0b356d85ee9186d75b66c1d8895a1df7eb16f",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cr",
+      "location": "Tempe, AZ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

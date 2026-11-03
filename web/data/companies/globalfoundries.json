@@ -2,14 +2,14 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 8.2,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "Austin",
@@ -28,13 +28,13 @@
       "count": 4
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "design",
       "label": "Design",
+      "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     }
   ],
@@ -49,10 +49,24 @@
     0,
     0,
     13,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8cdf8a1780cb5eb2b4394f6fe3a53656230f093",
+      "title": "New Grad 2027: Design Verification Engineer",
+      "url": "https://go.vansh.nyc/1bo",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "fac39830c32255db095da5be57e36629f11aed28",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1ba",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "022f9b98431b5d4e272fe0cd94e1d0ed2145b55f",
       "title": "AI Enabled Device Modeling",
@@ -108,20 +122,6 @@
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
       "location": "Austin, TX, Santa Clara, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "928a9df9840add0195540d6fe58595c2a4371c9a",
-      "title": "Tapeout Engineer Intern, Tapeout Operations",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
-      "location": "Essex Junction, VT",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "07520b274fdb260d5ac0dc7db232cd69902d2501",
-      "title": "New Grad 2027: AI Software Engineer",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-      "location": "Santa Clara, CA, Richardson, TX",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

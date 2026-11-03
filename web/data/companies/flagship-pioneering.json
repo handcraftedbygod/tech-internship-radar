@@ -2,14 +2,14 @@
   "slug": "flagship-pioneering",
   "name": "Flagship Pioneering",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5622cc9c8d1a58343c1c3338ea61a04b9a038ea",
+      "title": "ML Intern",
+      "url": "https://go.vansh.nyc/19J",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "23f0d7d38d43910a339af7d8c4f14c0f8792e9fd",
       "title": "Bioinformatics Data Engineering Co-op",

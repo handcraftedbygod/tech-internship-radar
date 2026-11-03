@@ -1,0 +1,82 @@
+{
+  "slug": "guardian-life",
+  "name": "Guardian Life",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5d0fc3371938d48df13eecec45341a2efd4497d8",
+      "title": "Cybersecurity Intern, Digital & Technology",
+      "url": "https://go.vansh.nyc/1cZ",
+      "location": "New York, NY, Bethlehem, PA, Holmdel, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "f297c85d710671c6c01d789dec0a7f5aa434f29e",
+      "title": "Cloud & DevOps Intern, Digital & Technology",
+      "url": "https://go.vansh.nyc/1cY",
+      "location": "Bethlehem, PA, Holmdel, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "16c3d79bcd70340c6f944d1ba16df094534d4cc1",
+      "title": "Application Development Intern, Digital & Technology",
+      "url": "https://go.vansh.nyc/1cX",
+      "location": "New York, NY, Bethlehem, PA, Holmdel, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "dd785a8cc44fdb4ac772e90e29b2782e448c71f6",
+      "title": "AI & Machine Learning Intern, Digital & Technology",
+      "url": "https://go.vansh.nyc/1cW",
+      "location": "New York, NY, Bethlehem, PA, Holmdel, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "14b0115f083f3f570d34c3aa12fc6f541c6b8ade",
+      "title": "Data Engineering Intern, Digital & Technology",
+      "url": "https://go.vansh.nyc/1cV",
+      "location": "New York, NY, Bethlehem, PA, Holmdel, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

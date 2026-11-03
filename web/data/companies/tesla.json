@@ -2,21 +2,49 @@
   "slug": "tesla",
   "name": "Tesla",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 70,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 71,
   "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 60
+    },
+    {
+      "hub": "Other",
+      "count": 10
+    },
+    {
+      "hub": "Austin",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 43
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 17
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 6
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 3
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,16 +58,79 @@
     1,
     0,
     0,
-    0,
+    70,
     0
   ],
   "recentPostings": [
     {
-      "id": "e56cda0be1c7a9c4657d5b0e312f04cd937c03e1",
-      "title": "Software Compiler Engineer Intern, AI Inference",
-      "url": "https://www.tesla.com/careers/search/job/278847",
+      "id": "7526499b6e4136489480a720de8f7567b5cd7ea9",
+      "title": "Software Engineer Intern, Information Security",
+      "url": "https://go.vansh.nyc/1b8",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "fca7d48ca94c401fd72c16f90b4707c9db98a961",
+      "title": "Software Engineer Intern, Maps & Navigation Validation",
+      "url": "https://go.vansh.nyc/1b7",
       "location": "Palo Alto, CA",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "cdf6b2687df9be993b8baa747ea810c7cd2debe0",
+      "title": "Software Engineer Intern, Vehicle UI Development",
+      "url": "https://go.vansh.nyc/1b6",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "cf64e127682629e8f134a60ae1786bd653f954c5",
+      "title": "Commercial UI Software Engineer Intern, Energy Engineering",
+      "url": "https://go.vansh.nyc/1b5",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "1060d57511a4bb2ae2cc75e2b4f41426208fe4c2",
+      "title": "Embedded Software Engineer Intern, Silicon Development",
+      "url": "https://go.vansh.nyc/1b4",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "01db065c0f8559c36a5c2ad3fd972ba860c46964",
+      "title": "Software Engineer Intern, SI Hardware Infrastructure",
+      "url": "https://go.vansh.nyc/1b3",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "cfc52881eca0da07b5714c2dfc2f449da474b09b",
+      "title": "Fullstack Engineer Intern, Infrastructure Engineering",
+      "url": "https://go.vansh.nyc/1b2",
+      "location": "Fremont, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "3fe6c876bce585444cdc2d102c2ee8cfebb43515",
+      "title": "Red Team Security Engineer Intern, Vehicle Software",
+      "url": "https://go.vansh.nyc/1b1",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "b8c6b703b7f2fea9381cb3c919cb9ecb2a74abc0",
+      "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+      "url": "https://go.vansh.nyc/1b0",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "d845e2400f89dd79627e4df622fc62613bbd163c",
+      "title": "Systems Architecture & Integration Engineer Intern, LV Architecture",
+      "url": "https://go.vansh.nyc/1aZ",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

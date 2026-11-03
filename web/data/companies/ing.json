@@ -2,14 +2,14 @@
   "slug": "ing",
   "name": "ING",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Katowice",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "29e296aa656daa40cf13e8b3f35e41f65237b172",
+      "title": "Internship Software Development – Java & AI",
+      "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124?utm_source=freehire.me",
+      "location": "HBP (Amsterdam - Haarlerbergpark)",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "5841966ef6000d5a9a819ea2b583b99a3af8289e",
       "title": "INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES",

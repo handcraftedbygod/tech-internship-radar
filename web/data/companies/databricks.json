@@ -2,9 +2,9 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 24,
+  "totalPostings": 30,
   "avgPostingDurationDays": 23.1,
   "topLocations": [
     {
@@ -13,15 +13,15 @@
     },
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Amsterdam",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "London",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 20
     },
     {
       "id": "product",
@@ -61,10 +61,52 @@
     2,
     0,
     19,
-    0,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bb5f78e44a5b336a8bb978b9ae7a39c73b71b0e0",
+      "title": "Software Engineer - New Grad (2027 Start) - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineer-new-grad-2027-start-london-288068",
+      "location": "London",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "5acafec80618bb1150170ba08d5ba5702737422e",
+      "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/software-engineer-new-grad-2027-start-amsterdam-401527",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "13e345152136489c102a610ad7701dcc8391736e",
+      "title": "Software Engineer - New Grad (2027 Start) - Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineer-new-grad-2027-start-berlin-199066",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "94d8321bf0bc04420ac04e558922a4b6681d4f6b",
+      "title": "Software Engineer - New Grad (2027 Start) - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "aa49c1b8a12036f7497a48755d766c34a4c600cd",
+      "title": "Software Engineer - New Grad (2027 Start) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "b89fa0c567740a8309b4084730e453ef12477944",
+      "title": "Software Engineer - New Grad (2027 Start) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "bcca3aa60e7595164cc8ff7056e685e52f50e97f",
       "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
@@ -92,48 +134,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
       "location": "Mountain View, California; San Francisco, California",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "1517c0b6607c3e3dd9881a136b15f923ac620994",
-      "title": "Software Engineering Intern (2027)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "40efa9e26282b056d0bed6e074835b978f682ee4",
-      "title": "Product Design New Grad (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002",
-      "location": "San Francisco, California; Seattle, Washington",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "3a29a6b9bf34daaee97a4185bd56ed360d7a8a37",
-      "title": "Product Design Intern (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002",
-      "location": "San Francisco, California; Seattle, Washington",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "99a4f6c47c45abeea9db97ff7e0b811b10f2bd04",
-      "title": "Software Engineering Intern (2027 Start) - London",
-      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-london-36ab80a1",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "3f30b55de55e22e45fba9880715b1bfe2459c41e",
-      "title": "Software Engineering Intern (2027 Start) - Berlin",
-      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-berlin-73bab2e5",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "fa2e50378a4eec7d82aca497a72dfe45e71d6a3f",
-      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
-      "url": "https://artificialintelligencejobs.co/jobs/databricks-software-engineering-intern-2027-start-amsterdam-7f2278eb",
-      "location": "Amsterdam, Netherlands",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

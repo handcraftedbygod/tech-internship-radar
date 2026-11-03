@@ -2,14 +2,18 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +44,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5eda2182dcf51b2182c445c00b1fb530a6f9b6c2",
+      "title": "AI Application Engineer Intern",
+      "url": "https://go.vansh.nyc/19X",
+      "location": "Folsom, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "caeb28b6c6f4356f8810ac699f0c96ef9cd6a907",
       "title": "Systems Software Engineering Intern",

@@ -2,17 +2,17 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
-      "hub": "Lodz",
-      "count": 6
+      "hub": "Other",
+      "count": 7
     },
     {
-      "hub": "Other",
+      "hub": "Lodz",
       "count": 6
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -47,10 +47,17 @@
     5,
     5,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "85f0640ad4563518e89c5aefe37f804af1e24ebc",
+      "title": "Junior Cloud RAN Layer 1 SW Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3MTAwNCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "bc66aaab5f44d9e4c3fba69a51b37d49c96f0493",
       "title": "AI and Automation Engineer Intern",
@@ -112,13 +119,6 @@
       "title": "Junior Software Developer - Radio Synchronization",
       "url": "https://jobs.ericsson.com/careers/job/563121777202467-junior-sw-developer-radio-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
       "location": "Stockholm,Stockholm,Sweden",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "4e57bef89504ce823085fa8ebbe6dc3b7dfc09f9",
-      "title": "Junior Software Developer - Radio Synchronization",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjI5MDkzNiAxMjE?lang=en",
-      "location": "Sweden",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]

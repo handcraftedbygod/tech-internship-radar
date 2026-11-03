@@ -2,26 +2,26 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 23
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -40,10 +40,24 @@
     10,
     1,
     10,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d27ffa575d8ef582ddd23d29b97f0c877d75aba",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1bf",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e11967bacec5876b9616cb849202a3d0c47a50e1",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bc",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "a6bd252343f5379861525557d7d7891b43b81b5c",
       "title": "Software Developer Intern",
@@ -99,20 +113,6 @@
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
       "location": "Huntsville, AL",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "0d97132855bccf853cbaecf5fa6364380928049b",
-      "title": "Network Site Design Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
-      "location": "Remote in USA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "4a2134861e08a389cf4a778ae2aacb83e7efd2ba",
-      "title": "Cloud Engineering Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668",
-      "location": "Remote in USA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

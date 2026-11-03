@@ -1,0 +1,52 @@
+{
+  "slug": "wpp",
+  "name": "Wpp Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Madrid",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8ce2ab6c13ab39ffb4fb27f0c66eac38ea26ead3",
+      "title": "Trainee Frontend Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366746884__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "60ce8d907dfb400ad86602f2d034fa6442932836",
+      "title": "Frontend Developer Intern – Remote & Training",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366867443__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

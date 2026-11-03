@@ -2,10 +2,10 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 10,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 14.2,
+  "totalPostings": 24,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     },
     {
       "id": "design",
@@ -56,10 +56,17 @@
     0,
     2,
     21,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1ea3a8a16f458224958c325869fd47258048b28",
+      "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
+      "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "d67378cc7674aa0a19561f62e15ddcb7caa3e47f",
       "title": "Intern, Site Reliability Engineer, iCloud",
@@ -122,13 +129,6 @@
       "url": "https://go.vansh.nyc/D3",
       "location": "United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "379a7f035695bc6502aae2358052f0c5319e91c6",
-      "title": "Software Engineer Intern, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

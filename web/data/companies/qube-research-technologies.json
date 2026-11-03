@@ -2,14 +2,14 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 38.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Amsterdam",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "quant",
@@ -44,10 +44,17 @@
     1,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c47b86e25271f6212e2940c096b3866a485f092",
+      "title": "2027 - Internship, Business Data Analytics ",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "cb43f3193fbe24cffa28bd9ab6cb80d1e2b3bd8a",
       "title": "2027 - Internship, Software Engineering and Quantitative Development",

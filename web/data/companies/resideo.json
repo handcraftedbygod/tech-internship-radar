@@ -1,0 +1,87 @@
+{
+  "slug": "resideo",
+  "name": "Resideo",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
+    {
+      "hub": "Austin",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "69ef19eed80cedea1c061498189d36983c7c3357",
+      "title": "Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1bz",
+      "location": "Golden Valley, MN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "ea7dfad733348e996783190fe008db0ad0c838cb",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1by",
+      "location": "Austin, TX, Golden Valley, MN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "1dae037c9a65a7f8390758577d2ac36825c30aeb",
+      "title": "Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1bx",
+      "location": "Aurora, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "6f4c5d961af4b3683638dbac7da3ef0edacfb333",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bw",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "310e9ed384174fbb11beeebc0969878e69056327",
+      "title": "Embedded Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1bv",
+      "location": "Melville, NY",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

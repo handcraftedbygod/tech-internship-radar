@@ -2,14 +2,14 @@
   "slug": "n26",
   "name": "N26",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 26.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "biz",
@@ -47,10 +47,17 @@
     6,
     4,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1acfc11bb75f180863b30e34896bfc6959248b59",
+      "title": "Intern, Corporate Governance (6 Months) ",
+      "url": "https://n26.com/en-eu/careers/positions/8330667?gh_jid=8330667",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "55ad74d592eab4bcc81429d95d34bfcde4ca19cc",
       "title": "ICT GRC - Junior Associate",
@@ -113,13 +120,6 @@
       "url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
       "location": "Berlin",
       "firstSeenAt": "2026-08-15T04:30:16.064Z"
-    },
-    {
-      "id": "6473c20e47315d8e1e2bc033f09f0e99cc4d0fe2",
-      "title": "Junior Backend Engineer - Customer Identity",
-      "url": "https://n26.com/en-eu/careers/positions/8059505?gh_jid=8059505&utm_source=freehire.me",
-      "location": "Barcelona",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

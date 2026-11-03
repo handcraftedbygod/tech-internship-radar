@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 39,
+  "totalPostings": 40,
   "avgPostingDurationDays": 26.8,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 8
     },
     {
-      "hub": "London",
-      "count": 5
+      "hub": "Paris",
+      "count": 6
     },
     {
-      "hub": "Paris",
+      "hub": "London",
       "count": 5
     },
     {
@@ -38,6 +38,11 @@
       "id": "biz",
       "label": "Business",
       "count": 15
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -51,10 +56,17 @@
     8,
     14,
     12,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "245d841ce3c6598d4b28a4daa7a3023ae5b7def2",
+      "title": "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
+      "url": "https://careers.hellofresh.com/global/en/job/7741137?gh_jid=7741137",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "8afc28161d4f007391e36e8652be421e6584e8ee",
       "title": "Junior Quality Control Associate",
@@ -116,13 +128,6 @@
       "title": "Junior Procurement Category Manager (f/m/x)",
       "url": "https://careers.hellofresh.com/global/en/job/8259740?gh_jid=8259740",
       "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "048dc089d88952937fdcb1c2a9c451d5b4ad4423",
-      "title": "Junior Procurement Category Manager (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8259670?gh_jid=8259670",
-      "location": "Amsterdam, North Holland, Netherlands",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]

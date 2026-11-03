@@ -2,25 +2,29 @@
   "slug": "alcon",
   "name": "Alcon",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Warsaw",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +39,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "650cbb93c32a8868c7dfa2fc619ddbe9726b593b",
+      "title": "Software, Data & AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1bZ",
+      "location": "Fort Worth, TX, Lake Forest, CA, Johns Creek, GA, Houston, TX, Goleta, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "95261afe79e1775d3f3c39c5a1be8f1354e66cf5",
       "title": "Junior Data Scientist",

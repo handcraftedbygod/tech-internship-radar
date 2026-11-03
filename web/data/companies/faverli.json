@@ -2,21 +2,21 @@
   "slug": "faverli",
   "name": "Faverli AB",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f221742c8c152252928abcdc3156418685641cdc",
+      "title": "Junior Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM2OTk1OSAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Upplands Väsby, Sweden",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "347b6859331e0624e130d21574e29b5b72dfb16c",
+      "title": "Junior Frontend Utvecklare",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3MDAwMSAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "686b8bdb8622d26594df85990085aa85ca4684cc",
       "title": "Junior Frontend-utvecklare",

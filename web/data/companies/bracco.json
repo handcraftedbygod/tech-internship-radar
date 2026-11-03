@@ -2,21 +2,21 @@
   "slug": "bracco",
   "name": "Bracco",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54ebc47ce17b69581864bf4af39424aa0269c716",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1bX",
+      "location": "Eden Prairie, MN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "d799c21395a67716c08e6197448907af03f7c7fd",
       "title": "Product Security Engineering Intern",

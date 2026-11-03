@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "design",
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d2cebffa6da3b2f068d8a9527e05c4521aa3897",
+      "title": "DevSecOps Intern",
+      "url": "https://go.vansh.nyc/1dt",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "af241b1440a3de15448d88fcf44545dc4d742b16",
       "title": "FPGA Design Intern",
@@ -109,13 +116,6 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/55115?icims=1",
       "location": "Calabasas, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "352d9e84a9c2fc0b6ca49e769d97e1515e2193ab",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://jobs.keysight.com/jobs/55110?icims=1",
-      "location": "Santa Rosa, CA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]

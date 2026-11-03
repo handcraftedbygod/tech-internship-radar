@@ -2,21 +2,21 @@
   "slug": "fhlbank-chicago",
   "name": "FHLBank Chicago",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-02T12:02:27.024Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3376044384391ff580b5dfe5124168935932ebd4",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1cN",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "42cfbd27874945eeff6c0bff01a886790f699d67",
       "title": "Application Development Intern",

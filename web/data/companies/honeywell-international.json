@@ -1,27 +1,27 @@
 {
   "slug": "honeywell-international",
-  "name": "Honeywell International",
+  "name": "Honeywell International Inc.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,31 @@
     0,
     1,
     1,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff04a20efca026e1e9f49dbe40477565e4c5a477",
+      "title": "Junior Software Engineer (m/f/d) - hybrid",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/161294?utm_source=freehire.me",
+      "location": "Gdansk, Pomorskie, Poland",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "ffd0271e2789e86c6e22fd26001432f5c2894130",
+      "title": "Embedded Software Intern (m/f/d)",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/158938?utm_source=freehire.me",
+      "location": "Horsham, West Sussex, United Kingdom",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "f7d971275a5b7297fa944bb2ed21901b88e9a70d",
+      "title": "Embedded Software Intern (m/f/d)",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/158937?utm_source=freehire.me",
+      "location": "Horsham, West Sussex, United Kingdom",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "b44ab6444715c34f53d70308d5ffd9b5b12c84ff",
       "title": "Intern - Embedded Software Engineer",

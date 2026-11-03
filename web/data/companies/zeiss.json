@@ -2,14 +2,14 @@
   "slug": "zeiss",
   "name": "ZEISS",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 21,
+  "totalPostings": 23,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 16
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 22
     },
     {
       "id": "swe",
@@ -47,10 +47,24 @@
     9,
     0,
     8,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4d631f5cfa79912c82551592e6ad995d4b6df29",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5950196749?se=Bpy-23rX8RGFWqjtYnx9Yg&utm_medium=api&utm_source=9141e2e6&v=1FD0DC569BCF414CF93F801E92F04CB274AF4B93",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e13c6e685a0a9ce1ef4dc2f8da16ec6a5ecb3735",
+      "title": "Internship in AI & Machine Learning (f/m/x)",
+      "url": "https://www.adzuna.de/land/ad/5943666776?se=Bpy-23rX8RGFWqjtYnx9Yg&utm_medium=api&utm_source=9141e2e6&v=5E713B48313715C3984F1D0CEC135402413DA296",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "abe1625e10f90e99ba8a148712d0a753cb755024",
       "title": "Internship in AI & Machine Learning (f/m/x)",
@@ -106,20 +120,6 @@
       "url": "https://www.adzuna.de/land/ad/5944751066?se=6u5JcoXT8RGM9LiW6j198w&utm_medium=api&utm_source=9141e2e6&v=CC9DB04F0A076BB11C1C89F3687E986C0325587D",
       "location": "Deutschland",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "cfefe71ed98c2f7500c14deb1f2c1c963a783b82",
-      "title": "Internship in AI & Machine Learning (f/m/x)",
-      "url": "https://www.adzuna.de/land/ad/5945300785?se=6u5JcoXT8RGM9LiW6j198w&utm_medium=api&utm_source=9141e2e6&v=6AEB6E6A9032FD59F07F274A95FCE0B39A58669C",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "7c52a509653d399037a35f75d6b8a09b3c81381f",
-      "title": "Internship in AI & Machine Learning (f/m/x)",
-      "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317?utm_source=freehire.me",
-      "location": "Karlsruhe",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bf6d756e7383c4e7df49086037eddf5decacf2e5",
+      "title": "Supervision & Regulation Intern, Cybersecurity",
+      "url": "https://go.vansh.nyc/19i",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "af2d256422902fe7833498748c33620f96f3dcca",
       "title": "Innovation Intern",

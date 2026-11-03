@@ -1,0 +1,45 @@
+{
+  "slug": "atc",
+  "name": "ATC",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dadd50541377d9c6d393a1099661dc57dc4dcd28",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/1bS",
+      "location": "Pewaukee, WI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

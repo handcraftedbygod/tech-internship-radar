@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 28,
+  "totalPostings": 30,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Vancouver",
@@ -17,19 +17,19 @@
     },
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 10
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 9
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 8
     },
     {
       "id": "hw",
@@ -53,10 +53,24 @@
     0,
     0,
     28,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2b3c7c1e4ab6a327edc587bcac491f72385dd61f",
+      "title": "Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1bu",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "51a92556f48c66c70f8441e9ce3096092ad2558a",
+      "title": "SoC Engineering Intern",
+      "url": "https://go.vansh.nyc/1a0",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "9e46679bdb554c19e60ffed068f5ae072ae227be",
       "title": "Camera HW ASIC Verification Intern",
@@ -112,20 +126,6 @@
       "url": "https://go.vansh.nyc/Yi",
       "location": "Vancouver, Canada",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "45a2140acb6693b49fad7a59f5378a69c58c80b8",
-      "title": "Deep Learning Research Intern, Interim Engineering Systems",
-      "url": "https://go.vansh.nyc/Yh",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "6bc34785a021d2f067a131ff5d5a8e2751ce81db",
-      "title": "AI and DSP Applications Engineer Intern",
-      "url": "https://go.vansh.nyc/fy",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

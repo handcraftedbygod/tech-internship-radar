@@ -1,0 +1,57 @@
+{
+  "slug": "graco",
+  "name": "Graco",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "98418678636195bfb529e9639990190138c66b73",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1cy",
+      "location": "Dayton, MN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "22c75b64ffc6741140517e2225639a47f06ad926",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/1cx",
+      "location": "Dayton, MN",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

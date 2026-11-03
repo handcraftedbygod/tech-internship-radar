@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 162,
+  "currentOpenings": 163,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 286,
+  "totalPostings": 287,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 230
+      "count": 231
     },
     {
       "hub": "Seattle",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 108
+      "count": 109
     },
     {
       "id": "biz",
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    160,
+    161,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b2b92a8e4d4237b9fcc29403c9bfd1af3914cff",
+      "title": "New Grad 2027: Machine Learning Engineer (Lead Ads)",
+      "url": "https://go.vansh.nyc/19A",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "143c660611f601c4a7ee7a9d6c82b6cdb587a4da",
       "title": "Software Engineer Project Intern, Platform Efficiency",
@@ -118,13 +125,6 @@
       "title": "New Grad 2027: Software Engineer, Business Integrity",
       "url": "https://go.vansh.nyc/17g",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "9b8303731f0222c4ed51b641c73e768f871d8385",
-      "title": "New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)",
-      "url": "https://go.vansh.nyc/17f",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]

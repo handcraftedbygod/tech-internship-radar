@@ -1,0 +1,75 @@
+{
+  "slug": "shield",
+  "name": "Shield",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f985d65f705b3544c90962435032d42ea28843d5",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/1bQ",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "553203491a908f8bf812eb379418ad84d63c6e9e",
+      "title": "New Grad: Software Engineer I",
+      "url": "https://go.vansh.nyc/1bP",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "b10eaa4130c540c04f8acb92cb5acbe4fc37e14d",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bN",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "efb8a55d876b4a4ccd0fbb001d378ed4b4f035f2",
+      "title": "Embedded Firmware Intern",
+      "url": "https://go.vansh.nyc/1bJ",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 24,
+  "totalPostings": 25,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     0,
     0,
     24,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e19725da2dfd897b3c99b6a8739a07752db1be0",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633?utm_source=freehire.me",
+      "location": "Poland, Gdansk",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "7441a4025f6a5b98854d76bf2d8bfdab5ef825ef",
       "title": "New Grad: Software Application Development Engineer",
@@ -113,13 +120,6 @@
       "title": "Software Development Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215?utm_source=freehire.me",
       "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "6897880a29e82f6a92f9fee998317c962723cdf4",
-      "title": "DevOps Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]

@@ -1,0 +1,66 @@
+{
+  "slug": "costco",
+  "name": "Costco",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "650db2312b9b0f486c7b2beef6b80b94217d5a56",
+      "title": "Innovation Intern",
+      "url": "https://go.vansh.nyc/1bD",
+      "location": "Issaquah, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "0d213cc2350602fcaee629502d65624a9da25a11",
+      "title": "Software Engineer Intern, International Depot",
+      "url": "https://go.vansh.nyc/1bC",
+      "location": "Issaquah, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e4047b5ba439757d2c284f8c947c62a9cd0cd8a2",
+      "title": "Software Engineer Intern, IT Retail Media",
+      "url": "https://go.vansh.nyc/1bB",
+      "location": "Issaquah, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "57bce58701f1c90aa8535d5f5e381fc5bc837c0a",
+      "title": "Digital Services Intern, Infosec AI/ML",
+      "url": "https://go.vansh.nyc/1bA",
+      "location": "Issaquah, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

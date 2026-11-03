@@ -2,21 +2,21 @@
   "slug": "slashmobility",
   "name": "Slashmobility",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 13
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     3,
     4,
     6,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c97de8727e593770af47658cd81889d7772895b",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366542376__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "213154e36c1d11eadf4a98e2ba8fbcfc5b9c97f8",
+      "title": "Remote Junior Java Developer - Impactful Digital Projects",
+      "url": "https://es.whatjobs.com/pub_api__cpl__367575967__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "361fbce7dc70533e278d1d3cf261d338c29d1782",
       "title": "Junior Java Developer",
@@ -89,20 +103,6 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__354468527__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "79a45b4c99e47e8b9a7563a7ebae626af12decda",
-      "title": "Junior Java Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__350136493__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "aede7a5942b3930f253e20346f8eed9dee99b281",
-      "title": "Junior Java Developer",
-      "url": "https://es.whatjobs.com/pub_api__cpl__348016972__7107?geoID=5046&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 42,
+  "totalPostings": 43,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 17
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 34
+      "count": 35
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     15,
     11,
     15,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dffbc2ff9c711bf5a95f0c4e60e3bae1cdcc4866",
+      "title": "Junior .NET Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252671?se=ipyaa7jW8RGKuMLgePBXQA&utm_medium=api&v=B7F2F579877E7B853CD6D223B84EAFE1536C7F7C&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "2a141aa874f5d1ed279f75a2d10efb546f30ee07",
       "title": "Junior .NET Developer",
@@ -104,13 +111,6 @@
       "title": "Graduate / Junior Developer, Python, JavaScript, PHP - London",
       "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-javascript-php-london/57470237",
       "location": "EC3R8EE",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "deaeaf20ea1093e98fcbaf49ed3630fddc8b2a09",
-      "title": ".NET Developer, Graduate / Junior",
-      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57470317",
-      "location": "M11AR",
       "firstSeenAt": "2026-10-19T13:17:09.570Z"
     }
   ]

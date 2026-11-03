@@ -2,21 +2,21 @@
   "slug": "regeneron-pharmaceuticals",
   "name": "Regeneron Pharmaceuticals",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "91d91fdbb52bcd6445328cb95794a3af23fdddac",
+      "title": "Data Analytics & Digital Tools Co-op (IOPS)",
+      "url": "https://go.vansh.nyc/1dq",
+      "location": "Rensselaer, NY",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "45f70221846b9a2a05109a22afd5edfa298960e2",
       "title": "IT, Digital Enablement & Information Security Intern",

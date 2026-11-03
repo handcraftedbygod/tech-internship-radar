@@ -2,21 +2,21 @@
   "slug": "swissquote-bank-sa",
   "name": "Swissquote Bank SA",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fec4084c4918fddb64b67244e8c40deb2e0e3394",
+      "title": "Junior Relationship Manager & Business Developer - Corporate Clients",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NGE2NmM0MTktNTBiOS00NTc5LWE5YzAtNjdkMjhjNDBiMTE3IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "4342834e839da23ca99ebcc0e6957e95271169d0",
       "title": "Junior Relationship Manager & Business Developer – Corporate Clients",

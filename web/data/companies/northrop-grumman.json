@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 24,
+  "totalPostings": 27,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 27
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 23
     },
     {
       "id": "ai",
@@ -35,10 +35,31 @@
     0,
     0,
     23,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "810ccbb3065d3512b9c4e62d7adaac3f95968340",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1d8",
+      "location": "Linthicum, MD",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "7fe8b4480735e9c457d212bd2f0961d0ea454ea3",
+      "title": "Engineering Intern, Software, Mission Assurance, Quality",
+      "url": "https://go.vansh.nyc/19N",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "5be288415df2388e57c8ced1cde121fd622e4c22",
+      "title": "Engineering Software and Analysis Intern",
+      "url": "https://go.vansh.nyc/19x",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "da1d64a4c6123d677bf544429f88e64d5623c586",
       "title": "Associate Software Engineer",
@@ -86,27 +107,6 @@
       "title": "New Grad 2027: Associate Software Engineer",
       "url": "https://go.vansh.nyc/Wo",
       "location": "Boulder, CO",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "983932899e2069389a55628d93fc08f37046a5bc",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://go.vansh.nyc/Wn",
-      "location": "Azusa, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "ef19e587689f3f1315ef082c5b7cc367f8a08296",
-      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
-      "url": "https://go.vansh.nyc/Vw",
-      "location": "Colorado Springs, CO",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "e737b768cf7223a07fe7b5bd74049ac391ff1dff",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/Wl",
-      "location": "Azusa, CA",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]

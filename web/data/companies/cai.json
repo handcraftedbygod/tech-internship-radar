@@ -1,0 +1,52 @@
+{
+  "slug": "cai",
+  "name": "CAI",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c425d5a986def55d0a832bab31f837d52b4f6035",
+      "title": "GIS Software Developer Intern",
+      "url": "https://go.vansh.nyc/1ce",
+      "location": "United States",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "49cea5cab65f9719410e574ea559e8ebbb483749",
+      "title": "Cybersecurity Analyst Intern",
+      "url": "https://go.vansh.nyc/1cd",
+      "location": "United States",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

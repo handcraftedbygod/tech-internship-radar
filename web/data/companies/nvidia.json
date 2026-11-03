@@ -2,18 +2,18 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 34,
+  "currentOpenings": 32,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 45,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 47,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 35
+      "count": 36
     },
     {
       "hub": "Austin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Munich",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 31
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "design",
@@ -66,10 +66,24 @@
     2,
     0,
     38,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43207fcc654f4abfe7acc5c3c0301f835b926381",
+      "title": "AI Compiler and Kernel Intern",
+      "url": "https://go.vansh.nyc/1bR",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "6b678ea37a2770c4e0bf9c957525e917d98e5d18",
+      "title": "Math Libraries Intern, cuEST",
+      "url": "https://go.vansh.nyc/1bE",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "7f8e673a81245c99ad954e138619fb520b3dc66b",
       "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
@@ -124,20 +138,6 @@
       "title": "Software Engineer, Hardware Tools and Methodology (Master's)",
       "url": "https://go.vansh.nyc/11G",
       "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "82548c510452b84daacec4b43ff006d5ce48a218",
-      "title": "RTL Power Optimization Engineer (Master's)",
-      "url": "https://go.vansh.nyc/11E",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "a075b76f773da996229c9ad2676cc25d26a8a9ee",
-      "title": "ASIC Design Verification Engineer (Master's)",
-      "url": "https://go.vansh.nyc/11C",
-      "location": "Austin, TX",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]

@@ -2,31 +2,35 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 17,
+  "totalPostings": 20,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 19
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 16
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "design",
       "label": "Design",
       "count": 2
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -40,10 +44,31 @@
     0,
     0,
     15,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53bd8ed6ab0ea0946c899c1287083750a4286cd5",
+      "title": "PLM BI & Analytics Intern",
+      "url": "https://go.vansh.nyc/1dm",
+      "location": "Ann Arbor, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "2871032d6cd9fe4119de166ac476a08710421d1c",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1b9",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "4625fa26118b83275d6d429a80f34c504161dc0f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19L",
+      "location": "Totowa, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "77f99546bfa216e94451dbcc761a9e49c4075ee3",
       "title": "Software Engineering Intern, C++ and Unix",
@@ -92,27 +117,6 @@
       "url": "https://go.vansh.nyc/h2",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "19751dd53e7c5a67565f9043d94425fa281cb9d2",
-      "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
-      "url": "https://go.vansh.nyc/gN",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "33dcc628f0426462cd71321cb65ac11181f35d1f",
-      "title": "Software Engineer Intern, C++, Linux",
-      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "b59923851c6e3ca7bb94208a0397d426df8cf045",
-      "title": "Software Engineering Intern",
-      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

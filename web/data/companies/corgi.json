@@ -1,0 +1,45 @@
+{
+  "slug": "corgi",
+  "name": "Corgi",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6c838098671131dd68c556fcc04db2f69c271045",
+      "title": "Full Stack Engineer, New Product Line",
+      "url": "https://go.vansh.nyc/19o",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

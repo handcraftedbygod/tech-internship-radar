@@ -1,0 +1,71 @@
+{
+  "slug": "cna-insurance",
+  "name": "CNA Insurance",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2401b99eb5e5d029bafd5b8bb96728f88bb09a01",
+      "title": "Cybersecurity Intern, Technology",
+      "url": "https://go.vansh.nyc/1cc",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "cadec810a3fb4eeffcbee70faca5d0e3684b6f3b",
+      "title": "Data Engineering Intern, Technology",
+      "url": "https://go.vansh.nyc/1cb",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "9de8a42823b9b8145e1959f45f77573554e42f41",
+      "title": "AI Engineering Intern, Technology",
+      "url": "https://go.vansh.nyc/1ca",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "5b2bad7e33ef6bd4523cccbd35a07638992ab9db",
+      "title": "Software Engineering Intern, Technology",
+      "url": "https://go.vansh.nyc/1c9",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

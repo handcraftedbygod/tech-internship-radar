@@ -2,21 +2,21 @@
   "slug": "onefamily",
   "name": "OneFamily",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bc996436027d2835fb61beeb438f619ea1ca7eb",
+      "title": "Junior Data Engineer — 12-Month Azure Data Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__598078113__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "af9de49b3109d8791de0bf1393a1dd21222a1eb3",
       "title": "Junior Data Engineer (1 Year FTC)",

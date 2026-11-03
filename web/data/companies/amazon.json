@@ -2,10 +2,10 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 27,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 46,
-  "avgPostingDurationDays": 7.9,
+  "totalPostings": 49,
+  "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,11 +13,11 @@
     },
     {
       "hub": "Seattle",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Vancouver",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 31
     },
     {
       "id": "hw",
@@ -61,10 +61,31 @@
     0,
     1,
     41,
-    4,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9de356516ab25f90edc6b2207efa9650cef4b2f3",
+      "title": "Data Center Infrastructure Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10532883/data-center-infrastructure-engineer-internship-2027?utm_source=freehire.me",
+      "location": "London, England, GBR",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "843d7c478d7fa50e68abe262126356b3a28d6f3f",
+      "title": "Software Development Engineer, AWS Data Services",
+      "url": "https://go.vansh.nyc/19E",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "aa603ae31b3c4b21f63d8950393e0718cbcc9468",
+      "title": "Software Development Engineer, Robotics",
+      "url": "https://go.vansh.nyc/19D",
+      "location": "Austin, TX, Bellevue, WA, North Reading, MA, Westborough, MA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "0bb4a23c62e6bab94d26da24a1abaa18ebcddda4",
       "title": "Software Development Engineer, Amazon Leo",
@@ -113,27 +134,6 @@
       "url": "https://go.vansh.nyc/10y",
       "location": "Seattle, WA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "0323f171767872b9e10238c0a73f456a47861a47",
-      "title": "Database Engineer Intern",
-      "url": "https://go.vansh.nyc/WF",
-      "location": "Seattle, WA, East Palo Alto, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "7973f9ab21ca4925edf31918b854f88c0964d4c9",
-      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk?utm_source=freehire.me",
-      "location": "London, England, GBR",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "1f933bd16922a8c4bd46b2ac3a4ae6459b1432b1",
-      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
-      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk?utm_source=freehire.me",
-      "location": "London, England, GBR",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]
 }

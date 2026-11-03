@@ -1,0 +1,57 @@
+{
+  "slug": "njm-insurance",
+  "name": "NJM Insurance Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "38bc5112af34955ca2fbdf858aab4aeb186c0a59",
+      "title": "IT Data Science Intern",
+      "url": "https://go.vansh.nyc/1da",
+      "location": "Trenton, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "03e76af77e0f0caeed0614c40aaeeb96cf03fc6c",
+      "title": "IT QA Automation Intern",
+      "url": "https://go.vansh.nyc/1d9",
+      "location": "Trenton, NJ",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 19,
+  "totalPostings": 27,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 22
     },
     {
       "hub": "San Francisco",
@@ -22,24 +22,24 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 8
+    },
+    {
       "id": "design",
       "label": "Design",
       "count": 7
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 7
+      "id": "swe",
+      "label": "Software",
+      "count": 6
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -53,10 +53,66 @@
     1,
     0,
     18,
-    0,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4141bc1752bd351c480862edf968e4cd6660e39",
+      "title": "Engineer, Edge Systems Architecture",
+      "url": "https://go.vansh.nyc/1dv",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e90909d1997bc82947541c9056fa555710deebcb",
+      "title": "New Grad: Engineer, Edge Systems Architecture",
+      "url": "https://go.vansh.nyc/1ds",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "d4a64fd6bcb992963ffb41709ddd7858550e7da7",
+      "title": "SSD Firmware Intern, CICD",
+      "url": "https://go.vansh.nyc/1d7",
+      "location": "Longmont, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "c2034e296f8883d8a9d3b9ca3eef42c24d291cc9",
+      "title": "IT Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1d6",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "aad1bd464a7daf60041e7d65011239b3a5d434f7",
+      "title": "AI Engineering Intern, SMAI TD",
+      "url": "https://go.vansh.nyc/1d5",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "1bcfb832008294c9925106a9a6eac1fdd75d6c8c",
+      "title": "Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1d4",
+      "location": "Longmont, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "a604befff60e4d0e62054ecf096dde239ea3c7d6",
+      "title": "Data Center SSD Firmware Intern",
+      "url": "https://go.vansh.nyc/1d3",
+      "location": "Longmont, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "6be38d93f67b32d3a2a9fcdfc753b49abe15410c",
+      "title": "System Engineer Intern, HBM",
+      "url": "https://go.vansh.nyc/1bI",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "830874876b5d2e83d7c7e6243606a90fcfafbbed",
       "title": "ASIC Digital Design Intern",
@@ -70,62 +126,6 @@
       "url": "https://go.vansh.nyc/XX",
       "location": "Boise, ID",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "c160f0035c23f8257a6610a8a5f3ff83594b77db",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://go.vansh.nyc/XW",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "7355adf129bc7b829938fd9c2e626838a009ad88",
-      "title": "Data Science Intern",
-      "url": "https://go.vansh.nyc/XF",
-      "location": "San Jose, CA, Folsom, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "1c81bfa80763975e8b593a87c8dfe16e4b7396d2",
-      "title": "HBM Data Scientist Intern",
-      "url": "https://go.vansh.nyc/VY",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "73c7947889b2c30b881e2058dc2ede04275b6e9e",
-      "title": "AI Engineer Intern, Platform",
-      "url": "https://go.vansh.nyc/VX",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "744471cc7ad97144a09f6107a55a5a50d71041da",
-      "title": "Product Yield Software Engineer Intern",
-      "url": "https://go.vansh.nyc/VP",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "bb589f5de51e0ac1eb84b98d511ef36732c9f849",
-      "title": "Design Engineer Intern, Pathfinding",
-      "url": "https://go.vansh.nyc/d7",
-      "location": "San Jose, CA, Folsom, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "2170fa8e4e87ec99d7c345f3d385853b64f05fb6",
-      "title": "Machine Learning Engineering Intern",
-      "url": "https://go.vansh.nyc/d6",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "99f116083a5811059acf9e3c835a3e1889d267cb",
-      "title": "SMAI Probe AI Engineer Intern",
-      "url": "https://go.vansh.nyc/cE",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

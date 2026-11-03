@@ -2,21 +2,21 @@
   "slug": "sierra-nevada",
   "name": "Sierra Nevada Corporation",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "hw",
@@ -35,10 +35,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b2d28036441b85a574d15ac026533788d0c2f81",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19v",
+      "location": "Southern Pines, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "008e4697751388da33f681b3e2683312b20d97ac",
+      "title": "DevOps Engineer Intern",
+      "url": "https://go.vansh.nyc/19u",
+      "location": "Southern Pines, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "f6b9be1c2238c652ba016a39e04ac3a62f014174",
       "title": "Firmware Engineering Intern",

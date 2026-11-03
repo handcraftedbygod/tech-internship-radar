@@ -2,26 +2,26 @@
   "slug": "jm-family-enterprises",
   "name": "JM Family Enterprises",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,31 @@
     0,
     0,
     2,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6e054825b73fc3adb06c60879c9785722b33478",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bt",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "0d7bb2c62272dfaba344fa1fc76c36cf4ccaea2a",
+      "title": "Offensive Security Intern",
+      "url": "https://go.vansh.nyc/19y",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "68fd6a9b119bb1766be8861976796305bc9a466a",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/19j",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "98f2af7a470fc81804be25b46805ac19ff1f6f27",
       "title": "Software Engineer Intern",

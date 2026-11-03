@@ -2,20 +2,25 @@
   "slug": "inmar-intelligence",
   "name": "Inmar Intelligence",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b431765090606fb8b475a0b329033a765e7c877f",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1d2",
+      "location": "Winston Salem, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "4d937528a4eabef2e017a5dd5fc1b6994f06b512",
+      "title": "Data, Analytics & AI Intern",
+      "url": "https://go.vansh.nyc/1d1",
+      "location": "Winston Salem, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "93f3f0fcc523a9e6a4620669ec4962420bc2d2b7",
       "title": "Data Science Intern",

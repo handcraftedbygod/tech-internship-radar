@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 44,
+  "totalPostings": 46,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 35
+      "count": 37
     },
     {
       "hub": "Stuttgart",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 18
+      "count": 19
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,24 @@
     19,
     10,
     14,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da3e362c6d6b4a2b4d803c291b40f1b41aacfae8",
+      "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
+      "url": "https://jobs.mercedes-benz.com/werkstudent-in-software-engineering-analyse--ki-tools-244887-MER0004A23?utm_source=freehire.me",
+      "location": "Sindelfingen, Germany",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "bf78ad0603a8e98ca12543bddaf1b1d6420453fe",
+      "title": "Praktikant*in Legal, Artificial Intelligence & Product Compliance",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1649576-1-S",
+      "location": "Böblingen",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "ee7bb9c1a6c9612fb4bf30b2995539fa1b13762f",
       "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
@@ -110,20 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643198-1-S",
       "location": "Leinfelden-Echterdingen",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "478c3aefe793560b899c263f6df32a751b281bdd",
-      "title": "Praktikant*in Investitionscontrolling Mercedes-Benz Cars – Data Engineering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1640027-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "6c36a9653254d9702681e9859071dbd240066094",
-      "title": "Praktikant*in Software Entwicklung Fahrerassistenzsysteme",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1640443-1-S",
-      "location": "Immendingen",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 8.4,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "hw",
@@ -40,10 +40,17 @@
     0,
     0,
     11,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed86d73b4b89ab4e0d0f8363f56820c3685eee3c",
+      "title": "Software Engineering Undergrad Intern",
+      "url": "https://go.vansh.nyc/19W",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "bda5ccccdaf3959da196da209c35edd234724c0a",
       "title": "Defensive Cyber Operations Intern",
@@ -105,13 +112,6 @@
       "title": "Digital Communication Intern",
       "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948",
       "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "0d026f06626d3d02920485105af477483ec266f5",
-      "title": "Hardware Security Engineering Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
-      "location": "El Segundo, CA, Chantilly, VA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]

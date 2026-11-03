@@ -2,21 +2,21 @@
   "slug": "oshkosh",
   "name": "Oshkosh",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d479028ef755cc53fa2070b80a7b872dbfdc76d",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1db",
+      "location": "Greenville, WI, Oshkosh, WI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "164c42e00377b10769c3d2b9d3fea6655ad99bbb",
       "title": "Software Engineer",

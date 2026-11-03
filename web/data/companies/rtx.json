@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 31,
+  "totalPostings": 42,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 41
     },
     {
       "hub": "San Francisco",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 36
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -49,79 +49,79 @@
     1,
     0,
     30,
-    0,
+    11,
     0
   ],
   "recentPostings": [
     {
-      "id": "804b2d56733a4e84f48fd97adc37430d45d73a5b",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/ZE",
-      "location": "Sterling, VA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "af40c6b1e661e66258b74e20f6fb0ca4975af6ec",
-      "title": "Sustainment Data and Analytics Intern",
-      "url": "https://go.vansh.nyc/Zm",
-      "location": "East Hartford, CT",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "9478fdcdcc7a6ff32c2fc5e30d42e72dd4fe9562",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/Xu",
-      "location": "Marlborough, MA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "a5d3a7c0a60e89d0ffc723559815e79b40f45aa5",
-      "title": "Embedded Software Engineer I",
-      "url": "https://go.vansh.nyc/VA",
-      "location": "Mckinney, TX",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "da2e1b397230f7202ab48b140d57844603950bb8",
-      "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
-      "url": "https://go.vansh.nyc/WQ",
-      "location": "Marlborough, MA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "66f52da4c57f235a93461422f0b6052bc6465d53",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/Ww",
+      "id": "e52313c1909f7f02cda966ad5fcb50cae64ed131",
+      "title": "New Grad: Electrical Engineer 1",
+      "url": "https://go.vansh.nyc/1bq",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     },
     {
-      "id": "a52591838db139fa74b2210d5467130690d6701b",
-      "title": "Embedded Software Engineer Intern",
-      "url": "https://go.vansh.nyc/VI",
-      "location": "Goleta, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+      "id": "353cf9833e7c84eec6d25e8ca3eaacb7b44360f3",
+      "title": "Secure System Engineering Intern",
+      "url": "https://go.vansh.nyc/1du",
+      "location": "Windsor Locks, CT",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     },
     {
-      "id": "d220452aa3c2cc5e5fb915a1723e1728722cbb81",
-      "title": "Secure Software Intern",
-      "url": "https://go.vansh.nyc/VG",
-      "location": "Woburn, MA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
+      "id": "5dd003018588238fdfcc8cbee00ca1fa6a946be0",
+      "title": "Systems Engineer Co-op",
+      "url": "https://go.vansh.nyc/1cU",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     },
     {
-      "id": "4a3c6026fe43be6d94a31abeb2a31710225d90df",
+      "id": "b37579c491270566c555bb37fe7cd489e6856548",
+      "title": "Systems Engineer Intern, Mission Sensor Manager",
+      "url": "https://go.vansh.nyc/1cT",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "4c1496b9fbbc45b4b2cad5d927698aba90bb2866",
       "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/T2",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+      "url": "https://go.vansh.nyc/1cS",
+      "location": "East Hartford, CT",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     },
     {
-      "id": "02fb058ab7fff2e8256c63497ded61e8ee94041d",
-      "title": "Software Platform Engineer Co-op",
-      "url": "https://go.vansh.nyc/CR",
-      "location": "Aurora, CO, Remote, United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
+      "id": "dc4cab6e0ffa7fdbea1965e868cedca23b3c1156",
+      "title": "Cyber Research Intern",
+      "url": "https://go.vansh.nyc/1cR",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "f7015ad98e61497d55bbb7110dfa62f1303c2cbc",
+      "title": "Software Engineering Co-op, AGS",
+      "url": "https://go.vansh.nyc/1cQ",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "5a93ccacc5f4b227ae1991cadb1f077c48945147",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1cP",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "a4f5db4a57321bfaca1e9891d0beef6c257d803d",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1cO",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "9136daab038c2dc6d8bbe91a91ebb05fc1585d91",
+      "title": "Systems Security Engineer Intern, Raytheon",
+      "url": "https://go.vansh.nyc/19I",
+      "location": "Woburn, MA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

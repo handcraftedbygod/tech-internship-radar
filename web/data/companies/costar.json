@@ -2,14 +2,14 @@
   "slug": "costar",
   "name": "CoStar Group",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1a8415674193a909244d611bfaf56172041e2388",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/19c",
+      "location": "Richmond, VA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "0bae09b03c52408dbb9f79e0f4c88c5f1e3eafc2",
       "title": "New Grad 2027: Associate Software Engineer",

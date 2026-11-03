@@ -1,0 +1,57 @@
+{
+  "slug": "axos-bank",
+  "name": "Axos Bank",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8bb5430b2ac04be833fc164ef115c4a29857e6bb",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1bU",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "51d94cf24cba332597a320cd2cce0670c0387aac",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1bT",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 8.6,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "biz",
@@ -40,10 +40,24 @@
     0,
     0,
     9,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a90b64f731c28b0ea022738e9b93c5f81f28dda",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1dr",
+      "location": "Denton, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e5ae07a09fd74f3254fb4988cafba02265f58e06",
+      "title": "AI-Driven Vehicle Definition Intern",
+      "url": "https://go.vansh.nyc/1bj",
+      "location": "Denton, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "1cbe968e3b5fd15d6cd26667989826bf43e127b6",
       "title": "Data Engineer Intern",
@@ -99,13 +113,6 @@
       "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
       "location": "Kirkland, WA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "f6c7d667c6c8dd6f3d4fe0ac37955bbae884f0ec",
-      "title": "Warranty Data Analyst Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/?ats=successfactors",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

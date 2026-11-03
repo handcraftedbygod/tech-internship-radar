@@ -2,14 +2,14 @@
   "slug": "idme",
   "name": "ID.me",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc894171bc3024c45e0201ed889453b3081ec3ec",
+      "title": "Product Security Engineering Intern",
+      "url": "https://go.vansh.nyc/1bM",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "53f6c5ef7a1e29b85e2b0e20c18c5c088e499fbb",
       "title": "New Grad 2027: General Program",

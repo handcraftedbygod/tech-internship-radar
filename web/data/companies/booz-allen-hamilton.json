@@ -2,21 +2,26 @@
   "slug": "booz-allen-hamilton",
   "name": "Booz Allen Hamilton",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 10,
+  "totalPostings": 13,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "design",
@@ -35,10 +40,31 @@
     0,
     0,
     10,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd0174e31790c337f3bc96e71a4a22b28d401ef5",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1bW",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "d856daf5aee1934a6152a64cd830ec18c40d012a",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/1bV",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "a86ede150f32e834376013c6f022263637b97b18",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/19s",
+      "location": "Detroit, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "852aef2af2b7645db2286495478f13bf7e0014a9",
       "title": "Design and Verification Engineer Intern",
@@ -87,27 +113,6 @@
       "url": "https://go.vansh.nyc/Qs",
       "location": "Lexington, MA",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "fb8699de04243eceb39c172d28cfef91ec374907",
-      "title": "Software Engineer Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802",
-      "location": "Fayetteville, NC",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "bca4d1bf2f978061d6f66667c1b2ebd5ccaef84b",
-      "title": "Digital Transformation Analyst Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721",
-      "location": "Arlington, VA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "a5bd00054ddd51ee6cae80fa829d96cb31f9af4c",
-      "title": "Digital Transformation Analyst Intern",
-      "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716",
-      "location": "Arlington, VA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "slug": "gordon-food-service",
+  "name": "Gordon Food Service",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0e64df783d62e993786be09f2d908bb6a554f100",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1cw",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "1c8e91a9ca840bd75d9ba69756237eaea2563ed3",
+      "title": "Cloud DevOps Intern",
+      "url": "https://go.vansh.nyc/1cv",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "1b5359366fceefaaa13b27b75cedface37388d06",
+      "title": "Data Science Engineer Intern",
+      "url": "https://go.vansh.nyc/1cu",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

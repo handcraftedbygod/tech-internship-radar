@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Katowice",
@@ -20,12 +20,17 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,24 @@
     1,
     0,
     5,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83540c63b7e1434a3d4def167da05859d581f87f",
+      "title": "Robotics Research Co-op, Data Engineering",
+      "url": "https://go.vansh.nyc/1dj",
+      "location": "Waterloo, Canada",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "2bd0db4e75416d336ebd59042b7ba60e5deba72f",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1di",
+      "location": "Milwaukee, WI, Mayfield Heights, OH",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "a45160ca5dfb9e36fef5ce58accd130da74d4c69",
       "title": "New Grad 2027: EDGE, Information Technology Rotational Program",

@@ -1,22 +1,22 @@
 {
   "slug": "plexus",
-  "name": "plexus",
+  "name": "Plexus",
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c97ddebd7b74542df1405d870eb12d34d1812be",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19m",
+      "location": "Neenah, WI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "6d793faccb5f812bd80ac590fbd2b766dd31b6a7",
       "title": "Intern - Embedded Software Engineering",

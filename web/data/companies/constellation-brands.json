@@ -2,14 +2,14 @@
   "slug": "constellation-brands",
   "name": "Constellation Brands",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bc654b3608c7f2c6d15711e46bce2c9537eb0d72",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://go.vansh.nyc/1bs",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "9d340999ee9c299b33962e2d5242eb5e3a6da9cb",
       "title": "AI Enablement Intern",

@@ -2,14 +2,14 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "755234aa4e8908ca016e0bdd9f6f9aa291d54f78",
+      "title": "Embedded Firmware Intern",
+      "url": "https://go.vansh.nyc/1bm",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "a1f771e332f25466efb558cdb9eeb0b771bf0904",
       "title": "New Grad: Engineer I, Software Test and Automation",

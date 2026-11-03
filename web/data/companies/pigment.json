@@ -2,14 +2,14 @@
   "slug": "pigment",
   "name": "Pigment",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d2522b5d639a69520ebb299daf664da4ac3a6529",
+      "title": "Data Scientist Internship",
+      "url": "https://www.adzuna.fr/details/5949521569?utm_medium=api&utm_source=9141e2e6",
+      "location": "Paris, Ile-de-France",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "b4475ecc9bbcd9acd5dadc68baada4633a5de389",
       "title": "Data Scientist Internship",

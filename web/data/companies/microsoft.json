@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 12,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 14
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 12
     },
     {
       "id": "product",
@@ -39,10 +39,31 @@
     1,
     0,
     10,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ae9fb0179550f8112ce82cc9a61f7538dccfc93",
+      "title": "Software Engineering IC2",
+      "url": "https://go.vansh.nyc/19Q",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "ecaadbc39966dfae385eebc83594c49fe1c1d7cc",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19z",
+      "location": "Aliso Viejo, CA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "8c26f2dacca3fa47b9a110098da6fce0f14f6293",
+      "title": "Software Engineer Intern, CoreAI",
+      "url": "https://go.vansh.nyc/19t",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "fc38a6c5c45b30defc254904e67f9c917dbfcafb",
       "title": "First-Year Explore Program Engineering Intern",
@@ -91,27 +112,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
       "location": "Cambridge, MA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "1e774f9c9955e479f2e06962ae9a173995a905d6",
-      "title": "Software Engineer Intern, Security & Identity",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-      "location": "United States",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "50c8e39495b9268cafbbdb8f5c8caf0ec6e52e65",
-      "title": "Security Research Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "cf8bbb76c2ec04c48c70e320c36682c6e416a8c0",
-      "title": "Software Engineer Intern, Security & Identity",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-      "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

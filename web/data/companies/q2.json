@@ -1,0 +1,89 @@
+{
+  "slug": "q2",
+  "name": "Q2",
+  "tier": null,
+  "currentOpenings": 6,
+  "firstTrackedAt": "2026-11-03T11:39:05.497Z",
+  "totalPostings": 6,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Austin",
+      "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "932214914f5c4295f7c184f1b70f1ca48e5f5e6b",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1dh",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "2efc5718eb6c8aaec5592ca0d6c865c5ed91a608",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1dg",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "b02abcbc02589e15d9280f0b6c3907705f60309b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1df",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "5dd480709ccb70bd62458b00eb32003db8c408dd",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1de",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "edc2ad924e42808f686d90c44aa40a9d06cb0f76",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1dd",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "da2f7723f8eed3938cc8e8a76062dcd1f8d57ae1",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1dc",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    }
+  ]
+}

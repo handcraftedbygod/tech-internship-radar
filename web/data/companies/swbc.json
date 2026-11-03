@@ -2,21 +2,21 @@
   "slug": "swbc",
   "name": "SWBC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,31 @@
     0,
     0,
     1,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c8a317c83e383afb950849aca15d8f8b65f56577",
+      "title": "Application Security Intern",
+      "url": "https://go.vansh.nyc/1cK",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "2a603da59538775422d387327fdda5d0d7478604",
+      "title": "DevOps Intern",
+      "url": "https://go.vansh.nyc/1cJ",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "89743ca3383b30d377468cbebadaa959e99aacc6",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cI",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "4fe9bbf2c451a71068159ff570930cf0d21bddfe",
       "title": "Integration Analyst Intern",

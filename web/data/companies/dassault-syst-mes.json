@@ -2,14 +2,18 @@
   "slug": "dassault-syst-mes",
   "name": "Dassault Systèmes",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Krakow",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     1,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8592d1a4c0f44289c56226ef9c3304d9e996b9d",
+      "title": "Data Scientist Junior – IA Générative & Ingénierie 3D (F/H)",
+      "url": "https://www.3ds.com/careers/jobs/data-scientist-junior-ia-generative-ingenierie-3d-f-h-548770?utm_source=freehire.me",
+      "location": "Vélizy-Villacoublay, France",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "b3e96d75d2ac6d44e52a3b4501b0a44d2f822118",
       "title": "Software Developer Intern",

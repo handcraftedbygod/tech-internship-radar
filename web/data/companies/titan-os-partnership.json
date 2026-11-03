@@ -2,14 +2,14 @@
   "slug": "titan-os-partnership",
   "name": "Titan OS Partnership",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 7,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Other",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     0,
     0,
     7,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b03229d3b62576ec8318187f014a466f44017a6",
+      "title": "Frontend Developer Intern: Craft UI for Smart TV Apps",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366806124__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "c83160197db708a4eddc71878d02c54f0c6d8e0c",
+      "title": "Frontend Developer for Smart TV Apps (Internship)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366814677__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "08e77c9fff7a896ebfa25ac6564570a1534dd428",
+      "title": "Backend Developer Intern: Build Scalable TV APIs",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366695291__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "7907dd9d5a87b425a7d53bb2779f7a6b48319083",
       "title": "Frontend Developer Intern: Craft UI for Smart TV Apps",

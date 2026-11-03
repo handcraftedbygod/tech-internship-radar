@@ -2,20 +2,30 @@
   "slug": "auto-owners-insurance",
   "name": "Auto-Owners Insurance",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 7,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -30,10 +40,45 @@
     0,
     0,
     2,
-    0,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "af49d97f5af1ed8b38eeb63c6b5053bf8ebce979",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1cM",
+      "location": "Lansing, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "0d6ef880499a69369ce60031ca93216a27459586",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1cL",
+      "location": "Lansing, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "de24bc3e34f6fb7a78620169b5d01c34bdadcdca",
+      "title": "IT Security Engineer Intern",
+      "url": "https://go.vansh.nyc/1c6",
+      "location": "Lansing, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "e458ab1669b869e7974da817f715d5ef75a1fc4d",
+      "title": "Intelligent Automation Developer Intern",
+      "url": "https://go.vansh.nyc/1c5",
+      "location": "Lansing, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
+    {
+      "id": "24952b121e640260df8d97fe5adb287e09b81a20",
+      "title": "Analytics Web Systems Developer Intern",
+      "url": "https://go.vansh.nyc/1c4",
+      "location": "Lansing, MI",
+      "firstSeenAt": "2026-11-03T11:39:05.497Z"
+    },
     {
       "id": "97fb345aeec74cf141c21ede142b067eb18a7e27",
       "title": "Business Intelligence Developer Intern",
