@@ -2,14 +2,14 @@
   "slug": "manulife-financial",
   "name": "Manulife Financial",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Boston",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8091e0cf489878e34930fa62d553584a1b6e8016",
+      "title": "AI Co-op",
+      "url": "https://go.vansh.nyc/1dA",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "24f86166bfbe9b52f208204c9c4ecd78864106af",
       "title": "New Grad 2027: GRO Program, Data",

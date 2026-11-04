@@ -2,21 +2,21 @@
   "slug": "friday-st",
   "name": "Friday Öst",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Stockholm",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff0b05c7ace3941bc26db8dd8a6fe945a9617d94",
+      "title": "Junior Data Engineer till innovativ teknikmiljö",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31679322?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "d51d99b967c5a22cc4eb54cc8f6245110160c9a1",
       "title": "Junior Data Engineer",

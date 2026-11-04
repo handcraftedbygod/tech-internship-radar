@@ -2,13 +2,17 @@
   "slug": "dentsu",
   "name": "Dentsu",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a415395bef30408433812e816d65b91489dfd73",
+      "title": "Junior Salesforce Developer",
+      "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Remote---Spain/Junior-Salesforce-Developer_R1136654?utm_source=freehire.me",
+      "location": "Remote - Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "388ffc3da0a571b3e0648e3bfd472135a3535f61",
       "title": "Junior Data Scientist",

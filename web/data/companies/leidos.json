@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 11.2,
+  "totalPostings": 25,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 25
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -40,10 +40,24 @@
     10,
     1,
     10,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "754978d523b07189ca04497198a29c463e1657d2",
+      "title": "Systems, Integration and Software Engineer Intern",
+      "url": "https://www.themuse.com/jobs/leidos/systems-integration-and-software-engineer-intern-b3f22f",
+      "location": "Atlantic City, NJ",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "12a1ec125453b3228db272aff8c98aa45f731e28",
+      "title": "Software Engineering Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-intern-c8ae15",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "1d27ffa575d8ef582ddd23d29b97f0c877d75aba",
       "title": "Data Science Intern",
@@ -99,20 +113,6 @@
       "url": "https://go.vansh.nyc/eQ",
       "location": "Huntsville, AL",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "e9852af41937fd654df7f61cf4e274a30a4db573",
-      "title": "Network Site Design Intern",
-      "url": "https://go.vansh.nyc/ea",
-      "location": "Remote in USA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "3284249bdc62aa71de53e12545d85d4c4c12604d",
-      "title": "AI/ML Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
-      "location": "Huntsville, AL",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

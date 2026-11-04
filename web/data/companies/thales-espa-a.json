@@ -2,21 +2,21 @@
   "slug": "thales-espa-a",
   "name": "Thales España",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "775713b32546533b0efe3d08d11ef4c5be366bfa",
+      "title": "Junior DevOps Engineer – Azure Pipelines & Agile",
+      "url": "https://es.whatjobs.com/pub_api__cpl__367003989__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "79a686e3c0dcc436687960fdc9c48b8604a18419",
       "title": "Junior DevOps Engineer – Azure Pipelines & Agile",

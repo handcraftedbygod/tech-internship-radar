@@ -1,0 +1,56 @@
+{
+  "slug": "global-relay",
+  "name": "Global Relay",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Vancouver",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7ac7d3f143ac2a02c29762078efdf634bf2e90d6",
+      "title": "Java Developer Co-op",
+      "url": "https://go.vansh.nyc/1fE",
+      "location": "Halifax, Canada",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "a41c8d661dec40d82092faeebd1779e5c51c0379",
+      "title": "Java Developer Co-op",
+      "url": "https://go.vansh.nyc/1ej",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

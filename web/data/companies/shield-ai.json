@@ -2,21 +2,21 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "727939b86e3580dd5d4e3ebac4e7378c4ebb99b1",
+      "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+      "url": "https://go.vansh.nyc/1g6",
+      "location": "San Diego, CA, Washington, DC",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "755234aa4e8908ca016e0bdd9f6f9aa291d54f78",
       "title": "Embedded Firmware Intern",

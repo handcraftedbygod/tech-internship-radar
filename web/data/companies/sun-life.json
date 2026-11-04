@@ -2,14 +2,14 @@
   "slug": "sun-life",
   "name": "Sun Life",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Toronto",
@@ -26,6 +26,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "728507b6efb6c98ea7cb6e70b772f94294c98d96",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1fl",
+      "location": "Milwaukee, WI, Wellesley Hills, MA, Hartford, CT, Portland, ME, Kansas City, MO",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "1f440e80e09d1fc37f415e49c1bc0477355aa0c8",
       "title": "Data Analyst Co-op",

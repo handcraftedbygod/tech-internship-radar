@@ -1,0 +1,64 @@
+{
+  "slug": "engramme",
+  "name": "Engramme",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "248a8ea2ce3a15505ddd6b1f56bd2f40c2bc7c6b",
+      "title": "Machine Learning Engineer Co-op",
+      "url": "https://go.vansh.nyc/1fz",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "06c60b5a2e9bb7efc4bedef89fe3395b60a0627c",
+      "title": "Full-Stack Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1fy",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "c44b1c4870ca56907775d9a6b4320ecb0572972d",
+      "title": "Back-End Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1fx",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

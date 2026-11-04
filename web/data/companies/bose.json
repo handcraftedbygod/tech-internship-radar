@@ -1,0 +1,57 @@
+{
+  "slug": "bose",
+  "name": "Bose",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3d243bd686971a4bb4a4970984ed1b06f3eccde2",
+      "title": "Software/DSP Research Engineer Co-op",
+      "url": "https://go.vansh.nyc/1es",
+      "location": "Framingham, MA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "68974258f422399d49e8a77944da75aa38ddd398",
+      "title": "Electrical Engineering Co-op, FPGA and Audio Research Platforms",
+      "url": "https://go.vansh.nyc/1dW",
+      "location": "Framingham, MA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

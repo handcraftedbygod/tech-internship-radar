@@ -2,14 +2,14 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Katowice",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     12,
     10,
     9,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9fb912c7a42e4e5cfc42a3fd97c36a5606a7c5b",
+      "title": "Associate Application Consultant",
+      "url": "https://go.vansh.nyc/1dG",
+      "location": "Mississauga, Canada",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f1aa2e138e7c3516f7ea6e33fdac0ca1023c110f",
       "title": "Werkstudent Software Engineering (w/m/d)",
@@ -120,13 +127,6 @@
       "id": "998f5ba25dd783dac3d0eae29bb0fb8476b30b9a",
       "title": "Junior DevOps Engineer",
       "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-DevOps-Engineer/1412693633/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "3e2fa9444195ca0590361d30cc0f2788ce1ecdc0",
-      "title": "Junior Cloud Platform Engineer",
-      "url": "https://careers.capgemini.com/job/Lisboa-Junior-Cloud-Platform-Engineer/1431013233/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }

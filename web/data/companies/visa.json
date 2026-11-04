@@ -2,14 +2,14 @@
   "slug": "visa",
   "name": "Visa",
   "tier": "notable",
-  "currentOpenings": 35,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 69,
+  "totalPostings": 72,
   "avgPostingDurationDays": 13.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 50
+      "count": 53
     },
     {
       "hub": "Austin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 53
+      "count": 56
     },
     {
       "id": "ai",
@@ -66,10 +66,31 @@
     0,
     32,
     37,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "adeb83948193cac0d08469135456ffffcd368382",
+      "title": "Software Engineer, Intern - 2027 Ashburn, VA",
+      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-2027-ashburn-va-0d4eca",
+      "location": "Ashburn, VA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "cdcc73df636bcf4c5000f995512000b40191948d",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+      "url": "https://www.themuse.com/jobs/visa/2027-sophomore-internship-program-software-engineer-intern-highlands-ranch-3686f0",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "5ce04298b42e68d82de6c5b2bd9fff16362304b4",
+      "title": "Software Engineer, Intern - Foster City 2027",
+      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-foster-city-2027-037543",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "98525ea3427bdef90472b0de107199e468435594",
       "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
@@ -116,27 +137,6 @@
       "id": "cd9db40e5626c82701330f08a0bb1aeac37e4d2b",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Xf",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "aa07b32e89032e8508695bf48b99e9196e7002c9",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/Xe",
-      "location": "Foster City, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "2998a0264a9b87e320ddce885ad608b2e31e5054",
-      "title": "Sophomore Program Software Engineer Intern",
-      "url": "https://go.vansh.nyc/VE",
-      "location": "Ashburn, VA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "98caf7b369a7618e507177844051a1108b886cad",
-      "title": "Sophomore Program Software Engineer Intern",
-      "url": "https://go.vansh.nyc/VC",
       "location": "Austin, TX",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

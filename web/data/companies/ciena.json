@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 8.2,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     0,
     0,
     11,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9dae05fd1307924525fb13688a9c8fac3d4b8f4",
+      "title": "Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1fg",
+      "location": "Quebec, Canada, Remote, Canada",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "3c80c635483181e6fa8f4263be2d9ef07f2f4a47",
       "title": "New Grad: Photonic Card Software Developer",
@@ -110,13 +117,6 @@
       "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
       "location": "Ottawa, Canada",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "b4f7ec443583f952cf51517f73a86875f32d8d6c",
-      "title": "Services Business Intelligence & Analytics Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851",
-      "location": "Montreal, QC, Canada, Ottawa, ON, Canada",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

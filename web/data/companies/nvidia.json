@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 32,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 47,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 49,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 36
+      "count": 37
     },
     {
       "hub": "Austin",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Toronto",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 31
+      "count": 33
     },
     {
       "id": "ai",
@@ -66,10 +66,24 @@
     2,
     0,
     38,
-    7,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1a0b8f894d8040b6ec5b6305c8f187f7fc01f1a",
+      "title": "Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "7c97617134a60207ae625d06779c545109c6c028",
+      "title": "GPU System and Scheduling Architect (Master's)",
+      "url": "https://go.vansh.nyc/1ea",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "43207fcc654f4abfe7acc5c3c0301f835b926381",
       "title": "AI Compiler and Kernel Intern",
@@ -123,20 +137,6 @@
       "id": "161448245e53ba35746efc6d937c2ab46b238798",
       "title": "Security Architect",
       "url": "https://go.vansh.nyc/11L",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "9845d4a9e143cbee62c258bfd09d6fdfa0f7c351",
-      "title": "Power Methodology and Modeling Engineer (Master's)",
-      "url": "https://go.vansh.nyc/11H",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "36fd94f293a722c032470ef37c5c1fc046b088f2",
-      "title": "Software Engineer, Hardware Tools and Methodology (Master's)",
-      "url": "https://go.vansh.nyc/11G",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }

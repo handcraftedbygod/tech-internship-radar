@@ -2,21 +2,21 @@
   "slug": "mirakllabs",
   "name": "mirakllabs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f733417275375925a8bd7fc4d7dd4f50a631b526",
+      "title": "Software Engineer Intern - Ads",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-intern-ads-paris-132493",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "0c18f4c1d50ffcf4908fcb7d9cde28b0bd3f24a8",
       "title": "Software Engineer Intern - Financial Services",

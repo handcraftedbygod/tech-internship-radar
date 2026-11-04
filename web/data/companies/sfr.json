@@ -1,0 +1,52 @@
+{
+  "slug": "sfr",
+  "name": "SFR",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "05481da93b66502b34cf2606ee4d1157e19a95e0",
+      "title": "Stagiaire (e) Data Analyst Service Client",
+      "url": "https://www.jobteaser.com/fr/job-offers/e229b610-8685-4e24-8557-2c1c1bed20bf-sfr-stagiaire-e-data-analyst-service-client?utm_source=freehire.me",
+      "location": "Paris, Ile-de-France",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "9051eeb008d70aef91745342abc1af2f1a5539f2",
+      "title": "Stagiaire ( e) Data Analyst",
+      "url": "https://www.jobteaser.com/fr/job-offers/dff11d2e-50af-4f28-9ab7-6a354e156b3e-sfr-stagiaire-e-data-analyst?utm_source=freehire.me",
+      "location": "Paris, Ile-de-France",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

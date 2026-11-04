@@ -2,14 +2,14 @@
   "slug": "constellation-brands",
   "name": "Constellation Brands",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "36fc52f06870721d0d2079a7e1a51c9d02a7df74",
+      "title": "Intern, Full Stack Engineer",
+      "url": "https://www.themuse.com/jobs/constellationbrands/intern-full-stack-engineer",
+      "location": "Rochester, MA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "bc654b3608c7f2c6d15711e46bce2c9537eb0d72",
       "title": "Full Stack Engineer Intern",

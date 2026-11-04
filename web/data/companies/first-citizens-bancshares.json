@@ -2,21 +2,21 @@
   "slug": "first-citizens-bancshares",
   "name": "First Citizens BancShares",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4cd6451888d166ac3b5892d8caa36c7e256e5ac5",
+      "title": "Applied AI Intern",
+      "url": "https://go.vansh.nyc/1fD",
+      "location": "Raleigh, NC",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "783b63fe24b4579d2605d363dd693a5a2a4a902d",
       "title": "Data Analyst Intern, Enterprise Data Products",

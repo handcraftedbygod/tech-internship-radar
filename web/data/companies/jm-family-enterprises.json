@@ -2,26 +2,26 @@
   "slug": "jm-family-enterprises",
   "name": "JM Family Enterprises",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 3
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     2,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fca6d63e7f0c6b876190acbc2745a23fc528a41d",
+      "title": "AI Center of Excellence Delivery Team Intern",
+      "url": "https://go.vansh.nyc/1fK",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "95ce4183bd7a4afb727c0e853d9b63fd1901d969",
+      "title": "AI & Decision Science Intern",
+      "url": "https://go.vansh.nyc/1dZ",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "a6e054825b73fc3adb06c60879c9785722b33478",
       "title": "Software Engineer Intern",

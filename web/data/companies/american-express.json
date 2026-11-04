@@ -2,14 +2,14 @@
   "slug": "american-express",
   "name": "American Express",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 23,
+  "totalPostings": 25,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     },
     {
       "hub": "New York",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "product",
@@ -52,10 +52,24 @@
     19,
     2,
     1,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67f4face94e5fc98ac85892173b5fc913ed5e0da",
+      "title": "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/1dS",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "ce62d20feed6a11e2a79838f69eb1e4c403a6df4",
+      "title": "Undergraduate Program Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/1dH",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "25ac6aef69583534e4f4a9c86f60a10b82b58b02",
       "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
@@ -110,20 +124,6 @@
       "title": "AI Engineer Intern, Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
       "location": "Phoenix, AZ",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "7ee7280a105d77e70723cf744a277585cfea358a",
-      "title": "AI Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
-      "location": "Sunrise, FL",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "eac109e98037322a1c49d1cdfb447aff0a0e0571",
-      "title": "AI Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
-      "location": "Atlanta, GA",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]

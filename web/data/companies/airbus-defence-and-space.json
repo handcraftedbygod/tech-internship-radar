@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 20,
+  "totalPostings": 22,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     },
     {
       "id": "ai",
@@ -48,10 +48,24 @@
     8,
     7,
     5,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f0985c7a6d87fdda8efd1c8eb5a035be61f21af9",
+      "title": "Working Student (d/f/m) - Software Development in the area of Mass Properties",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-981061354-S?utm_source=freehire.me",
+      "location": "Manching, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "1d8ec4eec406a2677d8641c3ecbeccc137520210",
+      "title": "Working Student (d/f/m) - Software Development in the area of Mass Properties",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-981061354-S",
+      "location": "Manching",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "a7bced4f1ef90e0420a1b4dc0587ba83e2b7f503",
       "title": "Werkstudent Software development (d/f/m) (Ingenieur/in - Luft- und Raumfahrttechnik)",
@@ -107,20 +121,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTcwMjcyODE4LVMgMQ?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "df4755dc6b83f1dd5bcd49863512fe7132411407",
-      "title": "Junior Backend Engineer (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTcwNDIwNjg4LVMgMQ?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "3a867815620a291b81115ded555bf772ee7b7357",
-      "title": "Working Student (d/f/m) Simulation Control UI Software Infrastructure",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970072176-S",
-      "location": "Manching",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

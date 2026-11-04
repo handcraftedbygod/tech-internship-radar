@@ -2,14 +2,14 @@
   "slug": "lexisnexis-risk-solutions",
   "name": "LexisNexis Risk Solutions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Karlsruhe",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     1,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "213ae83ac0c10aee0b19b161a539ccdc4913959a",
+      "title": "New Grad 2027: Tech Accelerate Program",
+      "url": "https://go.vansh.nyc/1eb",
+      "location": "Alpharetta, GA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "e634a7fb3ffded55ae0da7cf9f91ff23580253b9",
       "title": "Intern Data Engineering",

@@ -1,0 +1,45 @@
+{
+  "slug": "united-parcel-service-ups",
+  "name": "United Parcel Service (UPS)",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8ede6190a01b55eace876abb9cfdeab85426da14",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1g5",
+      "location": "United States",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

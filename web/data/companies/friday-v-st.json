@@ -2,14 +2,14 @@
   "slug": "friday-v-st",
   "name": "Friday Väst AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -40,10 +40,17 @@
     4,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23da0a37f91bed8bbf60d4b63371b038df84cd2f",
+      "title": "Junior Data Engineer till innovativ teknikmiljö",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3MjA2OSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "8e6a7c905162bf0c3737bd10030d38b355a1741a",
       "title": "Junior Embedded Developer",

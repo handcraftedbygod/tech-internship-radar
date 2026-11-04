@@ -2,25 +2,25 @@
   "slug": "decathlontechnology",
   "name": "Decathlontechnology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 3
+      "hub": "Paris",
+      "count": 4
     },
     {
-      "hub": "Paris",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "swe",
@@ -39,10 +39,24 @@
     0,
     4,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b9b2802547a7647916aaee1f87c63625f64ce67",
+      "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472?utm_source=freehire.me",
+      "location": "Paris, Paris",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "607782d2f598d0018e15e7d3f7827acf2d82fb9c",
+      "title": "Internship - Data Engineer Core Data Product (f/m/d)- Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/internship-data-engineer-core-data-product-paris-paris-paris-238472",
+      "location": "Paris, Paris",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "14c4529ebdab122c622a9a024d90efd5315c2a41",
       "title": "Data analyst Intern - Inventory Management - Value Chain (f/m/d)",

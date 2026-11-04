@@ -2,21 +2,21 @@
   "slug": "informa",
   "name": "Informa Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "457f065fe36fd5ce2c9bae8bf49748471f829c91",
+      "title": "Data Analyst Internship",
+      "url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159321820-data-analyst-internship?utm_source=freehire.me",
+      "location": "Amsterdam, NH, nl",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "5ca492b2ffbcda343063155c8d7e610318d8ac53",
       "title": "Data Analyst Internship",

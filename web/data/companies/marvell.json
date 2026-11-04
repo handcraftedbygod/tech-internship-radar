@@ -2,14 +2,14 @@
   "slug": "marvell",
   "name": "Marvell",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Toronto",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -44,10 +44,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea52b4bbfd3da870eae3c6a135b75cf7e31687f6",
+      "title": "Security Verification/Validation Engineer Intern",
+      "url": "https://go.vansh.nyc/1dy",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "35fc014498a82029383744a5bd99bdd4c5cdb766",
       "title": "Data Science Intern",

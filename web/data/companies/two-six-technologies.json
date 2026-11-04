@@ -2,14 +2,14 @@
   "slug": "two-six-technologies",
   "name": "Two Six Technologies",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e25876e75f5a08c94355d345f30141db5eef8911",
+      "title": "Security Operations Intern",
+      "url": "https://go.vansh.nyc/1dI",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "d20eb3f90b6eb4f08943e1472cb4f22a89dea0a1",
       "title": "Systems Software Engineer Intern",

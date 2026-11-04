@@ -2,21 +2,21 @@
   "slug": "sherwin-williams",
   "name": "Sherwin-Williams",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f0246905be0e6d6a7f51b70ed1e09c68a8899155",
+      "title": "R&D Data Visualization Intern",
+      "url": "https://go.vansh.nyc/1eh",
+      "location": "Brecksville, OH",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "712e479fbefb97a5efbe39ad42ed37b0012fb6a1",
       "title": "R&D Data Science Co-op",

@@ -2,9 +2,9 @@
   "slug": "electronic-arts",
   "name": "Electronic Arts",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Vancouver",
       "count": 1
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -43,10 +47,17 @@
     0,
     0,
     10,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3cc3eca09af8da20d4b0f7d3b68f0b45c5789b6f",
+      "title": "Anticheat Engineer Intern",
+      "url": "https://go.vansh.nyc/1fN",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "b86abd92d36eadb094cd639150e30eb99bbc9c4d",
       "title": "New Grad 2027: Software Engineer 1",
@@ -107,13 +118,6 @@
       "id": "8a962ea2578264a25ba23ee88e2cfb2598fdddcf",
       "title": "Masters Thesis Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Masters-Thesis-Intern-Frostbite/216115?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "be3423e5354b2c1173f4397182503847ff6bd624",
-      "title": "Masters Thesis Software Engineer Intern",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Masters-Thesis-Intern-Frostbite/216110?utm_source=freehire.me",
       "location": "Stockholm, Stockholm County, Sweden",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }

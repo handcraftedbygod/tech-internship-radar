@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 9
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "product",
@@ -44,10 +44,24 @@
     0,
     0,
     6,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "62418d56fa2b434fda1159340177a0abd4c3dacb",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1f5",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "72258bf80c4aa3775d70f7801910360a717d2453",
+      "title": "T-Ads Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1er",
+      "location": "Philadelphia, PA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "bbd6f0677ead2676aa03a9ffde72aa0ab65078ac",
       "title": "Software Engineering Intern",

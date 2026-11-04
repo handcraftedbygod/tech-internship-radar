@@ -2,14 +2,14 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc4e18688f91002b51b18466327f165c196ebbe1",
+      "title": "Software Engineer, Starlink Enterprise",
+      "url": "https://go.vansh.nyc/1dT",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "ba38616610c9caadcba94491771dd7387d75dc96",
       "title": "AI Software Engineer, Vehicle Engineering",

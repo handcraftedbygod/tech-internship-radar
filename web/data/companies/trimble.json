@@ -2,14 +2,14 @@
   "slug": "trimble",
   "name": "Trimble",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c87eac01d5c3a303fbbaec6035fb6c0425297598",
+      "title": "AI Developer Intern",
+      "url": "https://go.vansh.nyc/1dM",
+      "location": "Westminster, CO, Dayton, OH",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "b202ff0e45b8d5145a2931aef5f75de20d064424",
       "title": "Automated Test Engineering Intern",

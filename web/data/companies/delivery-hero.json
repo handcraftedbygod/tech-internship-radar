@@ -2,14 +2,22 @@
   "slug": "delivery-hero",
   "name": "Delivery Hero",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 5,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
+    },
+    {
+      "hub": "Berlin",
+      "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 2
     },
     {
       "hub": "Lisbon",
@@ -20,7 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     },
     {
       "id": "biz",
@@ -39,10 +52,45 @@
     0,
     3,
     2,
-    0,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d6ece9d2cc3567e437a211789d3cb8588ddb3fe0",
+      "title": "Intern, Data Engineer - People & Culture",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159550349-intern-data-engineer-people-culture?utm_source=freehire.me",
+      "location": "Berlin, de",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "f94706b1b301fb35b0b4b60406efc317aded4543",
+      "title": "Intern, Data Engineer - People & Culture",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20390-981210827-S?utm_source=freehire.me",
+      "location": "DEUTSCHLAND",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "3362309cc4564d4186b6a9d0f07febdd7b2d2586",
+      "title": "Intern, Data Engineer - People & Culture",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20390-981210827-S",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "5ea604e27c76703a020ec800edd62920a0d37e94",
+      "title": "Junior Financial Data Analyst",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159442150",
+      "location": "Barcelona, , Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "7649552ca4a453dea93bd98a15d0cb8dea6083eb",
+      "title": "Intern, Data Engineer - People & Culture",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159550349",
+      "location": "Berlin, , Germany",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "0f3d20c07d9e138dd1662c8358ec76530258da01",
       "title": "Data Analyst Intern",

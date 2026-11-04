@@ -2,14 +2,14 @@
   "slug": "deloitte",
   "name": "Deloitte",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Düsseldorf",
@@ -34,6 +34,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -47,10 +52,17 @@
     1,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a40b73f742a617530fb53f200e4a19b4135fc307",
+      "title": "New Grad 2027: Tax Technology Services Consultant",
+      "url": "https://go.vansh.nyc/1fO",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f46e4818ce09c73bfd0f14a5c558242ac3e601b2",
       "title": "Junior Cybersecurity | Tecnologia & Transformación - Empieza tu carrera con impacto | Vigo",

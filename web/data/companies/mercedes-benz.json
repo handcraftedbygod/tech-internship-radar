@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 46,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 48,
+  "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 37
+      "count": 39
     },
     {
       "hub": "Stuttgart",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 19
+      "count": 20
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,24 @@
     19,
     10,
     14,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5b575fa5385db3013284a26f9f5cc567fcfea8f",
+      "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1649889-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "842227e6e5103da313c198dc102f458f524ab007",
+      "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1650078-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "da3e362c6d6b4a2b4d803c291b40f1b41aacfae8",
       "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
@@ -110,20 +124,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631992-2-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "9ab74ea9bfd94a2fccfa434f488cbdd163a929d4",
-      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631999-2-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "c794d69676061534929498c8469f7309dfed7a8e",
-      "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643198-1-S",
-      "location": "Leinfelden-Echterdingen",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]
 }

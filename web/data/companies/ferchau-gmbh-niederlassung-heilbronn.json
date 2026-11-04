@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-heilbronn",
   "name": "FERCHAU GmbH Niederlassung Heilbronn",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 13
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     3,
     4,
     6,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6a81bc49aed8e42c3c9bf705f119534e22cfedcf",
+      "title": "(Junior) Embedded Software Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-487081_JB5289502-S?utm_source=freehire.me",
+      "location": "Heilbronn, Neckar, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "641f42e56c245c35bcefbfeb50d528af072e3794",
+      "title": "(Junior) Embedded Software Entwickler (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDg3MDgxX0pCNTI4OTUwMi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "98e458703f810d78cccb0efebd26a89faf07430a",
       "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d) (Softwareentwickler/in)",
@@ -89,20 +103,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDg3MDgxX0pCNTI0Njg0OS1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "4d0bc8ec4646576527f2c6ac1f655d2e4838a48e",
-      "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtMjkyNDU2X0pCNTI0MDc1MS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "028d14399fb53661e493a666780a6e0238ae36bf",
-      "title": "(Junior) Embedded Software-Entwickler C++ (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-292456_JB5240751-S?utm_source=freehire.me",
-      "location": "Heilbronn, Neckar, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
     }
   ]
 }

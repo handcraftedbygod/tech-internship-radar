@@ -1,0 +1,52 @@
+{
+  "slug": "baird",
+  "name": "Baird",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9c81526c39fe494b1ec42208c6369b73477142c4",
+      "title": "Quality Assurance Automation Engineer Intern",
+      "url": "https://go.vansh.nyc/1f0",
+      "location": "Milwaukee, WI",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "9162589da313cf16393bb49e1aeb9130d822be4c",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1eZ",
+      "location": "Milwaukee, WI, Madison, WI",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

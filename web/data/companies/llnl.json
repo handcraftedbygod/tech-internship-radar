@@ -2,21 +2,21 @@
   "slug": "llnl",
   "name": "LLNL",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "651c6ded93be529f86aabac450de57ee7f17138a",
+      "title": "Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure",
+      "url": "https://go.vansh.nyc/1fR",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "44cc7aa5058fa6466fa612975efdc9ca6f9c3677",
       "title": "Predictive Science Academic Alliance Program IV Student Intern",

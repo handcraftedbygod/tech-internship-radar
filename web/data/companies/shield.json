@@ -2,14 +2,14 @@
   "slug": "shield",
   "name": "Shield",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     },
     {
       "id": "hw",
@@ -39,10 +39,31 @@
     0,
     0,
     0,
-    4,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad344db69cc527d978efc2ceee6db90a2ed852f6",
+      "title": "New Grad: Engineer I, Software, Factory Team",
+      "url": "https://go.vansh.nyc/1ge",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "0708256218fafecc5f5945363f48c88ef5639975",
+      "title": "New Grad: Engineer I, Simulation Framework",
+      "url": "https://go.vansh.nyc/1gd",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "b93711e154991816172be6fb50c511d04d8448bc",
+      "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+      "url": "https://go.vansh.nyc/1gc",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f985d65f705b3544c90962435032d42ea28843d5",
       "title": "New Grad 2027: Software Development Engineer",

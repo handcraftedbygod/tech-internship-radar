@@ -2,13 +2,17 @@
   "slug": "twg-global",
   "name": "TWG Global",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "66397ffc1cbe44e5b06881a1baabbf35dfa38e8b",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1eY",
+      "location": "Santa Monica, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "9d284c230722ffe9be92643779bb4cf7c1906049",
       "title": "AI Data Science Intern (UK)",

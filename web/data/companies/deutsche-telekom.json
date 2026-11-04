@@ -2,9 +2,9 @@
   "slug": "deutsche-telekom",
   "name": "Deutsche Telekom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     1,
     11,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78f41243326f63bd137f28e4154932a8f91a3472",
+      "title": "Junior Full-Stack Developer — Hybrid, Learning & Impact",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366710468__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "03bfc538d0d8370021be960aa71aa3561aeeb203",
       "title": "Junior Full-Stack Developer — Hybrid, Learning & Impact",
@@ -104,13 +111,6 @@
       "title": "Junior Data Engineer – GCP, Terraform, PySpark | Hybrid",
       "url": "https://es.whatjobs.com/pub_api__cpl__352032755__7107?geoID=9570&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Bilbao, Spain",
-      "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "d0d4cdda1573bda21de66d41244848758c0e9e3b",
-      "title": "Junior Data Engineer: GCP, PySpark & Airflow | Hybrid",
-      "url": "https://es.whatjobs.com/pub_api__cpl__352029631__7107?geoID=13&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Galicia, Spain",
       "firstSeenAt": "2026-09-16T09:06:53.007Z"
     }
   ]

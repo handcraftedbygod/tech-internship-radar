@@ -2,21 +2,21 @@
   "slug": "faverli",
   "name": "Faverli AB",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     3,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef691f1daeb0f7e968cf720ceda0987aca87a178",
+      "title": "Junior Software Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3Mjc3OCAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "8b85a6a509ea3e39d04b31ccdac04fb617d66f9f",
+      "title": "Junior Software Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3Mjc3OCAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f221742c8c152252928abcdc3156418685641cdc",
       "title": "Junior Software Developer",

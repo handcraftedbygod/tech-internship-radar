@@ -2,26 +2,31 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 27,
+  "totalPostings": 34,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 34
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 28
     },
     {
       "id": "ai",
       "label": "Data / AI",
       "count": 4
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +40,59 @@
     0,
     0,
     23,
-    4,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cdfd3e44ae7c8140357d62282393955e2ad1081f",
+      "title": "Associate Software Embedded Engineer",
+      "url": "https://go.vansh.nyc/1ga",
+      "location": "Sykesville, MD",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "942d9f576e6f37856a26c14b0478e4761d3faec4",
+      "title": "New Grad 2027: Associate Flight Software Engineer",
+      "url": "https://go.vansh.nyc/1fG",
+      "location": "Manhattan Beach, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "638cca26d717a6af0dec3f1e761cd3105b5f1389",
+      "title": "S/W Embedded Engineering Intern",
+      "url": "https://go.vansh.nyc/1fW",
+      "location": "Sykesville, MD",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "6a31b9f8c21b42695cba5c122dbea0d4af21d1a4",
+      "title": "Ground Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e5",
+      "location": "Redondo Beach, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "6d9c4750bbdd76c17e3ad855feb91745848a7f21",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1dV",
+      "location": "Manhattan Beach, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "0d87ce973ed98419148906a0522518e2c5fd8d19",
+      "title": "Engineering Software Tool Development Intern, Field Engineering",
+      "url": "https://go.vansh.nyc/1dO",
+      "location": "Baltimore, MD",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "c4d5b9b095b0d3d529071ae2c5fe5bba86de14c1",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1dD",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "810ccbb3065d3512b9c4e62d7adaac3f95968340",
       "title": "Software Engineer Intern",
@@ -59,55 +113,6 @@
       "url": "https://go.vansh.nyc/19x",
       "location": "Sunnyvale, CA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "da1d64a4c6123d677bf544429f88e64d5623c586",
-      "title": "Associate Software Engineer",
-      "url": "https://go.vansh.nyc/14E",
-      "location": "Huntsville, AL",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "0fcfc4750fe2c68e61f8cbd3b34053c4987e9422",
-      "title": "Data Scientist Intern, Product Support",
-      "url": "https://go.vansh.nyc/125",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "beb25b4b52547ba9504c4ad39cc820c656553df8",
-      "title": "Associate Data Scientist",
-      "url": "https://go.vansh.nyc/10d",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "88d340514c9188ccf9358e7c09d4215fab2f08a9",
-      "title": "New Grad 2027: Associate Cyber Software Engineer",
-      "url": "https://go.vansh.nyc/Zv",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "56a202e0ccc791e2d15d4218f3a558d7d53cb224",
-      "title": "Associate Software Engineer, Pathways Program",
-      "url": "https://go.vansh.nyc/Yn",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "f4dc65777daaa6e4c61c7b865adfe6a657f53071",
-      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
-      "url": "https://go.vansh.nyc/Xs",
-      "location": "Huntsville, AL",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "74b05827b356baf4181cab33a436a2c65f939ef6",
-      "title": "New Grad 2027: Associate Software Engineer",
-      "url": "https://go.vansh.nyc/Wo",
-      "location": "Boulder, CO",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "tier": "elite",
   "currentOpenings": 28,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 49,
-  "avgPostingDurationDays": 8.1,
+  "totalPostings": 50,
+  "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "London",
@@ -37,7 +37,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -61,10 +61,17 @@
     0,
     1,
     41,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "423e71357ec5aff4bf6eb294fe050b0f1935d54f",
+      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
+      "url": "https://go.vansh.nyc/1ec",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "9de356516ab25f90edc6b2207efa9650cef4b2f3",
       "title": "Data Center Infrastructure Engineer Internship 2027",
@@ -126,13 +133,6 @@
       "title": "New Grad 2027: Software Development Engineer, Database",
       "url": "https://go.vansh.nyc/11i",
       "location": "Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "db5cae02343e2621697449ed60996217bd4ba835",
-      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
-      "url": "https://go.vansh.nyc/10y",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]

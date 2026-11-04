@@ -2,14 +2,14 @@
   "slug": "alan",
   "name": "Alan",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -39,10 +39,17 @@
     1,
     4,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e5a0798233a5e8659cc6320b57f9e44045d1f3c",
+      "title": "Security Associate - Internship",
+      "url": "https://jobs.ashbyhq.com/alan/a725479a-de87-45d9-afe6-e3273dc6d704",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "b2e7d25367aa8bfec6eb8ba7b123f229a0297d92",
       "title": "Data Associate - Internship (6 months, flexible start)",
@@ -105,13 +112,6 @@
       "url": "https://jobs.ashbyhq.com/alan/71fa3e9d-1f5f-4e3f-a1de-e68b3c85803a",
       "location": "Paris, France",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "4ee5ac56331a1ce03bb2f608517044d09423f12d",
-      "title": "Sales Graduate Program Recruitment Day (Paris) 💫",
-      "url": "https://jobs.ashbyhq.com/alan/9ed3a312-9cf7-4964-8973-f34101783deb",
-      "location": "Paris, France; Bordeaux, France",
-      "firstSeenAt": "2026-09-07T10:41:15.202Z"
     }
   ]
 }

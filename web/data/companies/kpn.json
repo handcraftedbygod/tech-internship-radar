@@ -2,14 +2,14 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15e7b36adf2b7b30f529601312d43d41bdb98511",
+      "title": "KPN Portal & Backend Engineering Internship",
+      "url": "https://jobs.smartrecruiters.com/KPN/744000159340415-kpn-portal-backend-engineering-internship?utm_source=freehire.me",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "34aa0c3378c49dea65aebea6462c25dfa0cf1396",
       "title": "Junior DevOps Engineer Mobile Core Voice",

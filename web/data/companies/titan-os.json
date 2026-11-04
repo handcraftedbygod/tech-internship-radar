@@ -2,21 +2,21 @@
   "slug": "titan-os",
   "name": "Titan OS",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "545c3694a296cf9f63973a590f5a3144959165a5",
+      "title": "Frontend Developer Intern",
+      "url": "https://apply.workable.com/j/899F972D95?utm_source=freehire.me",
+      "location": "Barcelona, Catalonia, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "5776dedf57a89e2947a67f460e87b6e7ce235451",
       "title": "Frontend Developer Intern",

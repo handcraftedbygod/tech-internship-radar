@@ -2,21 +2,21 @@
   "slug": "fossil",
   "name": "Fossil",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 11.1,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 8.4,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6979282aea989c7dcc0e8da421c757ede098e1a6",
+      "title": "Gen AI Data Engineer Intern - Barcelona (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366675549__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "81df508574a318f21a187d93ca11dcc29a53885d",
       "title": "Gen AI Data Engineer Intern - Barcelona (Hybrid)",

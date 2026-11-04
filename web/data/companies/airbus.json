@@ -2,25 +2,25 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 7,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     },
     {
@@ -40,10 +40,31 @@
     3,
     1,
     3,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df827d16f1edbd25a30e5542cbc07ad426595350",
+      "title": "Intern Frontend Developer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Frontend-Developer_JR10451058?utm_source=freehire.me",
+      "location": "Gdansk",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "d75b76f6aafd82246291905563dcd8c800164675",
+      "title": "Intern System Integration Developer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063?utm_source=freehire.me",
+      "location": "Gdansk",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "f0748c860facf043ce6c5025a118dbaacaa75556",
+      "title": "Intern Backend Developer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110?utm_source=freehire.me",
+      "location": "Gdansk",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "08e5e80a729a319139ff324b8f2c4f477dfe955c",
       "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",

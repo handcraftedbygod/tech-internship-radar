@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 10.8,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Munich",
@@ -27,13 +27,13 @@
       "count": 19
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "design",
       "label": "Design",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     }
   ],
@@ -48,10 +48,17 @@
     0,
     0,
     24,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd5adb64eef0b2876fc44e6bc74986bef6cb778c",
+      "title": "Physical Design Clocking Engineer",
+      "url": "https://go.vansh.nyc/1gb",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "3e19725da2dfd897b3c99b6a8739a07752db1be0",
       "title": "DevOps Software Engineering Intern",
@@ -114,13 +121,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
       "location": "Hillsboro, OR",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "e9fc691a1727749cc1dfcf50eeb2df04f7f032ce",
-      "title": "Software Development Intern (m/f/d)",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

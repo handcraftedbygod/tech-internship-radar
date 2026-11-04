@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 9,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 9.2,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "product",
@@ -39,10 +39,17 @@
     1,
     0,
     10,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "beb7058a5cc7084ad67123d58898ec013489e9c2",
+      "title": "Software Engineer Intern, Teamwork Experiences",
+      "url": "https://go.vansh.nyc/1dY",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "7ae9fb0179550f8112ce82cc9a61f7538dccfc93",
       "title": "Software Engineering IC2",
@@ -105,13 +112,6 @@
       "url": "https://go.vansh.nyc/e6",
       "location": "Cambridge, MA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "b10b71e710f035adcc3d1c4716581c037cca697a",
-      "title": "Product Manager Intern",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-      "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

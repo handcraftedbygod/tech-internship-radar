@@ -2,14 +2,14 @@
   "slug": "wabtec",
   "name": "Wabtec",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bb3cbbc363b5f36df2f286012e20c3651cc2b8d2",
+      "title": "Firmware Engineering Co-op",
+      "url": "https://go.vansh.nyc/1fM",
+      "location": "Waltham, MA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "1ec90cfab6feca220f75d964b25436f444126309",
       "title": "LEAD Information Technology Intern",

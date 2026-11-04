@@ -1,0 +1,57 @@
+{
+  "slug": "direct-supply",
+  "name": "Direct Supply",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3925723d8f9e60950ba00439f3f7cd0ed05c1b19",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eq",
+      "location": "Milwaukee, WI, Durham, NC",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "eccab925ab38b1cb952b215a4c83a8f3f4381cdc",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1ep",
+      "location": "Milwaukee, WI",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

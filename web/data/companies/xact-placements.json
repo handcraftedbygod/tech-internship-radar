@@ -2,21 +2,21 @@
   "slug": "xact-placements",
   "name": "Xact Placements Limited",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,38 @@
     0,
     3,
     0,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "13ef052f98e4efd4752de602faf2d6105a8d62ce",
+      "title": "Junior Network Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-network-engineer/57521734?utm_source=freehire.me",
+      "location": "Hertfordshire",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "fb8d486c97e88e62a88c5c25259d54d14a93ae75",
+      "title": "Junior Security Engineer (Firewalls)",
+      "url": "https://www.reed.co.uk/jobs/junior-security-engineer-firewalls/57521759?utm_source=freehire.me",
+      "location": "Hertfordshire",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "e87907f6cca939f992aff286c9e99fbe20606d25",
+      "title": "Junior Network Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5952173966?se=VsrMahjY8RG6RfvtgyVp5w&utm_medium=api&v=28C130F4DCA6D3EC0A4BCE30DA667C7A84874181&utm_source=freehire.me",
+      "location": "Hertfordshire, Eastern England",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "7aaf089c763ed069f46f88883d98cbdfff84bb67",
+      "title": "Junior Security Engineer (Firewalls)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5952173986?se=VsrMahjY8RG6RfvtgyVp5w&utm_medium=api&v=8D30F0E541D7302EB2D2790A0983B36CF00C3494&utm_source=freehire.me",
+      "location": "Hertfordshire, Eastern England",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "2b3bfc130401d28e60a8faca2a6ae0b46bd4cfa5",
       "title": "Junior Network Engineer (Cyber Security / Network Support)",

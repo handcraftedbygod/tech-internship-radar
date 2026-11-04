@@ -2,26 +2,30 @@
   "slug": "schneider-electric",
   "name": "Schneider Electric",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-25T04:39:11.466Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 33.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
       "id": "biz",
       "label": "Business",
       "count": 2
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +39,24 @@
     1,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8494a05e136c50cc416b32a68517bd5a24cf497b",
+      "title": "Data Analyst Intern STP27",
+      "url": "https://se.jibeapply.com/careers-home/jobs/140214?utm_source=freehire.me",
+      "location": "Spain-Catalonia-Barcelona",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "dc0caa6b2863f16a027c01fe349ee757526e1051",
+      "title": "Supply Chain Digitalization & Data Analyst Trainee STP27",
+      "url": "https://se.jibeapply.com/careers-home/jobs/140107?utm_source=freehire.me",
+      "location": "Spain-Basque Country-Biscay",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "bc192904aa060b5dbd45be0e9674492622f7cc8e",
       "title": "Stage - Business Data Analyst Intern – Corporate Strategy (AMR Support) - H/F",

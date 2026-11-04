@@ -2,21 +2,21 @@
   "slug": "marshmallow",
   "name": "Marshmallow",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3313d40fb18da0ced038de0da30b318dffe5fcea",
+      "title": "Junior Pricing Data Scientist",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marshmallow/junior-pricing-data-scientist-london-492244",
+      "location": "London",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "b917e22d8aaccba1d0255986393436c883029d60",
       "title": "Junior Pricing Data Scientist",

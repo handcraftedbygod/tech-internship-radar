@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 31,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 84,
-  "avgPostingDurationDays": 26.6,
+  "totalPostings": 87,
+  "avgPostingDurationDays": 26,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 52
+      "count": 54
     },
     {
       "hub": "Madrid",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Lisbon",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 63
+      "count": 65
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -57,10 +57,31 @@
     33,
     26,
     25,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2475d907fdbf110237aa2aedd4a13b464d7113b4",
+      "title": "Junior Financial Data Analyst",
+      "url": "https://careers.glovoapp.com/job/junior-financial-data-analyst-in-barcelona-spain-jid-744000159442150/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "2613e85627c141ab51c15c75b0dac798d59ed16f",
+      "title": "Intern, People Generalist",
+      "url": "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "d6bbffc4b8c535b46df9dbe500f3f3aac383495d",
+      "title": "Junior Business Analyst Consultant",
+      "url": "https://careers.glovoapp.com/job/junior-business-analyst-consultant-in-barcelona-spain-jid-744000159443497/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "cb8d7e82ccfa425db3a57d39287c66d165a3e16f",
       "title": "Intern, People Generalist",
@@ -109,27 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-operations-analyst-in-lisbon-portugal-jid-744000157489877/",
       "location": "Lisbon, Portugal",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "a8660b444ae9634f4099c77e40838bba5718d967",
-      "title": "Intern - People Operations",
-      "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000157400459/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "a9021cf0cd226df884372b2c8b820b979652070b",
-      "title": "Account Manager Intern Groceries Spain",
-      "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000157402989/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "60ad40822f5f6e784f97020c6b3aef245b077a85",
-      "title": "Intern, Product Design - Quick Commerce",
-      "url": "https://careers.glovoapp.com/job/intern-product-design-quick-commerce-in-barcelona-spain-jid-744000157166111/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

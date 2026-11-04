@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 24,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 42,
-  "avgPostingDurationDays": 9.2,
+  "totalPostings": 44,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 41
+      "count": 43
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 36
+      "count": 38
     },
     {
       "id": "hw",
@@ -49,10 +49,24 @@
     1,
     0,
     30,
-    11,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b38a2db025610d55dd44069e13b394b764222e4d",
+      "title": "Control/Diagnostic Software Intern",
+      "url": "https://go.vansh.nyc/1g8",
+      "location": "Jupiter, FL",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "e14ed175fcc2b7b41f2ac9d33e1d4b9c097b31d3",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1e6",
+      "location": "West Valley City, UT",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "e52313c1909f7f02cda966ad5fcb50cae64ed131",
       "title": "New Grad: Electrical Engineer 1",
@@ -107,20 +121,6 @@
       "title": "Software Engineer Co-op",
       "url": "https://go.vansh.nyc/1cP",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "a4f5db4a57321bfaca1e9891d0beef6c257d803d",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/1cO",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "9136daab038c2dc6d8bbe91a91ebb05fc1585d91",
-      "title": "Systems Security Engineer Intern, Raytheon",
-      "url": "https://go.vansh.nyc/19I",
-      "location": "Woburn, MA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

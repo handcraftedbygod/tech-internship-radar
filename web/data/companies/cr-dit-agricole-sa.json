@@ -2,13 +2,17 @@
   "slug": "cr-dit-agricole-sa",
   "name": "Crédit Agricole S.A.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73430e263a4e3a25dcaf6b733acc173ade78df60",
+      "title": "INTERNSHIP - IT DevOps CICD Tools Integrator H/F",
+      "url": "https://casa-recrute.talent-soft.com/offre-de-emploi/emploi-internship-it-devops-cicd-tools-integrator-h-f_117128.aspx?utm_source=freehire.me",
+      "location": "Europe, Luxembourg",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f81d31ad726209cd0311e7db788f39ce644b6473",
       "title": "Stage - ESG Data analyst intern H/F",

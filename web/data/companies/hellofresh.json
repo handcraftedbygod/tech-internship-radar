@@ -2,10 +2,10 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 40,
-  "avgPostingDurationDays": 26.8,
+  "totalPostings": 41,
+  "avgPostingDurationDays": 27.6,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -20,19 +20,19 @@
       "count": 6
     },
     {
-      "hub": "London",
+      "hub": "Amsterdam",
       "count": 5
     },
     {
-      "hub": "Amsterdam",
-      "count": 4
+      "hub": "London",
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "biz",
@@ -56,10 +56,17 @@
     8,
     14,
     12,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf75a5f5f56a4bf43135b6b7dbff14d4c5a1a204",
+      "title": "Intern Menu Planning & Ingredients (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8349401?gh_jid=8349401",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "245d841ce3c6598d4b28a4daa7a3023ae5b7def2",
       "title": "Delivery Operations Business Analyst Intern France et Benelux(M/F/X)",
@@ -121,13 +128,6 @@
       "title": "[PL] Junior Indirect Cost Controller",
       "url": "https://careers.hellofresh.com/global/en/job/8246057?gh_jid=8246057",
       "location": "Wrocław, Lower Silesian Voivodeship, Poland",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "2881108c124e5907d9d07d6ebe3c7e24d9c2876f",
-      "title": "Junior Procurement Category Manager (f/m/x)",
-      "url": "https://careers.hellofresh.com/global/en/job/8259740?gh_jid=8259740",
-      "location": "Berlin, Berlin, Germany",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]

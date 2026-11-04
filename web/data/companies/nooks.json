@@ -1,0 +1,52 @@
+{
+  "slug": "nooks",
+  "name": "Nooks",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dc00e87a0311624ad432b09305bff28a016dfd57",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1g9",
+      "location": "Seattle, WA, San Francisco, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "16d386600aae4cbabbb90cde17d4ad2d6a9090fd",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1fJ",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

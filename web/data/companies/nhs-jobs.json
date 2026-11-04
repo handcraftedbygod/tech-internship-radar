@@ -1,0 +1,45 @@
+{
+  "slug": "nhs-jobs",
+  "name": "NHS Jobs",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5d54c5dc088c68f567f4217bc048c767614c934e",
+      "title": "Trainee Data Engineer",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-engineer/trainee-data-engineer?utm_source=freehire.me",
+      "location": "Borough londonien de Camden, Royaume-Uni",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}

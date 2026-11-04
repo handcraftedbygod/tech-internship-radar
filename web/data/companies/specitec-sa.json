@@ -2,21 +2,21 @@
   "slug": "specitec-sa",
   "name": "SpeciTec SA",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bcfe038e57b8cfec4eab127b4c944cc8851fe9e9",
+      "title": "Consultant DevOps junior – Plateforme d’intégration de données",
+      "url": "https://careers.specitec.com/jobs/8653071-consultant-devops-junior-plateforme-d-integration-de-donnees?utm_source=freehire.me",
+      "location": "Geneva, CH",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "9dbc3f63e7483b5f9d323885c176899dc474af34",
+      "title": "Consultant DevOps junior – Plateforme d’intégration de données",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZTNlZDY2YjItNzdlMi00ODJiLWE4MDMtZTk5NTI3ZjExYTJjIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "48de032c77ca16abd6dba64775039a1438ebbcc0",
       "title": "Consultant DevOps junior – Plateforme d’intégration de données",

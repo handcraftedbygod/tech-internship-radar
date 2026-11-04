@@ -2,21 +2,21 @@
   "slug": "endeavoraicom",
   "name": "endeavorai.com",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef66ff2f8c0f5c0ea8dedce8280379f17d25f3f8",
+      "title": "New Grad 2027: Forward Deployed Engineer",
+      "url": "https://go.vansh.nyc/1fT",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "82271bf80dff096c4266eaffdaa7ea1ec197ede2",
       "title": "Forward Deployed Engineer",

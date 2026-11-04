@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 8,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "biz",
@@ -44,10 +44,17 @@
     0,
     1,
     15,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0d75eeed438ef9a662c699741f6be922111472d",
+      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
+      "url": "https://www.themuse.com/jobs/appliedmaterials/summer-2027-software-engineer-intern-bachelorsmasters-santa-clara-ca",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "cf1195acdf0424b44484d736dcd6a2e5cc5d37d3",
       "title": "2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)",
@@ -108,13 +115,6 @@
       "id": "55444f549f8fd04cccf7333581611adc2326f1c5",
       "title": "Software Engineer",
       "url": "https://go.vansh.nyc/AE",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "507d50a52470387be3850673596ee064a6eb518f",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/d5",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

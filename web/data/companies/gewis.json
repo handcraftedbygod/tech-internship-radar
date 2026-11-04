@@ -2,21 +2,21 @@
   "slug": "gewis",
   "name": "Gewis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e7e8658f4bd576316e95723c476409b78ec6fd11",
+      "title": "Finance Data Engineer (Junior) — Dashboards & Pipelines",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__176938490__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "2491b92d486234abc3bec51a16723289326eed03",
       "title": "Junior Backend Engineer, AI Cloud Infrastructure (Early Talent)",

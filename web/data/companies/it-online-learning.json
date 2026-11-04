@@ -2,21 +2,21 @@
   "slug": "it-online-learning",
   "name": "IT Online Learning",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b56e87fbe5ad5c78c4f7f157adfdd2098e14fa1d",
+      "title": "Trainee Data Analyst No experience needed",
+      "url": "https://www.adzuna.co.uk/jobs/details/5952182128?utm_medium=api&utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "2b0d1593b2e40505eed1c51f46c6be6f03e17d32",
       "title": "Trainee Software Developer – No Experience Needed",

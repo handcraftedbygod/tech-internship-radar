@@ -2,14 +2,14 @@
   "slug": "mirakl-labs",
   "name": "Mirakl - Labs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 16.7,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24d7842a832f2fb29051cd954daef3e7580d247c",
+      "title": "Software Engineer Intern - Ads",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-ads-paris-51577",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "f33f4f952744b8bc75a1773807fec7964ab993de",
       "title": "Software Engineer Intern - Ads",

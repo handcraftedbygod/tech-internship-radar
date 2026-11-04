@@ -2,25 +2,25 @@
   "slug": "consult-pepper",
   "name": "Consult & Pepper AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     1,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65a39036c9971fdfda43a60dd354b0e8d038eff8",
+      "title": "(Junior) Java-Crack (Software Entwickler :in) 80%-100%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTgwYjFhMDMtZTIxMS00YjNhLWI5NTgtNWQwZTA0NDcyNWNiIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "ec1278d9d8291830ecf96ba8bf0ccf755e0a7cc1",
       "title": "(Junior) Java-Crack (Software Entwickler :in) 80%-100%",

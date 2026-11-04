@@ -2,21 +2,21 @@
   "slug": "caresource",
   "name": "CareSource",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7bbb754ce700d2124c2aaf30b93cea54ed76952",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1dQ",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "e7cd7bef19e86588018dd856aa46780c844a7b55",
       "title": "Full Stack AI Development Intern",

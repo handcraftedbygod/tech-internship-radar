@@ -2,17 +2,17 @@
   "slug": "duolingo",
   "name": "Duolingo",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 14.6,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 4
+      "hub": "New York",
+      "count": 5
     },
     {
-      "hub": "New York",
+      "hub": "Other",
       "count": 4
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     0,
     3,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6182b486987266a02290c9a1efaaa10741e4cc9",
+      "title": "QA Specialist I, Recent Graduate",
+      "url": "https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002",
+      "location": "New York, NY; Pittsburgh, PA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "fd13fad097d167cbd23b32abee85bdd4239e7105",
       "title": "Data Scientist Intern",

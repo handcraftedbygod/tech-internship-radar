@@ -2,21 +2,21 @@
   "slug": "cfs-energy",
   "name": "CFS Energy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3244a829e0891db144f0af22a12f8b87dc191c0e",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e7",
+      "location": "Devens, MA",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
     {
       "id": "7c39559da3b24498796db31f13ee6b0211e78703",
       "title": "Scientific Software Engineer Intern",

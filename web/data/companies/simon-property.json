@@ -1,0 +1,64 @@
+{
+  "slug": "simon-property",
+  "name": "Simon Property Group",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-04T11:53:30.631Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2b739ae702f8e573a75ec5da894c5e975010fd33",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1ft",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "ced45032f9b72f172ec799182ace126b7cd2d601",
+      "title": "Front End Developer Intern",
+      "url": "https://go.vansh.nyc/1fs",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    },
+    {
+      "id": "6476662bf32877f135121f0a354ef7d9c1d87eef",
+      "title": "Project Delivery Intern",
+      "url": "https://go.vansh.nyc/1fr",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-04T11:53:30.631Z"
+    }
+  ]
+}
