@@ -2,21 +2,21 @@
   "slug": "re-invent-retail",
   "name": "RE-INvent Retail GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-02T12:02:27.024Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "871d341bc8a98af31136a8f8fc7cdaf1e3227188",
+      "title": "Praktikum Oder Werkstudententätigkeit Devops Engineer/ Systemadministration (m/w/d) Re-in",
+      "url": "https://www.adzuna.de/land/ad/5951887091?se=7LxiBubX8RGMcpOfB0TpBA&utm_medium=api&v=47128F19CF2D83083DA103354C7BF376D55420DD&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "3e291fd8abc155a3b1004c6ea6e1104b3a45aff4",
       "title": "Praktikum Oder Werkstudententätigkeit Devops Engineer/ Systemadministration (m/w/d) Re-in",

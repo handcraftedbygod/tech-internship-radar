@@ -2,14 +2,14 @@
   "slug": "john-deere",
   "name": "John Deere",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -40,10 +40,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7b624e27c03982a41f354b5535a58332b4593cd",
+      "title": "Product Engineering Student Intern",
+      "url": "https://go.vansh.nyc/1hv",
+      "location": "Urbandale, IA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "0cb0b2456318fea23b2e7a530f161ecd32b14536",
       "title": "Praktikum KI-Anwendung in der Farbgebung: Machine Learning & Agentic AI (m/w/d)",

@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-hp",
   "name": "Hewlett Packard (HP)",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "San Francisco",
@@ -24,12 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,24 @@
     0,
     0,
     7,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2aa38e59f08359c2464d8ef4417b5cf66e5e22f",
+      "title": "Data Analyst Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "7c1dfe5a24afc0c8d54045e240b4b409b79b7ec4",
+      "title": "Business Intelligence & Data Analytics Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Intelligence---Data-Analytics-Intern_UNI4522-2?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "62a12df080ca7fd4e780858e6d9309f9def26d71",
       "title": "Software Engineering Intern, Product & Developer Productivity",
@@ -102,20 +116,6 @@
       "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Software-Engineering-Intern_UNI4787?utm_source=freehire.me",
       "location": "Sant Cugat del Valles, Barcelona, Spain",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "9e55c9b3ad15b6ed97ee5fc1f932bd647415f9a5",
-      "title": "Data Science Intern",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973?utm_source=freehire.me",
-      "location": "Sant Cugat del Valles, Barcelona, Spain",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "170dc0e533aff2df177c35ca3faa7f820da47cc1",
-      "title": "Data Analytics & Automation Intern",
-      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analytics---Automation-Intern_UNI4151-1?utm_source=freehire.me",
-      "location": "Sant Cugat del Valles, Barcelona, Spain",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

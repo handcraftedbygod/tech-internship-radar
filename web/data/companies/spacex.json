@@ -2,9 +2,9 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89fa67f50551d71ec50d0640f2b74a2870ce7955",
+      "title": "Propulsion Software Engineer, Falcon Engineering",
+      "url": "https://go.vansh.nyc/1gU",
+      "location": "Hawthorne, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "dc4e18688f91002b51b18466327f165c196ebbe1",
       "title": "Software Engineer, Starlink Enterprise",

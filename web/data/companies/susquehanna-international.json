@@ -2,14 +2,14 @@
   "slug": "susquehanna-international",
   "name": "Susquehanna International Group",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -27,6 +27,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -40,10 +45,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbca4be1890df8c47fafb44c214f6d154dcfa1b4",
+      "title": "Quantitative Sports Researcher (Master's)",
+      "url": "https://go.vansh.nyc/1hG",
+      "location": "Bala Cynwyd, PA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "409a951e473af9e20560215d655014ca15fb7cf3",
       "title": "Technical Business Analyst Co-op",

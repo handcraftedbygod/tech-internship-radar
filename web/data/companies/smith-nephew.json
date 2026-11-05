@@ -2,26 +2,31 @@
   "slug": "smith-nephew",
   "name": "Smith+Nephew",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 6,
+  "totalPostings": 9,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "hw",
       "label": "Hardware",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +40,31 @@
     0,
     0,
     6,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e30d7cc1abbffa34c25bfb9f7f1429af0498846e",
+      "title": "AI Engineer Intern, R&D",
+      "url": "https://go.vansh.nyc/1gP",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "c3f85c3bd2e92334c65002403f3d157fa1880326",
+      "title": "Robotics Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gO",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "0e624aaa54499dc4a02895eedf8f8b6dde8ed618",
+      "title": "Data Science Intern, AI Center of Excellence",
+      "url": "https://go.vansh.nyc/1gN",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "2af7292eda6a6d268ac7b001c4413843bced3334",
       "title": "Computer Vision Software Engineering Intern",

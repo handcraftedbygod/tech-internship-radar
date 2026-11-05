@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     11,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea6cc5411100751f9214c15ae7396aa834d68688",
+      "title": "Intern Bachelors Embedded Eng",
+      "url": "https://go.vansh.nyc/1hl",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "ed86d73b4b89ab4e0d0f8363f56820c3685eee3c",
       "title": "Software Engineering Undergrad Intern",
@@ -104,13 +111,6 @@
       "id": "1c5a2f292cf1d956d256e54308d7e34fdd0ce63a",
       "title": "Signal Processing and RF Engineering Intern",
       "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
-      "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "3d7acbc29b7c5f4d6c697522fd02ac7f4caa10bb",
-      "title": "Digital Communication Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948",
       "location": "El Segundo, CA",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }

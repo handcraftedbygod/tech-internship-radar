@@ -2,20 +2,25 @@
   "slug": "moog",
   "name": "Moog",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "product",
       "label": "Product",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6b1e5457c33b0d99819918f828604531c7f5c45",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gy",
+      "location": "Torrance, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "7ca129ca6276ffd57c8770bb902697a03472e67d",
       "title": "Product Engineering Intern",

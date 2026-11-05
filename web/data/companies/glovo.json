@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 31,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 87,
+  "totalPostings": 89,
   "avgPostingDurationDays": 26,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 54
+      "count": 56
     },
     {
       "hub": "Madrid",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 65
+      "count": 66
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ai",
@@ -57,10 +57,24 @@
     33,
     26,
     25,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fde2b605b069bbf57e187938b43dd1d47b90b045",
+      "title": "Junior Occupational Health and Safety",
+      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000159633499/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "d2f2bf4a65dfdb320c6fa2408c0f2c48813dee88",
+      "title": "Intern People Operations",
+      "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "2475d907fdbf110237aa2aedd4a13b464d7113b4",
       "title": "Junior Financial Data Analyst",
@@ -116,20 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-business-performance-analyst-in-barcelona-spain-jid-744000158104139/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "e1e1d75a2532820924eb735c49a2cf1da50fe0cd",
-      "title": "Junior Occupational Health and Safety",
-      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000157845975/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "28df3b7e4a25f2146ce9e6ad7f01357dab975f51",
-      "title": "Junior Operations Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-operations-analyst-in-lisbon-portugal-jid-744000157489877/",
-      "location": "Lisbon, Portugal",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

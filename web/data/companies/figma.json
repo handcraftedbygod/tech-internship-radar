@@ -2,14 +2,14 @@
   "slug": "figma",
   "name": "Figma",
   "tier": "notable",
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "London",
@@ -27,14 +27,14 @@
       "count": 9
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "design",
+      "label": "Design",
       "count": 4
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 3
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     },
     {
       "id": "biz",
@@ -58,10 +58,17 @@
     3,
     10,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "884195f2ab887e5e5316936df9b4f879a9cc8e16",
+      "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004",
+      "location": "San Francisco, CA • New York, NY",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "a904a67fdf95ab00fed86d3dded528267b48980e",
       "title": "PhD Intern, Security Engineer (2027)",
@@ -123,13 +130,6 @@
       "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027) ",
       "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004&utm_source=freehire.me",
       "location": "London, England",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "09aa064abac893517af4abab080f563a38df248e",
-      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/figma/software-engineer-intern-london-united-kingdom-summer-2027-65172",
-      "location": "London",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]

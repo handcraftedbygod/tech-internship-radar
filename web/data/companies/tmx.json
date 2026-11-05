@@ -1,0 +1,57 @@
+{
+  "slug": "tmx",
+  "name": "TMX Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f0201618400b04061bfb3f34824cce89aaf3b895",
+      "title": "Junior Cybersecurity Operations Analyst Intern",
+      "url": "https://go.vansh.nyc/1gM",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "a9802a309c67e65df5d1bd36b207a631ffff5c2e",
+      "title": "Jr. Security Analyst Student Intern",
+      "url": "https://go.vansh.nyc/1gt",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

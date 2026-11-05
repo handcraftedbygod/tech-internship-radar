@@ -2,20 +2,25 @@
   "slug": "parsons",
   "name": "Parsons",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a2c783eba0a0e29047c13f2282c576cb4510912",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gI",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "201e67d6da1c70092fde511c7229a2a3389dc49f",
+      "title": "AI/ML Engineer Intern",
+      "url": "https://go.vansh.nyc/1gF",
+      "location": "Centreville, VA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "3c986700f3d6bfca91b27ac48655459511d417f8",
       "title": "Computer Vision/Robotics Intern",

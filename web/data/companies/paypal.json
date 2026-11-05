@@ -1,0 +1,71 @@
+{
+  "slug": "paypal",
+  "name": "PayPal",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dfc738557cf72028d005447348ee490e868319a2",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1hz",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "74451bcb0065f2dd3ee3689e25de8cccc298f985",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1hy",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "9a26255930791f2dc9d3f3d97aac4a73e1d0fe28",
+      "title": "Mobile Engineer Intern",
+      "url": "https://go.vansh.nyc/1hx",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "19f6cad28c1c6efe02f2a7c3ecd25d2444b6f670",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hw",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

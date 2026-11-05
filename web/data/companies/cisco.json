@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 42,
+  "totalPostings": 43,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a26a12e5f9b47ec1fbdeabce185852b575cfab71",
+      "title": "Software Engineer Full Stack / Backend I",
+      "url": "https://go.vansh.nyc/1hr",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "0ffd83e8200f3fa15eb4649efd03a98d8d1f2a0b",
       "title": "Software QA Engineer I",
@@ -130,13 +137,6 @@
       "id": "b2e539cff1d57c5b68e541a7368872d48cd77e96",
       "title": "Software Engineer Data & AI II Intern",
       "url": "https://go.vansh.nyc/gO",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "5c5c86c60aa7a4fbd48af2a7dc547f6e64564f3f",
-      "title": "Software Engineer Intern, Data & AI",
-      "url": "https://go.vansh.nyc/gs",
       "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

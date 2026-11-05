@@ -1,0 +1,45 @@
+{
+  "slug": "prospect-equities",
+  "name": "Prospect Equities",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "dff93130201210a9116ca56f79dc98d1511e7826",
+      "title": "Backend / Frontend Developer Intern",
+      "url": "https://go.vansh.nyc/1ia",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

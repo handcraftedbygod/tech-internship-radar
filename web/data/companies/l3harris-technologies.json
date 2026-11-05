@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 13,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 8.6,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 23
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 23
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,31 @@
     0,
     0,
     19,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b193d626b35c8d3f23535d66047b2b5a42a21d9",
+      "title": "Associate, Software Engineer",
+      "url": "https://go.vansh.nyc/1gE",
+      "location": "Palm Bay, FL",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "03896a8210023e0fc3ff794386dcb4e0ef545a88",
+      "title": "Associate, Software Engineer",
+      "url": "https://go.vansh.nyc/1gD",
+      "location": "Palm Bay, FL",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "137d08998f8e49a9d4b0f03be4ef7bce2cbb58f5",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1gA",
+      "location": "Nashville, TN",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "9817435dc9a445781e75d779d9782bb4176a3615",
       "title": "Software Engineering Intern",
@@ -82,27 +103,6 @@
       "url": "https://go.vansh.nyc/Ve",
       "location": "Rochester, NY",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "6aede6d62e7779fd11b13e01f3e89b1479ebc667",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/UZ",
-      "location": "Rochester, NY",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "003804332b62f4109596bfd94554903659730356",
-      "title": "Associate Software Engineering Intern",
-      "url": "https://go.vansh.nyc/UY",
-      "location": "Greenville, TX",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "c4d0dc48bd65768687c39842c922a929280d1679",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/Tb",
-      "location": "Rockwall, TX",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]
 }

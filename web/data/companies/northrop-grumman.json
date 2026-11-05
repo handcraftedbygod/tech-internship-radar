@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 21,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 34,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 40,
+  "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 34
+      "count": 40
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 33
     },
     {
       "id": "ai",
@@ -26,7 +26,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -40,10 +40,52 @@
     0,
     0,
     23,
-    11,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1df1c6b5a970a76a31f7094aa03365f56452f54f",
+      "title": "Electrical Engineer - Digital Hardware Design (Master's)",
+      "url": "https://go.vansh.nyc/1hF",
+      "location": "Dulles, VA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "2a4838dcd920e9ae4bbc63623111e50c545a13a0",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1h5",
+      "location": "McClellan, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "16f92359ce252f09c4e386c6ee5dd5db95178c03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gn",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "f2f1049096c9ca524b215a52852fd913b3f294de",
+      "title": "Cybersecurity Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gl",
+      "location": "Clearfield, UT",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "09e9c13d5e8d8d6747b609eaf17361d34bb7e829",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gk",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "dacb5e748cba159adf15638feacd2a7e48699b1a",
+      "title": "Software Test Engineering Intern",
+      "url": "https://go.vansh.nyc/1gj",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "cdfd3e44ae7c8140357d62282393955e2ad1081f",
       "title": "Associate Software Embedded Engineer",
@@ -71,48 +113,6 @@
       "url": "https://go.vansh.nyc/1e5",
       "location": "Redondo Beach, CA",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "6d9c4750bbdd76c17e3ad855feb91745848a7f21",
-      "title": "Flight Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1dV",
-      "location": "Manhattan Beach, CA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "0d87ce973ed98419148906a0522518e2c5fd8d19",
-      "title": "Engineering Software Tool Development Intern, Field Engineering",
-      "url": "https://go.vansh.nyc/1dO",
-      "location": "Baltimore, MD",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "c4d5b9b095b0d3d529071ae2c5fe5bba86de14c1",
-      "title": "Cyber Systems Engineer Intern",
-      "url": "https://go.vansh.nyc/1dD",
-      "location": "Roy, UT",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "810ccbb3065d3512b9c4e62d7adaac3f95968340",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1d8",
-      "location": "Linthicum, MD",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "7fe8b4480735e9c457d212bd2f0961d0ea454ea3",
-      "title": "Engineering Intern, Software, Mission Assurance, Quality",
-      "url": "https://go.vansh.nyc/19N",
-      "location": "Chandler, AZ",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "5be288415df2388e57c8ced1cde121fd622e4c22",
-      "title": "Engineering Software and Analysis Intern",
-      "url": "https://go.vansh.nyc/19x",
-      "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "slug": "edited",
-  "name": "EDITED",
+  "name": "Edited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e34f867574531bfec604017ccb72cdbe41873468",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/edited/junior-data-scientist-london-53024",
+      "location": "London Office",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "9901bc47c75444f7b2f1c2c8ddf67ef8f7d0da08",
       "title": "Junior Data Scientist",

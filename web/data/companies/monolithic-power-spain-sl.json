@@ -2,21 +2,21 @@
   "slug": "monolithic-power-spain-sl",
   "name": "Monolithic Power Spain S.L.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "159995e14bb98e27a24761a3a8ed04e9edd3ccd6",
+      "title": "Software Engineer Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366301724__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "3a79f668208895729202d9c47a8fd32d9ce18bda",
       "title": "Junior Frontend/Full-Stack Engineer (React/Next.js)",

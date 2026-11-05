@@ -1,0 +1,52 @@
+{
+  "slug": "epta",
+  "name": "EPTA",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bd3bccaf2534823dd475ac36695ade1dc3aa8c8f",
+      "title": "Stagiaire Service Recherche & Essais en Data Science H/F",
+      "url": "https://fa-eukp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3165?utm_source=freehire.me",
+      "location": "Hendaye, France",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "af8d51b14be800dffdb67a7126904bcac8dfec89",
+      "title": "Stagiaire Service Recherche & Essais en Data Science H/F",
+      "url": "https://fa-eukp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/3165?utm_source=freehire.me",
+      "location": "Hendaye, France",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

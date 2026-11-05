@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 24,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 44,
-  "avgPostingDurationDays": 9.3,
+  "totalPostings": 45,
+  "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 43
+      "count": 44
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 38
+      "count": 39
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    13,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7145778cfb12ba784621a7b195c007e9fc99d9bc",
+      "title": "Infrastructure Engineer I",
+      "url": "https://go.vansh.nyc/1hj",
+      "location": "West Valley City, UT",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "b38a2db025610d55dd44069e13b394b764222e4d",
       "title": "Control/Diagnostic Software Intern",
@@ -113,13 +120,6 @@
       "id": "f7015ad98e61497d55bbb7110dfa62f1303c2cbc",
       "title": "Software Engineering Co-op, AGS",
       "url": "https://go.vansh.nyc/1cQ",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "5a93ccacc5f4b227ae1991cadb1f077c48945147",
-      "title": "Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/1cP",
       "location": "Cedar Rapids, IA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }

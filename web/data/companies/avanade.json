@@ -2,13 +2,17 @@
   "slug": "avanade",
   "name": "Avanade",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6583b0d0b096447e454f2fe0c173cf8741f576aa",
+      "title": "Stagiaire en Développement Logiciel Fullstack",
+      "url": "https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Paris-Issy-Bords-de-Seine-1/Stagiaire-en-Dveloppement-Logiciel-Fullstack_R00369207?utm_source=freehire.me",
+      "location": "Paris, Issy Bords de Seine 1",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "ed21d33b6f95c5d6be5463ac7f60e8cbc94070bc",
       "title": "Junior Data Engineer Microsoft Fabric & Azure",

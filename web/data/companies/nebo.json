@@ -1,0 +1,59 @@
+{
+  "slug": "nebo",
+  "name": "Nebo",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "04f07c8ec8968041556e6e963d92238ea15c91fc",
+      "title": "Back-End Engineering Intern",
+      "url": "https://go.vansh.nyc/1i8",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "8fc5ecdf991063cabd4f26a0e0eb57e541173272",
+      "title": "Front-End Engineering Intern",
+      "url": "https://go.vansh.nyc/1i7",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "ceff3ca15eab1d65130cdf68d8173a209c4f3849",
+      "title": "Web Development Intern",
+      "url": "https://go.vansh.nyc/1i6",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "m-t-bank",
   "name": "M&T Bank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1e7ce14a65f680ac9d1b6f5fcd36723d8a4f052",
+      "title": "New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer",
+      "url": "https://go.vansh.nyc/1he",
+      "location": "Buffalo, NY",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "20685f4a69be9d7a9de92a221221f273ad34c910",
+      "title": "New Grad 2027: Technology Development Program - Operating Systems Engineer",
+      "url": "https://go.vansh.nyc/1hd",
+      "location": "Buffalo, NY",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "d87ea533c07393e152b9c4a3a2874c680d08d604",
       "title": "Technology Intern, Software Engineering, Enterprise API Services Development Team",

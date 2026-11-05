@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 7
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     }
   ],
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74ec72086e1dd7e4aea40ed43812c6c0e837b594",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1gB",
+      "location": "Denton, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "5a90b64f731c28b0ea022738e9b93c5f81f28dda",
       "title": "Software Developer Intern",
@@ -106,13 +113,6 @@
       "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
       "location": "Kirkland, WA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "6d0a899cc8e7974d30936cdf056206510e85e6de",
-      "title": "Field Service Data Analyst Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

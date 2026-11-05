@@ -2,14 +2,14 @@
   "slug": "lidl-stiftung-co-kg",
   "name": "Lidl Stiftung & Co KG",
   "tier": null,
-  "currentOpenings": 32,
+  "currentOpenings": 34,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 35,
+  "totalPostings": 37,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 34
+      "count": 36
     },
     {
       "hub": "Karlsruhe",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 33
+      "count": 35
     },
     {
       "id": "swe",
@@ -39,10 +39,24 @@
     2,
     0,
     12,
-    21,
+    23,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4cd6221a6ff793ec07bc491509c44b5c8520c1b9",
+      "title": "Praktikum Data Analytics & Digitalisierung",
+      "url": "https://de.whatjobs.com/pub_api__cpl__501834143__7078?utm_campaign=publisher&utm_medium=api&geoID=6&utm_source=freehire.me",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "f660e85cd782e5c2f06a17d7c37ad6c7ee133746",
+      "title": "Praktikum Data Science",
+      "url": "https://de.whatjobs.com/pub_api__cpl__501816041__7078?utm_campaign=publisher&utm_medium=api&geoID=672&utm_source=freehire.me",
+      "location": "Bad Mergentheim, Germany",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "affafe488e0b176a41faf3d0edb8663705d32479",
       "title": "Praktikum Data Analytics & Digitalisierung",
@@ -98,20 +112,6 @@
       "url": "https://www.adzuna.de/land/ad/5948601813?se=LhS83-7V8RGNdZjFkv2-mw&utm_medium=api&v=398270F977B1EB00F28E0AAF166AA28C1D5A0F33&utm_source=freehire.me",
       "location": "Deutschland",
       "firstSeenAt": "2026-11-02T12:02:27.024Z"
-    },
-    {
-      "id": "b3a4a322f08f16347c3c75ee58d2a85e2cc75cba",
-      "title": "Praktikum Data Science - Immobilien",
-      "url": "https://www.adzuna.de/land/ad/5948601810?se=LhS83-7V8RGNdZjFkv2-mw&utm_medium=api&v=BFD2837379D4617843991939B0CD1448CED502C9&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-02T12:02:27.024Z"
-    },
-    {
-      "id": "1916091a59f6abf1f26461230a242cd8aee48eed",
-      "title": "Praktikum Data Analytics & Digitalisierung",
-      "url": "https://de.whatjobs.com/pub_api__cpl__500057344__7078?utm_campaign=publisher&utm_medium=api&geoID=2779&utm_source=freehire.me",
-      "location": "Dresden, Germany",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]
 }

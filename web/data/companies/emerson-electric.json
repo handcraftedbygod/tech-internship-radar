@@ -2,14 +2,18 @@
   "slug": "emerson-electric",
   "name": "Emerson Electric",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c82c5792b8747f886ba95278213e627d5d224a36",
+      "title": "Embedded Software Engineer - AI - Web",
+      "url": "https://go.vansh.nyc/1hD",
+      "location": "Marshalltown, IA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "acc5c3203736d481eee7f5711f525d81256e6abc",
       "title": "Software Engineering Intern",

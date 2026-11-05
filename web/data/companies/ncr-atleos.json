@@ -1,0 +1,57 @@
+{
+  "slug": "ncr-atleos",
+  "name": "NCR Atleos",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4ded2fc7cef1ef5396b466132a18098837ed1c31",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1hM",
+      "location": "Atlanta, GA, Frisco, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "acf6d15432bb2638cd4ca0c4c806924b33f52273",
+      "title": "Technology Intern",
+      "url": "https://go.vansh.nyc/1hL",
+      "location": "Atlanta, GA, Frisco, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

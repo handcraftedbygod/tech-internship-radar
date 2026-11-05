@@ -2,26 +2,26 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 10,
+  "totalPostings": 13,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,31 @@
     0,
     0,
     9,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3663618b9e62aa963c840a022a07c51ab240102d",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1i0",
+      "location": "Manassas, VA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "f22ff9ba735035be0f63e5442e04806c9d2794c2",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hX",
+      "location": "Port Orchard, WA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "5d3f2c3cd3dc448b0ae600cc027b684e96f576d5",
+      "title": "Electrical Engineering Intern, FPGA",
+      "url": "https://go.vansh.nyc/1hW",
+      "location": "Middletown, RI",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "53f846fc2b5fa69b89aa3ceb03ec61852702fade",
       "title": "DevOps Engineer Intern",
@@ -87,27 +108,6 @@
       "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job",
       "location": "Pittsburgh, PA",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "761555255405c62a1193a5872ee53817e03b0d84",
-      "title": "Software Engineer Intern, Crypto and Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job",
-      "location": "Taunton, MA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "d17c42093c229dab2c4db2d9c2108910d4d405bd",
-      "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
-      "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job",
-      "location": "Scottsdale, AZ",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "bc1f0684388035e86326fa5dc862aa6130f5a8c9",
-      "title": "Cyber Engineering Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job",
-      "location": "Middletown, RI",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

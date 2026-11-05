@@ -2,14 +2,14 @@
   "slug": "quantum-systems",
   "name": "Quantum-Systems GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,16 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +40,24 @@
     1,
     1,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8f85fe4aa9f80af69ebe3c9ae49ed8dbf989bae2",
+      "title": "Intern - Machine Learning 12 months (m/f/d)",
+      "url": "https://career.quantum-systems.com/o/intern-machine-learning-12-months-mfd?utm_source=freehire.me",
+      "location": "Gilching, Bayern, Germany",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "4f5cf9a8e9492996af756f95122a4566d37e9b68",
+      "title": "Embedded Software Engineer – Working Student / Intern Position (Full-Time, 12 Months) (m/f/d)",
+      "url": "https://career.quantum-systems.com/o/embedded-software-engineer-working-student-intern-position-full-time-12-months-mfd?utm_source=freehire.me",
+      "location": "Gilching, Bayern, Germany",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "7b07782d054111dde45b0f0dea290a249c131d45",
       "title": "Working Student - Software Engineering (m/f/d)",

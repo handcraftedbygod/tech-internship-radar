@@ -2,14 +2,14 @@
   "slug": "safran",
   "name": "Safran",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52942ebc2cc811a3306f516f6ee7eed9dff6a2d4",
+      "title": "Stagiaire Data Engineer F/H",
+      "url": "https://safran.profils.org/offre-de-emploi/emploi-stagiaire-data-engineer-f-h_191773.aspx?utm_source=freehire.me",
+      "location": "Europe, France, Ile de France, YVELINES (78)",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "40a0d791012f226b062088708b81eb4d94b5b037",
       "title": "Software Engineering Intern",

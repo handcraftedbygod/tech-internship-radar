@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 12,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 41,
-  "avgPostingDurationDays": 27.6,
+  "totalPostings": 42,
+  "avgPostingDurationDays": 28.4,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -16,12 +16,12 @@
       "count": 8
     },
     {
-      "hub": "Paris",
+      "hub": "Amsterdam",
       "count": 6
     },
     {
-      "hub": "Amsterdam",
-      "count": 5
+      "hub": "Paris",
+      "count": 6
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "biz",
@@ -56,10 +56,17 @@
     8,
     14,
     12,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "29019ce11feac2ea2147d8d12709d0c6e0dd4396",
+      "title": "Culinary Intern (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8352477?gh_jid=8352477",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "cf75a5f5f56a4bf43135b6b7dbff14d4c5a1a204",
       "title": "Intern Menu Planning & Ingredients (f/m/x)",
@@ -122,13 +129,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996",
       "location": "Dublin, Dublin, Ireland",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "2f973b931d42c728605f35bf9817356c01fdde22",
-      "title": "[PL] Junior Indirect Cost Controller",
-      "url": "https://careers.hellofresh.com/global/en/job/8246057?gh_jid=8246057",
-      "location": "Wrocław, Lower Silesian Voivodeship, Poland",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }
   ]
 }

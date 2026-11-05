@@ -1,0 +1,56 @@
+{
+  "slug": "datavisor",
+  "name": "DataVisor",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Vancouver",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "35f4c8613953666385f2937a94da15769f8517db",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hA",
+      "location": "Remote, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "dd0977788b70b2636fe19feec7c203f4ed1e9317",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hq",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

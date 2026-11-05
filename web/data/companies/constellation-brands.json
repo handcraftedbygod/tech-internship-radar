@@ -2,21 +2,21 @@
   "slug": "constellation-brands",
   "name": "Constellation Brands",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9006a785eb1b7a3c526342629f1ac0b122cac8b",
+      "title": "AI & Automation Engineering Intern",
+      "url": "https://go.vansh.nyc/1h2",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "36fc52f06870721d0d2079a7e1a51c9d02a7df74",
       "title": "Intern, Full Stack Engineer",

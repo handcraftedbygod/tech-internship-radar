@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 24,
+  "totalPostings": 25,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "San Francisco",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     2,
     2,
     18,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "11affb4eaf3259ee99d6833d623f3bb73544e1ba",
+      "title": "Machine Learning and Image-Based EUV System Setup Intern",
+      "url": "https://go.vansh.nyc/1h9",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "7a5d4fd4935bbe4f8a37811a3a7346938d816a38",
       "title": "Business Intelligence | Data Analytics internship: cost insights dashboard",
@@ -103,13 +110,6 @@
       "id": "6d00d4314c8e79852e874cf092591275283d313d",
       "title": "Platform Software Engineer In Test Intern",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "cad920960ab39d4956b02473679929d9b62db8fd",
-      "title": "Software Quality Assurance Intern",
-      "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }

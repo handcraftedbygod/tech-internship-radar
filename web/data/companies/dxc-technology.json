@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 12,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ce01aef2f8429a6aba34abc2e77fb94fe52f8eb",
+      "title": "Junior Oracle Database and Infrastructure Engineer",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK114---BelfastUnited-KingdomUK114/Junior-Oracle-Infrastructure---Database-Engineer_51593405?utm_source=freehire.me",
+      "location": "UK114 - Belfast,United Kingdom(UK114)",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "e943fb60ee8445a6926cc0ab70b7992a4e9e5651",
       "title": "Junior Software Developer",

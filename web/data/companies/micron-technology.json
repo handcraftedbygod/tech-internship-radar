@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 14,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 9,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "San Francisco",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "design",
+      "label": "Design",
       "count": 8
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 7
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 8
     },
     {
       "id": "swe",
@@ -53,10 +53,17 @@
     1,
     0,
     18,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6af94aa15ab3ebb143f306fff6b3111b895617ff",
+      "title": "DRAM Design Engineer Intern",
+      "url": "https://go.vansh.nyc/1h3",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "e4141bc1752bd351c480862edf968e4cd6660e39",
       "title": "Engineer, Edge Systems Architecture",
@@ -119,13 +126,6 @@
       "url": "https://go.vansh.nyc/Z8",
       "location": "Minneapolis, MN",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "5949cfb4da8b363333dd2d1df6d5798abf9a691e",
-      "title": "Embedded Software Engineering Intern",
-      "url": "https://go.vansh.nyc/XX",
-      "location": "Boise, ID",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

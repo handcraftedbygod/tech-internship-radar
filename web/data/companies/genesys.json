@@ -2,25 +2,25 @@
   "slug": "genesys",
   "name": "Genesys",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     0,
     1,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a522d9d68719b5471bba22513dd0df44b1e8a1b4",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1hK",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "0561eae5e5897b87a882e59273739068913c76b4",
+      "title": "Web Software Developer Intern, WFM",
+      "url": "https://go.vansh.nyc/1hJ",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "09090ff5bab4276f53d516f5167ff3532b120567",
       "title": "Associate Software Developer in Test",

@@ -2,14 +2,14 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Vancouver",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -43,10 +43,17 @@
     1,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9fc2559fc7ce3d2a24182eb1d6b50957f0ccfae1",
+      "title": "Field Robotics Systems Engineer",
+      "url": "https://go.vansh.nyc/1gC",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "a60f5939cb256744a4a4988f97cc96f17395dd57",
       "title": "Embedded Systems Co-op",

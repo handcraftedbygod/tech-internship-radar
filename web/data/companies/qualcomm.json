@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 30,
-  "avgPostingDurationDays": 9.2,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 22
     },
     {
       "hub": "Vancouver",
@@ -24,12 +24,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     },
     {
       "id": "hw",
@@ -53,10 +53,24 @@
     0,
     0,
     28,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "101ab231bfc6fc1c2c88ec58839982e17fce6590",
+      "title": "Display IP FPGA Emulation Intern",
+      "url": "https://go.vansh.nyc/1hp",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "f0708c59b3cbf94562f562e536cdb3792ba6a566",
+      "title": "Machine Learning Engineering Intern",
+      "url": "https://go.vansh.nyc/1ho",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "2b3c7c1e4ab6a327edc587bcac491f72385dd61f",
       "title": "Verification Engineer Intern",
@@ -112,20 +126,6 @@
       "url": "https://go.vansh.nyc/ZK",
       "location": "Toronto, Canada",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "e9f6a8edafb79a5f81c95cbe2ef356a230c3db5a",
-      "title": "Deep Learning Research Intern",
-      "url": "https://go.vansh.nyc/YP",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "ff7b8976bf800926fb5ad092ff4962d9a34f1339",
-      "title": "Camera Design Engineering Intern",
-      "url": "https://go.vansh.nyc/Yi",
-      "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

@@ -2,26 +2,26 @@
   "slug": "zebra-technologies",
   "name": "Zebra Technologies",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     2,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae3ef6ec5fa9ef0250aea33fba22ce2092b11ce2",
+      "title": "Software Engineer Intern, AI Features & Product Convergence",
+      "url": "https://go.vansh.nyc/1gx",
+      "location": "Kennesaw, GA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "5c49d4b27b33f032d7ff33f6f8e2e51d5f7a1e8e",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1gw",
+      "location": "Germantown, MD",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "18d5333dd1ee8e4a8072a0c0fc5057094105606b",
       "title": "AI Intern",

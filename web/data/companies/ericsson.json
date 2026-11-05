@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 18,
+  "totalPostings": 22,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 10
     },
     {
       "hub": "Lodz",
@@ -22,18 +22,22 @@
     {
       "hub": "Krakow",
       "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 19
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -47,10 +51,38 @@
     5,
     5,
     7,
-    1,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b8e2416e633e13e5491b1b0855d1ea1fa33c6f7",
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.ericsson.com/careers/job/563121777263579-data-scientist-intern-madrid-madrid-spain?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Madrid,Madrid,Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "531044631a7625f9c62133312ba791d03fff13d1",
+      "title": "Technology and AI Intern",
+      "url": "https://go.vansh.nyc/1gz",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "1b3ec62d6ddee9334070ef9cc2b0c120d46b05a9",
+      "title": "Junior Cloud RAN Layer 1 SW Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDg5OSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "ae8c97039980c95d5ecc1c72cbb89b79abf6c4e4",
+      "title": "Junior BB SW Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDkwNyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "85f0640ad4563518e89c5aefe37f804af1e24ebc",
       "title": "Junior Cloud RAN Layer 1 SW Developer",
@@ -92,34 +124,6 @@
       "url": "https://jobs.ericsson.com/careers/job/563121777400328-junior-software-developer-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
       "location": "Łódź,Łódź,Poland",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "5d9cc88bcc396a03836ced02e3dbe3c3abeff52b",
-      "title": "Junior Baseband Software Developer",
-      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31580471?utm_source=freehire.me",
-      "location": "Stockholm, Stockholms län, Sverige",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "a968066c1eccbce6a5a807f7f1971cf0cad8ebe2",
-      "title": "Junior Baseband Software Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjMzMjYxMSAxMjE?lang=en",
-      "location": "Sweden",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "00066e6412b1483b8d5eea9dd631d275a844da6c",
-      "title": "Junior C or C++ Developer for 6G Simulator",
-      "url": "https://jobs.ericsson.com/careers/job/563121777114598-junior-c-or-c-developer-for-6g-simulator-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Łódź,Łódź,Poland",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "4359d957e65a1cdd156605bf99bb5a1dca53f3d0",
-      "title": "Junior Software Developer - Radio Synchronization",
-      "url": "https://jobs.ericsson.com/careers/job/563121777202467-junior-sw-developer-radio-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Stockholm,Stockholm,Sweden",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

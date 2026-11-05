@@ -2,14 +2,14 @@
   "slug": "general-motors",
   "name": "General Motors",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Dublin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "97a405e1ce6ed0f8ce902a61ebff878b9affa73e",
+      "title": "Software Systems Engineer, Data Labeling Engineering",
+      "url": "https://go.vansh.nyc/1h6",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "956a063a4b40449c7bff3e8f7728bacd833450e0",
       "title": "Java Software Engineer Intern",
@@ -108,13 +115,6 @@
       "title": "Research and Development Intern, AI/Machine Learning",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
       "location": "Mountain View, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "3fde3b560bee168c1ab132266ba0cce8aa2da01f",
-      "title": "Research and Development Intern, Machine Learning for Automation",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
-      "location": "Warren, MI",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Austin",
@@ -25,7 +25,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9f4000b25b1e9ef90b433ffc9a404974f5a23d62",
+      "title": "R&D DSP/FPGA Design Automation Intern",
+      "url": "https://go.vansh.nyc/1hn",
+      "location": "Santa Rosa, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "7d2cebffa6da3b2f068d8a9527e05c4521aa3897",
       "title": "DevSecOps Intern",
@@ -110,13 +117,6 @@
       "url": "https://jobs.keysight.com/jobs/55151?icims=1",
       "location": "Calabasas, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "f820160e7937f9729781037a2f44afde18c43ad6",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.keysight.com/jobs/55115?icims=1",
-      "location": "Calabasas, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "takeaway",
   "name": "takeaway",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     1,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "adcbff9080c1185df49ea17789d46dd3fc0e22a9",
+      "title": "Junior Data Engineer",
+      "url": "https://wd3.myworkdaysite.com/recruiting/takeaway/JET-ECS-R/job/Amsterdam-Office/Junior-Data-Engineer_R_053797?utm_source=freehire.me",
+      "location": "Amsterdam Office",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "68f42353ede5ef64c12342121c5fc43ea687a8b0",
       "title": "Junior Software Engineer",

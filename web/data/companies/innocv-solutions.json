@@ -2,9 +2,9 @@
   "slug": "innocv-solutions",
   "name": "INNOCV Solutions",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -39,10 +39,17 @@
     0,
     0,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7842f447e2624510299d951c7a92857db2916333",
+      "title": "Junior Backend Go Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__367872724__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "ef8d85c5e87d7abc222ad91a941b4766d283757c",
       "title": "Junior Backend Go Developer",

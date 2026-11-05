@@ -2,9 +2,9 @@
   "slug": "amd",
   "name": "AMD",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +43,17 @@
     4,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "555067324b8a12fc0a7f52d3a298469269d9c101",
+      "title": "Senior Systems Design Engineer Intern",
+      "url": "https://go.vansh.nyc/1hu",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "630bfd5bf2313927243e671502bf4b54aaeccc03",
       "title": "Software Engineer Intern",

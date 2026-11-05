@@ -2,21 +2,21 @@
   "slug": "gm-financial",
   "name": "GM Financial",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     3,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "784df21b46c3c7865645206edd8e9f86a2667c2b",
+      "title": "Cloud Engineer Intern",
+      "url": "https://go.vansh.nyc/1hc",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "545150bd4118234fcec37d95cc5d1491f4182588",
       "title": "Data Engineer Intern",

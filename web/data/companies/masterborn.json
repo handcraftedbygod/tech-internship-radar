@@ -2,21 +2,21 @@
   "slug": "masterborn",
   "name": "MasterBorn",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     5,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64ce9cf41a9dafd59fa7c2ec5bbdd204b6c8ee35",
+      "title": "Junior Backend Developer (Python)",
+      "url": "https://jobs.lever.co/masterborn-2/d283927e-859f-438d-a75b-04fa1e1b78be?utm_source=freehire.me",
+      "location": "Wrocław",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "f382bbc56cb696fe9f69d13f7e85049446756cf7",
       "title": "Junior Frontend Developer @ MasterBorn",

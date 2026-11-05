@@ -2,14 +2,14 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Madrid",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 4
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 4
     },
     {
@@ -44,10 +44,17 @@
     1,
     0,
     8,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e2e0fb4baf951a5e3d116278bc6a229866ac4f8",
+      "title": "Software Engineering Co-op, Urology R&D",
+      "url": "https://go.vansh.nyc/1gJ",
+      "location": "Maple Grove, MN",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "0f421d3fe386f1ac3e858a35693b84f40f229060",
       "title": "Software Test Engineer Intern",

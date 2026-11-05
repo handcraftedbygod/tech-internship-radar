@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 163,
+  "currentOpenings": 164,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 287,
+  "totalPostings": 288,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 231
+      "count": 232
     },
     {
       "hub": "Seattle",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 109
+      "count": 110
     },
     {
       "id": "biz",
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    161,
+    162,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4166e755d389f68d0b603cf434e40383ced0231b",
+      "title": "Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)",
+      "url": "https://www.themuse.com/jobs/tiktok/machine-learning-engineer-intern-tiktok-bric-2027-start-phd",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "6b2b92a8e4d4237b9fcc29403c9bfd1af3914cff",
       "title": "New Grad 2027: Machine Learning Engineer (Lead Ads)",
@@ -117,13 +124,6 @@
       "id": "eb07ff304504304c74ff1718e37f68aea81e120f",
       "title": "New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation",
       "url": "https://go.vansh.nyc/17h",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "aed4f3bd4920c838060cb0d1eec26f47291a0914",
-      "title": "New Grad 2027: Software Engineer, Business Integrity",
-      "url": "https://go.vansh.nyc/17g",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

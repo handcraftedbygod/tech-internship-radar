@@ -2,10 +2,10 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 12,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 18,
-  "avgPostingDurationDays": 25.7,
+  "totalPostings": 19,
+  "avgPostingDurationDays": 25.1,
   "topLocations": [
     {
       "hub": "Zurich",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Toronto",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
@@ -61,10 +61,17 @@
     0,
     0,
     18,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d85357a872301b00797fff0f85d5b1647393c2bd",
+      "title": "Content Enablement Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884",
+      "location": "San Francisco, CA, US; Remote, US",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "10ec099a3b65725d95df4b56667314f566349441",
       "title": "Solutions Engineer Intern 2027 (USA)",
@@ -126,13 +133,6 @@
       "title": "Software Engineer Intern 2027 (USA)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
       "location": "San Francisco, CA, US; Remote, US",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "85dce63079415e91840a01ae4a8629dbcc926649",
-      "title": "Software Engineering Intern 2027 (Zurich)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745",
-      "location": "Zurich, CH",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

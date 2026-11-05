@@ -1,0 +1,52 @@
+{
+  "slug": "techinsights",
+  "name": "TechInsights",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "19b8126b55a5596bc7b5ccae9efb2dd8748d7651",
+      "title": "QA Test Automation Co-op",
+      "url": "https://go.vansh.nyc/1if",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "8dcca5e314a54701e707308ae18896df83f05b1b",
+      "title": "Software Development Co-op",
+      "url": "https://go.vansh.nyc/1ie",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

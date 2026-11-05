@@ -1,0 +1,59 @@
+{
+  "slug": "plusgrade",
+  "name": "Plusgrade",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fe571398696115a13ecd84400ce2c131fe6599ec",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1gR",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "4a351042166b6c0c44933eb9f120631ff485f6b5",
+      "title": "Applied AI Test Engineer Intern",
+      "url": "https://go.vansh.nyc/1gu",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "1e80d68a7ea73aef076c051ce453407bb7fda98b",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1gq",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

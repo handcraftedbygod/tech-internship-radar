@@ -2,30 +2,38 @@
   "slug": "tencent",
   "name": "Tencent",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Amsterdam",
+      "count": 1
+    },
+    {
+      "hub": "Los Angeles",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +47,38 @@
     0,
     0,
     2,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b23a4f8b7eeda1a357264b78be2789577b29f9df",
+      "title": "Site Reliability Engineer (SRE) Intern, AI Infrastructure",
+      "url": "https://go.vansh.nyc/1hQ",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "4b9e9d1f30284e75e7127a91560cc78433a94b60",
+      "title": "Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal",
+      "url": "https://go.vansh.nyc/1hP",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "8f40e8c82d80b31a3841322bd3e2d6a142dfae9a",
+      "title": "Game Research & Development Intern, Engine Research",
+      "url": "https://go.vansh.nyc/1hO",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "54e7a1566af0fadc7bdefbd5201b3a8c24b6f668",
+      "title": "Game Research & Development Intern, Engine Research",
+      "url": "https://go.vansh.nyc/1hN",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "aad849d0cbcb788106053f25277002c45505783a",
       "title": "SRE Intern",

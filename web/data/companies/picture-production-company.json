@@ -1,0 +1,52 @@
+{
+  "slug": "picture-production-company",
+  "name": "Picture Production Company",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-05T12:11:49.862Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "33ede9dd76b50a7fe1c544d3ac83e8d0d70eb31b",
+      "title": "Junior Full-Stack Developer for Creative Tech & Automation",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__604417225__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "2d39d29d0d2babab303a7a2e9bcf75f26d176715",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__604416687__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    }
+  ]
+}

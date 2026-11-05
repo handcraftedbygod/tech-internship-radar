@@ -2,9 +2,9 @@
   "slug": "procter-gamble-p-g",
   "name": "Procter & Gamble (P&G)",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
@@ -18,6 +18,10 @@
     {
       "hub": "Lisbon",
       "count": 1
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -29,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,10 +47,17 @@
     1,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "35d71d90360fec5fb9e954453c24004cda00715d",
+      "title": "DevOps Engineer Trainee",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/DevOps-Engineer-Trainee_R000161777?utm_source=freehire.me",
+      "location": "WARSAW PLANT & GO",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "3976ad986b66938f51042ad5a0d03f2c76ebd271",
       "title": "Data Engineer Internship (m/f/x)",

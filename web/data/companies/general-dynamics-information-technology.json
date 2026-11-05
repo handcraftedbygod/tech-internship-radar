@@ -2,14 +2,14 @@
   "slug": "general-dynamics-information-technology",
   "name": "General Dynamics Information Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 8,
+  "totalPostings": 11,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Paris",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     0,
     5,
     3,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d278a7e89fe4fa13367ead41f7f97c00af81ae4",
+      "title": "AI/ML Software Development and Engineering Intern",
+      "url": "https://go.vansh.nyc/1hT",
+      "location": "Bossier City, LA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "e708002ec07cd0a3f66aff0eb9a5dbd776752a31",
+      "title": "AI/ML Data Science and Engineering Intern",
+      "url": "https://go.vansh.nyc/1hS",
+      "location": "Bossier City, LA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "0726cf72ad15ab713c12546a0b0f189e922bc405",
+      "title": "Cybersecurity Associate Intern",
+      "url": "https://go.vansh.nyc/1hR",
+      "location": "Bossier City, LA",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "251574d0c365e1009fd46efdb5e012598fcd21bd",
       "title": "AI and Estimation Intern",
@@ -91,13 +112,6 @@
       "url": "https://www.adzuna.com/land/ad/5897742258?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=D380A1BBC77C9466042874FA2C14AAA2F2957301",
       "location": "Bossier City, Bossier Parish",
       "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "41d03cc66bddb2d2c7cc2f27828675af8187b32f",
-      "title": "GDIT Summer Internship Program - Summer 2027 Cybersecurity Associate Internship",
-      "url": "https://www.adzuna.com/land/ad/5897261619?se=gmbdncK48RGj3rbruZk4CQ&utm_medium=api&utm_source=9141e2e6&v=42ADF83DD806EF8372D4044FFC49CDA0E1EDE3FC",
-      "location": "US",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

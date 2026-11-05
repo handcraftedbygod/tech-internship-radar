@@ -2,13 +2,17 @@
   "slug": "microchip-technology",
   "name": "Microchip Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -16,7 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0e9e6df719f391e89bbd10bfa49660fec072f12",
+      "title": "Engineer 1 - Design",
+      "url": "https://go.vansh.nyc/1hC",
+      "location": "Hauppauge, NY",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
+    {
+      "id": "4e80a6ac93cad7040f8a995f8bf484a16da867e7",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1gQ",
+      "location": "Gresham, OR",
+      "firstSeenAt": "2026-11-05T12:11:49.862Z"
+    },
     {
       "id": "019f04776f691963f0976ff520bc58b01d09ee20",
       "title": "Engineering Intern, ASIC Verification",
