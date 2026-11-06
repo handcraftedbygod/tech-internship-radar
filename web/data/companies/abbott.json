@@ -2,20 +2,25 @@
   "slug": "abbott",
   "name": "Abbott",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-14T09:19:46.299Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d2c9e55b91440aac650aa1e99a414ea20bca724",
+      "title": "Software Test Engineer",
+      "url": "https://go.vansh.nyc/1iZ",
+      "location": "Pleasanton, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "6c29dc99dbe9866e4a0e05aab616874778c91065",
       "title": "Intern Data Science - Future Talent Program",

@@ -2,25 +2,25 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Helsinki",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -39,10 +39,24 @@
     0,
     1,
     5,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4cbc31649f3f2034c852e2d0413f0322ff115e8",
+      "title": "Junior Software Test Engineer, Vaisala, Vantaa",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/967c091b-80d0-4d29-85d0-cd0cfb264a93/en?utm_source=freehire.me",
+      "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "f28eda95593e4be75d976695e200000987d27eb1",
+      "title": "Junior Software Test Engineer, Vaisala, Vantaa",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTY3YzA5MWItODBkMC00ZDI5LTg1ZDAtY2QwY2ZiMjY0YTkzIDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "fbb6cee99fa5c3968f15db50211ff19574cf2039",
       "title": "Junior Software Developer - AI & Monitoring Systems",

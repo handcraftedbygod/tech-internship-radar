@@ -2,14 +2,14 @@
   "slug": "parsons",
   "name": "Parsons",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2b3a66953fa775f3240168020f481679402d7d4e",
+      "title": "Embedded Developer Intern",
+      "url": "https://go.vansh.nyc/1iA",
+      "location": "Columbia, MD",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "0a2c783eba0a0e29047c13f2282c576cb4510912",
       "title": "Software Engineering Intern",

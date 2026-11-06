@@ -1,0 +1,45 @@
+{
+  "slug": "stubhub",
+  "name": "StubHub",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b2f42b91d67fc1abc5f1aad82adea9322f4aa749",
+      "title": "New Grad: Software Engineer I, Consumer Experience",
+      "url": "https://go.vansh.nyc/1iQ",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

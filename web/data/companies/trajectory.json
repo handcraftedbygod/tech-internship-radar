@@ -1,0 +1,52 @@
+{
+  "slug": "trajectory",
+  "name": "Trajectory",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9ab86df845c9077952128d1165845c6d965ca659",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/1jK",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "d940109c262212b411ad5bf964ee4861d418f881",
+      "title": "Member of Technical Staff Intern, Research",
+      "url": "https://go.vansh.nyc/1jJ",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

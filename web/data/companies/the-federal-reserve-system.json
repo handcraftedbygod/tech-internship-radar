@@ -2,21 +2,21 @@
   "slug": "the-federal-reserve-system",
   "name": "The Federal Reserve System",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d80d17f337716fef651a734ad747374e608277eb",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1iJ",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "bf6d756e7383c4e7df49086037eddf5decacf2e5",
       "title": "Supervision & Regulation Intern, Cybersecurity",

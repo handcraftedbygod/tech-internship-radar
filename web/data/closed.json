@@ -1,5 +1,85 @@
 [
   {
+    "id": "b74e3687a68068a9ab2db49849e4a2b15f3f8a3a",
+    "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+    "company": "Apple",
+    "companySlug": "apple",
+    "location": "Aachen",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "6aeaef60db8eea2cd6f2a5bd761e0048898bf906",
+    "title": "Compiler Software Engineer Intern",
+    "company": "NVIDIA",
+    "companySlug": "nvidia",
+    "location": "Redmond, WA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "30e4203c0cc18e5b7845103e9382e2ab2f3d1e90",
+    "title": "GPU Verification Engineer",
+    "company": "NVIDIA",
+    "companySlug": "nvidia",
+    "location": "Westford, MA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "8e356050d3ee1fea98fbfeac734eec3c7d05cf2d",
+    "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+    "company": "Amazon UK Services Ltd.",
+    "companySlug": "amazon-uk-services",
+    "location": "London, UK",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "5646b278978cae3a2959896a9d9c6ee8939843c9",
+    "title": "New Grad 2027: Formal Verification Engineer",
+    "company": "NVIDIA",
+    "companySlug": "nvidia",
+    "location": "Santa Clara, CA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "58e7885f8bd5f54a5bfbde012baab7ee61a0d0f7",
+    "title": "New Grad 2027: Deep Learning Performance Architect",
+    "company": "NVIDIA",
+    "companySlug": "nvidia",
+    "location": "Santa Clara, CA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "0323f171767872b9e10238c0a73f456a47861a47",
+    "title": "Database Engineer Intern",
+    "company": "Amazon",
+    "companySlug": "amazon",
+    "location": "Seattle, WA, East Palo Alto, CA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "5f739c3d4188b0be5f3ac0e28d81fd00e99f4e94",
+    "title": "Product Manager Intern",
+    "company": "Microsoft",
+    "companySlug": "microsoft",
+    "location": "Cambridge, MA",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "4e67b9b8275bdf9a4b7d0d212b3890799d2d104d",
+    "title": "Software Engineer Intern, Security & Identity",
+    "company": "Microsoft",
+    "companySlug": "microsoft",
+    "location": "United States",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
+    "id": "1517c0b6607c3e3dd9881a136b15f923ac620994",
+    "title": "Software Engineering Intern (2027)",
+    "company": "Databricks",
+    "companySlug": "databricks",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+    "closedAt": "2026-11-06T11:51:48.119Z"
+  },
+  {
     "id": "307b5b7b23c637c923e18c7582e6c144fbcd0469",
     "title": "Business Developer Intern, Early Careers 2027",
     "company": "Amazon",
@@ -77,86 +157,6 @@
     "company": "Amazon",
     "companySlug": "amazon",
     "location": "Austin, TX, Cupertino, CA",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "64422c3420313b055823269f26dc5af4173687a9",
-    "title": "Embedded Firmware Co-op",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "North Reading, MA, Westborough, MA",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "d3b72eb8d81961fc6b03aef612c9c71b92504583",
-    "title": "Software Engineer Intern, AWS Database",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "United States",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "5df2e3fdb213fe044e474837a70e776cc60a11dd",
-    "title": "ASIC Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Sunnyvale, CA",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "0483690fc4571520accbaa9f70a5baabf6eb98cc",
-    "title": "Software Engineer Intern, Embedded Systems",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "United States",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "9d2e36265ab343a8fe852fff8c6ab7de0575f47d",
-    "title": "Hardware Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Bellevue, WA",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "9ee873fedd47f01ba450ae5d6db9a432195feafa",
-    "title": "Junior Software Development Engineer Intern",
-    "company": "Amazon",
-    "companySlug": "amazon",
-    "location": "Detroit, MI",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "45c0b03ed0efc8334a885b0867ea9aa3f9a0f71a",
-    "title": "Deployment Strategist Intern, Warp Speed",
-    "company": "Palantir Technologies",
-    "companySlug": "palantir-technologies",
-    "location": "New York, NY",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "3128076792872e554059c532ab7d12f579fa8a07",
-    "title": "Forward Deployed Software Engineer Intern, Warp Speed",
-    "company": "Palantir",
-    "companySlug": "palantir",
-    "location": "New York, NY",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "9270e9186fb88a8fede03c5ee00d5b4434bcbae9",
-    "title": "Security Research Intern",
-    "company": "Microsoft",
-    "companySlug": "microsoft",
-    "location": "Redmond, WA",
-    "closedAt": "2026-11-05T12:11:50.917Z"
-  },
-  {
-    "id": "379a7f035695bc6502aae2358052f0c5319e91c6",
-    "title": "Software Engineer Intern, iCloud Platform",
-    "company": "Apple",
-    "companySlug": "apple",
-    "location": "London",
     "closedAt": "2026-11-05T12:11:50.917Z"
   }
 ]

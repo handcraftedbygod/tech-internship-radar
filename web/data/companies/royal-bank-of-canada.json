@@ -2,9 +2,9 @@
   "slug": "royal-bank-of-canada",
   "name": "Royal Bank of Canada",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Montreal",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -34,6 +34,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -47,10 +52,17 @@
     0,
     0,
     9,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbb1cb870626ff207b630fce766cffe3160c762b",
+      "title": "Software Developer Co-op, Quantitative Technology Services",
+      "url": "https://go.vansh.nyc/1jt",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "7ca5a399253bddc6b1ccc0a3b159ada11d881942",
       "title": "AI Engineer Co-op, Capital Markets, Global Equities",
@@ -112,13 +124,6 @@
       "title": "Developer Intern",
       "url": "https://go.vansh.nyc/OG",
       "location": "Halifax, Canada",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "05268efe4c89d9e20b1a9c2334f0923e08c3927d",
-      "title": "Data Engineer Intern",
-      "url": "https://go.vansh.nyc/OF",
-      "location": "Vancouver, Canada",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]

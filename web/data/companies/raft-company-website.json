@@ -1,0 +1,64 @@
+{
+  "slug": "raft-company-website",
+  "name": "Raft Company Website",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e6396a5336a4bbc30f2e3acddbf43a7dcda24192",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1jU",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "fff3f7b290df407df664e26303154b6e7a21691c",
+      "title": "DevOps Engineering Intern",
+      "url": "https://go.vansh.nyc/1jT",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "7b8034c1958a58f991d8bb0830358e7234cd9c79",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://go.vansh.nyc/1jS",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

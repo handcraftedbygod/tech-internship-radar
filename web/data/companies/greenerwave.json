@@ -1,0 +1,57 @@
+{
+  "slug": "greenerwave",
+  "name": "Greenerwave",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "958744c50ff22fcd1b4774327fed21bc74055763",
+      "title": "Machine Learning Engineer (F/M) – Internship",
+      "url": "https://www.welcometothejungle.com/en/companies/greenerwave/jobs/machine-learning-engineer-f-m-stage_paris?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "461effa5bac28bd6491d327e42e35216c02219eb",
+      "title": "Software Engineer (M/F) – Internship",
+      "url": "https://www.welcometothejungle.com/en/companies/greenerwave/jobs/software-engineer-m-f-internship_paris?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

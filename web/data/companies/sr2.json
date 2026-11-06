@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 11.8,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     1,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44066ccf653608e64c01496ae64097e125fa6259",
+      "title": "Junior AWS Data Engineer – SC Cleared, Kafka & Terraform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__598077985__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "2ca4b3aeeb6df2451b80ee7449f36b5bc1835f56",
       "title": "Junior Security Engineer",

@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 24,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 40,
+  "totalPostings": 41,
   "avgPostingDurationDays": 8.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 40
+      "count": 41
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 33
+      "count": 34
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     23,
-    17,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0750af1b18a2b42017b7c459387a477bca06a17",
+      "title": "New Grad 2027: Associate Cyber Systems Engineer",
+      "url": "https://go.vansh.nyc/1iB",
+      "location": "Roy, UT",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "1df1c6b5a970a76a31f7094aa03365f56452f54f",
       "title": "Electrical Engineer - Digital Hardware Design (Master's)",
@@ -105,13 +112,6 @@
       "title": "S/W Embedded Engineering Intern",
       "url": "https://go.vansh.nyc/1fW",
       "location": "Sykesville, MD",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "6a31b9f8c21b42695cba5c122dbea0d4af21d1a4",
-      "title": "Ground Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1e5",
-      "location": "Redondo Beach, CA",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]

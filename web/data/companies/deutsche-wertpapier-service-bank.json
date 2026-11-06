@@ -2,21 +2,21 @@
   "slug": "deutsche-wertpapier-service-bank",
   "name": "Deutsche Wertpapier- Service Bank AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "71e4ddf1539af05c9f80b62d25ff0ca8f71d2256",
+      "title": "Trainee Financial Data Analyst – Wertpapierverwahrung (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/19899-0068599622-S",
+      "location": "Eschborn, Taunus",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "0db5a794cb184f36dcfb1511d6ca8b5ce97f6749",
+      "title": "Trainee Financial Data Analyst – Wertpapierverwahrung (m/w/d) (Wertpapiersachbearbeiter/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTk4OTktMDA2ODU2Nzg3Mi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "959e10c391807a1cb453aa06ccb856b5d854c540",
       "title": "Trainee Cloud DevOps Engineer (w/m/d) (DevOps Engineer)",

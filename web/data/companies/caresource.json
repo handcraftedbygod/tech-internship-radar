@@ -2,20 +2,25 @@
   "slug": "caresource",
   "name": "CareSource",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 3
     }
   ],
@@ -30,10 +35,31 @@
     0,
     0,
     2,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e2fa563d93750cff379ec8327a4226c5d43cb32",
+      "title": "Configuration and Automation Intern",
+      "url": "https://go.vansh.nyc/1js",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "2b198ec20f0687f8d0c94a6f0907861b03bcf03f",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1jg",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "750239ff85ce59fe36fd8956206916901bf066e7",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1je",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "c7bbb754ce700d2124c2aaf30b93cea54ed76952",
       "title": "Data Science Intern",

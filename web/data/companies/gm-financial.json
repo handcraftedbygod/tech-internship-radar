@@ -2,21 +2,21 @@
   "slug": "gm-financial",
   "name": "GM Financial",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     3,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24ea40e986ab8974f4cf18d2dc4e63095df1f7aa",
+      "title": "Intern - Cloud Engineer",
+      "url": "https://www.themuse.com/jobs/gmfinancial/intern-cloud-engineer-31f9d6",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "784df21b46c3c7865645206edd8e9f86a2667c2b",
       "title": "Cloud Engineer Intern",

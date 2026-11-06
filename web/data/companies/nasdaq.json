@@ -2,13 +2,17 @@
   "slug": "nasdaq",
   "name": "Nasdaq",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "New York",
+      "count": 1
+    },
+    {
+      "hub": "Stockholm",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "890e632f38a616b6582c436909df5904f3387a54",
+      "title": "Software Developer Intern - Stockholm Summer 2027",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Stockholm---Zenit/Software-Developer-Intern---Stockholm-Summer-2027_R0027297?utm_source=freehire.me",
+      "location": "Stockholm - Zenit",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "f9e51e0a8b825313e1f7d3e0de57bf84393a9a61",
       "title": "Intelligent Automation Intern",

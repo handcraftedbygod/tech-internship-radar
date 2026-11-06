@@ -2,14 +2,14 @@
   "slug": "shield",
   "name": "Shield",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2347e86baf5f9126e9020d07b731b48b8c0351d",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iW",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "ad344db69cc527d978efc2ceee6db90a2ed852f6",
       "title": "New Grad: Engineer I, Software, Factory Team",

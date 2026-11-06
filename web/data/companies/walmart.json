@@ -2,14 +2,14 @@
   "slug": "walmart",
   "name": "Walmart",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44791c971e847e3f78f32e502499a3806ae2964d",
+      "title": "Data Science Intern, Last Mile Delivery",
+      "url": "https://go.vansh.nyc/1jy",
+      "location": "Bentonville, AR",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "541923cdbe64f0105c8226c640819e0c3bb7996b",
       "title": "Data & Tech Transformation Intern",

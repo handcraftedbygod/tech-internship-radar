@@ -2,21 +2,21 @@
   "slug": "nordson",
   "name": "Nordson",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b6975c44403f8c9401e656b159a6abb011d08a57",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/1jk",
+      "location": "Minneapolis, MN",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "b32bcac86ccba40566c4caf5e8da6938ddd2b54d",
       "title": "Software Engineering Intern",

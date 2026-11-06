@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 7,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 63,
-  "avgPostingDurationDays": 35.1,
+  "totalPostings": 64,
+  "avgPostingDurationDays": 34.4,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 34
+      "count": 35
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 29
+      "count": 30
     },
     {
       "id": "biz",
@@ -66,10 +66,17 @@
     10,
     17,
     7,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42c5f7f58b1aa101fc0c97cf6837f0de96293a8d",
+      "title": "Intern CCO Enablement & Programs",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8078124003?gh_jid=8078124003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "3c46f919268f8c782604b327ffc4b1a8dc3d7435",
       "title": "Intern Strategic Program Management",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
       "location": "Raleigh, US, North Carolina",
       "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "c998225d97361cf25f12fba61241d2816adef7a2",
-      "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-09-29T10:26:55.144Z"
     }
   ]
 }

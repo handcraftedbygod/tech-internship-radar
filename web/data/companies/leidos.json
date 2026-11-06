@@ -2,14 +2,14 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 25,
+  "totalPostings": 28,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 25
+      "count": 28
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 8
     },
     {
       "id": "design",
@@ -40,10 +40,31 @@
     10,
     1,
     10,
-    4,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96cd537a206d50e67bd014f4bf32e49b11e29abe",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-ab6245",
+      "location": "O'Fallon, IL",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "c2c251a1d03d62d431061f0fc30dcd9d00739b31",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-3baaf3",
+      "location": "Gambrills, MD",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "ed6d14d831bb57e54288c655fd9aa90556c56990",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://www.themuse.com/jobs/leidos/software-engineering-ai-intern-dbaa20",
+      "location": "Flexible / Remote",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "754978d523b07189ca04497198a29c463e1657d2",
       "title": "Systems, Integration and Software Engineer Intern",
@@ -92,27 +113,6 @@
       "url": "https://go.vansh.nyc/Y4",
       "location": "Fort Belvoir, VA",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "76afd7ec9fedc79e75a137856aa2439a25a00e2b",
-      "title": "Cybersecurity Engineer Co-op",
-      "url": "https://go.vansh.nyc/XZ",
-      "location": "Bethesda, MD",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "a9413782bc1c3ab67860eaa49a4d86f4d1fc1b22",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://go.vansh.nyc/Wv",
-      "location": "Pearl Harbor, HI",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "d7ba48ead896f94e2f7b1d8316500ab8eef13026",
-      "title": "AI/ML Intern",
-      "url": "https://go.vansh.nyc/eQ",
-      "location": "Huntsville, AL",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 164,
+  "currentOpenings": 165,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 288,
+  "totalPostings": 289,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 232
+      "count": 233
     },
     {
       "hub": "Seattle",
@@ -39,7 +39,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    162,
+    163,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f5cb5970cd292710b2a497091f9d781da097bce",
+      "title": "POI Content Product Manager Intern",
+      "url": "https://go.vansh.nyc/1k2",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "4166e755d389f68d0b603cf434e40383ced0231b",
       "title": "Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)",
@@ -117,13 +124,6 @@
       "id": "e4d4858cab719c3344e3135fdb825727b23d9445",
       "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
       "url": "https://go.vansh.nyc/17i",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "eb07ff304504304c74ff1718e37f68aea81e120f",
-      "title": "New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation",
-      "url": "https://go.vansh.nyc/17h",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

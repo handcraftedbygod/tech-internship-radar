@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Montreal",
@@ -31,6 +31,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     0,
     0,
     11,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "170419d4a0273a8f89e17ea55f1cd1bc821ee957",
+      "title": "New Grad: Software Design/Engineer",
+      "url": "https://go.vansh.nyc/1iK",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "d9dae05fd1307924525fb13688a9c8fac3d4b8f4",
       "title": "Software Developer Co-op",
@@ -110,13 +122,6 @@
       "url": "https://go.vansh.nyc/cp",
       "location": "Atlanta, GA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "bf9b0e6235e6ea5f3a0e78b0d820ece5ac86ae07",
-      "title": "Software Developer Intern",
-      "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
-      "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

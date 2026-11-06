@@ -2,21 +2,21 @@
   "slug": "airbus-operations",
   "name": "Airbus Operations GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c29cd49f24c76f43da7365b8fe6cee316089f9c",
+      "title": "Working Student (d/f/m) Data Engineering, AI & Digital Dashboards - Inklusiver Job ",
+      "url": "https://de.whatjobs.com/pub_api__cpl__502587775__7078?utm_campaign=publisher&utm_medium=api&geoID=6&utm_source=freehire.me",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "f3d3edbc526a4e05c11f16203d968c7af8717464",
       "title": "Internship within Aerodynamic Machine Learning (d/f/m) - Inklusiver Job   ",

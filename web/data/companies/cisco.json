@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 43,
+  "totalPostings": 44,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Krakow",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2052827a90d89eb8b16aaa3016ba2a1028afe2f",
+      "title": "Junior Software Engineer, Metadata Catalog - Splunk",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--Metadata-Catalog---Splunk_2027777?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "a26a12e5f9b47ec1fbdeabce185852b575cfab71",
       "title": "Software Engineer Full Stack / Backend I",
@@ -131,13 +138,6 @@
       "title": "Software Engineer Full Stack / Backend I Co-op",
       "url": "https://go.vansh.nyc/gP",
       "location": "San Jose, CA, Carlsbad, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "b2e539cff1d57c5b68e541a7368872d48cd77e96",
-      "title": "Software Engineer Data & AI II Intern",
-      "url": "https://go.vansh.nyc/gO",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

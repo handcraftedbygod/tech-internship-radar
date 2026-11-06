@@ -2,14 +2,14 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 14,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 50,
+  "totalPostings": 53,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 23
     },
     {
       "hub": "Seattle",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 31
+      "count": 32
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 10
+      "count": 12
     },
     {
       "id": "ai",
@@ -61,10 +61,31 @@
     0,
     1,
     41,
-    8,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b73f40c068430b78f248b24ad0d1e621f819146f",
+      "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
+      "url": "https://go.vansh.nyc/1k0",
+      "location": "Cupertino, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "c9bd21609a0768d32dfa29937c8ede55764ec5c7",
+      "title": "New Grad 2027: Software Development Engineer, Embedded Systems",
+      "url": "https://go.vansh.nyc/1jB",
+      "location": "Redmond, WA, Northridge, LA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "eecf94c45ea0f9a3f2e4b258351c7514e1cb273d",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
+      "url": "https://go.vansh.nyc/1iP",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "423e71357ec5aff4bf6eb294fe050b0f1935d54f",
       "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
@@ -113,27 +134,6 @@
       "url": "https://go.vansh.nyc/17o",
       "location": "Cambridge, MA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "99bc093363780a5da6c0fdbe42b9cb35d78c679a",
-      "title": "New Grad 2027: ASIC Engineer I, Annapurna Labs",
-      "url": "https://go.vansh.nyc/17n",
-      "location": "Cupertino, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "e1a4b87697ea8f870874adb712b92558f54f75bd",
-      "title": "Business Developer Intern, Early Careers 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027?utm_source=freehire.me",
-      "location": "Munich, Bavaria, DEU",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "cd176643f53f9fc7c06d309418868389e48724d0",
-      "title": "New Grad 2027: Software Development Engineer, Database",
-      "url": "https://go.vansh.nyc/11i",
-      "location": "Boston, MA, Seattle, WA, Austin, TX, Redmond, WA, East Palo Alto, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

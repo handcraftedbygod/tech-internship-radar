@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 10.2,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "San Francisco",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     2,
     2,
     18,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dae2523cb97487047126c9360b2f5f912c39517d",
+      "title": "Business Analytics | Data Science internship: AI-driven operations",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Business-Analytics---Data-Science-internship--AI-driven-operations_J-00356683?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "11affb4eaf3259ee99d6833d623f3bb73544e1ba",
       "title": "Machine Learning and Image-Based EUV System Setup Intern",
@@ -105,13 +112,6 @@
       "url": "https://go.vansh.nyc/gM",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "6d00d4314c8e79852e874cf092591275283d313d",
-      "title": "Platform Software Engineer In Test Intern",
-      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

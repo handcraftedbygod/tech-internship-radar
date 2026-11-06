@@ -2,21 +2,21 @@
   "slug": "johns-hopkins-apl",
   "name": "Johns Hopkins APL",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c860c5b262d86ac090a69ca9b62a0709710c242c",
+      "title": "Maritime Software Development Intern, Ocean Systems and Engineering",
+      "url": "https://go.vansh.nyc/1jq",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "6a69462fbbd2266a6cb20c9b735eafc3a4bfc226",
       "title": "Robotics Engineer Intern, Maritime Systems",

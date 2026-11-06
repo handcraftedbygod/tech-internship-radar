@@ -2,9 +2,9 @@
   "slug": "soprasteria1",
   "name": "SopraSteria1",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     3,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5b8fae1c0630c4c035af235d020be9a88f38ad7c",
+      "title": "Junior Data Engineer for Live Intelligence (m/w/d)",
+      "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159869467-junior-data-engineer-for-live-intelligence-m-w-d-?utm_source=freehire.me",
+      "location": "Hamburg, HH, de",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "44b67c7ae9e754cf6c6bb1cd4486ed3e662d3102",
       "title": "Junior DevOps Engineer",

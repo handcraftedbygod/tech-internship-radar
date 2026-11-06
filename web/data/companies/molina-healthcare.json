@@ -2,25 +2,25 @@
   "slug": "molina-healthcare",
   "name": "Molina Healthcare",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f46aebe1897683619fde91c0ef69d9b7991999d8",
+      "title": "Undergraduate Electronic Data Interchange Intern",
+      "url": "https://go.vansh.nyc/1jD",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "3746f2a7ea5acaa457b30467508e14702ee0789a",
       "title": "Cybersecurity Internship (Remote) –(Undergraduate)",

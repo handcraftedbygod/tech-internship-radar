@@ -2,9 +2,9 @@
   "slug": "palantir-technologies",
   "name": "Palantir Technologies",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82a2458f49a28aea652daad736be3ed29705b13b",
+      "title": "Software Engineer Intern, Sovereign AI Systems",
+      "url": "https://go.vansh.nyc/1j0",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "a29951c3fc89483ef6800f191f34170078fc67b5",
       "title": "Impactful Software Engineer Intern — Data-Driven Systems",

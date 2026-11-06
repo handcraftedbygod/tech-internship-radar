@@ -1,0 +1,45 @@
+{
+  "slug": "activenow",
+  "name": "ActiveNow",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5dbd306f571a165e7ca20d5c35dd9a194fa5c8c8",
+      "title": "Junior Fullstack Ruby on Rails Developer",
+      "url": "https://justjoin.it/job-offer/activenow-junior-fullstack-ruby-on-rails-developer-warszawa-ruby-bffba415?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

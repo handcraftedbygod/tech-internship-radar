@@ -1,26 +1,26 @@
 {
   "slug": "agile-robots",
-  "name": "Agile Robots Se",
+  "name": "Agile Robots SE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-27T07:29:05.554Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e66461a8496eebe3743c0ea8cfa4c1dc6210396",
+      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+      "url": "https://job-boards.eu.greenhouse.io/agilerobotsse/jobs/4986680101?utm_source=freehire.me",
+      "location": "Munich, Bavaria, Germany",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "ca3152952098dae5c7272adf39f03b4a9a48e2bd",
       "title": "Intern (m/f/d) Vision Software Development",

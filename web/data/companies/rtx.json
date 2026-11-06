@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 23,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 45,
+  "totalPostings": 47,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 44
+      "count": 46
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 39
+      "count": 41
     },
     {
       "id": "hw",
@@ -49,10 +49,24 @@
     1,
     0,
     30,
-    14,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6a2ae8842f7fa9c875c5ed62888e52d6a86c0ac6",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1jj",
+      "location": "Aurora, CO",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "4f7606b48167deb38b7b1c2bf113ae673965ad5a",
+      "title": "Systems Security Engineer Intern",
+      "url": "https://go.vansh.nyc/1iL",
+      "location": "Tewksbury, MA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "7145778cfb12ba784621a7b195c007e9fc99d9bc",
       "title": "Infrastructure Engineer I",
@@ -107,20 +121,6 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1cS",
       "location": "East Hartford, CT",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "dc4cab6e0ffa7fdbea1965e868cedca23b3c1156",
-      "title": "Cyber Research Intern",
-      "url": "https://go.vansh.nyc/1cR",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "f7015ad98e61497d55bbb7110dfa62f1303c2cbc",
-      "title": "Software Engineering Co-op, AGS",
-      "url": "https://go.vansh.nyc/1cQ",
-      "location": "Cedar Rapids, IA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

@@ -2,21 +2,21 @@
   "slug": "fasanara-capital",
   "name": "Fasanara Capital",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d6b58f3280a586dda009ef9d4f476432c4734de",
+      "title": "Junior Java Software Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__600804860__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "18008d4a010839889d02aa0f398988a67c36776c",
       "title": "Junior Java Software Developer",

@@ -2,21 +2,21 @@
   "slug": "paypal",
   "name": "PayPal",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f77d84c6898aecde32e84103bc6d0662ece2918",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1iu",
+      "location": "San Jose, CA, Scottsdale, AZ, Chicago, IL, Austin, TX",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "dfc738557cf72028d005447348ee490e868319a2",
       "title": "Machine Learning Engineer Intern",

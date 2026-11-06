@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 46,
+  "totalPostings": 47,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 28
     },
     {
       "hub": "Munich",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 20
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 19
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 20
     },
     {
       "id": "hw",
@@ -57,10 +57,17 @@
     17,
     15,
     14,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "903cfd0a6f72c69abe2b8f138b46425bc6389a9a",
+      "title": "Werkstudent (w/m/d) Cybersecurity",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-3-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "31a350cabbb603c77d163de6374bfe471eaa80c7",
       "title": "Werkstudent (w/m/d) im Bereich Pricing Schwerpunkt Data Analytics und Automatisierung",
@@ -122,13 +129,6 @@
       "title": "Werkstudent (w/m/d) Data Engineering",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1643618-1-S",
       "location": "Erlangen",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "9059fc9249a5cf1106be132c13e3305e55b5618b",
-      "title": "Working Student (f/m/d) Advanced Analytics and Artificial Intelligence",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1633057-2-S",
-      "location": "München",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]

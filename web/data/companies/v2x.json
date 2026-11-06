@@ -1,0 +1,52 @@
+{
+  "slug": "v2x",
+  "name": "V2X",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-06T11:51:47.337Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a62b550321cbbd5c01ee718dd9d340548b3dca69",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1jI",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "c3ae68e2c78a474b464e39d53ef7c7e9c21b7bc1",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1jH",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    }
+  ]
+}

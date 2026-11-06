@@ -2,21 +2,25 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 7.6,
   "topLocations": [
     {
       "hub": "Other",
       "count": 6
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -40,10 +44,17 @@
     0,
     0,
     4,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d56cfef14ec9b9b6823c9c5f166d6b5879e6d54e",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iN",
+      "location": "Dallas, TX, Washington, DC, Seattle, WA, San Diego, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "727939b86e3580dd5d4e3ebac4e7378c4ebb99b1",
       "title": "New Grad: Engineer II, Simulation Framework (Master's)",

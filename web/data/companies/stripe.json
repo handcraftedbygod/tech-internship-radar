@@ -2,18 +2,18 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 27,
+  "currentOpenings": 29,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 28,
+  "totalPostings": 30,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "New York",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Dublin",
@@ -40,6 +40,11 @@
       "count": 6
     },
     {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    },
+    {
       "id": "product",
       "label": "Product",
       "count": 1
@@ -56,10 +61,24 @@
     2,
     13,
     12,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f7fc0ebc29f4f9e3d336936b79289f083fcd061b",
+      "title": "Product Design Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+      "location": "San Francisco, Seattle, New York City",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "7fdbde96eaca38641d4e0d64182211253f4914a8",
+      "title": "Product Design Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+      "location": "Toronto",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "c089703b17cc22b7f7048b32d0a46611aa15d614",
       "title": "PhD Machine Learning Engineer, Intern",
@@ -114,20 +133,6 @@
       "title": "PhD Data Scientist, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8194283",
       "location": "New York, Seattle, South San Francisco HQ",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "14f57745a98ada85f7f08c76979479e4920b7863",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194285",
-      "location": "Toronto",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "a9bcb3c56e24405997e959d3f0670d7b49d225bd",
-      "title": "Data Analyst, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-      "location": "Toronto",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

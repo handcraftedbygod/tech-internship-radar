@@ -2,14 +2,14 @@
   "slug": "baker-hughes",
   "name": "Baker Hughes",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da3cbbf335a3033aa9b4bb6741a998a22fb8f524",
+      "title": "Emerging Talent - Praktikum, Bachelor- und Masterarbeit– Firmware, Software und Informatik 2026 (Celle)",
+      "url": "https://bakerhughes.phenompro.com/global/en/job/BAHUGLOBALR158066EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Celle, Lower Saxony",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "424ac42a537ad93d75eeb7c00184104478c2a9d7",
       "title": "Intern - Software Engineering - 2027",

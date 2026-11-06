@@ -2,21 +2,21 @@
   "slug": "borgwarner",
   "name": "BorgWarner",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e084568ec4d0be28141d0a42a7ed7424a6f23aa8",
+      "title": "Software Test Intern",
+      "url": "https://go.vansh.nyc/1jb",
+      "location": "Auburn Hills, MI",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "452756f0668c6000039f96b0423b83a98541f11a",
       "title": "Software Engineering Intern",

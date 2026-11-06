@@ -2,26 +2,26 @@
   "slug": "jm-family-enterprises",
   "name": "JM Family Enterprises",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 7,
+  "totalPostings": 11,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,38 @@
     0,
     0,
     2,
-    5,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f51fa64a4129455a66390574419c80dd9cd797a8",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1jd",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "ad0dae45f7a3dff7890e2a4655933a5cc10e77a2",
+      "title": "Software Analyst Intern",
+      "url": "https://go.vansh.nyc/1iI",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "b230ba21d9a561ce7473638b02e9d4a4bdb3f3d9",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1iH",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "4bbfa9e2e23c6f0dde800ba63fdb85249e8a9e1e",
+      "title": "Analytics Intern",
+      "url": "https://go.vansh.nyc/1iw",
+      "location": "Deerfield Beach, FL",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "fca6d63e7f0c6b876190acbc2745a23fc528a41d",
       "title": "AI Center of Excellence Delivery Team Intern",
@@ -80,13 +108,6 @@
       "url": "https://go.vansh.nyc/YU",
       "location": "Deerfield Beach, FL, Jacksonville, FL",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "1cc0398998bb719e8fdab9492375989014d70489",
-      "title": "Data Engineer Intern",
-      "url": "https://go.vansh.nyc/VR",
-      "location": "Deerfield Beach, FL",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "zoox",
   "name": "Zoox",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,24 @@
     0,
     0,
     4,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "310ee21fb0bd8cf55170c3ea0106777e9d7ffb9f",
+      "title": "Software Engineer Intern, Software Systems",
+      "url": "https://go.vansh.nyc/1jW",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "ecb9a365b1c33ad3c0b946def95e8309033b8235",
+      "title": "Software Engineer Intern, Software Platforms & Product",
+      "url": "https://go.vansh.nyc/1jV",
+      "location": "Foster City, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "a1f4f0bcaec13744a6d778bf31e25764cc1df610",
       "title": "Software Engineer Intern",

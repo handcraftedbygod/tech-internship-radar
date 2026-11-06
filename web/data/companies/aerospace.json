@@ -2,14 +2,14 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     }
   ],
   "topDisciplines": [
@@ -26,7 +26,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -40,10 +45,24 @@
     0,
     0,
     11,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8ceee45abf636d2437c91f7a9ef756bf09b87855",
+      "title": "Operations Forecast Analyst",
+      "url": "https://go.vansh.nyc/1jN",
+      "location": "Colorado Springs, CO, Chantilly, VA, El Segundo, CA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "06b225c90195a6d07fc0c291e08c79251e40f768",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/1jf",
+      "location": "Kanata, Canada",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "ea6cc5411100751f9214c15ae7396aa834d68688",
       "title": "Intern Bachelors Embedded Eng",
@@ -99,20 +118,6 @@
       "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
       "location": "El Segundo, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "4d0f48ccd039cb5505e7cf9910fdd0cc5d944c0a",
-      "title": "Cloud Solutions Engineer Intern, Site Reliability",
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016936",
-      "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "1c5a2f292cf1d956d256e54308d7e34fdd0ce63a",
-      "title": "Signal Processing and RF Engineering Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
-      "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

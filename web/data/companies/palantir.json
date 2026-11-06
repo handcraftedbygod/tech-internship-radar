@@ -2,18 +2,18 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 25,
+  "totalPostings": 28,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "London",
-      "count": 10
+      "count": 12
     },
     {
       "hub": "Other",
@@ -29,6 +29,11 @@
       "id": "swe",
       "label": "Software",
       "count": 24
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     },
     {
       "id": "biz",
@@ -47,10 +52,31 @@
     1,
     1,
     22,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "efcc97646235283fa4bc711738b0cc2ac9c7574e",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e?utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "aa746aefebc9c6d5ac53ae07101ff834f8f1a534",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
+    {
+      "id": "f8cd0b06e7b1f06faa539cc8dd24dbfc5c334ce5",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "b7533e0e255fb30fc8f794f3f96168ecca595e69",
       "title": "Finance Operator Intern",
@@ -99,27 +125,6 @@
       "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "b82c33eeab10c4aad2fdacae62e40ffea12b9426",
-      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
-      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "62b1f65674c5c6363ad55603fa49d4f067d67699",
-      "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "9a7df72e053fa9fa1f65e1911189ea4244017d3d",
-      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
-      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

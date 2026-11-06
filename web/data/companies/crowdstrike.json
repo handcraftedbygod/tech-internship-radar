@@ -2,13 +2,17 @@
   "slug": "crowdstrike",
   "name": "CrowdStrike",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "503ea3104f9a5b59c38f21bc9dd4a60e166d65f0",
+      "title": "Intelligence Intern",
+      "url": "https://go.vansh.nyc/1ja",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "92159b3721370312594d765c274d1ca9139c7f63",
       "title": "Overwatch Intern, Research",

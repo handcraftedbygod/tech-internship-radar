@@ -2,20 +2,25 @@
   "slug": "thg-ingenuity",
   "name": "THG Ingenuity",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2fa4a092d7b5a24fb964f4010cffb7d088e01871",
+      "title": "Junior People Data Analyst",
+      "url": "https://job-boards.eu.greenhouse.io/thgingenuity/jobs/5028282101?utm_source=freehire.me",
+      "location": "UK, Manchester",
+      "firstSeenAt": "2026-11-06T11:51:47.337Z"
+    },
     {
       "id": "981815ff16472b96cf89b4d661ebc618d58e0616",
       "title": "Graduate / Junior Data Scientist ",
