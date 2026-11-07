@@ -2,20 +2,25 @@
   "slug": "astranis",
   "name": "Astranis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb6b549e18f36bb13d52d8a64ca2a4cd003e37e6",
+      "title": "Embedded Software Developer Intern, Network/Payload",
+      "url": "https://go.vansh.nyc/1lz",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "25aa90b78da08c350fe104191d56fe0d24fd4ad0",
       "title": "Reliability Test Intern",

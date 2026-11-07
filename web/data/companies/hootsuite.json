@@ -2,14 +2,14 @@
   "slug": "hootsuite",
   "name": "Hootsuite",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 4,
+  "totalPostings": 8,
   "avgPostingDurationDays": 27.2,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 5
     },
     {
       "hub": "Vancouver",
@@ -18,9 +18,18 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -29,11 +38,6 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 1
     }
   ],
@@ -48,10 +52,38 @@
     3,
     0,
     1,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dde4dda4ae74f57401bee62af4c3732ad5e1c92f",
+      "title": "Software Development Co-op",
+      "url": "https://go.vansh.nyc/1lf",
+      "location": "Vancouver, Canada, Toronto, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "067f6d94da05d3adf484d9ec0ca2cf8ddd8df6f0",
+      "title": "DevOps Co-op",
+      "url": "https://go.vansh.nyc/1l0",
+      "location": "Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "a4c9b67dcc5c3e25e80807b1cef1ae1df80e41f8",
+      "title": "Junior Software Developer",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
+      "location": "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "0ad839c0a65c228c86ca5d84db69002aed0265e8",
+      "title": "Co-op/Intern, Software Development - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
+      "location": "Vancouver, BC, Toronto, ON",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "48c9d7d1a1b35581f88321249f116e17bec0bae2",
       "title": "Junior Cyber Incident Response Analyst",

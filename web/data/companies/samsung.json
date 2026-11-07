@@ -2,17 +2,22 @@
   "slug": "samsung",
   "name": "Samsung",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -30,10 +35,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7978e50efef6fdb4e00b580c1e6e9475fc10e04c",
+      "title": "Business Intelligence & Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1lG",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "21caebdf1e848e955c0854536af43c2b867e4878",
+      "title": "Care AI Data Analytic Intern",
+      "url": "https://go.vansh.nyc/1le",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "bf7aa65969977d1d2cb6a9df250f51c9efc44247",
       "title": "Data analyst marketing Junior (H/F) -  Stage 6 mois",

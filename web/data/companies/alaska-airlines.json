@@ -1,0 +1,59 @@
+{
+  "slug": "alaska-airlines",
+  "name": "Alaska Airlines",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f2bebc594eda44dd1080c77c460ebfa381f26ecc",
+      "title": "Software Delivery Platform Intern",
+      "url": "https://go.vansh.nyc/1ke",
+      "location": "SeaTac, WA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "898495fea066bef8fa4a0fef16b7cf91ca343613",
+      "title": "Cybersecurity Threat Defense Intern",
+      "url": "https://go.vansh.nyc/1kd",
+      "location": "SeaTac, WA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "48f6935552ac59c2071440e1e4efae4486d210d4",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1kc",
+      "location": "SeaTac, WA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

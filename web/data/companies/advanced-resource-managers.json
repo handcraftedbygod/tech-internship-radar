@@ -1,15 +1,15 @@
 {
   "slug": "advanced-resource-managers",
-  "name": "Advanced Resource Managers Ltd",
+  "name": "Advanced Resource Managers Limited",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Dublin",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "486ed0f3e9f5ead10ac185049a3d4193909e1194",
+      "title": "Junior Data Scientist",
+      "url": "https://www.reed.co.uk/jobs/junior-data-scientist/57537769?utm_source=freehire.me",
+      "location": "Slough",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "265e78d83259ba0181bf7fd3f030b56000f87107",
       "title": "Junior Site Reliability Engineer - Manchester",

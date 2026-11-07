@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 33,
+  "totalPostings": 35,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Vancouver",
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -39,7 +39,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -53,10 +53,24 @@
     0,
     0,
     28,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "beba7c3e4e88cec45d9aff018b76ebd3afdbb03a",
+      "title": "Digital Design Engineer Intern, Interim Engineering Systems",
+      "url": "https://go.vansh.nyc/1lI",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "26a4e7f748187ecfd15bd12afc5e45a5b22d0bc0",
+      "title": "Software Validation Engineering Intern",
+      "url": "https://go.vansh.nyc/1kR",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "0f6b70e5489409b4fb1898f171a86b0ea484cc48",
       "title": "Telemetry Firmware, Driver and Tools Developer Intern",
@@ -111,20 +125,6 @@
       "title": "Soft IP Engineer Co-op",
       "url": "https://go.vansh.nyc/10m",
       "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "26b12dfa911850e17e7959bed5d8281d7d92766a",
-      "title": "Deep Learning Research Intern, Embodied AI Systems",
-      "url": "https://go.vansh.nyc/ZM",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "3fb1b473e81693085f75a5dcf19d1793a973eea2",
-      "title": "AI Software Systems Co-op",
-      "url": "https://go.vansh.nyc/ZL",
-      "location": "Toronto, Canada",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]

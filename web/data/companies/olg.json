@@ -2,20 +2,25 @@
   "slug": "olg",
   "name": "OLG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c62a6fcd0a7c4b6cf54fed73b83cdd3f762ddb24",
+      "title": "Analytics Engineering & Measurement Intern",
+      "url": "https://go.vansh.nyc/1ld",
+      "location": "Toronto, Canada, Sault Ste. Marie, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "8f6733e9537b87a99a64ebeadb30e62d96a24159",
       "title": "Front End Developer Intern",

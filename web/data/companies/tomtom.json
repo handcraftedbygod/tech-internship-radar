@@ -1,0 +1,57 @@
+{
+  "slug": "tomtom",
+  "name": "Tomtom",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d81acea60ea77876d9daf55d33a3271a48028f09",
+      "title": "Software Engineering Intern - AI Platform Excellence",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-ai-platform-excellence-amsterdam-the-netherlands-231363",
+      "location": "Amsterdam, The Netherlands",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "8e6444eb1310f73940daa1b94b9e671a58851a7a",
+      "title": "Software Engineering Intern - Internal Developer Platform",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-intern-internal-developer-platform-amsterdam-the-netherlands-91789",
+      "location": "Amsterdam, The Netherlands",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

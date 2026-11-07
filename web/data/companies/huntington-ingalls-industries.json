@@ -2,21 +2,21 @@
   "slug": "huntington-ingalls-industries",
   "name": "Huntington Ingalls Industries",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "93bf9d19cfdf6ca8807c8d7f03ba2d3b183085b5",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/1kx",
+      "location": "Newport News, VA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "3373b0edc6dde67988d6fcfbe85c7567859568ca",
       "title": "IT Software Engineer 1 - Robotic Process Automation",

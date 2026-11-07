@@ -2,14 +2,14 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Helsinki",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     1,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f8484022c0a0b71a48d5767ce85c2f36d8578b1",
+      "title": "Junior Software Test Engineer, Vaisala, Vantaa",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTY3YzA5MWItODBkMC00ZDI5LTg1ZDAtY2QwY2ZiMjY0YTkzIDgx?lang=en&utm_source=freehire.me",
+      "location": "Finland",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "c4cbc31649f3f2034c852e2d0413f0322ff115e8",
       "title": "Junior Software Test Engineer, Vaisala, Vantaa",

@@ -2,13 +2,17 @@
   "slug": "f-rsvarsmakten",
   "name": "Försvarsmakten",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Stockholm",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     1,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56eb35e24fe22a4fba749fc06d3d521ca8827cd1",
+      "title": "Junior DevOps Engineer vid Must",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3ODkwNiAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Stockholm, Sweden",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "a3dd1377bed1692d2a02becaa2f2c30e9bbc0def",
+      "title": "Junior DevOps Engineer vid Must",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696155?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "68a76328428db3037d18048e8053791e7e5ebffb",
       "title": "Junior DevOps Engineer vid Must",

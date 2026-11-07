@@ -1,0 +1,64 @@
+{
+  "slug": "shure",
+  "name": "Shure",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9ec5162062042ab156aa3de5f1124c9e41b0173f",
+      "title": "Cloud Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lx",
+      "location": "Niles, IL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "7af118cd42959dfe7c6b2d9231b888d45801747c",
+      "title": "Application Software Development Intern",
+      "url": "https://go.vansh.nyc/1kb",
+      "location": "Niles, IL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "47838ff8dce18151474e26ccf8ddf6f688d2b17c",
+      "title": "Embedded Software Intern",
+      "url": "https://go.vansh.nyc/1ka",
+      "location": "Niles, IL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

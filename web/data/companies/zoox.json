@@ -2,14 +2,18 @@
   "slug": "zoox",
   "name": "Zoox",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
       "count": 6
+    },
+    {
+      "hub": "Boston",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +39,17 @@
     0,
     0,
     4,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c386ac9f15dfdb9741ad6b70aa235468b2a70f56",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1lQ",
+      "location": "Foster City, CA, Boston, MA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "310ee21fb0bd8cf55170c3ea0106777e9d7ffb9f",
       "title": "Software Engineer Intern, Software Systems",

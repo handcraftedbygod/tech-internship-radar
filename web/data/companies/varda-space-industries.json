@@ -2,17 +2,17 @@
   "slug": "varda-space-industries",
   "name": "Varda Space Industries",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
-      "hub": "Los Angeles",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Los Angeles",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7665df35b6c04f82115e38adb9e0d5d7ff99bb2a",
+      "title": "Site Reliability Intern",
+      "url": "https://go.vansh.nyc/1lP",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "15e3ab35b5fc1c6c4a379be515f0803483ccbb9f",
       "title": "Applications Engineer Intern",

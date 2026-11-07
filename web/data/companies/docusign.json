@@ -2,14 +2,18 @@
   "slug": "docusign",
   "name": "DocuSign",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 3
+    },
+    {
+      "hub": "Seattle",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +39,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbf8ec4a1e138f44314ea6acb0d73256ff8a6d78",
+      "title": "Software Engineering Intern, Self-Service Directory Diagnostics",
+      "url": "https://go.vansh.nyc/1kf",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "e3fa4d88b401689f13807953f954509b306fa82e",
       "title": "Software Developer Intern",

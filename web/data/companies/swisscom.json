@@ -2,21 +2,21 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     8,
     14,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e65e51d2409eb0d5f1f51d9ad34f93eb17dc9cc",
+      "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
+      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-477686",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "1a006d2483feedc844fe1288edc176b2208fab5c",
       "title": "IT Internship - Fullstack Engineer: Agentic AI for Bug Analysis and Resolution",
@@ -99,13 +106,6 @@
       "id": "926327490fbdd5ce306ce2cbd9448d2efeee9cb2",
       "title": "IT Internship - Fullstack Engineer: AI Agent for Automated Cloud Incident Response",
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-ai-agent-for-automated-cloud-incident-response-rotterdam-359476",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "9d8a87e5356737a4cd00d2407d79fdc514a8b8b8",
-      "title": "Junior Sailpoint Developer",
-      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/junior-sailpoint-developer-rotterdam-341188",
       "location": "Rotterdam, Zuid-Holland, Netherlands",
       "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }

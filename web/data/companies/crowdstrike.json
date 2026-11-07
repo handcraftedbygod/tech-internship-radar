@@ -2,17 +2,17 @@
   "slug": "crowdstrike",
   "name": "CrowdStrike",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Austin",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Austin",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c5f0a2ec541f70999772a75599abc98e95b6035",
+      "title": "Professional Services Pathfinder Intern, Red Team",
+      "url": "https://go.vansh.nyc/1lc",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "503ea3104f9a5b59c38f21bc9dd4a60e166d65f0",
       "title": "Intelligence Intern",

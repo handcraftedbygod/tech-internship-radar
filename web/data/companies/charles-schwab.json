@@ -2,21 +2,21 @@
   "slug": "charles-schwab",
   "name": "Charles Schwab",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 23.9,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3770f88da2e3e866871b4b912673df6f718832a2",
+      "title": "Associate Software Development & Engineering",
+      "url": "https://go.vansh.nyc/1ky",
+      "location": "Austin, TX, Southlake, TX",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "bc5819faa36973fbc40bda8f25196ae27b89651a",
       "title": "2027 Technology Intern - Software Engineering",

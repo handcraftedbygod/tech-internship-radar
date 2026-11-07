@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 47,
+  "totalPostings": 48,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 46
+      "count": 47
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 41
+      "count": 42
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    16,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "adebd52bbfe5fa625e38eda97ee12253fd1f576a",
+      "title": "Digital Technology Intern",
+      "url": "https://go.vansh.nyc/1l2",
+      "location": "Andover, MA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "6a2ae8842f7fa9c875c5ed62888e52d6a86c0ac6",
       "title": "Software Engineering Intern",
@@ -114,13 +121,6 @@
       "title": "Systems Engineer Intern, Mission Sensor Manager",
       "url": "https://go.vansh.nyc/1cT",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "4c1496b9fbbc45b4b2cad5d927698aba90bb2866",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1cS",
-      "location": "East Hartford, CT",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

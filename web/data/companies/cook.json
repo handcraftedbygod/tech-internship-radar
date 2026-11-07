@@ -2,21 +2,21 @@
   "slug": "cook",
   "name": "Cook Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e56db6e2beb19761b4f21c40c4b1359fe4d9164a",
+      "title": "Applied AI & Full Stack Development Intern",
+      "url": "https://go.vansh.nyc/1k3",
+      "location": "Bloomington, IN",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "ce1ddc9e246e6a71524bf8e0011d68ba64199e3e",
       "title": "Artificial Intelligence & Innovation Intern",

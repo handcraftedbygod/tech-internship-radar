@@ -2,21 +2,21 @@
   "slug": "mckesson",
   "name": "McKesson",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba981c978f5b30646737f1118d40c605832e821c",
+      "title": "Cyber Security Analyst (Cyber Academy)",
+      "url": "https://go.vansh.nyc/1kK",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "0649fd256f7e2985d3c195e22bcb1e88e4d1369f",
       "title": "CMM Technology Intern",

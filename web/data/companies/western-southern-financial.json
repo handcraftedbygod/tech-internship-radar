@@ -2,21 +2,26 @@
   "slug": "western-southern-financial",
   "name": "Western & Southern Financial Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a532ae914c2c6bdd98b7e25ff33bd1e738f71952",
+      "title": "Software Developer Intern, Agency Systems",
+      "url": "https://go.vansh.nyc/1k9",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "7e4eaa99bf816e6a6eb6caea831d757e4c2a3f14",
+      "title": "Artificial Intelligence Developer Intern",
+      "url": "https://go.vansh.nyc/1k8",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "5acea44d03824d3c8c242319da80d737968c5b33",
       "title": "Enterprise Architecture Information Technology Intern",

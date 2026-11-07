@@ -2,21 +2,21 @@
   "slug": "medtronic",
   "name": "Medtronic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f12e6eab4f38c9f0c015499ecd100a98a06f168b",
+      "title": "Software Test Engineer I",
+      "url": "https://go.vansh.nyc/1kL",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "2fe6af0a00b5da910d43984ee78961fc1a1f685a",
       "title": "Software Engineering Intern",

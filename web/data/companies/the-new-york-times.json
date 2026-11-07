@@ -2,21 +2,21 @@
   "slug": "the-new-york-times",
   "name": "The New York Times",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,52 @@
     0,
     0,
     1,
-    0,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df6f486746119ca9596a8a0d2de0735826fd1413",
+      "title": "Backend Engineering Intern",
+      "url": "https://go.vansh.nyc/1lg",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "e18ae56ffecd630d5714d4f91eb30b1eda6ea6b0",
+      "title": "iOS Engineering Intern",
+      "url": "https://go.vansh.nyc/1l8",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "ead95b2055439487f527951c4596669f3ae121c9",
+      "title": "Full-Stack Engineering Intern",
+      "url": "https://go.vansh.nyc/1l7",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "a51220a938688a23f913e51101bae00104343b73",
+      "title": "Android Engineering Intern",
+      "url": "https://go.vansh.nyc/1l6",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "6410e065ced1e89e9df452ff76ec3eadbc32de62",
+      "title": "Frontend Engineering Intern",
+      "url": "https://go.vansh.nyc/1l5",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "8cb7d4d9c2006437f80527779d110183a3b76134",
+      "title": "Interactive News Engineering Intern",
+      "url": "https://go.vansh.nyc/1km",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "ab8548cf2ddfefbf6de0896f6a837be14fd4d91f",
       "title": "Backend Engineering Intern, Wirecutter",

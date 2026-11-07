@@ -2,21 +2,21 @@
   "slug": "liveye",
   "name": "liveye",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1130597d30e003a5546131586cca05525fddd986",
+      "title": "Werkstudent AI & Machine Learning (m/w/d)",
+      "url": "https://www.jobexport.de/job/5292686.html?exp=81&cid=629f35c0-4288-4d07-a90f-e30431dfd75e",
+      "location": "Föhren bei Trier",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "bc3b48e96ce97112ae53c3bb42ab4f66be727349",
       "title": "Werkstudent AI & Machine Learning (m/w/d)",

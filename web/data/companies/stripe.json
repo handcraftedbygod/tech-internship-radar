@@ -2,9 +2,9 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 29,
+  "currentOpenings": 30,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
@@ -61,10 +61,17 @@
     2,
     13,
     12,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "283910bf5c815c6f572cc5f1fc5e3e70d944f312",
+      "title": "Controllership Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8357739",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "f7fc0ebc29f4f9e3d336936b79289f083fcd061b",
       "title": "Product Design Intern",
@@ -127,13 +134,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8241571",
       "location": "London",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "63e5c18cdfb383df32d5953d6c7023424be020ce",
-      "title": "PhD Data Scientist, Intern",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
-      "location": "New York, Seattle, South San Francisco HQ",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

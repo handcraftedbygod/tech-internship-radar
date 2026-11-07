@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 44,
+  "totalPostings": 46,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 25
+      "count": 27
     },
     {
       "hub": "Krakow",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -42,7 +42,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 6
+      "count": 7
     },
     {
       "id": "product",
@@ -66,10 +66,24 @@
     1,
     8,
     33,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56bd3d9ab38bc552a09400964d0c3360c2b3da50",
+      "title": "ASIC DFT Engineer I",
+      "url": "https://go.vansh.nyc/1lV",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "09e95d74bb16b3aabe4de2103c8c2a34903c5b2c",
+      "title": "Software Engineer Embedded Systems I",
+      "url": "https://go.vansh.nyc/1lU",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "f2052827a90d89eb8b16aaa3016ba2a1028afe2f",
       "title": "Junior Software Engineer, Metadata Catalog - Splunk",
@@ -124,20 +138,6 @@
       "title": "Software Developer, Embedded Systems I",
       "url": "https://go.vansh.nyc/B4",
       "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Montreal, Canada, Vancouver, Canada, Ottawa, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "48deaed9b18be6574712b83df8e49ed936c0ab8e",
-      "title": "Software Engineer Embedded Systems I Co-op",
-      "url": "https://go.vansh.nyc/gQ",
-      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "4e0385bf944210ba4412275ddcb0888ab33b88fa",
-      "title": "Software Engineer Full Stack / Backend I Co-op",
-      "url": "https://go.vansh.nyc/gP",
-      "location": "San Jose, CA, Carlsbad, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

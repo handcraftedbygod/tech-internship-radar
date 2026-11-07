@@ -2,25 +2,25 @@
   "slug": "back-market",
   "name": "Back Market",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 17,
+  "totalPostings": 19,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 12
     },
     {
       "id": "biz",
@@ -49,10 +49,24 @@
     0,
     12,
     5,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52e9a023af889efbcb0a39654959ef950d0ffb0d",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/09ecb805-3072-4e44-a66b-17c4bdb738f5",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "98a73bc374879e3473ca18a83e538184fd2da64c",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/backmarket/154e6aa0-dbeb-4521-8135-3304118c822b",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "fd4f717155096c8de9f13b3c06b12ceede7435ca",
       "title": "Data Analyst Intern",
@@ -108,20 +122,6 @@
       "url": "https://jobs.ashbyhq.com/backmarket/21f6889e-0021-4f23-a6b6-e22444315bc2",
       "location": "Paris",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "bce17953183043a785b11af028861f7158d478c0",
-      "title": "Trade-in Buybulk Intern",
-      "url": "https://jobs.ashbyhq.com/backmarket/fa86e653-4813-4021-b4a2-ee1d907087fb",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "42079da507e164ef94301b8b1dd29b941c892829",
-      "title": "Seller Onboarding and Support Intern ",
-      "url": "https://jobs.ashbyhq.com/backmarket/a2d647bf-ab8d-48c5-8fa5-25d11fe55f54",
-      "location": "Paris",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

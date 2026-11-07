@@ -2,21 +2,21 @@
   "slug": "sysmatch",
   "name": "SYSMATCH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "154702d8baa97f9fda1038ed4ee3a63f4df7a327",
+      "title": "Junior Java Backend – (Híbrido – 3x Lisboa) (M/F)",
+      "url": "https://emprego.sapo.pt/offers/junior-java-backend-hibrido-3x-lisboa-mf?id=60a4cdf0-262f-495e-94f3-8312fcbc5582&utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "2679ced435496339efadb5565335243ffb359f8c",
       "title": "Junior Alfresco Developer (Hybrid – Lisbon) (M/F)",

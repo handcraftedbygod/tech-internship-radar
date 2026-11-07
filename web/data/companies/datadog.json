@@ -2,14 +2,14 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 31.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "product",
@@ -43,10 +43,17 @@
     2,
     9,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "221498e01961abc28501d0172bb2f51718c2a669",
+      "title": "Software Engineering Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-230291",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "c073e78265f6de6b20505009fc36108d6f6622f9",
       "title": "Software Engineering Intern",
@@ -109,13 +116,6 @@
       "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
       "location": "Paris, France",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "8ae0aae740a4deec20bab89004bd28a45a725a55",
-      "title": "Software Engineering Intern (Winter)",
-      "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "kudu-dynamics",
   "name": "Kudu Dynamics",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "17a4bf48625776d5971ae2a346c34e944d35d2db",
+      "title": "AI/Automation Development Intern, Assessment & Authorization",
+      "url": "https://go.vansh.nyc/1l3",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "00254f02437434479f812ab8e6730f3cb6f95e9a",
       "title": "Software Engineering & AI Intern",

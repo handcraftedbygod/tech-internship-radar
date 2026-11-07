@@ -2,18 +2,18 @@
   "slug": "intercontinental-exchange",
   "name": "Intercontinental Exchange",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 14,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 9,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 11
     },
     {
       "hub": "New York",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 13
     },
     {
       "id": "ai",
@@ -43,10 +43,52 @@
     0,
     0,
     1,
-    8,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "94d2dd9215597108da9c88dd649e86520c7c99a3",
+      "title": "Infrastructure Development & Automation Intern",
+      "url": "https://go.vansh.nyc/1lE",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "c6a10e9215919b6be71ceef0fde6b7d4d62ed028",
+      "title": "Release Engineering Intern",
+      "url": "https://go.vansh.nyc/1lD",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "781f675f6eebc7bd950282e0d5bb2db13da1d23a",
+      "title": "Trading System Development Intern",
+      "url": "https://go.vansh.nyc/1lC",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "091acb168645c003ed890512bcd942feac92914e",
+      "title": "Application Security Intern",
+      "url": "https://go.vansh.nyc/1k7",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "bd5780c1288cd8770a438e01fb7ad2fe83a63992",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1k6",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "34aef065fccd5d7bb838b5e65ef1dd32e78d24f3",
+      "title": "Infrastructure Observability Intern",
+      "url": "https://go.vansh.nyc/1k5",
+      "location": "Jacksonville, FL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "7fa00c7e42808c092170417a560f874458a8af8a",
       "title": "Cybersecurity Architect Intern",
@@ -74,41 +116,6 @@
       "url": "https://go.vansh.nyc/133",
       "location": "Jacksonville, FL",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "a07daf0dcaccc1dea3d61dc9cb5a810ac22d7dbb",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/132",
-      "location": "Jacksonville, FL",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "080c63b11045bbfeb33e3fa22824f1dd0bfbeff2",
-      "title": "Software Engineering Intern, Java",
-      "url": "https://go.vansh.nyc/131",
-      "location": "Jacksonville, FL",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "7b819d3b904042957c6952d0e98373bd8d03c182",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/130",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "737ebc5bc134f846849636604c107c207e41e0de",
-      "title": "Data Science Intern",
-      "url": "https://go.vansh.nyc/12Z",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "5fde8d1b3e23726e5922da21ecca3aaee1a9d563",
-      "title": "Summer Internship Program 2027 - Cybersecurity Engineering Intern",
-      "url": "https://www.adzuna.co.uk/jobs/details/5940484199?utm_medium=api&utm_source=freehire.me",
-      "location": "London, UK",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Montreal",
@@ -23,13 +23,13 @@
       "count": 8
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
-    },
-    {
       "id": "hw",
       "label": "Hardware",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     },
     {
@@ -49,10 +49,17 @@
     0,
     0,
     11,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1d747ccab25cab15ef9e4afab344bc87c03b693",
+      "title": "New Grad: Embedded Security Software Developer",
+      "url": "https://go.vansh.nyc/1lM",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "170419d4a0273a8f89e17ea55f1cd1bc821ee957",
       "title": "New Grad: Software Design/Engineer",
@@ -114,13 +121,6 @@
       "title": "Services Business Intelligence & Analytics Intern",
       "url": "https://go.vansh.nyc/cx",
       "location": "Montreal, QC, Canada, Ottawa, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "a0fa30659909a1f9be5c9da543784409700181bb",
-      "title": "Software Engineer Intern, Security",
-      "url": "https://go.vansh.nyc/cp",
-      "location": "Atlanta, GA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

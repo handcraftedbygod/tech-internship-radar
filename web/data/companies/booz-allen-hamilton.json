@@ -2,21 +2,21 @@
   "slug": "booz-allen-hamilton",
   "name": "Booz Allen Hamilton",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     10,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c44fbc2a781a93c0ef93027920cc82dd09a7fcf3",
+      "title": "New Grad 2027: Cybersecurity Analyst, Junior",
+      "url": "https://go.vansh.nyc/1kM",
+      "location": "Rome, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "d2cb9e77378a9e4317f2fdac01bf98d8d0821763",
       "title": "New Grad 2027: Software Developer",
@@ -104,13 +111,6 @@
       "id": "7c41d7f2c9cfc9fe3d4123d9e0a80ad8b1ed20ac",
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/SY",
-      "location": "Detroit, MI",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "0aa1e76ac6c91fd62f3137e21f8ac6bfbffae17a",
-      "title": "Systems Engineer Intern",
-      "url": "https://go.vansh.nyc/SX",
       "location": "Detroit, MI",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }

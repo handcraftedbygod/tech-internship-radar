@@ -2,14 +2,14 @@
   "slug": "danaher",
   "name": "Danaher Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "59f84ad2ed249d248eed1a42e26bab578e893d80",
+      "title": "Firmware Engineer Co-op",
+      "url": "https://go.vansh.nyc/1kG",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "a75bee3e479a47b37868a1becc64ed509e03c41b",
       "title": "Application Integration Developer Intern",

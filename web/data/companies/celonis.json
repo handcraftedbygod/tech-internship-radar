@@ -2,10 +2,10 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 64,
-  "avgPostingDurationDays": 34.4,
+  "totalPostings": 66,
+  "avgPostingDurationDays": 34.7,
   "topLocations": [
     {
       "hub": "Madrid",
@@ -17,14 +17,14 @@
     },
     {
       "hub": "New York",
+      "count": 4
+    },
+    {
+      "hub": "Other",
       "count": 3
     },
     {
       "hub": "Paris",
-      "count": 2
-    },
-    {
-      "hub": "Other",
       "count": 2
     }
   ],
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 32
     },
     {
       "id": "biz",
@@ -66,10 +66,24 @@
     10,
     17,
     7,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3766e1e77baf7c8d08842ef37bb7e3fc0de3b96d",
+      "title": "Associate Deployment Engineer",
+      "url": "https://go.vansh.nyc/1ki",
+      "location": "Raleigh, NC",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "130b87fa16a4f7c87a5719e95e9127c9fa24f937",
+      "title": "Associate Deployment Engineer",
+      "url": "https://go.vansh.nyc/1kh",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "42c5f7f58b1aa101fc0c97cf6837f0de96293a8d",
       "title": "Intern CCO Enablement & Programs",
@@ -125,20 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "04d9102e1ab92537037a860c8916ac434410013a",
-      "title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "799e4a496e8c5b5c73fcaf91bc4c3fe226da080a",
-      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627708003?gh_jid=7627708003",
-      "location": "Raleigh, US, North Carolina",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
     }
   ]
 }

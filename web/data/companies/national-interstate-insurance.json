@@ -2,21 +2,21 @@
   "slug": "national-interstate-insurance",
   "name": "National Interstate Insurance",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     10,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "33bfd8a92e1a7ed243ce516215c3f63fe33cddbf",
+      "title": "Claims Technical Intern",
+      "url": "https://go.vansh.nyc/1kH",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "27798d1e62344ae90ddfdae0d5e798172d5dcf38",
       "title": "Business Intelligence Intern, Power BI",
@@ -104,13 +111,6 @@
       "id": "f2dd36a5759fe109f42bb2ebd9bad959600e757f",
       "title": "Emerging Technology Intern",
       "url": "https://go.vansh.nyc/Wh",
-      "location": "Cincinnati, OH",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "37de0fd5771d250b1e0d361dfd43774dc68e8df5",
-      "title": "Data Automation Intern",
-      "url": "https://go.vansh.nyc/Wg",
       "location": "Cincinnati, OH",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

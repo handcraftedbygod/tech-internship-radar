@@ -2,21 +2,21 @@
   "slug": "escape",
   "name": "Escape",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e947d5e34013c92392ccbe79ecbbf1e6ef5be36d",
+      "title": "Junior Full Stack Engineer | AI & Security",
+      "url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-269013",
+      "location": "Paris Office",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "670c66bfa5ef9d970e7199af4336da55d8db6a58",
       "title": "Junior Full Stack Engineer | AI & Security",

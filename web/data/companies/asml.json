@@ -2,9 +2,9 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 26,
+  "totalPostings": 27,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     2,
     18,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "94c524d36dc0138af4943a0081638f9dd54688e7",
+      "title": "Internship - Application Software QA Engineer",
+      "url": "https://www.themuse.com/jobs/asml/internship-application-software-qa-engineer",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "dae2523cb97487047126c9360b2f5f912c39517d",
       "title": "Business Analytics | Data Science internship: AI-driven operations",
@@ -103,13 +110,6 @@
       "id": "5f091e684768e338ea8a24eb13703684d57958a5",
       "title": "Application Software QA Engineer Intern",
       "url": "https://go.vansh.nyc/gY",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "b078cd8a1a596713763fcbd9143bc3c139dde175",
-      "title": "Software Engineer In Test Intern, MOD",
-      "url": "https://go.vansh.nyc/gM",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

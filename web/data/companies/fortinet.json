@@ -2,11 +2,15 @@
   "slug": "fortinet",
   "name": "Fortinet",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Zurich",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "099fc6da211729b9a2dd08caf9b580cc952323d3",
+      "title": "Technical Content DevOps Developer",
+      "url": "https://go.vansh.nyc/1lB",
+      "location": "Burnaby, Canada",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "034b4209cc0e6b248e511f0724bb73cd67927e99",
+      "title": "Software Engineer – Cloud Platform (FortiSIEM)",
+      "url": "https://go.vansh.nyc/1l1",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "fc792c787f6553aa1082cbfc305b6a9e43ccef14",
       "title": "Junior Systems Engineer",

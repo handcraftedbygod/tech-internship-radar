@@ -2,21 +2,21 @@
   "slug": "dwyeromega",
   "name": "DwyerOmega",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc9ee487bd48e05f7cf36db2dd76637fc8396f50",
+      "title": "Cyber Resilience & Product Security Intern",
+      "url": "https://go.vansh.nyc/1kY",
+      "location": "Michigan City, IN",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "e2512b9e81515172e08a2e14905500cbefc611b7",
       "title": "Software Engineer Intern",

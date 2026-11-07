@@ -1,0 +1,82 @@
+{
+  "slug": "match",
+  "name": "Match Group",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 4
+    },
+    {
+      "hub": "Los Angeles",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fb5e31be6fdc33c95f0fb7b7888044cc52d5f0bf",
+      "title": "iOS Engineer Intern",
+      "url": "https://go.vansh.nyc/1kp",
+      "location": "Los Angeles, CA, Palo Alto, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "743c3e66431f37aabbb4aea48912372f4a40e308",
+      "title": "Android Engineer Intern",
+      "url": "https://go.vansh.nyc/1ko",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "184cad250aa98d060322bb2c81ff11c597ba55f3",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1kl",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "13c1ec9a5aab48906fb465b4279c0f529e5665c0",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1kk",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "e2d868579850a268f7ea16df0a91a3ebe7eb39b4",
+      "title": "Backend Engineer Intern",
+      "url": "https://go.vansh.nyc/1kj",
+      "location": "Palo Alto, CA, Los Angeles, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

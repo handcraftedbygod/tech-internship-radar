@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 32,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 89,
+  "totalPostings": 90,
   "avgPostingDurationDays": 25.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 56
+      "count": 57
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 66
+      "count": 67
     },
     {
       "id": "biz",
@@ -57,10 +57,17 @@
     33,
     26,
     25,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f314a0899cc1781ba081b81d4588b2624ffc7314",
+      "title": "Intern Account Management Integrations Global",
+      "url": "https://careers.glovoapp.com/job/intern-account-management-integrations-global-in-barcelona-spain-jid-744000160184049/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "fde2b605b069bbf57e187938b43dd1d47b90b045",
       "title": "Junior Occupational Health and Safety",
@@ -121,13 +128,6 @@
       "id": "fa7387005251f351712c94742ce30aaadba799e9",
       "title": "Junior Privacy Counsel",
       "url": "https://careers.glovoapp.com/job/junior-privacy-counsel-in-barcelona-spain-jid-744000157869414/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "c5d7c706bba9aa3f586477894084e0c182249328",
-      "title": "Junior Business Performance Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-business-performance-analyst-in-barcelona-spain-jid-744000158104139/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

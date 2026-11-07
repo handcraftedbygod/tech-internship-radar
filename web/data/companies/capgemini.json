@@ -2,14 +2,14 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 33,
+  "totalPostings": 34,
   "avgPostingDurationDays": 18,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Katowice",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 23
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     12,
     10,
     9,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56f26b820d98b7becf4e8faa978b9b872b94616c",
+      "title": "Associate Application Consultant",
+      "url": "https://go.vansh.nyc/1lT",
+      "location": "Philadelphia, PA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "f9fb912c7a42e4e5cfc42a3fd97c36a5606a7c5b",
       "title": "Associate Application Consultant",
@@ -120,13 +127,6 @@
       "id": "04970caae3c36724c1403e9be4e33134207cdea8",
       "title": "Junior Fullstack Developer (Typescript & React)",
       "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Fullstack-Developer-%28Typescript-&-React%29/1400190833/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "998f5ba25dd783dac3d0eae29bb0fb8476b30b9a",
-      "title": "Junior DevOps Engineer",
-      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-DevOps-Engineer/1412693633/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }

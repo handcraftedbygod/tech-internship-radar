@@ -2,14 +2,14 @@
   "slug": "baird",
   "name": "Baird",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "172bc0e8c35fe8e6e18d61054b98ed80b75c82ae",
+      "title": "IT Data & Analytics Intern",
+      "url": "https://go.vansh.nyc/1lb",
+      "location": "Milwaukee, WI, Madison, WI",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "9c81526c39fe494b1ec42208c6369b73477142c4",
       "title": "Quality Assurance Automation Engineer Intern",

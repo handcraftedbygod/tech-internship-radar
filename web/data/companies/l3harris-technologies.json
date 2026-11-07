@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 13,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 9.4,
+  "totalPostings": 25,
+  "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 25
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 25
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     19,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "72322483ba66672938b805951e0d8c55c2b0684b",
+      "title": "Associate, Software Engineer",
+      "url": "https://go.vansh.nyc/1kJ",
+      "location": "Troutman, FL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "0b57d1bfff3edf130fca1e63022facce70ceba74",
+      "title": "Data Architect Intern",
+      "url": "https://go.vansh.nyc/1lH",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "7b193d626b35c8d3f23535d66047b2b5a42a21d9",
       "title": "Associate, Software Engineer",
@@ -89,20 +103,6 @@
       "url": "https://go.vansh.nyc/Yw",
       "location": "Carlsbad, CA",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "6cbbe64fa0807c368bd1b5ac0ac3a45c0dc0b999",
-      "title": "Information Security Systems Engineer Intern",
-      "url": "https://go.vansh.nyc/XU",
-      "location": "Salt Lake City, UT",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "815aff1da8e804745ea209d06b934c5ea57e3d2f",
-      "title": "Associate, Software Engineering",
-      "url": "https://go.vansh.nyc/Ve",
-      "location": "Rochester, NY",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

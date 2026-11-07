@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 165,
+  "currentOpenings": 166,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 289,
+  "totalPostings": 290,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 233
+      "count": 234
     },
     {
       "hub": "Seattle",
@@ -39,7 +39,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    163,
+    164,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c2bce5eb569b7f9e87bd674f472b50a786382bf",
+      "title": "GEO Content Product Manager Intern",
+      "url": "https://go.vansh.nyc/1lW",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "0f5cb5970cd292710b2a497091f9d781da097bce",
       "title": "POI Content Product Manager Intern",
@@ -117,13 +124,6 @@
       "id": "98448800e7b14fd9eb194b9c56018fac91f8abe1",
       "title": "New Grad 2027: Machine Learning Engineer, Visual Search",
       "url": "https://go.vansh.nyc/17j",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "e4d4858cab719c3344e3135fdb825727b23d9445",
-      "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
-      "url": "https://go.vansh.nyc/17i",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

@@ -1,0 +1,64 @@
+{
+  "slug": "invitation-charter",
+  "name": "Invitation-charter",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6e5d076db70e6674128d9bc01f0c13e0771fdb38",
+      "title": "Data Developer Intern",
+      "url": "https://go.vansh.nyc/1kw",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "b3d4bb9e2f183249db41c294fc28b8cbbb30eb5e",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1kv",
+      "location": "Englewood, CO",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "75b5a2b54a91f643de7350cd03549b2ab76721f9",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1ku",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

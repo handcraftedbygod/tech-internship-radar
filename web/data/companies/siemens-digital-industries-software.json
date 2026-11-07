@@ -2,9 +2,9 @@
   "slug": "siemens-digital-industries-software",
   "name": "Siemens Digital Industries Software",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-02T12:02:27.024Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Chicago",
       "count": 1
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +43,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5154f09f694f592f0a9ce8fd39eefb7d3ef8867",
+      "title": "Software Engineer Intern, UI Automation & QA",
+      "url": "https://es.whatjobs.com/pub_api__cpl__366696141__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "ea04227d467eeb6dd827a9e9048dd012df030f0d",
       "title": "Strategic Student Program Digital Enterprise Software Applications Intern",

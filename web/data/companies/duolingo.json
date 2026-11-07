@@ -2,14 +2,14 @@
   "slug": "duolingo",
   "name": "Duolingo",
   "tier": "notable",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 14.6,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "product",
@@ -44,10 +44,17 @@
     0,
     3,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad09d554f94ca3e3bd20f0f3ed56ebcb6d7cdfd5",
+      "title": "AI Research Intern (PhD)",
+      "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+      "location": "New York, NY; Pittsburgh, PA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "c6182b486987266a02290c9a1efaaa10741e4cc9",
       "title": "QA Specialist I, Recent Graduate",

@@ -2,9 +2,9 @@
   "slug": "samsara",
   "name": "Samsara",
   "tier": null,
-  "currentOpenings": 22,
+  "currentOpenings": 25,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 29,
+  "totalPostings": 32,
   "avgPostingDurationDays": 26.5,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 29
     },
     {
       "id": "design",
@@ -48,10 +48,31 @@
     17,
     0,
     11,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bca2cfdd9df4fb71a544f495a2b463e14da15631",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1kA",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "78bb8c84f2cbe5ddfebe9a831eb40d5509fc56ac",
+      "title": "Software Engineering Internship - San Francisco ",
+      "url": "https://www.themuse.com/jobs/samsarainc/software-engineering-internship-san-francisco-2099e4",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "54312223853d3bc4e8d72474aa2c7b2c78fd4cbb",
+      "title": "Software Engineering Internship - San Francisco ",
+      "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
+      "location": "San Francisco - SF9",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "ef9628bacb259fa5480b41411eca7eecfc52cf76",
       "title": "Software Engineering Internship - London",
@@ -99,27 +120,6 @@
       "title": "Account Development Representative Intern - Phoenix",
       "url": "https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371",
       "location": "Remote - AZ",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "cb42a8d29160384205ea79ab9d3a61a3ac65ee7e",
-      "title": "Account Development Representative Intern - Phoenix",
-      "url": "https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056",
-      "location": "Phoenix, Arizona, United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "94fa16dcf3c799f4b22506e480745332bf8565ac",
-      "title": "Account Development Representative Intern - Atlanta",
-      "url": "https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057",
-      "location": "Atlanta, Georgia, United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "47c4986141cf8555c752ad535ad5209a3d97cf28",
-      "title": "Account Development Representative Intern - Atlanta",
-      "url": "https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373",
-      "location": "Atlanta, Georgia, United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]

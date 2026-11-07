@@ -2,14 +2,14 @@
   "slug": "trimble",
   "name": "Trimble",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c787d8495309873428a8daea6ef22e3f6324d8b9",
+      "title": "AI Automation Intern",
+      "url": "https://go.vansh.nyc/1lh",
+      "location": "Dayton, OH, Westminster, CO",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "c87eac01d5c3a303fbbaec6035fb6c0425297598",
       "title": "AI Developer Intern",

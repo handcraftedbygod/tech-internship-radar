@@ -2,13 +2,17 @@
   "slug": "knowway",
   "name": "KnowWay GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77d38ef83def2f91bca90b5e361b0dfd15fe36be",
+      "title": "Working Student Platform Engineering & DevOps (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/working-student-platform-engineering-devops-munich-153449",
+      "location": "Munich",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "6111d5f17c7403073d47bd4e59984187d6cd58c0",
       "title": "Software Engineering Praktikum (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "wr-berkley",
   "name": "W.R. Berkley",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c754c8b45bfce07a7321d5f9737649d985942a7",
+      "title": "Software Developer Intern, .NET",
+      "url": "https://go.vansh.nyc/1k4",
+      "location": "Urbandale, IA",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "a3e2b2765a642f2b81fabf76780c521a5bca7f24",
       "title": "Enterprise Architecture Co-op",

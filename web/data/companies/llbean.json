@@ -1,0 +1,52 @@
+{
+  "slug": "llbean",
+  "name": "L.L.Bean",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-07T10:55:40.226Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c294d7600144c1119ae6fb0ef1efe76ea237c210",
+      "title": "Quality Assurance Analyst Intern",
+      "url": "https://go.vansh.nyc/1lF",
+      "location": "Freeport, ME",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
+    {
+      "id": "373b12f8dc279a859deac92e9bf974f39cec0d4e",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1lw",
+      "location": "Freeport, ME",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "periscope",
   "name": "PERISCOPE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92cc731a08b6c6f8083d83ebfe94730f09d9f204",
+      "title": "Business Developer junior (H/F) – Agence digitale",
+      "url": "https://www.arbeitnow.fr/jobs/companies/periscope/business-developer-junior-h-f-agence-digitale-paris-496979?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "8b803c29454f0bfb0bdd09fa3e29457f01db2f8d",
       "title": "Business Developer junior (H/F) – Agence digitale",

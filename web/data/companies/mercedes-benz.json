@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 48,
+  "totalPostings": 49,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 39
+      "count": 40
     },
     {
       "hub": "Stuttgart",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 29
     },
     {
       "id": "ai",
@@ -51,10 +51,17 @@
     19,
     10,
     14,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1518575af45e64bdc2725d998b80ad89050c8885",
+      "title": "Working Student Autosar Software Testing & Test Automation",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1651345-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "b5b575fa5385db3013284a26f9f5cc567fcfea8f",
       "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
@@ -116,13 +123,6 @@
       "title": "Werkstudent*in People & Enterprise Tech, Research & Development, Backend Solutions",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643587-1-S",
       "location": "Böblingen",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "3dafd48db48e8ca9f2bb47dfc7381dc3d1ea2aee",
-      "title": "Praktikant*in Drive Systems Software & Calibration Engineering – Development Process Steering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631992-2-S",
-      "location": "Sindelfingen",
       "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]

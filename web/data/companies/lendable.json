@@ -2,21 +2,21 @@
   "slug": "lendable",
   "name": "lendable",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "568edf0ead658d5485f9616bb8ee74208be46b32",
+      "title": "Junior Data Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/junior-data-engineer-london-464668",
+      "location": "London",
+      "firstSeenAt": "2026-11-07T10:55:40.226Z"
+    },
     {
       "id": "0bde5f3686b80a21e75dbee59534bde516e684a8",
       "title": "Junior Data Engineer",
