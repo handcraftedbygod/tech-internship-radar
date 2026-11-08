@@ -2,14 +2,14 @@
   "slug": "framatome",
   "name": "Framatome",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "365301f96291a4e2793bdd96385643e42d754159",
+      "title": "AI and Software Innovation Intern",
+      "url": "https://go.vansh.nyc/1m6",
+      "location": "Lynchburg, VA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "4d6b9fb6a4974295a6424673ab78a92bef39014a",
       "title": "Internship in Software Development Code Qualification and Java Code Optimization with SonarQube",

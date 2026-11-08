@@ -2,21 +2,21 @@
   "slug": "devops-excellence",
   "name": "devops excellence",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a39419b78e38d0edef97429cd51547c068e42735",
+      "title": "Junior DevOps Engineer (m/w/d) - System Engineering / Admin, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__503584185__7078?utm_campaign=publisher&utm_medium=api&geoID=117563&utm_source=freehire.me",
+      "location": "Nuremberg, Germany",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "99b4f6e4aa3470d510d5cd658dfd563e803ea076",
       "title": "Junior DevOps Engineer (m/w/d) (IT-Systemadministrator/in)",

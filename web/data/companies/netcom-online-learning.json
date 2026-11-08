@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     13,
     10,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7168b1698161d9056df88dfeaa1871563728659b",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5955994047?se=gtcM6XPa8RGD5Iv7NVeOtg&utm_medium=api&v=95ADC36B017AD6413D3DFB7772C21D0BC740B2E3&utm_source=freehire.me",
+      "location": "Birmingham, West Midlands",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "7a7e503c51477e6b244d8f7a19e90cfa2cb5ecf1",
       "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
@@ -96,13 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5859746013?se=iCRsly2n8RG2HomFYOMXfQ&utm_medium=api&utm_source=freehire.me&v=CB952F539F2644C7E2CCCFC2A1721E1F5941A7D9",
       "location": "Liverpool, Merseyside",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "d4f171683c8b5fafd16623c77ae314c16b138f5e",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5859746013?se=euFVBTym8RG5At0T0GlLXQ&utm_medium=api&utm_source=freehire.me&v=CB952F539F2644C7E2CCCFC2A1721E1F5941A7D9",
-      "location": "Liverpool, Merseyside",
-      "firstSeenAt": "2026-09-02T08:26:00.692Z"
     }
   ]
 }

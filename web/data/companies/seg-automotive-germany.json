@@ -2,21 +2,25 @@
   "slug": "seg-automotive-germany",
   "name": "SEG Automotive Germany GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Stuttgart",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "hw",
@@ -35,10 +39,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5662504fe16df701afd4bea114846b5b5d1f538a",
+      "title": "Werkstudent (m/w/d) Software Development",
+      "url": "https://www.adzuna.de/details/5955999819?utm_medium=api&utm_source=freehire.me",
+      "location": "Stuttgart, Baden-Württemberg",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "a7086b2dfcd00b8322b0d93f934178e3ecf7c142",
+      "title": "Werkstudent (m/w/d) Software Development",
+      "url": "https://www.adzuna.de/details/5956436642?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "1b73b5aae5be8a5dde712fc729e269be2939574e",
       "title": "Internship - Development of embedded software configuration GUI, Stuttgart-Weilimdorf",

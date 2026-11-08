@@ -2,21 +2,21 @@
   "slug": "noesis-careers",
   "name": "Noesis Careers",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3dc98909af8add218539d9c98af8c0913e4684a7",
+      "title": "Java Developer Junior (Alfragide)",
+      "url": "https://opportunities.noesis.pt/jobs/java-developer-junior-931156f0-2062-4d45-b606-e39128b81f7c?utm_source=freehire.me",
+      "location": "Lisboa",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "bce4172bebe76b3909077a8d85d1518310e6fd25",
       "title": "Junior Cybersecurity Consultant - Lisboa/Covilhã",

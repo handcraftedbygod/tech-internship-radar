@@ -2,21 +2,21 @@
   "slug": "jackie-kerr-recruitment",
   "name": "Jackie Kerr Recruitment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1a027804391c35bc1fb50718c36c1caa34b2470c",
+      "title": "Business Central Administrator (Junior Developer)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5955668860?utm_medium=api&utm_source=freehire.me",
+      "location": "Highworth, Swindon",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "d8b950b907e34e09792d7ba200c799b9185f7f4b",
       "title": "Business Central Administrator (Junior Developer)",

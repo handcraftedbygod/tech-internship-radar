@@ -2,25 +2,25 @@
   "slug": "west-bend-insurance",
   "name": "West Bend Insurance",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e5fac8bc704695d3e5e7170b610041d6cebccd99",
+      "title": "Data Solution Engineer Intern",
+      "url": "https://go.vansh.nyc/1my",
+      "location": "West Bend, WI",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "d6d61eefa09af48d68f270d14d3dfcd81689741d",
       "title": "IT Software Engineer Intern",

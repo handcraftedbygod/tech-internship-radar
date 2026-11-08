@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 46,
+  "totalPostings": 47,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Krakow",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f4abcdceefceeb48edfd9f791c61099f44693796",
+      "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345?utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "56bd3d9ab38bc552a09400964d0c3360c2b3da50",
       "title": "ASIC DFT Engineer I",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/Wc",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "cd1c817fa718148333f46bf17c6d80a1438f5ea6",
-      "title": "Software Developer, Embedded Systems I",
-      "url": "https://go.vansh.nyc/B4",
-      "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Montreal, Canada, Vancouver, Canada, Ottawa, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "slug": "cr-dit-mutuel-alliance-f-d-rale",
+  "name": "Crédit Mutuel Alliance Fédérale",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-08T11:04:42.595Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "28592060af53d94a787a148f299db7ad24c1c3f2",
+      "title": "Stagiaire école (F/H) - Automatisation des pipelines de Machine Learning",
+      "url": "https://recrutement.creditmutuel.fr/fr/offre.html?annonce=117834&utm_source=freehire.me",
+      "location": "Nantes, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "f7e49aed305ea57499cf46bb0cbb8c12d90299ea",
+      "title": "Stagiaire école (F/H) - Full Stack Engineer - Console de suivi - Assurance Vie",
+      "url": "https://recrutement.creditmutuel.fr/fr/offre.html?annonce=117828&utm_source=freehire.me",
+      "location": "Strasbourg, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "f9b68e4afefa3b064e782db434a74d216f8522bd",
+      "title": "Stagiaire école (F/H) - Full Stack Engineer - Application d’édition d’assurance vie",
+      "url": "https://recrutement.creditmutuel.fr/fr/offre.html?annonce=117830&utm_source=freehire.me",
+      "location": "Strasbourg, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    }
+  ]
+}

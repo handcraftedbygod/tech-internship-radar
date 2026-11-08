@@ -2,25 +2,25 @@
   "slug": "enovation-controls",
   "name": "Enovation Controls",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd2e24970afcde0b4ce2c5622b16949ea191eb98",
+      "title": "Product Content Automation Intern",
+      "url": "https://go.vansh.nyc/1mr",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "16d692f97b3d1148cacda749dd2c52cbe856b655",
       "title": "Manufacturing Software Engineer Intern",

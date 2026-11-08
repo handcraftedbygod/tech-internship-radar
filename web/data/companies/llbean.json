@@ -2,14 +2,14 @@
   "slug": "llbean",
   "name": "L.L.Bean",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a6e66e4e0ae7dbf8cfa7eb6d719d21d301ac4f9",
+      "title": "Business Analyst/Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1mD",
+      "location": "Freeport, ME",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "c294d7600144c1119ae6fb0ef1efe76ea237c210",
       "title": "Quality Assurance Analyst Intern",

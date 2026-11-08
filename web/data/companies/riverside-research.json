@@ -2,21 +2,21 @@
   "slug": "riverside-research",
   "name": "Riverside Research",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99bb2bbd4a7bc8d730eb32f38399d73aad7cb93b",
+      "title": "Formal Methods Research Intern",
+      "url": "https://go.vansh.nyc/1mh",
+      "location": "Lexington, MA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "ebeb94975a6633d9b67bab226f2cfffaf9ed580f",
       "title": "Software Applications Intern",

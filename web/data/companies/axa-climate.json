@@ -2,21 +2,21 @@
   "slug": "axa-climate",
   "name": "AXA Climate",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,31 @@
     0,
     0,
     0,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e06e1cb3f3da99848d22472cf19eda447363e83d",
+      "title": "Junior Python Developer H/F",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__162687208__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "913a850cfa08271233b4cacb7d2c426eede0763f",
+      "title": "Junior Python Developer",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__162347722__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "3f9fb7c3a8d8132554e1184a7c5b19e8fbc8c485",
+      "title": "Junior Python Developer - Climate Data Pipelines",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__162341010__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "04984d7dc1a4f27b05542e8f3061f8dbc09f334f",
       "title": "Junior Python Developer",

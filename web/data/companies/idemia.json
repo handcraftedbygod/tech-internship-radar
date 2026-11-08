@@ -2,21 +2,21 @@
   "slug": "idemia",
   "name": "IDEMIA",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51606b3bfac12be23b6e67d7b7c4e9fc27d8df7f",
+      "title": "Service Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1m1",
+      "location": "Brentwood, TN",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "47b79f2ac9fd86cb16b5d35a3bc34722861f7491",
       "title": "Software Engineering Intern, Enrollment and Credentialing Services",

@@ -1,0 +1,56 @@
+{
+  "slug": "rockefeller-capital-management",
+  "name": "Rockefeller Capital Management",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-08T11:04:42.595Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ce306076b16e6d0b08fe804dbdd68bc7a451734d",
+      "title": "Analyst Intern, Information Security",
+      "url": "https://go.vansh.nyc/1mv",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "a0e32d4e93d09ba2a50fbf1d8af8ba6915a343d1",
+      "title": "Analyst Intern, Core Platforms",
+      "url": "https://go.vansh.nyc/1mu",
+      "location": "Hamilton, NJ",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    }
+  ]
+}

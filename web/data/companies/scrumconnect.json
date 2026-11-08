@@ -2,20 +2,25 @@
   "slug": "scrumconnect",
   "name": "Scrumconnect Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "791e4139417c4ac5183a1de2c5823a6954e23a05",
+      "title": "Junior Software Developer (Power Platform)",
+      "url": "https://scrumconnect.zohorecruit.eu/jobs/Careers/52781000021578789?utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "406a535037d161f3b92952ca64d901081a13f56b",
       "title": "Data Engineering Academy Trainee",

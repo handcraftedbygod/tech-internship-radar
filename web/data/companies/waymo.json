@@ -2,9 +2,9 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 18.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "San Francisco",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 23
+      "count": 24
     },
     {
       "id": "swe",
@@ -47,10 +47,17 @@
     0,
     7,
     23,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "269e98f72d6d5f19a203656ecb1702af265d9840",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/2027-summer-intern-ms-phd-machine-learning-simulation-realism-london-169277",
+      "location": "London",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "b21b957054b36c1a731075d82c068a98901bf257",
       "title": "2027 Summer Intern, MS/PhD, Product Data Science",
@@ -112,13 +119,6 @@
       "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
       "location": "San Francisco, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "b64b238b0079d253b28b97d1460e390444625ba4",
-      "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
-      "location": "Mountain View, CA",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]

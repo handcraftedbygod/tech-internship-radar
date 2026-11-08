@@ -1,0 +1,57 @@
+{
+  "slug": "dayton-freight",
+  "name": "Dayton Freight",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-08T11:04:42.595Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "90c496e92cd5454a1445990e647e45abe225eb8c",
+      "title": "Business Intelligence Intern",
+      "url": "https://go.vansh.nyc/1ma",
+      "location": "Dayton, OH",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "62acafc42d5c6faccd9b296c24202aa3bef0dd6b",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1m9",
+      "location": "Dayton, OH",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    }
+  ]
+}

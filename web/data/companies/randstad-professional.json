@@ -2,11 +2,15 @@
   "slug": "randstad-professional",
   "name": "Randstad Professional",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Bremen",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9b1ff9c778f171cf441b84e9fa462aefd5a1c04a",
+      "title": "Junior DevOps Engineer IAM",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__178217400__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "9ffd527c135f2a645dd574099a58dcc930bbb3b5",
+      "title": "Junior IAM DevOps Engineer - EntraID & AD | Agile",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__178222691__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "6c9cfff764dddf8bc86c56b339c1d89f73dc1104",
       "title": "(Junior) Frontend-Entwickler (m/w/d) Web Systems (Frontend-Entwickler/in)",

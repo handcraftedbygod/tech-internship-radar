@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 24,
-  "avgPostingDurationDays": 12.2,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "Munich",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "design",
@@ -56,10 +56,24 @@
     0,
     2,
     21,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c0de2f0293173253f8c28c50e3eb714e179383f",
+      "title": "Intern - Software Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer?utm_source=freehire.me",
+      "location": "Cork",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "27308efea924bf8bc1491a6f14a9b3d2d53de20d",
+      "title": "AI Operations, Applied AI Research and Design Developer",
+      "url": "https://go.vansh.nyc/1mi",
+      "location": "Cupertino, CA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "e1ea3a8a16f458224958c325869fd47258048b28",
       "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
@@ -113,20 +127,6 @@
       "id": "0fc6fcabf49a86e4e20be5a58cbd7c3b9520e99c",
       "title": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
       "url": "https://go.vansh.nyc/Dc",
-      "location": "United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "fe02ac35f28f2b982e66a0329415e579bd405673",
-      "title": "Information Security Intern",
-      "url": "https://go.vansh.nyc/D9",
-      "location": "United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "7ec9b39402974c9b98735fbe9e93ddee7ec5be32",
-      "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
-      "url": "https://go.vansh.nyc/D3",
       "location": "United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }

@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 14,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ai",
@@ -49,10 +49,24 @@
     0,
     0,
     6,
-    10,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e6964354f2fd0952ccad2ecef8a2496b580547f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mJ",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "ea30d9d6644664c6bfc298461d4d7c96cdc95351",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mC",
+      "location": "Bellevue, WA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "4e32273d6f46252833fa88210f93dc0dd5c4e6dd",
       "title": "AI Strategist Intern",
@@ -108,20 +122,6 @@
       "url": "https://go.vansh.nyc/1er",
       "location": "Philadelphia, PA",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "bbd6f0677ead2676aa03a9ffde72aa0ab65078ac",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/19r",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "0ba66852ef6496479f888730570e04b7f425004a",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/19q",
-      "location": "Philadelphia, PA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

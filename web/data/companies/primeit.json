@@ -2,14 +2,18 @@
   "slug": "primeit",
   "name": "PrimeIT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
       "count": 5
+    },
+    {
+      "hub": "Madrid",
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "biz",
@@ -35,10 +44,24 @@
     1,
     0,
     4,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e6fd172fb63b7e4c24619f70b2d2a1aece7ef549",
+      "title": "Data Engineer Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369033224__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "419299813fc33adae2c495296a456f7114fe5664",
+      "title": "Data Engineer Junior: Carrera, Formación y Proyectos Globales",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369037538__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "5c1d5f0bcf8b41aa3998dd0e9f06ecf395dcc6f3",
       "title": "Junior Java Developer – Aveiro, Growth & Benefits",

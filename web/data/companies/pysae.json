@@ -1,22 +1,22 @@
 {
   "slug": "pysae",
-  "name": "PYSAE",
+  "name": "Pysae",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6be8b5da55fca9fb12eeae30a0ace35d506664ec",
+      "title": "Business Developer Intern Italy & International (H/F)",
+      "url": "https://pysae.recruitee.com/o/business-developer-intern-italy-international-hf?utm_source=freehire.me",
+      "location": "Paris, Île-de-France, France",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "613b49d48a909075ba1bba55f9c76a6308a1677f",
       "title": "Business Developer Intern Spain (H/F)",

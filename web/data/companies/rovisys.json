@@ -1,0 +1,59 @@
+{
+  "slug": "rovisys",
+  "name": "Rovisys",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-08T11:04:42.595Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4150907385fcb0a28f4fc64c918fafeece1c8eb5",
+      "title": "New Grad 2027: Entry Level Engineer/Developer",
+      "url": "https://go.vansh.nyc/1mI",
+      "location": "Holly Springs, NC",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "a55bd2fa04a1fbd24bc187fa832c9369967ddcc9",
+      "title": "New Grad 2027: Entry Level Engineer/Developer",
+      "url": "https://go.vansh.nyc/1mH",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "8453e3e6b395cee2bab4eb6c81a9c0e04e6d6ec6",
+      "title": "New Grad 2027: Entry Level Engineer/Developer",
+      "url": "https://go.vansh.nyc/1mG",
+      "location": "Houston, TX",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    }
+  ]
+}

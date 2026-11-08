@@ -2,21 +2,21 @@
   "slug": "just-eat-takeawaycom",
   "name": "Just Eat Takeaway.com",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "34389b6ba4a18b68c3bcc7d5baa5d5db7e6cf58e",
+      "title": "Junior Data Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__178032233__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "3df067f97946d5df557e0b839e60f6f3bfbcdd25",
       "title": "Junior Data Engineer: Build Scalable Data Pipelines",

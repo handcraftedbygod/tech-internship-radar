@@ -2,21 +2,21 @@
   "slug": "scalablegmbh",
   "name": "ScalableGmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "370331a12e3db213caa920bca282a77c57186a33",
+      "title": "(Junior) Frontend Engineer — Broker (m/f/x)",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160188274--junior-frontend-engineer-broker-m-f-x-?utm_source=freehire.me",
+      "location": "München, BY, de",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "0077d46721abc542d03f87cd8d9ff57de47104e6",
       "title": "Junior Backend Software Engineer (Kotlin / Java) - Banking Platform (m/f/x)",

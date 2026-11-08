@@ -2,21 +2,21 @@
   "slug": "erin-associates",
   "name": "Erin Associates",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "163236f5eb0bb5c722492c5b22e9847c925b8799",
+      "title": "Junior Software Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5957055438?utm_medium=api&utm_source=freehire.me",
+      "location": "St. Annes, Lytham St. Annes",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "8662891b09d61f340472c523724b9c68aa587265",
       "title": "Junior Software Developer",

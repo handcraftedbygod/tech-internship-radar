@@ -2,14 +2,14 @@
   "slug": "reply-deutschland",
   "name": "Reply Deutschland SE",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "swe",
@@ -47,10 +47,17 @@
     1,
     0,
     11,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6fe79cf78ae63d395b6f4a35ccb009211d53c331",
+      "title": "(Junior) Data Scientist / AI Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__503216314__7078?utm_campaign=publisher&utm_medium=api&geoID=6&utm_source=freehire.me",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "0abb3d86b0ac59373eeabbfb84522e3accd9e81f",
       "title": "Junior Data Engineer (m/w/d)",
@@ -113,13 +120,6 @@
       "url": "https://www.adzuna.de/land/ad/5941988112?se=hkU1BzjR8RGJ4c2TBOCzSQ&utm_medium=api&utm_source=freehire.me&v=4309D8EB945A0BE1F9F65E022B02ECC3B90ED31A",
       "location": "Deutschland",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "e312ec9185713aebddfe281ce41cd35f0b5a8039",
-      "title": "Junior Data Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
-      "url": "https://de.whatjobs.com/pub_api__cpl__498013921__7078?geoID=3&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

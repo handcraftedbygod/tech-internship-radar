@@ -2,14 +2,14 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     0,
     0,
     15,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "785bfc390ee62b612e61b43f4a31ecefb103834d",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/1mB",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "5619277c5933fe936ae3fcd366584ded5078d82d",
       "title": "Software Engineer (Master's)",
@@ -110,13 +117,6 @@
       "url": "https://go.vansh.nyc/YS",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "2546ce20ad9f0a1eeba0babd8d79bf1a0371b49f",
-      "title": "Software Engineer Intern, C++, Linux",
-      "url": "https://go.vansh.nyc/ho",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

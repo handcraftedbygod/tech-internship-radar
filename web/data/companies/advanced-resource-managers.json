@@ -1,15 +1,15 @@
 {
   "slug": "advanced-resource-managers",
-  "name": "Advanced Resource Managers Limited",
+  "name": "Advanced Resource Managers Ltd",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Dublin",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     0,
     0,
     1,
-    3,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5401a2e32c40d3520b3cc8efe44418cc3e80ddca",
+      "title": "Junior Data Scientist",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5955853817?se=cEetaEHa8RGJ_5m-0JeM1g&utm_medium=api&v=79EA64EB509500028ACD4E4AA786BE773CF9EFB3&utm_source=freehire.me",
+      "location": "Slough, Berkshire",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "f8feeef4263981a4854130e41f4af371f560ff2a",
+      "title": "Junior Devops Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__608201511__7082?utm_campaign=publisher&utm_medium=api&geoID=19285&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "1c4f993183d7e42b45c60b56c6e0d623991849e0",
+      "title": "Hybrid Junior DevOps Engineer – Kubernetes & Terraform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__608202483__7082?utm_campaign=publisher&utm_medium=api&geoID=19285&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "486ed0f3e9f5ead10ac185049a3d4193909e1194",
       "title": "Junior Data Scientist",

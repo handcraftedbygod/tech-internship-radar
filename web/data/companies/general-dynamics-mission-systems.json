@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 6,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 8.9,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 13
     },
     {
       "id": "hw",
@@ -35,10 +35,24 @@
     0,
     0,
     9,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce09fa112a1bead75442dae30ffdea9f1e620657",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1mA",
+      "location": "Manassas, VA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "b06dcbb2ccf594872d875b15ca689477ff778b14",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1mz",
+      "location": "Lakewood, OH",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "3663618b9e62aa963c840a022a07c51ab240102d",
       "title": "FPGA Engineer Intern",
@@ -94,20 +108,6 @@
       "url": "https://go.vansh.nyc/cC",
       "location": "Pittsburgh, PA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "60f24503a3ec74106444ef595efc085675568472",
-      "title": "Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75775/software-intern-engineer/job",
-      "location": "Scottsdale, AZ",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "93aa8f7a92170e36dc6b4a538b3c2e95598296be",
-      "title": "Software Engineer Intern",
-      "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job",
-      "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

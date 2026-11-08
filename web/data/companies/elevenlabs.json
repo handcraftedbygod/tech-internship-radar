@@ -1,0 +1,52 @@
+{
+  "slug": "elevenlabs",
+  "name": "ElevenLabs",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-08T11:04:42.595Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b4e27bc684f7b12aac9e1f49fd33513f1640011b",
+      "title": "Full-Stack Engineer (Backend Leaning)",
+      "url": "https://go.vansh.nyc/1mm",
+      "location": "New York, NY, Boston, MA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "0420a115129996e7eb0abc3e8090f64a0e47689a",
+      "title": "Full-Stack Engineer",
+      "url": "https://go.vansh.nyc/1ml",
+      "location": "New York, NY, Boston, MA",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    }
+  ]
+}

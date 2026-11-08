@@ -1,21 +1,26 @@
 {
   "slug": "kinaxis",
-  "name": "Kinaxis Inc.",
+  "name": "Kinaxis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,31 @@
     0,
     1,
     0,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3231080fa61093b1c880ec8930e9868d6791fef7",
+      "title": "Developer Intern, Back End Technologies",
+      "url": "https://go.vansh.nyc/1md",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "b2d13c70b0dda1a120b75b43030a91b6f63e2836",
+      "title": "Full Stack Developer Intern, C#",
+      "url": "https://go.vansh.nyc/1mc",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "7f6493c5c6f49c90d1a714b28e518424c6117196",
+      "title": "Developer Co-op, Machine Learning",
+      "url": "https://go.vansh.nyc/1mb",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "8f7fb2e0270ea68d15fc5d133b1df3d547587f12",
       "title": "Intern Software Developer Quality Assurance",

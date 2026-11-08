@@ -2,21 +2,21 @@
   "slug": "excelia",
   "name": "Excelia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6db4b1967febcb718557d69ced4416607b25a340",
+      "title": "Backend Junior - Node.js, Python, .NET",
+      "url": "https://excelia.factorial.es/job_posting/backend-junior-node-js-python-net-332662?utm_source=freehire.me",
+      "location": "Pozuelo de Alarcón, Madrid, España",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "accf426f8e9c82533aad14aaec198050aee8fe50",
       "title": "Junior Data Analyst",

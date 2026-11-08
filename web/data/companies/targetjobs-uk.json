@@ -2,29 +2,34 @@
   "slug": "targetjobs-uk",
   "name": "targetjobs UK",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 3
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -39,10 +44,31 @@
     0,
     2,
     0,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5f2ae454533ef71528549a1445cb446b87ec45e6",
+      "title": "Junior DevOps Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__609649083__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "0413d81a6423e486a33fdbfa736ad0f2ac387c61",
+      "title": "Junior DevOps Engineer - Training, Growth & UK Relocation",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__609649053__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
+    {
+      "id": "f675b281d96381f899d2947c1a7e07b2e1010b67",
+      "title": "Junior Data Engineer: Data Pipelines & Growth",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__611027045__7082?utm_campaign=publisher&utm_medium=api&geoID=19285&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-11-08T11:04:42.595Z"
+    },
     {
       "id": "bfe5cd8d9e1dd9677081c1e3d97228394eeb9c90",
       "title": "Data Engineer Intern - Motorsport Data Pipelines (12-Month)",
