@@ -1,5 +1,261 @@
 [
   {
+    "weekOf": "2026-11-01",
+    "newCount": 1305,
+    "prevWeekCount": 1560,
+    "pctChange": -16.3,
+    "totalTracked": 10534,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 859
+      },
+      {
+        "hub": "San Francisco",
+        "count": 121
+      },
+      {
+        "hub": "London",
+        "count": 52
+      },
+      {
+        "hub": "Paris",
+        "count": 36
+      },
+      {
+        "hub": "Barcelona",
+        "count": 35
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "tesla",
+        "name": "Tesla",
+        "count": 70
+      },
+      {
+        "slug": "northrop-grumman",
+        "name": "Northrop Grumman",
+        "count": 17
+      },
+      {
+        "slug": "rtx",
+        "name": "RTX",
+        "count": 17
+      },
+      {
+        "slug": "lidl-stiftung-co-kg",
+        "name": "Lidl Stiftung & Co KG",
+        "count": 12
+      },
+      {
+        "slug": "t-mobile",
+        "name": "T-Mobile",
+        "count": 12
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 392,
+      "sample": [
+        {
+          "slug": "1st-source",
+          "name": "1st Source"
+        },
+        {
+          "slug": "4ag-robotics",
+          "name": "4AG Robotics"
+        },
+        {
+          "slug": "971000-motorola-solutions-systems-polska-spzoo",
+          "name": "971000 Motorola Solutions Systems Polska Sp.z.o.o"
+        },
+        {
+          "slug": "actemium-cegelec-services",
+          "name": "Actemium Cegelec Services GmbH"
+        },
+        {
+          "slug": "actemium-mechatronic",
+          "name": "Actemium Mechatronic GmbH"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "hw",
+      "label": "Hardware",
+      "pctChange": 135.3
+    },
+    "notableHiring": [
+      {
+        "slug": "tesla",
+        "name": "Tesla",
+        "badge": "FAANG",
+        "count": 70
+      },
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "badge": "FAANG",
+        "count": 7
+      },
+      {
+        "slug": "databricks",
+        "name": "databricks",
+        "badge": "FAANG",
+        "count": 6
+      },
+      {
+        "slug": "microsoft",
+        "name": "Microsoft",
+        "badge": "FAANG",
+        "count": 5
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 4
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "amazon-europe-core",
+        "name": "Amazon Europe Core",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "visa",
+        "name": "Visa",
+        "badge": "NOTABLE",
+        "count": 3
+      },
+      {
+        "slug": "stripe",
+        "name": "Stripe",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "duolingo",
+        "name": "Duolingo",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "spacex",
+        "name": "SpaceX",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "pinterest",
+        "name": "Pinterest",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "figma",
+        "name": "figma",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "qube-research-technologies",
+        "name": "Qube Research & Technologies",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "lyft",
+        "name": "Lyft",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "susquehanna-international",
+        "name": "Susquehanna International Group",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "palantir-technologies",
+        "name": "Palantir Technologies",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "wise",
+        "name": "Wise",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "datadog",
+        "name": "Datadog",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "SpaceX",
+      "title": "Software Engineer, Starlink Enterprise",
+      "url": "https://go.vansh.nyc/1dT",
+      "hub": "San Francisco",
+      "currency": "usd",
+      "low": 87,
+      "high": 108
+    },
+    "headline": {
+      "company": "Apple",
+      "title": "AI Operations, Applied AI Research and Design Developer",
+      "url": "https://go.vansh.nyc/1mi",
+      "hub": "Other",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 65,
+      "high": 94
+    },
+    "earlyPick": {
+      "company": "Hootsuite",
+      "title": "Co-op/Intern, Software Development - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8360176",
+      "season": "Winter 2027",
+      "hub": "Toronto"
+    }
+  },
+  {
     "weekOf": "2026-10-25",
     "newCount": 1560,
     "prevWeekCount": 1377,
