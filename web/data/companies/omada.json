@@ -2,21 +2,25 @@
   "slug": "omada",
   "name": "Omada",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f342023dec79621e0b12ef7884ec4f51e7670faf",
+      "title": "Junior Developer",
+      "url": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1765&ProjectId=144109&DepartmentId=18981&MediaId=5&utm_source=freehire.me",
+      "location": "Warsaw; Alicante",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "d8a4e2402d50b065cdfa21c5d07d544330e0b855",
       "title": "Junior Full-Stack Developer – AI-Driven Cloud-Native",

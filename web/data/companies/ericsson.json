@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 22,
+  "totalPostings": 25,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 13
     },
     {
       "hub": "Lodz",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,31 @@
     5,
     5,
     7,
-    5,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0f84a8caa08e5a5eec3cbabe4c3d2d93d3a4599",
+      "title": "Software Developer Summer Intern: Transport Automation",
+      "url": "https://jobs.ericsson.com/careers/job/563121777429415-software-developer-summer-intern-transport-automation-jorvas-kirkkonummi-jorvas-kirkkonummi-finland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "073d84dcd5ecafc589027763be668a50912db289",
+      "title": "Software Developer Summer Intern: IMS GW (AI & Automation)",
+      "url": "https://jobs.ericsson.com/careers/job/563121777496581-software-developer-summer-intern-ims-gw-ai-automation--?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "07d64af14a7421eb0d0d4ea5a812c2f771127907",
+      "title": "Software Developer Summer Intern: IMS GW (Test Tools & Automation)",
+      "url": "https://jobs.ericsson.com/careers/job/563121777553320-software-developer-summer-intern-ims-gw-test-tools-automation--?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "0b8e2416e633e13e5491b1b0855d1ea1fa33c6f7",
       "title": "Data Scientist Intern",
@@ -103,27 +124,6 @@
       "url": "https://go.vansh.nyc/Vu",
       "location": "Plano, TX",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "a50910489193cc7d5b92da14cca576e479001260",
-      "title": "Junior C++ Software Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121777439674-junior-c-software-developer-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Łódź,Łódź,Poland",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "256c8fedf8183d5ac419f93672a9290c1f45146a",
-      "title": "Entry level: System Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121777238007-entry-level-system-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Stockholm,Stockholm,Sweden",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "f998e8104e0a93b558d63f6e92dddb4a806637aa",
-      "title": "Junior Software Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121777400328-junior-software-developer-%C5%82%C3%B3d%C5%BA-%C5%82%C3%B3d%C5%BA-poland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Łódź,Łódź,Poland",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

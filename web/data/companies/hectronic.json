@@ -2,21 +2,21 @@
   "slug": "hectronic",
   "name": "Hectronic GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     4,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6ca81c2c5d65b143b6b3e94bee04ba21e72fc9e",
+      "title": "Junior Cloud & Platform Engineer (m/w/d)",
+      "url": "https://hectronic.jobs.personio.com/job/2719211?utm_source=freehire.me",
+      "location": "Bonndorf",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "77d4daaf4176df27d82519326f56bf8318e96862",
       "title": "Junior Cloud & Platform Engineer (m/w/d) (Cloud-Consultant)",

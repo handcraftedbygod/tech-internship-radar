@@ -2,21 +2,21 @@
   "slug": "senacor",
   "name": "Senacor",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e9006858a8f5e3c067d0294560875bfd11a5661f",
+      "title": "Praktikum im Bereich Cloud & Fullstack Softwareentwicklung (m/w/d) - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__504036207__7078?utm_campaign=publisher&utm_medium=api&geoID=7110&utm_source=freehire.me",
+      "location": "Köln, Germany",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "dee9a2fd973f9b291c56cc84d6ae33bc373f6951",
       "title": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",

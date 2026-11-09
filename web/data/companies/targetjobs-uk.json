@@ -2,14 +2,14 @@
   "slug": "targetjobs-uk",
   "name": "targetjobs UK",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -30,7 +30,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -44,10 +44,24 @@
     0,
     2,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad53e94e88cad0f6a203152657377e741fd6f2bd",
+      "title": "Junior DevOps Engineer - London",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__613371005__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "283abf9c1bb7f2c7acfefa124edbe6eef0183b41",
+      "title": "Junior DevOps Engineer — Growth & Academy Training",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__613372856__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "5f2ae454533ef71528549a1445cb446b87ec45e6",
       "title": "Junior DevOps Engineer",

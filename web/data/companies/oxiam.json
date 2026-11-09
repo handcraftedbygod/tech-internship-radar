@@ -2,21 +2,21 @@
   "slug": "oxiam",
   "name": "OXIAM",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     3,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cd23235ce8a3dbb9613e9dc04040887fadec32b6",
+      "title": "(H/F) - BUSINESS DEVELOPER JUNIOR - STAGE",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODY0NzY4NCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "e07b1514fc8b32606b134df114b64f84e158feb8",
+      "title": "(H/F) - BUSINESS DEVELOPER JUNIOR LYON - CDI",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODY0NzczNCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "d6296b00a39070c82d74d37a124860ff236fabf8",
       "title": "(H/F) - BUSINESS DEVELOPER JUNIOR LYON - STAGE",

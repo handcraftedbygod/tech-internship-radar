@@ -2,9 +2,9 @@
   "slug": "doordash",
   "name": "DoorDash",
   "tier": "notable",
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -58,10 +62,17 @@
     0,
     4,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c205135eae7e69d8dc72cfb17f6b8c621ca154fa",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mQ",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "d3c03d1f4e4973101d82bb28888e24d9126ae849",
       "title": "Operations Research Intern (PhD), Summer 2027",

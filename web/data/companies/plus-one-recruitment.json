@@ -2,21 +2,21 @@
   "slug": "plus-one-recruitment",
   "name": "Plus One Recruitment",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b53bccedcdc2ae1f6a8f2111859b262f9dc5c6e1",
+      "title": "Trainee Web Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5955853670?se=ODMTVA_a8RGJ_5m-0JeM1g&utm_medium=api&v=D4793EF89EFBA21927D44A97E220C44C4A5E1C41&utm_source=freehire.me",
+      "location": "Banbury, Oxfordshire",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "1955a3392bffcf34aad42838a948a13044fd0ae3",
       "title": "Trainee Web Developer",

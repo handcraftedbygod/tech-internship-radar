@@ -2,21 +2,25 @@
   "slug": "charles-schwab",
   "name": "Charles Schwab",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 23.9,
   "topLocations": [
     {
       "hub": "Austin",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e39ab21d3c47877c384e9d61caa803153a34c69d",
+      "title": "Jr. Software Developer",
+      "url": "https://go.vansh.nyc/1nb",
+      "location": "Omaha, NE",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "3770f88da2e3e866871b4b912673df6f718832a2",
       "title": "Associate Software Development & Engineering",

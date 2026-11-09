@@ -1,0 +1,52 @@
+{
+  "slug": "d3",
+  "name": "D3",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-09T12:33:55.591Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Los Angeles",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "09a553cd3bc1e9be8a1025ab3c3d3d052977e3c7",
+      "title": "New Grad: Frontend Engineer",
+      "url": "https://go.vansh.nyc/1mS",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "2312611905e5788e8bc187c49f91da438231e126",
+      "title": "New Grad: Backend Engineer",
+      "url": "https://go.vansh.nyc/1mR",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    }
+  ]
+}

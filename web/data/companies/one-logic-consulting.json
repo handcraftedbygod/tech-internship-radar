@@ -2,21 +2,21 @@
   "slug": "one-logic-consulting",
   "name": "One Logic Consulting",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "038b57c5d50f1a0303a00ab427c03626cf992ca2",
+      "title": "Data Engineer Junior",
+      "url": "https://www.careers-page.com/one-logic-consulting/job/L849397V?utm_source=freehire.me",
+      "location": "Porto, Portugal",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "696f0bd5d7b4c31b253ff13608345c3ecc6245fb",
       "title": "Data Engineer Junior",

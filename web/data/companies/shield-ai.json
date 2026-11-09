@@ -2,14 +2,14 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 10
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 9
     },
     {
       "id": "ai",
@@ -44,10 +44,38 @@
     0,
     0,
     4,
-    3,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab24778ae4ee356e7d0be3ecd4090a95e6801b72",
+      "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
+      "url": "https://go.vansh.nyc/1nm",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "56fd6a8e5683736a08e68cbf3ea535fd55156cfe",
+      "title": "New Grad 2027: Engineer 1 - Software - Perception",
+      "url": "https://go.vansh.nyc/1nl",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "b4d737182827dcc32cedf3e596196085a5f1663a",
+      "title": "New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration",
+      "url": "https://go.vansh.nyc/1nk",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
+    {
+      "id": "fce0ea5e69fc3599c1e90a8ed0ccfbfce9400c0e",
+      "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
+      "url": "https://go.vansh.nyc/1nj",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "d56cfef14ec9b9b6823c9c5f166d6b5879e6d54e",
       "title": "Software Engineer Co-op",
@@ -89,13 +117,6 @@
       "url": "https://go.vansh.nyc/X7",
       "location": "San Diego, CA",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "ef44fb2170f30cc8636d670aaebbb704af82354c",
-      "title": "Data Science Intern",
-      "url": "https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

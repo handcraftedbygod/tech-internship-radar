@@ -2,17 +2,17 @@
   "slug": "msg",
   "name": "msg",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
-      "hub": "Düsseldorf",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Düsseldorf",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "adeee6c9f77fa5fcff469e92bac61307347aaaa6",
+      "title": "Junior Cloud Data Engineer (all genders) - System Engineering / Admin, Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://de.whatjobs.com/pub_api__cpl__504041436__7078?utm_campaign=publisher&utm_medium=api&geoID=7110&utm_source=freehire.me",
+      "location": "Köln, Germany",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "4d27cf1a86752ea2eabbd5733bdee02c95f9443b",
       "title": "Junior Cloud Data Engineer (all genders) - System Engineering / Admin, Datenbankentwicklung/BI, Inge",

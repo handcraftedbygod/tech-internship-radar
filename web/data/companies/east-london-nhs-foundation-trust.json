@@ -2,21 +2,21 @@
   "slug": "east-london-nhs-foundation-trust",
   "name": "EAST LONDON NHS FOUNDATION TRUST",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3049da41b444bd8c0b6d7c5426f58908b5a6c6bc",
+      "title": "Trainee Data Engineer: ETL & Cloud Data Warehouse (Azure)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__611036450__7082?utm_campaign=publisher&utm_medium=api&geoID=33051&utm_source=freehire.me",
+      "location": "City of Westminster, United Kingdom",
+      "firstSeenAt": "2026-11-09T12:33:55.591Z"
+    },
     {
       "id": "9149bba9d08f1eeaff86228306ee051bbf2e8507",
       "title": "Trainee Data Engineer",
