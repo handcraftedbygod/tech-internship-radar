@@ -2,21 +2,21 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     3,
     1,
     3,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89070e895c6a0a9f094809a94874a4028923634b",
+      "title": "Site Reliability Intern",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Site-Reliability-Intern_JR10456730?utm_source=freehire.me",
+      "location": "Gdansk",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "df827d16f1edbd25a30e5542cbc07ad426595350",
       "title": "Intern Frontend Developer",
@@ -105,13 +112,6 @@
       "title": "Junior Cybersecurity Systems Engineer",
       "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Junior-Cyber-Security-Systems-Engineer--d-w-m-_JR10430487?utm_source=freehire.me",
       "location": "Immenstaad am Bodensee; Manching",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
-    },
-    {
-      "id": "05a5fdd8b81bcb1b60b95058f551d84206abfce3",
-      "title": "Intern Data Scientist",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Intern--d-f-m--Data-Scientist---Engineering-Strategy---Make-or-Buy-Optimization_JR10429903-1?utm_source=freehire.me",
-      "location": "Donauwörth",
       "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]

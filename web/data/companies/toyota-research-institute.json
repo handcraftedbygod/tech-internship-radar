@@ -2,21 +2,21 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ba83039c9207c691bb7ca4fce3d1dc7a1756bc2",
+      "title": "Robotics Intern, Teleoperation and Spatial Computing",
+      "url": "https://go.vansh.nyc/1oI",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "a7cc94b8c6723b785ff63ce3c92a8bf9df5f115f",
       "title": "Robotics Intern, Trustworthy Learning under Uncertainty",

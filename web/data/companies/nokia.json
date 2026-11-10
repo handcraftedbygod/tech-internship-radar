@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     5,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "59425309d5cd4dd1a6921fac069eaf279f136276",
+      "title": "Defense Software Test & AI Co-op",
+      "url": "https://go.vansh.nyc/1py",
+      "location": "United States",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "6fc7fcc41f2bd8b86c8caae8f87b6e8aaa35602b",
       "title": "Software Quality Assurance Trainee",
@@ -101,13 +108,6 @@
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/40833?utm_source=freehire.me",
       "location": "Poland",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "078496c0d335b0781dcba6c69869d36ed0cc0880",
-      "title": "Software Engineer Trainee",
-      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/36522?utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-09-22T09:03:32.137Z"
     }
   ]
 }

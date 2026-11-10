@@ -2,21 +2,21 @@
   "slug": "kopfhoch3",
   "name": "kopfhoch3",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ae6ea0bb1172c1c78db5b14ea310fe2cd0c110c",
+      "title": "(Junior) Software Architect (m/w/d) - Projektmanagement, Anwendungsentwicklung, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957285?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "95f3ea11f5355684f8b1832c261d85eaa7bdda7c",
       "title": "(Junior) Software Architect (m/w/d) - Projektmanagement, Anwendungsentwicklung, Ingenieur",

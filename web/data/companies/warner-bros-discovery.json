@@ -1,0 +1,57 @@
+{
+  "slug": "warner-bros-discovery",
+  "name": "Warner Bros. Discovery",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6a38ca8fb2368301ef1173898aa2ee67995c65ea",
+      "title": "Data Engineering Co-op, WB Games",
+      "url": "https://go.vansh.nyc/1oH",
+      "location": "Needham, MA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "89a0c558417b8214fd2a70e8f9c5bd233f4b2e50",
+      "title": "Software Engineering Co-op, WB Games",
+      "url": "https://go.vansh.nyc/1oz",
+      "location": "Needham, MA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

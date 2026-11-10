@@ -1,0 +1,45 @@
+{
+  "slug": "domino",
+  "name": "Domino",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5b0b02ca884472bba671e2e21186000d4738c34d",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1q7",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

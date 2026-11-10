@@ -1,0 +1,45 @@
+{
+  "slug": "morgan-stanley",
+  "name": "Morgan Stanley",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "63244b13d71a194c1264ce3001171405131724d5",
+      "title": "Software Engineer Co-op, Parametric",
+      "url": "https://go.vansh.nyc/1q1",
+      "location": "New York, NY, Alpharetta, GA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

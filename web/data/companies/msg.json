@@ -2,14 +2,14 @@
   "slug": "msg",
   "name": "msg",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Düsseldorf",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12667fd35773ec6dc71130fab19113f7f3894759",
+      "title": "Junior Cloud Data Engineer (all genders) - System Engineering / Admin, Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958965429?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "adeee6c9f77fa5fcff469e92bac61307347aaaa6",
       "title": "Junior Cloud Data Engineer (all genders) - System Engineering / Admin, Datenbankentwicklung/BI, Ingenieur",

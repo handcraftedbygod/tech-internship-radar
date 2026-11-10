@@ -1,10 +1,10 @@
 {
   "slug": "vodafone",
-  "name": "Vodafone GmbH",
+  "name": "Vodafone",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Stuttgart",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -25,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -39,10 +43,17 @@
     5,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef0f46082e7367b382726a1f39fc978d13336d9d",
+      "title": "Junior Data Engineer",
+      "url": "https://opportunities.vodafone.com/job/Junior-Data-Engineer/1455223233/?utm_source=freehire.me",
+      "location": "GB",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "9ab4f6d490026fd5cf83c55e3dd4ba0f02118789",
       "title": "Praktikant Innovation Garage mit Schwerpunkt IoT Backend Development & Design (m/w/d) in Düsseldorf",

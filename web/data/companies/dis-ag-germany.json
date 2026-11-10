@@ -2,14 +2,14 @@
   "slug": "dis-ag-germany",
   "name": "DIS AG Germany",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Berlin",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -38,10 +38,24 @@
     0,
     2,
     6,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f02b28fd017d916e768b199f9075440c190b9e19",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5MjkwODIwNi1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Dresden, Germany",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6438e3b541cd09d81ce037d0ed9674f4b85a13fb",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5MjkwODIwNi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "c0a4a67a92145ea9b48737d8a41cd62310445ba1",
       "title": "Junior Java Developer (m/w/d) (Softwareentwickler/in)",

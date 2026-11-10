@@ -1,0 +1,45 @@
+{
+  "slug": "7-eleven",
+  "name": "7-Eleven",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2688b4979b62737415cfc5a99e449686f8b44ff9",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1pp",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

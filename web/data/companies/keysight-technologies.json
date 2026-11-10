@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 16,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 17,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Austin",
@@ -30,7 +30,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "783bed7804465a3ab2e2045190116c0743e93816",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pK",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "9f4000b25b1e9ef90b433ffc9a404974f5a23d62",
       "title": "R&D DSP/FPGA Design Automation Intern",
@@ -110,13 +117,6 @@
       "url": "https://go.vansh.nyc/ce",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "b0bad97af275c77ca0270e85b9ed40d22cbc7e30",
-      "title": "FPGA Design Intern",
-      "url": "https://jobs.keysight.com/jobs/55151?icims=1",
-      "location": "Calabasas, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

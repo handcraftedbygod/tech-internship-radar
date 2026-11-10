@@ -1,0 +1,97 @@
+{
+  "slug": "sambanova",
+  "name": "SambaNova",
+  "tier": null,
+  "currentOpenings": 7,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 7,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 7
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "95b143b97d383656bb41bd93ccc405bd6c12f7a4",
+      "title": "New Grad: Runtime Engineer",
+      "url": "https://go.vansh.nyc/1qp",
+      "location": "Austin, TX, San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "328759971c53e5c200cf26dfce04a4330beccff9",
+      "title": "New Grad: Physical Design Engineer",
+      "url": "https://go.vansh.nyc/1qo",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "efa6bfc88515fc26c667f5d3e589ad279e33b5d1",
+      "title": "New Grad: ML Infrastructure Engineer",
+      "url": "https://go.vansh.nyc/1qn",
+      "location": "Austin, TX, San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6ba9f2d73a55819f5736e2f5ff97bf2b47da6630",
+      "title": "New Grad: Machine Learning Engineer",
+      "url": "https://go.vansh.nyc/1qm",
+      "location": "Austin, TX, San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "9b063d6de51bcae8c39eb3abd32e1bfaa89c2230",
+      "title": "New Grad: Design Verification Engineer",
+      "url": "https://go.vansh.nyc/1ql",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "fcca8a8bcf82bc10f448841ed96cc61fcbae9d06",
+      "title": "New Grad: Compiler Engineer",
+      "url": "https://go.vansh.nyc/1qk",
+      "location": "Austin, TX, San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "2a52aaccb54b59bd3244e7a9d1cfd3ebe233a38e",
+      "title": "New Grad: Cloud Platform Engineer",
+      "url": "https://go.vansh.nyc/1qj",
+      "location": "Austin, TX, San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

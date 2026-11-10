@@ -1,0 +1,45 @@
+{
+  "slug": "seatgeek",
+  "name": "SeatGeek",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bda86a18400fc278911aaa29b2da57497040d0ec",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1p1",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

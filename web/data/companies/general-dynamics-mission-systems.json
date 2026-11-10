@@ -2,21 +2,21 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 15,
+  "totalPostings": 21,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 21
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 19
     },
     {
       "id": "hw",
@@ -35,10 +35,52 @@
     0,
     0,
     9,
-    6,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d087466c07bd684c7ae13e0bc942484bf6dcd02",
+      "title": "Ontology and Semantic Engineering Intern",
+      "url": "https://go.vansh.nyc/1pS",
+      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "2ac7f7e48377efd81bfe8d7518b554e48d0a4749",
+      "title": "Ontology Data Analysis and Validation Intern",
+      "url": "https://go.vansh.nyc/1pQ",
+      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "775c35c3bc75c5ca28a6b0748cefe017a31e327d",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pI",
+      "location": "Manassas, VA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "c30b9ff1003de11064d056b32353be7a23497797",
+      "title": "FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1pc",
+      "location": "Scottsdale, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "23c55af01e8b96c6ec7eca88792a66446a274247",
+      "title": "Full-Stack Application Development Intern",
+      "url": "https://go.vansh.nyc/1on",
+      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "96b4fc3c834c3a8105f78332917987b56c85b19b",
+      "title": "Full-Stack Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1om",
+      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "ce09fa112a1bead75442dae30ffdea9f1e620657",
       "title": "Software Engineering Intern",
@@ -66,48 +108,6 @@
       "url": "https://go.vansh.nyc/1hX",
       "location": "Port Orchard, WA",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "5d3f2c3cd3dc448b0ae600cc027b684e96f576d5",
-      "title": "Electrical Engineering Intern, FPGA",
-      "url": "https://go.vansh.nyc/1hW",
-      "location": "Middletown, RI",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "53f846fc2b5fa69b89aa3ceb03ec61852702fade",
-      "title": "DevOps Engineer Intern",
-      "url": "https://go.vansh.nyc/12S",
-      "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "8aa64fe597e8c549cd64532d646d0ceab962dc91",
-      "title": "Software Test Engineering Intern, Space and Embedded Crypto",
-      "url": "https://go.vansh.nyc/W0",
-      "location": "Scottsdale, AZ",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "780db2d253f435d3811a6af894fd0f8a39a3abd6",
-      "title": "Software Test Engineer Intern",
-      "url": "https://go.vansh.nyc/T5",
-      "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "deaf11fc1727f12add9c26a3e365969b5918e91d",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/eO",
-      "location": "Scottsdale, AZ",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "52d3fd40f4e21111fdc8377dec34b25499e93799",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/cC",
-      "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

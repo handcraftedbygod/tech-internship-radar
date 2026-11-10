@@ -2,20 +2,25 @@
   "slug": "crossbeam",
   "name": "Crossbeam",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b03b8b492d63ff83cd0cfcc225ff207fa7e223f",
+      "title": "Data Analyst, Revenue Operations Intern (M/F/X)",
+      "url": "https://easyapply.jobs/r/SJGYWvS27zMBaS28s1Cd?utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "4dad6f576d4f4ce08aa2908dfdfacaba252d2297",
       "title": "Software Engineer Intern - Crossbeam Ventures (M/F/X)",

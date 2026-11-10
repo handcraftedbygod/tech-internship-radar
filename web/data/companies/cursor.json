@@ -2,21 +2,21 @@
   "slug": "cursor",
   "name": "Cursor",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-11T08:36:12.324Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9eeb4b977f4ffaf282252504261147808383d8ea",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1qa",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "0a1190bbe1d65e7d394827c7e0bc8ed570278953",
       "title": "Software Engineer, New Grad 2027",

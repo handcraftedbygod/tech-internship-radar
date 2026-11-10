@@ -2,13 +2,17 @@
   "slug": "volkswagen",
   "name": "Volkswagen Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 19.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "084b9470a23b7aa8aa59fcb593159a102d2ad5fa",
+      "title": "Junior AI & Data Engineer",
+      "url": "https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Lisboa-Junior-AI-&-Data-Engineer-1200-246/1416736933/?utm_source=freehire.me",
+      "location": "Lisboa, PT, 1200-246",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "ddf815805d2eb93f85be02856788541e9cf1471c",
       "title": "Junior Cloud Platform Engineer",

@@ -2,9 +2,9 @@
   "slug": "duolingo",
   "name": "Duolingo",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 14.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -31,6 +31,11 @@
       "id": "product",
       "label": "Product",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     0,
     3,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "712a801652de5dbb49df1f0b5789406829253eaf",
+      "title": "Product Designer, Thrive Intern",
+      "url": "https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "ad09d554f94ca3e3bd20f0f3ed56ebcb6d7cdfd5",
       "title": "AI Research Intern (PhD)",
@@ -109,13 +121,6 @@
       "title": "Software Engineer, Intern",
       "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
       "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
-      "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "b1a994ba7a50b803a0d1e1cd9fac9086e00dff95",
-      "title": "Associate Product Manager, Intern",
-      "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
-      "location": "Pittsburgh, PA",
       "firstSeenAt": "2026-09-16T09:06:53.007Z"
     }
   ]

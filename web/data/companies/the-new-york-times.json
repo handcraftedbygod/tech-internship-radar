@@ -2,21 +2,21 @@
   "slug": "the-new-york-times",
   "name": "The New York Times",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 7
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     1,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6a773cbac977266bccafb488cd892f8313e9a69f",
+      "title": "ML Scientist Intern",
+      "url": "https://go.vansh.nyc/1pn",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "db9e0e2968792b9e38089b34426383475bc5da1e",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1pm",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "df6f486746119ca9596a8a0d2de0735826fd1413",
       "title": "Backend Engineering Intern",

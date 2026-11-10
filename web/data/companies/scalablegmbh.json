@@ -2,21 +2,21 @@
   "slug": "scalablegmbh",
   "name": "ScalableGmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c24888dd68e822f0fd7cbada82d3867c88070cf",
+      "title": "(Junior) Frontend Engineer — Broker (m/f/x)",
+      "url": "https://jobs.smartrecruiters.com/ScalableGmbH/744000160616480--junior-frontend-engineer-broker-m-f-x-?utm_source=freehire.me",
+      "location": "München, BY, de",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "370331a12e3db213caa920bca282a77c57186a33",
       "title": "(Junior) Frontend Engineer — Broker (m/f/x)",

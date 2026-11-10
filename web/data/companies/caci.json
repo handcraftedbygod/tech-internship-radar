@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 9.9,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e68c35ca8df880741ffcd48b7b252cb36ee057b",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/1oq",
+      "location": "Sterling, VA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "15c5d06f62b5acdec5e97866cd45bf5b4c1d4272",
       "title": "Junior Software Developer",

@@ -2,9 +2,9 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 18.1,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Warsaw",
@@ -33,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -47,10 +47,17 @@
     0,
     7,
     23,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f16019c082ba16e1a74f583af329d9eff1d37f8a",
+      "title": "Software Engineer Intern, Multiverse",
+      "url": "https://go.vansh.nyc/1qh",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "269e98f72d6d5f19a203656ecb1702af265d9840",
       "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
@@ -112,13 +119,6 @@
       "title": "2027 Summer Intern, PhD, Data Science",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
       "location": "Mountain View, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "f33bcda84ff7f1b886f294008a916d503a65397a",
-      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
-      "location": "San Francisco, CA",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]

@@ -2,9 +2,9 @@
   "slug": "epic-games",
   "name": "Epic Games",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Montreal",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "swe",
@@ -43,10 +43,17 @@
     8,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "391e8d37646131d703adc47e022eb523fb2d9aef",
+      "title": "AI Programmer Intern",
+      "url": "https://go.vansh.nyc/1pv",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "b3faee158f704141c031c0fde717a5b79323684a",
       "title": "Data Science Intern",
@@ -109,13 +116,6 @@
       "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=freehire.me",
       "location": "BLANK,BLANK,Multiple Locations",
       "firstSeenAt": "2026-08-09T05:05:05.965Z"
-    },
-    {
-      "id": "83a10c374bed0f2f4dc113cf43bd57e91929262a",
-      "title": "Machine Learning Intern",
-      "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004&utm_source=freehire.me",
-      "location": "London,England,United Kingdom",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "uhaul",
   "name": "Uhaul",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61fda09ab24805a7ec7f6b1e3d17538c8e45b39a",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1oG",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "63c4519abdb49ddac74dcc263590b0b2703e7f80",
       "title": "Data Analyst Intern",

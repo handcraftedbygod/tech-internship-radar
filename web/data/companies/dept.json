@@ -1,0 +1,52 @@
+{
+  "slug": "dept",
+  "name": "DEPT",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Amsterdam",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e80c078546018479d591eb4362299e685141f414",
+      "title": "Intern Frontend Developer",
+      "url": "https://job-boards.greenhouse.io/dept/jobs/8364818?utm_source=freehire.me",
+      "location": "Amsterdam, Rotterdam",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "9c3a0468ad518cc2cde53db32b229cf1930c6456",
+      "title": "Intern Backend Developer",
+      "url": "https://job-boards.greenhouse.io/dept/jobs/8364817?utm_source=freehire.me",
+      "location": "Amsterdam, Rotterdam",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

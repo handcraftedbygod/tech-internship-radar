@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 36,
+  "totalPostings": 37,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 29
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 15
     },
     {
       "id": "hw",
@@ -56,10 +56,17 @@
     18,
     5,
     13,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3b1a5697756d29f690b7e143e77bba55ef10ff61",
+      "title": "Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-?utm_source=freehire.me",
+      "location": "Aveiro, pt",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "949a4ee0ceb5fb1196614cae5951ec0172402efa",
       "title": "Extracurricular Internship – DevOps & GenAI Engineer for Quality (f/m/div.)",
@@ -122,13 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
       "location": "Fountain Inn, SC",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "14bcb7e0f355ddca413a7e6edec7a0d6c10993d2",
-      "title": "Stagiaire Développeur Full Stack F/H",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155947364-stagiaire-developpeur-full-stack-f-h?utm_source=freehire.me",
-      "location": "Vénissieux, Auvergne-Rhône-Alpes, fr",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

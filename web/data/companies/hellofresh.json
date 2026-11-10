@@ -2,18 +2,18 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 42,
+  "totalPostings": 44,
   "avgPostingDurationDays": 27,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Amsterdam",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 28
     },
     {
       "id": "biz",
@@ -56,10 +56,24 @@
     8,
     14,
     12,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12706ba2cb18572cae3b7987677e593c4609a763",
+      "title": "(Junior) Site QA/QC Specialist (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8020924?gh_jid=8020924",
+      "location": "Bleiswijk, South Holland, Netherlands",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "3ada7533ce3dde4ee921a6e749b68370dfb880e1",
+      "title": "Junior Food Stylist (All Genders) ",
+      "url": "https://careers.hellofresh.com/global/en/job/8349584?gh_jid=8349584",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "29019ce11feac2ea2147d8d12709d0c6e0dd4396",
       "title": "Culinary Intern (f/m/x)",
@@ -115,20 +129,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587&utm_source=freehire.me",
       "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "940204d4e885ef501ea881bc530e9e2eff166690",
-      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
-      "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587",
-      "location": "Paris, Paris, France",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
-    },
-    {
-      "id": "fb1532d634df60cc50c3cd2b3da7af4c70d034b3",
-      "title": "Junior Operations Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8203996?gh_jid=8203996",
-      "location": "Dublin, Dublin, Ireland",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
     }
   ]
 }

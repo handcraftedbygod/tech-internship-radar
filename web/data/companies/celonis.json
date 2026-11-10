@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 10,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 66,
+  "totalPostings": 68,
   "avgPostingDurationDays": 34.7,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 35
+      "count": 36
     },
     {
       "hub": "Munich",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 32
+      "count": 33
     },
     {
       "id": "biz",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
@@ -66,10 +66,24 @@
     10,
     17,
     7,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be56dc124cb48408be903d70cb3b59b59d018d80",
+      "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003",
+      "location": "Raleigh, US, North Carolina",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "fa9cbc6a82744bafbd2063317db6d99bfddde4a1",
+      "title": "Associate Deployment Engineer - Galaxy Graduate Program (Spanish/Portuguese speaking)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8200179003?gh_jid=8200179003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "3766e1e77baf7c8d08842ef37bb7e3fc0de3b96d",
       "title": "Associate Deployment Engineer",
@@ -125,20 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003",
       "location": "Munich, Germany",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "77aea3b2bf01aecd475c2b8f4db211d7bf610e05",
-      "title": "Intern Technology Consultant - Data & AI",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8042925003?gh_jid=8042925003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "16ec56faa3280741f0fdd3030be39a55fb71c3f0",
-      "title": "Intern Deployment Engineer - Data & AI",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7986440003?gh_jid=7986440003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

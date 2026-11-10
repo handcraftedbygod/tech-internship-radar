@@ -2,21 +2,21 @@
   "slug": "apache-industrial",
   "name": "Apache Industrial",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96c95be832d64c1b97e740dc15d93b03fadf47ad",
+      "title": "AI Implementation Intern",
+      "url": "https://go.vansh.nyc/1ol",
+      "location": "Houston, TX",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "0436fa6323a422ab0ecd640b627aee0fa785ec6b",
       "title": "AI Implementation Intern",

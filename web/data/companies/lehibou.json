@@ -1,22 +1,22 @@
 {
   "slug": "lehibou",
-  "name": "LeHibou",
+  "name": "lehibou",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c2573bef5a0b710417a84c8a817271ff2533c72",
+      "title": "Ingénieur DevOps junior orienté Mainframe (H/F) (IT) / Freelance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__163100729__7079?utm_campaign=publisher&utm_medium=api&geoID=1164&utm_source=freehire.me",
+      "location": "Rodez, France",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "9e88a7dc4846557092df71c5844d1bed53da5cdd",
       "title": "Ingénieur DevOps junior orienté Mainframe (H/F)",

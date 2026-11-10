@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 47,
+  "totalPostings": 50,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 31
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 23
     },
     {
       "id": "ai",
@@ -57,10 +57,31 @@
     17,
     15,
     14,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74f4f4464d2a95bafadc7aa40fe123613375c15f",
+      "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S?utm_source=freehire.me",
+      "location": "Erlangen, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "8c2fe910358e56827db96784d4d0002960c315fd",
+      "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "a1925ef0d48053a0678e1b2e92ec21e46d3806d6",
+      "title": "Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646595-2-S",
+      "location": "Braunschweig",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "903cfd0a6f72c69abe2b8f138b46425bc6389a9a",
       "title": "Werkstudent (w/m/d) Cybersecurity",
@@ -109,27 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646595-1-S",
       "location": "Braunschweig",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "ff5d581f9b813c4d8682b23533fe3a87e2ac3197",
-      "title": "Python Backend Developer Intern, Energy Flexibility Platform",
-      "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
-      "location": "Princeton, NJ",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "38072c832bed0cfa8e6bf84f2ae300d190a7919f",
-      "title": "Werkstudent (w/m/d) in der Testautomatisierung (R&D - Software)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1635992-2-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "b0b78af9693d2820229a1eb5da63b3cf8eafc7e5",
-      "title": "Werkstudent (w/m/d) Data Engineering",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1643618-1-S",
-      "location": "Erlangen",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }
   ]
 }

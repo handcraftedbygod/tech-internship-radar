@@ -1,0 +1,45 @@
+{
+  "slug": "sur-la-table",
+  "name": "Sur La Table",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "427195a34f5e7340bf9633c5b8b94f678c139df8",
+      "title": "Junior Software Engineer",
+      "url": "https://go.vansh.nyc/1pz",
+      "location": "Toronto, Canada, Remote",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

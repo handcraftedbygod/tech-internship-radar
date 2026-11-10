@@ -2,14 +2,14 @@
   "slug": "johns-hopkins-apl",
   "name": "Johns Hopkins APL",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     0,
     0,
     3,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1cf295ef888a2b1628cf3de38aeedc6da1a38a4b",
+      "title": "AI & Data Science Intern, Analytic Capabilities",
+      "url": "https://go.vansh.nyc/1pW",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "e35a5374f938a590bb14d472257191d84e952a2c",
+      "title": "Artificial Intelligence Intern, Information Fusion",
+      "url": "https://go.vansh.nyc/1oQ",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "c860c5b262d86ac090a69ca9b62a0709710c242c",
       "title": "Maritime Software Development Intern, Ocean Systems and Engineering",

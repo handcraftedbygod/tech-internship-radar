@@ -2,21 +2,21 @@
   "slug": "anysphere",
   "name": "Anysphere",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e0a346e8bb8fd099f1792d5a78bdf0b2cc8d0ec9",
+      "title": "Software Engineer, New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "8504bc356d5fc70e98b3345fe5a307819c001bc1",
       "title": "Software Engineer, New Grad 2027",

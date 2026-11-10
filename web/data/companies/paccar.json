@@ -2,21 +2,21 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 9.1,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1a89a4b5c5649472781547f5964f224e570652c",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1oo",
+      "location": "Chillicothe, OH",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "74ec72086e1dd7e4aea40ed43812c6c0e837b594",
       "title": "Data Engineer Intern",
@@ -106,13 +113,6 @@
       "url": "https://go.vansh.nyc/cf",
       "location": "Kirkland, WA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "7320de256f49412aa1c783b27e0b7e7d433f8fbb",
-      "title": "Aftersales Data Analyst Intern",
-      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 47,
+  "totalPostings": 48,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 27
+      "count": 28
     },
     {
       "hub": "Krakow",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5f4e0094c11a442262a49cb09146b7c5ba9f1ae",
+      "title": "Software Engineer Intern, Full-Stack / Backend I",
+      "url": "https://go.vansh.nyc/1ok",
+      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "f4abcdceefceeb48edfd9f791c61099f44693796",
       "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/XA",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "3435ec2aadde6c6d1682de891c3e175e2c17aaa1",
-      "title": "ASIC Design Verification Engineer I",
-      "url": "https://go.vansh.nyc/Wc",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

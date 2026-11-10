@@ -2,21 +2,25 @@
   "slug": "akkodis",
   "name": "Akkodis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-30T09:46:54.503Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Madrid",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ccb703af0c885c2f2a10961f84f6faffee551763",
+      "title": "Junior Brake Systems Engineer - Automotive",
+      "url": "https://akka-cand.talent-soft.com/job/job-junior-brake-systems-engineer-automotive_35691.aspx?utm_source=freehire.me",
+      "location": "Europe, Italy, Piemonte, Torino",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "11df21ff52b06739e40a9344e48a72de61e56716",
       "title": "Desarrollador Backend Junior — Enfoque en Eventos y Java",

@@ -2,14 +2,14 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c6332a6fd871bd3916efd44de5fceb9826691e9e",
+      "title": "FPGA Design Verification Intern",
+      "url": "https://go.vansh.nyc/1p3",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "8820b5aab1fa0107be8efb6e9d2860e8b0b9aca3",
       "title": "Hardware Design Engineer Intern",
@@ -110,13 +117,6 @@
       "url": "https://go.vansh.nyc/d2",
       "location": "Toronto, ON, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "2e84e6b4a2f2bc0ed1a1a20084b6c1198e8b1f61",
-      "title": "IP Design Intern",
-      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/IP-Design-PEY-Intern_R03341",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

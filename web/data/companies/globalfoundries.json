@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 9.3,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Austin",
@@ -23,13 +23,13 @@
       "count": 5
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 4
-    },
-    {
       "id": "design",
       "label": "Design",
+      "count": 5
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
@@ -49,10 +49,17 @@
     0,
     0,
     13,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f1a76007e0a6e2bbfaf346c98275d47173b2060",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1qc",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "f8cdf8a1780cb5eb2b4394f6fe3a53656230f093",
       "title": "New Grad 2027: Design Verification Engineer",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/bh",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "73088890d6de7143f2f6c3c7fbd77ab8bf7c7c8a",
-      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
-      "location": "Austin, TX, Santa Clara, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 19,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
-      "hub": "New York",
-      "count": 5
+      "hub": "San Francisco",
+      "count": 6
     },
     {
-      "hub": "San Francisco",
+      "hub": "New York",
       "count": 5
     },
     {
@@ -42,7 +42,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     },
     {
       "id": "quant",
@@ -66,10 +66,17 @@
     0,
     0,
     18,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ecf8e5dec33315228396a69507c661fa860923de",
+      "title": "Product Design Intern (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8350814",
+      "location": "San Francisco, CA, US; Remote, US",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "b39780f03a53f32ff1ab52c9b8dc2b24193f535d",
       "title": "Strategy & Operations Intern 2027 (USA)",
@@ -131,13 +138,6 @@
       "title": "UX Quantitative Research Intern (USA)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
       "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "25305bef6218625f91f4b14586c4f6b207da808c",
-      "title": "UX Engineering Intern (San Francisco)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
-      "location": "San Francisco, CA, US",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

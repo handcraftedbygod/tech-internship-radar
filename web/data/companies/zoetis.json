@@ -1,0 +1,71 @@
+{
+  "slug": "zoetis",
+  "name": "Zoetis",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3c0e4a255b3f298b942a945ce981d09fa3b8909b",
+      "title": "AI Architecture, Enablement & Tools Intern, AI Capabilities",
+      "url": "https://go.vansh.nyc/1ph",
+      "location": "Remote, United States, Kalamazoo, MI",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6db17ddc9b411f390bc261695a019a6e12f003c2",
+      "title": "AI Assistant Development Intern",
+      "url": "https://go.vansh.nyc/1oP",
+      "location": "Parsippany, NJ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "44ea6dd7c640ce532cae7f8bcd568e440092e38f",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1ox",
+      "location": "Parsippany, NJ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "8c8e9ae0d9862c3cd013904e9a696ce99625f041",
+      "title": "IT/OT Security Intern",
+      "url": "https://go.vansh.nyc/1op",
+      "location": "Kalamazoo, MI",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

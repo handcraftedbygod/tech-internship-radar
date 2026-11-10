@@ -2,20 +2,25 @@
   "slug": "cirrus-logic",
   "name": "Cirrus Logic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e031a096fccb3face510563cfb74b44d6b8e941d",
+      "title": "Applied AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1pL",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "985e572b558736122a3f39472afb20c958bd3e33",
       "title": "Embedded Software Test Engineer Intern",

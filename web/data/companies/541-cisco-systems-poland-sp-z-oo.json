@@ -2,21 +2,21 @@
   "slug": "541-cisco-systems-poland-sp-z-oo",
   "name": "541 Cisco Systems Poland sp. Z o.o.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8db8cf00aad4e0c7b6e1ee40a39dc31ba122115b",
+      "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__35917306__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "5c7cb528af359a9c943568894069153f699e780a",
       "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management",

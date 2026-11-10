@@ -2,14 +2,14 @@
   "slug": "adobe",
   "name": "Adobe",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -22,13 +22,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 5
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 6
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 5
     }
   ],
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57ada721694bf44654e591e9b517d479bf11da20",
+      "title": "New Grad 2027: Data Engineer",
+      "url": "https://go.vansh.nyc/1p4",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "911b1294b0e216437e67bd53aa392f92fd8a4688",
       "title": "Machine Learning Engineer Intern",
@@ -109,13 +116,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
       "location": "Lehi, UT",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "057bce1fb5da37255d0f35a4333479aeb39bd315",
-      "title": "2027 Intern- Software Engineer",
-      "url": "https://careers.adobe.com/us/en/job/ADOBUSR173015EXTERNALENUS?utm_source=freehire.me",
-      "location": "Basel, Basel-City",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

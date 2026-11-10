@@ -2,14 +2,14 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     1,
     0,
     8,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7065d3fbcffcffa9bf2e7fa06cd74334972677ee",
+      "title": "Urology R&D Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1pa",
+      "location": "Maple Grove, MN",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "8e2e0fb4baf951a5e3d116278bc6a229866ac4f8",
       "title": "Software Engineering Co-op, Urology R&D",
@@ -110,13 +117,6 @@
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
       "location": "Maple Grove, MN",
       "firstSeenAt": "2026-10-19T13:17:09.570Z"
-    },
-    {
-      "id": "719ca8b57c577ff49dfc9ee0ea26459615472249",
-      "title": "Data & AI Platform Engineer Intern",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813430958?utm_source=freehire.me",
-      "location": "Madrid, Spain |  N/A",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

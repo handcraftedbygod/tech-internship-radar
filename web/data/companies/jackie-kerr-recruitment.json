@@ -2,21 +2,21 @@
   "slug": "jackie-kerr-recruitment",
   "name": "Jackie Kerr Recruitment",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c262fe1164c7d14961ed35356ed6be8bd219af8a",
+      "title": "Business Central Administrator (Junior Developer)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5959095200?se=vs7szWrc8RGx_uPamS9oQw&utm_medium=api&v=963F244B8A7C8407D11B721172C5E22C98A79AA6&utm_source=freehire.me",
+      "location": "Worcester, Worcestershire",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "1a027804391c35bc1fb50718c36c1caa34b2470c",
       "title": "Business Central Administrator (Junior Developer)",

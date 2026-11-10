@@ -2,21 +2,21 @@
   "slug": "lockheed-martin",
   "name": "Lockheed Martin",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 13.1,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea8df2be052562e8e19afba8da8bacf0e1836914",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1q0",
+      "location": "Mt Laurel Township, NJ",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "993f829db77dd10a1ecd1a00e68aae64d90b8d21",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1pZ",
+      "location": "Bethesda, MD, Rockville, MD",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "7c4aa1c56934ec7d883e33b87e950bb268e04bfb",
       "title": "Software Engineer Intern",

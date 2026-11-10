@@ -2,21 +2,21 @@
   "slug": "cai",
   "name": "CAI",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d199f20d6f8483b8e1b54dffcd345b679687fe6a",
+      "title": "Programmer Intern",
+      "url": "https://go.vansh.nyc/1pg",
+      "location": "United States",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "c425d5a986def55d0a832bab31f837d52b4f6035",
       "title": "GIS Software Developer Intern",

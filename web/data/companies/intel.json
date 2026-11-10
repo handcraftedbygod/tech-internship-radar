@@ -2,14 +2,14 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 28,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 30,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 25
     },
     {
       "hub": "Munich",
@@ -29,7 +29,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -48,10 +48,24 @@
     0,
     0,
     24,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1fd9893ef61e60cdc335eb7b46a079b7dab9c7d",
+      "title": "SoC Logic Design Engineer",
+      "url": "https://go.vansh.nyc/1q9",
+      "location": "Santa Clara, CA, Hillsboro, OR, Folsom, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "f06a4a15292d9d3f935d0a4ed81c2d70f1980472",
+      "title": "SoC Design Verification Engineer",
+      "url": "https://go.vansh.nyc/1q8",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "c65c0d2eef939facbd144a2f57339ce423e033b9",
       "title": "Software Design Engineer Intern for Physical Design (m/f/d)",
@@ -107,20 +121,6 @@
       "url": "https://go.vansh.nyc/Tn",
       "location": "Hillsboro, OR, Folsom, CA, Fort Collins, CO",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "7aebf7be1ae66d1f294153df86e36a4a58751c01",
-      "title": "SoC Logic Design Engineer (Master's)",
-      "url": "https://go.vansh.nyc/Tl",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "09dedd9e15d795857e352cbf7d630c5001d5267e",
-      "title": "Software Engineer, CAD/EDA Tools (Master's)",
-      "url": "https://go.vansh.nyc/Bx",
-      "location": "Hillsboro, OR",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "trimble",
   "name": "Trimble",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c63c6e070dea0a2c63b46c3dd502f82608982ed5",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pD",
+      "location": "Lake Oswego, OR",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "c787d8495309873428a8daea6ef22e3f6324d8b9",
       "title": "AI Automation Intern",

@@ -2,9 +2,9 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 35,
+  "totalPostings": 36,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Toronto",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -34,7 +34,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
@@ -53,10 +53,17 @@
     0,
     0,
     28,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "61b272d48dc63ec1d3a93f6aaed4dd010692c141",
+      "title": "Firmware Engineering Intern",
+      "url": "https://go.vansh.nyc/1pw",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "beba7c3e4e88cec45d9aff018b76ebd3afdbb03a",
       "title": "Digital Design Engineer Intern, Interim Engineering Systems",
@@ -119,13 +126,6 @@
       "url": "https://go.vansh.nyc/11v",
       "location": "Vancouver, Canada",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "9fe9fe8bb4c021e737b2296154a8b76a63159d11",
-      "title": "Soft IP Engineer Co-op",
-      "url": "https://go.vansh.nyc/10m",
-      "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

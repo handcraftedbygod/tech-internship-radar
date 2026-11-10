@@ -2,21 +2,21 @@
   "slug": "senacor",
   "name": "Senacor",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     1,
     1,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b92f37e3a12bebd26879ce1ed75023fd30a52ef4",
+      "title": "Junior Java Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957271?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "870ff3a8bf31f56115ea277384a658d1dd0e5800",
+      "title": "Praktikum im Bereich Cloud & Fullstack Softwareentwicklung (m/w/d) - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957313?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "e9006858a8f5e3c067d0294560875bfd11a5661f",
       "title": "Praktikum im Bereich Cloud & Fullstack Softwareentwicklung (m/w/d) - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",

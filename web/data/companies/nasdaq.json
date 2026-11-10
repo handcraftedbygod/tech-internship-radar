@@ -2,9 +2,9 @@
   "slug": "nasdaq",
   "name": "Nasdaq",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Stockholm",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f3c713dc7daa286b8832972824676395e89ad358",
+      "title": "Technical Research Intern",
+      "url": "https://go.vansh.nyc/1p2",
+      "location": "Richmond, VA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "890e632f38a616b6582c436909df5904f3387a54",
       "title": "Software Developer Intern - Stockholm Summer 2027",

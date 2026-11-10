@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 48,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 50,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 47
+      "count": 49
     },
     {
       "hub": "San Francisco",
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 6
     },
     {
       "id": "biz",
@@ -49,10 +49,24 @@
     1,
     0,
     30,
-    17,
+    19,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c03b3e431acf64dc7ef228d976d6a002c4dc691",
+      "title": "Digital Hardware Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/1pH",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "46a3f7e17ec253ef0f754766749362bcbcbdf1ea",
+      "title": "Digital Hardware Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/1pG",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "adebd52bbfe5fa625e38eda97ee12253fd1f576a",
       "title": "Digital Technology Intern",
@@ -107,20 +121,6 @@
       "title": "Secure System Engineering Intern",
       "url": "https://go.vansh.nyc/1du",
       "location": "Windsor Locks, CT",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "5dd003018588238fdfcc8cbee00ca1fa6a946be0",
-      "title": "Systems Engineer Co-op",
-      "url": "https://go.vansh.nyc/1cU",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "b37579c491270566c555bb37fe7cd489e6856548",
-      "title": "Systems Engineer Intern, Mission Sensor Manager",
-      "url": "https://go.vansh.nyc/1cT",
-      "location": "Cedar Rapids, IA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

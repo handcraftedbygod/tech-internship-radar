@@ -1,0 +1,45 @@
+{
+  "slug": "whoop",
+  "name": "WHOOP",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "59df16a7ac4fc8fea47859f647a3d2889f688c33",
+      "title": "Software Engineer I (Backend, Growth)",
+      "url": "https://go.vansh.nyc/1pe",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

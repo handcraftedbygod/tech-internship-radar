@@ -1,0 +1,52 @@
+{
+  "slug": "sf-partners",
+  "name": "SF Partners",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "97265f2da92f63944653b98e075465d5af608952",
+      "title": "Junior Web Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5959167990?utm_medium=api&utm_source=freehire.me",
+      "location": "Ladywood, Birmingham",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6ca1bcfd9fb95e37297794082bd10dcca1d01c31",
+      "title": "Junior Web Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5959196340?se=gANczGrc8RGUu4-u5QYtzw&utm_medium=api&v=0897B0C7B62D5206FC858D769AA2F5039829654E&utm_source=freehire.me",
+      "location": "Balsall Heath, Birmingham",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

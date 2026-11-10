@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 30,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 21
     },
     {
       "hub": "San Francisco",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 15
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 12
+      "id": "swe",
+      "label": "Software",
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     2,
     2,
     18,
-    5,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a183fe7d27f8b150212f03c33d1f8bdd3e542f7c",
+      "title": "Data Analytics | Computer Science internship: quality intelligence dashboard",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Analytics---Computer-Science-internship--quality-intelligence-dashboard_J-00354821?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "8ab5e6b7818e131e47db563eb6388850c381cc5d",
+      "title": "Data Science | Software Engineering internship: software automation development",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Software-Engineering-internship--software-automation-development_J-00356675?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "64f8aa5a3203235fbb02b437073c23e50a553c20",
+      "title": "AI Engineer Co-op",
+      "url": "https://go.vansh.nyc/1pk",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "94c524d36dc0138af4943a0081638f9dd54688e7",
       "title": "Internship - Application Software QA Engineer",
@@ -91,27 +112,6 @@
       "url": "https://go.vansh.nyc/Y2",
       "location": "San Diego, CA",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "e4eb4508ad1d4be995fdaad28a1cbb161394a8f1",
-      "title": "Frontend Developer Intern",
-      "url": "https://go.vansh.nyc/Wr",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "f8837f2fad4b9cabad085784830830017abbc55a",
-      "title": "Platform Software Engineer In Test Intern",
-      "url": "https://go.vansh.nyc/hQ",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "5f091e684768e338ea8a24eb13703684d57958a5",
-      "title": "Application Software QA Engineer Intern",
-      "url": "https://go.vansh.nyc/gY",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "mcs",
   "name": "MCS Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99b2a747e376027137e351c03eddbb6cb443855a",
+      "title": "Junior support developer (Coleraine)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5959725165?se=tFXIas_c8RGH3poTNeosoQ&utm_medium=api&v=E6099213AC33CD91CF562149508EA63CDD8153A8&utm_source=freehire.me",
+      "location": "Coleraine, Northern Ireland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "31aeca529b8764ecbe5ec8c850dd6d3b8e4e603d",
       "title": "Junior Python Backend Engineer (Hybrid, Belfast)",

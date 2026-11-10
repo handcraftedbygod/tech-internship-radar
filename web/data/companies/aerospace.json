@@ -2,14 +2,14 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 8
     },
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 3
-    },
-    {
       "id": "biz",
       "label": "Business",
+      "count": 4
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 3
     },
     {
@@ -45,10 +45,17 @@
     0,
     0,
     11,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5fa7bcd7eb0b3977af6b1adadf2a583ba2bf60e1",
+      "title": "Defensive Cyber Operations Grad Intern",
+      "url": "https://go.vansh.nyc/1pU",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "8ceee45abf636d2437c91f7a9ef756bf09b87855",
       "title": "Operations Forecast Analyst",
@@ -111,13 +118,6 @@
       "url": "https://go.vansh.nyc/dv",
       "location": "El Segundo, CA, Chantilly, VA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "f3da36b26ee6943cd7bcc53d06da24cc55267441",
-      "title": "Defensive Cyber Operations Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
-      "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "i3",
+  "name": "i3",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "aeddd12a755ecf72a8a22748d9ad704fede8287b",
+      "title": "Data Management Intern",
+      "url": "https://go.vansh.nyc/1pN",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "63ba46999e8e184c5dbc5b3c9758bd9dfbc5519c",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1pd",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

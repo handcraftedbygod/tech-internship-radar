@@ -2,21 +2,21 @@
   "slug": "radiance-technologies",
   "name": "Radiance Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c07c854be7ad2812e8acc98c72dde6629c81c75d",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pi",
+      "location": "Dayton, OH",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6f6acbb5526cbd88f2b2f4585d7b38724cf24f37",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pf",
+      "location": "Dayton, OH",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "679f96c67507161c24a624aa75c40d70d15b5fdd",
       "title": "Microelectronics Engineer Intern",

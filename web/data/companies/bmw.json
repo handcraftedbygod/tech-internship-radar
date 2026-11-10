@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     6,
     10,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e9e582f880da62f5f48ed66909ac1c546933f0d",
+      "title": "Praktikant Software Entwicklung in der Logistikplanung (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1652196-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "96c1ef986d913b32f2cb6104ea8663788e41b4be",
       "title": "Werkstudent Process Mining & Data Science im Entwicklungsbereich (w/m/x)",
@@ -103,13 +110,6 @@
       "id": "e18b7e4a7ebfbaabac6e38401ccaf3e0f40df860",
       "title": "Praktikant Machine Learning für Fahrzeugeffizienz (m/w/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1630330-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "004011822db4db982a196e3a503443557b0c7053",
-      "title": "Werkstudent Software-Integration Fahrzeug (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1629016-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }

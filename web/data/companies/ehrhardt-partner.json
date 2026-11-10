@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64f2ed2be92c50e1641cb955eebeded10d0ad8be",
+      "title": "Junior Software Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958963125?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "02d6ea4e77dbc6253f08bfe87b5851b1520f1e69",
       "title": "Junior Software Developer (m/w/d)",

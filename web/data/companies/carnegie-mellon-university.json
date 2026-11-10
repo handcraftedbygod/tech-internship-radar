@@ -2,21 +2,21 @@
   "slug": "carnegie-mellon-university",
   "name": "Carnegie Mellon University",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8f072d9029fa86ca4da360922e4087acebf15c44",
+      "title": "Advanced Computing Lab Intern",
+      "url": "https://go.vansh.nyc/1pb",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "02e8c29c06453d710c50b492ae7ba75da65bb840",
       "title": "Enabling Mission Capability at Scale Intern",

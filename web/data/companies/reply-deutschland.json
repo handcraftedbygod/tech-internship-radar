@@ -2,14 +2,14 @@
   "slug": "reply-deutschland",
   "name": "Reply Deutschland SE",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 9.1,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 15
     },
     {
       "hub": "Berlin",
@@ -28,12 +28,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 16
+      "count": 19
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -47,10 +47,38 @@
     1,
     0,
     11,
-    7,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9770f36fc6fa3ef7cfc6207b01a77cb7cc3e781f",
+      "title": "(Junior) Data Scientist / AI Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958956562?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "3cbcb76d6b204b305674d70a99ebebad8d714584",
+      "title": "Junior Azure Platform Engineer (m/w/d) - System Engineering / Admin, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957379?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "84f31288c22c6ef86e95a9ec557c56cbfad40a03",
+      "title": "Junior Data Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957432?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "6a368efc212ca4daf412216cff86f069fa42ab09",
+      "title": "(Junior) Data Scientist (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
+      "url": "https://www.adzuna.de/details/5958957552?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "05b5b8c5d341878fbcd16c099427f50cfcc67d95",
       "title": "(Junior) Agentic AI Software Engineer (m/w/d) - Anwendungsentwicklung, Ingenieur",
@@ -92,34 +120,6 @@
       "url": "https://de.whatjobs.com/pub_api__cpl__501409262__7078?utm_campaign=publisher&utm_medium=api&geoID=1122&utm_source=freehire.me",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "0f4ad38448f5b3f9dae7dbd8203be53a517ba038",
-      "title": "Junior Azure Platform Engineer (m/w/d)",
-      "url": "https://www.adzuna.de/land/ad/5950189303?se=1B3C4oXW8RGRQOLR_vdAhg&utm_medium=api&v=1F4DC1BE1BDAED5EF78CFDDA70F28ED2CEF4A929&utm_source=freehire.me",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-11-02T12:02:27.024Z"
-    },
-    {
-      "id": "189ddd7356017dc7127448deae97a470d07eeaee",
-      "title": "Junior Security Software Engineer (m/w/d) für cloudbasierte IAM-Lösungen - Anwendungsentwicklung, IT-Security, Ingenieur",
-      "url": "https://www.adzuna.de/land/ad/5941985376?se=XoKpCjjR8RGjD_8hTDo2ZA&utm_medium=api&utm_source=freehire.me&v=F33C7855635E40B96D4516E9E274DE3242E98AD3",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "07b7d62700503d44af434ea78e57e06807788671",
-      "title": "Junior Azure Platform Engineer (m/w/d) - System Engineering / Admin, Ingenieur",
-      "url": "https://www.adzuna.de/land/ad/5941985429?se=oBAgCjjR8RGjD_8hTDo2ZA&utm_medium=api&utm_source=freehire.me&v=022860F742BF8A01F9333B50F1FA9BABBD7B0BB6",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "9728f86e20edc9b43fe48ba986009274a4e9c061",
-      "title": "Junior Data Engineer (m/w/d) - Datenbankentwicklung/BI, Ingenieur",
-      "url": "https://www.adzuna.de/land/ad/5941985423?se=oBAgCjjR8RGjD_8hTDo2ZA&utm_medium=api&utm_source=freehire.me&v=01846003451E566035A73134A0C0630DEC0DBB81",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]
 }

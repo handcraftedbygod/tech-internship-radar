@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2077276153151f36ed9c43d9eae91f8bc0fffaa",
+      "title": "Digital Hardware Engineering Intern",
+      "url": "https://go.vansh.nyc/1oU",
+      "location": "Lenexa, KS",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "ed6edfa05dacd7b71aa08256e58289b3818fd0ee",
       "title": "Software Engineering Co-op",

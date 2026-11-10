@@ -1,0 +1,45 @@
+{
+  "slug": "nhs-view-all-jobs",
+  "name": "Nhs View All Jobs",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "cf3ae7464927119fd3e7244342ed54bf3fd821b1",
+      "title": "Trainee Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__616995432__7082?utm_campaign=publisher&utm_medium=api&geoID=15609&utm_source=freehire.me",
+      "location": "Ilford, United Kingdom",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}

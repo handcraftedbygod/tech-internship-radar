@@ -2,14 +2,14 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Barcelona",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     4,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ef2a4efcf66b610e4de7e47518b75bf10ff1484",
+      "title": "Assay Bioinformatics Intern, CSI",
+      "url": "https://go.vansh.nyc/1qi",
+      "location": "Pleasanton, CA",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
     {
       "id": "eae419903eda8b8aa5cfe9810df1cc0c8fb32ec8",
       "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",

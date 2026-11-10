@@ -1,0 +1,64 @@
+{
+  "slug": "biodesix",
+  "name": "Biodesix",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-10T14:17:00.003Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "71d2df9b5abf4e9c05f4370b702ec88a8265e0d6",
+      "title": "Data Analytics & Business Intelligence Intern",
+      "url": "https://go.vansh.nyc/1ps",
+      "location": "Louisville, CO",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "1ccbe8005955e99079cf21d3f79e67f45ee09bc4",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1pr",
+      "location": "Louisville, CO",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    },
+    {
+      "id": "df87f3ccddc2833321d296752687667390280ba2",
+      "title": "AI Research & Development Intern",
+      "url": "https://go.vansh.nyc/1pq",
+      "location": "Louisville, CO",
+      "firstSeenAt": "2026-11-10T14:17:00.003Z"
+    }
+  ]
+}
