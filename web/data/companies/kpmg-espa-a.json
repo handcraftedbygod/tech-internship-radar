@@ -2,21 +2,21 @@
   "slug": "kpmg-espa-a",
   "name": "KPMG España",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.7,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be6268ab7ccae9097235b3a4bf214e14f20b5fe0",
+      "title": "Junior Data Engineer (Madrid, ES, 28046)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370183871__7107?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "bc987dda2ed8fdc5df43cb3a4427952a4c1ec04e",
       "title": "Junior Data Engineer: ETL & Power BI en Azure",

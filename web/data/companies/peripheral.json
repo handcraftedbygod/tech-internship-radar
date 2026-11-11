@@ -1,0 +1,71 @@
+{
+  "slug": "peripheral",
+  "name": "Peripheral",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "490892c011408f4393ab618cc43794276e529f67",
+      "title": "ML Research Intern, Reconstruction",
+      "url": "https://go.vansh.nyc/1rl",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "7d998390aaff0b9d5fcfd0554f8d333dee062334",
+      "title": "Embedded Systems Engineering Intern, Capture Systems",
+      "url": "https://go.vansh.nyc/1rk",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "35d2032f0683dca3f75c3c5972ae6d177ba16118",
+      "title": "Robotics Engineering Intern, Capture Systems",
+      "url": "https://go.vansh.nyc/1rj",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "f8cbfdc474a7dbb3c0d98d2b6c448145041749cd",
+      "title": "Software Engineer Intern, Infrastructure",
+      "url": "https://go.vansh.nyc/1ri",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "wellmark",
   "name": "Wellmark",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "660c85463d4fb3dffd44d2018dd72355b3521861",
+      "title": "Data Science Associate - FEP",
+      "url": "https://go.vansh.nyc/1rG",
+      "location": "Des Moines, IA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "6f61d7398f13c294db010cb538c17f462dd9da94",
       "title": "Software Engineer Intern, AI Platform Team",

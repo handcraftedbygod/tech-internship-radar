@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 50,
+  "totalPostings": 51,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 31
+      "count": 32
     },
     {
       "hub": "Munich",
@@ -43,7 +43,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -57,10 +57,17 @@
     17,
     15,
     14,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "118b3e90711d904218d181e53196eb168713362d",
+      "title": "Werkstudent (w/m/d) im Bereich Software-/KI-Entwicklung für Business Applikationen",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1652270-1-S",
+      "location": "Leipzig",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "74f4f4464d2a95bafadc7aa40fe123613375c15f",
       "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
@@ -123,13 +130,6 @@
       "url": "https://go.vansh.nyc/hM",
       "location": "Princeton, NJ",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "a6dd6ad578a764bf1f50f9aa3f8ae5b57f7ba522",
-      "title": "Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646595-1-S",
-      "location": "Braunschweig",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

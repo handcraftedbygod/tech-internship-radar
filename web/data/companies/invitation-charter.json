@@ -2,21 +2,21 @@
   "slug": "invitation-charter",
   "name": "Invitation-charter",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9620eaad9ce60ecb8b2bdc91b1aaef6c9f8df69f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rK",
+      "location": "Greenwood Village, CO",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "6e5d076db70e6674128d9bc01f0c13e0771fdb38",
       "title": "Data Developer Intern",

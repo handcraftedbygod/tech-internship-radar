@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     4,
     8,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ee014f182bb34c079ff2ba534ae9bc15df651b0",
+      "title": "Développeur Full Stack Java / Angular - Profil junior - Freelance (H/F)",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-java-kotlin-groovy-scala/developpeur-full-stack-java-angular-profil-junior-freelance-h-f?utm_source=freehire.me",
+      "location": "54000, Nancy, Grand Est",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "16dae5af2b2830ab15854282310aa69227d760b9",
       "title": "Développeur Full Stack Java / Angular junior - Freelance (H/F)",
@@ -101,13 +108,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU4NjM0MyA5?lang=en&utm_source=freehire.me",
       "location": "France",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "f2230b5f7de30781946a62ded8235e30b0e0dc69",
-      "title": "Data Engineer Databricks Junior  - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0MyA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-10-01T10:45:16.393Z"
     }
   ]
 }

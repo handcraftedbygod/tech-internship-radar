@@ -2,21 +2,21 @@
   "slug": "eon",
   "name": "E.ON SE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 7.7,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     1,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6fc19d12a12b24fdf274f5df4491d87ae734ad3f",
+      "title": "Werkstudent:in Digitale Transformation und Data Engineering (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12728-885-2-S?utm_source=freehire.me",
+      "location": "Essen, Ruhr, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "55a2b94ed1ea2adc8fc3a23fdf7115b9ef2a9988",
+      "title": "Werkstudent:in Digitale Transformation und Data Engineering (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12728-885-2-S",
+      "location": "Essen, Ruhr",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "d0f0a84e82a2cfe704022e01b8aea073d9ad6ab0",
       "title": "Werkstudent:in Digital Transformation und Data Engineering (w/m/d)",
@@ -50,7 +64,7 @@
     },
     {
       "id": "a797390370a9f092b3f9a4c67ff11c8abd0a534b",
-      "title": "Werkstudent:in Digital Transformation & Data Engineering (w/m/d)",
+      "title": "Werkstudent:in Digitale Transformation & Data Engineering (w/m/d)",
       "url": "https://fa-eylc-saasfaeuraprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/885?utm_source=freehire.me",
       "location": "45131, Essen, Germany",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"

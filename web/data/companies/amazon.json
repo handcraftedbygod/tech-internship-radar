@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 14,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 53,
+  "totalPostings": 54,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 32
+      "count": 33
     },
     {
       "id": "hw",
@@ -61,10 +61,17 @@
     0,
     1,
     41,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c5476f2f2fd9b21c012fa7dfeef2892f0098516",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
+      "url": "https://go.vansh.nyc/1sv",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "b73f40c068430b78f248b24ad0d1e621f819146f",
       "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
@@ -126,13 +133,6 @@
       "title": "Software Development Engineer, Amazon Dedicated Cloud",
       "url": "https://go.vansh.nyc/17p",
       "location": "Seattle, WA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "5d6d59396babf72efeab75c0264a3ec989507be7",
-      "title": "Software Development Engineer",
-      "url": "https://go.vansh.nyc/17o",
-      "location": "Cambridge, MA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]

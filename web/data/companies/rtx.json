@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 18,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 50,
-  "avgPostingDurationDays": 9.4,
+  "totalPostings": 54,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 49
+      "count": 53
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 42
+      "count": 46
     },
     {
       "id": "hw",
@@ -49,10 +49,38 @@
     1,
     0,
     30,
-    19,
+    23,
     0
   ],
   "recentPostings": [
+    {
+      "id": "435816931214bf22f94797eba4c7bd8fdf1c17ad",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/1sR",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "e9fc2dd7e9e1e22adba131c17808cb55e80ccb48",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1ss",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "2272969f363fb65b5cf3278e5e92820d79a04afb",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1sg",
+      "location": "Largo, FL",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "f49a9a63259d4d741f85cf97171845e7e44963d7",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1sc",
+      "location": "St Petersburg, FL",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "8c03b3e431acf64dc7ef228d976d6a002c4dc691",
       "title": "Digital Hardware Design Engineer Co-op",
@@ -94,34 +122,6 @@
       "url": "https://go.vansh.nyc/1hj",
       "location": "West Valley City, UT",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "b38a2db025610d55dd44069e13b394b764222e4d",
-      "title": "Control/Diagnostic Software Intern",
-      "url": "https://go.vansh.nyc/1g8",
-      "location": "Jupiter, FL",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "e14ed175fcc2b7b41f2ac9d33e1d4b9c097b31d3",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1e6",
-      "location": "West Valley City, UT",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "e52313c1909f7f02cda966ad5fcb50cae64ed131",
-      "title": "New Grad: Electrical Engineer 1",
-      "url": "https://go.vansh.nyc/1bq",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "353cf9833e7c84eec6d25e8ca3eaacb7b44360f3",
-      "title": "Secure System Engineering Intern",
-      "url": "https://go.vansh.nyc/1du",
-      "location": "Windsor Locks, CT",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

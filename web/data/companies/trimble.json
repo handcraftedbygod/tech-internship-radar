@@ -2,21 +2,21 @@
   "slug": "trimble",
   "name": "Trimble",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "618759b39e48290ea9b916b18c3058971c36d057",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1rP",
+      "location": "Knoxville, TN",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "c63c6e070dea0a2c63b46c3dd502f82608982ed5",
       "title": "Software Engineer Intern",

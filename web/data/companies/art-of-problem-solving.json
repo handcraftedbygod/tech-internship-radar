@@ -2,20 +2,25 @@
   "slug": "art-of-problem-solving",
   "name": "Art of Problem Solving",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "456899be57bd939c88ab9e4c0b84595de21b90fd",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1sA",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "f4b159dd9034b7326cac619ca82a3e05eea386cc",
       "title": "Software Engineer Intern",

@@ -1,0 +1,52 @@
+{
+  "slug": "mcdonald-s",
+  "name": "McDonald's",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0c62c99495eb7b8ebe5c3767a3f1b2fedf5fe495",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1sj",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "2a14b5ec273b4cbed20a3ea1c9259d884f4265c3",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1si",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "slug": "whoop",
-  "name": "WHOOP",
+  "name": "Whoop",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e81f8a1caff09c81e7fa53b93bf5c27c93557f8b",
+      "title": "Software Engineer Co-op, Backend, Business Systems",
+      "url": "https://go.vansh.nyc/1sK",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "59df16a7ac4fc8fea47859f647a3d2889f688c33",
       "title": "Software Engineer I (Backend, Growth)",

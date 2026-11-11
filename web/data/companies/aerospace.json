@@ -2,21 +2,21 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -45,10 +45,17 @@
     0,
     0,
     11,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "086e3923171438175350a4eab7e9dcc7f9db22f3",
+      "title": "Software Engineer I, Web Applications",
+      "url": "https://go.vansh.nyc/1rV",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "5fa7bcd7eb0b3977af6b1adadf2a583ba2bf60e1",
       "title": "Defensive Cyber Operations Grad Intern",
@@ -110,13 +117,6 @@
       "title": "Digital Communication Intern",
       "url": "https://go.vansh.nyc/dx",
       "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "11383ef86ced5ac0ac7311eb82b9ab2806e1646c",
-      "title": "Hardware Security Engineering Intern",
-      "url": "https://go.vansh.nyc/dv",
-      "location": "El Segundo, CA, Chantilly, VA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

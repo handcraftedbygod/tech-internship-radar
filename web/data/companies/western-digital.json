@@ -2,11 +2,15 @@
   "slug": "western-digital",
   "name": "Western Digital",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,6 +20,16 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +44,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a44a2dad573ab68a29b497517e8ccbe464723d7d",
+      "title": "Hardware Engineering Intern",
+      "url": "https://go.vansh.nyc/1sa",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "60d7ebf5a7c43a3fc889840c76bdb58354930b95",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1s8",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "52f03d40aa75732525afe27f713be6bcdf0b0b85",
       "title": "Recording Electronics Data Analytics & Optimization Co-op",

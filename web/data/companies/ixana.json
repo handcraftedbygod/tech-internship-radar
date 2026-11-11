@@ -1,0 +1,52 @@
+{
+  "slug": "ixana",
+  "name": "Ixana",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6c9d06974628d266353fb2440ba7794630f34b6d",
+      "title": "Embedded Hardware Engineer Intern, FPGA Design",
+      "url": "https://go.vansh.nyc/1qS",
+      "location": "West Lafayette, IN",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "c65479d1169003cbac5956d83615101e7ca72f6e",
+      "title": "Embedded Software Engineer Intern, Wearables and IoT",
+      "url": "https://go.vansh.nyc/1qR",
+      "location": "West Lafayette, IN",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

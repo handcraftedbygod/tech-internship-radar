@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 166,
+  "currentOpenings": 165,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 290,
-  "avgPostingDurationDays": 14.1,
+  "totalPostings": 291,
+  "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 234
+      "count": 235
     },
     {
       "hub": "Seattle",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 110
+      "count": 111
     },
     {
       "id": "biz",
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    164,
+    165,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac8070b74056897909e4101e8afb9da1d16b9c7a",
+      "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
+      "url": "https://go.vansh.nyc/1sI",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "1c2bce5eb569b7f9e87bd674f472b50a786382bf",
       "title": "GEO Content Product Manager Intern",
@@ -117,13 +124,6 @@
       "id": "943887bfaa7aa4551bb0cb1db1699496571e6e87",
       "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
       "url": "https://go.vansh.nyc/17k",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "98448800e7b14fd9eb194b9c56018fac91f8abe1",
-      "title": "New Grad 2027: Machine Learning Engineer, Visual Search",
-      "url": "https://go.vansh.nyc/17j",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

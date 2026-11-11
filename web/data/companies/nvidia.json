@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 27,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 49,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 51,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 37
+      "count": 39
     },
     {
       "hub": "Austin",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 33
+      "count": 34
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
@@ -66,10 +66,24 @@
     2,
     0,
     38,
-    9,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "398711304f55f11d9b2d2dc0da00ee65d19e02b9",
+      "title": "Performance Engineering Intern, Platform Performance and Power",
+      "url": "https://go.vansh.nyc/1sd",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "e8b3aee0fb2899b97c0d90280fe51855bdd1221a",
+      "title": "AI Operations Intern, AI Clouds",
+      "url": "https://go.vansh.nyc/1qq",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "d1a0b8f894d8040b6ec5b6305c8f187f7fc01f1a",
       "title": "Software Engineering Intern - 2027",
@@ -125,20 +139,6 @@
       "url": "https://go.vansh.nyc/12h",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "afac01a2d401020a84c9f34730e0ffa2b62114cd",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/12g",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "161448245e53ba35746efc6d937c2ab46b238798",
-      "title": "Security Architect",
-      "url": "https://go.vansh.nyc/11L",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

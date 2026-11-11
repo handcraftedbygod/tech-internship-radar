@@ -1,0 +1,45 @@
+{
+  "slug": "vooma",
+  "name": "Vooma",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8ae1960fe35095e57e82444bed56c7c8736e0bee",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1rA",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

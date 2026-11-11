@@ -1,0 +1,52 @@
+{
+  "slug": "infreelancing",
+  "name": "InFreelancing",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5edaf1821ccd5cae5ff8bcd00b4abc5418dfca04",
+      "title": "Ingénieur Devops Junior Orienté Mainframe",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__163511742__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "8bf574f1f009b1755f727337e33edd5a6d85502d",
+      "title": "Ingénieur DevOps Junior – Mainframe CI/CD",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__163511268__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

@@ -2,25 +2,30 @@
   "slug": "general-dynamics-mission-systems",
   "name": "General Dynamics Mission Systems",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 21,
+  "totalPostings": 25,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 25
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 21
     },
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 2
     }
   ],
@@ -35,10 +40,38 @@
     0,
     0,
     9,
-    12,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c46327c9776669815d558a142d48b5a1486e629b",
+      "title": "ASIC/FPGA Engineer Intern",
+      "url": "https://go.vansh.nyc/1rJ",
+      "location": "Scottsdale, AZ",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "1b69835c891d5b3b3f3183f0c8af75a31435ca0d",
+      "title": "Systems Intern, Cybersecurity and Linux Administration",
+      "url": "https://go.vansh.nyc/1rI",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "57e5f8445ab4ffd4db0e99a4ee572eb8c7113a89",
+      "title": "Systems and Software Development Intern",
+      "url": "https://go.vansh.nyc/1qB",
+      "location": "San Antonio, TX, Scottsdale, AZ",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "dca6773fe35c4a06757ba82146b996841d0791f1",
+      "title": "Linux Automation Intern, Linux Integration and Test Engineer",
+      "url": "https://go.vansh.nyc/1qr",
+      "location": "San Antonio, TX",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "3d087466c07bd684c7ae13e0bc942484bf6dcd02",
       "title": "Ontology and Semantic Engineering Intern",
@@ -80,34 +113,6 @@
       "url": "https://go.vansh.nyc/1om",
       "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "ce09fa112a1bead75442dae30ffdea9f1e620657",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1mA",
-      "location": "Manassas, VA",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "b06dcbb2ccf594872d875b15ca689477ff778b14",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1mz",
-      "location": "Lakewood, OH",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "3663618b9e62aa963c840a022a07c51ab240102d",
-      "title": "FPGA Engineer Intern",
-      "url": "https://go.vansh.nyc/1i0",
-      "location": "Manassas, VA",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "f22ff9ba735035be0f63e5442e04806c9d2794c2",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1hX",
-      "location": "Port Orchard, WA",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }

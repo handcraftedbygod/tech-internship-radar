@@ -2,14 +2,14 @@
   "slug": "cr-dit-agricole-sa",
   "name": "Crédit Agricole S.A.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42e0ceeeec6ac75da2e341a2eb61307092cab547",
+      "title": "Stagiaire - Data Science & IA H/F",
+      "url": "https://casa-recrute.talent-soft.com/offre-de-emploi/emploi-stagiaire-data-science-ia-h-f_113923.aspx?utm_source=freehire.me",
+      "location": "Europe, France, Ile-de-France, 75 - Paris",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "73430e263a4e3a25dcaf6b733acc173ade78df60",
       "title": "INTERNSHIP - IT DevOps CICD Tools Integrator H/F",

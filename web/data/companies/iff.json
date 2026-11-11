@@ -2,21 +2,21 @@
   "slug": "iff",
   "name": "iff",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15412734f0f4a9ff272a6ce6496ba64aef5790a9",
+      "title": "Data Engineering & Data Science Intern",
+      "url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/Benicarlo-Spain/Intern_R23121?utm_source=freehire.me",
+      "location": "Benicarlo, Spain",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "635248082cfbec6644dcc1f29f962cef0afb1e10",
       "title": "Intern PX Cognitive Data Science",

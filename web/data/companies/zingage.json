@@ -1,0 +1,52 @@
+{
+  "slug": "zingage",
+  "name": "Zingage",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "3d8104160ac37f8beeba2933c9f330b73e482557",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1rE",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "a37c6e3cb2fe06a2792343c7c61bb9f4004007ab",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1rB",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

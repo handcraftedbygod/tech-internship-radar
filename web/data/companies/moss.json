@@ -1,0 +1,45 @@
+{
+  "slug": "moss",
+  "name": "Moss",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7138d5128e84bf043505633baa78a9cacf7c6570",
+      "title": "Intern, ML / Perception / Robotics",
+      "url": "https://go.vansh.nyc/1ut",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

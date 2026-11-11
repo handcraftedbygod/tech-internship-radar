@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 26,
-  "avgPostingDurationDays": 11.8,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Munich",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     },
     {
       "id": "ai",
@@ -56,10 +56,24 @@
     0,
     2,
     21,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9c3d9f4d01e12f2e81eb226cd92178d09c9920f",
+      "title": "Virtualisation Software Engineering Internship, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200694316/virtualisation-software-engineering-internship-coreos?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "8e3b63cbacebdc028fe13361c212db232b864344",
+      "title": "Tools & Automation Engineer",
+      "url": "https://go.vansh.nyc/1s1",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "7c0de2f0293173253f8c28c50e3eb714e179383f",
       "title": "Intern - Software Automation Engineer",
@@ -114,20 +128,6 @@
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
       "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
       "location": "Cambridge",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "ea8bfffcb1aca45c064a3653fbebc0cf9f1b2f64",
-      "title": "Cellular Baseband Design Verification Intern",
-      "url": "https://go.vansh.nyc/Dd",
-      "location": "United States",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "0fc6fcabf49a86e4e20be5a58cbd7c3b9520e99c",
-      "title": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
-      "url": "https://go.vansh.nyc/Dc",
-      "location": "United States",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]

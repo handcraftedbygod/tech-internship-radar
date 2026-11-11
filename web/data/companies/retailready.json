@@ -1,0 +1,45 @@
+{
+  "slug": "retailready",
+  "name": "RetailReady",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f47d454e63bb5b2f5ef51444084e818fa81fbad0",
+      "title": "Full Stack Intern",
+      "url": "https://go.vansh.nyc/1rt",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

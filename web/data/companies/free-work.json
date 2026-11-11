@@ -2,14 +2,14 @@
   "slug": "free-work",
   "name": "Free-Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "52d5b458850b8699a02c8a5dc3df066b1adc6c5c",
+      "title": "Développeur Fullstack Java / Angular – Junior H/F",
+      "url": "https://www.cadremploi.fr/emploi/detail_offre?offreId=156589910392994987&utm_source=freehire.me",
+      "location": "Courbevoie, Ile-de-France",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "c50f4a092ca2f643b8fd65b984302384391029ed",
       "title": "Business Developer Junior – ESN - Conseil en Ingénierie à Lyon H/F",

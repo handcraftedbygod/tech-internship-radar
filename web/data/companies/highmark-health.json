@@ -2,21 +2,21 @@
   "slug": "highmark-health",
   "name": "Highmark Health",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a378f74ed645555df4921b5d2347d444c7338eba",
+      "title": "Data Analyst enGen Undergraduate Intern",
+      "url": "https://go.vansh.nyc/1qu",
+      "location": "Pittsburgh, PA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "6dc241b16103de5109d522fe69a412a8cc25c9bd",
       "title": "Vulnerability Management Analyst Undergraduate Intern",

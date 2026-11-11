@@ -2,9 +2,9 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Krakow",
@@ -25,6 +25,11 @@
       "id": "swe",
       "label": "Software",
       "count": 12
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,10 +43,17 @@
     3,
     2,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53ad9f2809c9c60bd45aa63d091d09c73b9d3e8e",
+      "title": "Software Engineer: AI & Fusion Engineering, Fusion Engineering",
+      "url": "https://go.vansh.nyc/1sq",
+      "location": "Novi, MI",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "31c7116695eb4fed23127e3a24cb5694b298cfff",
       "title": "Intern, Software Engineer (Javascript) - 12 months",
@@ -104,13 +116,6 @@
       "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-a1d76a",
       "location": "Montreal, Canada",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "4e6199fd58ae20b25a145bcc118bb88de282f20b",
-      "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-      "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-391e92",
-      "location": "Montreal, Canada",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

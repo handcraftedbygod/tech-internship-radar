@@ -2,21 +2,21 @@
   "slug": "sajo-consulting",
   "name": "SaJo Consulting GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf4ac1ad6beec5b87fae4ca282161ec7e2729ded",
+      "title": "Junior DevOps Engineer (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwODYwODU4My1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "0e5187040f72ad2fa4b6ac889d758cc7ee07e516",
       "title": "Junior DevOps Engineer (m/w/d)",

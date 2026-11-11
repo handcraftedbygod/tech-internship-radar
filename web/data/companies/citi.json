@@ -2,14 +2,14 @@
   "slug": "citi",
   "name": "Citi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 29
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     28,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4376df1fc95f05fb743804fe5b888dd6334c3962",
+      "title": "Junior Fullstack Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__616531853__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "31fcae4aa1fe3c42fdde2a0ecebbc0a20752520e",
       "title": "New Grad 2027: Application Development Analyst",
@@ -99,13 +106,6 @@
       "title": "Technology Analyst Intern, Application Development",
       "url": "https://go.vansh.nyc/hu",
       "location": "Mississauga, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "7ca612fe5a6711cb1a10f21d61dd86072d6d7747",
-      "title": "Technology Analyst Intern, Application Development",
-      "url": "https://go.vansh.nyc/ht",
-      "location": "Jacksonville, FL",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

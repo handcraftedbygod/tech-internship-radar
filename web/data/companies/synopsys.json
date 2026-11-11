@@ -2,20 +2,25 @@
   "slug": "synopsys",
   "name": "Synopsys",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ada4f1eaf61fc3f7c7aeda92beb3b5a3aed165e",
+      "title": "Engineering Documentation and AI Automation Co-op",
+      "url": "https://go.vansh.nyc/1uz",
+      "location": "Nepean, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "f1b0788dfaa1b6b33742ec9c013a0755c78b0932",
       "title": "Technical Engineer Intern",

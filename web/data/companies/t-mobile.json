@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 13,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 18,
-  "avgPostingDurationDays": 10.7,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 20
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 14
     },
     {
       "id": "ai",
@@ -49,10 +49,31 @@
     0,
     0,
     6,
-    12,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e78f702a0d6258e05839524913e03c27638d1bd2",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1qA",
+      "location": "Philadelphia, PA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "08f39b06bd9c78ac68ac678f14683078c7000cb9",
+      "title": "Software Engineer Intern, T-Ads",
+      "url": "https://go.vansh.nyc/1qz",
+      "location": "Philadelphia, PA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "aa185fc09db68fc1502b80ffad21f7a19a1f688c",
+      "title": "Site Reliability Engineering Intern",
+      "url": "https://go.vansh.nyc/1qv",
+      "location": "Frisco, TX, Atlanta, GA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "8e6964354f2fd0952ccad2ecef8a2496b580547f",
       "title": "Software Engineer Intern",
@@ -101,27 +122,6 @@
       "url": "https://go.vansh.nyc/1kB",
       "location": "Bellevue, WA",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "1c57b31368c67c9c7b601b1abd871615a2d8fcb7",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1kt",
-      "location": "Overland Park, KS",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "62418d56fa2b434fda1159340177a0abd4c3dacb",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1f5",
-      "location": "Atlanta, GA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "72258bf80c4aa3775d70f7801910360a717d2453",
-      "title": "T-Ads Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1er",
-      "location": "Philadelphia, PA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]
 }

@@ -2,21 +2,26 @@
   "slug": "sonio",
   "name": "Sonio",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     1,
     0,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca4b8167910ef91cc6b5bccc8689d90f303a42f2",
+      "title": "Data Science Internship",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/data-science-internship-paris-486882",
+      "location": "Paris office",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "c2f9ca87b6d39b31f49b452e5990a8ccd6fa773a",
+      "title": "DevOps Engineering Intern",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sonio/devops-engineering-intern-paris-100094",
+      "location": "Paris office",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "c4d070c99d390a311ac00f51c929d7b3dbc7db93",
       "title": "Clinical Data Analyst intern",

@@ -2,14 +2,14 @@
   "slug": "coinbase",
   "name": "Coinbase",
   "tier": "notable",
-  "currentOpenings": 23,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 31.5,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "biz",
@@ -54,10 +54,17 @@
     0,
     27,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47e0d76a75c4d5af03fd34a25b8cc1dc90807d07",
+      "title": "Strategic Sourcing Intern",
+      "url": "https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084",
+      "location": "Hybrid - New York, NY",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "ca4b8f616eb98a587edb1fb4509f0d45941ba75b",
       "title": "Forward Deployed Engineer Intern (HR Technology)",
@@ -118,13 +125,6 @@
       "id": "7b7325b04ae13949647cd37be39e26f748b6ff95",
       "title": "Real Estate & Builds Intern",
       "url": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
-      "location": "Hybrid - New York, NY",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "7e84a96f3b7eed2333c79719ea2833481618497a",
-      "title": "Product Manager (HR Technology) Intern",
-      "url": "https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504",
       "location": "Hybrid - New York, NY",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }

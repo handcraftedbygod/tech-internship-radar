@@ -2,13 +2,17 @@
   "slug": "rambus",
   "name": "Rambus",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b273bc860a0f194371b37411946b8d48f604821d",
+      "title": "CAD Engineer Intern",
+      "url": "https://go.vansh.nyc/1sx",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "0a56aa63cb3d8ef1c09719e24888083359257034",
       "title": "Digital Design Intern",

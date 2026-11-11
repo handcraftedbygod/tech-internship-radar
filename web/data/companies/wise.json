@@ -2,17 +2,17 @@
   "slug": "wise",
   "name": "Wise",
   "tier": "notable",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
-      "hub": "London",
-      "count": 3
+      "hub": "Austin",
+      "count": 4
     },
     {
-      "hub": "Austin",
+      "hub": "London",
       "count": 3
     }
   ],
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "205be4e909719fa21990a4aef26a8760b80135ed",
+      "title": "New Grad 2027: Data Scientist",
+      "url": "https://go.vansh.nyc/1su",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "1771d30c8774829f5a291cf293a1d89607d3763f",
       "title": "New Grad 2027: Analyst",

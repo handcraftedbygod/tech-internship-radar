@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5cd095481b17a1a314d101d3850128bc8f2f2a47",
+      "title": "Junior Infrastructure Engineer (On-Premise)",
+      "url": "https://djinni.co/jobs/857167-junior-infrastructure-engineer-on-premise/?utm_source=freehire.me",
+      "location": "Europe",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "1d1cc7d68afa32b0e874f959aab46fe11e5a3e1d",
       "title": "Junior Infrastructure Engineer (On-Premise)",

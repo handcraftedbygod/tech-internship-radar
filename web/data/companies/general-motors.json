@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 8.3,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Dublin",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b4bf6590503c7e5100b7df8e77b7ca76f5c1ce8a",
+      "title": "Machine Learning Engineer Intern, Embodied AI",
+      "url": "https://go.vansh.nyc/1rQ",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "97a405e1ce6ed0f8ce902a61ebff878b9affa73e",
       "title": "Software Systems Engineer, Data Labeling Engineering",
@@ -108,13 +115,6 @@
       "title": "AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
       "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "6bdee61c76ecb9100fcfadec14299e36a99322c3",
-      "title": "Research and Development Intern, AI/Machine Learning",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620",
-      "location": "Mountain View, CA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]

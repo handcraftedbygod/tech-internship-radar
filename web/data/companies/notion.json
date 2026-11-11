@@ -2,14 +2,14 @@
   "slug": "notion",
   "name": "Notion",
   "tier": "notable",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "San Francisco",
@@ -26,6 +26,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,17 @@
     3,
     1,
     2,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "716556b8a6457cd6b722c1ca811c7eb34d30270b",
+      "title": "Product Design Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
+      "location": "New York, New York",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "23026ef66518ba14eb875ecde0aa87bc06fa8843",
       "title": "Software Engineering Intern, iOS",
@@ -105,13 +117,6 @@
       "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
       "location": "San Francisco, California",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "4bb5e53d1f64974ba038abe832895fee29da81c9",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
-      "location": "San Francisco, CA, New York, NY",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]
 }

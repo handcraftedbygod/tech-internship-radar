@@ -1,0 +1,52 @@
+{
+  "slug": "natoma",
+  "name": "Natoma",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "72c22294a429a1d7bd10716fb6e688aa75ac8444",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1rq",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "30fd7436c58d63b4673eb7b4553ae148052bd361",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1rp",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

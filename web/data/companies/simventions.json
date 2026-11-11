@@ -1,0 +1,52 @@
+{
+  "slug": "simventions",
+  "name": "SimVentions",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-11T16:23:27.197Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c3887b2a5c882a06d2a951d3c9aa732a60658e14",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1uv",
+      "location": "Fredericksburg, VA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "0b58b53aded94bbd8a0973d7a5b2242c0e17d64a",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1uu",
+      "location": "Fredericksburg, VA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    }
+  ]
+}

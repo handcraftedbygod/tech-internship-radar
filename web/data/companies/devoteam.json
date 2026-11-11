@@ -2,9 +2,9 @@
   "slug": "devoteam",
   "name": "Devoteam",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
@@ -18,6 +18,10 @@
     {
       "hub": "Lisbon",
       "count": 1
+    },
+    {
+      "hub": "Frankfurt",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -29,7 +33,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -43,10 +47,17 @@
     6,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23dfb7577a81890e2ff4e6f79c396df3bd9204af",
+      "title": "(Junior) Software Developer – Compilerbau & TTCN-3 (m/w/d)",
+      "url": "https://jobs.smartrecruiters.com/Devoteam/744000160868784--junior-software-developer-compilerbau-ttcn-3-m-w-d-?utm_source=freehire.me",
+      "location": "Frankfurt am Main, HE, de",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "741f7b54dcfb40bbe27e99e71b21ce4db543190d",
       "title": "Junior DevOps Consultant",

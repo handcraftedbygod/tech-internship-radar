@@ -2,25 +2,25 @@
   "slug": "astranis",
   "name": "Astranis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     1,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "875f5179da9f5c4c3a16efe591213eddc890624a",
+      "title": "Embedded Software Developer Intern, Network/Payload",
+      "url": "https://go.vansh.nyc/1sT",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "cb6b549e18f36bb13d52d8a64ca2a4cd003e37e6",
       "title": "Embedded Software Developer Intern, Network/Payload",

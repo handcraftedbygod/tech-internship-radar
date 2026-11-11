@@ -2,14 +2,14 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": 8.5,
+  "totalPostings": 23,
+  "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Austin",
@@ -31,6 +31,11 @@
       "id": "design",
       "label": "Design",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     0,
     0,
     15,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "affee4fc7298236f6dc0102a3edc95d96399d227",
+      "title": "Business Intelligence Analyst (Master's)",
+      "url": "https://go.vansh.nyc/1st",
+      "location": "Ann Arbor, MI",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "785bfc390ee62b612e61b43f4a31ecefb103834d",
       "title": "Software Intern",
@@ -108,13 +120,6 @@
       "id": "e98b7d3cda5c907f7e1742daea72dfa6ef1e5849",
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/Zl",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "3123680713cac8bfa4e376c29667e793bb743fab",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/YS",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }

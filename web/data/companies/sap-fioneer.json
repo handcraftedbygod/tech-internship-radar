@@ -2,13 +2,17 @@
   "slug": "sap-fioneer",
   "name": "SAP Fioneer",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7fc1f902e38b6e924323c30ec6d454f07fd8623",
+      "title": "(Junior) Deal Strategy Manager Insurance Software (m/f/d)",
+      "url": "https://apply.workable.com/j/B22C92D066?utm_source=freehire.me",
+      "location": "Munich, Bavaria, Germany",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "3979e93e74882f97d060ef43fb7c012bd8bd8294",
       "title": "SAP Junior Developer (m/f/d) (Anwendungsprogrammierer/in)",

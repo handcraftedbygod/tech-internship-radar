@@ -2,21 +2,21 @@
   "slug": "national-information-solutions-cooperative",
   "name": "National Information Solutions Cooperative",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b2de9f1a149de730a64b96d699ff8650ae75e6d1",
+      "title": "Test Automation Intern",
+      "url": "https://go.vansh.nyc/1sM",
+      "location": "Lake Saint Louis, MO",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "96d864c5c3261f70c1a6c0a96958571b85220d87",
       "title": "Software Development Intern",

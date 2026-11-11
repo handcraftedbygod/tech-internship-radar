@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     },
     {
       "id": "product",
@@ -39,10 +39,17 @@
     1,
     0,
     10,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d7eae61ec9d21fcbaf4d470b70f1eab21a8ade0",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053?utm_source=freehire.me",
+      "location": "Finland, Satakunta, Tampere",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "beb7058a5cc7084ad67123d58898ec013489e9c2",
       "title": "Software Engineer Intern, Teamwork Experiences",
@@ -104,13 +111,6 @@
       "title": "Security Research Intern",
       "url": "https://go.vansh.nyc/eB",
       "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "807e1bee8b3227ed3c11a6618168f486fd9a153c",
-      "title": "Software Engineer Intern, Security & Identity",
-      "url": "https://go.vansh.nyc/e6",
-      "location": "Cambridge, MA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

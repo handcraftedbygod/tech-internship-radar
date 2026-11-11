@@ -2,21 +2,21 @@
   "slug": "mcs",
   "name": "MCS Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     1,
     0,
     2,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "906364585d115dd73abd81fc170cf6a80ad34d92",
+      "title": "Junior support developer (Coleraine)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5959725165?se=CM2ulQHd8RGQSetvOP7YHw&utm_medium=api&v=E6099213AC33CD91CF562149508EA63CDD8153A8&utm_source=freehire.me",
+      "location": "Coleraine, Northern Ireland",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "8362536fb7b974518d88e21d5049668654f2912b",
+      "title": "Junior Python Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__583467971__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me",
+      "location": "Northern Ireland, United Kingdom",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "99b2a747e376027137e351c03eddbb6cb443855a",
       "title": "Junior support developer (Coleraine)",

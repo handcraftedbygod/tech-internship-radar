@@ -2,21 +2,21 @@
   "slug": "moderna",
   "name": "Moderna",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a48b4fa555992497148d5b735880f6d6089d013e",
+      "title": "mRNA Design Engineer Co-op",
+      "url": "https://go.vansh.nyc/1qs",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "a9ccd599ea23e6ee84996a9a16c5153d81b0de7c",
       "title": "mRNA Design Engineering Co-op",

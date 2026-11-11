@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 30,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 31,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 15
+      "count": 16
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     2,
     2,
     18,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d884c484199b2f5dc524ec33be1e148d1d54aea",
+      "title": "Data Science | Business Analytics internship: procurement analytics dashboards",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "a183fe7d27f8b150212f03c33d1f8bdd3e542f7c",
       "title": "Data Analytics | Computer Science internship: quality intelligence dashboard",
@@ -103,13 +110,6 @@
       "id": "24f168cdb34c599cf1646a0e50215b82d13dbc13",
       "title": "Data Engineer Co-op",
       "url": "https://go.vansh.nyc/Yt",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "85b91075616b3e0ad7990dd5ab0651d895869910",
-      "title": "Software Development Engineer in Test Intern",
-      "url": "https://go.vansh.nyc/Y2",
       "location": "San Diego, CA",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }

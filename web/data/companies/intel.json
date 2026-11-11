@@ -4,7 +4,7 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Toronto",
       "count": 1
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 21
     },
     {
       "id": "design",
@@ -48,10 +52,17 @@
     0,
     0,
     24,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2bab98a2e0befdf6e73ab9855fdb458e0999240c",
+      "title": "New Grad 2027: Junior CPU Verification Engineer",
+      "url": "https://go.vansh.nyc/1sO",
+      "location": "Austin, TX, Hillsboro, OR",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "e1fd9893ef61e60cdc335eb7b46a079b7dab9c7d",
       "title": "SoC Logic Design Engineer",
@@ -113,13 +124,6 @@
       "title": "IP Design Verification Engineer",
       "url": "https://go.vansh.nyc/To",
       "location": "Santa Clara, CA, Worcester, MA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "3e7b17ec08e0fbd9cff774d3f0049b769f7eda41",
-      "title": "SoC Design Verification Engineer (Master's)",
-      "url": "https://go.vansh.nyc/Tn",
-      "location": "Hillsboro, OR, Folsom, CA, Fort Collins, CO",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]

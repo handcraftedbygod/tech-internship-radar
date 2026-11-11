@@ -2,21 +2,21 @@
   "slug": "zebra-technologies",
   "name": "Zebra Technologies",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47926bfecbe023b77c7265def40520fa663d41b9",
+      "title": "Security Intern",
+      "url": "https://go.vansh.nyc/1qC",
+      "location": "Lincolnshire, IL",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "ae3ef6ec5fa9ef0250aea33fba22ce2092b11ce2",
       "title": "Software Engineer Intern, AI Features & Product Convergence",

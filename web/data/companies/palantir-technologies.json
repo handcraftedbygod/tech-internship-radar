@@ -2,9 +2,9 @@
   "slug": "palantir-technologies",
   "name": "Palantir Technologies",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 8,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -13,14 +13,18 @@
     },
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 10
     },
     {
       "id": "ai",
@@ -39,10 +43,31 @@
     0,
     0,
     6,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "48c06ddf66316ff7904f3e11192d69480362c40c",
+      "title": "Software Engineer Intern, Connectivity Platform and Product",
+      "url": "https://go.vansh.nyc/1rT",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "05e076f6bb325a186b8fb34c51ee3ceaefcdff08",
+      "title": "Software Engineer Intern, Data Connectors",
+      "url": "https://go.vansh.nyc/1rS",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "111a26ba46ed5055d7b655af006a441370f80d1a",
+      "title": "Software Engineer Intern, Connectivity Platform and Product",
+      "url": "https://go.vansh.nyc/1rs",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "82a2458f49a28aea652daad736be3ed29705b13b",
       "title": "Software Engineer Intern, Sovereign AI Systems",
@@ -89,13 +114,6 @@
       "id": "3601166d4743b193b7ee3d55312347641f22d03b",
       "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://startup.jobs/software-engineer-internship-infrastructure-palantir-7064207?utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "d815664e346aba150e3754015992e4f2bb1627ba",
-      "title": "Forward Deployed Software Engineer, Internship - Commercial",
-      "url": "https://startup.jobs/forward-deployed-software-engineer-internship-commercial-palantir-7078664?utm_source=freehire.me",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }

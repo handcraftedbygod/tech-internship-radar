@@ -2,14 +2,14 @@
   "slug": "jobtraffic",
   "name": "jobtraffic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Barcelona",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bb869cb457df50a92cf0e8a9cbd75142584e79d6",
+      "title": "Junior engineer DevOps en MLOPS",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__179872147__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "ba3340c537f6c3638b224ae74d740db9a8041da8",
       "title": "Junior Frontend Developer",

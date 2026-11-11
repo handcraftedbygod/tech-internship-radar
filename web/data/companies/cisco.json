@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 48,
+  "totalPostings": 51,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 28
+      "count": 30
     },
     {
       "hub": "Krakow",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 29
     },
     {
       "id": "ai",
@@ -42,7 +42,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 7
+      "count": 9
     },
     {
       "id": "product",
@@ -66,10 +66,31 @@
     1,
     8,
     33,
-    6,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9a20319b2e0c401091768b56d2ed43a603ec9401",
+      "title": "Software Engineer Intern, Embedded Systems I",
+      "url": "https://go.vansh.nyc/1uy",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "d22538da99c6c2b17ceac1408195a53687d6b0a4",
+      "title": "Software Developer Co-op - Full Stack / Backend",
+      "url": "https://go.vansh.nyc/1tS",
+      "location": "Kanata, Canada, Saint-Laurent, Canada, Calgary, Canada, Toronto, Canada, Montreal, Canada, Vancouver, Canada, Halifax, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "d7c94831c061535c56e34184d964da4c0de98712",
+      "title": "Software Engineer Embedded Systems I Intern",
+      "url": "https://go.vansh.nyc/1sE",
+      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "b5f4e0094c11a442262a49cb09146b7c5ba9f1ae",
       "title": "Software Engineer Intern, Full-Stack / Backend I",
@@ -118,27 +139,6 @@
       "url": "https://go.vansh.nyc/Zp",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "28fbbc111be73855a272e0f56c6cf5f696297f51",
-      "title": "Security Consulting Engineer I Intern",
-      "url": "https://go.vansh.nyc/Zg",
-      "location": "Research Triangle Park, NC",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "58671058de5598aff9821f2818658711399c6c31",
-      "title": "Data Science Analyst I",
-      "url": "https://go.vansh.nyc/XC",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "7a85b04b1407947a6e75329d55f9be5d131481f3",
-      "title": "Data Science Analyst 1",
-      "url": "https://go.vansh.nyc/XA",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

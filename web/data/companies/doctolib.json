@@ -2,26 +2,26 @@
   "slug": "doctolib",
   "name": "Doctolib",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 38,
+  "totalPostings": 42,
   "avgPostingDurationDays": 19.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Paris",
-      "count": 9
+      "count": 11
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 4
     },
     {
       "hub": "Other",
       "count": 4
-    },
-    {
-      "hub": "Amsterdam",
-      "count": 3
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 29
+      "count": 32
     },
     {
       "id": "biz",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -56,10 +56,38 @@
     5,
     5,
     28,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6cc9cafc9f1d09c45da455ee5b67e80c75d7d21c",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-march-2027-425618",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "5707a679bf932e8acb96d3da0ab15d058d3c63db",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineering-intern-fullstack-paris-levallois-perret-291106",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "4273230c35d27fe1adc36970d6a94cd2aaf3f87c",
+      "title": "Machine Learning Engineer Intern (x/f/m)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/machine-learning-engineer-intern-levallois-perret-451465",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "6e5e4f4619d2777ece9b4dcd1c1a8e3f1439b646",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
+      "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/software-engineer-intern-fullstack-amsterdam-377938",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "639d54d250e410f135743efef13f06b245fd4354",
       "title": "Machine Learning Engineer Intern (x/f/m)",
@@ -101,34 +129,6 @@
       "url": "https://job-boards.greenhouse.io/doctolib/jobs/8034356003",
       "location": "München",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "48a14c52bf7f3a14560115df0ac8868874ba9276",
-      "title": "Praktikum/Werkstudent:in Partnership Management (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8030553003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "1f78b7e11c4f20cc87e141ccfc964cc747238dcd",
-      "title": "Praktikum Public Affairs & Advocacy (x/f/m)",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8026774003",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "5489b675ff985c130847624b58f2c39f45d5e90b",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Amsterdam",
-      "url": "https://www.arbeitnow.nl/jobs/companies/doctolib/software-engineer-intern-fullstack-amsterdam-207152",
-      "location": "Amsterdam",
-      "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "17dde65be4d5634379734ae7ead38970a1963a65",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027",
-      "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003?utm_source=freehire.me",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }
   ]
 }

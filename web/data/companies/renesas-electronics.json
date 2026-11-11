@@ -2,21 +2,25 @@
   "slug": "renesas-electronics",
   "name": "Renesas Electronics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "abae55e8cbe018bb24c88622ac73f4bf1df8baa6",
+      "title": "Applications Engineer Intern",
+      "url": "https://go.vansh.nyc/1sk",
+      "location": "Morrisville, NC",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "8cf4274161473ae7deb8312241767ccd2a7df656",
       "title": "Memory Server System Testing Intern",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 107,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 113,
-  "avgPostingDurationDays": 13.9,
+  "totalPostings": 114,
+  "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 86
+      "count": 87
     },
     {
       "hub": "Seattle",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 67
+      "count": 68
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     6,
     0,
     0,
-    107,
+    108,
     0
   ],
   "recentPostings": [
+    {
+      "id": "608f6df2368723ff0a961eed4f19164c29610b42",
+      "title": "Site Reliability Engineer Intern, Data Platform, Computer Platform",
+      "url": "https://go.vansh.nyc/1s7",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "fd7870a995dfb409714e7bbcf8b913832e00d468",
       "title": "Student Researcher Intern, Seed Model - Vision",
@@ -112,13 +119,6 @@
       "id": "459aead88086d91055beaaf454992feadc88e886",
       "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
       "url": "https://go.vansh.nyc/15w",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "7cc1c6fe2e6c1b6ea21bc8f92cae3727a860d8de",
-      "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
-      "url": "https://go.vansh.nyc/15v",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

@@ -2,14 +2,14 @@
   "slug": "anduril",
   "name": "Anduril",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d0df770bfe2ece8d1a48d85fe2eb2cf1c767821",
+      "title": "New Grad 2027: Information Security Engineer",
+      "url": "https://go.vansh.nyc/1s4",
+      "location": "Costa Mesa, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "51a70a39474c294c0c9a45a344e7f3d28f5b3d1e",
       "title": "Robotics Engineer Co-op",

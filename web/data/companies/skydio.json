@@ -2,26 +2,26 @@
   "slug": "skydio",
   "name": "Skydio",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 18,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 18
+      "count": 20
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -45,10 +45,24 @@
     0,
     0,
     18,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "76f06ac92e03ac5cde6be7d7b731619862ef860c",
+      "title": "Middleware Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1s9",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "d554f9a17f10e78acce4d983a99887b50e33acbe",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rH",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "3f4d525c907ecefdbdcfbe826180ad8c7027f959",
       "title": "Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools",
@@ -102,20 +116,6 @@
       "id": "9d2817aa7ec4090c6737f12596210ed342ec87eb",
       "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning",
       "url": "https://go.vansh.nyc/BA",
-      "location": "San Mateo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "4ee83b2ba56bc636a7d846add5fdc98fe8ed7a8d",
-      "title": "Flight Test Intern",
-      "url": "https://go.vansh.nyc/Bz",
-      "location": "San Mateo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "6ab7ed27edacea38d07c35005df836971331c16b",
-      "title": "Hardware Test and Reliability Intern",
-      "url": "https://go.vansh.nyc/By",
       "location": "San Mateo, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

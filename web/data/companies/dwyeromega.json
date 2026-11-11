@@ -2,20 +2,25 @@
   "slug": "dwyeromega",
   "name": "DwyerOmega",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "01881ae27ee743055b5c9680a29d5d2282e28b02",
+      "title": "Applied AI Intern",
+      "url": "https://go.vansh.nyc/1sC",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
+    {
+      "id": "e2d2182b8d5cc9e06adc5e84d06556b63e28ac27",
+      "title": "Applied AI Intern",
+      "url": "https://go.vansh.nyc/1sB",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "dc9ee487bd48e05f7cf36db2dd76637fc8396f50",
       "title": "Cyber Resilience & Product Security Intern",

@@ -2,21 +2,21 @@
   "slug": "bmr-associates",
   "name": "BMR Associates Limited",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce946e1ecf01a089a0dc9448da900048fcbe6e5b",
+      "title": "Junior QA Analyst - Software, Permanent, Hybrid",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5959472260?se=8KpomAHd8RGQSetvOP7YHw&utm_medium=api&v=4C86406F1BE95C790028E7A41F1F19BC2F49E89A&utm_source=freehire.me",
+      "location": "Birmingham, West Midlands",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "77153f9c2499f4edbd3387207ab8f9c0493fc705",
       "title": "Junior QA Analyst - Software, Permanent, Hybrid",

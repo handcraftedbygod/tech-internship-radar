@@ -2,21 +2,21 @@
   "slug": "daimler-truck",
   "name": "Daimler Truck",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "90cc28a4fe3525c0e3bc23db77daefe4b3274da9",
+      "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",
+      "url": "https://go.vansh.nyc/1uo",
+      "location": "Detroit, MI",
+      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+    },
     {
       "id": "2bc86d74dc655424bfc565e1e839e38705096562",
       "title": "Praktikum im Bereich Machine Learning und Robotik ab Januar 2027",
