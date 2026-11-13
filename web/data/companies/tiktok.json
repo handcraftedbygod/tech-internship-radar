@@ -2,14 +2,14 @@
   "slug": "tiktok",
   "name": "TikTok",
   "tier": null,
-  "currentOpenings": 165,
+  "currentOpenings": 160,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 291,
+  "totalPostings": 292,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 235
+      "count": 236
     },
     {
       "hub": "Seattle",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 111
+      "count": 112
     },
     {
       "id": "biz",
@@ -53,10 +53,17 @@
     114,
     9,
     3,
-    165,
+    166,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5cf4a3b734322ae486d87047753d8d1a907357c9",
+      "title": "Machine Learning Engineer Intern, Data-Global E-Commerce-Search",
+      "url": "https://go.vansh.nyc/1ym",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ac8070b74056897909e4101e8afb9da1d16b9c7a",
       "title": "Machine Learning Engineer Intern, E-Commerce Recommendation Mall",
@@ -117,13 +124,6 @@
       "id": "59b64e8fc22b01eb16479c3004ecc5f997daa609",
       "title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
       "url": "https://go.vansh.nyc/17l",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "943887bfaa7aa4551bb0cb1db1699496571e6e87",
-      "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
-      "url": "https://go.vansh.nyc/17k",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

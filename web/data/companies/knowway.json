@@ -2,14 +2,14 @@
   "slug": "knowway",
   "name": "KnowWay GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Munich",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1a44cb317d88aa3e9793a0f864bf58063279832c",
+      "title": "AI / Data Engineering Praktikum (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/knowway-gmbh/ai-data-engineering-praktikum-hamburg-58877?utm_source=freehire.me",
+      "location": "Hamburg",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "77d38ef83def2f91bca90b5e361b0dfd15fe36be",
       "title": "Working Student Platform Engineering & DevOps (m/w/d)",

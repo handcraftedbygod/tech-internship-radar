@@ -2,20 +2,25 @@
   "slug": "siemens-healthineers",
   "name": "Siemens Healthineers",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "418ada6e4ae2442efc9f42edbbf5796ac6975219",
+      "title": "R&D Electronics & Software Engineering Intern",
+      "url": "https://careers.siemens-healthineers.com/global/en/job/SHDSHWUSP101354EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Bicester, England",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9bde740c3fcc54f99c1447d9d2e1a7e52b13baf9",
       "title": "Applied Data Science Intern",

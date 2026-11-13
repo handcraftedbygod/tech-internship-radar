@@ -1,0 +1,57 @@
+{
+  "slug": "hub-international",
+  "name": "HUB International",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "da8edea959346ce12c130d0b55c06c10cc9b9abd",
+      "title": "Security Architect Intern",
+      "url": "https://go.vansh.nyc/1vD",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "c6d36cf3e8ebb35861d0e2a5a59f6d482801b7a9",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1vr",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

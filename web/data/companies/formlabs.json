@@ -2,21 +2,21 @@
   "slug": "formlabs",
   "name": "Formlabs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     2,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03ae500f856dadac7053c9aa402a4ce6685cae5b",
+      "title": "Desktop Software Intern",
+      "url": "https://go.vansh.nyc/1v2",
+      "location": "Somerville, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ef6b36834a8801d560aa5394b955aa2bb79698ee",
       "title": "Manufacturing Test Software Intern",

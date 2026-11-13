@@ -2,14 +2,14 @@
   "slug": "boeing",
   "name": "Boeing",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "design",
@@ -30,6 +30,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -44,10 +49,24 @@
     1,
     0,
     6,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cb0c84362a372a4941874d2a0fc9bb0803d47884",
+      "title": "Flight Software Engineer, Vehicle Management Systems",
+      "url": "https://go.vansh.nyc/1y8",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "a01c56e0254b0db4739bebe8212323bcea826c74",
+      "title": "Missions Systems Software Engineer, Embedded",
+      "url": "https://go.vansh.nyc/1vN",
+      "location": "Berkeley, MO",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "7eb9c470ca7279ae8be57d1d09422f5350b99a56",
       "title": "ASIC / FPGA Design Verification Engineer (Master's)",
@@ -103,13 +122,6 @@
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2",
       "location": "Berkeley, MO",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "bdaa982499c6e5ce1fbd082623a6e2a1aaf4350e",
-      "title": "Data Analytics Intern",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/details/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1?q=JR2026520976",
-      "location": "Everett, WA, Saint Charles, MO, Huntsville, AL, Charleston, SC, Oklahoma City, OK, Berkeley, MO, Huntington Beach, CA, Hazelwood, MO, El Segundo, CA, Herndon, VA, Plano, TX, Arlington, VA, Ridley Park, PA, Tukwila, WA, North Charleston, SC, Fairfax, VA, Colorado Springs, CO, Chicago, IL, Seal Beach, CA, Mukilteo, WA, Long Beach, CA, Atlanta, GA, Renton, WA, Dallas, TX, Seattle, WA, Auburn, WA, Bellevue, WA, San Antonio, TX, Kent, WA, Mesa, AZ, Tukwila, WA",
-      "firstSeenAt": "2026-08-06T06:29:13.112Z"
     }
   ]
 }

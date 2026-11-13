@@ -1,0 +1,92 @@
+{
+  "slug": "cargurus",
+  "name": "CarGurus",
+  "tier": null,
+  "currentOpenings": 7,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 7,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Boston",
+      "count": 7
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    7,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "94b3fa7e59105a679274ab09cb697bea722ca65d",
+      "title": "Site Reliability Engineer Intern",
+      "url": "https://go.vansh.nyc/1xJ",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "8c30074d800ff07cb3e68a044a010ed09b2bead9",
+      "title": "Product Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1xI",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "977fdd0e5d992be1bb8593aa411af7a7a82e73e6",
+      "title": "Data Analytics Engineer Intern",
+      "url": "https://go.vansh.nyc/1xc",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "46fdc7f648f1c3942b630220944395a6ae9f598a",
+      "title": "Data Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/1x3",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "4f8bb2887b8ba438b3d3a6dafa81d6ececdb278d",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1wZ",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "be3fb5aadd45fd5433e1c6907e260daace89f862",
+      "title": "Data Governance Engineer Intern",
+      "url": "https://go.vansh.nyc/1wX",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b8d7480dd520a1060091af3d1233ce782e2cb7fc",
+      "title": "Software Development Engineer Intern, Full Stack",
+      "url": "https://go.vansh.nyc/1wW",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

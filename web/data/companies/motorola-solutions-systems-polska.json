@@ -2,21 +2,21 @@
   "slug": "motorola-solutions-systems-polska",
   "name": "Motorola Solutions Systems Polska",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0e1596a1ffd7388b6d2f912d8321dd09be2d984",
+      "title": "Junior Java/DevOps Engineer",
+      "url": "https://nofluffjobs.com/job/junior-java-devops-engineer-motorola-solutions-systems-polska-krakow?utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "2b98b56d657987f36342e084ea45fc460d597b93",
       "title": "Junior Software Engineer (Java/DevOps)",

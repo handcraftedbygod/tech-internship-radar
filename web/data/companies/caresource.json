@@ -2,25 +2,25 @@
   "slug": "caresource",
   "name": "CareSource",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "46687837b164b3437148bea46d4d27e2f3f78078",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1wz",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6e2fa563d93750cff379ec8327a4226c5d43cb32",
       "title": "Configuration and Automation Intern",

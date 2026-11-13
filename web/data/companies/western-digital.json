@@ -2,14 +2,14 @@
   "slug": "western-digital",
   "name": "Western Digital",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     },
     {
@@ -44,10 +44,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aaaa09df3d8b178e7d969560c3e6601216e24357",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1v8",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a44a2dad573ab68a29b497517e8ccbe464723d7d",
       "title": "Hardware Engineering Intern",

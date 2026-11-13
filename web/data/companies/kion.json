@@ -2,26 +2,26 @@
   "slug": "kion",
   "name": "KION Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "85b39d4f980431c5fbea02e0cf34bf631775c107",
+      "title": "A.I. Engineering Intern",
+      "url": "https://go.vansh.nyc/1wL",
+      "location": "Grand Rapids, MI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9e4d93dc97db9f452d7a7084d7b9f19c65bdce07",
       "title": "Software Analytics Co-op",

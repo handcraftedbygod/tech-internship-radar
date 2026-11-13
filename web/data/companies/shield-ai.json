@@ -2,14 +2,14 @@
   "slug": "shield-ai",
   "name": "Shield AI",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     0,
     0,
     4,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "09aeee211403eb62d81aad2bfd9d94051dd3f993",
+      "title": "New Grad 2027: Engineer I, Software",
+      "url": "https://go.vansh.nyc/1yz",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ab24778ae4ee356e7d0be3ecd4090a95e6801b72",
       "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
@@ -108,13 +115,6 @@
       "id": "d6111579ececb2db0c1e64719f609f6cd0b3cd07",
       "title": "New Grad 2027: Autonomous Software Engineer",
       "url": "https://go.vansh.nyc/Xb",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "abc7115aa9e3221d885e85cd434fc377c182ec8a",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/X7",
       "location": "San Diego, CA",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

@@ -2,26 +2,31 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 16,
+  "totalPostings": 23,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 23
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 11
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +40,59 @@
     0,
     4,
     8,
-    4,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bd45af3b387db4b0ce94968274faa425b944a9a",
+      "title": "Développeur Fullstack Java / Angular - Junior - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc0NDQ3OCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "fc59aa41644655fdcc4c3e2f78398d76d6ef6bd4",
+      "title": "Designer IA Front-End Junior - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc0NDU3OSA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "11ad93de4d1e5d590dc3f6c094ff7120b9b38484",
+      "title": "Data Engineer BigQuery junior - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5NzgzNyA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "7f0f39d8e1a47810b354387658deed80587f0e1e",
+      "title": "Data Engineer BigQuery junior - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg2MiA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "5c44b07f237b54c1bbbbebed7dc5423564166b7c",
+      "title": "Data Engineer BigQuery junior - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5NzgzNyA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ac46e57b92bf42748a42529c09f3ea83ea9cbe75",
+      "title": "Concepteur Power BI / Data Analyst BI junior - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg1MCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ad645db406235fe9458191833f5a80208798869a",
+      "title": "Data Engineer BigQuery junior - CDI (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg2MiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "1ee014f182bb34c079ff2ba534ae9bc15df651b0",
       "title": "Développeur Full Stack Java / Angular - Profil junior - Freelance (H/F)",
@@ -59,55 +113,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODU3NzI0OCA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "e4137f3a4f1ddcfcc61d08f7104a559b07199822",
-      "title": "Développeur FullStack Junior Java/React - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODUxMDQzNyA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "dc464cb46e0e299434d413a2b4a3914720fe28a9",
-      "title": "Junior Développeur Fullstack IA (H/F) - Freelance",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODI5NjIwNyA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "ffcd5b5cdba3c9b73fcc84875c23bb8c1f8d54c8",
-      "title": "Data Engineer Junior - IBM TM1 / PAX - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODI5NjI3MyA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "727316b9c16ef89f0428c87ff3fdc07607d2afd8",
-      "title": "Data Engineer Databricks Junior  - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0MyA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "e1c9b982db4427624fb6a666ba1dff8d3c5cd647",
-      "title": "Data Engineer junior - SSIS / SQL Serve - Marseille - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzA0NiA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "394fd0e0b7c3b39543ac2e1a713ac7e3e86a10af",
-      "title": "Développeur Fullstack Junior - Freelance (H/F) - Freelance",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU1MzI0OCA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "444869b7fa07e0b06f95b9618c15aea829ec03ff",
-      "title": "Développeur FullStack Junior Java/React - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzU4NjM0MyA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

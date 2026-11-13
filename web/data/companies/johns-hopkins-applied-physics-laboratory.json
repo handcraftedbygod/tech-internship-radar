@@ -2,21 +2,26 @@
   "slug": "johns-hopkins-applied-physics-laboratory",
   "name": "Johns Hopkins Applied Physics Laboratory",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 3,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,38 @@
     0,
     0,
     3,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2ec19fa433a84151740f24c02ff12668f1056ee",
+      "title": "New Grad: Mission Modeling, Simulation & Software Engineer",
+      "url": "https://go.vansh.nyc/1wC",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b8ce7a6cbcfa7aad99af0bfd3845749c1b5099cc",
+      "title": "Reverse Engineer Intern, Offensive Cyber Capabilities",
+      "url": "https://go.vansh.nyc/1xi",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b1194d9af0005508f6e6cc9f4269a0100d058037",
+      "title": "AI & Data Science Intern, Analytic Capabilities",
+      "url": "https://go.vansh.nyc/1xh",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "74c92a41083b739700f20cec7f81a1b9fe939d55",
+      "title": "Reverse Engineer Intern, Systems Exploitation",
+      "url": "https://go.vansh.nyc/1xg",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "3368a73027b000d01499f7881e9d7bfcb5478784",
       "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",

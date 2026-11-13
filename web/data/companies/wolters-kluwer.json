@@ -2,21 +2,21 @@
   "slug": "wolters-kluwer",
   "name": "Wolters Kluwer",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "abd9656c35c3030561b8b22f47d569563a2eb033",
+      "title": "Product Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1y3",
+      "location": "Waltham, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "202d888b5cf14deeffdbc0c254aa5723388ccc24",
       "title": "Front-End Developer Intern",

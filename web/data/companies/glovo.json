@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 33,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 91,
+  "totalPostings": 94,
   "avgPostingDurationDays": 24.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 58
+      "count": 59
     },
     {
       "hub": "Madrid",
-      "count": 19
+      "count": 21
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 68
+      "count": 71
     },
     {
       "id": "biz",
@@ -57,10 +57,31 @@
     33,
     26,
     25,
-    7,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "98cd1658e397b7eceebe70d3d60331abe90714a8",
+      "title": "Account Manager Intern Groceries Spain",
+      "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000161139879/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "9b7219d3c8b927410b4b2e81ac1de211983000c5",
+      "title": "Account Manager Intern Q-Commerce Retail",
+      "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-retail-in-madrid-spain-jid-744000161254544/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "5c5baf23c632ea0bd128e5e0721268dbeddf6f4e",
+      "title": "Junior Accountant O2C",
+      "url": "https://careers.glovoapp.com/job/junior-accountant-o2c-in-barcelona-spain-jid-744000161126769/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "4781dc8e3ebcb9cb69cfd098d737b3cfc50425d3",
       "title": "Data Intern",
@@ -109,27 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-business-analyst-consultant-in-barcelona-spain-jid-744000159443497/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "cb8d7e82ccfa425db3a57d39287c66d165a3e16f",
-      "title": "Intern, People Generalist",
-      "url": "https://careers.glovoapp.com/job/intern-people-generalist-in-barcelona-spain-jid-744000158727681/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "ea26f37db8de48f8180a04af704456f4a72fd5ce",
-      "title": "Junior Consultant- Ads Strategy",
-      "url": "https://careers.glovoapp.com/job/junior-consultant-ads-strategy-in-barcelona-spain-jid-744000158564484/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "52a0b1061e6db144e8dc7595014fcbc7fd82d83e",
-      "title": "Junior Occupational Health and Safety",
-      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000157983645/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

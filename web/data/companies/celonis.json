@@ -2,26 +2,26 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 10,
+  "currentOpenings": 19,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 68,
-  "avgPostingDurationDays": 34,
+  "totalPostings": 70,
+  "avgPostingDurationDays": 33.4,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 36
+      "count": 35
     },
     {
       "hub": "Munich",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "New York",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Paris",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 33
+      "count": 35
     },
     {
       "id": "biz",
@@ -66,10 +66,24 @@
     10,
     17,
     7,
-    7,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb57476bcd91dd43bb4907fc729731f36a1595cd",
+      "title": "Associate Technology Consultant - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8202449003?gh_jid=8202449003",
+      "location": "Raleigh, US, North Carolina",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "d1ec556b94c9c245c2935546c3e45d07c75f780b",
+      "title": "Associate Technology Consultant - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8202446003?gh_jid=8202446003",
+      "location": "New York, US, New York",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "be56dc124cb48408be903d70cb3b59b59d018d80",
       "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
@@ -124,20 +138,6 @@
       "title": "Strategy & Operations Graduated Internship (12 months)",
       "url": "https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003",
       "location": "Madrid, Spain",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "5517e71f3917bf276aeeec1cab1fd5df62bec3ba",
-      "title": "Associate Deployment Engineer - Galaxy Graduate Program (German/French/Italian speaking)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627711003?gh_jid=7627711003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "addebbe2f66b64027089f31fb6a7fbab9f11d6e9",
-      "title": "Associate Deployment Engineer - Galaxy Graduate Program",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7627719003?gh_jid=7627719003",
-      "location": "Munich, Germany",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]

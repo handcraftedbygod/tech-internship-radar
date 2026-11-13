@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 7,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Dublin",
@@ -26,6 +26,11 @@
       "id": "product",
       "label": "Product",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,17 @@
     1,
     0,
     10,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5940efda3f788b815ab09b90cd6ccf38dff757e6",
+      "title": "Data Scientist Intern, CoreAI",
+      "url": "https://go.vansh.nyc/1wj",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "1d7eae61ec9d21fcbaf4d470b70f1eab21a8ade0",
       "title": "Software Engineering INTERN",
@@ -104,13 +116,6 @@
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://go.vansh.nyc/hN",
       "location": "United States",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "9270e9186fb88a8fede03c5ee00d5b4434bcbae9",
-      "title": "Security Research Intern",
-      "url": "https://go.vansh.nyc/eB",
-      "location": "Redmond, WA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

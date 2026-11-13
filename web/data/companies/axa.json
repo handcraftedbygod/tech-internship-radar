@@ -2,14 +2,14 @@
   "slug": "axa",
   "name": "AXA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Paris",
@@ -25,6 +25,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 10
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -38,10 +43,17 @@
     1,
     4,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2760cd354855bd655fe3b0f20d60219c5ab77c57",
+      "title": "INTERNSHIP - Network Engineer Analyst",
+      "url": "https://careers.axa.com/jobs/30442?lang=en-us&utm_source=freehire.me",
+      "location": "GO_FR ENJOY",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "d5aa69c81b748ca3a5af1c4c89ffc8483ae3583b",
       "title": "Internship - HR Data Engineer",
@@ -104,13 +116,6 @@
       "url": "https://de-ch.whatjobs.com/pub_api__cpl__42581718__7095?geoID=30&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Winterthur, Switzerland",
       "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "078b1788b1ac3ce02ccb575465ea45cd3760d2fb",
-      "title": "Junior Data Engineer: BI Reporting & Insights",
-      "url": "https://fr.whatjobs.com/pub_api__cpl__143962343__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-08-10T05:27:06.486Z"
     }
   ]
 }

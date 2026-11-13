@@ -2,21 +2,25 @@
   "slug": "check24-services-personal",
   "name": "CHECK24 Services Personal GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 24,
+  "totalPostings": 29,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Munich",
-      "count": 5
+      "count": 8
     },
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Düsseldorf",
       "count": 1
     }
   ],
@@ -24,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 18
     },
     {
       "id": "ai",
@@ -48,10 +52,45 @@
     5,
     17,
     2,
-    0,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ac36aaf628a822a9a640d97a3902ee2ce889710",
+      "title": "(Junior) Full Stack Entwickler (m/w/d) Ferienwohnungen",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-f5f44abe209e4925904-S?utm_source=freehire.me",
+      "location": "Düsseldorf, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "995b7890314d1350c5b2b33a2cdfc054cd3fde05",
+      "title": "(Junior) Software Developer (m/w/d) Go / Golang – Mietwagen International",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-7893b1db22ca47d1859-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "6e9d18b5e0607b9827a24c98ac13b44485347e68",
+      "title": "Junior Software Engineer (m/w/d) Fullstack Mietwagen International",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-8a22ea36e2f44c05acf-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "8001ae4e285e21ca6071ea1b6d47222c37e5a9bc",
+      "title": "(Junior) Fullstack Software Entwickler (m/w/d) Camper",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-34848b83fcdf49c3999-S?utm_source=freehire.me",
+      "location": "Augsburg, Bayern, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b3292e570cd6bfa414562b9769d3e10b34df9efe",
+      "title": "(Junior) Fullstack Developer (m/f/d) Umweltbonus",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-b4bf2068074b4066b3c-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "f8fccd7d4673544e2229e7120f1f49f9acfd2502",
       "title": "(Junior) Full Stack Developer (m/w/d) Individualreisen (Fullstack-Entwickler/in)",
@@ -86,41 +125,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-be7978831d1446cfb20-S?utm_source=freehire.me",
       "location": "München, BAYERN, DEUTSCHLAND",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "69f4f00a958bb9c1a453b7ee9328347ad4ebbdb0",
-      "title": "Junior Full Stack Entwickler (m/w/d) Möbel",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-812f83f70ea64808afd-S?utm_source=freehire.me",
-      "location": "Berlin, BERLIN, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "cc91813d5e44511599811f8bbbafe536ee252147",
-      "title": "(Junior) DevOps Engineer (m/w/d) Data Science – Hotel (Fullstack-Entwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtNWQ5MjllMDZhNWI2NGVjZGIwYi1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "a31dc243896781d512c9d861fa329afedf27ca41",
-      "title": "(Junior) DevOps Engineer (m/w/d) Data Science – Hotel",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-5d929e06a5b64ecdb0b-S?utm_source=freehire.me",
-      "location": "Münster, Westfalen, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-16T09:06:53.007Z"
-    },
-    {
-      "id": "7f655cb41081d878cb0c11d9ba895d5891ce3a12",
-      "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge (Data Scientist)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjAyMDgtYmFlYTdiNDcwNGM1NGQyMWI3Yi1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "890f345e1ff56794a3e09a1137db92fc9acbd361",
-      "title": "(Junior) Data Scientist (m/f/d) Search / AI Forge",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-baea7b4704c54d21b7b-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "thermo-fisher-scientific",
   "name": "Thermo Fisher Scientific",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     1,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "315295d8403205e1de9231bd9bf0534c81b02dfc",
+      "title": "Internship: GenAI-Assisted Software Modernization",
+      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1?utm_source=freehire.me",
+      "location": "Eindhoven, Netherlands",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "126f1c8ad2a366ed186f59e90854a44bcd4cea1b",
       "title": "Software Engineering / AI Engineering Intern",

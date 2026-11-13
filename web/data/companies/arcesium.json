@@ -4,15 +4,15 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-09-09T08:39:56.533Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 14,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 13,
   "topLocations": [
     {
-      "hub": "Lisbon",
-      "count": 1
+      "hub": "New York",
+      "count": 2
     },
     {
-      "hub": "New York",
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "730e720a2057ba36b89a65489289e6e06c4600ff",
+      "title": "Technology Operations Intern",
+      "url": "https://go.vansh.nyc/1vQ",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9de094a4b9a7e9f4ab316a9895e40b51fdc74b6f",
       "title": "Software Engineer Intern",

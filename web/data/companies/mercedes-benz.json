@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 49,
-  "avgPostingDurationDays": 11.5,
+  "totalPostings": 50,
+  "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 40
+      "count": 41
     },
     {
       "hub": "Stuttgart",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 29
+      "count": 30
     },
     {
       "id": "ai",
@@ -51,10 +51,17 @@
     19,
     10,
     14,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6013543907461e62ed557c2f6827e4e5848f4ad7",
+      "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-2-S",
+      "location": "Immendingen",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "1518575af45e64bdc2725d998b80ad89050c8885",
       "title": "Working Student Autosar Software Testing & Test Automation",
@@ -117,13 +124,6 @@
       "url": "https://jobs.mercedes-benz.com/praktikant---data-analytics-business-intelligence-m-w-d--242218-J000242218?utm_source=freehire.me",
       "location": "Leinfelden-Echterdingen, Germany",
       "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "354f07ba498a364380396024f2e5c782d90d9caf",
-      "title": "Werkstudent*in People & Enterprise Tech, Research & Development, Backend Solutions",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1643587-1-S",
-      "location": "Böblingen",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]
 }

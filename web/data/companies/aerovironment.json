@@ -2,21 +2,21 @@
   "slug": "aerovironment",
   "name": "AeroVironment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ece8d1563a91609f5446abec1203d3d9ae83d9dc",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1vd",
+      "location": "Lawrence, KS",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9d61b4d8f4a8ceb13d7046e3c7bc8ef8cfc0358b",
       "title": "Software Engineering Intern",

@@ -2,20 +2,25 @@
   "slug": "bank-of-montreal",
   "name": "Bank of Montreal",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7ace44f9140758b0c3345306567a434777ab473",
+      "title": "AI Developer Co-op",
+      "url": "https://go.vansh.nyc/1y4",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9da1a2ea7c6ec50b1b7bcc97b044736964da17d5",
       "title": "Quantitative Trading Analyst Co-op",

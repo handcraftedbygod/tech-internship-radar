@@ -1,0 +1,85 @@
+{
+  "slug": "medpace",
+  "name": "Medpace",
+  "tier": null,
+  "currentOpenings": 6,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 6,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 6
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "88983f8367b322bbfd753bdcb23b8fb807b15694",
+      "title": "Clinical Informatics Co-op",
+      "url": "https://go.vansh.nyc/1xk",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "075ec49143fbfc683662c34fd7888c09879aa61a",
+      "title": "Clinical Informatics Co-op",
+      "url": "https://go.vansh.nyc/1xj",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "c5bdc86a057b618a8bbc853e9c9e04136c22c492",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1wn",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f84b6ae6fe9076ce7661cfdc72765dc5618cb7f9",
+      "title": "Software QA Test Engineer Intern",
+      "url": "https://go.vansh.nyc/1wm",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f47cac0f2538bb8fc65cad000ad0a1c391315710",
+      "title": "Software Development Co-op",
+      "url": "https://go.vansh.nyc/1wl",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "c0206f471e8ff522559cf2f25c33a5baf4283627",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1wk",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

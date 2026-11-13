@@ -4,7 +4,7 @@
   "tier": "notable",
   "currentOpenings": 7,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 41,
+  "totalPostings": 42,
   "avgPostingDurationDays": 19.4,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "New York",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     4,
     6,
     25,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "acaa7b6059073a20490f80daa892b67e5adb5c1c",
+      "title": "New Grad: Software Engineering AMTS",
+      "url": "https://go.vansh.nyc/1uI",
+      "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "5c3f827ad8a8fac946dd448f9889088663fb8599",
       "title": "Summer 2027 Intern - Applied AI Strategy & Research",
@@ -121,13 +128,6 @@
       "title": "AI Research Intern",
       "url": "https://go.vansh.nyc/cG",
       "location": "Palo Alto, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "fdf8d9112a24af844ed191dfd29c87c83744b4e1",
-      "title": "Software Engineer Intern, Security/Government",
-      "url": "https://go.vansh.nyc/bA",
-      "location": "San Francisco, CA, Bellevue, WA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

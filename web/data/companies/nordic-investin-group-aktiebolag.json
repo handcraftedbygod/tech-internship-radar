@@ -2,21 +2,25 @@
   "slug": "nordic-investin-group-aktiebolag",
   "name": "Nordic Investin Group Aktiebolag",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Stockholm",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     2,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba11d43fbd9a40c9499769721e2c565ba47d1b22",
+      "title": "Junior Business Intelligence Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM4OTk4MyAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Stockholm, Sweden",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "e5fb0e39cd9057f1398f5d5f76c45a0d1153f392",
+      "title": "Junior Business Intelligence Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM4OTk4MyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "8a31fb862c68468558192753417cf25a26b9cdf8",
       "title": "Junior Business Intelligence Developer",

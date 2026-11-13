@@ -2,9 +2,9 @@
   "slug": "nitro",
   "name": "Nitro",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4571c5c8e8ca10f6239b09123cd65aa4515a874",
+      "title": "Intern Software Engineer (C++)",
+      "url": "https://www.gonitro.com/about/careers/8382656?gh_jid=8382656&utm_source=freehire.me",
+      "location": "Porto, Portugal",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "fa6cffe50aa173c67bd97745cd3feb01baff573d",
       "title": "Intern Software Engineer (Java / Scala) (Porto) ",

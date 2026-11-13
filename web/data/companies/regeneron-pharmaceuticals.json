@@ -2,21 +2,21 @@
   "slug": "regeneron-pharmaceuticals",
   "name": "Regeneron Pharmaceuticals",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 9
     },
     {
       "id": "swe",
@@ -35,10 +35,24 @@
     0,
     0,
     5,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "21d3f1d04407cf52468edc8eab58c4bf70d1bc61",
+      "title": "2027 Summer Intern AI/ML & Data Engineering",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__615630299__7082?utm_campaign=publisher&utm_medium=api&geoID=126&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "414a1121d9c8cc385172b398756245e2358d3178",
+      "title": "AI/ML & Data Engineering Intern: Build Real Systems",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__615629920__7082?utm_campaign=publisher&utm_medium=api&geoID=126&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a8da63bfb7d2b1f5f95e31c8b380b30dd4925514",
       "title": "2027 Summer Intern Ai/Ml & Data Engineering",

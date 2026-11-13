@@ -2,26 +2,26 @@
   "slug": "mitre",
   "name": "MITRE",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 9.6,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     6,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d1dd7d55c89afd49a2d051f9c5b84f28a668e9e",
+      "title": "Associate Data Scientist",
+      "url": "https://go.vansh.nyc/1w6",
+      "location": "Clarksburg, WV",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "34a2a823f73e0b327df288978c1cb8a7c47148d1",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1w5",
+      "location": "Clarksburg, WV",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "7bcbf74e1d65308317be8972a70c7e350da014da",
       "title": "Computer Science or Software Engineering Intern",
@@ -94,13 +108,6 @@
       "url": "https://careers.mitre.org/us/en/job/R117720/Autonomous-Systems-Intern",
       "location": "McLean, VA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "64c9661441691d539139a4c596bc8d03cf3d4e03",
-      "title": "AI Engineering Intern",
-      "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
-      "location": "Bedford, MA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

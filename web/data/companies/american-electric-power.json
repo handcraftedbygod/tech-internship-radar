@@ -2,14 +2,14 @@
   "slug": "american-electric-power",
   "name": "American Electric Power",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be697f269d94b848fd82b9bb37f3a955474cb7d3",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1wO",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "21ad95bbcf5068c602d32566c31c4f81654e89f7",
       "title": "Data Scientist",

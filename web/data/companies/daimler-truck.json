@@ -2,21 +2,21 @@
   "slug": "daimler-truck",
   "name": "Daimler Truck",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "75ce6e5d216ebe50b31481f0d046f57d3fb6df6f",
+      "title": "Praktikum (w/m/d) Fullstack-Webentwicklung für EE-Prozesstooling und Messdatenanalyse - Next Generation Reisebus - Sommersemester 2027",
+      "url": "https://jobsearch.daimlertruck.com//index.php?ac=jobad&id=426875&utm_source=freehire.me",
+      "location": "Neu-Ulm, Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "90cc28a4fe3525c0e3bc23db77daefe4b3274da9",
       "title": "Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity",

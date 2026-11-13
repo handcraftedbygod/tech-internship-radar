@@ -1,0 +1,57 @@
+{
+  "slug": "ingersoll-rand",
+  "name": "Ingersoll Rand",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1f55ca7d3c837d8158dc9b9c9e44d62d72be1c3d",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1x6",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "51ef0d7672bce473036ce2186c09e89f4816b354",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1x4",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

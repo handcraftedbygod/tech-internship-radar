@@ -2,21 +2,21 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     2,
     4,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0c716c7d44b3ec0119a8c085cea245f62ee4fa5a",
+      "title": "Trainee React developer",
+      "url": "https://nofluffjobs.com/job/trainee-react-developer-innowise-warsaw-6?utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "419701212b74486a87795326b8a7e0eb110dca17",
       "title": "Trainee .NET developer (with German)",
@@ -99,13 +106,6 @@
       "id": "0868995daccd2c1102cbdf515f583dcf9b4372a0",
       "title": "Trainee React developer",
       "url": "https://nofluffjobs.com/job/trainee-react-developer-innowise-warsaw-9?utm_source=freehire.me",
-      "location": "Warsaw, Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "2ebe37b2e40b0632da84e720935a5af64c146c9c",
-      "title": "Trainee Node developer",
-      "url": "https://nofluffjobs.com/job/trainee-node-developer-innowise-warsaw-7?utm_source=freehire.me",
       "location": "Warsaw, Poland",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }

@@ -1,0 +1,70 @@
+{
+  "slug": "us-internships-public-careers-site",
+  "name": "US Internships Public Careers Site",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "fb4492b7ea687a0daae5a77a8633916cc17904ef",
+      "title": "Undergraduate Software Engineering Intern, Compilers",
+      "url": "https://go.vansh.nyc/1xH",
+      "location": "San Mateo, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "062296ac215f75f2b1c984ac6e18ef58dbe38735",
+      "title": "Undergraduate Frontend Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1xb",
+      "location": "Los Angeles, CA, San Mateo, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "d5e51b0bcd3872fd1d17491b8de161dafdcf035d",
+      "title": "Undergraduate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1x2",
+      "location": "Aliso Viejo, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "3a5169e25ad2dffcfa97b3041c5f32a7e7fa523f",
+      "title": "Undergraduate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1x1",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

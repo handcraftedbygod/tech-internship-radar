@@ -2,13 +2,17 @@
   "slug": "carbon-data-solutions",
   "name": "Carbon Data Solutions",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-28T10:36:11.914Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 2
+    },
+    {
+      "hub": "London",
       "count": 2
     }
   ],
@@ -16,7 +20,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,24 @@
     0,
     2,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "97a3d310243e665ae68b8eaa4bb593d4adec17e5",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__618817961__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "623ae4e0df9f99fa8cd22697f80a98faf67b6878",
+      "title": "Junior Data Platform Engineer - AWS & Snowflake",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__618817885__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "76a74d38b27b1f42c76a40ab1d7b5300dd01ce1a",
       "title": "Data Engineer Intern - Core Data Products",

@@ -2,21 +2,26 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 16,
+  "totalPostings": 19,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 16
     },
     {
       "hub": "Austin",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 5
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -28,13 +33,13 @@
       "count": 5
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 4
-    },
-    {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 2
     }
   ],
@@ -49,10 +54,31 @@
     0,
     0,
     13,
-    3,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d0b9ee4fd97581a46d8a48750c6138f8d1f7c14",
+      "title": "New Grad 2027: Tapeout Biz Products & Engineering",
+      "url": "https://go.vansh.nyc/1w3",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "15c7111370a2d560c8467bed5ae7660618fce978",
+      "title": "New Grad 2027: AI Processor Hardware/Software Integration Engineer",
+      "url": "https://go.vansh.nyc/1uA",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "31649986b190f087f196b349d012d7e56e1e75b6",
+      "title": "AI Processor Hardware/Software Integration Engineer Intern",
+      "url": "https://go.vansh.nyc/1uH",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "7f1a76007e0a6e2bbfaf346c98275d47173b2060",
       "title": "Design Verification Engineer Intern",
@@ -100,27 +126,6 @@
       "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
       "url": "https://go.vansh.nyc/hm",
       "location": "Austin, TX, Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "7398f025d3084cf921e35a0786454efeda9b888c",
-      "title": "Tapeout Engineer Intern, Tapeout Operations",
-      "url": "https://go.vansh.nyc/hl",
-      "location": "Essex Junction, VT",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "186d83791eb02265d0e4027c193fb048a1512fa1",
-      "title": "AI Software Intern",
-      "url": "https://go.vansh.nyc/dN",
-      "location": "Santa Clara, CA, Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "639b60c7ea6c4d3e8087c5f87741581a9db9bde9",
-      "title": "AI/ML Systems Engineering Intern",
-      "url": "https://go.vansh.nyc/bh",
-      "location": "Richardson, TX",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

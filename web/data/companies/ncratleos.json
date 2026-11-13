@@ -2,14 +2,14 @@
   "slug": "ncratleos",
   "name": "ncratleos",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "704d52056fa8b6e68688a186a0877174eca6e0b6",
+      "title": "Data Analytics Intern - Media Handling",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern_EMEA/job/DUNDEE-GBR/Hardware-Engineer-Internship_R1155210-1?utm_source=freehire.me",
+      "location": "DUNDEE, GBR",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "96f198ac8256db85e7285eadbfadfe0c88b8f045",
       "title": "Software Engineering Internship",

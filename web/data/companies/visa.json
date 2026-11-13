@@ -4,12 +4,12 @@
   "tier": "notable",
   "currentOpenings": 7,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 72,
+  "totalPostings": 77,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 53
+      "count": 57
     },
     {
       "hub": "Austin",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Madrid",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 56
+      "count": 61
     },
     {
       "id": "ai",
@@ -66,10 +66,45 @@
     0,
     32,
     37,
-    3,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "808128a1c58e7258a51238ace5edf27112d7c2c0",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W?utm_source=freehire.me",
+      "location": "GB - Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "894cf4f4c7273657d32ef775488e85d021583f26",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2?utm_source=freehire.me",
+      "location": "GB - Reading, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "d8306512b1e8ccb938202d542d540943ffee6916",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1",
+      "location": "GB - London, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "00c1cea27a72045bba471ed981a6d546f1960f2b",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
+      "location": "GB - Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "bc373fc95c8e6f8a1cc47cef30e2066ae30b8ddd",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
+      "location": "GB - Reading, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "adeb83948193cac0d08469135456ffffcd368382",
       "title": "Software Engineer, Intern - 2027 Ashburn, VA",
@@ -104,41 +139,6 @@
       "url": "https://www.themuse.com/jobs/visa/2027-sophomore-internship-program-software-engineer-intern-austin-tx-2027",
       "location": "Austin, TX",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "792c94af04b136271e0ea3df7e180b4dcabf0dda",
-      "title": "Software Engineer, Intern - 2027 Austin, TX",
-      "url": "https://www.themuse.com/jobs/visa/software-engineer-intern-2027-austin-tx-544652",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "2b41748507e6549cd0ddd332f78b86589e799ab1",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "url": "https://www.themuse.com/jobs/visa/2027-sophomore-internship-program-software-engineer-intern-foster-city-704938",
-      "location": "Foster City, CA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "1b08609b88ae35bdbca064cd2b31d49d255de3b6",
-      "title": "Network and Security Engineering Intern",
-      "url": "https://go.vansh.nyc/Xh",
-      "location": "Denver, CO",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "71919b2aaed024dae36adfed981a58f80331e71f",
-      "title": "Network and Security Engineering Intern",
-      "url": "https://go.vansh.nyc/Xg",
-      "location": "Ashburn, VA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "cd9db40e5626c82701330f08a0bb1aeac37e4d2b",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/Xf",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

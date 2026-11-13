@@ -1,0 +1,52 @@
+{
+  "slug": "atalanta",
+  "name": "Atalanta",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e202b012477b638825f6fe5974570135010cb2d5",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://go.vansh.nyc/1yf",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b93f5948c6a6f6a97d819ef856997b278b580f9a",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1ye",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

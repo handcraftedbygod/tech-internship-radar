@@ -2,21 +2,21 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 27,
-  "avgPostingDurationDays": 10.8,
+  "totalPostings": 28,
+  "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 28
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     19,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "052fd72e5b3a5e6ec4f4cdf5a9af518a41790af3",
+      "title": "Associate, Application Development",
+      "url": "https://go.vansh.nyc/1yb",
+      "location": "Melbourne, FL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "8396f35c786be23595ad3c9fcb819c8e7a368053",
       "title": "Associate, Software Engineering",
@@ -96,13 +103,6 @@
       "url": "https://go.vansh.nyc/10n",
       "location": "Waterdown, Canada",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "c4b28a0a7d95dc1ca8ba3de8d98260e33fa67e6a",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/YO",
-      "location": "Carlsbad, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

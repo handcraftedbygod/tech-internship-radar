@@ -2,14 +2,14 @@
   "slug": "fresenius-medical-care",
   "name": "Fresenius Medical Care",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78c8213e204c3659d1014b6c5a846f1f9cca0153",
+      "title": "Agentic AI Analytics Co-op",
+      "url": "https://go.vansh.nyc/1wv",
+      "location": "Lawrence, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "4eb2fdd33d50e8964dca27075ca71141d905ca3f",
       "title": "Embedded Software Co-op",

@@ -2,21 +2,21 @@
   "slug": "crg-tec",
   "name": "CRG TEC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8565ed47d8d8d840d2fedbe94fc7cd8557bd49b",
+      "title": "Junior Network Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5961625775?utm_medium=api&utm_source=freehire.me",
+      "location": "Low Hill, Liverpool",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "94c856f5b0db0ebd81dd7fe58897a8606dec2e80",
       "title": "Junior Network Engineer",

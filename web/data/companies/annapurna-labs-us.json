@@ -2,13 +2,17 @@
   "slug": "annapurna-labs-us",
   "name": "Annapurna Labs (U.S.) Inc.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a1ade5f01c4cba81a41d425a67b8612883dcf6e",
+      "title": "Software Development Engineer I, Inference models optimization, AWS Neuron Inference",
+      "url": "https://go.vansh.nyc/1v5",
+      "location": "Cupertino, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "34fb16ebb6f7c633c716229933805425d004a0df",
       "title": "ASIC Formal Verification Engineer I, Annapurna Labs",

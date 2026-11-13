@@ -2,21 +2,21 @@
   "slug": "bank-julius-b-r",
   "name": "Bank Julius Bär & Co. Ltd.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fa203ffd13382d325e8c69c9cb283b2ad9484c3",
+      "title": "Junior Frontend Engineer: React/TS in DevOps, Global Impact",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369446394__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "e26d0a7ed3db068fc8ab93f1f217e4615d83322c",
       "title": "Junior Frontend Engineer: React/TS in DevOps, Global Impact",

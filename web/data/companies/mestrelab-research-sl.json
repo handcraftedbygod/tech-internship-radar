@@ -2,21 +2,21 @@
   "slug": "mestrelab-research-sl",
   "name": "Mestrelab Research S.L.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     3,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "704c102dec9d9771890337e01e4e616e89aa6dc8",
+      "title": "Junior Software QA Engineer for Data Visualization",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369507974__7107?utm_campaign=publisher&utm_medium=api&geoID=8766&utm_source=freehire.me",
+      "location": "Santiago de Compostela, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "bec8bd68fdc7161b78e89f80c0cbabeddc20ee39",
       "title": "Junior Software QA Engineer for Data Visualization",

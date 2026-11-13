@@ -2,9 +2,9 @@
   "slug": "snowflake",
   "name": "Snowflake",
   "tier": "notable",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     },
     {
       "id": "ai",
@@ -52,10 +52,24 @@
     1,
     7,
     5,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "073f44fcbc12728f9c8d705b75ef642a237feedd",
+      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
+      "location": "PL-Warsaw-Lixa C",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "721b3762e8830f8002354602a478f493dd0bb60e",
+      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
+      "location": "PL-Warsaw-Lixa C",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6ceeb1630f2ba5462c6767270e6fbcc21993ee25",
       "title": "Product Management Intern (Summer 2027)",
@@ -111,20 +125,6 @@
       "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
       "location": "US-CA-Menlo Park",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "11f0c022b7bd3be77e80a001cb97fe5e0cc11fa5",
-      "title": "Software Engineer Intern - Berlin (2027)",
-      "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8?utm_source=freehire.me",
-      "location": "DE-Berlin-Trion Building",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "a85177189fb1eb5ee3953ee1ad7f33c914e6be6a",
-      "title": "Software Engineer Intern - Berlin (2027)",
-      "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
-      "location": "DE-Berlin-Trion Building",
-      "firstSeenAt": "2026-09-23T09:07:11.548Z"
     }
   ]
 }

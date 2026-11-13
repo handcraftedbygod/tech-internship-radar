@@ -2,21 +2,39 @@
   "slug": "airbnb",
   "name": "Airbnb",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
+      "hub": "Paris",
+      "count": 4
+    },
+    {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Barcelona",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
+      "id": "biz",
+      "label": "Business",
+      "count": 3
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +48,52 @@
     0,
     0,
     1,
-    0,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e7ec428693fb09d70aa6fc102fca47cffea5cfc",
+      "title": "Sales Development Intern, Services, Spain",
+      "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f6f075fa3fea3c7dd4aadcd8c81bbf7f8ff2a575",
+      "title": "Sales Development Intern, Services, France",
+      "url": "https://careers.airbnb.com/positions/8372325?gh_jid=8372325",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "93579486fce7cf271a0beac8432caf5b3f6fb52a",
+      "title": "Marketing & CRM Intern, Experiences",
+      "url": "https://careers.airbnb.com/positions/8376124?gh_jid=8376124",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "bd70dad5b1a746bc2159fdf5c898c7f1c4af226f",
+      "title": "Market Associate Intern, Experiences",
+      "url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "d92c9ad738c081b12b13d2511622be505d68b306",
+      "title": "Communications Intern, France",
+      "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "a366467e3ca3cc929f241699da859afd8b081c0c",
+      "title": "Advanced Analytics Intern",
+      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "3f819d1311397efcc92f16189400073716dbbec4",
       "title": "Strategic Finance & Analytics Intern (MBA)",

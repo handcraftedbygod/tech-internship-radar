@@ -2,25 +2,25 @@
   "slug": "c24-bank",
   "name": "C24 Bank GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     6,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82ee1e59241d888c004734faf97b7bd129b5d32b",
+      "title": "(Junior) Mobile App Developer (m/w/d) Android",
+      "url": "https://www.adzuna.de/land/ad/5962211557?se=kgQQsmHe8RGIjojrlXgcyg&utm_medium=api&v=89ACA26847E3FD82244ABA6855F9C269A4173050&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Hessen",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "88c9e2c536f915526510646b2701ee7b603a2218",
+      "title": "(junior) Mobile App Developer (m/w/d) Ios",
+      "url": "https://www.adzuna.de/details/5962741944?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6dc65e3c5c892c17655c73aa313286551c4dd747",
       "title": "(junior) Php Backend Entwickler (m/w/d) C24 Bank",
@@ -93,13 +107,6 @@
       "url": "https://www.adzuna.de/details/5867430478?utm_medium=api&utm_source=freehire.me",
       "location": "Frankfurt am Main, Hessen",
       "firstSeenAt": "2026-09-07T10:41:15.202Z"
-    },
-    {
-      "id": "be957f1f6820090feab7e18a498a2abe0ed25eb3",
-      "title": "(Junior) PHP Backend Entwickler (m/w/d) C24 Bank",
-      "url": "https://www.adzuna.de/land/ad/5867430478?se=yDnFg6un8RGAquma5vUeHg&utm_medium=api&utm_source=freehire.me&v=92AFB38EEC5323E080966058B0052090DD3EE211",
-      "location": "Frankfurt am Main, Hessen",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
     }
   ]
 }

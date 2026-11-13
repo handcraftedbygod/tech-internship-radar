@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9aed2c5690632743be6fe5a31f1bab1fbbb58846",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/1vq",
+      "location": "West Des Moines, IA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a5ddbf7473513a208edf018b55371234f1177e1a",
       "title": "Application Administrator Intern",

@@ -2,21 +2,21 @@
   "slug": "lre-medical",
   "name": "LRE Medical GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "40141698c91453025ecdcbc352ae2c12dae76106",
+      "title": "Informatiker, Fachinformatiker, Data Scientist - Werkstudent (m/w/d)",
+      "url": "https://www.jobvector.de/job/informatiker-24180e6319acaf99/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid272185&utm_content=b2c&utm_term=tmf8eca_uicfcb8f05",
+      "location": "Nördlingen",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "dc42d10a3b4c744e87f51a132bc116aeb8747a46",
       "title": "Informatiker, Fachinformatiker, Data Scientist - Werkstudent (m/w/d)",

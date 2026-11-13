@@ -1,0 +1,57 @@
+{
+  "slug": "gastronomous-technologies",
+  "name": "Gastronomous Technologies",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c9ce79045e429cb61e8dbf166f858e5e3cb95ea9",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1vc",
+      "location": "Oakville, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "d9b7ee6d4d7b5a7bc6d3ce4dedef32a29e12c464",
+      "title": "Full Stack Developer Co-op",
+      "url": "https://go.vansh.nyc/1vb",
+      "location": "Oakville, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "encore-global",
+  "name": "Encore Global",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1849a514582ae1ce544fe6cd8c46ceaea31e6d2b",
+      "title": "IT Application Development Intern",
+      "url": "https://go.vansh.nyc/1xO",
+      "location": "Schiller Park, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ab27f7a83d24f0f075e766945ec8411d2ab2a4b8",
+      "title": "IT Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1xN",
+      "location": "Schiller Park, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "be1f244431088d47bac65eefa035a2d7434de423",
+      "title": "IT Security Intern",
+      "url": "https://go.vansh.nyc/1xr",
+      "location": "Coppell, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

@@ -2,13 +2,17 @@
   "slug": "remotejobsone",
   "name": "RemoteJobsOne",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Paris",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7659d6f7c201ad4e8ff112a7502258b0b7df6a8",
+      "title": "Software Engineer, New Grad – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-new-grad-remote-worldwide?utm_source=freehire.me",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "78ce16f6f10f070eb581268ba732e04535bf5415",
       "title": "Software Engineer, New Grad",

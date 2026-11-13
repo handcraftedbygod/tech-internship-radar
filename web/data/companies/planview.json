@@ -1,0 +1,52 @@
+{
+  "slug": "planview",
+  "name": "Planview",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Vancouver",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "97d0b0883b088b0b9e23e220e18a4dce4edeeb81",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1wp",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "31917fe065d56d27e7ea7118d42d2a8e7cf1c714",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1wo",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

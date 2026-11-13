@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 54,
+  "totalPostings": 61,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 53
+      "count": 60
     },
     {
       "hub": "San Francisco",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 46
+      "count": 52
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -49,10 +49,59 @@
     1,
     0,
     30,
-    23,
+    30,
     0
   ],
   "recentPostings": [
+    {
+      "id": "244575d71a586b85d0fb7677b9208d4a9a5049d2",
+      "title": "Associate Software Engineer I, CDS / Engine System Software",
+      "url": "https://go.vansh.nyc/1w2",
+      "location": "Etc, CT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "91c2f0b9df3a7475b6a7e02e10652203a883acea",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1uL",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "58b29f04e2280065dccc16bbc26fab1cb9727e71",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1uF",
+      "location": "Ft Wayne, IN",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f7d41f34a5a9d0cd001f6df607e911921b9f1530",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1yk",
+      "location": "Melbourne, FL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "3cda445c4c668e572f013cc53b831b19c84e2789",
+      "title": "Electrical Engineering Intern, Firmware",
+      "url": "https://go.vansh.nyc/1vJ",
+      "location": "Ft Wayne, IN",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "75ec55631d0dcc9ab036780d7382c9a940ef3abb",
+      "title": "Methods Engineering Intern, Aftermarket & Sustainment Engineering",
+      "url": "https://go.vansh.nyc/1vu",
+      "location": "East Hartford, CT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "8afffe247c96839f63bf8dbd11092ec657c2297f",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1v6",
+      "location": "McKinney, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "435816931214bf22f94797eba4c7bd8fdf1c17ad",
       "title": "Software Engineer 1",
@@ -73,55 +122,6 @@
       "url": "https://go.vansh.nyc/1sg",
       "location": "Largo, FL",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "f49a9a63259d4d741f85cf97171845e7e44963d7",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1sc",
-      "location": "St Petersburg, FL",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "8c03b3e431acf64dc7ef228d976d6a002c4dc691",
-      "title": "Digital Hardware Design Engineer Co-op",
-      "url": "https://go.vansh.nyc/1pH",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "46a3f7e17ec253ef0f754766749362bcbcbdf1ea",
-      "title": "Digital Hardware Design Engineer Co-op",
-      "url": "https://go.vansh.nyc/1pG",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "adebd52bbfe5fa625e38eda97ee12253fd1f576a",
-      "title": "Digital Technology Intern",
-      "url": "https://go.vansh.nyc/1l2",
-      "location": "Andover, MA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "6a2ae8842f7fa9c875c5ed62888e52d6a86c0ac6",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1jj",
-      "location": "Aurora, CO",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "4f7606b48167deb38b7b1c2bf113ae673965ad5a",
-      "title": "Systems Security Engineer Intern",
-      "url": "https://go.vansh.nyc/1iL",
-      "location": "Tewksbury, MA",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "7145778cfb12ba784621a7b195c007e9fc99d9bc",
-      "title": "Infrastructure Engineer I",
-      "url": "https://go.vansh.nyc/1hj",
-      "location": "West Valley City, UT",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 9,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Katowice",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     1,
     0,
     5,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca273fa9e318a8081e69e27b9b7cfa39ac11abae",
+      "title": "Software Developer/Engineering Intern",
+      "url": "https://go.vansh.nyc/1uD",
+      "location": "Mequon, WI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "83540c63b7e1434a3d4def167da05859d581f87f",
       "title": "Robotics Research Co-op, Data Engineering",

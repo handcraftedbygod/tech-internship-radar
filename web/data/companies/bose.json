@@ -2,25 +2,25 @@
   "slug": "bose",
   "name": "Bose",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5290d6f63ffc22d0918dd9496fe80381d81eb3d",
+      "title": "Digital Signal Processing ML Software Development Co-op",
+      "url": "https://go.vansh.nyc/1uN",
+      "location": "Framingham, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "3d243bd686971a4bb4a4970984ed1b06f3eccde2",
       "title": "Software/DSP Research Engineer Co-op",

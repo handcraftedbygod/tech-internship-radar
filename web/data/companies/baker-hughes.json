@@ -2,21 +2,21 @@
   "slug": "baker-hughes",
   "name": "Baker Hughes",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 12.2,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "hw",
@@ -35,10 +35,24 @@
     0,
     0,
     2,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d0d5db085f5dcbdc001aa9201bf7f36abef70a2",
+      "title": "Junior Digitalisation & Software Engineer",
+      "url": "https://bakerhughes.phenompro.com/global/en/job/BAHUGLOBALR171918EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Nailsea, Somerset",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b51245bb06ce92d70d24ea1af7454db4ad9ea356",
+      "title": "Junior Digitalisation & Software Engineer",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Junior-Digitalisation---Software-Engineer_R171918?utm_source=freehire.me",
+      "location": "GB-SO-NAILSEA-2 HIGH STREET",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "da3cbbf335a3033aa9b4bb6741a998a22fb8f524",
       "title": "Emerging Talent - Praktikum, Bachelor- und Masterarbeit– Firmware, Software und Informatik 2026 (Celle)",

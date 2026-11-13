@@ -2,14 +2,14 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "San Francisco",
@@ -34,7 +34,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -53,10 +53,17 @@
     1,
     0,
     18,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b217a6e586a8f655b7588bdc5e008098e30c05a4",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1xw",
+      "location": "Boise, ID",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6af94aa15ab3ebb143f306fff6b3111b895617ff",
       "title": "DRAM Design Engineer Intern",
@@ -119,13 +126,6 @@
       "url": "https://go.vansh.nyc/1bI",
       "location": "Boise, ID",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "830874876b5d2e83d7c7e6243606a90fcfafbbed",
-      "title": "ASIC Digital Design Intern",
-      "url": "https://go.vansh.nyc/Z8",
-      "location": "Minneapolis, MN",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

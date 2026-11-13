@@ -2,21 +2,21 @@
   "slug": "rewe-digital",
   "name": "REWE digital GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0ac64fb8c7d5f401a56c5acc1eaf764661a06f06",
+      "title": "Werkstudent Fullstack Software Developer (m/w/d)",
+      "url": "https://www.adzuna.de/details/5963092397?utm_medium=api&utm_source=freehire.me",
+      "location": "Ilmenau, Ilm-Kreis",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "f35bf088b197e88a01f071c4c512bfbee4e990e9",
       "title": "Werkstudent Java Fullstack Developer (m/w/d)",

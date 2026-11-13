@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 28,
+  "totalPostings": 30,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "London",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Paris",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     },
     {
       "id": "design",
@@ -56,10 +56,24 @@
     0,
     2,
     21,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb4833d0b4656628ee6e51deb46adbedfd9731c8",
+      "title": "Virtualization Software Engineering Internship, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "a45fd1ca35bae40e20d4880b5ac969398b4a8440",
+      "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "d9c3d9f4d01e12f2e81eb226cd92178d09c9920f",
       "title": "Virtualisation Software Engineering Internship, CoreOS",
@@ -115,20 +129,6 @@
       "url": "https://go.vansh.nyc/Yx",
       "location": "Beaverton, OR",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "e551be3e34587a16859a1e2f91d1d37bd4d96a69",
-      "title": "SoC Physical Design Engineer, Place and Route",
-      "url": "https://go.vansh.nyc/WL",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "2260ac98c4dc58042ea72386ed90265e6a8f8a9d",
-      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-      "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
-      "location": "Cambridge",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]
 }

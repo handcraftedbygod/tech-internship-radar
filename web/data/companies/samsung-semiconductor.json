@@ -2,14 +2,14 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": null,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "design",
-      "label": "Design",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     },
     {
@@ -44,10 +44,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47aa89fa527177ae702cdbd3e173e87a4464ecec",
+      "title": "Compiler Engineer Intern",
+      "url": "https://go.vansh.nyc/1yw",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "5eda2182dcf51b2182c445c00b1fb530a6f9b6c2",
       "title": "AI Application Engineer Intern",

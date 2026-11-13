@@ -1,0 +1,52 @@
+{
+  "slug": "capital-power",
+  "name": "Capital Power",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bc7479f0611373810a1d3671c368ac9f265001bf",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1y2",
+      "location": "Calgary, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f028a889c364ff07acff52d4cbd6aa1a30938f62",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1y1",
+      "location": "Edmonton, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

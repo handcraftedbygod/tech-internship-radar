@@ -2,14 +2,14 @@
   "slug": "t-systems-iberia",
   "name": "T-Systems Iberia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Madrid",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -44,10 +44,17 @@
     4,
     1,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b0af61ff2f460191515a7ddd1b5cc198c81971c",
+      "title": "Junior Data Engineer — GCP, PySpark & AI (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369303965__7107?utm_campaign=publisher&utm_medium=api&geoID=9919&utm_source=freehire.me",
+      "location": "A Coruña, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "53f7b4ff771c4e2d616749a0716ab40e1a6a28fe",
       "title": "Junior Cloud Engineer",

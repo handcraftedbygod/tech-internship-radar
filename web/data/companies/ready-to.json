@@ -1,0 +1,52 @@
+{
+  "slug": "ready-to",
+  "name": "Ready to?",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a9f877e2ef746deede97f0fbc8409b3874c4d458",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1xQ",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "97b80446bcb33a3d1de0e22cb3a0355699cbb7cf",
+      "title": "Quality Assurance Automation Engineer Intern",
+      "url": "https://go.vansh.nyc/1xP",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

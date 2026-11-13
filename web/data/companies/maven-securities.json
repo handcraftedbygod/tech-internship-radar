@@ -1,14 +1,18 @@
 {
   "slug": "maven-securities",
-  "name": "Maven Securities Ltd",
+  "name": "Maven Securities",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 15,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Chicago",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "416599420634ef937d9bb6904159a2272edecc66",
+      "title": "Floor Trader",
+      "url": "https://go.vansh.nyc/1uK",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "0859d9347822522921a20b666fd28bfeefd4f241",
       "title": "Software Developer Summer Internship",

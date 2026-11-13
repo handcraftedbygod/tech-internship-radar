@@ -2,14 +2,14 @@
   "slug": "sonio",
   "name": "Sonio",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     1,
     0,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9a12e52e59a1605de685930d7c109953f26c37d",
+      "title": "Data Science Internship",
+      "url": "https://www.adzuna.fr/details/5963458574?utm_medium=api&utm_source=9141e2e6",
+      "location": "Paris, Ile-de-France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ca4b8167910ef91cc6b5bccc8689d90f303a42f2",
       "title": "Data Science Internship",

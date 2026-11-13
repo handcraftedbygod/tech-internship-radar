@@ -2,21 +2,21 @@
   "slug": "tecdata",
   "name": "Tecdata",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e3cc26e4d3ec809426627c9f7339b8e45f8b156f",
+      "title": "Junior Data Engineer: ETL Pipelines & Data Modeling",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369290276__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "0c84d5954f79dd30883606255d8f9623b4603a18",
       "title": "Junior Data Engineer: ETL Pipelines & Data Modeling",

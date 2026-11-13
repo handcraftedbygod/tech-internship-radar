@@ -2,14 +2,14 @@
   "slug": "tmx",
   "name": "TMX Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c46fd1a5246b0081f763ec7e15e2297998c3bda",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1wI",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "f0201618400b04061bfb3f34824cce89aaf3b895",
       "title": "Junior Cybersecurity Operations Analyst Intern",

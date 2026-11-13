@@ -1,14 +1,18 @@
 {
   "slug": "robert-bosch",
-  "name": "Robert Bosch Group",
+  "name": "Robert Bosch GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "537ac4e1bdaf9ada7fd0446f0df453d79329281b",
+      "title": "Werkstudent Data Engineering & Backend (w/m/div.) ",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF300853P-677f670-S",
+      "location": "Wernau (Neckar)",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "c7aa885f249f8916fdf0709e69bc7952c777aa7c",
       "title": "IT Internship (BackEnd, Java) (f/m)",

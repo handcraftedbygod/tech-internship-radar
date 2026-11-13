@@ -2,14 +2,14 @@
   "slug": "ptc",
   "name": "PTC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 11.6,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "San Francisco",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -38,10 +38,31 @@
     0,
     0,
     5,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c031e4e62bf612c799f5053b20c290d5473d50a5",
+      "title": "Site Reliability Engineering Intern, Onshape",
+      "url": "https://go.vansh.nyc/1wK",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "7bbc532f1dc6703ee483aa1b5e5ef93cf2ef5c51",
+      "title": "Creo Graphics Engineering Intern",
+      "url": "https://go.vansh.nyc/1ve",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "9d8c22ad0fd5c96664a60e60cae61dea24ea97a4",
+      "title": "Creo Core Geometry Intern",
+      "url": "https://go.vansh.nyc/1v9",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "03cb35bb95e74664e9422e09c07045cc4e947848",
       "title": "Software Engineering Summer Internship 2027 - Cambridge",

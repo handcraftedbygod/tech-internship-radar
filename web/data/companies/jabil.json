@@ -2,20 +2,25 @@
   "slug": "jabil",
   "name": "Jabil",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "63b05ef433ae6f957db7ee4f826b41ad158f908d",
+      "title": "IT Programmer Analyst Co-op",
+      "url": "https://go.vansh.nyc/1xS",
+      "location": "Florence, KY",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "5a456fedbb3ea70ad3a047cd541cb352a4f5ebbd",
       "title": "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",

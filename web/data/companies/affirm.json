@@ -2,9 +2,9 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -43,10 +47,17 @@
     0,
     0,
     8,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6034f89e853dcf9dce54adeb2ec2d6241e96d688",
+      "title": "Software Engineer 1, Backend, Continuous Delivery",
+      "url": "https://go.vansh.nyc/1yc",
+      "location": "Remote, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "33a87a71fa9ef8aa95b72e265bc34e3d05430dc7",
       "title": "Software Engineer I, Early Career (London)",

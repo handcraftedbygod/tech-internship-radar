@@ -1,0 +1,59 @@
+{
+  "slug": "clyde-companies",
+  "name": "Clyde Companies",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b3bd08fb46f22887de84261075bda8af67163fe2",
+      "title": "Cyber Security Intern",
+      "url": "https://go.vansh.nyc/1xY",
+      "location": "Orem, UT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "e960fa8b2391b3a500130c301e1fe43eb6cba972",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1xX",
+      "location": "Orem, UT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "825d875e923d97819dbea885eefc0b35ffba49a4",
+      "title": "Application Development Intern",
+      "url": "https://go.vansh.nyc/1xW",
+      "location": "Orem, UT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 28,
+  "totalPostings": 30,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 30
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 20
     },
     {
       "id": "ai",
@@ -40,10 +40,24 @@
     10,
     1,
     10,
-    7,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "061e3fda7df6fd0f062ae90e01ca31d9a8fbd3ef",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1y9",
+      "location": "Tucson, AZ",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "3aefa588accaa00e4baa3981234a9292ac9801c7",
+      "title": "Network and Systems Engineer",
+      "url": "https://go.vansh.nyc/1wS",
+      "location": "Huntsville, AL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "96cd537a206d50e67bd014f4bf32e49b11e29abe",
       "title": "Software Engineering & AI Intern",
@@ -99,20 +113,6 @@
       "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-be0b6c",
       "location": "Annapolis Junction, MD",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "7240d73aeebbe084b35dfa9e6aba9b4ee0b02959",
-      "title": "Software Developer Intern",
-      "url": "https://go.vansh.nyc/ZT",
-      "location": "Annapolis Junction, MD",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "33993924627179b21ff4c6e5cbe63a6f0b693468",
-      "title": "Data Engineer Intern",
-      "url": "https://go.vansh.nyc/Y4",
-      "location": "Fort Belvoir, VA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

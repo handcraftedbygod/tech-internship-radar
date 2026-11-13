@@ -2,25 +2,25 @@
   "slug": "wire-it",
   "name": "WIRE IT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
-      "hub": "Lisbon",
+      "hub": "Other",
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Lisbon",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5fbca44f364811c0635f4b690d74c8efeb6518bc",
+      "title": "Junior Fullstack Developer",
+      "url": "https://www.careers-page.com/wire-it/job/Y675477V?utm_source=freehire.me",
+      "location": "Porto, Portugal",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a1921b4a3fc9147e86f5c771d70e646726f8ac3c",
       "title": "Junior Cobol Developer",

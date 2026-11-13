@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 37,
+  "totalPostings": 38,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 29
+      "count": 30
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 15
+      "count": 16
     },
     {
       "id": "hw",
@@ -56,10 +56,17 @@
     18,
     5,
     13,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9b0fea3f2937e7fe1cba9f286c9b58dbe8743ddd",
+      "title": "Werkstudent Data Engineering & Backend (w/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161444639-werkstudent-data-engineering-backend-w-m-div-?utm_source=freehire.me",
+      "location": "Wernau (Neckar), BW, de",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "3b1a5697756d29f690b7e143e77bba55ef10ff61",
       "title": "Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)",
@@ -121,13 +128,6 @@
       "title": "AI Research Intern, Wireless Foundation Models",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
       "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "80678c31b68b849e531c00b68edd96cb9395cfce",
-      "title": "Software Engineering Co-op",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
-      "location": "Fountain Inn, SC",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]

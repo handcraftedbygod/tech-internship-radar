@@ -2,14 +2,14 @@
   "slug": "general-dynamics-information-technology",
   "name": "General Dynamics Information Technology",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 9
     },
     {
       "id": "ai",
@@ -44,10 +44,24 @@
     0,
     5,
     3,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "303e82b751f6cb39513f938e58f0d5a28601783c",
+      "title": "JMSC-P Boundary Enclave Administrator Intern",
+      "url": "https://go.vansh.nyc/1y7",
+      "location": "Schofield, HI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "42e74e2e519c8822e1df86a0cf1d6d52ad864af4",
+      "title": "Professional Programmer Intern",
+      "url": "https://go.vansh.nyc/1xx",
+      "location": "Raleigh, NC",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "8231e06113a8b92c071f49274da6133cd3745d30",
       "title": "AI/ML Business Intelligence Development Intern",
@@ -103,20 +117,6 @@
       "url": "https://www.adzuna.com/land/ad/5897285144?se=VAFj5O-78RGQguK4I3PIXQ&utm_medium=api&utm_source=9141e2e6&v=BAB6FE5DA775776C98FABBE6C25A6B5F858D6683",
       "location": "US",
       "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "9a716a95f66bac22ffb091bfdde056b5c46742ad",
-      "title": "GDIT Summer Internship Program - Summer 2027 Generative AI Software Development Internship",
-      "url": "https://www.adzuna.com/land/ad/5897750578?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=FEA1664AE39900BE64BF39D5032CAA0DDE273F21",
-      "location": "Bossier City, Bossier Parish",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
-    },
-    {
-      "id": "93162f15d3402eecdb63f09279136a05cc871d46",
-      "title": "GDIT Summer Internship Program - Summer 2027 Software Development Internship",
-      "url": "https://www.adzuna.com/land/ad/5897766379?se=pG5Hg4m58RG3jpCv9xpWmA&utm_medium=api&utm_source=9141e2e6&v=B6F2C51A9265EE7FB17963F75AB4611348F4C74A",
-      "location": "Bossier City, Bossier Parish",
-      "firstSeenAt": "2026-09-26T09:09:02.243Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "gsa",
   "name": "GSA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 81.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d610bc8960bbbf0068b96cb71db701f4f8e728c0",
+      "title": "Software Developer - Intern",
+      "url": "https://job-boards.greenhouse.io/gsacapital/jobs/8570668002?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ad10b943571f09599e9634ea811ea2536eecb260",
       "title": "Software Developer - Intern",

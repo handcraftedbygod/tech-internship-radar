@@ -2,20 +2,25 @@
   "slug": "vinci",
   "name": "vinci",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3187ee0b6dfd1476b61c2f3e9519d7d8beb46d00",
+      "title": "Werkstudent:in IT-Kundenservice & Software Support (w/m/d)",
+      "url": "https://vinci.career.softgarden.de/jobs/68278541/Werkstudent-in-IT-Kundenservice-Software-Support-w-m-d-/?utm_source=freehire.me",
+      "location": "Ulm, Baden-Württemberg, Deutschland",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "bc2bf511b51e9c9e49cd4f975d31e74a1606e677",
       "title": "Trainee Data Science & KI (w/m/d) - Predictive Maintenance",

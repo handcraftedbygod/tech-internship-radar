@@ -2,26 +2,26 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -40,10 +40,24 @@
     3,
     1,
     3,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cb82e959f92410677df8848d77fcbed5bc36c34",
+      "title": "Junior Simulation Software Developer C/C++ (m/f/d)",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Junior-Simulation-Software-Developer-C-C----m-f-d-_JR10445861?utm_source=freehire.me",
+      "location": "Manching",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "83c18b80d654cfa0982e437577c17baa2da7f341",
+      "title": "#Discover I 2027-2028 Software Engineering DevOps, Test Automation & AI Agents Intern",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/XMLNAME--Discover-I-2027-2028-Software-Engineering-DevOps--Test-Automation---AI-Agents-Intern_JR10457634?utm_source=freehire.me",
+      "location": "Getafe",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "c3f5494c8c27546dcacfcd87a0cd4b2076be7249",
       "title": "#Discover I 2027-2028 Trainer Programme Operations & Data Analytics (Internship)",
@@ -99,20 +113,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236",
       "location": "Mobile Area, AL",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "ea26a1629c12096f0b62492e3ab0e32b72a7dbaf",
-      "title": "Junior Data Analyst and AI Specialist (h/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Junior-Data-Analyst-and-AI-Specialist--h-f-_JR10405135-1?utm_source=freehire.me",
-      "location": "Toulouse Area",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "fbee27c5a31ce1eceed5c1114adf70081f751aac",
-      "title": "Junior Data Scientist / AI engineer  (m/w/d) in the field of Data Processing & Analytics",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Junior-Data-Scientist---AI-engineer---m-w-d--in-the-field-of-Data-Processing---Analytics_JR10433316?utm_source=freehire.me",
-      "location": "Toulouse Area",
-      "firstSeenAt": "2026-08-21T04:38:19.902Z"
     }
   ]
 }

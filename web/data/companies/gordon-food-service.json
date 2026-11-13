@@ -2,14 +2,14 @@
   "slug": "gordon-food-service",
   "name": "Gordon Food Service",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6ea782be9e7c01a16fa541fefbefa123fdee929",
+      "title": "Digital Product Management Intern",
+      "url": "https://go.vansh.nyc/1vB",
+      "location": "Wyoming, MI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "0e64df783d62e993786be09f2d908bb6a554f100",
       "title": "Data Engineering Intern",

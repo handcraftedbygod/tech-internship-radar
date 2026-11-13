@@ -2,20 +2,25 @@
   "slug": "cardinal-health",
   "name": "Cardinal Health",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Dublin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d8aea47c51c982be6664ef70c2ff45d6f926caad",
+      "title": "Technology Intern",
+      "url": "https://go.vansh.nyc/1wG",
+      "location": "Dublin, OH",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "c912be7662e482205bebc18fdf809df19d44ed43",
       "title": "New Grad 2027: Data & Analytics Development Program",

@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Stockholm",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Krakow",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
@@ -51,10 +51,17 @@
     5,
     5,
     7,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ebd0daaaa554cb36a117de58af4403c96b87269",
+      "title": "Junior Radio Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777213669-junior-radio-software-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a0f84a8caa08e5a5eec3cbabe4c3d2d93d3a4599",
       "title": "Software Developer Summer Intern: Transport Automation",
@@ -117,13 +124,6 @@
       "url": "https://go.vansh.nyc/YK",
       "location": "Plano, TX",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "d47f56685a50f39b52b339aa7894f49d98cd757a",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://go.vansh.nyc/Vu",
-      "location": "Plano, TX",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

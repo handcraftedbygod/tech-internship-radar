@@ -2,25 +2,25 @@
   "slug": "boskalis",
   "name": "boskalis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     }
   ],
@@ -35,10 +35,17 @@
     2,
     3,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f4247627cca48b8344a874fc61ad4aa0f2413ff",
+      "title": "Junior Systems Engineer",
+      "url": "https://jobs.smartrecruiters.com/Boskalis/744000161306659-junior-systems-engineer?utm_source=freehire.me",
+      "location": "Papendrecht, ZH, nl",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "eba58322a9db70347eac9a22a2d5a1b5a285c707",
       "title": "Graduation Internship: AI & Machine Learning",

@@ -2,20 +2,35 @@
   "slug": "bask-health",
   "name": "Bask Health",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 1,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 7
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -30,16 +45,79 @@
     0,
     0,
     0,
-    1,
+    12,
     0
   ],
   "recentPostings": [
     {
-      "id": "5bcdbb1768e96f18b243ce013c354586738af8cb",
-      "title": "Product Builder",
-      "url": "https://go.vansh.nyc/1sQ",
+      "id": "886b846266d2150e4bbf473b7870df1e6feb6d7f",
+      "title": "Junior Design Engineer",
+      "url": "https://go.vansh.nyc/1we",
       "location": "Remote",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ba4f173ed0922271ee05f64c81fc3fde91390d85",
+      "title": "New Grad: Frontend Engineer",
+      "url": "https://go.vansh.nyc/1wd",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f91619ea502e728b69152a5d5a9264f5755b05c7",
+      "title": "New Grad: Product Engineer",
+      "url": "https://go.vansh.nyc/1vG",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f864c4829bbdc2a49b7c4910f9ea169eef36d284",
+      "title": "New Grad: Backend Engineer",
+      "url": "https://go.vansh.nyc/1vF",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ef98296f4508421c693362efc20699c2b7c943ac",
+      "title": "AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1yi",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "0dcaee1baf5c4631c596c399119d6ceb30ead587",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1yh",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "7ad01e0aacbbbdaa5975f07cf6619592fde7b572",
+      "title": "Frontend Engineer Intern, Frontend Engineering",
+      "url": "https://go.vansh.nyc/1w9",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "6257daca7a4586752564b2eefb24093d30f9d10a",
+      "title": "Creative Engineering Intern",
+      "url": "https://go.vansh.nyc/1w8",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "e517d4e50286d50810c890c2355bdfbd48005738",
+      "title": "Product Engineering Intern",
+      "url": "https://go.vansh.nyc/1vy",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "b6f5a5f0484b5f4d7e85fa3b838610c51b8cb4db",
+      "title": "Backend Engineer Intern",
+      "url": "https://go.vansh.nyc/1vx",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

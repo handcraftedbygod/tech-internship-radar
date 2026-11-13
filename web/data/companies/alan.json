@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 13,
-  "avgPostingDurationDays": 12.3,
+  "totalPostings": 14,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     1,
     4,
     6,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92bd6c43e8a13af483cc8ff6b8792120bd1a34ab",
+      "title": "Sales Graduate Program 🇫🇷 ",
+      "url": "https://jobs.ashbyhq.com/alan/8e133035-c6ce-435d-b37a-a8cb3e4895e8",
+      "location": "Paris, France; Bordeaux, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6e5a0798233a5e8659cc6320b57f9e44045d1f3c",
       "title": "Security Associate - Internship",
@@ -105,13 +112,6 @@
       "url": "https://jobs.ashbyhq.com/alan/142ad7db-6962-43d9-90f7-b69f0b66261f",
       "location": "Paris, France",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "0d4878064b29d338c598811451bae7620040b566",
-      "title": "People Associate (internship)",
-      "url": "https://jobs.ashbyhq.com/alan/71fa3e9d-1f5f-4e3f-a1de-e68b3c85803a",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]
 }

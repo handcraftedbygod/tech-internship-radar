@@ -2,14 +2,14 @@
   "slug": "deloitte",
   "name": "Deloitte",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Düsseldorf",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     },
     {
       "id": "biz",
@@ -52,10 +52,17 @@
     1,
     4,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0338aeb4cbc8a027e4400f379a9f201cf9d2a951",
+      "title": "Trainee Cloud & Data - Dein Einstieg in Artificial Intelligence & Data (m/w/d) (Cloud-Architect)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTU3OTQtNDcxODYzXzUwNTQxLTEtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a40b73f742a617530fb53f200e4a19b4135fc307",
       "title": "New Grad 2027: Tax Technology Services Consultant",

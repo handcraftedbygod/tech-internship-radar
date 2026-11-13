@@ -2,14 +2,14 @@
   "slug": "shield",
   "name": "Shield",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "hw",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43a17dc8c48d7cc2cff647c2e0a10597e1cd9a72",
+      "title": "New Grad 2027: Engineer I, Software",
+      "url": "https://go.vansh.nyc/1yA",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a2347e86baf5f9126e9020d07b731b48b8c0351d",
       "title": "Software Engineer Co-op",

@@ -2,21 +2,21 @@
   "slug": "home-of-jobs-berlin-gmbh-standort-leipzig",
   "name": "home of jobs Berlin GmbH Standort Leipzig",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ac0d2d0a11546768da2e577cf6c8b438cba52992",
+      "title": "(Junior) SAP Data Engineer (gn) – Inhouse bis ca. 85k (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA3MTk0Mi1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Oldenburg (Oldb), Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "fdd9b62f13f8aa887802915c005b3e4e9a7d8cad",
+      "title": "(Junior) SAP Data Engineer (gn) – Inhouse bis ca. 85k (Data Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA3MTk0Mi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "b1f987424431c7345bfe95c1a2bab95fb0536f8a",
       "title": "(Junior) SAP Data Engineer (gn) – Inhouse bis ca. 80k",

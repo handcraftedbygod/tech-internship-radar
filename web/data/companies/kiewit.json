@@ -2,21 +2,21 @@
   "slug": "kiewit",
   "name": "Kiewit",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0346901f78463894dca45e57b4e09aec5cc94418",
+      "title": "Machine Learning Intern, Kiewit Data Services",
+      "url": "https://go.vansh.nyc/1v4",
+      "location": "La Vista, NE",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "33a8ffe06911613e55f1cad144a1e4640309fcff",
       "title": "Machine Learning Intern, Kiewit Data Services",

@@ -2,21 +2,21 @@
   "slug": "symbotic",
   "name": "Symbotic",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "07350f650379ea701e77a5188ea56185630f9263",
+      "title": "New Grad: Robotics Software Engineer",
+      "url": "https://go.vansh.nyc/1uP",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "d569dd5f7d5dd998b3b83113653eb41060014a53",
       "title": "Machine Learning Ops Co-op",

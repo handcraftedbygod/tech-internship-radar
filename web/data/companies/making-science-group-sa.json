@@ -2,21 +2,21 @@
   "slug": "making-science-group-sa",
   "name": "Making Science Group S.A.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2a5a0874c18a6288d20d9903fe0cb0c36b35dd22",
+      "title": "Junior Data Engineer — Flexible Hours & Growth Opportunities",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369895758__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "eb49fcdd6c6361e044dc9a363412bf5c92776b73",
       "title": "Junior Data Engineer",

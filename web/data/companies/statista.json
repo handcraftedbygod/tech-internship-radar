@@ -2,17 +2,26 @@
   "slug": "statista",
   "name": "Statista",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -30,10 +39,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8f235ec9954fbb107f5252560f1983a95367836b",
+      "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "url": "https://jobs.ashbyhq.com/statista/63575639-feab-4739-8714-5c76e26dff80?utm_source=freehire.me",
+      "location": "Hamburg or Berlin",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "52751244cd73a432c88290c91605285fd40b965f",
+      "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-software-developer-python-web-applications-hamburg-or-berlin-110396",
+      "location": "Hamburg or Berlin",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "118ff6ec7dfb71ed13017c1de804a10b67d93ad9",
       "title": "(Junior) Data Engineer (m/f/d) (Datenbankentwickler/in)",

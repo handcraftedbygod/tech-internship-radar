@@ -1,0 +1,56 @@
+{
+  "slug": "muon-space",
+  "name": "Muon Space",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d2de6224d29e93bb62dde17ee3ec15f5f78bfde0",
+      "title": "Software Engineer Intern, Information Systems",
+      "url": "https://go.vansh.nyc/1y6",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "8f1c653cd70a1fdeb50f62584e964bbd2e019d58",
+      "title": "Security Engineering Intern",
+      "url": "https://go.vansh.nyc/1xZ",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

@@ -1,22 +1,26 @@
 {
   "slug": "init",
-  "name": "init",
+  "name": "INIT Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Karlsruhe",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +39,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0275cb19c76cf28aeb528c4f5ba16825cd975acb",
+      "title": "(Junior) Cloud Engineer Infrastructure (m/w/d) (Cloud-Architect)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA2MjI1MS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a3c5e82537ae93a11111e9cb1561c99371e3035c",
       "title": "(Junior) Software Deployment Engineer | Data Analytics (m/w/d)",

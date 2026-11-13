@@ -1,0 +1,52 @@
+{
+  "slug": "deutsche-bahn",
+  "name": "Deutsche Bahn AG",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Frankfurt",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "279ac998d3ccf6c4558596c8e3efc679b23e61cc",
+      "title": "Praktikum Data Analytics und Business Intelligence (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1652942-1-S?utm_source=freehire.me",
+      "location": "Frankfurt am Main, HESSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f9c65187612daf032a3ca9c1eea76554531b1a07",
+      "title": "Praktikum Data Analytics und Business Intelligence (w/m/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1652942-1-S",
+      "location": "Frankfurt am Main",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

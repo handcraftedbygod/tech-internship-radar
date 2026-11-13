@@ -2,21 +2,21 @@
   "slug": "ignis",
   "name": "Ignis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "afe1361fd6b9bb9efa3e74f496e7d16d6cf0732d",
+      "title": "Junior Full-Stack Developer — Energy Tech & API Focus",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369889525__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "3988829d87e1f3dce03e9e09a857ce411454b810",
       "title": "Junior Full-Stack Developer — Energy Tech & API Focus",

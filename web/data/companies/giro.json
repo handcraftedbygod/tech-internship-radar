@@ -1,0 +1,69 @@
+{
+  "slug": "giro",
+  "name": "GIRO",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Montreal",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2124375bfa38140c92e5c9235c63dd6ffbd2344d",
+      "title": "Software Development, Quality Assurance and AI Intern",
+      "url": "https://go.vansh.nyc/1wi",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "feeb128468ed25c8589f9d68e524fe541677f018",
+      "title": "Front-End Web Development Intern",
+      "url": "https://go.vansh.nyc/1wh",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "0880503dad8742dedb9005a488583d65e255c027",
+      "title": "Software Development Intern, Algorithms and Operations Research",
+      "url": "https://go.vansh.nyc/1wg",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

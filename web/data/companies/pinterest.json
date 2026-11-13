@@ -2,14 +2,14 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "New York",
@@ -32,7 +32,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     },
     {
       "id": "swe",
@@ -66,10 +66,17 @@
     0,
     0,
     18,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0017765fd72c1cfc05c8559a87dd3d54fa92db17",
+      "title": "Sales Analytics Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
+      "location": "San Francisco, CA, US; Remote, US",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "ecf8e5dec33315228396a69507c661fa860923de",
       "title": "Product Design Intern (USA)",
@@ -131,13 +138,6 @@
       "title": "Machine Learning Intern 2027 (Zurich)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757&utm_source=freehire.me",
       "location": "Zurich, CH",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "779fc2a713a6b9fb3a4c40adb3e4fbce9a6894cd",
-      "title": "UX Quantitative Research Intern (USA)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-      "location": "Remote, US; San Francisco, CA, US; Seattle, WA, US; New York, NY, US",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

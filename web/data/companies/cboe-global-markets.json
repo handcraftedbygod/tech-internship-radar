@@ -2,14 +2,14 @@
   "slug": "cboe-global-markets",
   "name": "Cboe Global Markets",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee700b2e3f6d68f4be0a432b2868e933db2797d6",
+      "title": "DevOps Intern",
+      "url": "https://go.vansh.nyc/1xz",
+      "location": "Overland Park, KS",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9c0820078b6877e4fa9e544dccebd6b95e2ddcd0",
       "title": "Linux Engineer Intern",

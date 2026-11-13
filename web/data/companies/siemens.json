@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 51,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 54,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 32
+      "count": 35
     },
     {
       "hub": "Munich",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 22
     },
     {
       "id": "hw",
@@ -57,10 +57,31 @@
     17,
     15,
     14,
-    5,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d929b0c4c2f32ded06d5d21b5c6699cadd1e8caa",
+      "title": "Werkstudent (w/m/d) Data Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1643618-2-S?utm_source=freehire.me",
+      "location": "Erlangen, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "4b72a1f1b2ce1380928d3f857fc33007a1c62b69",
+      "title": "Werkstudent (w/m/d) Data Engineering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1643618-2-S",
+      "location": "Erlangen",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "dade038a6cfe621ce591093564e6ae5bf04ef3c3",
+      "title": "Werkstudent (w/m/d) Software Testing",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1653667-1-S",
+      "location": "Amberg, Oberpfalz",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "118b3e90711d904218d181e53196eb168713362d",
       "title": "Werkstudent (w/m/d) im Bereich Software-/KI-Entwicklung für Business Applikationen",
@@ -109,27 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646969-1-S",
       "location": "Berlin",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "8c0174dc8ddbcac6429e07023b82e3d0256949e4",
-      "title": "Werkstudent (w/m/d) Data Science im operativen Service",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1566300-2-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "060d9ca426d3aa3232c7c60ac62113c0a316aea9",
-      "title": "Werkstudent (w/m/d) Data Science im operativen Service",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1566300-2-S",
-      "location": "München",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "95faf4687e0b7c5485f12598f6581ff6b4569d23",
-      "title": "Python Backend Developer Intern, Energy Flexibility Platform",
-      "url": "https://go.vansh.nyc/hM",
-      "location": "Princeton, NJ",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

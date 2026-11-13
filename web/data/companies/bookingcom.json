@@ -2,14 +2,14 @@
   "slug": "bookingcom",
   "name": "Booking.com",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 19.3,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -44,10 +44,17 @@
     0,
     2,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed9b21ad34921e9af8c8512307164621b1bb2112",
+      "title": "Junior Customer Strategy Manager, FinTech",
+      "url": "https://external-workingatbooking.icims.com/jobs/30272/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "b616c464c034f50446baf8e2fcf94c015eb07b5a",
       "title": "Junior Software Engineer I - Summer Internship 2027 (Amsterdam)",

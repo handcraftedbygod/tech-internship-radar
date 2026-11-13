@@ -2,20 +2,25 @@
   "slug": "octagon",
   "name": "Octagon Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "26ce7d4d4fdb0062bc4163a2098ed35e6781cb1f",
+      "title": "Graduate Junior Embedded Software Engineer - Grow in C & Python",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__618821368__7082?utm_campaign=publisher&utm_medium=api&geoID=476&utm_source=freehire.me",
+      "location": "Fareham, United Kingdom",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "59e686b177eeff69797cbc700cc58389fe9eae4b",
       "title": "Junior Software Engineer",

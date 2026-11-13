@@ -2,17 +2,17 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 54,
+  "totalPostings": 61,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 27
+      "hub": "Karlsruhe",
+      "count": 34
     },
     {
-      "hub": "Karlsruhe",
+      "hub": "Other",
       "count": 27
     }
   ],
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 41
+      "count": 47
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 13
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,59 @@
     26,
     15,
     13,
-    0,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58711ca75c0e971c60389c79a96631a4bfbc0d59",
+      "title": "(Junior) DevOps Engineer (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445126_JB5297696-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "64c33bcd4534656b31567ddae4ae26371b8df59a",
+      "title": "(Junior) Software Developer C#.NET (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445153_JB5297698-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "f9c3cf1a266a65cf17aaf247269564cfabf7a998",
+      "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5297785-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "af3cef327ecb32e9748fe5e3d616533863061fbc",
+      "title": "(Junior) Backend-Entwickler (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5297731-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "2a6c529c542818239a63d545dece87328af67de2",
+      "title": "(Junior) Software Developer Python (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446410_JB5297759-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "a8ad539ae7afed4ef2076ecab76a7de8c64873c8",
+      "title": "(Junior) Software Developer Java (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446413_JB5297760-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "edb71aabc1a2fc92aa10201057c7f9e77b93dbe5",
+      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446437_JB5297762-S?utm_source=freehire.me",
+      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "08dbc9a39946d07508de43801c14d8d145502552",
       "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
@@ -63,55 +112,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEzX0pCNTI3NTkxNi1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "1afae0643ddcffc20d8f9aa369af4db797a28554",
-      "title": "(Junior) Software Developer Python (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEwX0pCNTI3NTkxNS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a8de05b1dcc5cf85168932669ce3a7bea57926ae",
-      "title": "(Junior) Software Developer C#.NET (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTUzX0pCNTI3NTg1Mi1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "2f93032cc4a18abd0709939183f8b528306661de",
-      "title": "(Junior) Testingenieur / Software Tester (m/w/d) (IT-Tester/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ3NTQxX0pCNTI3NTk1MS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "640d5a34645b0de1fc50b9020a1e11644caee6b6",
-      "title": "(Junior) DevOps Engineer (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445126_JB5275850-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "298c5a3979cdbcec18e83b5b90deed503045490f",
-      "title": "(Junior) Software Developer C#.NET (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445153_JB5275852-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "8c14947449d0a5c1aefcf6b84f34f6da191b6dee",
-      "title": "(Junior) Testingenieur / Software Tester (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-447541_JB5275951-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "a3594e183583360418c64c56ee299c8d1440c3de",
-      "title": "(Junior) Backend-Entwickler (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5275886-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

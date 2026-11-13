@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 16,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 25
+      "count": 26
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "hw",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    16,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e7802317a5603f2e9b7595076af24214df55fea3",
+      "title": "Software/Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/1xR",
+      "location": "Middletown, RI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "c46327c9776669815d558a142d48b5a1486e629b",
       "title": "ASIC/FPGA Engineer Intern",
@@ -104,13 +111,6 @@
       "id": "23c55af01e8b96c6ec7eca88792a66446a274247",
       "title": "Full-Stack Application Development Intern",
       "url": "https://go.vansh.nyc/1on",
-      "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "96b4fc3c834c3a8105f78332917987b56c85b19b",
-      "title": "Full-Stack Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1om",
       "location": "Chantilly, VA, Pittsfield, MA, Scottsdale, AZ",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
     }

@@ -2,21 +2,21 @@
   "slug": "dis-ag-germany",
   "name": "DIS AG Germany",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 10,
+  "totalPostings": 13,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
-    },
-    {
-      "hub": "Berlin",
-      "count": 1
+      "count": 10
     },
     {
       "hub": "Frankfurt",
+      "count": 2
+    },
+    {
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 13
     }
   ],
   "hiringMonths": [
@@ -38,10 +38,31 @@
     0,
     2,
     6,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1cf06ca7a04d16757edde94480027dbb9f22771",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA3MzM3Mi1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Dresden, Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "e254eff13d7f12169e1dce8d9a6caddbe4e0896d",
+      "title": "Junior Network Engineer (m/w/d) (Netzwerk-Servicetechniker/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA3NTg5OC1TIDE?lang=en&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "ef96a4ec556d63c5b9906de631c0276e9cf9ece5",
+      "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk5NjA3MzM3Mi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "f02b28fd017d916e768b199f9075440c190b9e19",
       "title": "Junior Software Developer (m/w/d) (Softwareentwickler/in)",
@@ -90,27 +111,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk1NDY1OTQ3MC1TIDE?lang=en&utm_source=freehire.me",
       "location": "Dresden, Germany",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "18dd6f2ae2ae75f63e3f4eea4043fc55662be75f",
-      "title": "Junior Java Developer (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk1NDY1OTQ3MC1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "e3a75ed8581c02c9a7592bcf0f1e5f73d17559a7",
-      "title": "Junior Network Engineer (m/w/d) (Netzwerk-Servicetechniker/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk0NTkxNzAxOS1TIDE?lang=en&utm_source=freehire.me",
-      "location": "Frankfurt am Main, Germany",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "75a70ff5eae3a8edaaa41a6226cfd2f67d09cf63",
-      "title": "Junior Network Engineer (m/w/d) (Netzwerk-Servicetechniker/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNDk0NTkxMTM5OC1TIDE?lang=en&utm_source=freehire.me",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "zensar",
+  "name": "Zensar",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-13T11:54:08.620Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "533bb4f696ca60ec9c7ce6b6245ae2744ed83ba0",
+      "title": "Software Engineer, AI Platform Development",
+      "url": "https://go.vansh.nyc/1vP",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "9a03ed7b222484d203623cdb28ace86211d75d3f",
+      "title": "Software Engineer, AI Platform Development",
+      "url": "https://go.vansh.nyc/1vO",
+      "location": "San Jose, CA, Ann Arbor, MI",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 18,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Montreal",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "hw",
@@ -48,10 +48,17 @@
     0,
     5,
     11,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "16d844730b1e3f6f2c4845fa390331e3e9c64234",
+      "title": "Research Associate Intern, Systems Architecture Lab",
+      "url": "https://go.vansh.nyc/1w1",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "09ac3d4058b4246d8fc6111342821255ab75bff2",
       "title": "Hardware Engineering Intern",
@@ -114,13 +121,6 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
       "location": "Spring, TX",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "b132e5340f6065ba3afc85ac1f57fa4cacd99827",
-      "title": "Software Development Intern, AI-Assisted Development",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
-      "location": "Saint-Laurent, Montreal, QC, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

@@ -2,10 +2,10 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 15,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 54,
-  "avgPostingDurationDays": 9.4,
+  "totalPostings": 55,
+  "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Vancouver",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -61,10 +61,17 @@
     0,
     1,
     41,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "898abcec75dd8cbc2a8b6df3d3043a2eea3b9176",
+      "title": "Data Engineer Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship?utm_source=freehire.me",
+      "location": "London, England, GBR",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6c5476f2f2fd9b21c012fa7dfeef2892f0098516",
       "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
@@ -126,13 +133,6 @@
       "title": "Software Development Engineer, Amazon Leo",
       "url": "https://go.vansh.nyc/17q",
       "location": "Redmond, WA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "7034b40b8cadf4ef697f052173a74942f1f9003d",
-      "title": "Software Development Engineer, Amazon Dedicated Cloud",
-      "url": "https://go.vansh.nyc/17p",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]

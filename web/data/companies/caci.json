@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 6
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     4,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b76a4179930f4df8ae2dd2b9e8a5c03fd0cddcf2",
+      "title": "Embedded Software Development Intern",
+      "url": "https://go.vansh.nyc/1xA",
+      "location": "Denver, CO",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "8e68c35ca8df880741ffcd48b7b252cb36ee057b",
       "title": "Cyber Security Intern",

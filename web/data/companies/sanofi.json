@@ -2,14 +2,14 @@
   "slug": "sanofi",
   "name": "Sanofi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f8d2a34068711b0954f3f167746616f3df7fd0b",
+      "title": "Data Science & Digital Transformation Co-op",
+      "url": "https://go.vansh.nyc/1vt",
+      "location": "Framingham, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "b62ab1179097ebd60eaa3f88be83f9c5b612b886",
       "title": "Advanced Analytics Intern",

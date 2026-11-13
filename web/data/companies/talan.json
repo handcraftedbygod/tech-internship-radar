@@ -2,14 +2,14 @@
   "slug": "talan",
   "name": "Talan Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     4,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fafb81c80ac37c06089d916b4bf525bca3334d92",
+      "title": "Junior DevOps Java Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369304164__7107?utm_campaign=publisher&utm_medium=api&geoID=425&utm_source=freehire.me",
+      "location": "Málaga, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "6fde8581060a2fe735c330f9962117a3bf8d4167",
       "title": "Junior DevOps Java Engineer",

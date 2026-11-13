@@ -2,14 +2,14 @@
   "slug": "keysight-technologies",
   "name": "Keysight Technologies",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 17,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 20
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 14
     },
     {
       "id": "design",
@@ -44,10 +44,38 @@
     0,
     0,
     14,
-    3,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "320ca608a72071e31eaadbccb8186f157f634ee9",
+      "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
+      "url": "https://go.vansh.nyc/1wU",
+      "location": "Bldg, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "0a14e4b298e63c294e064fe35766adbe3c1bdd83",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1xV",
+      "location": "Pleasant Grove, UT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "dcddc212d760b4418350428d0c78b5a9f5cc2ed1",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1xU",
+      "location": "Tewksbury, MA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "4b55c081b232a5e2040351910a23a10699a36c49",
+      "title": "R&D Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1xT",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "783bed7804465a3ab2e2045190116c0743e93816",
       "title": "Embedded Software Engineer Intern",
@@ -88,34 +116,6 @@
       "title": "FPGA Design Intern",
       "url": "https://go.vansh.nyc/hE",
       "location": "Calabasas, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "08fb50129d79efbb23951b76b9949fa061373e10",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/ei",
-      "location": "Calabasas, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "30ea5ecdb4ed02337f25b5a351c1d5a201c1fbe3",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://go.vansh.nyc/db",
-      "location": "Santa Rosa, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "90988692fb1ab0f55844feb6b19f7ac532b121a3",
-      "title": "Software Engineer Intern, R&D",
-      "url": "https://go.vansh.nyc/cK",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "0f6dcac3316c91439aeecd93334e858b59abf074",
-      "title": "R&D Hardware Engineer Intern",
-      "url": "https://go.vansh.nyc/ce",
-      "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

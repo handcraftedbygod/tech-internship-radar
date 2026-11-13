@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 9.3,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce24f17590ebc64d148232cb7b05d345db8ad0ee",
+      "title": "Research Intern",
+      "url": "https://go.vansh.nyc/1vV",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "a4620d32da0b5bc02bc9a4f1da5a4b10ab1af2d9",
       "title": "Software Engineer Intern, Rhoda Platform",

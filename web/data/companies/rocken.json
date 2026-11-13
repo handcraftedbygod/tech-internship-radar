@@ -2,14 +2,14 @@
   "slug": "rocken",
   "name": "ROCKEN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e81a8bffa6b72f498b029affb028dd1ee90d12e8",
+      "title": "Junior Netzwerk & Cyber Security Engineer (m/w/d)",
+      "url": "https://www.jobup.ch/fr/emplois/detail/b5a3dbfa-bb94-4043-a909-04f3a725b385/?utm_source=freehire.me",
+      "location": "Landquart",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "7b3fef122013ab6238e9af5960573af28ff6c229",
       "title": "Junior Cloud & DevOps Engineer (m/w/d)",

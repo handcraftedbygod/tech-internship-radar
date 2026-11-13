@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0572d851a32f475382fb85b8c7d55ce84e40a04",
+      "title": "Vision & Learning Intern",
+      "url": "https://go.vansh.nyc/1yq",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "1a8415674193a909244d611bfaf56172041e2388",
       "title": "Data Science Intern",

@@ -2,14 +2,14 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e16396e123ab5adb9409b8bf803432fa98404caa",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1x9",
+      "location": "United States",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "b1a89a4b5c5649472781547f5964f224e570652c",
       "title": "Data Analyst Intern",
@@ -104,13 +111,6 @@
       "id": "8c11b725b193e219d77d27dbd8a83f9acdc247ed",
       "title": "Field Service Data Analyst Intern",
       "url": "https://go.vansh.nyc/dd",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "a1abab92afd40df9816cf1c6ea7df9fbf1b57f2d",
-      "title": "Warranty Data Analyst Intern",
-      "url": "https://go.vansh.nyc/cf",
       "location": "Kirkland, WA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

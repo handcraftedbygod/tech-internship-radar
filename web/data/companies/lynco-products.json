@@ -1,22 +1,22 @@
 {
   "slug": "lynco-products",
-  "name": "LYNCO PRODUCTS",
+  "name": "Lynco Products",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "430b37bd3372db68c43aeb06e386919821099abb",
+      "title": "Full Stack Software Development Intern",
+      "url": "https://go.vansh.nyc/1xd",
+      "location": "West Milan, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "5df6dcb1838ab26faa3ed2c80e34d7b4d1d94384",
+      "title": "Front End Development Intern",
+      "url": "https://go.vansh.nyc/1x8",
+      "location": "West Milan, IL",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "1d4384f2f48086ffc223d2d443c7edebf994d40f",
       "title": "Full Stack Software Development Intern",

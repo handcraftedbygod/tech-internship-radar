@@ -2,20 +2,25 @@
   "slug": "systems-planning-and-analysis",
   "name": "Systems Planning and Analysis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1cd6df10dd9e28328a86ad29691ed27e3f76ade2",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1xq",
+      "location": "Alexandria, VA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "c3925b9c07f5267db935da71f2d68bf626085535",
+      "title": "UI/UX Software Intern",
+      "url": "https://go.vansh.nyc/1xp",
+      "location": "Alexandria, VA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "13e516d34ef7f6269472323986bea04e7c9ba664",
       "title": "Data Engineer Intern",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 16
+      "count": 17
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     2,
     2,
     18,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5448cf302e23520313a8d6747be673a34d89b3d",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1yl",
+      "location": "Wilton, CT",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "9d884c484199b2f5dc524ec33be1e148d1d54aea",
       "title": "Data Science | Business Analytics internship: procurement analytics dashboards",
@@ -105,13 +112,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "24f168cdb34c599cf1646a0e50215b82d13dbc13",
-      "title": "Data Engineer Co-op",
-      "url": "https://go.vansh.nyc/Yt",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

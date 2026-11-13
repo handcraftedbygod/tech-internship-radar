@@ -2,21 +2,21 @@
   "slug": "corecom-tech-academy-bae-systems-digital-intelligence",
   "name": "Corecom Tech Academy & BAE Systems Digital Intelligence",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "59cf51096b5fbbf68449a0ac513b106e731b6684",
+      "title": "Junior Platform Engineer (SRE)",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5961260039?se=6k3vlcvd8RGXhdcCTZvjAw&utm_medium=api&v=1FFC3BC988E98F67CCB0CB6242D446E3EC2DDD9C&utm_source=freehire.me",
+      "location": "UK",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "e135e0d5ca7af331427b16fa94eeb6defd5c4752",
       "title": "Junior Platform Engineer (SRE)",

@@ -2,17 +2,17 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 6,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
-      "hub": "San Francisco",
-      "count": 3
+      "hub": "Other",
+      "count": 6
     },
     {
-      "hub": "Other",
+      "hub": "San Francisco",
       "count": 3
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,10 +39,31 @@
     3,
     0,
     1,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1287cbcc95b254cf54829aa9971c96d22be12fa",
+      "title": "New Grad 2027: Engineer, Aerospace Software (Starfall)",
+      "url": "https://go.vansh.nyc/1wR",
+      "location": "Hawthorne, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "0e4e668d04b201344cdf0c5cdeeffa72ad3c21eb",
+      "title": "Software Engineer (Starship)",
+      "url": "https://go.vansh.nyc/1wQ",
+      "location": "Starbase, TX",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "c13dbdd4a3209bf104bd02f0ce5581ed08cebd35",
+      "title": "Software Engineer, Starship",
+      "url": "https://go.vansh.nyc/1wP",
+      "location": "Hawthorne, CA",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "89fa67f50551d71ec50d0640f2b74a2870ce7955",
       "title": "Propulsion Software Engineer, Falcon Engineering",

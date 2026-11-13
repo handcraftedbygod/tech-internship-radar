@@ -2,21 +2,21 @@
   "slug": "plus-one-recruitment",
   "name": "Plus One Recruitment",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": null,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1c01eb719d314f3fce77d1cb6060bad78b85b05",
+      "title": "Junior Web Developer",
+      "url": "https://www.reed.co.uk/jobs/junior-web-developer/57558226?utm_source=freehire.me",
+      "location": "Banbury",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "fedc3fb619d4d9c30a7d0634b10b6e7042cc62e0",
+      "title": "Junior Web Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5961783474?se=KIXVHP3d8RG2gvl2oUmJsg&utm_medium=api&v=CCD18D627765E398C684360E2A6E270D98C1720D&utm_source=freehire.me",
+      "location": "Banbury, Oxfordshire",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "fe91071ef18c968a385880ef3f7b88bc6760bb11",
       "title": "Trainee Web Developer",

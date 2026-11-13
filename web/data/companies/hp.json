@@ -2,14 +2,14 @@
   "slug": "hp",
   "name": "HP",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 14.3,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -44,10 +44,17 @@
     0,
     1,
     7,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4677345677b3beedcd27ca17d101c1435f5ff706",
+      "title": "Data Science Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3930-2?utm_source=freehire.me",
+      "location": "Sant Cugat del Valles, Barcelona, Spain",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "bcd6025abc4774a0331f8e358d224ee46ab1f0f8",
       "title": "Data Analyst Intern",
@@ -110,13 +117,6 @@
       "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3973-1?utm_source=freehire.me",
       "location": "Sant Cugat del Valles, Barcelona, Spain",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "47315b396d45579a56d547f4933343065421605c",
-      "title": "Data Analytics & Automation Intern",
-      "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analytics---Automation-Intern_UNI4151-2?utm_source=freehire.me",
-      "location": "Sant Cugat del Valles, Barcelona, Spain",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }
   ]
 }

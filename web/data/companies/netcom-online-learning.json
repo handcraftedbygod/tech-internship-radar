@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 24,
+  "totalPostings": 26,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 26
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 26
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     13,
     10,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbb8e95f50271b598607dcbc42201900d69ce980",
+      "title": "Data Analyst Trainee",
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57557147",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "cece65c1ec035904bd216dde0e1351060fd31d31",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57557168",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "7168b1698161d9056df88dfeaa1871563728659b",
       "title": "Trainee Data Analyst",
@@ -89,20 +103,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57340709",
       "location": "Birmingham",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "fde6af8df46428aea845210039cd87d5639cc88a",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5859746013?se=uhuiFgio8RGGabHdMh0IUQ&utm_medium=api&utm_source=freehire.me&v=CB952F539F2644C7E2CCCFC2A1721E1F5941A7D9",
-      "location": "Liverpool, Merseyside",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "57057ff1fe6d94a5cbaf39ca0c5d0f1f3e1ac79b",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5859746013?se=iCRsly2n8RG2HomFYOMXfQ&utm_medium=api&utm_source=freehire.me&v=CB952F539F2644C7E2CCCFC2A1721E1F5941A7D9",
-      "location": "Liverpool, Merseyside",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }
   ]
 }

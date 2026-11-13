@@ -2,10 +2,10 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 17,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 44,
-  "avgPostingDurationDays": 27,
+  "totalPostings": 46,
+  "avgPostingDurationDays": 28.5,
   "topLocations": [
     {
       "hub": "Berlin",
@@ -17,11 +17,11 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Paris",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -32,12 +32,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 28
+      "count": 29
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 15
+      "count": 16
     },
     {
       "id": "design",
@@ -56,10 +56,24 @@
     8,
     14,
     12,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4710aff3f03ebbdef65b994a9afa8eb94f1cd932",
+      "title": "Product Monetization Operations intern (M/F/X) ",
+      "url": "https://careers.hellofresh.com/global/en/job/8383114?gh_jid=8383114",
+      "location": "Paris, Paris, France",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
+    {
+      "id": "5766d1c9c77e72003741e3375c1af49447e3cd85",
+      "title": "Logistics Operational Excellence Intern",
+      "url": "https://careers.hellofresh.com/global/en/job/8371654?gh_jid=8371654",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-13T11:54:08.620Z"
+    },
     {
       "id": "12706ba2cb18572cae3b7987677e593c4609a763",
       "title": "(Junior) Site QA/QC Specialist (f/m/x)",
@@ -115,20 +129,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8288720?gh_jid=8288720",
       "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "0d7cfb7269af30ac36df0aba6388d19bad39de61",
-      "title": "Junior Category Manager ",
-      "url": "https://careers.hellofresh.com/global/en/job/8276110?gh_jid=8276110",
-      "location": "Berlin, Berlin, Germany",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "149d598352b26366e5943f8328b0fa3ce3e6e6ab",
-      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
-      "url": "https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587&utm_source=freehire.me",
-      "location": "Paris, Paris, France",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]
 }
