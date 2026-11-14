@@ -2,14 +2,14 @@
   "slug": "noexp",
   "name": "NOEXP",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7cdf489fe17399e4bc0e5c1ca2247512b58a0a85",
+      "title": "Remote Junior DevOps Engineer OpenShift & Kubernetes",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36201544__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "19b331aaa3d191cfb1e0225b5b1f4e8cbc4c6c92",
       "title": "Junior DevOps Engineer: Node.js, Kubernetes, Azure (Warsaw)",

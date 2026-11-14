@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 22,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 61,
+  "totalPostings": 62,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 60
+      "count": 61
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 52
+      "count": 53
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    30,
+    31,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4f3b55f26313378e61fde3bfa2cdbeb972e59f98",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1zb",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "244575d71a586b85d0fb7677b9208d4a9a5049d2",
       "title": "Associate Software Engineer I, CDS / Engine System Software",
@@ -114,13 +121,6 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1ss",
       "location": "Richardson, TX",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "2272969f363fb65b5cf3278e5e92820d79a04afb",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1sg",
-      "location": "Largo, FL",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "innowise",
   "name": "Innowise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 11
+      "count": 13
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     2,
     4,
     4,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "939f3f76e179a7c5962757a2e9d79acd620fe0c4",
+      "title": "Trainee Data Engineer - Big Data & Python Foundations",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36251089__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "dc154b92be2efe9eca74e283153048c85d630833",
+      "title": "Trainee Data Engineer (with German)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36247295__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "0c716c7d44b3ec0119a8c085cea245f62ee4fa5a",
       "title": "Trainee React developer",
@@ -94,20 +108,6 @@
       "url": "https://nofluffjobs.com/job/trainee-data-engineer-with-german-innowise-warsaw?utm_source=freehire.me",
       "location": "Warsaw, Poland",
       "firstSeenAt": "2026-09-22T09:03:32.137Z"
-    },
-    {
-      "id": "0783d51ca4cf34aa487e1c606b3ac8bfec19ea66",
-      "title": "Trainee GenAI Low-code Developer (Copilot Studio)",
-      "url": "https://nofluffjobs.com/job/trainee-genai-low-code-developer-copilot-studio-innowise-warsaw?utm_source=freehire.me",
-      "location": "Warsaw, Poland",
-      "firstSeenAt": "2026-09-04T08:34:08.869Z"
-    },
-    {
-      "id": "0868995daccd2c1102cbdf515f583dcf9b4372a0",
-      "title": "Trainee React developer",
-      "url": "https://nofluffjobs.com/job/trainee-react-developer-innowise-warsaw-9?utm_source=freehire.me",
-      "location": "Warsaw, Poland",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "ramp",
   "name": "Ramp",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-24T13:06:51.115Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0c86292b6a476c79e5ac8339a6439397277e999",
+      "title": "Risk Strategy Intern",
+      "url": "https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109",
+      "location": "New York, NY (HQ)",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "6cc2b881b96798f05e43e0bdc958d5a04cb38c69",
       "title": "Software Engineering Intern, iOS",

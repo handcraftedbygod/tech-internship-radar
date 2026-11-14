@@ -2,21 +2,21 @@
   "slug": "caci",
   "name": "CACI",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-13T11:27:20.761Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     0,
     0,
     4,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c90ed4e85dae2f77d6a7bc96d0964b47d14df0d9",
+      "title": "Configuration Control/Data Management Co-op",
+      "url": "https://go.vansh.nyc/1yO",
+      "location": "Danbury, CT",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "b76a4179930f4df8ae2dd2b9e8a5c03fd0cddcf2",
       "title": "Embedded Software Development Intern",

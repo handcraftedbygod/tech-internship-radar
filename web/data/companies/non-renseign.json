@@ -2,14 +2,14 @@
   "slug": "non-renseign",
   "name": "Non renseigné",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     4,
     2,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f10d133a59025181e04660c94f9926c4e6b169da",
+      "title": "Artificial Intelligence - Consultant(e) junior (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjE2S0RQRCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "e6c5881ee090be23c179d36dc98cbaa5bed7f6c9",
       "title": "Développeur / Développeuse Fullstack Junior - CDI (Lyon) (H/F)",
@@ -106,13 +113,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MjEyRkNSUyA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "c1a43d462de1083978efebc0a661b39975260eaa",
-      "title": "Ingénieur devops junior (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTY2MDAxMiA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-08-03T06:58:28.460Z"
     }
   ]
 }

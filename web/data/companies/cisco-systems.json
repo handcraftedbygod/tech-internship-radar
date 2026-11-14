@@ -2,14 +2,14 @@
   "slug": "cisco-systems",
   "name": "Cisco Systems, Inc.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     1,
     5,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "987656a5c7b79da581ba3e69dd13f83f91537d04",
+      "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36412573__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "617a8662450048f00e3793a3f3ac047f518a87be",
       "title": "Junior Software Engineer - Full Stack (Go and React) - Agent Management - splunk",

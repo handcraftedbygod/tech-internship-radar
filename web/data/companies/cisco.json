@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 9,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 51,
-  "avgPostingDurationDays": 9.2,
+  "totalPostings": 52,
+  "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "San Francisco",
@@ -24,15 +24,15 @@
       "count": 2
     },
     {
-      "hub": "Stockholm",
-      "count": 1
+      "hub": "Austin",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 29
+      "count": 30
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "06e0a38c85b86dbc63a992cc220639cc4076f7cf",
+      "title": "Software Engineer Compiler I",
+      "url": "https://go.vansh.nyc/1yI",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "9a20319b2e0c401091768b56d2ed43a603ec9401",
       "title": "Software Engineer Intern, Embedded Systems I",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1hr",
       "location": "Austin, TX",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "0ffd83e8200f3fa15eb4649efd03a98d8d1f2a0b",
-      "title": "Software QA Engineer I",
-      "url": "https://go.vansh.nyc/Zp",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

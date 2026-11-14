@@ -2,21 +2,21 @@
   "slug": "orix-digi",
   "name": "Orix Digi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f33b7b87c679ad1822d27f71cba48780ae38380d",
+      "title": "Hybrid Europe: Junior Full-Stack Web Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622218237__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "32d1bf152f02ea2a6f060d33b7b65fbf0ff62e8c",
+      "title": "Junior Full Stack Web Developer - Europe",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622223179__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "159a258165e554812c7e944dcd37452dc68848d9",
       "title": "Junior Full Stack Web Developer - Europe",

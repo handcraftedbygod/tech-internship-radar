@@ -2,9 +2,9 @@
   "slug": "manulife-financial",
   "name": "Manulife Financial",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Boston",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86d607ec3aace44661614f86b486d728556ba74b",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1yR",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "8091e0cf489878e34930fa62d553584a1b6e8016",
       "title": "AI Co-op",

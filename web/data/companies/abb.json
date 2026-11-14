@@ -2,14 +2,14 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Lodz",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     2,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43f9d7a0e207127147c295cc73f43fef68617fd1",
+      "title": "Junior DCS Systems Engineer / Programmer in the Service Department",
+      "url": "https://abb.phenompro.com/global/en/job/ABB1GLOBALJR00052261EXTERNALENGLOBAL?utm_source=freehire.me",
+      "location": "Wroclaw, Lower Silesian",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "275118afe5734a2d23898bf386c0153e00e85750",
       "title": "R&D Software Engineer Intern",

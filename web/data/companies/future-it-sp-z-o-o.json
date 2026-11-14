@@ -2,21 +2,21 @@
   "slug": "future-it-sp-z-o-o",
   "name": "FUTURE IT Sp. z o. o.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     2,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08cc4b9a3ea4127c8e00d41060b534a61d879ac2",
+      "title": "Junior Frontend Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36223504__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "a157dbda03c99750490991ff0b025d3a6f31bc49",
+      "title": "Junior Backend Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36233466__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "67a5093efac6061a018f4a86abb35023f554ce1a",
       "title": "Junior Frontend Developer",

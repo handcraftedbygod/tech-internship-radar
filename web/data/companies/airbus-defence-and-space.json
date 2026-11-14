@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 22,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 20
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -34,6 +34,11 @@
     {
       "id": "design",
       "label": "Design",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -48,10 +53,24 @@
     8,
     7,
     5,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bb4a9b741a0c5a7b35bfb1dd4f4a88c426287a69",
+      "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-983061919-S",
+      "location": "Donauwörth",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "a8d124fefb343ee1c00d0335d39409b6e0a8d993",
+      "title": "Internship (d/f/m) within the mission software department",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-983062644-S",
+      "location": "Donauwörth",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "f0985c7a6d87fdda8efd1c8eb5a035be61f21af9",
       "title": "Working Student (d/f/m) - Software Development in the area of Mass Properties",
@@ -106,20 +125,6 @@
       "title": "Junior Backend Engineer (m/w/d)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970420688-S?utm_source=freehire.me",
       "location": "Immenstaad am Bodensee, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "c57974318e40af6a8f9bb706a9efe550d1c1c371",
-      "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970272818-S?utm_source=freehire.me",
-      "location": "München, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "170fd291f2254276feac54f5340fbd9f03366930",
-      "title": "Junior Cloud & DevOps Engineer / Kubernetes Specialist (f/m/d) (Cloud-Consultant)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTcwMjcyODE4LVMgMQ?lang=en",
-      "location": "Germany",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]

@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 32,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
@@ -14,13 +14,17 @@
     {
       "hub": "San Francisco",
       "count": 9
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 17
+      "count": 18
     },
     {
       "id": "swe",
@@ -39,10 +43,17 @@
     2,
     2,
     18,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "66c71abd2b1e99ddeca15a7813c217de3ff23029",
+      "title": "EUV Data Science and Analytics Intern",
+      "url": "https://go.vansh.nyc/1yZ",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "a5448cf302e23520313a8d6747be673a34d89b3d",
       "title": "Data Scientist Intern",
@@ -103,13 +114,6 @@
       "id": "7a5d4fd4935bbe4f8a37811a3a7346938d816a38",
       "title": "Business Intelligence | Data Analytics internship: cost insights dashboard",
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Business-Intelligence---Data-Analytics-internship--cost-insights-dashboard_J-00356242?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "587c621616fd58fa85a5d381afc08ac935874e32",
-      "title": "Computer Science | Data Science internship: failure pattern analysis",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }

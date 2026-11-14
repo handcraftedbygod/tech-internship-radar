@@ -2,21 +2,21 @@
   "slug": "dxc-technology-company",
   "name": "DXC Technology Company",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 2,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,38 @@
     0,
     0,
     2,
-    0,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab691246b1d6fc9a17ff8462bf6f809a1a61d4c2",
+      "title": "Junior Java Developer with German",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36230059__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "8a47cc3e715b2d20f18f879cfd20d14ef1585770",
+      "title": "Junior Java Developer - Hybrid, German-Speaking",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36227566__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "015e3d5ab6eebed105e96ad1963c34464810172e",
+      "title": "Junior Java Developer — Hybrid (Wroclaw) with German C1",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36228409__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "e3399ec6ff6f080e8425f04f1b1d6af0010d28c8",
+      "title": "Junior Java Developer with German",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36210636__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "641172cacb690fb2381757ee4e455c74a18937b5",
       "title": "Junior Java Developer with German at DXC Technology",

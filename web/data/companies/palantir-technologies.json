@@ -2,14 +2,14 @@
   "slug": "palantir-technologies",
   "name": "Palantir Technologies",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "London",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "New York",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     0,
     0,
     6,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54afdf332cf261ee86e77e0ed6e0891dab84c989",
+      "title": "Software Engineer, Internship",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622992012__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "48c06ddf66316ff7904f3e11192d69480362c40c",
       "title": "Software Engineer Intern, Connectivity Platform and Product",
@@ -107,13 +114,6 @@
       "id": "f5d22231a790d22ae17376a88050dd84b595ea67",
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://startup.jobs/forward-deployed-software-engineer-new-grad-commercial-palantir-7078665?utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "3601166d4743b193b7ee3d55312347641f22d03b",
-      "title": "Software Engineer, Internship - Infrastructure",
-      "url": "https://startup.jobs/software-engineer-internship-infrastructure-palantir-7064207?utm_source=freehire.me",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
     }

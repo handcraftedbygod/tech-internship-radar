@@ -2,21 +2,21 @@
   "slug": "idemia-north-america",
   "name": "IDEMIA North America",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4b4ef7107341383bcdad2c67ae4185ea3d96e79f",
+      "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+      "url": "https://go.vansh.nyc/1zd",
+      "location": "Brentwood, TN",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "180be1516b2fda54b3b438e0b4a14cf4cc90ff61",
+      "title": "Full Stack Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1z9",
+      "location": "Eden Prairie, MN",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "32e19951c1bc290c5b7c536e35624ff39727f33d",
       "title": "Cloud Software Engineering Intern",

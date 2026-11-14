@@ -2,14 +2,14 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     }
   ],
   "topDisciplines": [
@@ -19,14 +19,14 @@
       "count": 9
     },
     {
-      "id": "biz",
-      "label": "Business",
+      "id": "hw",
+      "label": "Hardware",
       "count": 4
     },
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 3
+      "id": "biz",
+      "label": "Business",
+      "count": 4
     },
     {
       "id": "ai",
@@ -45,10 +45,17 @@
     0,
     0,
     11,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e078c003ce2aa670a7bfc702ec8913be2442e397",
+      "title": "Embedded Software Engineer I - Flight Management System",
+      "url": "https://go.vansh.nyc/1zw",
+      "location": "Phoenix, AZ",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "086e3923171438175350a4eab7e9dcc7f9db22f3",
       "title": "Software Engineer I, Web Applications",
@@ -109,13 +116,6 @@
       "id": "43287c2f91e10e4689990f73f37794723371cecf",
       "title": "Signal Processing and RF Engineering Intern",
       "url": "https://go.vansh.nyc/ee",
-      "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "cc52d75cf6afd0be188d63f6da8fcdff3aa2d54f",
-      "title": "Digital Communication Intern",
-      "url": "https://go.vansh.nyc/dx",
       "location": "El Segundo, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

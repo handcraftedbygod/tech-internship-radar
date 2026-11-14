@@ -2,21 +2,21 @@
   "slug": "huntington-ingalls-industries",
   "name": "Huntington Ingalls Industries",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d9bd2ff05e85149a81840d17ee435683c24475bb",
+      "title": "Software Development Engineer 1",
+      "url": "https://go.vansh.nyc/1zm",
+      "location": "Newport News, VA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "93bf9d19cfdf6ca8807c8d7f03ba2d3b183085b5",
       "title": "Software Engineer 1",

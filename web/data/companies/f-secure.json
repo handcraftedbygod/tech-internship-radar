@@ -2,21 +2,21 @@
   "slug": "f-secure",
   "name": "F-Secure",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15894c69a12e6f8bb8ce8bfd566899db6265a804",
+      "title": "Junior Full Stack .NET Developer - Poznan or remote",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36228561__7143?utm_campaign=publisher&utm_medium=api&geoID=2014&utm_source=freehire.me",
+      "location": "Poznań, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "5f3613dc72b3d9d5e3ebb7013ef61bc88d4da81e",
       "title": "Junior Full Stack .NET Developer - Poznan or remote",

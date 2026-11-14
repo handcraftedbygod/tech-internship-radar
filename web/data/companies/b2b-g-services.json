@@ -2,21 +2,21 @@
   "slug": "b2b-g-services",
   "name": "B2b G Services",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a8c04e5f7d14fbb7df7adedd75bd93158c3c58a9",
+      "title": "Cloud Engineering Intern: AWS/Azure/GCP & DevOps Focus",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622934352__7082?utm_campaign=publisher&utm_medium=api&geoID=835&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "be9428d6b9eba2da9531af6b628a6941d0e32043",
       "title": "Cloud Engineering Intern: AWS/Azure/GCP & DevOps Focus",

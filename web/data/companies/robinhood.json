@@ -2,14 +2,14 @@
   "slug": "robinhood",
   "name": "Robinhood",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 37,
+  "totalPostings": 38,
   "avgPostingDurationDays": 31.3,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Other",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -57,10 +57,17 @@
     2,
     34,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f54232b30c056fc2a3a7603c577b2a607b0cba4",
+      "title": "Corporate Finance Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "1534f3d4f9445dd8152178d5cae100a656d2c4a2",
       "title": "Data Science Intern (Summer 2027)",
@@ -122,13 +129,6 @@
       "title": "Software Engineering Intern, Backend (Summer 2027)",
       "url": "https://www.themuse.com/jobs/robinhood/software-engineering-intern-backend-summer-2027",
       "location": "Bellevue, WA, Menlo Park, CA, New York, NY",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "6518eaf56e60d57dc8395dc5fea025e1cc070391",
-      "title": "Software Developer Intern, Web (Summer 2027)",
-      "url": "https://www.themuse.com/jobs/robinhood/software-developer-intern-web-summer-2027",
-      "location": "Toronto, Canada",
       "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]

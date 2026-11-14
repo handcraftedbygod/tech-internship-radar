@@ -2,9 +2,9 @@
   "slug": "datavisor",
   "name": "DataVisor",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Toronto",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "379b9e1b03626070069a7118324331417ba86a75",
+      "title": "New Grad: Infrastructure Engineer",
+      "url": "https://go.vansh.nyc/1zv",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "35f4c8613953666385f2937a94da15769f8517db",
       "title": "Software Engineer Intern",

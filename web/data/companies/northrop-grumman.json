@@ -2,21 +2,21 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 41,
+  "totalPostings": 44,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 41
+      "count": 44
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 34
+      "count": 37
     },
     {
       "id": "ai",
@@ -40,10 +40,31 @@
     0,
     0,
     23,
-    18,
+    21,
     0
   ],
   "recentPostings": [
+    {
+      "id": "701337cae9d33c24be448f9fea48797c6e8071c2",
+      "title": "New Grad 2027: Associate Software Engineer, Pathways",
+      "url": "https://go.vansh.nyc/1z4",
+      "location": "Boulder, CO",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "f4e2776e8a081a48f6868aed663e878f8227623d",
+      "title": "New Grad 2027: Associate Software Engineer, Pathways",
+      "url": "https://go.vansh.nyc/1z3",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "52d28a4eae2350daf6f43aeae85af29344ae7d23",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1yD",
+      "location": "Mcclellan, CA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "a0750af1b18a2b42017b7c459387a477bca06a17",
       "title": "New Grad 2027: Associate Cyber Systems Engineer",
@@ -92,27 +113,6 @@
       "url": "https://go.vansh.nyc/1gj",
       "location": "Roy, UT",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "cdfd3e44ae7c8140357d62282393955e2ad1081f",
-      "title": "Associate Software Embedded Engineer",
-      "url": "https://go.vansh.nyc/1ga",
-      "location": "Sykesville, MD",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "942d9f576e6f37856a26c14b0478e4761d3faec4",
-      "title": "New Grad 2027: Associate Flight Software Engineer",
-      "url": "https://go.vansh.nyc/1fG",
-      "location": "Manhattan Beach, CA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "638cca26d717a6af0dec3f1e761cd3105b5f1389",
-      "title": "S/W Embedded Engineering Intern",
-      "url": "https://go.vansh.nyc/1fW",
-      "location": "Sykesville, MD",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]
 }

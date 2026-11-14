@@ -2,21 +2,21 @@
   "slug": "cummins",
   "name": "Cummins",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e3b9b19f796a57f3ce213114ab166e3225337c5",
+      "title": "New Grad 2027: Systems Engineer",
+      "url": "https://go.vansh.nyc/1zp",
+      "location": "Seymour, IN",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "57b9e89599dde239023f505e09ced4e0dcd82908",
       "title": "Electronic Systems Engineer - Software",

@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 50,
+  "totalPostings": 51,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 41
+      "count": 42
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 21
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,17 @@
     19,
     10,
     14,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "21454aaf57adfa6e9a4d06f47e265cef063679c4",
+      "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
+      "url": "https://jobs.mercedes-benz.com/werkstudent-in-e-systemintegration-f-r-data-engineering-und-analytics-246660-MER0004AI2?utm_source=freehire.me",
+      "location": "Sindelfingen, Germany",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "6013543907461e62ed557c2f6827e4e5848f4ad7",
       "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
@@ -117,13 +124,6 @@
       "url": "https://jobs.mercedes-benz.com/werkstudent-ai-cybersecurity-m-w-d-x--244149-J000244149?utm_source=freehire.me",
       "location": "Stuttgart, Germany",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "8e0ca3f4102fa5b17e1cd090cd7f472859e3f9a7",
-      "title": "Praktikant - Data Analytics & Business Intelligence (m/w/d)",
-      "url": "https://jobs.mercedes-benz.com/praktikant---data-analytics-business-intelligence-m-w-d--242218-J000242218?utm_source=freehire.me",
-      "location": "Leinfelden-Echterdingen, Germany",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "farsight-software",
   "name": "Farsight Software",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f8f0d34883b1a2833f4324fd2fbcb79f50c59c5a",
+      "title": "Junior Software Engineer - Data & AI",
+      "url": "https://www.adzuna.co.uk/jobs/details/5964531614?utm_medium=api&utm_source=freehire.me",
+      "location": "Lillington, Leamington Spa",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "67de647644fb5b899b5e11b15885115416b536c4",
       "title": "Junior Software Engineer - Data & AI",

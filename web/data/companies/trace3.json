@@ -2,14 +2,14 @@
   "slug": "trace3",
   "name": "Trace3",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0b0def319359250992b0476944e930b762dbc11",
+      "title": "Security Intern",
+      "url": "https://go.vansh.nyc/1yN",
+      "location": "Irvine, CA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "39aab803527cb0b537cd4d8872f1c265d439cb00",
       "title": "Innovation Research & Development Lab Intern",

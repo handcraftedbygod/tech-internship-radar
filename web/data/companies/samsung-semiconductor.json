@@ -2,14 +2,14 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -31,6 +31,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d1f831f75f3bc9fd953e32425d4f4d18bfe571a",
+      "title": "SSD Firmware Development Intern",
+      "url": "https://go.vansh.nyc/1z0",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "47aa89fa527177ae702cdbd3e173e87a4464ecec",
       "title": "Compiler Engineer Intern",

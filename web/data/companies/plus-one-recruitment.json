@@ -2,21 +2,21 @@
   "slug": "plus-one-recruitment",
   "name": "Plus One Recruitment",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6d2203a0640a4b3343784bd82b7590e301f59452",
+      "title": "Junior Web Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5964532648?utm_medium=api&utm_source=freehire.me",
+      "location": "Bodicote, Banbury",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "b1c01eb719d314f3fce77d1cb6060bad78b85b05",
       "title": "Junior Web Developer",

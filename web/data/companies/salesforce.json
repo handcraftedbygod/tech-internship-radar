@@ -2,10 +2,10 @@
   "slug": "salesforce",
   "name": "Salesforce",
   "tier": "notable",
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-07-31T06:42:23.386Z",
-  "totalPostings": 42,
-  "avgPostingDurationDays": 19.4,
+  "totalPostings": 44,
+  "avgPostingDurationDays": 19.3,
   "topLocations": [
     {
       "hub": "Dublin",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "New York",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -32,12 +32,12 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 19
+      "count": 20
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -56,10 +56,24 @@
     4,
     6,
     25,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ccfb28de960a67555f143f0af142f2e70075f10",
+      "title": "Solution Engineer Intern France - February 2027",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/France---Paris/Solution-Engineer-Intern-France---February-2027_JR368365",
+      "location": "France - Paris",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "be52b006919abd4e2e351c9431863399f79def86",
+      "title": "Summer 2027 Intern - Sales Immersion, Financial Services",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1",
+      "location": "New York - New York",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "acaa7b6059073a20490f80daa892b67e5adb5c1c",
       "title": "New Grad: Software Engineering AMTS",
@@ -115,20 +129,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2",
       "location": "Illinois - Chicago",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "8176a3f3cd087f5e796037208839cef0d56e5ace",
-      "title": "Forward Deployed Engineer Intern, Global Public Sector",
-      "url": "https://go.vansh.nyc/WD",
-      "location": "United States",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "0b2fd67fc3007927dcc0ce8fd3088001a579fd91",
-      "title": "AI Research Intern",
-      "url": "https://go.vansh.nyc/cG",
-      "location": "Palo Alto, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

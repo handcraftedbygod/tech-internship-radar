@@ -2,21 +2,21 @@
   "slug": "peraton",
   "name": "Peraton",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "430a5d4aaa2414ccefbdbfcb4ac2acd0d89783fb",
+      "title": "Full Stack Engineer",
+      "url": "https://go.vansh.nyc/1yG",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "7aaa3f133aea0d438262d677b5dbac929690b900",
       "title": "Cyber Research Intern",

@@ -2,21 +2,21 @@
   "slug": "vsoft-sa",
   "name": "VSoft S.A.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     3,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fdc4deac2b87f5e681771ee5694e66379dd57fe3",
+      "title": "Junior Full Stack .NET Developer (Financial Institutions)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36233470__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "ee9305d90d1a2d8b353bd9fe3636007a9bd702b7",
       "title": "Junior Full Stack .NET Developer (Insurance)",

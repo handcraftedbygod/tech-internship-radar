@@ -2,14 +2,14 @@
   "slug": "addepar",
   "name": "Addepar",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa7fd8ac7603823c95c156ef093ea21736798486",
+      "title": "Product Analyst Intern, Navigator",
+      "url": "https://go.vansh.nyc/1zh",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "85aacd83e98e2095d0b75af957ca2a03c5dc2050",
       "title": "Software Engineering Intern - Summer 2027",

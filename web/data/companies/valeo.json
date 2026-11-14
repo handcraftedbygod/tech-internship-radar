@@ -2,21 +2,21 @@
   "slug": "valeo",
   "name": "Valeo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc5070827a78c41065b0f9cd50d05cb8d86096c6",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1yC",
+      "location": "Troy, MI",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "7e253c68bc721b0e3c945ce39988d7ce070836bf",
       "title": "Project Data Analyst Trainee (M/F/D)",

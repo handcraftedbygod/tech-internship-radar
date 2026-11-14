@@ -2,14 +2,14 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
@@ -26,7 +26,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -40,10 +40,17 @@
     3,
     1,
     3,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d39f0fd5331004e13e2c67829a46dcbae9dc6f2d",
+      "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Donauwrth/Internship--d-f-m--Embedded-Software-Engineering-for-Weapon-Systems_JR10442671-2?utm_source=freehire.me",
+      "location": "Donauwörth",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "8cb82e959f92410677df8848d77fcbed5bc36c34",
       "title": "Junior Simulation Software Developer C/C++ (m/f/d)",
@@ -106,13 +113,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088?utm_source=freehire.me",
       "location": "Toulouse Area",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "64e8139f0a3f9e55e1bc96722189b3cb15dd2b42",
-      "title": "Tool Technology and Development Engineering Intern",
-      "url": "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236",
-      "location": "Mobile Area, AL",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

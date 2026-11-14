@@ -1,0 +1,45 @@
+{
+  "slug": "seaspan",
+  "name": "Seaspan",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-14T11:15:38.078Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Vancouver",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "241e3dd1f2134ad6aac3e4654d8aec19645d2ec7",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1zc",
+      "location": "North Vancouver, Canada",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    }
+  ]
+}

@@ -2,20 +2,25 @@
   "slug": "tc-energy",
   "name": "TC Energy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15b4e601ca1e78ddb488c422d0ad973e517ef403",
+      "title": "Intelligent Operations Technology Intern",
+      "url": "https://go.vansh.nyc/1zi",
+      "location": "Spokane, WA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "10a1d3c1b2bac5641a1aea6652f6a2f953ab258c",
       "title": "Enterprise Security Intern, Detection & Response",

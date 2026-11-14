@@ -2,9 +2,9 @@
   "slug": "citi",
   "name": "Citi",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 29,
+  "totalPostings": 30,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 29
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     28,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "700a2d144094b7b1210a88b1ad5af3e6960441e4",
+      "title": "AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)",
+      "url": "https://go.vansh.nyc/1yH",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "4376df1fc95f05fb743804fe5b888dd6334c3962",
       "title": "Junior Fullstack Java Developer",
@@ -99,13 +111,6 @@
       "title": "Technology Analyst Intern, Application Development",
       "url": "https://go.vansh.nyc/hv",
       "location": "Jersey City, NJ, New York, NY",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "a0e680c4fe0675299471cec6a7e1ae7a78211489",
-      "title": "Technology Analyst Intern, Application Development",
-      "url": "https://go.vansh.nyc/hu",
-      "location": "Mississauga, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 26,
+  "totalPostings": 28,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 15
     },
     {
       "hub": "Lodz",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 24
     },
     {
       "id": "ai",
@@ -51,10 +51,24 @@
     5,
     5,
     7,
-    9,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "77d090a4a3f370ebf1cbed3b839b06a58ef3c1ac",
+      "title": "Junior Developer: Data Center Automation",
+      "url": "https://jobs.ericsson.com/careers/job/563121777519787-junior-developer-data-center-automation-?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Linköping,Östergötland,Sweden",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
+    {
+      "id": "b14dc5f9443255e07b32cf597229d7428cb9af37",
+      "title": "Junior Developer: Data Center Automation",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM5MTg4NyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "1ebd0daaaa554cb36a117de58af4403c96b87269",
       "title": "Junior Radio Software Developer",
@@ -110,20 +124,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDkwNyAxMjE?lang=en",
       "location": "Sweden",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "85f0640ad4563518e89c5aefe37f804af1e24ebc",
-      "title": "Junior Cloud RAN Layer 1 SW Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3MTAwNCAxMjE?lang=en",
-      "location": "Sweden",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "bc66aaab5f44d9e4c3fba69a51b37d49c96f0493",
-      "title": "AI and Automation Engineer Intern",
-      "url": "https://go.vansh.nyc/YK",
-      "location": "Plano, TX",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

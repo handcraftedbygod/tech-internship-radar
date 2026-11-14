@@ -2,21 +2,21 @@
   "slug": "sima-consulting",
   "name": "SIMA Consulting",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6922969fe8ae96492c3522e7559270e237f93a57",
+      "title": "Junior Web Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36249110__7143?utm_campaign=publisher&utm_medium=api&geoID=2014&utm_source=freehire.me",
+      "location": "Poznań, Poland",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "fc207ae80d2919d09b087f878ba2179425260c02",
       "title": "Junior Web Developer",

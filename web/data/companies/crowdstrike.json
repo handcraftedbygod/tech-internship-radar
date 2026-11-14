@@ -2,14 +2,14 @@
   "slug": "crowdstrike",
   "name": "CrowdStrike",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d14ae4a314ef746fc77010bf0264878919dfa0f",
+      "title": "Insider Risk Engineering Intern",
+      "url": "https://go.vansh.nyc/1z6",
+      "location": "Arlington, VA, Redmond, WA, Sunnyvale, CA",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "7c5f0a2ec541f70999772a75599abc98e95b6035",
       "title": "Professional Services Pathfinder Intern, Red Team",

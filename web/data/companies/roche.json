@@ -2,14 +2,14 @@
   "slug": "roche",
   "name": "Roche",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Barcelona",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     4,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87fd9f4cd40387d9572857ac4ce4eb25a01b4218",
+      "title": "Praktikum Quality Control Support & Data Analytics (d/f/m) (Kaiseraugst, 6 Monate)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Praktikum-Quality-Control-Support---Data-Analytics--d-f-m---Kaiseraugst--6-Monate-_202611-128498?utm_source=freehire.me",
+      "location": "Kaiseraugst",
+      "firstSeenAt": "2026-11-14T11:15:38.078Z"
+    },
     {
       "id": "2ef2a4efcf66b610e4de7e47518b75bf10ff1484",
       "title": "Assay Bioinformatics Intern, CSI",
@@ -109,13 +116,6 @@
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Sant-Cugat-del-Valls/Software-Test-Engineer-Intern_202608-120310?utm_source=freehire.me",
       "location": "Sant Cugat del Vallès",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "84b7293d5b067174338811071773905d8de51578",
-      "title": "Cybersecurity Analyst Intern",
-      "url": "https://careers.roche.com/global/en/job/ROCHGLOBAL202607119909EXTERNALENGLOBAL?utm_source=freehire.me",
-      "location": "Sant Cugat del Vallès, Barcelona",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }
