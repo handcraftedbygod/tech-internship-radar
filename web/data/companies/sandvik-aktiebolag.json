@@ -2,13 +2,17 @@
   "slug": "sandvik-aktiebolag",
   "name": "Sandvik Aktiebolag",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f02966dcc97b7308cabe8ad6df77148dd48d0ec8",
+      "title": "Junior Software Developer",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22028159__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Skåne län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "ad1da34a9f56016b30423f0fb02fa64c22552022",
       "title": "Junior Platform Engineer",

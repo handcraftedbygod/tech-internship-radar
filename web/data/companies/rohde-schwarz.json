@@ -2,25 +2,29 @@
   "slug": "rohde-schwarz",
   "name": "Rohde & Schwarz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 30,
   "topLocations": [
     {
       "hub": "Other",
       "count": 4
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -35,10 +39,17 @@
     0,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8098e459c93072dbcde63f1fc3adfd67c864481f",
+      "title": "Intern EMC Software Development (m/f/d)",
+      "url": "https://job.rohde-schwarz.com/job/Munich-Intern-EMC-Software-Development-%28mfd%29-81671/1403922833/?utm_source=freehire.me",
+      "location": "Munich",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "a56fe667808b5f9e9825d4bae983d18983f8b953",
       "title": "Intern Artificial Intelligence & Machine Learning (m/f/d)",

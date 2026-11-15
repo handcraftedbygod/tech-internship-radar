@@ -2,21 +2,21 @@
   "slug": "nexus-energ-a",
   "name": "Nexus Energía",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed7646c5dd92d2eb8d52c2127229dae57e9cacb3",
+      "title": "Junior Data Engineer: Centralize Data & Power BI Dashboards",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370748007__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "600b64e57df450f3c2303ff7df5c048137de7177",
       "title": "Data Engineer Junior",

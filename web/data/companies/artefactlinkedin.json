@@ -2,26 +2,26 @@
   "slug": "artefactlinkedin",
   "name": "Artefactlinkedin",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     2,
     2,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "27b9f05f016a1c924036d785610603ade5bcc58a",
+      "title": "Junior Data Scientist - Casablanca",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/junior-data-scientist-casablanca-9th-arrondissement-of-paris-75009-paris-484185?utm_source=freehire.me",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "e49b9ac45ae26b68cdcfd10031729b8e29b9d31d",
+      "title": "Intern Data Analyst - Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/intern-data-analyst-paris-9th-arrondissement-of-paris-75009-paris-284085?utm_source=freehire.me",
+      "location": "9th arrondissement of Paris, 75009, Paris",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "8b2102a951379a837017ece07414b504c132b46c",
       "title": "Intern Data Analyst - Paris",

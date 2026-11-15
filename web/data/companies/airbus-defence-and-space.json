@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 24,
+  "totalPostings": 26,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 22
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
@@ -32,13 +32,13 @@
       "count": 6
     },
     {
-      "id": "design",
-      "label": "Design",
-      "count": 1
-    },
-    {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -53,10 +53,24 @@
     8,
     7,
     5,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d8d323f09e121985ea2642021bdf7019ee02bf8",
+      "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems (Ingenieur/in - Luft- und Raumfahrttechnik)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTgzMDYxOTE5LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "de28283f566503d77809362089aa885f8a38090e",
+      "title": "Internship (d/f/m) within the mission software department (Ingenieur/in - Luft- und Raumfahrttechnik)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTgzMDYyNjQ0LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "bb4a9b741a0c5a7b35bfb1dd4f4a88c426287a69",
       "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
@@ -112,20 +126,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-974975808-S?utm_source=freehire.me",
       "location": "Manching, BAYERN, DEUTSCHLAND",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "0facb685bddef0adf558cfd02d48a9e5fa0300fe",
-      "title": "Junior Simulation Software Developer C/C++ (m/f/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTc0OTc1ODA4LVMgMQ?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "c7d9a8e411f54de0994627210feed97992a54b92",
-      "title": "Junior Backend Engineer (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-970420688-S?utm_source=freehire.me",
-      "location": "Immenstaad am Bodensee, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]
 }

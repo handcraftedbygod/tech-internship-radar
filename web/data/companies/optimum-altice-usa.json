@@ -2,14 +2,14 @@
   "slug": "optimum-altice-usa",
   "name": "Optimum (Altice USA)",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f8279605dc586728238a82b653754e6570b67b4",
+      "title": "Cybersecurity Operations Intern",
+      "url": "https://go.vansh.nyc/1zM",
+      "location": "Bethpage, NY",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "c23f20b4b210e57eb15a1257a97082d3a658dc41",
       "title": "QA Automation Engineering Intern",

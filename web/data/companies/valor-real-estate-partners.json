@@ -2,21 +2,21 @@
   "slug": "valor-real-estate-partners",
   "name": "Valor Real Estate Partners",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ef4108736e7be6e3a8e84bf9ec579aa091901b1b",
+      "title": "Intern (Data Engineering)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5965263162?utm_medium=api&utm_source=freehire.me",
+      "location": "St James's, South West London",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "30b5d37f296e1608c3aab9ca77bc948234d78c26",
       "title": "Intern (Data Engineering)",

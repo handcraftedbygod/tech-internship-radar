@@ -1,0 +1,57 @@
+{
+  "slug": "camping-world",
+  "name": "Camping World",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-15T11:47:58.663Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "78b3868ce3dbe5caae41ac4f8a631525ac5247a8",
+      "title": "AI Security Intern",
+      "url": "https://go.vansh.nyc/1zF",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "9d16bef6506e8569326463a033d263bf1d8d1357",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1zE",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    }
+  ]
+}

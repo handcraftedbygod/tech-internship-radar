@@ -2,9 +2,9 @@
   "slug": "techrytera",
   "name": "Techrytera AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 22,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Stockholm",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32da832e1bf6b48a21099153d9a1239da9058b55",
+      "title": "Junior Java Cloud Developer",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21976638__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "c5aabaff1666b763df2a22ca0283252d08b41b69",
       "title": "Junior Java Cloud Developer",

@@ -2,9 +2,9 @@
   "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
   "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 61,
+  "totalPostings": 67,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
@@ -13,19 +13,19 @@
     },
     {
       "hub": "Other",
-      "count": 27
+      "count": 33
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 47
+      "count": 52
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 14
+      "count": 15
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,52 @@
     26,
     15,
     13,
-    7,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "942c9417441b598b342e3be96500aead3ec290d3",
+      "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTI2X0pCNTI5NzY5Ni1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "77698fe670945b2fac7eaaa24495eece00592805",
+      "title": "(Junior) Software Developer C#.NET (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTUzX0pCNTI5NzY5OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "c5ed28e6b3b0e3739613dd1135c4bfbe1420f322",
+      "title": "(Junior) Software Developer Python (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEwX0pCNTI5Nzc1OS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "6c71bed2fb3f3fe5b3fb3fdc0c0d13443f0cc703",
+      "title": "(Junior) Software Developer Java (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEzX0pCNTI5Nzc2MC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "889bd5cd7897cd3aebe21c2f87236a77e12a7fb3",
+      "title": "(Junior) Testingenieur / Software Tester (m/w/d) (IT-Tester/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ3NTQxX0pCNTI5Nzc4NS1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "65142709d2800da8fc35555ead123cb5198af277",
+      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d) (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDM3X0pCNTI5Nzc2Mi1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "58711ca75c0e971c60389c79a96631a4bfbc0d59",
       "title": "(Junior) DevOps Engineer (m/w/d)",
@@ -70,48 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-445951_JB5297731-S?utm_source=freehire.me",
       "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "2a6c529c542818239a63d545dece87328af67de2",
-      "title": "(Junior) Software Developer Python (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446410_JB5297759-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "a8ad539ae7afed4ef2076ecab76a7de8c64873c8",
-      "title": "(Junior) Software Developer Java (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446413_JB5297760-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "edb71aabc1a2fc92aa10201057c7f9e77b93dbe5",
-      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-446437_JB5297762-S?utm_source=freehire.me",
-      "location": "Karlsruhe, Baden, BADEN_WUERTTEMBERG, DEUTSCHLAND",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "08dbc9a39946d07508de43801c14d8d145502552",
-      "title": "(Junior) DevOps Engineer (m/w/d) (DevOps Engineer)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ1MTI2X0pCNTI3NTg1MC1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "676c8121e25e73be5470865ffc4465c041df1091",
-      "title": "(Junior) Embedded Software Developer C/C++ (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDM3X0pCNTI3NTkxOS1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "4614c4815315d719a1fd47276987d5fa6896d9f9",
-      "title": "(Junior) Software Developer Java (m/w/d) (Softwareentwickler/in)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDQ2NDEzX0pCNTI3NTkxNi1TIDE?lang=en",
-      "location": "Germany",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

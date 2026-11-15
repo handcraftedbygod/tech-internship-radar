@@ -2,25 +2,25 @@
   "slug": "aviva",
   "name": "Aviva",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "feea4a662c2425035c7a74c13ba177d40fd3ffe5",
+      "title": "Junior DevOps Engineer",
+      "url": "https://aviva.wd1.myworkdayjobs.com/External/job/Poland---Warsaw---ASEC/Junior-DevOps-Engineer_R-175400?utm_source=freehire.me",
+      "location": "Poland - Warsaw - ASEC",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "5d9337313fc81f6561b8a68d727dcbc0eedc5792",
       "title": "Investment Data Analyst Intern",

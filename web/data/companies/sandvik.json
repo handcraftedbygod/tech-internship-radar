@@ -2,13 +2,17 @@
   "slug": "sandvik",
   "name": "sandvik",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "847b8f4330936708e812ab91ff7fd12f887bf944",
+      "title": "Junior Software Developer (Embedded Linux)",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21970171__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Skåne län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "ae862f6d26f563b5ec81538e8c30900a84769c15",
       "title": "Junior Platform Engineer",

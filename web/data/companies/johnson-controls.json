@@ -2,21 +2,21 @@
   "slug": "johnson-controls",
   "name": "Johnson Controls",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "00593dbc57f5b4fe6bbca3ab59270e4267697187",
+      "title": "New Grad: Nextgen Software Engineer",
+      "url": "https://go.vansh.nyc/1zN",
+      "location": "Milwaukee, WI, Westford, MA, Glendale, WI",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "34587ea1f459d9d54846b92ea2aac8ade5957aa2",
       "title": "Software Engineering Co-op",

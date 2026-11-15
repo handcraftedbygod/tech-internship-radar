@@ -1,0 +1,52 @@
+{
+  "slug": "orangejobs",
+  "name": "orange.jobs",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-15T11:47:58.663Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "28a9de984744f4ab52310acab8b7897853a4c2ad",
+      "title": "Data scientist junior - Analyse et visualisation des mobilités H/F",
+      "url": "https://orange.jobs/gb/en/job/OYVOCZGBIOS20262864EXTERNALENGB?utm_source=freehire.me",
+      "location": "BELFORT",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "651b039cab70443bd1e966c112c8ccb869c5d1a2",
+      "title": "Data scientist junior – Valorisation des données / Flux Vision H/F",
+      "url": "https://orange.jobs/gb/en/job/OYVOCZGBIOS20262862EXTERNALENGB?utm_source=freehire.me",
+      "location": "BELFORT",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    }
+  ]
+}

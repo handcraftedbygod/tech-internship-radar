@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 51,
+  "totalPostings": 52,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 39
+      "count": 40
     },
     {
       "hub": "Austin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 34
+      "count": 35
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     2,
     0,
     38,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9af965fa2b086bfefee430abc2de8be64529c55c",
+      "title": "Deep Learning Framework Communications Engineer",
+      "url": "https://go.vansh.nyc/1zO",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "398711304f55f11d9b2d2dc0da00ee65d19e02b9",
       "title": "Performance Engineering Intern, Platform Performance and Power",
@@ -130,13 +137,6 @@
       "id": "b31793c241664cbd108404e3f3a7fc2cbb360dfc",
       "title": "Developer and Performance Technology Intern",
       "url": "https://go.vansh.nyc/12i",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "349ad75dc60bf0a701f76753e428aad385b79777",
-      "title": "Autonomous Vehicles and Robotics Intern",
-      "url": "https://go.vansh.nyc/12h",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

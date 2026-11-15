@@ -2,21 +2,21 @@
   "slug": "ferchau-gmbh-niederlassung-giessen",
   "name": "FERCHAU GmbH Niederlassung Giessen",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 9
+      "count": 10
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     5,
     3,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "97a69596a013eddcac44502c54846c6eeb082901",
+      "title": "(Junior) Embedded-Software-Entwickler (m/w/d) (Embedded-Systems-Entwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtMzUwNjA1X0pCNTI5NzYzNC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "c8317d3b5254676b3af3494e856d0c64e5a5f5df",
       "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
@@ -101,13 +108,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtMTg3NjA2X0pCNTIxODkxNi1TIDE?lang=en",
       "location": "Germany",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "3b0c485c1dce5e41aa49bff5dbf5ee781e8876a3",
-      "title": "(Junior) Embedded-Software-Entwickler (m/w/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-350605_JB5212718-S?utm_source=freehire.me",
-      "location": "Gießen, Lahn, Hessen, Deutschland",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]
 }

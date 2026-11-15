@@ -2,21 +2,21 @@
   "slug": "swisslinx",
   "name": "Swisslinx AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "89d14b2438bdf43000d141e4ef11afb0b1b6d303",
+      "title": "Junior Developer (Financial Markets)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MDY2OGYwMDMtNzExZS00Y2I5LWExYjgtNzZhMjY0ZjY4MTRmIDYx?lang=en&utm_source=freehire.me",
+      "location": "Zug, Switzerland",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "20a079bc26d26fedb43c1d3af3b119e0e7eb6515",
+      "title": "Junior Developer (Financial Markets)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MDY2OGYwMDMtNzExZS00Y2I5LWExYjgtNzZhMjY0ZjY4MTRmIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "2f46101ea17cdba7b9a3e6406ca49b56eb4c1daa",
       "title": "Junior Developer",

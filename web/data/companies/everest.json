@@ -2,21 +2,21 @@
   "slug": "everest",
   "name": "Everest",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-02T12:02:27.024Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "07103c62076c601345320612789d7c9dbc5005a0",
+      "title": "New Grad 2027: Information Technology Rotational Development Program",
+      "url": "https://go.vansh.nyc/1zG",
+      "location": "Warren, NJ",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "17f2cdc152a323e8608699e7ebbbe7871ad908a9",
       "title": "Technology Intern",

@@ -213,6 +213,13 @@
   ],
   "northAmerica": [
     {
+      "name": "Dualizer",
+      "oneLiner": "AI-powered physical simulation to design/optimize chemical processes",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/dualizer"
+    },
+    {
       "name": "GatherHQ",
       "oneLiner": "Applied AI for Enterprise GTM (3X founders, 10X growth, backed by ANT)",
       "batch": "Fall 2026",
@@ -263,7 +270,7 @@
     },
     {
       "name": "Preload",
-      "oneLiner": "Sensorimotor context for physical AI",
+      "oneLiner": "Multisensory systems (EMG+tactile+video) for training physical AI",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/preload"
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/luca-iq"
-    },
-    {
-      "name": "COACH",
-      "oneLiner": "The AI Coach for in person sales reps.",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/ai-coach"
     }
   ]
 }

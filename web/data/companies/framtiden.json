@@ -2,20 +2,25 @@
   "slug": "framtiden",
   "name": "Framtiden AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "06cb5dd3ab35d8633b6af1794f097a7e1e600d53",
+      "title": "Junior Embedded Software Developer — In‑House Talent Program",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21981728__7150?utm_campaign=publisher&utm_medium=api&geoID=20&utm_source=freehire.me",
+      "location": "Västmanlands län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "d7af4508078180eb6e7f65587428c52fb11e23b9",
       "title": "Junior Traceability Data analyst",

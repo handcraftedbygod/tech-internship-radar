@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 28,
+  "totalPostings": 29,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Lodz",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,17 @@
     5,
     5,
     7,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5a42722828db59961dc6fd6410035405d841329",
+      "title": "AI Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1zB",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "77d090a4a3f370ebf1cbed3b839b06a58ef3c1ac",
       "title": "Junior Developer: Data Center Automation",
@@ -115,13 +122,6 @@
       "id": "1b3ec62d6ddee9334070ef9cc2b0c120d46b05a9",
       "title": "Junior Cloud RAN Layer 1 SW Developer",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDg5OSAxMjE?lang=en",
-      "location": "Sweden",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "ae8c97039980c95d5ecc1c72cbb89b79abf6c4e4",
-      "title": "Junior BB SW Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDkwNyAxMjE?lang=en",
       "location": "Sweden",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }

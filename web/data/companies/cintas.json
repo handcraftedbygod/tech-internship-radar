@@ -2,21 +2,21 @@
   "slug": "cintas",
   "name": "Cintas",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c975e16616841f8016ea30165294283dbab346b5",
+      "title": "OT Software Engineer Intern, IT",
+      "url": "https://go.vansh.nyc/1zH",
+      "location": "United States",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "eab0e0e224bab763388ca7b524954d570b58f58f",
       "title": "IT OT Software Engineer Intern",

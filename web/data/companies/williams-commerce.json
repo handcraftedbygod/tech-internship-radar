@@ -2,21 +2,21 @@
   "slug": "williams-commerce",
   "name": "Williams Commerce",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "daee0b078f42c232817474b8869d5d027ea5c273",
+      "title": "Junior Frontend Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__625800236__7082?utm_campaign=publisher&utm_medium=api&geoID=255&utm_source=freehire.me",
+      "location": "Leicester, United Kingdom",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "9201142bdd83c44ba0d5be43a89f8b6b1055e05b",
       "title": "Junior Frontend Developer",

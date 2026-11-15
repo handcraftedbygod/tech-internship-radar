@@ -1,0 +1,57 @@
+{
+  "slug": "aubay-spain",
+  "name": "Aubay Spain",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-15T11:47:58.663Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Barcelona",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1786b85ce497b6a229795f6091be715e6c0be775",
+      "title": "Junior DevOps Engineer: Cloud Automation & CI/CD",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371272471__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "5398763d9825237f782700ed9562e218683ceac9",
+      "title": "Junior Data Engineer for BI & Cloud Analytics",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371287671__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    }
+  ]
+}

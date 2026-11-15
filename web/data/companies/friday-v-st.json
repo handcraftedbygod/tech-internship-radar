@@ -2,25 +2,29 @@
   "slug": "friday-v-st",
   "name": "Friday Väst AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
       "count": 5
+    },
+    {
+      "hub": "Stockholm",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
@@ -40,10 +44,24 @@
     4,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "91462c62621c08b97a47e4c6d59f6724cf5c9310",
+      "title": "Junior Data Engineer: Moln, Databricks & Pipelines",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22057187__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
+    {
+      "id": "1401f05e1ab43fc82cc0ae068d84320d6e00d166",
+      "title": "Junior Data Engineer till innovativ teknikmiljö",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22037945__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-15T11:47:58.663Z"
+    },
     {
       "id": "23da0a37f91bed8bbf60d4b63371b038df84cd2f",
       "title": "Junior Data Engineer till innovativ teknikmiljö",
