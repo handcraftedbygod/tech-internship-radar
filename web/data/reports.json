@@ -1,5 +1,261 @@
 [
   {
+    "weekOf": "2026-11-08",
+    "newCount": 1111,
+    "prevWeekCount": 1305,
+    "pctChange": -14.9,
+    "totalTracked": 11645,
+    "topHubs": [
+      {
+        "hub": "Other",
+        "count": 757
+      },
+      {
+        "hub": "San Francisco",
+        "count": 52
+      },
+      {
+        "hub": "London",
+        "count": 43
+      },
+      {
+        "hub": "New York",
+        "count": 37
+      },
+      {
+        "hub": "Paris",
+        "count": 30
+      }
+    ],
+    "topCompanies": [
+      {
+        "slug": "rtx",
+        "name": "RTX",
+        "count": 14
+      },
+      {
+        "slug": "ferchau-gmbh-niederlassung-karlsruhe-city",
+        "name": "FERCHAU GmbH Niederlassung Karlsruhe City",
+        "count": 13
+      },
+      {
+        "slug": "bask-health",
+        "name": "Bask Health",
+        "count": 12
+      },
+      {
+        "slug": "general-dynamics-mission-systems",
+        "name": "General Dynamics Mission Systems, Inc.",
+        "count": 11
+      },
+      {
+        "slug": "nbcuniversal",
+        "name": "NBCUniversal",
+        "count": 11
+      }
+    ],
+    "newCompanies": {
+      "totalCount": 344,
+      "sample": [
+        {
+          "slug": "0to9-ab-publ",
+          "name": "0to9 AB (publ)"
+        },
+        {
+          "slug": "404-p-g-polska-spz-oo",
+          "name": "404 P&G Polska SP.Z O.O"
+        },
+        {
+          "slug": "7-eleven",
+          "name": "7-Eleven"
+        },
+        {
+          "slug": "activision-blizzard",
+          "name": "Activision Blizzard"
+        },
+        {
+          "slug": "addepar",
+          "name": "Addepar"
+        }
+      ]
+    },
+    "fastestGrowingDiscipline": {
+      "id": "product",
+      "label": "Product",
+      "pctChange": 25
+    },
+    "notableHiring": [
+      {
+        "slug": "salesforce",
+        "name": "Salesforce",
+        "badge": "NOTABLE",
+        "count": 6
+      },
+      {
+        "slug": "airbnb",
+        "name": "Airbnb",
+        "badge": "NOTABLE",
+        "count": 6
+      },
+      {
+        "slug": "apple-technology-engineering-bv-co-kg",
+        "name": "Apple Technology Engineering B.V. & Co. KG",
+        "badge": "FAANG",
+        "count": 6
+      },
+      {
+        "slug": "visa",
+        "name": "visa",
+        "badge": "NOTABLE",
+        "count": 5
+      },
+      {
+        "slug": "celonis",
+        "name": "Celonis",
+        "badge": "NOTABLE",
+        "count": 4
+      },
+      {
+        "slug": "palantir-technologies",
+        "name": "Palantir Technologies",
+        "badge": "FAANG",
+        "count": 4
+      },
+      {
+        "slug": "apple",
+        "name": "Apple",
+        "badge": "FAANG",
+        "count": 4
+      },
+      {
+        "slug": "palantir",
+        "name": "Palantir",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "nvidia",
+        "name": "NVIDIA",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "spacex",
+        "name": "SpaceX",
+        "badge": "FAANG",
+        "count": 3
+      },
+      {
+        "slug": "pinterest",
+        "name": "Pinterest",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "amazon",
+        "name": "Amazon",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "microsoft",
+        "name": "Microsoft",
+        "badge": "FAANG",
+        "count": 2
+      },
+      {
+        "slug": "snowflake",
+        "name": "Snowflake",
+        "badge": "NOTABLE",
+        "count": 2
+      },
+      {
+        "slug": "doordash",
+        "name": "DoorDash",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "duolingo",
+        "name": "Duolingo",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "coinbase",
+        "name": "Coinbase",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "notion",
+        "name": "Notion",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "wise",
+        "name": "Wise",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "sap-fioneer",
+        "name": "SAP Fioneer",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "bookingcom",
+        "name": "Booking.com",
+        "badge": "NOTABLE",
+        "count": 1
+      },
+      {
+        "slug": "amazon-digital-uk",
+        "name": "Amazon Digital UK Limited",
+        "badge": "FAANG",
+        "count": 1
+      },
+      {
+        "slug": "robinhood",
+        "name": "Robinhood",
+        "badge": "NOTABLE",
+        "count": 1
+      }
+    ],
+    "ycHiring": {
+      "europe": 30,
+      "northAmerica": 30
+    },
+    "topPay": {
+      "company": "Citi",
+      "title": "AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)",
+      "url": "https://go.vansh.nyc/1yH",
+      "hub": "New York",
+      "currency": "usd",
+      "low": 101,
+      "high": 126
+    },
+    "headline": {
+      "company": "NVIDIA",
+      "title": "Deep Learning Framework Communications Engineer",
+      "url": "https://go.vansh.nyc/1zO",
+      "hub": "Other",
+      "badge": "FAANG",
+      "currency": "usd",
+      "low": 57,
+      "high": 82
+    },
+    "earlyPick": {
+      "company": "DraftKings",
+      "title": "Data Science Intern (Summer 2027)",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1?utm_source=freehire.me",
+      "season": "Summer 2027",
+      "hub": "London"
+    }
+  },
+  {
     "weekOf": "2026-11-01",
     "newCount": 1305,
     "prevWeekCount": 1560,
