@@ -2,26 +2,26 @@
   "slug": "aubay-spain",
   "name": "Aubay Spain",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "893b12dbb77db0f992c5ccf065186f5afead7c77",
+      "title": "Junior DevOps Engineer: IaC, AWS & CI/CD",
+      "url": "https://www.jobleads.com/es/job/junior-devops-engineer-iac-aws-ci-cd--barcelona--e2c0397e459dc7b1b9323d6d99d2a77f5?utm_source=freehire.me",
+      "location": "Barcelona, Cataluña",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
+    {
+      "id": "dff1ee2c84912e88aa28ff37266cee71b3758443",
+      "title": "Junior Data Engineer — AWS, Python, SQL, Data Lake",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371502929__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "1786b85ce497b6a229795f6091be715e6c0be775",
       "title": "Junior DevOps Engineer: Cloud Automation & CI/CD",

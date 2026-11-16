@@ -2,25 +2,25 @@
   "slug": "netapp",
   "name": "NetApp",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
-      "hub": "San Francisco",
+      "hub": "Other",
       "count": 3
     },
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "San Francisco",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b93510221060ada9143593ab036193d944514c5",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1zX",
+      "location": "Research Triangle Park, NC",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "3892e380ea9cce183368e85eb3d45b2305da8597",
       "title": "Software Engineer Intern, Systems",

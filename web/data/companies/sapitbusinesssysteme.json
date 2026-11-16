@@ -2,21 +2,21 @@
   "slug": "sapitbusinesssysteme",
   "name": "SAPITBusinessSysteme",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-09T12:33:55.591Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb42eabef8a03003b9132c9a73152de9d2514297",
+      "title": "Working Student (f/m/d) - Cloud Developer for SAP Document AI",
+      "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161750618-working-student-f-m-d-cloud-developer-for-sap-document-ai?utm_source=freehire.me",
+      "location": "Walldorf, BW, de",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
+    {
+      "id": "f0ad622c066081c6d26d040f59b596220da44fae",
+      "title": "Werkstudent (w/m/d) - Cloud Developer for SAP Document AI",
+      "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161761748-werkstudent-w-m-d-cloud-developer-for-sap-document-ai?utm_source=freehire.me",
+      "location": "Walldorf, BW, de",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "c4fa9c4ba62f53ae3a001ac459bd23e7299c5068",
       "title": "Working Student (f/m/d) - Standard Software Development - SAP Transportation Management & AI",

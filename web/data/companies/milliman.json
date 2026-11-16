@@ -1,0 +1,56 @@
+{
+  "slug": "milliman",
+  "name": "Milliman",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-16T12:28:17.000Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9159f25aa89991678caec17a012703245dc7ff80",
+      "title": "Data Analytics Intern, IntelliScript",
+      "url": "https://go.vansh.nyc/1A2",
+      "location": "Brookfield, WI",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
+    {
+      "id": "e86c1bdb2ef67bf7d8130ad539ae016e460195ec",
+      "title": "AI Product Engineer Intern, CMH Health",
+      "url": "https://go.vansh.nyc/1A1",
+      "location": "Chicago, IL, Brookfield, WI",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    }
+  ]
+}

@@ -2,20 +2,25 @@
   "slug": "origin-bank",
   "name": "Origin Bank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c83264858659089b6f38be1a251f054f3e0c4db3",
+      "title": "Salesforce Systems Development Intern",
+      "url": "https://go.vansh.nyc/1zY",
+      "location": "Ruston, LA",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "d235715e7cd3e1fb7a4e6f453b075cb56175b091",
       "title": "Cybersecurity Intern",

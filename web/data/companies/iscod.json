@@ -2,21 +2,21 @@
   "slug": "iscod",
   "name": "ISCOD",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ea0e60c4afbb0a193d39bca9177a7a8139326f0",
+      "title": "Alternance Business Developer Junior - Paris (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODg3OTAyNiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "59bdf820525c7367727c6a99cf23083b862031c0",
       "title": "Alternance Business Developer Junior - Limonest (H/F)",

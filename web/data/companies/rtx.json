@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 23,
+  "currentOpenings": 24,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 62,
+  "totalPostings": 63,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 61
+      "count": 62
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 53
+      "count": 54
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    31,
+    32,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df214bb180a70f816617c37bace176f8a0b4db71",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1A3",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "4f3b55f26313378e61fde3bfa2cdbeb972e59f98",
       "title": "Software Engineering Co-op",
@@ -113,13 +120,6 @@
       "id": "435816931214bf22f94797eba4c7bd8fdf1c17ad",
       "title": "Software Engineer 1",
       "url": "https://go.vansh.nyc/1sR",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "e9fc2dd7e9e1e22adba131c17808cb55e80ccb48",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1ss",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
     }

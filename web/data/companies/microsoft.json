@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Dublin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "product",
@@ -44,10 +44,17 @@
     1,
     0,
     10,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f577546045bc86fb2ba238ef47607440dbc72da6",
+      "title": "Applied Sciences",
+      "url": "https://go.vansh.nyc/1A4",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "5940efda3f788b815ab09b90cd6ccf38dff757e6",
       "title": "Data Scientist Intern, CoreAI",
@@ -109,13 +116,6 @@
       "title": "Product Manager Intern",
       "url": "https://go.vansh.nyc/hO",
       "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "4e67b9b8275bdf9a4b7d0d212b3890799d2d104d",
-      "title": "Software Engineer Intern, Security & Identity",
-      "url": "https://go.vansh.nyc/hN",
-      "location": "United States",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

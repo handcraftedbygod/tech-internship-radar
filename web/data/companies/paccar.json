@@ -2,21 +2,21 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "daca621ead8499d703752c0a000c7e3043a0b6c2",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1zV",
+      "location": "United States",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "e16396e123ab5adb9409b8bf803432fa98404caa",
       "title": "Data Engineering Intern",
@@ -104,13 +111,6 @@
       "id": "eb6518b559407fab24f5f16a8dfcd60d6147d849",
       "title": "Aftersales Data Analyst Intern",
       "url": "https://go.vansh.nyc/gB",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "8c11b725b193e219d77d27dbd8a83f9acdc247ed",
-      "title": "Field Service Data Analyst Intern",
-      "url": "https://go.vansh.nyc/dd",
       "location": "Kirkland, WA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

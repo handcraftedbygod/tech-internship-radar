@@ -2,9 +2,9 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 57.9,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     0,
     1,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6df688ddd3b957ce884a045da0703062389f491c",
+      "title": "Full Stack Software Engineer (Starlink)",
+      "url": "https://go.vansh.nyc/1zZ",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "f1287cbcc95b254cf54829aa9971c96d22be12fa",
       "title": "New Grad 2027: Engineer, Aerospace Software (Starfall)",

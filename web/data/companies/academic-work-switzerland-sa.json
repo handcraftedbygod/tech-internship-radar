@@ -2,14 +2,14 @@
   "slug": "academic-work-switzerland-sa",
   "name": "Academic Work Switzerland SA",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     2,
     1,
     6,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0f439f2e8e899a6da1f6031c09996c5ac2884463",
+      "title": "Junior Data Engineer: Real-Time Energy Pipelines on AWS",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50700900__7095?utm_campaign=publisher&utm_medium=api&geoID=349&utm_source=freehire.me",
+      "location": "Lausanne, Switzerland",
+      "firstSeenAt": "2026-11-16T12:28:17.000Z"
+    },
     {
       "id": "cd3e997787763b6be3526c90a7fc2132b9a36eb3",
       "title": "Data Engineer Junior   100%",
@@ -103,13 +110,6 @@
       "id": "5190ba0bfa081f58ac9886d390166c8ef8f81982",
       "title": "Data Engineer Junior   100%",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NzVmZjVmOTQtNzY2NC00Y2E3LTk4OGYtZTZlYjdhOTZkZWUwIDYx?lang=en",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "2e0443181a35b7788ebae8d6186659e55288e43d",
-      "title": "Data Analyst Junior 40%",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTc2YzBmMmItYTc0NC00ZmY4LTlkYWYtMTI2YjY3OGQyYThmIDYx?lang=en",
       "location": "Switzerland",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
