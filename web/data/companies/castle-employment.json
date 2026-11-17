@@ -1,0 +1,45 @@
+{
+  "slug": "castle-employment",
+  "name": "Castle Employment",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "74caf4ff3b8888c931db139c249a4cd862b1f0a9",
+      "title": "Junior Software Developer - C# / .NET",
+      "url": "https://www.adzuna.co.uk/jobs/details/5968536934?utm_medium=api&utm_source=freehire.me",
+      "location": "Scarborough, North Yorkshire",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

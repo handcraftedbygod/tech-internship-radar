@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 23,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 24,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Austin",
@@ -36,6 +36,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -49,10 +54,17 @@
     0,
     0,
     15,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12a26cb5a75f5c4d5b677e7c4db94f4c2584958b",
+      "title": "Firmware Intern",
+      "url": "https://go.vansh.nyc/1AJ",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "affee4fc7298236f6dc0102a3edc95d96399d227",
       "title": "Business Intelligence Analyst (Master's)",
@@ -113,13 +125,6 @@
       "id": "38dfc7b96301a217966cf5cb9971badbd64c63ce",
       "title": "System Software Engineer - Distributed Computing (Master's)",
       "url": "https://go.vansh.nyc/YT",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "e98b7d3cda5c907f7e1742daea72dfa6ef1e5849",
-      "title": "Software Intern",
-      "url": "https://go.vansh.nyc/Zl",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }

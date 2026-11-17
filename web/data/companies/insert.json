@@ -2,21 +2,21 @@
   "slug": "insert",
   "name": "InsERT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45a9e55975b4a32915ebb56fcad940c2922bbc1c",
+      "title": "Junior Java Developer – Hybrydowa Praca, Rozwój Aplikacji",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34397276__7143?utm_campaign=publisher&utm_medium=api&geoID=3028&utm_source=freehire.me",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "1c763e47d8ed8bdd539b8a9b3085420f2bca2333",
       "title": "Junior Java Developer",

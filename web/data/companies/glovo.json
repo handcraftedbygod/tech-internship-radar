@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 33,
+  "currentOpenings": 35,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 94,
+  "totalPostings": 96,
   "avgPostingDurationDays": 24.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 59
+      "count": 60
     },
     {
       "hub": "Madrid",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 71
+      "count": 73
     },
     {
       "id": "biz",
@@ -57,10 +57,24 @@
     33,
     26,
     25,
-    10,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56a38402651a25cb9ffa5c8848333bea801807f8",
+      "title": "Category Management Intern Groceries Spain",
+      "url": "https://careers.glovoapp.com/job/category-management-intern-groceries-spain-in-madrid-spain-jid-744000162025969/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "a257d7c12ffbe404948171228ecc308804a124c6",
+      "title": "Junior Backend Engineer (They/She/He)",
+      "url": "https://careers.glovoapp.com/job/junior-backend-engineer-they-she-he-in-barcelona-spain-jid-744000161824082/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "98cd1658e397b7eceebe70d3d60331abe90714a8",
       "title": "Account Manager Intern Groceries Spain",
@@ -114,20 +128,6 @@
       "id": "2475d907fdbf110237aa2aedd4a13b464d7113b4",
       "title": "Junior Financial Data Analyst",
       "url": "https://careers.glovoapp.com/job/junior-financial-data-analyst-in-barcelona-spain-jid-744000159442150/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "2613e85627c141ab51c15c75b0dac798d59ed16f",
-      "title": "Intern, People Generalist",
-      "url": "https://careers.glovoapp.com/job/intern-people-generalist-in-madrid-spain-jid-744000159376449/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "d6bbffc4b8c535b46df9dbe500f3f3aac383495d",
-      "title": "Junior Business Analyst Consultant",
-      "url": "https://careers.glovoapp.com/job/junior-business-analyst-consultant-in-barcelona-spain-jid-744000159443497/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }

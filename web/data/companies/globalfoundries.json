@@ -2,9 +2,9 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Austin",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -35,7 +35,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -54,10 +54,17 @@
     0,
     0,
     13,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bced275106445ef44e9d8bf25035646069e660c2",
+      "title": "Tapeout Engineering Business Products & Engineering Intern",
+      "url": "https://go.vansh.nyc/1Bc",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "5d0b9ee4fd97581a46d8a48750c6138f8d1f7c14",
       "title": "New Grad 2027: Tapeout Biz Products & Engineering",
@@ -119,13 +126,6 @@
       "title": "New Grad 2027: AI/ML Systems Engineer",
       "url": "https://go.vansh.nyc/AA",
       "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "bf6a7d408c7c77c11185fbac300fb31fd6ed4a60",
-      "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
-      "url": "https://go.vansh.nyc/hm",
-      "location": "Austin, TX, Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

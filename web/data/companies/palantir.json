@@ -2,9 +2,9 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     1,
     1,
     22,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4179a0eb4d53856a157a2e73cf69361e39536dd",
+      "title": "Software Engineer Intern — Build Data-Driven Platforms",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622989771__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "dca91bbe777db623da20988b42f029894d76275d",
       "title": "Software Engineer, Internship - Data Connectors",
@@ -116,13 +123,6 @@
       "id": "3300e4efeb314a1b1d62f3d29fd8c9c4de8d6c48",
       "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
       "url": "https://go.vansh.nyc/Bb",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "95db268ccd5a962be8b0261116a74e312b0beabb",
-      "title": "Software Engineer, Query Engines",
-      "url": "https://go.vansh.nyc/Az",
       "location": "New York, NY",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

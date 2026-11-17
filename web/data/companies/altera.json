@@ -2,9 +2,9 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bdec05ef8033f975041067386bd808dc983ea2a1",
+      "title": "FPGA Software Design Intern: Build & Innovate with DevOps",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622986710__7082?utm_campaign=publisher&utm_medium=api&geoID=440&utm_source=freehire.me",
+      "location": "Marlow, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "c6332a6fd871bd3916efd44de5fceb9826691e9e",
       "title": "FPGA Design Verification Intern",
@@ -108,13 +115,6 @@
       "id": "77f35738515dbb536302de0d45574d3788c49214",
       "title": "FPGA IP Design Engineer Intern",
       "url": "https://go.vansh.nyc/d3",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "95d3f653fd562bc86da1e3bbbff3d03c555aacfe",
-      "title": "Quartus User Interface Intern",
-      "url": "https://go.vansh.nyc/d2",
       "location": "Toronto, ON, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

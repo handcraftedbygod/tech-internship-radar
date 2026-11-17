@@ -1,0 +1,52 @@
+{
+  "slug": "mmc",
+  "name": "MMC",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e38ab1cc69028a78f08c4da9674d742e78c71932",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631064602__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "6710682668e5c8771da0073ab97973b04ff35217",
+      "title": "Junior Full Stack Engineer (Hybrid + Remote Abroad)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631056059__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

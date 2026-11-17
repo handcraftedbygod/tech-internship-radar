@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 54,
+  "totalPostings": 56,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 34
+      "count": 36
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 26
     },
     {
       "id": "ai",
@@ -57,10 +57,24 @@
     17,
     15,
     14,
-    8,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d6c2e87fc887f765ce2c9c698cd2ae89300592fd",
+      "title": "Full-Stack Web Developer Intern — C#/ASP.NET, Razor Pages",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622990370__7082?utm_campaign=publisher&utm_medium=api&geoID=126&utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "62d2f8c9b1cc59d8800557ae7972ac162e80c242",
+      "title": "Engineering Intern (CFD, Software Eng. and Testing) - Strategic Student Programme",
+      "url": "https://www.gradcracker.com/hub/57/siemens/work-placement-internship/87089/engineering-intern-cfd-software-eng-and-testing-strategic-student-programme?utm_source=freehire.me",
+      "location": "Milton Keynes (Hybrid)",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "d929b0c4c2f32ded06d5d21b5c6699cadd1e8caa",
       "title": "Werkstudent (w/m/d) Data Engineering",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-3-S",
       "location": "Braunschweig",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "31a350cabbb603c77d163de6374bfe471eaa80c7",
-      "title": "Werkstudent (w/m/d) im Bereich Pricing Schwerpunkt Data Analytics und Automatisierung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646969-1-S?utm_source=freehire.me",
-      "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "e9ad369a97892dfbdb2f34e477fae553a11175df",
-      "title": "Werkstudent (w/m/d) im Bereich Pricing Schwerpunkt Data Analytics und Automatisierung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646969-1-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

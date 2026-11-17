@@ -2,9 +2,9 @@
   "slug": "nbcuniversal",
   "name": "NBCUniversal",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "88c081a6b9c02f4746f3a0d509f9c28d59e08d91",
+      "title": "Digital Transformation AR/VR Intern",
+      "url": "https://go.vansh.nyc/1Ai",
+      "location": "Universal City, CA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "02912524e7ba373b29d12e80d52c4527a3407cd4",
       "title": "Software Engineer Intern",
@@ -103,13 +110,6 @@
       "id": "ad985cba72eb8033fb8968800c9d89d14c8ac8a5",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1oA",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "73e9bd81b7e773ff15ba92919f54c5451ab44e0a",
-      "title": "Media Tech: Product & Engineering Intern",
-      "url": "https://go.vansh.nyc/1oy",
       "location": "New York, NY",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
     }

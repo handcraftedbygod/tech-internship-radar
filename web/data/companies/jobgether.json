@@ -2,14 +2,14 @@
   "slug": "jobgether",
   "name": "jobgether",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 8
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     8,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0b895e85239c0c7926f61d3603839dbd5729a94",
+      "title": "New Grad 2027: Software Engineer, Open Source and Linux",
+      "url": "https://go.vansh.nyc/1B9",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "ecda2407cfa5c28a8929dd21a0868cc1ce41e148",
       "title": "Junior Manual QA Engineer (Web, CRM)",

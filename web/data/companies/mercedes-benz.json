@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 51,
+  "totalPostings": 52,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 42
+      "count": 43
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 21
+      "count": 22
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,17 @@
     19,
     10,
     14,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c481d034bc769c5b2bde3923bcb2b91b7295e60d",
+      "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654259-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "21454aaf57adfa6e9a4d06f47e265cef063679c4",
       "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
@@ -117,13 +124,6 @@
       "url": "https://jobs.mercedes-benz.com/sap-s-4hana-junior-developer-application-architect-d-m-w-x--239360-MER00047ZP?utm_source=freehire.me",
       "location": "Stuttgart, Germany",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "f12320dcf6e667edc71ed1a0d42b3de81e38f52a",
-      "title": "Werkstudent AI Cybersecurity (m/w/d/x)",
-      "url": "https://jobs.mercedes-benz.com/werkstudent-ai-cybersecurity-m-w-d-x--244149-J000244149?utm_source=freehire.me",
-      "location": "Stuttgart, Germany",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

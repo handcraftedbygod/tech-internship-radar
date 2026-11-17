@@ -2,9 +2,9 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 51,
+  "totalPostings": 52,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 21
+      "count": 22
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 41
+      "count": 42
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     15,
     11,
     15,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28ebcdaaed561a6e6135b7bacf49f7e3fa186111",
+      "title": "Junior .NET Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835392?se=4ODJSh3i8RG2boqXmgGlVQ&utm_medium=api&v=393E8803089F5CF7A1A017F8F9D76F61B95191D2&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "342ede3e020b10b90aa493af0be66df4f7165ad4",
       "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
@@ -105,13 +112,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252671?se=ipyaa7jW8RGKuMLgePBXQA&utm_medium=api&v=B7F2F579877E7B853CD6D223B84EAFE1536C7F7C&utm_source=freehire.me",
       "location": "London, UK",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "2a141aa874f5d1ed279f75a2d10efb546f30ee07",
-      "title": "Junior .NET Developer",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252671?se=iNo_1oXW8RGfxvqYB39ahw&utm_medium=api&v=B7F2F579877E7B853CD6D223B84EAFE1536C7F7C&utm_source=freehire.me",
-      "location": "London, UK",
-      "firstSeenAt": "2026-11-02T12:02:27.024Z"
     }
   ]
 }

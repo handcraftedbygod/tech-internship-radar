@@ -2,14 +2,14 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     },
     {
       "hub": "Madrid",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 6
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 4
+      "id": "swe",
+      "label": "Software",
+      "count": 6
     },
     {
       "id": "design",
@@ -44,10 +44,24 @@
     1,
     0,
     8,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c646e4586b63711dfa163da4dd9b13f734583f0e",
+      "title": "AI Acceleration Intern",
+      "url": "https://go.vansh.nyc/1Aa",
+      "location": "Marlborough, MA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "334747675a9bccc2adfd9c9b016834dc343a4aac",
+      "title": "AI Engineering Intern, Generative and Agentic AI",
+      "url": "https://go.vansh.nyc/1A8",
+      "location": "Marlborough, MA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "7065d3fbcffcffa9bf2e7fa06cd74334972677ee",
       "title": "Urology R&D Software Engineering Co-op",
@@ -103,20 +117,6 @@
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
       "location": "Arden Hills, MN",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "757354287dd7b6da1c0d8f7d5fda16e6be6e1795",
-      "title": "Finance Data Science Intern",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813769021?utm_source=freehire.me",
-      "location": "Madrid, Spain |  N/A",
-      "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "7e60dcdc660d6a7f33d36d0a52b87571055e9136",
-      "title": "AI/Data Science Intern",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519129",
-      "location": "Maple Grove, MN",
-      "firstSeenAt": "2026-10-19T13:17:09.570Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "reliable-robotics",
   "name": "Reliable Robotics Corporation",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-14T11:15:38.078Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f2f5316c9c73ad9ff68e337d0061864cd28dc53",
+      "title": "Displays Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1AA",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "acc4f4a48c6eb700b3eb44a3544d80e5eb36f5d0",
       "title": "FPGA Engineering Intern",

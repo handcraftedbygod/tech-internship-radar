@@ -2,21 +2,21 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 23,
+  "totalPostings": 26,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 26
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ai",
@@ -26,7 +26,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -40,10 +40,31 @@
     0,
     4,
     8,
-    11,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4102f4de200871530f60e7aa7d2cb69f398a36d",
+      "title": "Junior Développeur Fullstack IA (H/F) - Freelance",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODkxNTkyNiA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "7ec53c850becefcca2423faddfe1b3b7989c487d",
+      "title": "Ingénieur DevOps Junior - Systèmes & Réseaux (F/H) - Freelance",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODkxNTkzNiA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "40eaed17545eca020320508814d62db8067e2a73",
+      "title": "Ingénieur DevOps Junior - Systèmes & Réseaux (F/H) - Freelance",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODkxNTkzNiA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "0bd45af3b387db4b0ce94968274faa425b944a9a",
       "title": "Développeur Fullstack Java / Angular - Junior - CDI (H/F)",
@@ -92,27 +113,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg2MiA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "1ee014f182bb34c079ff2ba534ae9bc15df651b0",
-      "title": "Développeur Full Stack Java / Angular - Profil junior - Freelance (H/F)",
-      "url": "https://www.free-work.com/fr/tech-it/job-mission/developpeur-java-kotlin-groovy-scala/developpeur-full-stack-java-angular-profil-junior-freelance-h-f?utm_source=freehire.me",
-      "location": "54000, Nancy, Grand Est",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "16dae5af2b2830ab15854282310aa69227d760b9",
-      "title": "Développeur Full Stack Java / Angular junior - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODU3Njk0NSA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "7e4180c9ca1a05fa39e3ae519947a9b6314821c8",
-      "title": "Ingénieur DevOps junior orienté Mainframe (H/F)  - Freelance",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODU3NzI0OCA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
     }
   ]
 }

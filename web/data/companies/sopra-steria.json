@@ -2,13 +2,17 @@
   "slug": "sopra-steria",
   "name": "Sopra Steria",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Katowice",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3af26208f7d0f9653343afb7d1f9b3b7641531dc",
+      "title": "Junior Java Developer: Training, Growth & Global Projects",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370663081__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "c5d0469b77131543bb093645250379a468233246",
       "title": "Junior Infrastructure Engineer (operating systems)",

@@ -2,21 +2,21 @@
   "slug": "titanom-technologies",
   "name": "Titanom Technologies",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74dca83cc06cf1d6da03f57442f994235fc979c2",
+      "title": "Werkstudent Software Engineering (all genders)",
+      "url": "https://devglobaljobs.com/jobs/detail/177934414?utm_source=freehire.me",
+      "location": "Germering, Germany",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "c89b10e0366c72cf6981cf74be1b91e38c7d5446",
+      "title": "Werkstudent Software Engineering (all genders)",
+      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/werkstudent-software-engineering-all-genders-germering-104959",
+      "location": "Germering, Germany",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "556db2cac3f5de497acbf48c00eb7a990953df25",
       "title": "Werkstudent Software Testing (all genders)",

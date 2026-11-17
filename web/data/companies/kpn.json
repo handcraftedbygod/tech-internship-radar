@@ -2,14 +2,14 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "ai",
@@ -39,10 +39,24 @@
     3,
     0,
     5,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a75db3ee03863061ebcf584fb819b2a114de58f",
+      "title": "Junior DevOps Engineer Subscriber Data Management",
+      "url": "https://jobs.smartrecruiters.com/KPN/744000162051974-junior-devops-engineer-subscriber-data-management?utm_source=freehire.me",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "ed048de98bcf70d5f2b9f88df706d45988cfd428",
+      "title": "Junior DevOps Engineer Subscriber Data Management",
+      "url": "https://jobs.smartrecruiters.com/KPN/744000162053099-junior-devops-engineer-subscriber-data-management?utm_source=freehire.me",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "15e7b36adf2b7b30f529601312d43d41bdb98511",
       "title": "KPN Portal & Backend Engineering Internship",
@@ -98,13 +112,6 @@
       "url": "https://jobs.smartrecruiters.com/KPN/744000144141425-junior-devops-engineer-?utm_source=freehire.me",
       "location": "Rotterdam, ZH, nl",
       "firstSeenAt": "2026-08-19T04:37:06.222Z"
-    },
-    {
-      "id": "6760962b2c43ffa29461e2fba36a41111bf84de9",
-      "title": "Junior DevOps Engineer",
-      "url": "https://jobs.smartrecruiters.com/KPN/744000142877360-junior-devops-engineer-?utm_source=freehire.me",
-      "location": "Rotterdam, ZH, nl",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }
   ]
 }

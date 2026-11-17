@@ -2,14 +2,14 @@
   "slug": "devoteam",
   "name": "Devoteam",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -22,13 +22,17 @@
     {
       "hub": "Frankfurt",
       "count": 1
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     },
     {
       "id": "swe",
@@ -47,10 +51,24 @@
     6,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c32842e6bef02b23db381eb89986ef4e2d907077",
+      "title": "Junior Data Engineer — Data & AI Factory (Shift-Based)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36265184__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "f5d99bdad1c4648ea87bbd897d4d67a686b77e56",
+      "title": "Junior Data Engineer (Data & AI Factory)",
+      "url": "https://www.linkedin.com/jobs/view/4419031267/?utm_source=freehire.me",
+      "location": "Cracow, Małopolskie, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "23dfb7577a81890e2ff4e6f79c396df3bd9204af",
       "title": "(Junior) Software Developer – Compilerbau & TTCN-3 (m/w/d)",

@@ -1,26 +1,30 @@
 {
   "slug": "bitpanda",
-  "name": "bitpanda",
+  "name": "Bitpanda",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 30.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +39,31 @@
     0,
     0,
     2,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0c6fd7ecfa544f5afedb6ca1778d01957220c0f6",
+      "title": "Fintech Data Engineer Intern — Build Data Pipelines (Hybrid)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370808302__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "85b9b556adb8f7c6b27045fccefb7372c6abfb92",
+      "title": "Data Engineering Intern: Build Pipelines & Data Products",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370831671__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "ac7b2d663d0c1ff7b8b258a61134e669ce135af1",
+      "title": "Intern, Data Engineering",
+      "url": "https://es.whatjobs.com/pub_api__cpl__369638612__7107?utm_campaign=publisher&utm_medium=api&geoID=10581&utm_source=freehire.me",
+      "location": "Catalunya, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "8d2187aa729bbc6493bdac311745676e333ca706",
       "title": "Intern, Data Engineer",

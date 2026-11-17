@@ -2,21 +2,21 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5f1c62e505d76f48d02a5f591893df94e497c09e",
+      "title": "Robotics Intern, World Models, Multimodal Sensing",
+      "url": "https://go.vansh.nyc/1Au",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "7ba83039c9207c691bb7ca4fce3d1dc7a1756bc2",
       "title": "Robotics Intern, Teleoperation and Spatial Computing",

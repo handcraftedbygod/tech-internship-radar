@@ -1,0 +1,52 @@
+{
+  "slug": "sellpy",
+  "name": "Sellpy",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Stockholm",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bc8fd2e005f155e6f799a3e04d53ec3343d82f92",
+      "title": "Junior Software Engineer at Sellpy",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22045313__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "8794038900a90df754fd83b41ca120bad5ad6092",
+      "title": "Junior Software Engineer – Full-Stack Impact in Circular Tech",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21973602__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

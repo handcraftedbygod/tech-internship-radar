@@ -2,14 +2,14 @@
   "slug": "delivery-hero",
   "name": "Delivery Hero",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     3,
     2,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7259e3adce831013b0570dd8ae2de5e4a32c9a16",
+      "title": "Junior Backend Engineer (They/She/He)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000161824082",
+      "location": "Barcelona, , Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "d6ece9d2cc3567e437a211789d3cb8588ddb3fe0",
       "title": "Intern, Data Engineer - People & Culture",
@@ -118,13 +125,6 @@
       "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000150294779",
       "location": "Barcelona, , Spain",
       "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "c97fc97f8ccb0ce2f973e3487fc097296730d9f0",
-      "title": "Intern Sales Developer Representative Portugal",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000149521289",
-      "location": "Lisbon, , Portugal",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
     }
   ]
 }

@@ -1,14 +1,18 @@
 {
   "slug": "blocktech",
-  "name": "blocktech",
+  "name": "BlockTech",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-29T10:49:33.976Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Amsterdam",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     1,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "612d312f02ce11455535bf855425c4574755a41a",
+      "title": "Junior Software Engineer | Core Tech | Python/Rust",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__173774455__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "a2b96b0c7fc7215d6e310c600383937ba30f188b",
+      "title": "Amsterdam Junior Software Engineer — Core Trading Systems (Python/Rust)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__173782925__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "d1d926dca133d55fbd75cc02e79290b25ba756cd",
       "title": "Software Engineer | Internship | Summer '27",

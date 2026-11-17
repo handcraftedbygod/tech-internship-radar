@@ -2,17 +2,17 @@
   "slug": "autodesk",
   "name": "Autodesk",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 13,
+  "totalPostings": 15,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
-      "hub": "Montreal",
-      "count": 5
+      "hub": "Other",
+      "count": 7
     },
     {
-      "hub": "Other",
+      "hub": "Montreal",
       "count": 5
     },
     {
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     },
     {
       "id": "ai",
@@ -43,10 +43,24 @@
     3,
     2,
     7,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a8e5a81d9052e4971fe7768e15763affd344996",
+      "title": "12‑Month Frontend Engineer Intern (JS/React) – Sheffield",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__625800148__7082?utm_campaign=publisher&utm_medium=api&geoID=901&utm_source=freehire.me",
+      "location": "Sheffield, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "6a3a92231036eaae0db7302feae05b897b16c6e1",
+      "title": "JavaScript/React Frontend Intern - 12-Month Placement",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631208203__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "53ad9f2809c9c60bd45aa63d091d09c73b9d3e8e",
       "title": "Software Engineer: AI & Fusion Engineering, Fusion Engineering",
@@ -102,20 +116,6 @@
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Krakw-POL/Intern--Software-Engineer_26WD101095?utm_source=freehire.me",
       "location": "Kraków, POL",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "570d216d76a5e29a9a45eb3a19a2d5c5d6c50fe0",
-      "title": "Intern, Software Developer/ Stagiaire en Développement Logiciel",
-      "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-913e31",
-      "location": "Montreal, Canada",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "a6346ad2ce505ec62665582b19c7f78883999b56",
-      "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
-      "url": "https://www.themuse.com/jobs/autodesk/intern-software-developer-stagiaire-en-developpement-logiciel-a1d76a",
-      "location": "Montreal, Canada",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

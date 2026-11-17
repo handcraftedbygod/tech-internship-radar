@@ -2,9 +2,9 @@
   "slug": "citi",
   "name": "Citi",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "New York",
       "count": 5
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -25,6 +29,11 @@
     {
       "id": "quant",
       "label": "Quant",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -39,10 +48,17 @@
     0,
     0,
     28,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2edc6bdaed132c1f37880ae0fa32e42b27c4ac65",
+      "title": "Junior GenAI Backend Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630936983__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "700a2d144094b7b1210a88b1ad5af3e6960441e4",
       "title": "AVP Quantitative Engineer, Exotic Equity Derivatives (Master's)",
@@ -104,13 +120,6 @@
       "title": "New Grad 2027: Technology, Production Support Analyst",
       "url": "https://go.vansh.nyc/Bm",
       "location": "New York, NY",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "4f5b24620ebdceecdd5e22af30d28ac1def5e78f",
-      "title": "Technology Analyst Intern, Application Development",
-      "url": "https://go.vansh.nyc/hv",
-      "location": "Jersey City, NJ, New York, NY",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

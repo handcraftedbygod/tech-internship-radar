@@ -2,21 +2,21 @@
   "slug": "scalable",
   "name": "Scalable GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "16a28c6f9cac286db3274c00bfe7e4613909c256",
+      "title": "(Junior) Frontend Engineer — Broker (m/f/x)",
+      "url": "https://startup.jobs/junior-frontend-engineer-broker-m-f-x-scalable-gmbh-10730769?utm_source=freehire.me",
+      "location": "München, Germany",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "598088a661a617fc668c1cd6a88c37da8fe6bfab",
       "title": "Junior Kotlin / Java Software Engineer - New Product (m/f/x)",

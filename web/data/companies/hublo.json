@@ -2,21 +2,21 @@
   "slug": "hublo",
   "name": "Hublo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a21edb8e8d4fa6ac9e10de230b74171ecd1fd647",
+      "title": "Junior Data Engineer - Build Health Data Pipelines (Hybrid)",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__161357201__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "fba71f0f63c48092c60187294081cd5672713931",
+      "title": "Junior Data Engineer (f/h/n)",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__160702652__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "1b94bb4d961257f7ee7eef1af13cf59c7248d4f6",
       "title": "CPTO_085 - Junior Data Engineer (f/h/n)",

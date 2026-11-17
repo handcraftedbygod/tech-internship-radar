@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 25,
-  "avgPostingDurationDays": 16.1,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 16,
   "topLocations": [
     {
       "hub": "Other",
@@ -16,11 +16,11 @@
       "count": 5
     },
     {
-      "hub": "London",
-      "count": 1
+      "hub": "Toronto",
+      "count": 2
     },
     {
-      "hub": "Toronto",
+      "hub": "London",
       "count": 1
     }
   ],
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     19,
     2,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "07c703552d1cdd101dccaefd1098d1222c92161f",
+      "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/1Ab",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "67f4face94e5fc98ac85892173b5fc913ed5e0da",
       "title": "Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services",
@@ -117,13 +124,6 @@
       "title": "AI Engineer Intern, Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
       "location": "Atlanta, GA",
-      "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "28f75ac7f2887488b0ef08c6d1a4293bbf491f0d",
-      "title": "AI Engineer Intern, Enterprise Technology Services",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
-      "location": "Phoenix, AZ",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
     }
   ]

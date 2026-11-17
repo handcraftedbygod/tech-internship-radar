@@ -2,21 +2,21 @@
   "slug": "iba",
   "name": "IBA Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "536462214686b1bd41ce7abd4146dec0955dcc80",
+      "title": "Junior Java Developer – BPMN/Workflow Automation",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36221105__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "aed69cc8409a804552e7e344346c0a64f91cd835",
       "title": "Junior Java Developer – BPMN/Workflow Automation",

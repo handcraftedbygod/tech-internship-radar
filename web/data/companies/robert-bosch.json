@@ -2,29 +2,29 @@
   "slug": "robert-bosch",
   "name": "Robert Bosch GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
-      "hub": "Warsaw",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Warsaw",
       "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -39,10 +39,17 @@
     0,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "02d2c6366f113879123d451755602c8c7a66cd7f",
+      "title": "Werkstudent Data Analytics & Business Intelligence (w/m/div.)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF301118P-1140ed3-S",
+      "location": "Gunzenhausen am Altmühlsee",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "537ac4e1bdaf9ada7fd0446f0df453d79329281b",
       "title": "Werkstudent Data Engineering & Backend (w/m/div.) ",

@@ -2,21 +2,21 @@
   "slug": "carbonchain",
   "name": "CarbonChain",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "42ac4048981c6cd15112c60bd8d090fd398c70c1",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631071203__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "8c541969eb77b19926ef03c4093c00d12e66693f",
       "title": "Junior Data Engineer",

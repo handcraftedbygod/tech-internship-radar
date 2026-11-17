@@ -2,20 +2,25 @@
   "slug": "idaho-national-laboratory",
   "name": "Idaho National Laboratory",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bcb0e34fb2276d5fb180e41cbc0ea501c9f6b20b",
+      "title": "Electric Vehicle Charging Data Analysis Intern",
+      "url": "https://go.vansh.nyc/1B6",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "bacffdb3d591aed10800f3a5888471a88fe60138",
+      "title": "Cybersecurity Operations Intern",
+      "url": "https://go.vansh.nyc/1Am",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "3c5186637bf264b02155624717fe2cda7fc605e8",
       "title": "Cybersecurity Vulnerability Assessment Intern",

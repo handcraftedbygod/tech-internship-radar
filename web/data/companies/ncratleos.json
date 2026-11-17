@@ -2,21 +2,21 @@
   "slug": "ncratleos",
   "name": "ncratleos",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc8cd9cf1d24161408604540536305678d0ccaba",
+      "title": "Junior Software Engineer",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_intern_EMEA/job/DUNDEE-GBR/Junior-Software-Engineer_R1155200-1?utm_source=freehire.me",
+      "location": "DUNDEE, GBR",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "704d52056fa8b6e68688a186a0877174eca6e0b6",
       "title": "Data Analytics Intern - Media Handling",

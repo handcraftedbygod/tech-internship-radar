@@ -2,13 +2,17 @@
   "slug": "oliver-bernard",
   "name": "Oliver Bernard",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2216eb65ba7ca04ba8968d62825bf3f51c72fc5",
+      "title": "Graduate/Junior Software Engineer (Must have a CS Degree from a top Uni) - £70k - London",
+      "url": "https://www.linkedin.com/jobs/view/4488948060/?utm_source=freehire.me",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "7f684af7f23f84fa73afbf51b97d787f759659fa",
       "title": "Junior Java Developer",

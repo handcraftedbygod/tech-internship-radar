@@ -2,21 +2,21 @@
   "slug": "adac-it-service",
   "name": "ADAC IT Service GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5492f916c5732a40e8c3b28b8e6fb4c205b4fcd6",
+      "title": "Werkstudent DevOps & Software Engineering (w|m|d), ADAC Zentrale",
+      "url": "https://www.finest-jobs.com/stellenanzeige/Werkstudent-Devops-Amp-Software-Engineering-Wmd-1267016?cp=BA",
+      "location": "München",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "575b29fa33e4a1dbca9a223cef78295da9aac935",
       "title": "Werkstudent Projektmanagement Software (w|m|d), ADAC Zentrale",

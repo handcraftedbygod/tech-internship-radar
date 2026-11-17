@@ -2,21 +2,21 @@
   "slug": "vanguard",
   "name": "Vanguard",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "136efb36e863a2449de1095ab6fae94bc3e976b3",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630907142__7082?utm_campaign=publisher&utm_medium=api&geoID=19285&utm_source=freehire.me",
+      "location": "Manchester, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "fe884a3c6f876422a647adaa3854aeed5939db1b",
       "title": "Junior Java Developer",

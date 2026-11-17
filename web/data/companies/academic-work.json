@@ -2,11 +2,15 @@
   "slug": "academic-work",
   "name": "Academic Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Zurich",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "93530b3575a2c8542e29d87a68646f4eff0216b2",
+      "title": "Data Engineer Junior — Pipelines AWS & Trading Data",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50704881__7095?utm_campaign=publisher&utm_medium=api&geoID=4075&utm_source=freehire.me",
+      "location": "Vaud, Switzerland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "d83bbd77b8fe660a5a0fd21bbd7d4c5bc0557034",
+      "title": "Data Engineer Junior (F/H) 100%",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50699548__7095?utm_campaign=publisher&utm_medium=api&geoID=4075&utm_source=freehire.me",
+      "location": "Vaud, Switzerland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "39dd45c4f291bbaab092c53acc650887fe149059",
       "title": "Junior Data Engineer (graph modeling)",

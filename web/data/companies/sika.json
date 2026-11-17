@@ -2,25 +2,25 @@
   "slug": "sika",
   "name": "Sika Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "601f3f34d3c20b17fd381fc92be981cf9121b81f",
+      "title": "Software Engineering Intern — AI, Data & Web Apps",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50067797__7095?utm_campaign=publisher&utm_medium=api&geoID=26&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "114fac2159a02cdb37a7b36593ae8a6fd0ce7f83",
       "title": "Software Engineering Intern for CAD/CAE/Tooling",

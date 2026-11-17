@@ -2,14 +2,14 @@
   "slug": "inetum",
   "name": "Inetum",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Katowice",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     6,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "788e61289b09674cd2c4f9a0360e82ab2eb0993a",
+      "title": "Junior Data Engineer / IB",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__35743664__7143?utm_campaign=publisher&utm_medium=api&geoID=43714&utm_source=freehire.me",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "8eb31c13f95702ae1ef6237e88dc43a9e2ee7b64",
       "title": "Junior Data Engineer",

@@ -1,0 +1,59 @@
+{
+  "slug": "carnival",
+  "name": "Carnival Corporation",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "eec5c197bc7fbd5c2109cfffe3d73a810925561d",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1Av",
+      "location": "Miami, FL",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "2b71be573c98da1eee1fcc9ebf680424ca93a0b4",
+      "title": "Revenue Data Science Intern",
+      "url": "https://go.vansh.nyc/1Ah",
+      "location": "Miami, FL",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "b7446c1f9f32bf25befa2af043375b1f911f3eeb",
+      "title": "Data & AI Solutions Intern",
+      "url": "https://go.vansh.nyc/1Ag",
+      "location": "Miami, FL",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

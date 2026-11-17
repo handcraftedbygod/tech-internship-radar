@@ -2,21 +2,21 @@
   "slug": "bloomberg-industry",
   "name": "Bloomberg Industry Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-14T11:15:38.078Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b51059c7e7326db72e92296bbdf5f94f6d7bdc9d",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1AF",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "c0b90cfd7b30817668e703518c194cbeb7988b80",
       "title": "Engineering Intern",

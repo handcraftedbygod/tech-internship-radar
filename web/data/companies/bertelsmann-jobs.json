@@ -2,21 +2,26 @@
   "slug": "bertelsmann-jobs",
   "name": "Bertelsmann-Jobs",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,38 @@
     0,
     0,
     0,
-    1,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "17cdd628b4d2e414ff54a69086a012fff92398a2",
+      "title": "Werkstudent Data Analytics & AI (m/w/x)",
+      "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000161785182-werkstudent-data-analytics-ai-m-w-x-?utm_source=freehire.me",
+      "location": "Marienfeld, Nordrhein-Westfalen, de",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "2f179a962aefda1a74d9b6f6e317d0d6b03fdd35",
+      "title": "Junior Data Engineer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36203450__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "15e3a52b00bba787062272a499eaab0eccad726f",
+      "title": "Junior Data Engineer: BI & SQL Specialist (Hybrid)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36208532__7143?utm_campaign=publisher&utm_medium=api&geoID=2582&utm_source=freehire.me",
+      "location": "Suchy Las, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "f4c86241c00cde3e7a22e81f640c2aeb1655987f",
+      "title": "(Junior) Data Analyst (m/w/x)",
+      "url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000162011290--junior-data-analyst-m-w-x-?utm_source=freehire.me",
+      "location": "Harsewinkel, Nordrhein-Westfalen, de",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "6bc267768ef5c01fa95be38189929ad02b07ec39",
       "title": "(Junior) Data Analyst (m/w/x)",

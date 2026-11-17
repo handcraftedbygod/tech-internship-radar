@@ -2,14 +2,14 @@
   "slug": "aldia",
   "name": "Aldia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     6,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4896fcfea2e6a9f70da5e38e44535399641b07b5",
+      "title": "Remote Junior DevOps Engineer - Kubernetes & Docker",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370650762__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "be1caacf1646f6fbea021c9f0809728180de33c0",
       "title": "Junior Devops Engineer",

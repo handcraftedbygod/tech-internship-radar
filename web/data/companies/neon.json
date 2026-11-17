@@ -2,9 +2,9 @@
   "slug": "neon",
   "name": "Neon",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "San Francisco",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5fb103c95e6e7a430aa9fb5e8d99aa3a9b5f3382",
+      "title": "Software Engineering Intern - Build Scalable Data Platform",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__622988573__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "7736affa510f549d181a1a20785fba33b74a2715",
       "title": "New Grad 2027: Software Engineer",

@@ -2,11 +2,15 @@
   "slug": "version-1",
   "name": "Version 1",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3d9c4207bfc3f530c9157f66eec2036b8bff28b",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630943304__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "71b763117ef3b45f2f83ee5927c42f6448cda9c8",
+      "title": "Remote Junior Java Developer — Azure & API Skills",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630956995__7082?utm_campaign=publisher&utm_medium=api&geoID=835&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "62b2fa88e531174785a3ad6bd0dfad9bf219fe89",
       "title": "Junior Java Developer",

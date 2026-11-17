@@ -2,14 +2,14 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 29,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     },
     {
       "hub": "Lodz",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Stockholm",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Krakow",
@@ -32,12 +32,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 24
+      "count": 26
     },
     {
       "id": "ai",
       "label": "Data / AI",
       "count": 5
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -51,10 +56,31 @@
     5,
     5,
     7,
-    12,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43e60113d0accef3b666e5040cf53e14a7bed9b1",
+      "title": "Radio Software Engineer (Junior) - C++/Java Embedded",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22081357__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "542bc17ed12b6620b3ffd975916b5f2bb186c1a8",
+      "title": "Junior Software Developer: AI-Driven Test Frameworks",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21965442__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Skåne län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "d99455f618a794017a2108b4e775cfb9027abf85",
+      "title": "Junior Software Developer: AI-Enhanced Test Frameworks",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22073428__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Skåne län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "d5a42722828db59961dc6fd6410035405d841329",
       "title": "AI Software Engineer Intern",
@@ -103,27 +129,6 @@
       "url": "https://jobs.ericsson.com/careers/job/563121777553320-software-developer-summer-intern-ims-gw-test-tools-automation--?domain=ericsson.com&utm_source=freehire.me",
       "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
       "firstSeenAt": "2026-11-09T12:33:55.591Z"
-    },
-    {
-      "id": "0b8e2416e633e13e5491b1b0855d1ea1fa33c6f7",
-      "title": "Data Scientist Intern",
-      "url": "https://jobs.ericsson.com/careers/job/563121777263579-data-scientist-intern-madrid-madrid-spain?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Madrid,Madrid,Spain",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "531044631a7625f9c62133312ba791d03fff13d1",
-      "title": "Technology and AI Intern",
-      "url": "https://go.vansh.nyc/1gz",
-      "location": "Plano, TX",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "1b3ec62d6ddee9334070ef9cc2b0c120d46b05a9",
-      "title": "Junior Cloud RAN Layer 1 SW Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM3NDg5OSAxMjE?lang=en",
-      "location": "Sweden",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }

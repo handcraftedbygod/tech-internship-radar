@@ -2,13 +2,17 @@
   "slug": "crosscountry-consulting",
   "name": "CrossCountry Consulting",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Chicago",
+      "count": 2
+    },
+    {
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cad72b322e87ac82b49529d99bc9211573f83788",
+      "title": "Junior Forward Deployed Software Engineer",
+      "url": "https://go.vansh.nyc/1AI",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "772d898d16928a73983a489d1523dd89ea19b6c3",
+      "title": "New Grad 2027: Junior Forward Deployed Software Engineer",
+      "url": "https://go.vansh.nyc/1AH",
+      "location": "Philadelphia, PA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "4acebf3b816ba4354feadf3fd3fa65b6aa0d30fe",
       "title": "New Grad: Forward Deployed Software Engineer",

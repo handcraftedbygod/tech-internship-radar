@@ -2,14 +2,14 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 34,
-  "avgPostingDurationDays": 17.6,
+  "totalPostings": 37,
+  "avgPostingDurationDays": 17.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 24
     },
     {
       "hub": "Katowice",
@@ -20,24 +20,24 @@
       "count": 3
     },
     {
-      "hub": "Lisbon",
+      "hub": "Madrid",
       "count": 2
     },
     {
-      "hub": "Madrid",
-      "count": 1
+      "hub": "Lisbon",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 12
     },
     {
       "id": "design",
@@ -56,10 +56,31 @@
     12,
     10,
     9,
-    3,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dbe933b9e580fd72ebe91d0506f6c6db2eff74ae",
+      "title": "Junior Cloud & Devops Engineer",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16855574__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "e4e2faaea4e6604136d0c30754d4e8cff001e93e",
+      "title": "Junior SAS Data Engineer",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16846835__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "2f9f7fdc98f1e5cf504537964507639c3243e15e",
+      "title": "Data Engineering Intern: Pipelines & Data Quality",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370834238__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "56f26b820d98b7becf4e8faa978b9b872b94616c",
       "title": "Associate Application Consultant",
@@ -106,27 +127,6 @@
       "id": "8e6f17ea2edc1cd975063838dea812d739f0345f",
       "title": "Junior Onsite Network Engineer",
       "url": "https://careers.capgemini.com/job/Manchester-Junior-Onsite-Network-Engineer/1415863733/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "b94996dca9f88de17417b6aee891a9cfd14f8293",
-      "title": "Junior Network Engineer",
-      "url": "https://careers.capgemini.com/job/Lisboa-Junior-Network-Engineer/1408828333/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "aed2eb70151c7709314f1b140feea30c80fae056",
-      "title": "Junior Systems Engineer",
-      "url": "https://careers.capgemini.com/job/Utrecht-Junior-Systems-Engineer/1195009901/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "04970caae3c36724c1403e9be4e33134207cdea8",
-      "title": "Junior Fullstack Developer (Typescript & React)",
-      "url": "https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Fullstack-Developer-%28Typescript-&-React%29/1400190833/?utm_source=freehire.me",
       "location": "",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }

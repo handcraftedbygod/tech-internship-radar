@@ -2,25 +2,25 @@
   "slug": "velux",
   "name": "Velux",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     },
     {
       "id": "swe",
@@ -39,10 +39,24 @@
     0,
     1,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d94c79acc3ef5182096de88a3a186fea2f5fb678",
+      "title": "Junior Data Engineer: Build Pipelines & Data Models",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__35915973__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "0cfec7d087dce312f50227e6ba4dcff3de7945a7",
+      "title": "Junior Data Engineer - Hybrid, Build Data Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36826748__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "ccd91709f25fe46ee6d0eabfe0bb0be97419d2c6",
       "title": "Hybrid Junior Data Engineer – Build Data Pipelines",

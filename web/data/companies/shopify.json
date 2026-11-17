@@ -2,13 +2,21 @@
   "slug": "shopify",
   "name": "Shopify",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
+      "hub": "Toronto",
+      "count": 2
+    },
+    {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "New York",
       "count": 1
     }
   ],
@@ -16,6 +24,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +43,31 @@
     1,
     0,
     0,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9e2a96137067958d907fdd5a2d24e67b8d305b24",
+      "title": "Applied Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ae",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "cccf98d79bbb2b6ba6a29e5a56f188dcffece9e5",
+      "title": "Data Intern",
+      "url": "https://go.vansh.nyc/1Ad",
+      "location": "Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "3a7358a2ec39273cea2ddf6e214734900351bcdd",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ac",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "2350e8ea242e8e24dbe6d009187f6e2c6f1840db",
       "title": "Software Engineering Intern",

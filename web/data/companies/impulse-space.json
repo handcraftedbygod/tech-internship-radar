@@ -2,20 +2,25 @@
   "slug": "impulse-space",
   "name": "Impulse Space",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c6244fcaaaf8395d2bfdf0a6e0479a0bb5f1bf8",
+      "title": "Digital Design Engineering Intern, FPGA/ASIC",
+      "url": "https://go.vansh.nyc/1Ay",
+      "location": "Redondo Beach, CA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "717134a57671a53864b7c315212e07328745e764",
       "title": "Enterprise Software Engineer Intern",

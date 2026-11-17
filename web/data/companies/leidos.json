@@ -2,21 +2,21 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 31
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     10,
     1,
     10,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "256b2f20a4783140cc62df7e19a888f84e1f7287",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1AO",
+      "location": "Fort Belvoir, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "061e3fda7df6fd0f062ae90e01ca31d9a8fbd3ef",
       "title": "Software Engineer",
@@ -106,13 +113,6 @@
       "url": "https://go.vansh.nyc/1bc",
       "location": "Arlington, VA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "a6bd252343f5379861525557d7d7891b43b81b5c",
-      "title": "Software Developer Intern",
-      "url": "https://www.themuse.com/jobs/leidos/software-developer-intern-be0b6c",
-      "location": "Annapolis Junction, MD",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

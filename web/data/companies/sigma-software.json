@@ -2,11 +2,15 @@
   "slug": "sigma-software",
   "name": "Sigma Software",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Warsaw",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3dc23e91806d3beddfe412c5f6d3c414745041b2",
+      "title": "DevOps Engineer Intern",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34450943__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "b62d4f5ebfbe57e646db1a76f88149bf58d0e966",
+      "title": "DevOps Engineer Intern: Build, Deploy & Automate",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34455378__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "3b77606b4e682e59826faeae4702cafc74be9dfe",
       "title": "DevOps Engineer Intern",

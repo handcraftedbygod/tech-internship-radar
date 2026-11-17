@@ -2,14 +2,14 @@
   "slug": "addepar",
   "name": "Addepar",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -26,6 +26,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,17 @@
     0,
     0,
     0,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3711200a2d2a349c0e8e636b36d31c38a643613e",
+      "title": "Technical Product Management Intern, ADX",
+      "url": "https://go.vansh.nyc/1A9",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "aa7fd8ac7603823c95c156ef093ea21736798486",
       "title": "Product Analyst Intern, Navigator",

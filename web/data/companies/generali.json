@@ -1,0 +1,52 @@
+{
+  "slug": "generali",
+  "name": "Generali",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5c382a1c0761f63d3b2da1f6f10b0f0b6e206d87",
+      "title": "STAGIAIRE DATA ENGINEER",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164260974__7079?utm_campaign=publisher&utm_medium=api&geoID=6011&utm_source=freehire.me",
+      "location": "Saint Denis, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "a7dee31a7443bcb564cbed484ed8055db2cffebe",
+      "title": "Stagiaire Data Engineer IA & DataOps en Assurance",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164260864__7079?utm_campaign=publisher&utm_medium=api&geoID=6011&utm_source=freehire.me",
+      "location": "Saint Denis, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

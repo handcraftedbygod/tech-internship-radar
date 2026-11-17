@@ -2,9 +2,9 @@
   "slug": "amd",
   "name": "AMD",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -29,7 +29,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     4,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95b102debc004299c275c3eadd273bfb46febfc1",
+      "title": "Silicon Design Engineer",
+      "url": "https://go.vansh.nyc/1AU",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "555067324b8a12fc0a7f52d3a298469269d9c101",
       "title": "Senior Systems Design Engineer Intern",

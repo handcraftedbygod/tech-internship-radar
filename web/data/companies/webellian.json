@@ -2,13 +2,17 @@
   "slug": "webellian",
   "name": "webellian",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Warsaw",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2d3fe487c294045ef1f7caaa44ea11428a9de22",
+      "title": "Junior Data Engineer: Databricks, dbt & Azure",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36213755__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "2cff589f6504d438ece910bfcb777dec574a3dfe",
       "title": "Data Engineer (DBX, dbt), Junior",

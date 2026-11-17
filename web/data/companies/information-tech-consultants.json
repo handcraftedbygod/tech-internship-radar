@@ -2,9 +2,9 @@
   "slug": "information-tech-consultants",
   "name": "Information Tech Consultants",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 13,
+  "totalPostings": 16,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     4,
     4,
     3,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b8a864d45d50da35e524673e8247e5226300f800",
+      "title": "Junior Data Engineer: Build Scalable Pipelines & Analytics",
+      "url": "https://www.jobleads.com/gb/job/junior-data-engineer-build-scalable-pipelines-analytics--united-kingdom--ebfd2294a038888bceddf356184d898a0?utm_source=freehire.me",
+      "location": ",",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "21829a6025fe03f796eac79e719c071ac4995a80",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630927021__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "6398f48c979927b54394f661b7347af55712632e",
+      "title": "Junior Data Engineer: Build Scalable Pipelines & Analytics",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630960981__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "6a08ca524a3c91ce67d2cd13df8abc9d5cb728ca",
       "title": "Junior Data Engineer",
@@ -91,27 +112,6 @@
       "url": "https://uk.whatjobs.com/pub_api__cpl__541847869__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "London, United Kingdom",
       "firstSeenAt": "2026-09-23T09:07:11.548Z"
-    },
-    {
-      "id": "7fd83f3a0463bb7691267ccab8dfd7ea76bfe123",
-      "title": "Junior Data Analyst",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__538913806__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "United Kingdom",
-      "firstSeenAt": "2026-09-20T09:06:52.490Z"
-    },
-    {
-      "id": "dc40e294c19474fb6b54bedda951f8f2d8e81e50",
-      "title": "Junior Data Engineer: Python, SQL & ML Dashboards",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__534868999__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "946fd795faa4d264ba5376309e0dc82c690f8b3f",
-      "title": "Junior Java Developer – Backend & Microservices (Onsite London)",
-      "url": "https://uk.whatjobs.com/pub_api__cpl__519657817__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "London, United Kingdom",
-      "firstSeenAt": "2026-08-29T10:49:33.976Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "sapitbusinesssysteme",
   "name": "SAPITBusinessSysteme",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-09T12:33:55.591Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f150fd969ebc16acaa0dfec58a93559cd2e94076",
+      "title": "Werkstudent (w/m/d) - Cloud Developer for SAP Document AI",
+      "url": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161845039-werkstudent-w-m-d-cloud-developer-for-sap-document-ai?utm_source=freehire.me",
+      "location": "Walldorf, BW, de",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "eb42eabef8a03003b9132c9a73152de9d2514297",
       "title": "Working Student (f/m/d) - Cloud Developer for SAP Document AI",

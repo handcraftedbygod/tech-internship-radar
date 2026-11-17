@@ -2,21 +2,21 @@
   "slug": "telemedi",
   "name": "Telemedi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab8fd57203a7a2cecd7599219ee213f1732cb7b5",
+      "title": "Junior Agentic Full-Stack Developer - Hybrid (Warsaw)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36239865__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "5eaac71fc68409a77931e6a47099a5e8f18b0ebf",
       "title": "Junior Fullstack Developer 2.0 (PHP + React + Cursor/Windsurf)",

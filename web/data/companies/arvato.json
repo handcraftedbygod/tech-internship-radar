@@ -2,26 +2,26 @@
   "slug": "arvato",
   "name": "Arvato",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 15,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c2085a9741077147392240c46371125fb1190d2",
+      "title": "(Junior) Data Analyst (m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-984189384-S?utm_source=freehire.me",
+      "location": "Harsewinkel, NORDRHEIN_WESTFALEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "16475c9a17e32647608c5538700e9388d5251762",
+      "title": "Werkstudent Data Analytics & AI (m/w/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13660-983987389-S",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "7cc54077958bb64df56e311b37d76de27036ab11",
       "title": "(Junior) Data Analyst (m/w/x) (Data-Analyst/in)",

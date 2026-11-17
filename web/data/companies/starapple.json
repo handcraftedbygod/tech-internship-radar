@@ -2,21 +2,21 @@
   "slug": "starapple",
   "name": "Starapple",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     2,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c89cb26889ef4b541bc2c63abecc147bfcb98b7",
+      "title": "Junior Software Engineer (C#)",
+      "url": "https://www.linkedin.com/jobs/view/4490325015/?utm_source=freehire.me",
+      "location": "Breda, North Brabant, Netherlands",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "d34f99be1d65c2b16a1a2638d3e542f983ab3dd6",
+      "title": "Junior .NET Developer",
+      "url": "https://www.linkedin.com/jobs/view/4489493036/?utm_source=freehire.me",
+      "location": "Leiden, South Holland, Netherlands",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "186550f8dcbbbc14878b8786978a8df129fbf681",
       "title": "Junior software developer",

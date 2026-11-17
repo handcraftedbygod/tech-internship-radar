@@ -1,0 +1,52 @@
+{
+  "slug": "barcelona-activa",
+  "name": "Barcelona Activa",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Barcelona",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "4ef6db5e51561eb4a6eeb032ae859d9feff25154",
+      "title": "61358 - Junior Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370643577__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "d592ef173421398ec4eedf045250541af1febad9",
+      "title": "Junior Data Engineer: Python, AWS & SQL",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370624137__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

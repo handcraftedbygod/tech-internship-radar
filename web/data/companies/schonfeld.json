@@ -2,14 +2,14 @@
   "slug": "schonfeld",
   "name": "Schonfeld",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 16.2,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "London",
@@ -18,18 +18,23 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
       "id": "quant",
       "label": "Quant",
       "count": 1
     },
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -44,10 +49,24 @@
     0,
     1,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "626185790d7a84ee75c83a3b20666a7b90d1a77d",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1Aw",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "384244efbd2c61181f8f16f7947e9c976df1db24",
+      "title": "Cybersecurity Operations Intern",
+      "url": "https://go.vansh.nyc/1Aj",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "c52604f70a90ed23fd67f30f286902cf86af836e",
       "title": "Enterprise AI Intern",

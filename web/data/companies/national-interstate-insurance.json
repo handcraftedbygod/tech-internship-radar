@@ -2,14 +2,14 @@
   "slug": "national-interstate-insurance",
   "name": "National Interstate Insurance",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     10,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ae02d7307cbb183523b627c88312a67b9ab0837f",
+      "title": "Predictive Analytics Intern",
+      "url": "https://go.vansh.nyc/1AE",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "bc7704bced24a2b223d54c43c750512c5654bfda",
       "title": "Telematics / Predictive Analytics Intern",
@@ -104,13 +111,6 @@
       "id": "d7fced3c60dcf01b704be30a9b6d91e28c22987f",
       "title": "Claims Lab Developer Intern",
       "url": "https://go.vansh.nyc/Wm",
-      "location": "Cincinnati, OH",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "a0e83565b40d9475f33d537fd9d566aedfb3c5a1",
-      "title": "Data Application Development Intern",
-      "url": "https://go.vansh.nyc/Wj",
       "location": "Cincinnati, OH",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

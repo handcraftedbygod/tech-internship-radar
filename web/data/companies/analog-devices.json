@@ -2,14 +2,14 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Vancouver",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -43,10 +43,17 @@
     1,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c10cbbd0cc78b24c224c48fec65cfaeddf8681ee",
+      "title": "Software Engineering Intern, Medical Device & Healthcare Integration",
+      "url": "https://go.vansh.nyc/1AV",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "9fc2559fc7ce3d2a24182eb1d6b50957f0ccfae1",
       "title": "Field Robotics Systems Engineer",

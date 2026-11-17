@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 25
+      "count": 26
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "design",
@@ -52,10 +52,17 @@
     0,
     0,
     24,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea2850724d31c28a952a40f2778f238f9c4ace45",
+      "title": "DevOps Engineering Intern – Hybrid, CI/CD & Cloud Automation",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36272634__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "2bab98a2e0befdf6e73ab9855fdb458e0999240c",
       "title": "New Grad 2027: Junior CPU Verification Engineer",
@@ -118,13 +125,6 @@
       "url": "https://go.vansh.nyc/Zb",
       "location": "Hillsboro, OR",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "827ce52a41e0191204865e963ef6a02b5298e66e",
-      "title": "IP Design Verification Engineer",
-      "url": "https://go.vansh.nyc/To",
-      "location": "Santa Clara, CA, Worcester, MA",
-      "firstSeenAt": "2026-10-27T09:37:35.915Z"
     }
   ]
 }

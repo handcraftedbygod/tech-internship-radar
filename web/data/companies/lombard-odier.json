@@ -1,0 +1,52 @@
+{
+  "slug": "lombard-odier",
+  "name": "Lombard Odier",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0d25908152f9f4998fda9358a2d4512bb33bada1",
+      "title": "Internship - Data Engineer - Optimization of Data Delivery",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50805741__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "a74c98b38ab10d81acce76550186ea3d7a89df64",
+      "title": "Internship - Data Engineer - Accelerating Adoption of Microsoft Fabric",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50805726__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

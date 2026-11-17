@@ -2,14 +2,14 @@
   "slug": "hootsuite",
   "name": "Hootsuite",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 24.1,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 19.5,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Vancouver",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -52,10 +52,17 @@
     3,
     0,
     1,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "05357f03c99001f82d7f6eebba24c230249a2226",
+      "title": "Co-op/Intern, People Team & Operations - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8392381",
+      "location": "Vancouver, British Columbia; Toronto, Ontario; Calgary, Alberta; Ottawa, Ontario; Edmonton, Alberta",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "dde4dda4ae74f57401bee62af4c3732ad5e1c92f",
       "title": "Software Development Co-op",

@@ -1,0 +1,52 @@
+{
+  "slug": "toptracer",
+  "name": "Toptracer",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Stockholm",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "461e168a5f3cd0a061b2864f44c8cfae0ec6aa36",
+      "title": "Junior Software Engineer – Real-Time Broadcast Tech",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21983212__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "8c9d678a61c2ea2e3e34f7a82c3b61f874411b6d",
+      "title": "Hybrid Junior Software Engineer – Real-Time Golf Broadcast",
+      "url": "https://se.whatjobs.com/pub_api__cpl__21993405__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

@@ -2,21 +2,25 @@
   "slug": "servicenow",
   "name": "ServiceNow",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
       "count": 8
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -35,10 +39,17 @@
     0,
     0,
     4,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1a819ebffbd45e4baa710670db1af75d6e7571a",
+      "title": "Associate Forward Deployed Solution Engineer Intern",
+      "url": "https://go.vansh.nyc/1AC",
+      "location": "Santa Clara, CA, New York, NY",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "d9feaf00044add0aeb783d4390357a8736688300",
       "title": "Associate Detection Engineering Intern",

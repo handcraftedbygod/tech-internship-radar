@@ -1,22 +1,22 @@
 {
   "slug": "iliad-free",
-  "name": "iliad-free",
+  "name": "Iliad - Free",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed3fd2d6dcae05b7329288b0656b6bdb9c596ad7",
+      "title": "Data Engineer Intern — Networks & Data Platforms",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__161925103__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "4cbeffb433ba3b4b1870987cadb7a7d6bd0ffd27",
       "title": "Junior Data Scientist - DataN - Paris - H/F",

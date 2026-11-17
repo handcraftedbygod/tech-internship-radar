@@ -2,21 +2,21 @@
   "slug": "pretius",
   "name": "Pretius Ltd.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.5,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad5d354e8578a9d352dc49d65d56193437ed8766",
+      "title": "Junior Java Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36231872__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "12225049b3e94c7038f19dedb53a634e06c77e5e",
       "title": "Junior Java Developer",

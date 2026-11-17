@@ -2,21 +2,30 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 16.4,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 16.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
+    },
+    {
+      "hub": "Krakow",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,24 @@
     4,
     0,
     4,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "71ac48e463e0ad026f7ab760b64aaa48967331ea",
+      "title": "Data Analytics Engineering Trainee",
+      "url": "https://justjoin.it/job-offer/epam-systems-data-analytics-engineering-trainee-gdansk-analytics-1ea1fefd?utm_source=freehire.me",
+      "location": "Gdansk",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "c59173a6251c2cbefa04ea179cf60d5b45a5716f",
+      "title": "Hybrid Junior Java Developer for Global Data Center Platform",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36237753__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "311b079895e4fb94962ce3ff44386735d42cb99e",
       "title": "Junior Java Software Engineer",

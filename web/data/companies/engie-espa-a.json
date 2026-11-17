@@ -2,21 +2,21 @@
   "slug": "engie-espa-a",
   "name": "Engie España",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e29cd45e40aec7a2a3e4d7cdc20f17a4584fcd6d",
+      "title": "Cybersecurity Internship",
+      "url": "https://www.adzuna.es/land/ad/5963399040?se=guL54YTi8RG3MoMMYSzHyw&utm_medium=api&utm_source=9141e2e6&v=D7B0D41B4E4B1A077819A6E1C53185F856D7BF46",
+      "location": "Madrid",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "24c269e4fe2018adf93038b91418212a11cbc0ad",
       "title": "Cybersecurity Internship",

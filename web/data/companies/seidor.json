@@ -1,22 +1,30 @@
 {
   "slug": "seidor",
-  "name": "Seidor Group",
+  "name": "SEIDOR",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
+    },
+    {
+      "hub": "Barcelona",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +38,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4831f7b74f762897a22d6f6de40db0a8fbe12757",
+      "title": "Data Engineer Junior",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371155060__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "e5bd3c0bc97e15ce0483a9c2c5225705e76bdc77",
+      "title": "Remote Data Engineer Junior — Snowflake, AWS & SQL",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371249338__7107?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "aec6f3822d2a96336d38d1a8f6c0f34daf9dc883",
       "title": "Data Engineer Junior",

@@ -1,14 +1,18 @@
 {
   "slug": "nextory",
-  "name": "Nextory AB",
+  "name": "Nextory",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Stockholm",
       "count": 2
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     2,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d6800900b0309734c9432a113331d5d9ec8dea5",
+      "title": "Junior Data Engineer",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22021038__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "bd68ea08cde0b700800497cfb162084cda24ab45",
+      "title": "Junior Data Engineer: Build AI-Ready Data Pipelines",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22037857__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "6fcf978e75005294aec15c9864834e0b1def333c",
       "title": "Junior Data Engineer",

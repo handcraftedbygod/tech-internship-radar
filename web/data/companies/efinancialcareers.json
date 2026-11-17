@@ -2,14 +2,18 @@
   "slug": "efinancialcareers",
   "name": "eFinancialCareers",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "London",
       "count": 11
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -22,6 +26,11 @@
       "id": "quant",
       "label": "Quant",
       "count": 5
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +44,17 @@
     0,
     5,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "613746f929153168eb96cd677d082b37e0d3c6d3",
+      "title": "Business Developer Junior - Invivoo",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164913601__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "bd5898db620a665eba348c385bc22df55f878487",
       "title": "Junior Backend Data Platform & AI Engineer Investment Firm - eFinancialCareers",
@@ -101,13 +117,6 @@
       "url": "https://click.appcast.io/t/RSJtI4uuUO0pnOWZdRpXWJZmNpIDCwXWnrmrCI3PGKDUKJWzl-CuK7WT8VpHIP4_?utm_source=freehire.me",
       "location": "London",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "4f8383e718b8d70d2ba49554607aa95dab44df59",
-      "title": "Junior Backend Data Platform & AI Engineer  Investment Firm - eFinancialCareers",
-      "url": "https://click.appcast.io/t/xYsWYO6iTfhCcgJpeU3EPj3HwwL2ria5uF4LZpQzzbMClXMwZ6Sq0Sg-ceJOAYsu?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-09-22T09:03:32.137Z"
     }
   ]
 }

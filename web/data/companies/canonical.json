@@ -1,18 +1,27 @@
 {
   "slug": "canonical",
-  "name": "Canonical",
+  "name": "Canonical Ltd.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
+    {
+      "hub": "Barcelona",
+      "count": 2
+    },
     {
       "hub": "Dublin",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "swe",
       "label": "Software",
@@ -30,10 +39,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e753c564d87305db2bd054e0357e8c9b607cb0c",
+      "title": "Junior Data Engineer - Spain",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370671548__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "2dc2140f3bb94079195c983a388087526f924708",
+      "title": "Remote Junior Data Engineer - Marketing Analytics",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370656310__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "9f8643dced747372d421388865f84463f4ee8baa",
       "title": "Junior Python Software Engineer, Ubuntu Pro (Remote)",

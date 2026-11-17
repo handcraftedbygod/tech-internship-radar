@@ -2,20 +2,25 @@
   "slug": "integration-innovation-i3",
   "name": "Integration Innovation (i3)",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "184ec45e59e464356ee412edffa50ee578c94c72",
+      "title": "Embedded Systems Reverse Engineer Intern",
+      "url": "https://go.vansh.nyc/1AB",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "95eecc6cbf5e69153a592b8d05105db2537032bd",
       "title": "Data Management Intern",

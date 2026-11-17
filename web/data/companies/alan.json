@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 14,
-  "avgPostingDurationDays": 12.5,
+  "totalPostings": 15,
+  "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Paris",
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -39,10 +39,17 @@
     1,
     4,
     6,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7696278e51aeb47a3bfda07dea1411249152b86d",
+      "title": "Junior Compliance Counsel",
+      "url": "https://jobs.ashbyhq.com/alan/efb01814-764c-4207-b43a-c983956c96eb",
+      "location": "Anywhere in France, Belgium, Spain",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "92bd6c43e8a13af483cc8ff6b8792120bd1a34ab",
       "title": "Sales Graduate Program 🇫🇷 ",
@@ -105,13 +112,6 @@
       "url": "https://jobs.ashbyhq.com/alan/41224533-6e1c-45a5-9c18-7b1c3104c92d",
       "location": "Anywhere in France",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "b638591bbe62ca9964753d0f9c7e46492d2bafc7",
-      "title": "General Secretary Associate intern",
-      "url": "https://jobs.ashbyhq.com/alan/142ad7db-6962-43d9-90f7-b69f0b66261f",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

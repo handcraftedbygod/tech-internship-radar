@@ -2,13 +2,17 @@
   "slug": "clera",
   "name": "Clera",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "New York",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83dbccbeba88d75cbd3bec1cfb7526d42771ff78",
+      "title": "Full-Stack Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1AN",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "ca7ef2578e0b583cdd02068722c88830a5e2debc",
       "title": "Computer Vision & Robotics Intern",

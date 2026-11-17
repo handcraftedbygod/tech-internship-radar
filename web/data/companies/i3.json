@@ -2,14 +2,14 @@
   "slug": "i3",
   "name": "i3",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f03b3adf4706f8439878bd4e1efb3cb64cd6398f",
+      "title": "Embedded Systems Reverse Engineer Intern",
+      "url": "https://go.vansh.nyc/1Af",
+      "location": "Washington, DC",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "aeddd12a755ecf72a8a22748d9ad704fede8287b",
       "title": "Data Management Intern",

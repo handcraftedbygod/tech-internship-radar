@@ -1,0 +1,59 @@
+{
+  "slug": "sedaro",
+  "name": "Sedaro",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "477d5d1d7c1f500b35378f32d7cc5268315d28c6",
+      "title": "DevOps Intern",
+      "url": "https://go.vansh.nyc/1Be",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "1f909274829c23975eb8b04bcc5c98ae96351324",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Bb",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "06011bd867c58a385eb50f634373e4998f4cbcf7",
+      "title": "Compiler Intern, Simulator",
+      "url": "https://go.vansh.nyc/1Ba",
+      "location": "Arlington, VA",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "fiserv",
+  "name": "Fiserv",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-17T12:49:11.259Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "45d2f44a0d8a5b999bdc739fbb7419bf5029f464",
+      "title": "Technology Intern, Cybersecurity",
+      "url": "https://go.vansh.nyc/1AT",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "c642a9356a7b1594b92bd0c4f5a3719728ddff70",
+      "title": "Technology Intern, Cybersecurity",
+      "url": "https://go.vansh.nyc/1AS",
+      "location": "Berkeley Heights, NJ",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    }
+  ]
+}

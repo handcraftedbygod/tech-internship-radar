@@ -2,14 +2,14 @@
   "slug": "avanade",
   "name": "Avanade",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Stockholm",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c0d7f345ab122317e44ba6d0a0825793178cacc2",
+      "title": "Junior Data Engineer: Build Data Platforms with Fabric & Azure",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22003643__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "6583b0d0b096447e454f2fe0c173cf8741f576aa",
       "title": "Stagiaire en Développement Logiciel Fullstack",

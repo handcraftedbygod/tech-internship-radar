@@ -2,21 +2,21 @@
   "slug": "fever-up",
   "name": "Fever Up",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 24.2,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "468c3b8a87d75304a4c86d3456204f2d697fa204",
+      "title": "Junior People Operations Data Analyst ",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/5037097101?utm_source=freehire.me",
+      "location": "Madrid",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "c176e1855841c041173853c564f9e9f4e3f25ca3",
       "title": "Junior People Operations Data Analyst ",

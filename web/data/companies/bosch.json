@@ -2,14 +2,14 @@
   "slug": "bosch",
   "name": "Bosch Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 38,
+  "totalPostings": 40,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 32
     },
     {
       "hub": "Reutlingen",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 16
+      "count": 18
     },
     {
       "id": "hw",
@@ -56,10 +56,24 @@
     18,
     5,
     13,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7eac71952cfd9e9e32ddda8fde6ee88e90f9c522",
+      "title": "Extracurricular Internship - DevOps & GenAI Engineer for Quality (f/m/div.)",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16908802__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
+    {
+      "id": "0ca190af9b154663a1191cb1f53ac514999f59f9",
+      "title": "Werkstudent Data Analytics & Business Intelligence (w/m/div.)",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162039594-werkstudent-data-analytics-business-intelligence-w-m-div-?utm_source=freehire.me",
+      "location": "Gunzenhausen, BY, de",
+      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+    },
     {
       "id": "9b0fea3f2937e7fe1cba9f286c9b58dbe8743ddd",
       "title": "Werkstudent Data Engineering & Backend (w/m/div.)",
@@ -115,20 +129,6 @@
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
       "location": "Farmington Hills, MI",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "3f1985b3516f015fd39fc371b4ac0a48a7245ec1",
-      "title": "Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-?utm_source=freehire.me",
-      "location": "Ovar, pt",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "321f446a76f9a35800c495a2f3fd604076f17434",
-      "title": "AI Research Intern, Wireless Foundation Models",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
-      "location": "Pittsburgh, PA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }
