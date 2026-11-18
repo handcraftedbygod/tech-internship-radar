@@ -2,13 +2,17 @@
   "slug": "verisure",
   "name": "Verisure",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-28T15:57:00.356Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "962fa13d62c88d4a6b4559441181fd35113369b3",
+      "title": "Group Legal IT Intern (Software & AI Developer)",
+      "url": "https://www.linkedin.com/jobs/view/4489388382/?utm_source=freehire.me",
+      "location": "Pozuelo de Alarcón, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "3b0178ec3b779a4bd47b0bc5a360fc34e286aa2d",
       "title": "Junior Embedded Software Engineer",

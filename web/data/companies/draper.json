@@ -2,25 +2,25 @@
   "slug": "draper",
   "name": "Draper",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
-      "id": "hw",
-      "label": "Hardware",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     },
     {
@@ -40,10 +40,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2d1f541047ae8293148c33ae408aae95064ee5c0",
+      "title": "Software Engineering & DevOps Intern",
+      "url": "https://go.vansh.nyc/1BD",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "750ac5a01e2b37dbcaf15f92f73d04a1aef61ef3",
       "title": "Operations Engineering Intern",

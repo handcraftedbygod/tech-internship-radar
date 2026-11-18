@@ -2,25 +2,29 @@
   "slug": "primeit",
   "name": "PrimeIT",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Madrid",
       "count": 3
+    },
+    {
+      "hub": "Lisbon",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
@@ -44,10 +48,24 @@
     1,
     0,
     4,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74ea584aaf0ebf23249cf4d0b3a6131a01923f51",
+      "title": "Junior Python Fullstack Developer",
+      "url": "https://www.linkedin.com/jobs/view/4487803171/?utm_source=freehire.me",
+      "location": "Porto, Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "f2a9975c5b9fcbc6af62f4b2dd43da1aad2ff852",
+      "title": "Junior Fullstack Developer",
+      "url": "https://www.linkedin.com/jobs/view/4486270043/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "ee0a664c626e133cd1bd63cd248dae2d6a903126",
       "title": "Data Engineer Junior",

@@ -2,20 +2,25 @@
   "slug": "lumentum",
   "name": "Lumentum",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e754340e6e8eb8ca9bd038d9adcf795d02b743e1",
+      "title": "SW Developer Support Intern, Program Management Office",
+      "url": "https://go.vansh.nyc/1BA",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "5a5f7cecedbe6ce248203c08c525599cf33e9197",
       "title": "Data Science & Analytics Intern",

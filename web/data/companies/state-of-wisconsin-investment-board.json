@@ -2,20 +2,25 @@
   "slug": "state-of-wisconsin-investment-board",
   "name": "State of Wisconsin Investment Board",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0a7207756d58b3240ab38543be44c7bcd71d70f7",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1C9",
+      "location": "Madison, WI",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "30333ba73a16d935ac7c498fca228d5bc3765600",
       "title": "Data Analytics Engineering Intern",

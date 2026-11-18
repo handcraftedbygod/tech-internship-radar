@@ -2,18 +2,18 @@
   "slug": "academic-work-finland",
   "name": "Academic Work Finland Oy",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Helsinki",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,24 @@
     0,
     1,
     5,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6f2ad1935810257244669989242f2d8675da502e",
+      "title": "Junior Power Platform & AI Developer",
+      "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/c397fef3-bdf7-42e9-a45b-f7294f528c88/fi?utm_source=freehire.me",
+      "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "bc677faccb39abc3c3f9c2a4801cd9f16627c361",
+      "title": "Junior Power Platform & AI Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/YzM5N2ZlZjMtYmRmNy00MmU5LWE0NWItZjcyOTRmNTI4Yzg4IDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "1f8484022c0a0b71a48d5767ce85c2f36d8578b1",
       "title": "Junior Software Test Engineer, Vaisala, Vantaa",
@@ -98,13 +112,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/MzVkZDRiOWYtMTMzZi00ZTA3LWE4NzQtMTZhZDI3ZmRiMjc5IDgx?lang=en",
       "location": "Finland",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "0ab4fe757fd4462eebb0c680f2e72edecb64c302",
-      "title": "Junior Data & Software Specialist, Espoo",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZjZiM2IwZGQtNTcyYi00N2E5LThjNjMtYmZmNjgyNTM1OGQ2IDgx?lang=en",
-      "location": "Finland",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]
 }

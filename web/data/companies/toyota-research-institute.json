@@ -2,21 +2,21 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9bb8eeb94a32b6e800bcf7572b26d6ea39f6d0d8",
+      "title": "Robotics Intern, Agentic Robotics",
+      "url": "https://go.vansh.nyc/1Bk",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "5f1c62e505d76f48d02a5f591893df94e497c09e",
       "title": "Robotics Intern, World Models, Multimodal Sensing",

@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 52,
+  "totalPostings": 53,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 30
+      "count": 31
     },
     {
       "hub": "Krakow",
@@ -47,7 +47,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6ed1f9aef685f504810211530af90299fc86ea45",
+      "title": "Technical Product Management Specialist I (Master's)",
+      "url": "https://go.vansh.nyc/1C5",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "06e0a38c85b86dbc63a992cc220639cc4076f7cf",
       "title": "Software Engineer Compiler I",
@@ -132,13 +139,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--Metadata-Catalog---Splunk_2027777?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "a26a12e5f9b47ec1fbdeabce185852b575cfab71",
-      "title": "Software Engineer Full Stack / Backend I",
-      "url": "https://go.vansh.nyc/1hr",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }

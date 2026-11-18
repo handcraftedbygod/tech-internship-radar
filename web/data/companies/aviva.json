@@ -2,21 +2,25 @@
   "slug": "aviva",
   "name": "Aviva",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Warsaw",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +39,17 @@
     1,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3915f56bd65e49d016a383dfa8f79525c4f6b67a",
+      "title": "Hybrid Junior DevOps Engineer – AWS & CI/CD",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37038030__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "feea4a662c2425035c7a74c13ba177d40fd3ffe5",
       "title": "Junior DevOps Engineer",

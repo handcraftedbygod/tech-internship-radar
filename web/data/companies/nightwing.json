@@ -2,21 +2,21 @@
   "slug": "nightwing",
   "name": "Nightwing",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f58628f267bc2ce7f7583ecafacc0bcb3478514",
+      "title": "Vulnerability Researcher Intern",
+      "url": "https://go.vansh.nyc/1C8",
+      "location": "Palm Bay, FL",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "e14c8ac8570b5810ffd5421b89863356afa63bbf",
       "title": "Software Developer I, System Security",

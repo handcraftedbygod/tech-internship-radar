@@ -2,11 +2,15 @@
   "slug": "london-south-bank-university",
   "name": "London South Bank University",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-16T12:28:17.000Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d4d8ebd1883eec4f9fdc5eeb70059506bf379c2",
+      "title": "Junior DevOps & Integration Engineer – Flexible Working",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631836743__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "7c2aa15b3c0f42da56ae18b2439d38a156920835",
+      "title": "Junior Developer (Dev Ops)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631836707__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "5f490f2f161831af4c82e1c993731d4f5c10ada5",
       "title": "Junior Developer (Dev Ops)",

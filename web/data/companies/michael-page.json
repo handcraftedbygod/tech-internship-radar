@@ -2,14 +2,14 @@
   "slug": "michael-page",
   "name": "Michael Page GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     6,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "364fe06faea3b8a303521219287d665c0705aba1",
+      "title": "Junior Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5969400337?se=1j4PdBjj8RG6PO8lVubONg&utm_medium=api&v=5C2E281FF2CCDE03EC41248D324C545D3DA16D8F&utm_source=freehire.me",
+      "location": "Wytham, Oxford",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "88f4d9abe36a1f8ca8167f3b7f57ae9e5c1e7c1c",
       "title": " (Junior) Controller / Financial Data Analyst (m/w/d) (Finanzwirt/in)",

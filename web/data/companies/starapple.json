@@ -2,21 +2,25 @@
   "slug": "starapple",
   "name": "Starapple",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
       "count": 5
+    },
+    {
+      "hub": "Amsterdam",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     2,
     1,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbefc4321fd79b0611456fb37ca2d26227daa66d",
+      "title": "Junior software developer",
+      "url": "https://www.linkedin.com/jobs/view/4489478691/?utm_source=freehire.me",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "2c89cb26889ef4b541bc2c63abecc147bfcb98b7",
       "title": "Junior Software Engineer (C#)",

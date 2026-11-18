@@ -2,14 +2,18 @@
   "slug": "logitech",
   "name": "Logitech",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Krakow",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     0,
     3,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4031781ec12ecd81aca4af2e358406b93ca6bca",
+      "title": "Global Impact Data Science Intern (Hybrid)",
+      "url": "https://www.jobleads.com/ie/job/global-impact-data-science-intern-hybrid--cork--ee63199462c36ebf806c547c20cc7e708?utm_source=freehire.me",
+      "location": "Cork, County Cork",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "0c2dfbac5392c5209b020c0087266144a00b9f1f",
       "title": "Software QA Intern, Engineering (3-month contract)",

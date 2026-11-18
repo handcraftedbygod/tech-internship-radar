@@ -2,21 +2,21 @@
   "slug": "g-research",
   "name": "G-Research",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b71cfcc41902c5d3781d46eefe9e21c90a110358",
+      "title": "Software Engineering Internship",
+      "url": "https://www.gradcracker.com/hub/347/g-research/work-placement-internship/83830/software-engineering-internship?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "27ed497ac447184cf791666f3587f991d636bf14",
       "title": "Machine Learning Engineer Intern",

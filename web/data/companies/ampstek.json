@@ -2,21 +2,21 @@
   "slug": "ampstek",
   "name": "Ampstek",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67412e40f5bda4cd2e7fdf0f393defff2583db1d",
+      "title": "Junior DevOps Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4490696784/?utm_source=freehire.me",
+      "location": "Geneva, Switzerland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "50ea41be6ce13e58c1d429120a6d6fc9db7ad4ce",
+      "title": "Junior DevOps Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4491127667/?utm_source=freehire.me",
+      "location": "Geneva, Switzerland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "d0c769a372a3156c202f0de6db8fb069218219bd",
       "title": "Junior devops engineer",

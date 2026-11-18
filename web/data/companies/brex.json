@@ -2,13 +2,17 @@
   "slug": "brex",
   "name": "Brex",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7d0679471adeef7480eb3ca07fb17b7374fcd32f",
+      "title": "Remote Software Engineer Intern 2027 – Backend & Data",
+      "url": "https://es.whatjobs.com/pub_api__cpl__371511723__7107?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "0842a6177d3929f5bf7816eae6fff6cc22be2459",
       "title": "Software Engineer, Intern  (Summer 2027)",

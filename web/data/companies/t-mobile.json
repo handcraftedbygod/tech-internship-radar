@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 22,
+  "totalPostings": 23,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "New York",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "product",
@@ -49,10 +49,17 @@
     0,
     0,
     6,
-    16,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "558aef70860902ed591702bc4f2f841eb13cc351",
+      "title": "Software Engineering AI Intern",
+      "url": "https://go.vansh.nyc/1Bx",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "c50e3f975f087b888e24da08462ba9e34337ce61",
       "title": "Data Product Intern",
@@ -113,13 +120,6 @@
       "id": "dadbb3a5e82ca5cde898eb5bf7577e2703bc3eb2",
       "title": "Software Engineer Intern, HR Data Products",
       "url": "https://go.vansh.nyc/1kD",
-      "location": "Bellevue, WA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "0167396763819d907500ece71906797468887201",
-      "title": "AI Engineering Intern",
-      "url": "https://go.vansh.nyc/1kC",
       "location": "Bellevue, WA",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }

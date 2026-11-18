@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Zurich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     0,
     2,
     21,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9cf3ca4083fa778ed10fe615a19afe8cf196b7c",
+      "title": "Software Engineering Intern, File Previewing & Editing (Quick Look and Preview)",
+      "url": "https://jobs.apple.com/en-us/details/200695428/software-engineering-intern-file-previewing-editing-quick-look-and-preview?utm_source=freehire.me",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "eb4833d0b4656628ee6e51deb46adbedfd9731c8",
       "title": "Virtualization Software Engineering Internship, CoreOS",
@@ -122,13 +129,6 @@
       "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
       "location": "Aachen",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "33de78615c3e5bb7a45a78d75482c1acd3dd46e6",
-      "title": "Design Verification Engineer Intern",
-      "url": "https://go.vansh.nyc/Yx",
-      "location": "Beaverton, OR",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

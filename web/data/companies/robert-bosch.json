@@ -2,14 +2,14 @@
   "slug": "robert-bosch",
   "name": "Robert Bosch GmbH",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Warsaw",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     1,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73ebf7be4b0abc39c1fb7744259c723af2a3dac3",
+      "title": "AI Application Intern",
+      "url": "https://go.vansh.nyc/1Bg",
+      "location": "Farmington Hills, MI",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "02d2c6366f113879123d451755602c8c7a66cd7f",
       "title": "Werkstudent Data Analytics & Business Intelligence (w/m/div.)",

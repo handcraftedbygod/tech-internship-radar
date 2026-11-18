@@ -2,11 +2,15 @@
   "slug": "atoms",
   "name": "Atoms",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    },
     {
       "hub": "New York",
       "count": 1
@@ -22,14 +26,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 2
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,10 +47,24 @@
     1,
     0,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6f03ce21f8ba4ba6a93b2070e3126dda892a1789",
+      "title": "New Grad: AI Researcher",
+      "url": "https://go.vansh.nyc/1BW",
+      "location": "San Francisco, CA, Mountain View, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "35b0da1e6c8b71519e880210ccd1068c5c02e553",
+      "title": "New Grad: AI Researcher",
+      "url": "https://go.vansh.nyc/1BU",
+      "location": "San Francisco, CA, Mountain View, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "b76986d62ef29f76ebbe94870e1125ee0c363b5d",
       "title": "AI Research Intern",

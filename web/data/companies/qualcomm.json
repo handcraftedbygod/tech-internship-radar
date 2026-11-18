@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 36,
+  "totalPostings": 37,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 25
     },
     {
       "hub": "Vancouver",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "hw",
@@ -53,10 +53,17 @@
     0,
     0,
     28,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "864809e0aa45791f7b6a5a88f61f573c3328b162",
+      "title": "AI/Machine Learning Intern",
+      "url": "https://go.vansh.nyc/1Bt",
+      "location": "Markham, Canada",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "61b272d48dc63ec1d3a93f6aaed4dd010692c141",
       "title": "Firmware Engineering Intern",
@@ -117,13 +124,6 @@
       "id": "9e46679bdb554c19e60ffed068f5ae072ae227be",
       "title": "Camera HW ASIC Verification Intern",
       "url": "https://go.vansh.nyc/11z",
-      "location": "Vancouver, Canada",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "e1ca29521cfcc11564b06edf2ad87fdf133391ac",
-      "title": "Camera Systems Intern",
-      "url": "https://go.vansh.nyc/11v",
       "location": "Vancouver, Canada",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }

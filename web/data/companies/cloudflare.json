@@ -2,17 +2,17 @@
   "slug": "cloudflare",
   "name": "Cloudflare",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 19.1,
   "topLocations": [
     {
-      "hub": "Austin",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "Austin",
       "count": 2
     }
   ],
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     3,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6410f770af1849250806dff4ee0fe1907be69a1d",
+      "title": "AI & Automation Intern, Communications",
+      "url": "https://go.vansh.nyc/1By",
+      "location": "Office, IN",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "d8a4c440d304c78cc678b42d5fe2ee15b2a08f78",
       "title": "Software Engineer Intern (2027) - London, UK",

@@ -2,14 +2,14 @@
   "slug": "bookingcom",
   "name": "Booking.com",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 19.3,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Other",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 3
     },
     {
@@ -44,10 +44,17 @@
     0,
     2,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "540156f993d192cf4125a04e7d91a1e4f62675e4",
+      "title": "Junior Financial Analyst",
+      "url": "https://external-workingatbooking.icims.com/jobs/30744/login",
+      "location": "Amsterdam, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "ed9b21ad34921e9af8c8512307164621b1bb2112",
       "title": "Junior Customer Strategy Manager, FinTech",

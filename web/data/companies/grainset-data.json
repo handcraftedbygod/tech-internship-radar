@@ -2,25 +2,29 @@
   "slug": "grainset-data",
   "name": "Grainset Data",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
       "count": 2
+    },
+    {
+      "hub": "Berlin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +39,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "271c8ec3e17b4f634d9f35dac6916e5934496060",
+      "title": "Junior SQL Developer",
+      "url": "https://www.adzuna.de/details/5969810232?utm_medium=api&utm_source=freehire.me",
+      "location": "Mitte, Berlin",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "9da840a375cc909f4a89525bd56e4ee27e4115bd",
       "title": "Junior Data Platform Engineer",

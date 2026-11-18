@@ -2,21 +2,21 @@
   "slug": "a-w-allg-uer-berlandwerk",
   "name": "AÜW - Allgäuer Überlandwerk GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c5afbe371bfa99a3cd71fb20e50d9f31dcf3b5d",
+      "title": "Werkstudent - Energiehandel & Data Science (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5969417174?se=tu33dBjj8RG6ZPLp0AWy5Q&utm_medium=api&v=01402A6E5176EF10DDC04A81C8B61F9C6FF2AC10&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "7a42cd28d6d346bc703a31264dd3dc580d9f92b5",
       "title": "Werkstudent – Energiehandel & Data Science (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "objectway",
   "name": "Objectway",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68f2b3b0d6f563f77300b0232b3b7828defbd6e0",
+      "title": "Junior Softwareentwickler Backend / Cobol Settlement Dev & Delivery (m/w/d)",
+      "url": "https://www.linkedin.com/jobs/view/4439825944/?utm_source=freehire.me",
+      "location": "Ebersberg, Bavaria, Germany",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "969340e4a0f0aa7f1711e2179aaa9ed8f416d036",
       "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",

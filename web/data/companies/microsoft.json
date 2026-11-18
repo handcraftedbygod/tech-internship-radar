@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 11.3,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Dublin",
@@ -31,6 +31,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     1,
     0,
     10,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3d3bb5321a073b1e00ba87a35323c3a840ecfa67",
+      "title": "Research Intern, Firmware Security",
+      "url": "https://go.vansh.nyc/1BR",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "f577546045bc86fb2ba238ef47607440dbc72da6",
       "title": "Applied Sciences",
@@ -110,13 +122,6 @@
       "url": "https://go.vansh.nyc/Z4",
       "location": "Redmond, WA",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "5f739c3d4188b0be5f3ac0e28d81fd00e99f4e94",
-      "title": "Product Manager Intern",
-      "url": "https://go.vansh.nyc/hO",
-      "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

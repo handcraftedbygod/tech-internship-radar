@@ -2,14 +2,14 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Stuttgart",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     1,
     1,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4654172bf4055be683bc39b3a26585c4f5bc2fb6",
+      "title": "Junior C# Software Engineer | High-Tech / Semiconductor",
+      "url": "https://www.linkedin.com/jobs/view/4488133284/?utm_source=freehire.me",
+      "location": "Capelle aan den IJssel, South Holland, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "b41a6d7baf6560af828d1f83ad083f38a11ac5d4",
       "title": "Junior Software Entwickler C/C++ (all gender)",

@@ -4,15 +4,15 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 9.6,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
-      "hub": "San Francisco",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "San Francisco",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e83909463406b7f9469f5fc2f505ec8e644af31a",
+      "title": "Engineer 1 - Verification",
+      "url": "https://go.vansh.nyc/1BS",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "b0e9e6df719f391e89bbd10bfa49660fec072f12",
       "title": "Engineer 1 - Design",

@@ -2,14 +2,14 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Bremen",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -43,10 +43,17 @@
     4,
     2,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e2fceedc43e84b647283a4305beb232b81f3b44",
+      "title": "Werkstudent Data Analyst (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-634482-7878-2327-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "f0c4dd98554b42062cefd54133c3ddcf60cf761a",
       "title": "Werkstudent Safety, Quality, Cybersecurity Management (m/w/d)",

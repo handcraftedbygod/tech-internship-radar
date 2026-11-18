@@ -1,18 +1,18 @@
 {
   "slug": "skynopy",
-  "name": "Skynopy",
+  "name": "SKYNOPY",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Paris",
+      "count": 2
     },
     {
-      "hub": "Paris",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39eff76059b2fc9568f7b997c76eee074dbf2b41",
+      "title": "Junior Business Developer",
+      "url": "https://ats.welcometothejungle.com/board/skynopy-JMayhZ/job/cb8f48d9-1481-491e-9eb1-f3cb590fd6e2/apply?referrer=wttj&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "8aa4e847ae143f9e6f6c7dbc8482da3e82df213f",
       "title": "Software Engineer Internship",

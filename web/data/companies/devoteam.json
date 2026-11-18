@@ -2,9 +2,9 @@
   "slug": "devoteam",
   "name": "Devoteam",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 2
     },
     {
-      "hub": "Lisbon",
-      "count": 1
+      "hub": "Frankfurt",
+      "count": 2
     },
     {
-      "hub": "Frankfurt",
+      "hub": "Lisbon",
       "count": 1
     },
     {
@@ -37,7 +37,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,17 @@
     6,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "13bf18d7d54693a471381af031453a672c7996f9",
+      "title": "(Junior) Software Developer – Compilerbau & TTCN-3 (m/w/d)",
+      "url": "https://www.linkedin.com/jobs/view/4488367305/?utm_source=freehire.me",
+      "location": "Frankfurt, Hesse, Germany",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "c32842e6bef02b23db381eb89986ef4e2d907077",
       "title": "Junior Data Engineer — Data & AI Factory (Shift-Based)",

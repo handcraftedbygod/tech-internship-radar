@@ -2,9 +2,9 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 35,
+  "currentOpenings": 36,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 96,
+  "totalPostings": 97,
   "avgPostingDurationDays": 24.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 73
+      "count": 74
     },
     {
       "id": "biz",
@@ -57,10 +57,17 @@
     33,
     26,
     25,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "950865878bb2eadc17061bf82aa68005f782f862",
+      "title": "Category Management Intern",
+      "url": "https://careers.glovoapp.com/job/category-management-intern-in-madrid-spain-jid-744000162275639/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "56a38402651a25cb9ffa5c8848333bea801807f8",
       "title": "Category Management Intern Groceries Spain",
@@ -123,13 +130,6 @@
       "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "2475d907fdbf110237aa2aedd4a13b464d7113b4",
-      "title": "Junior Financial Data Analyst",
-      "url": "https://careers.glovoapp.com/job/junior-financial-data-analyst-in-barcelona-spain-jid-744000159442150/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]
 }

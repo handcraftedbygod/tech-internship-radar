@@ -2,14 +2,14 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 33,
-  "avgPostingDurationDays": 10.2,
+  "totalPostings": 36,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 26
     },
     {
       "hub": "San Francisco",
@@ -24,12 +24,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 18
+      "count": 20
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,31 @@
     2,
     2,
     18,
-    11,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7355daf1c74d1b8716624dc05c00cf685fa58a43",
+      "title": "Artificial Intelligence | Data Science Internship: AI process optimization",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Artificial-Intelligence---Data-Science-Internship--AI-process-optimization_J-00356822?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "e30a4537f3b88e7af9876f1248d9fc4851934cb6",
+      "title": "Data Science | Physics internship: diagnostic analytics automation",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Physics-internship--diagnostic-analytics-automation_J-00355887?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "76c1cd30437e02e84ffc9451de6ce64c19f47032",
+      "title": "Computer Science | Software Engineering internship: productivity reporting automation",
+      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Software-Engineering-internship--productivity-reporting-automation_J-00356532?utm_source=freehire.me",
+      "location": "Veldhoven, Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "66c71abd2b1e99ddeca15a7813c217de3ff23029",
       "title": "EUV Data Science and Analytics Intern",
@@ -95,27 +116,6 @@
       "url": "https://www.themuse.com/jobs/asml/internship-application-software-qa-engineer",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "dae2523cb97487047126c9360b2f5f912c39517d",
-      "title": "Business Analytics | Data Science internship: AI-driven operations",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Business-Analytics---Data-Science-internship--AI-driven-operations_J-00356683?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "11affb4eaf3259ee99d6833d623f3bb73544e1ba",
-      "title": "Machine Learning and Image-Based EUV System Setup Intern",
-      "url": "https://go.vansh.nyc/1h9",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "7a5d4fd4935bbe4f8a37811a3a7346938d816a38",
-      "title": "Business Intelligence | Data Analytics internship: cost insights dashboard",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Business-Intelligence---Data-Analytics-internship--cost-insights-dashboard_J-00356242?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]
 }

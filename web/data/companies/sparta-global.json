@@ -1,12 +1,16 @@
 {
   "slug": "sparta-global",
-  "name": "Sparta Global Limited",
+  "name": "Sparta Global",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "London",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ed3fce619aadbaf2dd21996027f0b49db47a8c1",
+      "title": "Junior Data Analyst (Gen AI)",
+      "url": "https://www.linkedin.com/jobs/view/4484638255/?utm_source=freehire.me",
+      "location": "Cracow Metropolitan Area",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "eb0d3acaf2918d05496996055a9337d4fb9e6787",
+      "title": "Junior Data Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4484660814/?utm_source=freehire.me",
+      "location": "Cracow, Małopolskie, Poland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "fae450aedc36f3f6e97639673ef6782a93689705",
       "title": "Junior DevOps Engineer",

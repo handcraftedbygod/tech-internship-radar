@@ -2,9 +2,9 @@
   "slug": "airbnb",
   "name": "Airbnb",
   "tier": "notable",
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 7,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
@@ -16,11 +16,20 @@
       "count": 2
     },
     {
+      "hub": "San Francisco",
+      "count": 2
+    },
+    {
       "hub": "Barcelona",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -29,11 +38,6 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 2
     }
   ],
@@ -48,10 +52,24 @@
     0,
     0,
     1,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28bfbaa5207c8c26a083433abd5af84e07c3f7a0",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1C6",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "4f88d5cba74c4690864898da67e8caf2d44d8db8",
+      "title": "Software Engineering Intern (BS/MS)",
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "location": "San Francisco, California",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "8e7ec428693fb09d70aa6fc102fca47cffea5cfc",
       "title": "Sales Development Intern, Services, Spain",

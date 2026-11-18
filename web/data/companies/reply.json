@@ -1,10 +1,10 @@
 {
   "slug": "reply",
-  "name": "Reply, Inc.",
+  "name": "Reply",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
@@ -14,18 +14,26 @@
     {
       "hub": "Katowice",
       "count": 1
+    },
+    {
+      "hub": "Düsseldorf",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +47,24 @@
     3,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f056be840d34ec9d8def8f5f9593a855584db5a",
+      "title": "(Junior) DevOps Software Engineer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5969425391?se=fPNRA0vj8RGKJec3Seaoyw&utm_medium=api&v=1C23B372EEDE5560708F348112CDC4C8AF7AF09A&utm_source=freehire.me",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "b99043a23f23d33c8502d0143715de1d6afdb49c",
+      "title": "Werkstudent für AI, Data Engineering und Tool-Entwicklung (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__507249241__7078?utm_campaign=publisher&utm_medium=api&geoID=2850&utm_source=freehire.me",
+      "location": "Düsseldorf, Germany",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "bca96b1cb42d95c25b7c1acd700b7aaa20f2fdb6",
       "title": "JUNIOR DEVOPS ENGINEER",

@@ -2,21 +2,21 @@
   "slug": "bizay",
   "name": "BIZAY",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-25T09:25:18.654Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "179ed8e6339163870d233f71189e1906572614e1",
+      "title": "Junior Data Engineer (4day work week & remote)",
+      "url": "https://www.linkedin.com/jobs/view/4470293116/?utm_source=freehire.me",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "d28ad6d00e9d8f65cb69bc00354d873c60743a4b",
       "title": "Junior Data Engineer (4day work week & remote)",

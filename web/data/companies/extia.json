@@ -1,14 +1,18 @@
 {
   "slug": "extia",
-  "name": "Extia Group",
+  "name": "Extia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "73a819dc3140029c03e4209d4806dc7a1798fcf5",
+      "title": "Junior QA Engineer / QA Tester",
+      "url": "https://www.linkedin.com/jobs/view/4487456777/?utm_source=freehire.me",
+      "location": "Greater Madrid Metropolitan Area",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "2408723a2a2b24fd39d970d6c3e4e98af6c35386",
       "title": "Développeur Java Junior — Backend Spring, Télétravail",

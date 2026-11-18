@@ -2,20 +2,25 @@
   "slug": "cadence-design-systems",
   "name": "Cadence Design Systems",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c9181fc7ff8d39eee06ce01c56ce64c5c7512f5",
+      "title": "Junior Product Engineer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/VALBONNE-Sophia/Junior-Product-Engineer_R56854?utm_source=freehire.me",
+      "location": "VALBONNE (Sophia)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "9a59245d79be87dede8c951ddc7bdb1376a58137",
       "title": "Intern: AI for Silicon Test Data Analytics & Failure Analysis",

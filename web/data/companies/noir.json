@@ -2,30 +2,30 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 52,
+  "totalPostings": 55,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 30
+      "count": 31
     },
     {
       "hub": "London",
-      "count": 22
+      "count": 24
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 42
+      "count": 44
     },
     {
       "id": "design",
       "label": "Design",
-      "count": 10
+      "count": 11
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,31 @@
     15,
     11,
     15,
-    11,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cea77b1115127226e9e32c494665fcf4794e9ad4",
+      "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
+      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-linux-c-java-london/57570511?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "89c8240de694564d2f199b16b78376de2e88b865",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57570514?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "142aaa15d96c6bae13f51755b078fb872655cd1a",
+      "title": ".NET Developer, Graduate / Junior",
+      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57570652?utm_source=freehire.me",
+      "location": "Manchester",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "28ebcdaaed561a6e6135b7bacf49f7e3fa186111",
       "title": "Junior .NET Developer",
@@ -91,27 +112,6 @@
       "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-linux-c-java-london/57512004?utm_source=freehire.me",
       "location": "London",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "ff34ed90f30908ce16b7d0139f90b9194b85eb58",
-      "title": ".NET Developer, Graduate / Junior",
-      "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57512001?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "28dfe9f4d81a55e22b9e20adfdb515c094eef2b9",
-      "title": "Junior .NET Developer",
-      "url": "https://www.reed.co.uk/jobs/junior-net-developer/57511983?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "dffbc2ff9c711bf5a95f0c4e60e3bae1cdcc4866",
-      "title": "Junior .NET Developer",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5950252671?se=ipyaa7jW8RGKuMLgePBXQA&utm_medium=api&v=B7F2F579877E7B853CD6D223B84EAFE1536C7F7C&utm_source=freehire.me",
-      "location": "London, UK",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

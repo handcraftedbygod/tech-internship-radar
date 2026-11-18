@@ -2,21 +2,21 @@
   "slug": "match-profiler",
   "name": "Match Profiler",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Lisbon",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a81c436e748b1d2112f69eee46d0540bcb94454b",
+      "title": "Junior Cybersecurity Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4485376151/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "39874befa96cc82253b0bfb820bb735163554c5c",
+      "title": "Junior Cybersecurity Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4485327524/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "f3f513246e44abfc81ce631e104fc290fb708d43",
       "title": "Android Developer Junior – Remote",

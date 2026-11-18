@@ -2,13 +2,17 @@
   "slug": "act-digital",
   "name": "act digital",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5146ff45c9d2fa0a0ca4f28a3b1e61fb87671ee2",
+      "title": "Junior Java Backend Developer",
+      "url": "https://www.linkedin.com/jobs/view/4486078625/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "caaa8753edaf6d4d594aec54f7b644f31e3a10bd",
       "title": "Backend Java Junior",

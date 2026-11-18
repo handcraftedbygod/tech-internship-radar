@@ -1,0 +1,57 @@
+{
+  "slug": "jane-street",
+  "name": "Jane Street",
+  "tier": "trading",
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-18T12:41:19.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5a07977c88060e04725c6e385a18dace171e6962",
+      "title": "Machine Learning Researcher Internship (June - September)",
+      "url": "https://www.gradcracker.com/hub/820/jane-street/work-placement-internship/82387/machine-learning-researcher-internship-june-september?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "0123d15a07fb94517f332de12fc86e6fd0e6de10",
+      "title": "Software Engineer Internship (June - September)",
+      "url": "https://www.gradcracker.com/hub/820/jane-street/work-placement-internship/82347/software-engineer-internship-june-september?utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    }
+  ]
+}

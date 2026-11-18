@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 20.1,
+  "totalPostings": 8,
+  "avgPostingDurationDays": 18.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     3,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a4f6a4a64da0a1db4fd4f34794b519ff335f4a66",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1BZ",
+      "location": "Arlington, TX",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "c824821536bbc53cd0e99b0a968f247d3bc3cbd4",
       "title": "Software Development Engineer Intern",

@@ -1,0 +1,52 @@
+{
+  "slug": "starwood-capital",
+  "name": "Starwood Capital Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-18T12:41:19.497Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "New York",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "17cf69ab2855c3fed51dc3e16af88140db6d538f",
+      "title": "Agentic Engineering Intern",
+      "url": "https://go.vansh.nyc/1BL",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "eb761742e9bc32c95abfd8276cfd4145984bcb80",
+      "title": "Data Intern",
+      "url": "https://go.vansh.nyc/1BK",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    }
+  ]
+}

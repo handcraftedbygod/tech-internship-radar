@@ -2,14 +2,14 @@
   "slug": "anduril",
   "name": "Anduril",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "London",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b3dcaad4c7b6451b4c9b01b1bf5b7dbc2f0f1dd2",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1Bo",
+      "location": "Santa Ana, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "3d0df770bfe2ece8d1a48d85fe2eb2cf1c767821",
       "title": "New Grad 2027: Information Security Engineer",

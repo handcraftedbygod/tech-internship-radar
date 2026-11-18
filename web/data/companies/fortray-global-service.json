@@ -2,21 +2,21 @@
   "slug": "fortray-global-service",
   "name": "Fortray Global Service Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e75d4d4218637584e91fc98151eeded619de5ae9",
+      "title": "Junior Cloud Engineer",
+      "url": "https://www.jobleads.com/gb/job/junior-cloud-engineer--england--ee0d82e2512ee610688de5e19ce16f2de?utm_source=freehire.me",
+      "location": ", England",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "563925b945669f96754342059a2573eeab5f25a8",
       "title": "Junior Cloud Engineer: Grow with AWS, Azure, GCP",

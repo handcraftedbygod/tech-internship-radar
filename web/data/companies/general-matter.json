@@ -2,21 +2,21 @@
   "slug": "general-matter",
   "name": "General Matter",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Los Angeles",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "490b5489d5355b9760c710b7f8a112a0717a042a",
+      "title": "New Grad: Automation & Controls Engineer",
+      "url": "https://go.vansh.nyc/1BY",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "6ae857928e1d9d0b96b39260f38d397d2c3816a8",
       "title": "Information Security Engineer Intern",

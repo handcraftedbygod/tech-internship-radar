@@ -2,14 +2,14 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Munich",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ai",
@@ -47,10 +47,17 @@
     11,
     8,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "134a3b76321eab14c0e7ad5b72406b426c17fbe3",
+      "title": "Junior Software Engineer (m/w/d) Fullstack, InsurTech",
+      "url": "https://www.adzuna.de/land/ad/5969426418?se=TPXQAkvj8RG6ZPLp0AWy5Q&utm_medium=api&v=D67160A3911BC690EF6A7AE19453661BA624EDC8&utm_source=freehire.me",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "0638c4a2f56073c6cb36c1e50281d878e1956e77",
       "title": "(Junior) PHP Fullstack Entwickler (m/w/d) Mietwagen International",
@@ -112,13 +119,6 @@
       "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000145521845",
       "location": "Leipzig, Sachsen, Germany",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
-    },
-    {
-      "id": "fcdd6c13c5f734a14dee99d83978ec3a00047ce5",
-      "title": "(Junior) Full Stack Engineer (m/w/d) Zahlungssysteme",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145525349",
-      "location": "München, Bayern, Germany",
       "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]

@@ -2,21 +2,21 @@
   "slug": "sia",
   "name": "Sia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-21T04:38:19.902Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     6,
     1,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7ced3ec02851e39de468cbc2ddb7339581de89aa",
+      "title": "Junior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4481867969/?utm_source=freehire.me",
+      "location": "Paris, Île-de-France, France",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "d451a88d49bc11c15c8a871a6cb8ab0a08805437",
       "title": "Junior Consultant - Cybersecurity",
@@ -99,13 +106,6 @@
       "id": "ba187895742a71fadd38162d9a0a06afed5582b8",
       "title": "Junior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Sia/744000144315140-junior-software-engineer?utm_source=freehire.me",
-      "location": "Paris, IDF, fr",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
-    },
-    {
-      "id": "4d4e92bcee7a8c09850847b46b8471e3ce7efcd9",
-      "title": "Final Year Internship Consultant - Data Analyst",
-      "url": "https://jobs.smartrecruiters.com/Sia/744000144314485-final-year-internship-consultant-data-analyst?utm_source=freehire.me",
       "location": "Paris, IDF, fr",
       "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }

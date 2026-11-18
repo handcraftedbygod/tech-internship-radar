@@ -1,0 +1,45 @@
+{
+  "slug": "flight-centre",
+  "name": "Flight Centre",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-18T12:41:19.497Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Barcelona",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bceaf7678851e0cef8b1af3c3e8ce830b98fb3d5",
+      "title": "Junior Software Engineer (Order Management) - Barcelona",
+      "url": "https://careers.pageuppeople.com/889/cw/en/job/533481/junior-software-engineer-order-management-barcelona?utm_source=freehire.me",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    }
+  ]
+}

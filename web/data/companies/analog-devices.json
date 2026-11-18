@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 11.3,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Vancouver",
@@ -29,7 +29,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     1,
     0,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be7e49133cff704fbfb909a13a33404d0693c100",
+      "title": "Embedded Hardware & Firmware Intern, Health Solutions",
+      "url": "https://go.vansh.nyc/1Bm",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "c10cbbd0cc78b24c224c48fec65cfaeddf8681ee",
       "title": "Software Engineering Intern, Medical Device & Healthcare Integration",

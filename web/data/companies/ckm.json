@@ -2,21 +2,21 @@
   "slug": "ckm",
   "name": "CKM Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3423ebe6fe43f5b72e7897917757d9b821d07e3c",
+      "title": "Junior Data Engineer (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/ckm-group/junior-data-engineer-berlin-314977",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "44bea6f31db3faa400abd0483a7101f50eba0d40",
       "title": "Junior Data Engineer (m/w/d)",

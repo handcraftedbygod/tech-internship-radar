@@ -2,21 +2,21 @@
   "slug": "adac-it-service",
   "name": "ADAC IT Service GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     2,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a17f279a4a9949104c7e11e3e4640af44399e283",
+      "title": "Werkstudent DevOps & Software Engineering (w|m|d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18349-47844_16_JB5300403-S?utm_source=freehire.me",
+      "location": "München, BAYERN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "72cc079ee7ef6873edc031aeb7cb52ab8a59b5f2",
+      "title": "Werkstudent DevOps & Software Engineering (w|m|d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/18349-47844_16_JB5300403-S",
+      "location": "München",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "5492f916c5732a40e8c3b28b8e6fb4c205b4fcd6",
       "title": "Werkstudent DevOps & Software Engineering (w|m|d), ADAC Zentrale",

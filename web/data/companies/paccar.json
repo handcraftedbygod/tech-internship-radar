@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 10.9,
+  "totalPostings": 16,
+  "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "874281b53c87a9f7cb1662adb6c4724e670cd98e",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1BQ",
+      "location": "Denton, TX",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "daca621ead8499d703752c0a000c7e3043a0b6c2",
       "title": "Software Developer Intern",
@@ -106,13 +113,6 @@
       "url": "https://go.vansh.nyc/WP",
       "location": "Chillicothe, OH",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "eb6518b559407fab24f5f16a8dfcd60d6147d849",
-      "title": "Aftersales Data Analyst Intern",
-      "url": "https://go.vansh.nyc/gB",
-      "location": "Kirkland, WA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

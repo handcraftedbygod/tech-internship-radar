@@ -2,14 +2,14 @@
   "slug": "cloudfide-sp-ka-z-ograniczon-odpowiedzialno-ci",
   "name": "CLOUDFIDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "659cc4d5146a3020107fb709d4e6891e7016c92c",
+      "title": "Junior Data Engineer",
+      "url": "https://justjoin.it/job-offer/cloudfide-spolka-z-ograniczona-odpowiedzialnoscia-junior-data-engineer-warszawa-data?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "bcd03a3113543244383d97e7ab857b303a5e37d5",
       "title": "Junior Data Engineer - Azure & Databricks, Remote Growth Path",

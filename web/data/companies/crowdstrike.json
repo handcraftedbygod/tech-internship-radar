@@ -2,14 +2,14 @@
   "slug": "crowdstrike",
   "name": "CrowdStrike",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Austin",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fea0fc4b19915673b328c1f870864082de71ca4",
+      "title": "AI Research Launch Intern",
+      "url": "https://go.vansh.nyc/1BB",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "9d14ae4a314ef746fc77010bf0264878919dfa0f",
       "title": "Insider Risk Engineering Intern",

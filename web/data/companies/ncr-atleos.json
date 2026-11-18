@@ -2,21 +2,21 @@
   "slug": "ncr-atleos",
   "name": "NCR Atleos",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df51bbafbb63f28bf4e111164a2d85781347ea82",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5970085350?utm_medium=api&utm_source=freehire.me",
+      "location": "Dundee, Scotland",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "4ded2fc7cef1ef5396b466132a18098837ed1c31",
       "title": "Data Science Intern",

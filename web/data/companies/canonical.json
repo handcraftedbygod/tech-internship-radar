@@ -1,10 +1,10 @@
 {
   "slug": "canonical",
-  "name": "Canonical Ltd.",
+  "name": "Canonical",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "Dublin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -25,6 +29,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 1
     }
   ],
@@ -39,10 +48,17 @@
     1,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8a04f7de77e02b6a4db2269535420b149e290968",
+      "title": "New Grad 2027: Graduate Software Engineer - Open Source and Linux",
+      "url": "https://go.vansh.nyc/1Bw",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "3e753c564d87305db2bd054e0357e8c9b607cb0c",
       "title": "Junior Data Engineer - Spain",

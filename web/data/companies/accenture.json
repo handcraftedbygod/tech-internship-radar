@@ -2,14 +2,14 @@
   "slug": "accenture",
   "name": "Accenture",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Krakow",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     10,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f59f52b4cbea650366366cd926bd114793fcec83",
+      "title": "Angular Developer Internship Program (She/He/They)",
+      "url": "https://justjoin.it/job-offer/accenture-angular-developer-internship-program-she-he-they--warszawa-javascript-c85ff317?utm_source=freehire.me",
+      "location": "Warszawa",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "ef2b4890ffcc86d1c294c811328922811cb15864",
       "title": "MES & Supply Chain Systems Co-op Analyst",
@@ -118,13 +125,6 @@
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw/Data-Cloud-Consultant_14002623?utm_source=freehire.me",
       "location": "Warsaw",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "110dc58efed3740371addfe22f339f47147cc137",
-      "title": "Junior Software Engineer",
-      "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow/Software-Engineer-Poland_13670598?utm_source=freehire.me",
-      "location": "Krakow",
-      "firstSeenAt": "2026-08-07T05:39:42.829Z"
     }
   ]
 }

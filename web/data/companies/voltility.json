@@ -2,21 +2,25 @@
   "slug": "voltility",
   "name": "Voltility",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "298f511fd2ce3a28a6780a0ba2c86c87b9de6635",
+      "title": "Junior Data Engineer - AI-Driven Pipelines",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631069440__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "03355bf2b0ae052439f4cc635b0cb07cf4417d9d",
       "title": "Junior Data Engineer - AI-Driven Pipelines",

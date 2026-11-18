@@ -2,9 +2,9 @@
   "slug": "efinancialcareers",
   "name": "eFinancialCareers",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -31,6 +31,11 @@
       "id": "biz",
       "label": "Business",
       "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     0,
     5,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f8cc0c67c7c3c95291ec0109b4a5afb2856af96",
+      "title": "Développeur Python Junior - Backend - Canopee Group",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__165075968__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "613746f929153168eb96cd677d082b37e0d3c6d3",
       "title": "Business Developer Junior - Invivoo",
@@ -110,13 +122,6 @@
       "url": "https://click.appcast.io/t/xYsWYO6iTfhCcgJpeU3EPj3HwwL2ria5uF4LZpQzzbM9IWAiEjliwe8yvGE0Pjrn?utm_source=freehire.me",
       "location": "London",
       "firstSeenAt": "2026-09-27T09:51:48.688Z"
-    },
-    {
-      "id": "e3790c66e1d065494a6432fad6347d7d3cfcc343",
-      "title": "Junior C++ Quant Developer - Commodities- Global Hedge Fund",
-      "url": "https://click.appcast.io/t/RSJtI4uuUO0pnOWZdRpXWJZmNpIDCwXWnrmrCI3PGKDUKJWzl-CuK7WT8VpHIP4_?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-09-25T09:25:18.654Z"
     }
   ]
 }

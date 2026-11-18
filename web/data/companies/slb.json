@@ -2,21 +2,26 @@
   "slug": "slb",
   "name": "SLB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-14T09:19:46.299Z",
-  "totalPostings": 1,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,52 @@
     0,
     0,
     1,
-    0,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19ca3350219764d32ba45a5a2326ddd6cde08ba6",
+      "title": "Data Scientist Intern (12 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87419/data-scientist-intern-12-months?utm_source=freehire.me",
+      "location": "Cambridge",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "b1edaece8f1aacb1fb07fa052dd3ef79ef114278",
+      "title": "Cloud Software Engineer Intern (12 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87417/cloud-software-engineer-intern-12-months?utm_source=freehire.me",
+      "location": "Abingdon (Oxfordshire)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "edb157d03b2356da66390def362f15cae8923b1e",
+      "title": "Data Scientist Intern (12 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87418/data-scientist-intern-12-months?utm_source=freehire.me",
+      "location": "Cambridge",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "e47c535a8f55cd24d10f4e0411bd0bda82a63880",
+      "title": "Scientific Software Engineer Intern (3 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87448/scientific-software-engineer-intern-3-months?utm_source=freehire.me",
+      "location": "Abingdon (Oxfordshire)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "4fcd28a4beeaab00778330df2b689e565f9216f1",
+      "title": "Software Engineer Intern (6 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87451/software-engineer-intern-6-months?utm_source=freehire.me",
+      "location": "Abingdon (Oxfordshire)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "ba991bd05f96cc4deb749e1aeefa01794e4668ea",
+      "title": "Software Engineer Intern (12 months)",
+      "url": "https://www.gradcracker.com/hub/1/slb/work-placement-internship/87450/software-engineer-intern-12-months?utm_source=freehire.me",
+      "location": "Abingdon (Oxfordshire)",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "4772f5e11454c62506da8562e0d7fe381e07703f",
       "title": "Software Engineer Intern: Python and AI Workflows",

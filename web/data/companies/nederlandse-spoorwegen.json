@@ -1,0 +1,59 @@
+{
+  "slug": "nederlandse-spoorwegen",
+  "name": "Nederlandse Spoorwegen",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-18T12:41:19.497Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9072e7547670bac32f6ed9dd8d05c6ce9f7ab126",
+      "title": "Junior Backend Developer (Python & Azure)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__181528680__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "80e1547a0bb5ff97ac3ca29e193eb8274e68e69d",
+      "title": "Junior Backend Developer (Python & Azure)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__181628800__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
+    {
+      "id": "79b8c53440f09fe61dc15dd4feae376d052d8976",
+      "title": "Junior Backend Developer (Python & Azure) (Dutch only)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__181639167__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    }
+  ]
+}

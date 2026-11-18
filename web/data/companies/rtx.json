@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 19,
+  "currentOpenings": 15,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 63,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 64,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 62
+      "count": 63
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 54
+      "count": 55
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    32,
+    33,
     0
   ],
   "recentPostings": [
+    {
+      "id": "809a30f57f391ae881461f9ce335f3c369ac7376",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1Ca",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-18T12:41:19.497Z"
+    },
     {
       "id": "df214bb180a70f816617c37bace176f8a0b4db71",
       "title": "Software Engineering Intern",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/1v6",
       "location": "McKinney, TX",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "435816931214bf22f94797eba4c7bd8fdf1c17ad",
-      "title": "Software Engineer 1",
-      "url": "https://go.vansh.nyc/1sR",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
     }
   ]
 }
