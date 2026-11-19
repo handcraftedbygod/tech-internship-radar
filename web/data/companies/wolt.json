@@ -2,14 +2,14 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Helsinki",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -39,10 +39,17 @@
     4,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1f5b4c1bc0e23087e91daa2ea3af4f81287a5e4",
+      "title": "People Associate - Working Student",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8395841",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "d05ddeab2ac9fd5db427639a579b9d330e43a2ce",
       "title": "Junior Backend Engineer",

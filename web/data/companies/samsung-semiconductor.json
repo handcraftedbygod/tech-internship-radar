@@ -2,14 +2,14 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 5,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 7
     },
     {
       "hub": "Other",
@@ -20,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 2
     },
     {
@@ -30,11 +35,6 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
-    },
-    {
-      "id": "hw",
-      "label": "Hardware",
       "count": 1
     }
   ],
@@ -49,10 +49,31 @@
     0,
     0,
     1,
-    4,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87cbdf4fd380638285505ff374b3baba5ef84f69",
+      "title": "LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators",
+      "url": "https://go.vansh.nyc/1Cw",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "bb1723159d728b6c634a3b536f4460badeae7672",
+      "title": "SSD Firmware Engineer Intern",
+      "url": "https://go.vansh.nyc/1Cu",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "925fce3a6f4974041d046c524100a2ac9593d68f",
+      "title": "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+      "url": "https://go.vansh.nyc/1Cm",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "9d1f831f75f3bc9fd953e32425d4f4d18bfe571a",
       "title": "SSD Firmware Development Intern",

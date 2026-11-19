@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 64,
-  "avgPostingDurationDays": 9.9,
+  "totalPostings": 65,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 63
+      "count": 64
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 55
+      "count": 56
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    33,
+    34,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f6278e30297c19e8748ec953e07aa1b5f23faa6",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1Cf",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "809a30f57f391ae881461f9ce335f3c369ac7376",
       "title": "Software Engineer I",
@@ -114,13 +121,6 @@
       "title": "Methods Engineering Intern, Aftermarket & Sustainment Engineering",
       "url": "https://go.vansh.nyc/1vu",
       "location": "East Hartford, CT",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "8afffe247c96839f63bf8dbd11092ec657c2297f",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1v6",
-      "location": "McKinney, TX",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

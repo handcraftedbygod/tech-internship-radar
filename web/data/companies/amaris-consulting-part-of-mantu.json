@@ -2,13 +2,17 @@
   "slug": "amaris-consulting-part-of-mantu",
   "name": "Amaris Consulting | Part of Mantu",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Barcelona",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b08f89727db5cf60ddca840b7a4a1d94ddf237e7",
+      "title": "Junior Project Manager - Cybersecurity",
+      "url": "https://www.linkedin.com/jobs/view/4473623439/?utm_source=freehire.me",
+      "location": "Madrid, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "e36339948012df1ac025b6edfdd3121bc3956af4",
       "title": "Junior Data Scientist - AI/ML Engineer (Remote Options)",

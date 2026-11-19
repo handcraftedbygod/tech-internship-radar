@@ -2,21 +2,21 @@
   "slug": "arvato",
   "name": "Arvato",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 15,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39f8357fe11f6b230f1ca8d3ff630a4406974255",
+      "title": "(Junior) Data Analyst (m/w/x) (Data-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NjAtOTg0MTg5Mzg0LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "2c2085a9741077147392240c46371125fb1190d2",
       "title": "(Junior) Data Analyst (m/w/x)",

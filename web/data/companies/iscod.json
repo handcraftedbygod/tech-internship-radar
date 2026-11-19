@@ -2,21 +2,21 @@
   "slug": "iscod",
   "name": "ISCOD",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ded9090fec52a12d2054fc5ec11745f332a9737",
+      "title": "Alternance Business Developer junior - Paris (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODk3NjQwNCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "2ea0e60c4afbb0a193d39bca9177a7a8139326f0",
       "title": "Alternance Business Developer Junior - Paris (H/F)",

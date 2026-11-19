@@ -1,0 +1,45 @@
+{
+  "slug": "workstream",
+  "name": "Workstream",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-19T12:32:20.459Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Vancouver",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "5cac36283fe1fbd7129163a57d675fbbacf769b0",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://go.vansh.nyc/1CE",
+      "location": "Vancouver, Canada",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    }
+  ]
+}

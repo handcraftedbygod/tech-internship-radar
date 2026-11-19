@@ -2,18 +2,18 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 52,
+  "totalPostings": 55,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 43
+      "count": 44
     },
     {
       "hub": "Stuttgart",
-      "count": 5
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 22
+      "count": 25
     }
   ],
   "hiringMonths": [
@@ -51,10 +51,31 @@
     19,
     10,
     14,
-    9,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5a0880f2fcef96e7693a040a17e25f570c56f925",
+      "title": "Praktikant*in Data Analytics & Business Intelligence – Connected Car & After Sales (Pflicht-Praktikum)",
+      "url": "https://jobs.mercedes-benz.com/praktikant-in-data-analytics-business-intelligence-connected-car-after-sales-pflicht-praktikum--247487-MER0004A6Z?utm_source=freehire.me",
+      "location": "Stuttgart, Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "aec47c70e4d70d2fa89c4741c533a6f4b6b224c8",
+      "title": "Praktikant*in Customer Data & Data Analytics für automatisierte Fahrfunktionen",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655158-1-S",
+      "location": "Böblingen",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "284e55cbe4ec65aa71547ffd0e6ddd82b2195e0b",
+      "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654989-1-S",
+      "location": "Stuttgart",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "c481d034bc769c5b2bde3923bcb2b91b7295e60d",
       "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
@@ -103,27 +124,6 @@
       "url": "https://jobs.mercedes-benz.com/werkstudent-in-software-engineering-analyse--ki-tools-244887-MER0004A23?utm_source=freehire.me",
       "location": "Sindelfingen, Germany",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "bf78ad0603a8e98ca12543bddaf1b1d6420453fe",
-      "title": "Praktikant*in Legal, Artificial Intelligence & Product Compliance",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1649576-1-S",
-      "location": "Böblingen",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "ee7bb9c1a6c9612fb4bf30b2995539fa1b13762f",
-      "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
-      "url": "https://jobs.mercedes-benz.com/praktikant-in-data-analytics-ai-mercedes-benz-operating-system-mb-os--244771-MER00049U3?utm_source=freehire.me",
-      "location": "Sindelfingen, Germany",
-      "firstSeenAt": "2026-11-02T12:02:27.024Z"
-    },
-    {
-      "id": "447d1aee7e412c6a12767b2759cd5ce642244637",
-      "title": "SAP S/4HANA Junior Developer & Application Architect (d/m/w/x)",
-      "url": "https://jobs.mercedes-benz.com/sap-s-4hana-junior-developer-application-architect-d-m-w-x--239360-MER00047ZP?utm_source=freehire.me",
-      "location": "Stuttgart, Germany",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

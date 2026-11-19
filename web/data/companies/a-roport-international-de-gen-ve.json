@@ -1,0 +1,52 @@
+{
+  "slug": "a-roport-international-de-gen-ve",
+  "name": "Aéroport International de Genève",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-19T12:32:20.459Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2e85bfc3766c5e3d60152ee4a00093497fd58772",
+      "title": "Stagiaire Data Science & Énergie",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MWQ2NTQ0OTQtY2ZlMy00MjhiLWJkNjUtZGU5OGJlMGNmZjlhIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "4cef6a434b9e92b78b8fcc8a566bf52bac32af0a",
+      "title": "Stagiaire Data Science & Énergie",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/YzcyYjI0ODQtM2JkMS00ZTYwLWI3MzAtNzYzYzFjZTQwNzVjIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    }
+  ]
+}

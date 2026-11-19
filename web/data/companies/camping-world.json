@@ -2,25 +2,25 @@
   "slug": "camping-world",
   "name": "Camping World",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68ccb026d02d04945ac9cd20afb35872e0fd106b",
+      "title": "Junior AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1CA",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "78b3868ce3dbe5caae41ac4f8a631525ac5247a8",
       "title": "AI Security Intern",

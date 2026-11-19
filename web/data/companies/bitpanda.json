@@ -2,14 +2,14 @@
   "slug": "bitpanda",
   "name": "Bitpanda",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 30.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68e47f2932aa06e2d88aeb3a20acb0a4e38ef0bb",
+      "title": "Data Engineering Intern — Hybrid, Mentorship, Stock Options",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372460588__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "0c6fd7ecfa544f5afedb6ca1778d01957220c0f6",
       "title": "Fintech Data Engineer Intern — Build Data Pipelines (Hybrid)",

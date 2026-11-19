@@ -2,18 +2,18 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 19,
+  "currentOpenings": 20,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 70,
-  "avgPostingDurationDays": 33.4,
+  "totalPostings": 73,
+  "avgPostingDurationDays": 32.6,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 35
+      "count": 36
     },
     {
       "hub": "Munich",
-      "count": 21
+      "count": 23
     },
     {
       "hub": "New York",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 35
+      "count": 37
     },
     {
       "id": "biz",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "design",
@@ -66,10 +66,31 @@
     10,
     17,
     7,
-    9,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7c8b0d3545790fb9c241c3689401e5d3358ddcbc",
+      "title": "Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8209085003?gh_jid=8209085003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "a2df4e472d252893be50e41411334334079d0aff",
+      "title": "Associate Technology Consultant - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8209080003?gh_jid=8209080003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "ad21ddf552febdceab73a8fc0685b639da2bfdcb",
+      "title": "Associate AI and Data Consultant - Galaxy Graduate Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8209081003?gh_jid=8209081003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "eb57476bcd91dd43bb4907fc729731f36a1595cd",
       "title": "Associate Technology Consultant - Galaxy Graduate Program",
@@ -118,27 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/8078124003?gh_jid=8078124003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "3c46f919268f8c782604b327ffc4b1a8dc3d7435",
-      "title": "Intern Strategic Program Management",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8156996003?gh_jid=8156996003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "a1ed5c3c2d1631d158a29407d1ebbdd23711fe21",
-      "title": "Intern Strategic Program Management",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8156989003?gh_jid=8156989003",
-      "location": "Munich, Germany",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "8d7fc37dfc72477d3768eaa3b6f271802f3be3e4",
-      "title": "Strategy & Operations Graduated Internship (12 months)",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8046331003?gh_jid=8046331003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

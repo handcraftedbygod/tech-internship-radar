@@ -2,21 +2,21 @@
   "slug": "bread-financial",
   "name": "Bread Financial",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e5b6da3be5f0993255567f1599bac7a826c51cf",
+      "title": "Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1CF",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "ee28cfeebbc45512bf6eed70e2a9a382baf283ce",
       "title": "Software Engineering Intern",

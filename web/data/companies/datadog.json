@@ -2,10 +2,10 @@
   "slug": "datadog",
   "name": "Datadog",
   "tier": "notable",
-  "currentOpenings": 7,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 36.9,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 54,
   "topLocations": [
     {
       "hub": "Paris",
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "product",
@@ -43,10 +43,17 @@
     2,
     9,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "908e5ce6a332dd639530f09f679541c1dde0038b",
+      "title": "Software Engineering Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372182411__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "221498e01961abc28501d0172bb2f51718c2a669",
       "title": "Software Engineering Intern",
@@ -107,13 +114,6 @@
       "id": "9526f7746183d895da86f78d691371d5b21c4bd6",
       "title": "IT Support Technician Intern",
       "url": "https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-09-09T08:39:56.533Z"
-    },
-    {
-      "id": "9d10b61298bd05f7cada08b30451bda8cf110ca4",
-      "title": "Applied Science Intern",
-      "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440",
       "location": "Paris, France",
       "firstSeenAt": "2026-09-09T08:39:56.533Z"
     }

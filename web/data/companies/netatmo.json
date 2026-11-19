@@ -2,21 +2,21 @@
   "slug": "netatmo",
   "name": "Netatmo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1dbdd999a67bf3ea2c0d6b2bffbda35b36280e6b",
+      "title": "INTERNSHIP - Android Developer",
+      "url": "https://jobs.smartrecruiters.com/Netatmo/744000162360689-internship-android-developer?utm_source=freehire.me",
+      "location": "Boulogne-Billancourt, IDF, fr",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "a99b5e2948e6eab85d901e887abbe53e4a8b88d3",
       "title": "Internship – iOS Developer",

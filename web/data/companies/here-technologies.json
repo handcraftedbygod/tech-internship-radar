@@ -1,0 +1,57 @@
+{
+  "slug": "here-technologies",
+  "name": "HERE Technologies",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-19T12:32:20.459Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c93db8e8c044f7ff5dabe3e78a9cb64fd8cae50f",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1CC",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "d56802db21639795a260707351368803fd10b7d2",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1CB",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    }
+  ]
+}

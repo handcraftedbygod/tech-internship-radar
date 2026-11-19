@@ -2,9 +2,9 @@
   "slug": "western-digital",
   "name": "Western Digital",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "91e7320850ad10c9d9f511ddd7e0bb3a8ac00d71",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Cg",
+      "location": "Irvine, CA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "aaaa09df3d8b178e7d969560c3e6601216e24357",
       "title": "Software Engineer",

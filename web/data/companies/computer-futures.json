@@ -2,14 +2,14 @@
   "slug": "computer-futures",
   "name": "Computer Futures",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Frankfurt",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f721353a9210912fb4ff497ee7b7bae38ccdaf94",
+      "title": "Junior PHP/KI Fullstack Developer (m/w/d) 55.000€",
+      "url": "https://www.linkedin.com/jobs/view/4486899679/?utm_source=freehire.me",
+      "location": "Frankfurt am Main, Hesse, Germany",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "317a0831544bb348cf300022acd9a4271b3d11dd",
       "title": "Junior Native App Developer (m/w/d) 55.000€",

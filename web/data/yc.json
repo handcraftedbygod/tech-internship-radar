@@ -36,6 +36,13 @@
       "url": "https://www.ycombinator.com/companies/armature"
     },
     {
+      "name": "Netter",
+      "oneLiner": "AI-powered data platform for business teams",
+      "batch": "Spring 2026",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://www.ycombinator.com/companies/netter"
+    },
+    {
       "name": "KugelAudio",
       "oneLiner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
       "batch": "Spring 2026",
@@ -202,19 +209,12 @@
       "batch": "Summer 2025",
       "location": "Munich, BY, Germany",
       "url": "https://www.ycombinator.com/companies/finto-de"
-    },
-    {
-      "name": "Mesmer",
-      "oneLiner": "We build software factories for engineering teams",
-      "batch": "Spring 2025",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.ycombinator.com/companies/mesmer"
     }
   ],
   "northAmerica": [
     {
       "name": "Dualizer",
-      "oneLiner": "AI-powered physical simulation to design/optimize chemical processes",
+      "oneLiner": "Agentic physics simulation that debottleneck manufacturing",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/dualizer"
@@ -374,13 +374,6 @@
       "url": "https://www.ycombinator.com/companies/pennant"
     },
     {
-      "name": "DeepReach Inc.",
-      "oneLiner": "Network for Physical AI Data Business",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/deepreach-inc"
-    },
-    {
       "name": "Tenor",
       "oneLiner": "Infrastructure for building and scaling AI-native businesses.",
       "batch": "Summer 2026",
@@ -416,11 +409,18 @@
       "url": "https://www.ycombinator.com/companies/stoa"
     },
     {
-      "name": "Luca IQ",
-      "oneLiner": "API-first tax engine for CPA firms and developers",
+      "name": "COACH",
+      "oneLiner": "The AI Coach for in person sales reps.",
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/luca-iq"
+      "url": "https://www.ycombinator.com/companies/ai-coach"
+    },
+    {
+      "name": "Lamb Labs",
+      "oneLiner": "Lightning fast chips with hardcoded AI models",
+      "batch": "Summer 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/lamb-labs"
     }
   ]
 }

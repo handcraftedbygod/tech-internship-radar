@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 11,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Helsinki",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     1,
     5,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c8801ebe408855a471b22004178c2621872e727",
+      "title": "Junior Power Platform & AI Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NTgyOTk1OGMtODcwYy00OTM0LTk2ODAtZTE5MzI1Y2VlNmE4IDgx?lang=en",
+      "location": "Finland",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "6f2ad1935810257244669989242f2d8675da502e",
       "title": "Junior Power Platform & AI Developer",
@@ -104,13 +111,6 @@
       "title": "Junior Data Analyst (15h/vko), Helsinki/Etätyö",
       "url": "https://tyomarkkinatori.fi/henkiloasiakkaat/avoimet-tyopaikat/35dd4b9f-133f-4e07-a874-16ad27fdb279/fi?utm_source=freehire.me",
       "location": "Espoo, Helsinki, Vantaa, Kauniainen, Hyvinkää, Kerava, Kirkkonummi, Loviisa, Mäntsälä, Nurmijärvi, Sipoo, Siuntio, Tuusula, Vihti, Finland",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "41ada6d03b2f1c246de33cea5304de35b8794c6e",
-      "title": "Junior Data Analyst (15h/vko), Helsinki/Etätyö",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MzVkZDRiOWYtMTMzZi00ZTA3LWE4NzQtMTZhZDI3ZmRiMjc5IDgx?lang=en",
-      "location": "Finland",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]

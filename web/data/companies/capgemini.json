@@ -2,9 +2,9 @@
   "slug": "capgemini",
   "name": "Capgemini",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 37,
+  "totalPostings": 38,
   "avgPostingDurationDays": 18.4,
   "topLocations": [
     {
@@ -16,12 +16,12 @@
       "count": 4
     },
     {
-      "hub": "Warsaw",
+      "hub": "Madrid",
       "count": 3
     },
     {
-      "hub": "Madrid",
-      "count": 2
+      "hub": "Warsaw",
+      "count": 3
     },
     {
       "hub": "Lisbon",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "design",
@@ -56,10 +56,17 @@
     12,
     10,
     9,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3f600458f42666b8ba0f127767b5ec986adf01c1",
+      "title": "Data Engineering Intern: Pipelines & Data Quality",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372141292__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "dbe933b9e580fd72ebe91d0506f6c6db2eff74ae",
       "title": "Junior Cloud & Devops Engineer",
@@ -122,13 +129,6 @@
       "url": "https://careers.capgemini.com/job/Lisboa-Junior-Java-Developer/1434707433/?utm_source=freehire.me",
       "location": "Lisboa, PT",
       "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "8e6f17ea2edc1cd975063838dea812d739f0345f",
-      "title": "Junior Onsite Network Engineer",
-      "url": "https://careers.capgemini.com/job/Manchester-Junior-Onsite-Network-Engineer/1415863733/?utm_source=freehire.me",
-      "location": "",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }
   ]
 }

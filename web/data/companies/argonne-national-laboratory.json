@@ -2,20 +2,25 @@
   "slug": "argonne-national-laboratory",
   "name": "Argonne National Laboratory",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1ce9b3c40090114f259f330f5d831a311c6767a",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1Cb",
+      "location": "Lemont, IL",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "c8db9d9257797c2d9a768bd8ed7a23f254823c66",
       "title": "Business Information Systems Intern, Enterprise Software Solutions",

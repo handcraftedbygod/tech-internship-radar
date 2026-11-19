@@ -2,9 +2,9 @@
   "slug": "inmize",
   "name": "inmize",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c9e0efe52ac66f51dde403640d589eba4c4d123",
+      "title": "Junior Software Developer",
+      "url": "https://www.linkedin.com/jobs/view/4491503537/?utm_source=freehire.me",
+      "location": "Barcelona, Catalonia, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "341caaee2d82c066246faeb734fbe4627b4decd8",
       "title": "Developer / Software Developer / Junior Software Developer (Permanent)",

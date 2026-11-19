@@ -2,21 +2,21 @@
   "slug": "recruitment-rebellion",
   "name": "Recruitment Rebellion",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a467e4140f018268bfc882439e9802be5a8053a8",
+      "title": "Junior Data & Systems Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5969754906?utm_medium=api&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "93517bebf47c835d63c1c5cd89b3a5a98475c6a6",
       "title": "Junior Data & Systems Engineer",

@@ -2,26 +2,26 @@
   "slug": "seb",
   "name": "SEB",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 17,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 12,
+  "totalPostings": 17,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Stockholm",
-      "count": 12
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 6
-    },
-    {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 9
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,45 @@
     0,
     0,
     0,
-    12,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9bdfe1f8de978ecddf1a39f29a187d250e20ed8",
+      "title": "SRE: Data & AI Platform Engineer Trainee",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22088068__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "e99c431a620dbc91012311698afcad3ef5af3e7a",
+      "title": "SEB Tech Trainee Programme 2027-28: Junior Cloud Platform Engineer | SEB, Stockholm",
+      "url": "https://www.linkedin.com/jobs/view/4491501367/?utm_source=freehire.me",
+      "location": "Stockholm, Stockholm County, Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "2dba70f6ebabf77c6c72127a6eebd0c1241e8efd",
+      "title": "Data Engineer Trainee: Build BI Pipelines on GCP",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22093619__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "550e87da2ce217d2e039b99d62835a8d14ebc3cd",
+      "title": "Full-Stack Developer - AI-Driven Banking Trainee",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22098107__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "998f969fd3da98319faa6aef453cc87b233b6c1f",
+      "title": "GCP Data Platform Engineer – Tech Trainee",
+      "url": "https://se.whatjobs.com/pub_api__cpl__22090254__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "location": "Stockholms län, Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "273ee5cb504243781940e778ffbcb820d0f40f1c",
       "title": "SRE: Data & AI Platform Engineer Trainee",
@@ -71,41 +106,6 @@
       "id": "12140c22bb2bf7d89a75fc2c7fbd6ecfcd4359de",
       "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - IT Asset Management | SEB, Stockholm",
       "url": "https://www.linkedin.com/jobs/view/4491506181/?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "73710a31b3bc0dc504d8657fde88eaae0f2da516",
-      "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - Payments | SEB, Stockholm",
-      "url": "https://www.linkedin.com/jobs/view/4491298464/?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "82fa4da0ed6a12580cd825f377fccababa4b838c",
-      "title": "SEB Tech Trainee Programme 2027-28: Platform Engineer – AI | SEB, Stockholm",
-      "url": "https://www.linkedin.com/jobs/view/4491297519/?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "646b5ce4e5b46a116be021513e2c36a27b81d101",
-      "title": "SEB Tech Trainee Programme 2027-28: Developer with AI Skills | SEB, Stockholm",
-      "url": "https://www.linkedin.com/jobs/view/4491295661/?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "eb6ab2f0e888a98722529e5e11646dd39f8c21b5",
-      "title": "SEB Tech Trainee Programme 2027-28: Solution Developer - backend | SEB, Stockholm",
-      "url": "https://www.linkedin.com/jobs/view/4491299462/?utm_source=freehire.me",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "3e8ab91fecc11094cb5545de5ce1303b651af317",
-      "title": "SEB Tech Trainee Programme 2027-28: Cloud Data Engineer | SEB, Stockholm",
-      "url": "https://www.linkedin.com/jobs/view/4491298457/?utm_source=freehire.me",
       "location": "Stockholm, Stockholm County, Sweden",
       "firstSeenAt": "2026-11-18T12:41:19.497Z"
     }

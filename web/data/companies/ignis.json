@@ -2,21 +2,21 @@
   "slug": "ignis",
   "name": "IGNIS",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cf25617c33dcd228f9d8836876b5b9337e4a8046",
+      "title": "Técnico Junior DevOps",
+      "url": "https://www.linkedin.com/jobs/view/4478691714/?utm_source=freehire.me",
+      "location": "Madrid, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "321d74099e2de9a41569366cfd75ded5af23198c",
       "title": "Junior Fullstack Developer (GdD)",

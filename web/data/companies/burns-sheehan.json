@@ -1,14 +1,18 @@
 {
   "slug": "burns-sheehan",
-  "name": "Burns Sheehan Limited",
+  "name": "Burns Sheehan",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-14T09:19:46.299Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c8c1d55db0540104c5fca87465930ec7808ad387",
+      "title": "Junior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4482896742/?utm_source=freehire.me",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "50055e3bcb066953cb50e7962d144d883b11412f",
       "title": "Hybrid Junior Data Engineer - AWS, Snowflake & Python",

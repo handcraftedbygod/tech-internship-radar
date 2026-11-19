@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 4,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 20,
-  "avgPostingDurationDays": 11.5,
+  "totalPostings": 21,
+  "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Dublin",
@@ -30,7 +30,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     10,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e3fc97471f3e635d3f23a43ba036fb177970acd0",
+      "title": "Research Intern, Computer Vision and Deep Learning",
+      "url": "https://go.vansh.nyc/1Cv",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "3d3bb5321a073b1e00ba87a35323c3a840ecfa67",
       "title": "Research Intern, Firmware Security",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/199",
       "location": "Redmond, WA",
       "firstSeenAt": "2026-11-02T12:02:27.024Z"
-    },
-    {
-      "id": "f13fc202eec3bdd975ab6f099d69986864f6a1a1",
-      "title": "Applied Scientist Intern, Turing",
-      "url": "https://go.vansh.nyc/Z4",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

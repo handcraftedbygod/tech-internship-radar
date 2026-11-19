@@ -2,21 +2,21 @@
   "slug": "mirakllabs",
   "name": "mirakllabs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6abd5cb9a30fb026090317909650d37d6c35288a",
+      "title": "Junior Software Engineer Java",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/junior-software-engineer-java-paris-407602",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "f733417275375925a8bd7fc4d7dd4f50a631b526",
       "title": "Software Engineer Intern - Ads",

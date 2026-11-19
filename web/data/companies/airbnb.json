@@ -2,14 +2,14 @@
   "slug": "airbnb",
   "name": "Airbnb",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -33,7 +33,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     0,
     1,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "58e4d217f7f853c9640cfa4afafe880405aa49f1",
+      "title": "Brand Marketing Intern, France",
+      "url": "https://careers.airbnb.com/positions/8376045?gh_jid=8376045",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "28bfbaa5207c8c26a083433abd5af84e07c3f7a0",
       "title": "Software Engineering Intern",

@@ -2,14 +2,14 @@
   "slug": "london-stock-exchange",
   "name": "London Stock Exchange Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     4,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99f065d367ed33b5bfb84f8fc7291c64d0392aee",
+      "title": "London Summer Software Engineer Internship — Python/AWS",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__634301897__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "14b942688d929c3789442adf215e7727d5fcce6d",
       "title": "Intern - Software Engineer",

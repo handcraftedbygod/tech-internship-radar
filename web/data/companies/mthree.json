@@ -2,21 +2,21 @@
   "slug": "mthree",
   "name": "mThree",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19621f81b671762bc38c81b7bf59238c06c5bec6",
+      "title": "Junior Full Stack Software Engineer (Java & React)",
+      "url": "https://mthree.com/careers/job/?gh_jid=4730469006&utm_source=freehire.me",
+      "location": "Ireland",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "6f85cc3cd6e910618b06524a561337308ce8d077",
       "title": "Junior Infrastructure Engineer",

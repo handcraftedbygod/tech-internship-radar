@@ -2,21 +2,25 @@
   "slug": "tomtom",
   "name": "Tomtom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Amsterdam",
       "count": 4
+    },
+    {
+      "hub": "Lodz",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +39,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4b8ee70f34d227d7d86dce189b1291193934b7fd",
+      "title": "Software Engineer Internship",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37172974__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "952a54af18b84fa1f96721a4783617258a64aebc",
       "title": "Software Engineering Intern - AI Platform Excellence",

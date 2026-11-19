@@ -2,21 +2,21 @@
   "slug": "foundant-technologies",
   "name": "Foundant Technologies",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6078652f52b60f4bc6dfec04ece14867a5f97e2b",
+      "title": "Junior Security Engineer",
+      "url": "https://ats.rippling.com/foundant-careers/jobs/63f86619-9f10-4928-a9d0-1064f68f2946?utm_source=freehire.me",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "9a3ff27c2119f6c52162b1c992c418df222d02ed",
       "title": "Junior Security Engineer",

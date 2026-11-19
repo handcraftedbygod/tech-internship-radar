@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 9.7,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2fe456041796656257777747a73029e9323abfe",
+      "title": "Embedded Software Developer I",
+      "url": "https://go.vansh.nyc/1Cs",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "cc10c651bcb343265742bf463f421971c4222ce2",
       "title": "Software Engineer I",

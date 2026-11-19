@@ -2,9 +2,9 @@
   "slug": "procter-gamble-espa-a",
   "name": "Procter & Gamble España",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     8,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b497dea6fef7f5afbea67703bd590435e36758b9",
+      "title": "Data Engineer Intern — Build ETL Pipelines in Madrid",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372207386__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "6a9414b8476b58ef4e5e72f9caa59ff400ca080d",
       "title": "Data Engineer Internship (m/f/x)",
@@ -98,13 +105,6 @@
       "id": "e7fc9acfa6999f6317834158cfae42ccbb07aebf",
       "title": "Data Engineer Intern — Build ETL Pipelines in Madrid",
       "url": "https://es.whatjobs.com/pub_api__cpl__339732806__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
-    },
-    {
-      "id": "fe6018a23ee83d4370e731c041b34b6d8434f91e",
-      "title": "Data Engineer Internship (m/f/x)",
-      "url": "https://es.whatjobs.com/pub_api__cpl__339732830__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }

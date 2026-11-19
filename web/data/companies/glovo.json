@@ -2,18 +2,18 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 36,
+  "currentOpenings": 37,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 97,
-  "avgPostingDurationDays": 24.6,
+  "totalPostings": 101,
+  "avgPostingDurationDays": 24.8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 60
+      "count": 63
     },
     {
       "hub": "Madrid",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Lisbon",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 74
+      "count": 77
     },
     {
       "id": "biz",
       "label": "Business",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ai",
@@ -57,10 +57,38 @@
     33,
     26,
     25,
-    13,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b9d4bf807157742ed04ef81ee1ce871b4d584fff",
+      "title": "Junior Backend Engineer (They/She/He)",
+      "url": "https://www.linkedin.com/jobs/view/4489767798/?utm_source=freehire.me",
+      "location": "Barcelona, Catalonia, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "aaf2cb4a369b6b44056cf471fac1d4cad17d682a",
+      "title": "Data Analyst Intern",
+      "url": "https://www.linkedin.com/jobs/view/4432239650/?utm_source=freehire.me",
+      "location": "Barcelona, Catalonia, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "707b402ece4cd3f653f7608d161efdb7fee0361e",
+      "title": "Category Management Intern",
+      "url": "https://careers.glovoapp.com/job/category-management-intern-in-madrid-spain-jid-744000162312919/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "d2ec422cfc2ee6fe985cb4f39de85f43c5dbe903",
+      "title": "Junior Business Analyst - Monetisation",
+      "url": "https://careers.glovoapp.com/job/junior-business-analyst-monetisation-in-barcelona-spain-jid-744000162466714/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "950865878bb2eadc17061bf82aa68005f782f862",
       "title": "Category Management Intern",
@@ -102,34 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-accountant-o2c-in-barcelona-spain-jid-744000161126769/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "4781dc8e3ebcb9cb69cfd098d737b3cfc50425d3",
-      "title": "Data Intern",
-      "url": "https://careers.glovoapp.com/job/data-intern-in-barcelona-spain-jid-744000160871880/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "f314a0899cc1781ba081b81d4588b2624ffc7314",
-      "title": "Intern Account Management Integrations Global",
-      "url": "https://careers.glovoapp.com/job/intern-account-management-integrations-global-in-barcelona-spain-jid-744000160184049/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "fde2b605b069bbf57e187938b43dd1d47b90b045",
-      "title": "Junior Occupational Health and Safety",
-      "url": "https://careers.glovoapp.com/job/junior-occupational-health-and-safety-in-barcelona-spain-jid-744000159633499/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "d2f2bf4a65dfdb320c6fa2408c0f2c48813dee88",
-      "title": "Intern People Operations",
-      "url": "https://careers.glovoapp.com/job/intern-people-operations-in-barcelona-spain-jid-744000159832379/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }

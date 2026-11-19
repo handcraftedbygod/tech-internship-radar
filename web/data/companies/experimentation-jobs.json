@@ -2,21 +2,21 @@
   "slug": "experimentation-jobs",
   "name": "Experimentation Jobs",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     4,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "556b54cfc144653020bd80506ed4192e8d9deaa3",
+      "title": "Data Engineer Intern: Build Pipelines & Insights",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372222668__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "4c79532b6d4139c924eff58968ff8bdc1a773f2a",
       "title": "Madrid, Spain On-site Procter & Gamble Data Engineer Internship",

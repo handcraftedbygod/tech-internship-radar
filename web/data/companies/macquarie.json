@@ -2,20 +2,25 @@
   "slug": "macquarie",
   "name": "Macquarie Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da556490c5e1e0a2e4af27ac1f9dea63f28fb2b3",
+      "title": "Junior Java Developer",
+      "url": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Junior-Java-Developer/24252?utm_source=freehire.me",
+      "location": "",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "9946a6f98acd2589c7f6cbc9cf631c5f66afa15f",
       "title": "Junior Data Scientist & Analytics Engineer",

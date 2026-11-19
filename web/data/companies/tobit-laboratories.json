@@ -2,21 +2,21 @@
   "slug": "tobit-laboratories",
   "name": "Tobit Laboratories AG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3343924dc9af657e7f566a453045d7e7ebe18c6",
+      "title": "Trainee Software - Schwerpunkt Vibe Coding & K",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1004041139-S",
+      "location": "Ahaus",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "350c78169b6553f417483edf0d8f9d83d50cd07d",
       "title": "Trainee Software - Schwerpunkt Vibe Coding & KI",

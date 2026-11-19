@@ -2,9 +2,9 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Stockholm",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Krakow",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     5,
     5,
     7,
-    15,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a120dcd6ead82184a36ca5cfef626ff0a8dc556",
+      "title": "Junior Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777627166-junior-developer-?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "43e60113d0accef3b666e5040cf53e14a7bed9b1",
       "title": "Radio Software Engineer (Junior) - C++/Java Embedded",
@@ -120,13 +127,6 @@
       "id": "073d84dcd5ecafc589027763be668a50912db289",
       "title": "Software Developer Summer Intern: IMS GW (AI & Automation)",
       "url": "https://jobs.ericsson.com/careers/job/563121777496581-software-developer-summer-intern-ims-gw-ai-automation--?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
-      "firstSeenAt": "2026-11-09T12:33:55.591Z"
-    },
-    {
-      "id": "07d64af14a7421eb0d0d4ea5a812c2f771127907",
-      "title": "Software Developer Summer Intern: IMS GW (Test Tools & Automation)",
-      "url": "https://jobs.ericsson.com/careers/job/563121777553320-software-developer-summer-intern-ims-gw-test-tools-automation--?domain=ericsson.com&utm_source=freehire.me",
       "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
       "firstSeenAt": "2026-11-09T12:33:55.591Z"
     }

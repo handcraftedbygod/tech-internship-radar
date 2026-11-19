@@ -2,25 +2,25 @@
   "slug": "ntt-data-europe-latam",
   "name": "NTT DATA Europe & Latam",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-16T04:35:44.674Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     2,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b6fbf99ca98ced0637694e87dfe8df08d633388",
+      "title": "Junior SailPoint IdentityIQ (IIQ) Developer – IGA",
+      "url": "https://www.linkedin.com/jobs/view/4476291332/?utm_source=freehire.me",
+      "location": "Madrid, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "176967901f800398687595f93872edac6998d763",
+      "title": "Junior Data Platform Engineer (GCP)",
+      "url": "https://www.linkedin.com/jobs/view/4485465485/?utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "227dcb5328973f676e530fe0c40f25e73aaef623",
       "title": "Junior Frontend Developer (JavaScript) - BCN",

@@ -2,17 +2,17 @@
   "slug": "oliver-bernard",
   "name": "Oliver Bernard",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "London",
+      "count": 4
     },
     {
-      "hub": "London",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,31 @@
     1,
     0,
     0,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0b9b6ce5b53df5cedcea894af5ef5ba7dcb7f44",
+      "title": "Junior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4479431076/?utm_source=freehire.me",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "cd56a85f904bd18f777cb40b39e8decc223396bf",
+      "title": "Graduate/Junior Software Engineer (Must have a CS Degree from a top Uni)",
+      "url": "https://www.linkedin.com/jobs/view/4487140378/?utm_source=freehire.me",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
+    {
+      "id": "a053b0017cc904b049ffb767e061c3695f9595aa",
+      "title": "Junior Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4488216916/?utm_source=freehire.me",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "e2216eb65ba7ca04ba8968d62825bf3f51c72fc5",
       "title": "Graduate/Junior Software Engineer (Must have a CS Degree from a top Uni) - £70k - London",

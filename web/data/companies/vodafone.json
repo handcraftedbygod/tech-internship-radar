@@ -2,9 +2,9 @@
   "slug": "vodafone",
   "name": "Vodafone",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -18,17 +18,21 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "design",
-      "label": "Design",
-      "count": 3
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "design",
+      "label": "Design",
       "count": 3
     }
   ],
@@ -43,10 +47,17 @@
     5,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "acdef008d1a763823600680eb18f2f317098000e",
+      "title": "Junior Data Engineer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__631054893__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "ef0f46082e7367b382726a1f39fc978d13336d9d",
       "title": "Junior Data Engineer",

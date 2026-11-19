@@ -2,21 +2,21 @@
   "slug": "ntt-data",
   "name": "NTT DATA, Inc.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24f09248c76788b667984db659e30dca735f0258",
+      "title": "DevOps Automation Junior",
+      "url": "https://www.linkedin.com/jobs/view/4483873264/?utm_source=freehire.me",
+      "location": "A Coruña, Galicia, Spain",
+      "firstSeenAt": "2026-11-19T12:32:20.459Z"
+    },
     {
       "id": "99eea3b9b5dde05d0fbd05f0edfc87a352e2b5a0",
       "title": "Junior Network Engineer",
