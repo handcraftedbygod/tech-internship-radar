@@ -2,21 +2,21 @@
   "slug": "wurl",
   "name": "Wurl",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "790cdb8673dcf6dd9e4763be7006cfd7ca757a77",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1Ep",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "194077861401a8fe9d082be9b672e00c5db5cf84",
       "title": "Data Science Intern",

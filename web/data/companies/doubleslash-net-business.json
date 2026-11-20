@@ -2,21 +2,21 @@
   "slug": "doubleslash-net-business",
   "name": "doubleSlash Net-Business GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 56.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce6d9e4098be4100e75c5a17f8ae81b69b212322",
+      "title": "Praktikum Data Analyst (m/w/d)",
+      "url": "https://studyflix.de/jobs/angebote/518634?l=916197&utm_source=ba",
+      "location": "Friedrichshafen",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "99186e796a7e092a8f36c7882e4c8625ddf8ee1b",
       "title": "Praktikum Data Analyst (m/w/d)",

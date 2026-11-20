@@ -2,9 +2,9 @@
   "slug": "spectrum-it-recruitment",
   "name": "Spectrum IT Recruitment",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 9
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     4,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b9a5bfe3e2274ff887e52b55468fab46c93ff4e6",
+      "title": "Junior Embedded Software Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4489285278/?utm_source=freehire.me",
+      "location": "Chichester, England, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "83fcdc553e3822fd38b8655bc2bd14d9c6897ea6",
       "title": "Junior C# Developer",

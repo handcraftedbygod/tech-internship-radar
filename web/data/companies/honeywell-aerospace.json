@@ -1,0 +1,71 @@
+{
+  "slug": "honeywell-aerospace",
+  "name": "Honeywell Aerospace",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a722415a608c384d248bc1ad54c8c0b72d8bbe8a",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1Ef",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "417b0db14b9b823ac401682a14999b3252608213",
+      "title": "New Grad 2027: Software Engineering",
+      "url": "https://go.vansh.nyc/1Ee",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "a7c96edb2018ee8d19911c95c3a18198dac132ce",
+      "title": "New Grad 2027: Information Systems & Data Science",
+      "url": "https://go.vansh.nyc/1Ed",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "b66274d71d57d49bae47beb90866a1496ea1dc4b",
+      "title": "Semiconductor Engineer Intern",
+      "url": "https://go.vansh.nyc/1E3",
+      "location": "United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

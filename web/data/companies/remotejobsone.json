@@ -2,17 +2,17 @@
   "slug": "remotejobsone",
   "name": "RemoteJobsOne",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-27T09:51:48.688Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
-      "hub": "Paris",
-      "count": 1
+      "hub": "Other",
+      "count": 2
     },
     {
-      "hub": "Other",
+      "hub": "Paris",
       "count": 1
     }
   ],
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     1,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "139beeda1cbd32727a9ea86ad4e66e80e6603ba7",
+      "title": "Junior Machine Learning Engineer – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/junior-machine-learning-engineer-remote-worldwide?utm_source=freehire.me",
+      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "c7659d6f7c201ad4e8ff112a7502258b0b7df6a8",
       "title": "Software Engineer, New Grad – Remote (Worldwide)",

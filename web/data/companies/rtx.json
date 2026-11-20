@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 12,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 65,
+  "totalPostings": 66,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 64
+      "count": 65
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 56
+      "count": 57
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    34,
+    35,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df37b5d5cba16c9b2ca735aa1e0bb45211af99e2",
+      "title": "Software Security Intern",
+      "url": "https://go.vansh.nyc/1CS",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "1f6278e30297c19e8748ec953e07aa1b5f23faa6",
       "title": "Software Engineer I",
@@ -114,13 +121,6 @@
       "title": "Electrical Engineering Intern, Firmware",
       "url": "https://go.vansh.nyc/1vJ",
       "location": "Ft Wayne, IN",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "75ec55631d0dcc9ab036780d7382c9a940ef3abb",
-      "title": "Methods Engineering Intern, Aftermarket & Sustainment Engineering",
-      "url": "https://go.vansh.nyc/1vu",
-      "location": "East Hartford, CT",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

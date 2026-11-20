@@ -2,9 +2,9 @@
   "slug": "ing",
   "name": "ING",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "Katowice",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -25,6 +29,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -39,10 +48,17 @@
     2,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44a490ef2cd87301c9195b94db42451f116f6105",
+      "title": "Junior ALM Model Developer | Hybrid, Growth & Python",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__174107310__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "29e296aa656daa40cf13e8b3f35e41f65237b172",
       "title": "Internship Software Development – Java & AI",

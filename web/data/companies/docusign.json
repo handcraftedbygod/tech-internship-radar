@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 9.4,
+  "totalPostings": 6,
+  "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Seattle",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "swe",
-      "label": "Software",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
+      "id": "swe",
+      "label": "Software",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b05211559a0148ccbf42931dddeb3f35f976f267",
+      "title": "Product Data Science Intern",
+      "url": "https://go.vansh.nyc/1D2",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "d91a7be8f3e25bf7148a00aa25eaa102a6dab3a1",
       "title": "Software Engineer Intern",

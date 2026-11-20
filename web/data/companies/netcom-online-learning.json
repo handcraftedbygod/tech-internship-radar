@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 32,
-  "avgPostingDurationDays": 10.8,
+  "totalPostings": 34,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 32
+      "count": 34
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 32
+      "count": 34
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     13,
     10,
     0,
-    9,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e15271a531e99c3ee934bfc5b30a70249e98603",
+      "title": "Data Analyst Trainee",
+      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57595522",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "d7fd7fdb42279fb6a2c1e4490bb003c9cc36440c",
+      "title": "Cyber Security Engineer Trainee",
+      "url": "https://www.reed.co.uk/jobs/cyber-security-engineer-trainee/57595518",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "0b51bc3d1d4818fb6c2a8b88b3d48bd22e4bf6cf",
       "title": "Trainee Cyber Security Engineer",
@@ -89,20 +103,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57557168",
       "location": "Birmingham",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "7168b1698161d9056df88dfeaa1871563728659b",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5955994047?se=gtcM6XPa8RGD5Iv7NVeOtg&utm_medium=api&v=95ADC36B017AD6413D3DFB7772C21D0BC740B2E3&utm_source=freehire.me",
-      "location": "Birmingham, West Midlands",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "7a7e503c51477e6b244d8f7a19e90cfa2cb5ecf1",
-      "title": "Trainee Data Analyst (Excel, SQL & Power BI)",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst-excel-sql-power-bi/57385020",
-      "location": "Sheffield",
-      "firstSeenAt": "2026-09-24T13:06:51.115Z"
     }
   ]
 }

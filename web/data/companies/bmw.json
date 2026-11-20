@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 12
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     6,
     10,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96aa050654df5fe0d47c58d4eccb324bb30d7ed5",
+      "title": "Praktikum Artificial Intelligence & Agentic AI im Produktionssystem (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1655457-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "9e9e582f880da62f5f48ed66909ac1c546933f0d",
       "title": "Praktikant Software Entwicklung in der Logistikplanung (w/m/x)",
@@ -103,13 +110,6 @@
       "id": "ecf820795e38b14ad74e0037715e679d5d4ab8d5",
       "title": "Praktikant Data Science Einsatzänderungssteuerung (w/m/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1629006-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
-    },
-    {
-      "id": "e18b7e4a7ebfbaabac6e38401ccaf3e0f40df860",
-      "title": "Praktikant Machine Learning für Fahrzeugeffizienz (m/w/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1630330-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }

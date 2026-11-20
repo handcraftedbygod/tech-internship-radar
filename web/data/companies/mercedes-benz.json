@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 55,
+  "totalPostings": 59,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 44
+      "count": 48
     },
     {
       "hub": "Stuttgart",
@@ -32,12 +32,17 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 32
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 25
+      "count": 26
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -51,10 +56,38 @@
     19,
     10,
     14,
-    12,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc25bfe3b4e4edd9ef469131c213e836b7626b47",
+      "title": "Praktikant*in Data Analytics & Dashboard Management – MO360 Cloud Platform",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655502-1-S",
+      "location": "Böblingen",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "85db8810228c2f8ef28f8e38e5b8caf1060ee7dd",
+      "title": "Intern AI-Assisted Software Engineering for Automotive UX/UI",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655532-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "eb2654ae854d18581743e930edaf1e06c04d9a45",
+      "title": "Praktikant*in Software Engineering: Analyse- & KI-Tools",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655717-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "aadb9196b54452efd994c02df818e6b29657e6f8",
+      "title": "Werkstudent*in Entwicklung von Fahrzeugelektronik und Software",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-3-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "5a0880f2fcef96e7693a040a17e25f570c56f925",
       "title": "Praktikant*in Data Analytics & Business Intelligence – Connected Car & After Sales (Pflicht-Praktikum)",
@@ -96,34 +129,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-2-S",
       "location": "Immendingen",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "1518575af45e64bdc2725d998b80ad89050c8885",
-      "title": "Working Student Autosar Software Testing & Test Automation",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1651345-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "b5b575fa5385db3013284a26f9f5cc567fcfea8f",
-      "title": "Praktikant*in Data Analytics & AI | Mercedes-Benz Operating System (MB.OS)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1649889-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "842227e6e5103da313c198dc102f458f524ab007",
-      "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1650078-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "da3e362c6d6b4a2b4d803c291b40f1b41aacfae8",
-      "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
-      "url": "https://jobs.mercedes-benz.com/werkstudent-in-software-engineering-analyse--ki-tools-244887-MER0004A23?utm_source=freehire.me",
-      "location": "Sindelfingen, Germany",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

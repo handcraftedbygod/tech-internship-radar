@@ -2,14 +2,14 @@
   "slug": "spacex",
   "name": "SpaceX",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 42.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ai",
@@ -39,10 +39,24 @@
     3,
     0,
     1,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "81d026d5c5a013542c2539c0faaa9e1d0ca25c14",
+      "title": "Software Engineer, Alerts",
+      "url": "https://go.vansh.nyc/1D5",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "3b46a5e357da6aa201e881ddc577eae3eca524b6",
+      "title": "Backend Software Engineer, GNC",
+      "url": "https://go.vansh.nyc/1D4",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "6df688ddd3b957ce884a045da0703062389f491c",
       "title": "Full Stack Software Engineer (Starlink)",
@@ -98,20 +112,6 @@
       "url": "https://job-boards.greenhouse.io/spacex/jobs/8621756002",
       "location": "Remote",
       "firstSeenAt": "2026-08-07T05:39:42.829Z"
-    },
-    {
-      "id": "be30fdd530ef41feb675699c1bb7743a2968d0cf",
-      "title": "Spring 2027 Software Engineering Internship/Co-op",
-      "url": "https://www.themuse.com/jobs/spacex/spring-2027-software-engineering-internshipcoop",
-      "location": "Brownsville, TX, El Segundo, CA, Irvine, CA, Lockhart, TX, Palo Alto, CA, Redmond, WA, Rockledge, FL, Waco, TX",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
-    },
-    {
-      "id": "02e4bcb36549ba1e2857f276694367ed6cdb51c3",
-      "title": "Summer 2027 Software Engineering Internship/Co-op",
-      "url": "https://www.themuse.com/jobs/spacex/summer-2027-software-engineering-internshipcoop",
-      "location": "Brownsville, TX, El Segundo, CA, Irvine, CA, Lockhart, TX, Palo Alto, CA, Redmond, WA, Rockledge, FL, Waco, TX",
-      "firstSeenAt": "2026-08-04T06:27:05.825Z"
     }
   ]
 }

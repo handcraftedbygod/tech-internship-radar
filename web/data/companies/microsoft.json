@@ -2,14 +2,14 @@
   "slug": "microsoft",
   "name": "Microsoft",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 21,
+  "totalPostings": 22,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Dublin",
@@ -30,7 +30,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     10,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "67861b20bd7e8219699f513bf0d26e6f84f86f79",
+      "title": "Research Intern, AI/Machine Learning Numerics & Efficiency",
+      "url": "https://go.vansh.nyc/1Dx",
+      "location": "Redmond, WA, Mountain View, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "e3fc97471f3e635d3f23a43ba036fb177970acd0",
       "title": "Research Intern, Computer Vision and Deep Learning",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/19t",
       "location": "Redmond, WA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "fc38a6c5c45b30defc254904e67f9c917dbfcafb",
-      "title": "First-Year Explore Program Engineering Intern",
-      "url": "https://go.vansh.nyc/199",
-      "location": "Redmond, WA",
-      "firstSeenAt": "2026-11-02T12:02:27.024Z"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "allegrospz",
+  "name": "allegrospz",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ee8e72d18ec0639692c5406f9ab7d91153192c18",
+      "title": "Junior DevOps Engineer (One Delivery)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37386481__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "0b070815f5c1f2d4f1f282ca4b96baa342432500",
+      "title": "Junior DevOps Engineer: Cloud & Kubernetes, Hybrid",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37383328__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

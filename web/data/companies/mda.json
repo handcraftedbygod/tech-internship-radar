@@ -2,9 +2,9 @@
   "slug": "mda",
   "name": "MDA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5249013ec8156deca740ba6464a22e9561763a02",
+      "title": "Engineering Student Intern, AI/ML Specialist",
+      "url": "https://go.vansh.nyc/1DO",
+      "location": "Richmond, Canada",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "8247aefcc36e3761fd6d057189100eeaeccaf72d",
       "title": "Student Cyber Security Analyst Intern",

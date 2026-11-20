@@ -1,0 +1,64 @@
+{
+  "slug": "smule",
+  "name": "Smule",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b1d80f6cb18edae9b45dc68232e9f694897a91bb",
+      "title": "Research Engineer Intern",
+      "url": "https://go.vansh.nyc/1Eo",
+      "location": "Salt Lake City, UT",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "43b39222dfa2904ae00596eef95710b0f902905b",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://go.vansh.nyc/1En",
+      "location": "Salt Lake City, UT",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "224f0064ee73b51daf87031c082ff0d9e4e93f38",
+      "title": "Applied Research Scientist Intern",
+      "url": "https://go.vansh.nyc/1Em",
+      "location": "Salt Lake City, UT",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

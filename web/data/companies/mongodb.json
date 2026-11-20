@@ -2,9 +2,9 @@
   "slug": "mongodb",
   "name": "MongoDB",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,16 @@
       "id": "swe",
       "label": "Software",
       "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +44,24 @@
     0,
     0,
     5,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "99422eff84f894844cf1288f9235441407ea27d2",
+      "title": "2027 - Tax Intern, New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8301842",
+      "location": "New York City",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "a185a3c88534baf5a11cb54aca74e1e05b192398",
+      "title": "2027 - AI and People Transformation Intern, NYC",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+      "location": "New York City",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "3edf982f724baa69c6176f309e100a75859c01af",
       "title": "2027 - Summer Software Engineer Intern, Dublin",

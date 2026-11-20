@@ -2,21 +2,25 @@
   "slug": "fortray-global-service",
   "name": "Fortray Global Service Limited",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
+    },
+    {
+      "hub": "Dublin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fdc72ef49236750580be861a3c5c814aef32cffd",
+      "title": "Junior Data Analyst: Dashboards, SQL & Insights",
+      "url": "https://www.jobleads.com/gb/job/junior-data-analyst-dashboards-sql-insights--united-kingdom--e372ae67ae2a0a6f6780ac0ae6d50f01f?utm_source=freehire.me",
+      "location": ",",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "ab1174c256ba6c106c50b2cf4ae385400c67fe77",
+      "title": "Junior Cloud Engineer (Entry-Level)",
+      "url": "https://www.linkedin.com/jobs/view/4492181900/?utm_source=freehire.me",
+      "location": "Dublin, County Dublin, Ireland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "e75d4d4218637584e91fc98151eeded619de5ae9",
       "title": "Junior Cloud Engineer",

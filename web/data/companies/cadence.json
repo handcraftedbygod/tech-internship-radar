@@ -2,9 +2,9 @@
   "slug": "cadence",
   "name": "Cadence",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
@@ -17,6 +17,10 @@
     },
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Boston",
       "count": 1
     }
   ],
@@ -24,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
@@ -43,10 +47,24 @@
     0,
     3,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ec12794250f4e5cc54d0efebd4ad54e315a3dfe0",
+      "title": "Intern Software Engineer, Summer 2027, Three Month Duration",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170?utm_source=freehire.me",
+      "location": "EDINBURGH 01",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "6c52186fef5a8588f4dde775f5447ae684ec6223",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1El",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "0902ee127d72b6012bbd3726344704b7b16e3146",
       "title": "CST Application Engineer Intern, Silicon",

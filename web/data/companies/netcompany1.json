@@ -2,21 +2,21 @@
   "slug": "netcompany1",
   "name": "Netcompany1",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "292fdf839e223ca6d79a94f12226e4ea2a2be9b0",
+      "title": "Junior .NET Developer for Netcompany Banking Services (f/m)",
+      "url": "https://jobs.smartrecruiters.com/Netcompany1/744000162477760-junior-net-developer-for-netcompany-banking-services-f-m-?utm_source=freehire.me",
+      "location": "Warsaw, Masovian Voivodeship, pl",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "2a3c0bf129785703242389b1e3ff10507a085cf3",
       "title": "Junior Cloud DevOps Engineer (Azure) (f/m)",

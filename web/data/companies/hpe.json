@@ -2,20 +2,25 @@
   "slug": "hpe",
   "name": "HPE",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f6f4bb3745d4e9a01d1f909b432b3dd3994d51dd",
+      "title": "Systems / Software Engineer I",
+      "url": "https://go.vansh.nyc/1E0",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "e4fc2e9962739720a9332e80c4257507f403e3bb",
       "title": "AI Automation Engineer",

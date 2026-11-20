@@ -2,14 +2,14 @@
   "slug": "starapple",
   "name": "Starapple",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Amsterdam",
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     2,
     1,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "49f3ca26e1c7b197ccec84d1336b339f215c0796",
+      "title": "Junior data engineer",
+      "url": "https://www.linkedin.com/jobs/view/4486897102/?utm_source=freehire.me",
+      "location": "Enschede, Overijssel, Netherlands",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "fbefc4321fd79b0611456fb37ca2d26227daa66d",
       "title": "Junior software developer",

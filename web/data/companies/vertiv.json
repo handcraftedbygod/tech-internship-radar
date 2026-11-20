@@ -2,14 +2,14 @@
   "slug": "vertiv",
   "name": "Vertiv",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "design",
@@ -40,10 +40,17 @@
     2,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c2583e95f6a605aadcb25e2ca82dd31b207aa4c6",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/1DF",
+      "location": "Westerville, OH, Fort Lauderdale, FL, Huntsville, AL",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "6d1ab8c1a7735cf5c3f2a812356645e3e534b5f3",
       "title": "UI/UX Design Intern",

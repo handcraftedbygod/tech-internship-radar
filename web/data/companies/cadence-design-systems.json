@@ -2,14 +2,18 @@
   "slug": "cadence-design-systems",
   "name": "Cadence Design Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "product",
       "label": "Product",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +44,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1dda2f7ff20e1e73dca438d8c1a8b5b1a15d8a8b",
+      "title": "Software Engineering, Verification IP Team",
+      "url": "https://go.vansh.nyc/1Eq",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "8c9181fc7ff8d39eee06ce01c56ce64c5c7512f5",
       "title": "Junior Product Engineer",

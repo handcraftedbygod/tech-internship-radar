@@ -1,0 +1,57 @@
+{
+  "slug": "scout-space",
+  "name": "Scout Space",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2815d66e160731238f2e9661ff772cf7295f1e17",
+      "title": "Embedded Firmware Engineering Intern",
+      "url": "https://go.vansh.nyc/1CU",
+      "location": "Reston, VA, Remote, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "3277eceb28cc4aa79d7126ba3e79f47217757731",
+      "title": "Computer Vision Engineer Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1CQ",
+      "location": "Reston, VA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

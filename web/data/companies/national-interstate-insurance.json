@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-28T10:22:09.805Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -40,10 +40,17 @@
     0,
     0,
     10,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5e120ed99ea7989ee30f1890bc4e701b05b872be",
+      "title": "Data Engineer Developer Intern",
+      "url": "https://go.vansh.nyc/1Ek",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "ae02d7307cbb183523b627c88312a67b9ab0837f",
       "title": "Predictive Analytics Intern",
@@ -106,13 +113,6 @@
       "url": "https://go.vansh.nyc/Zd",
       "location": "Cincinnati, OH",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "d7fced3c60dcf01b704be30a9b6d91e28c22987f",
-      "title": "Claims Lab Developer Intern",
-      "url": "https://go.vansh.nyc/Wm",
-      "location": "Cincinnati, OH",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

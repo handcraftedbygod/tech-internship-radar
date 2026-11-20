@@ -2,21 +2,21 @@
   "slug": "formlabs",
   "name": "Formlabs",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     2,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9654eaa548766c0084c2f627ee412dd5630e5729",
+      "title": "API & Automation Intern",
+      "url": "https://go.vansh.nyc/1DS",
+      "location": "Somerville, MA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "03ae500f856dadac7053c9aa402a4ce6685cae5b",
       "title": "Desktop Software Intern",

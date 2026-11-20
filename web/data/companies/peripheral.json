@@ -2,21 +2,21 @@
   "slug": "peripheral",
   "name": "Peripheral",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a59a921f9c66db2522308e48f576085120c7383d",
+      "title": "Software Engineering Intern, Viewer",
+      "url": "https://go.vansh.nyc/1CX",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "490892c011408f4393ab618cc43794276e529f67",
       "title": "ML Research Intern, Reconstruction",

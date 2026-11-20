@@ -2,26 +2,26 @@
   "slug": "airbus",
   "name": "Airbus",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 15,
-  "avgPostingDurationDays": 9.3,
+  "totalPostings": 17,
+  "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -40,10 +40,24 @@
     3,
     1,
     3,
-    8,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e23c27655513bef583ddab67b56237a93e503e27",
+      "title": "Aerospace Software Engineering Intern (Python/LabVIEW)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372771146__7107?utm_campaign=publisher&utm_medium=api&geoID=3529&utm_source=freehire.me",
+      "location": "Getafe, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "f5007efa557a9684e56fe5792837dc5b2c1b6522",
+      "title": "Aerospace Technical Data Engineer Intern — 11-Month Program",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372770720__7107?utm_campaign=publisher&utm_medium=api&geoID=2166&utm_source=freehire.me",
+      "location": "Albacete, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "d39f0fd5331004e13e2c67829a46dcbae9dc6f2d",
       "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems",
@@ -99,20 +113,6 @@
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/Intern-Backend-Developer_JR10451110?utm_source=freehire.me",
       "location": "Gdansk",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "08e5e80a729a319139ff324b8f2c4f477dfe955c",
-      "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/JR10440295-Internship-2027--Data-Analyst-in-Supply-Chain--F-H-_JR10440295?utm_source=freehire.me",
-      "location": "Toulouse Area",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "b40bc21cae250a1603e5e562ada5df676361dc0d",
-      "title": "Early Career - Embedded Software Engineer (m/f)",
-      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Early-Career---Embedded-Software-Engineer--m-f-_JR10434088?utm_source=freehire.me",
-      "location": "Toulouse Area",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

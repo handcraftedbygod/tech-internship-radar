@@ -2,21 +2,21 @@
   "slug": "back-to-work",
   "name": "Back TO Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     9,
     1,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "930f106578a0e876ad72df91f169e650af1fac49",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5971737822?se=PhSx-0bk8RGQJ4OjMrqrVA&utm_medium=api&v=A6CD4E8C7F95D14721FEF5AB2FA1F41CDD3AA125&utm_source=freehire.me",
+      "location": "Stanley, Liverpool",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "52b4505468b41cf2a76c55b3157cef585448d5e7",
       "title": "Junior Data Analyst - Build Insights & Pipelines",
@@ -96,13 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5850920472?utm_medium=api&utm_source=freehire.me",
       "location": "Hazel Grove, Stockport",
       "firstSeenAt": "2026-08-23T04:36:48.924Z"
-    },
-    {
-      "id": "08e8c4a83b9fef0b9c156a2f376268a184c842e5",
-      "title": "Junior Data Analyst",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5830421671?se=NoxQTJSW8RGZjegz1di2Mg&utm_medium=api&utm_source=freehire.me&v=4E5964C76B1BBB12A7AA32E7AF8C5DA41F0D0A6A",
-      "location": "Stanley, Liverpool",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "williams-commerce",
   "name": "Williams Commerce",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "da12b89a7308eff5a87ec7f46c11e22bb4fbb719",
+      "title": "Junior Frontend Developer — Hybrid Role + Unlimited Holiday",
+      "url": "https://www.jobleads.com/gb/job/junior-frontend-developer-hybrid-role-unlimited-holiday--leicester--e07bcdd7bed06d73525fc0bf40774c4a1?utm_source=freehire.me",
+      "location": "Leicester, England",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "daee0b078f42c232817474b8869d5d027ea5c273",
       "title": "Junior Frontend Developer",

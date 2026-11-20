@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 37,
+  "currentOpenings": 38,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 101,
+  "totalPostings": 102,
   "avgPostingDurationDays": 24.8,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 63
+      "count": 64
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 77
+      "count": 78
     },
     {
       "id": "biz",
@@ -57,10 +57,17 @@
     33,
     26,
     25,
-    17,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f460e908bc91ea17730d9233e8a515359a5af98",
+      "title": "Junior Accountant O2C",
+      "url": "https://careers.glovoapp.com/job/junior-accountant-o2c-in-barcelona-spain-jid-744000162677962/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "b9d4bf807157742ed04ef81ee1ce871b4d584fff",
       "title": "Junior Backend Engineer (They/She/He)",
@@ -122,13 +129,6 @@
       "title": "Account Manager Intern Q-Commerce Retail",
       "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-retail-in-madrid-spain-jid-744000161254544/",
       "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "5c5baf23c632ea0bd128e5e0721268dbeddf6f4e",
-      "title": "Junior Accountant O2C",
-      "url": "https://careers.glovoapp.com/job/junior-accountant-o2c-in-barcelona-spain-jid-744000161126769/",
-      "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

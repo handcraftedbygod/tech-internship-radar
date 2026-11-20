@@ -2,14 +2,14 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 11
+      "count": 12
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     2,
     0,
     9,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2f3c2d80ad904a6e673207f05d48d5f6eec150df",
+      "title": "Junior Data Scientist",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-data-scientist-berlin-121690",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "ce35318f896be9faacc931aadd428fb9514d8f5b",
       "title": "Junior Data Scientist",
@@ -101,13 +108,6 @@
       "url": "https://jobs.ashbyhq.com/almedia/9da70ef8-9cdc-4342-8e78-00206aac158d?utm_source=freehire.me",
       "location": "Berlin",
       "firstSeenAt": "2026-10-09T11:10:10.640Z"
-    },
-    {
-      "id": "5c8f9e77bd0ccd9e40e6ca20497ab667b1aff33e",
-      "title": "Junior Backend Engineer",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-backend-engineer-berlin-91141",
-      "location": "Berlin",
-      "firstSeenAt": "2026-08-03T06:58:28.460Z"
     }
   ]
 }

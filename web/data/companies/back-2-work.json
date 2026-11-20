@@ -2,21 +2,21 @@
   "slug": "back-2-work",
   "name": "Back 2 Work",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e8ddffb2232273a06248f510c3bc7f621f1e6762",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5972024055?utm_medium=api&utm_source=freehire.me",
+      "location": "Liverpool, Merseyside",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "cad460ae53056ab63aebd104b4ba055ed6d26ceb",
       "title": "Junior Cybersecurity & Networking Technician",

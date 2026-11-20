@@ -2,21 +2,21 @@
   "slug": "rever-yc-s22",
   "name": "REVER (YC S22)",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2a085cd364dd0ecc3ebd1d9b6b2b0b9259a594f4",
+      "title": "Junior Software Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370669655__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "bea658b48307a89fe4ec7a3fc25a7ab92d3618a2",
       "title": "Junior Software Engineer",

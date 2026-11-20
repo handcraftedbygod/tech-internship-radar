@@ -2,9 +2,9 @@
   "slug": "voi-technology",
   "name": "Voi Technology",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Berlin",
       "count": 1
+    },
+    {
+      "hub": "Paris",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -38,10 +42,17 @@
     0,
     2,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ff0fb76653a89df4054cf134b6b92386d138338a",
+      "title": "Public Policy & Communications Intern - Paris",
+      "url": "https://careers.voi.com/jobs/8771080-public-policy-communications-intern-paris",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "2fcde33cafac58671d053aad9c6fddd9b85758c3",
       "title": "Working Student - Street Patrol (m/w/d)",

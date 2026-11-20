@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 38,
-  "avgPostingDurationDays": 11.1,
+  "totalPostings": 41,
+  "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 26
+      "count": 28
     },
     {
       "hub": "Vancouver",
@@ -18,13 +18,17 @@
     {
       "hub": "Toronto",
       "count": 5
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 13
+      "count": 15
     },
     {
       "id": "ai",
@@ -39,7 +43,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -53,10 +57,31 @@
     0,
     0,
     28,
-    10,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e5773f34c367e8b1c804f46402b3d20a2737852b",
+      "title": "FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough",
+      "url": "https://careers.qualcomm.com/careers/job/446722197636?utm_source=freehire.me",
+      "location": "Farnborough, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "73dc1aeeac45c662299d5b0a8d7578dd19b081bd",
+      "title": "DSP Applications Software Engineer - ASICS Engineering",
+      "url": "https://go.vansh.nyc/1Ec",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "30ed27a728f23cacc1ac88e261f3c7263a5396d5",
+      "title": "Noc Interconnect Design Engineer and Architect",
+      "url": "https://go.vansh.nyc/1DH",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "82c09537fd8625ba7f743dd3d1b780d1452ccaac",
       "title": "GPU Compiler Development Intern, HW",
@@ -105,27 +130,6 @@
       "url": "https://go.vansh.nyc/1hp",
       "location": "Markham, Canada",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "f0708c59b3cbf94562f562e536cdb3792ba6a566",
-      "title": "Machine Learning Engineering Intern",
-      "url": "https://go.vansh.nyc/1ho",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "2b3c7c1e4ab6a327edc587bcac491f72385dd61f",
-      "title": "Verification Engineer Intern",
-      "url": "https://go.vansh.nyc/1bu",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "51a92556f48c66c70f8441e9ce3096092ad2558a",
-      "title": "SoC Engineering Intern",
-      "url": "https://go.vansh.nyc/1a0",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

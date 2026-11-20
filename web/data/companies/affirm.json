@@ -2,9 +2,9 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 34.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "London",
@@ -28,11 +28,16 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -47,10 +52,24 @@
     0,
     0,
     8,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0b209c076a60a8d98de0ef692d8d98b19131792",
+      "title": "Internal Auditor I (2027 Early Career Program)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8206173003",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "ca41597c34257d65cd5bf547c98648746e0b217d",
+      "title": "Capital Markets Specialist I (2027 Early Career Program)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8205833003",
+      "location": "New York, New York, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "6034f89e853dcf9dce54adeb2ec2d6241e96d688",
       "title": "Software Engineer 1, Backend, Continuous Delivery",
@@ -104,13 +123,6 @@
       "id": "23e1b5678d29cb8d4788ff6bb55d8ab93196ca5b",
       "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-      "location": "San Francisco, California, United States",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "3fabeb1b4cf63e7cd4d565e10acc3fe3dae39874",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
       "location": "San Francisco, California, United States",
       "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }

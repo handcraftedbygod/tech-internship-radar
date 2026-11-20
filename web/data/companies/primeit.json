@@ -2,10 +2,10 @@
   "slug": "primeit",
   "name": "PrimeIT",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Lisbon",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "ai",
@@ -48,10 +48,24 @@
     1,
     0,
     4,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c82b4a4e41f71252e51db0849ae08bd4aea175f",
+      "title": "Junior Java Developer",
+      "url": "https://www.linkedin.com/jobs/view/4491609930/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "8701f410117a7fe4dc93072c79e0becbc6178c7b",
+      "title": "Junior Java Developer",
+      "url": "https://www.linkedin.com/jobs/view/4492162702/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "74ea584aaf0ebf23249cf4d0b3a6131a01923f51",
       "title": "Junior Python Fullstack Developer",
@@ -107,20 +121,6 @@
       "url": "https://pt.whatjobs.com/pub_api__cpl__16819684__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Portugal",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "c3a185b32089ff4895fcee14233430decc1d051c",
-      "title": "Junior Java Developer | Recent Graduate",
-      "url": "https://pt.whatjobs.com/pub_api__cpl__16819828__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "bff0f193d5132ca8aec8ebba85e1698d81ed5bde",
-      "title": "DevOps Junior",
-      "url": "https://pt.whatjobs.com/pub_api__cpl__16697084__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-08-17T04:41:48.092Z"
     }
   ]
 }

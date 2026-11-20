@@ -2,14 +2,14 @@
   "slug": "centene",
   "name": "Centene Corporation",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7258e2d663647243a357358fc32027843bbf6332",
+      "title": "Undergraduate Analytics Engineering Intern",
+      "url": "https://go.vansh.nyc/1DY",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "e52af06a402e75d5a68401113e63cfc3a5d76cdf",
       "title": "Cybersecurity Intern",

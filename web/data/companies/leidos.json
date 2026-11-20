@@ -2,14 +2,14 @@
   "slug": "leidos",
   "name": "Leidos",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 31,
+  "totalPostings": 32,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 31
+      "count": 32
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "design",
@@ -40,10 +40,17 @@
     10,
     1,
     10,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3474997ba392b797a2405276f011911a0a5e56a2",
+      "title": "Software Developer Intern, AI Project",
+      "url": "https://go.vansh.nyc/1CT",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "256b2f20a4783140cc62df7e19a888f84e1f7287",
       "title": "Cybersecurity Intern",
@@ -104,13 +111,6 @@
       "id": "1d27ffa575d8ef582ddd23d29b97f0c877d75aba",
       "title": "Data Science Intern",
       "url": "https://go.vansh.nyc/1bf",
-      "location": "Arlington, VA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "e11967bacec5876b9616cb849202a3d0c47a50e1",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1bc",
       "location": "Arlington, VA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }

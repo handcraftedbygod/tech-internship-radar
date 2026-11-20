@@ -2,20 +2,25 @@
   "slug": "saragossa",
   "name": "Saragossa",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd92af1879128fa083b88fb19c42167f68caf7e8",
+      "title": "Junior Data Engineer - Energy Trading - up to £65,000",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__636370080__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "681ada9292fb4d4cf0504e914aa63a2f757f3dc7",
       "title": "Junior Data Analyst - Hedge Fund - up to £70,000 Salary",

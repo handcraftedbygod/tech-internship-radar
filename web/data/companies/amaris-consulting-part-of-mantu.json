@@ -2,9 +2,9 @@
   "slug": "amaris-consulting-part-of-mantu",
   "name": "Amaris Consulting | Part of Mantu",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
@@ -14,17 +14,21 @@
     {
       "hub": "Madrid",
       "count": 1
+    },
+    {
+      "hub": "Lisbon",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -39,10 +43,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "46c8b3296f973349b2bda7ab32ed12301072f7b2",
+      "title": "Junior Data Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4484668079/?utm_source=freehire.me",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "b08f89727db5cf60ddca840b7a4a1d94ddf237e7",
       "title": "Junior Project Manager - Cybersecurity",

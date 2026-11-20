@@ -2,21 +2,21 @@
   "slug": "cobase",
   "name": "Cobase",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ccf1e2e83b50e19dea11af71373488b80245cc5",
+      "title": "Junior Cloud Engineer: Azure, Kubernetes & Automation",
+      "url": "https://www.jobleads.com/nl/job/junior-cloud-engineer-azure-kubernetes-automation--amsterdam--e3f1a1aae52f9a06e8b378fee37166a68?utm_source=freehire.me",
+      "location": "Amsterdam, Noord-Holland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "1c7f3bba07aa09857f5f887a783506e8c34d87e0",
       "title": "Junior Cloud Engineer",

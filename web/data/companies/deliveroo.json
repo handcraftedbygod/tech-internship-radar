@@ -2,21 +2,21 @@
   "slug": "deliveroo",
   "name": "Deliveroo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     1,
     1,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dd7403a5bdf6c55a500c03da5652b54dd4b3cc68",
+      "title": "Software Engineering Summer Internship 2027 (London)",
+      "url": "https://devglobaljobs.com/jobs/detail/179106095?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "8ce2259ead6045d3db4881e090e878eae4902951",
+      "title": "Software Engineering Summer Internship 2027 (London)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineering-summer-internship-2027-london-165066",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "c846987cf4c4d2230ccf081d050083ca2691d5e0",
       "title": "Software Engineer, New Grad",

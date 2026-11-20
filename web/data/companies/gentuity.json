@@ -1,0 +1,45 @@
+{
+  "slug": "gentuity",
+  "name": "Gentuity",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "c25927c53dc7ed30aaad228fcd3efa265f42ce40",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1Do",
+      "location": "Sudbury, MA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "pebl",
+  "name": "Pebl",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "8253cec15a52d0ecf736f28e912726e63fcf752e",
+      "title": "DevSecOps Intern",
+      "url": "https://go.vansh.nyc/1CP",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

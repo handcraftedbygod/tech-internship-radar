@@ -2,20 +2,25 @@
   "slug": "sas",
   "name": "SAS",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a2ff5ec0e3249d13d089358256e39bcf1e7c8bfe",
+      "title": "Cybersecurity Compliance and AI Automation Intern",
+      "url": "https://go.vansh.nyc/1Dy",
+      "location": "Cary, NC",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "cbab044ac895821ed03117b8e4a45b26b6bd2a17",
       "title": "Software Developer Intern, Go/Golang",

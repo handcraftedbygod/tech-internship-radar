@@ -2,20 +2,25 @@
   "slug": "monks",
   "name": "Monks",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-14T11:15:38.078Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "05db758a78e894de5cbbf1a99bf061a52b7f80d7",
+      "title": "Junior Data Analyst ",
+      "url": "https://www.monks.com/careers/6266248004/job?gh_jid=6266248004&utm_source=freehire.me",
+      "location": "London",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "3884e5cbe2e7b5889b900a65af24be92106256cb",
       "title": "Junior Data Scientist ",

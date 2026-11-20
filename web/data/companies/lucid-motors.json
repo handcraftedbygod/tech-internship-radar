@@ -2,11 +2,15 @@
   "slug": "lucid-motors",
   "name": "Lucid Motors",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 1,
+  "totalPostings": 10,
   "avgPostingDurationDays": 27.1,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 9
+    },
     {
       "hub": "Amsterdam",
       "count": 1
@@ -16,6 +20,16 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 7
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +44,73 @@
     1,
     0,
     0,
-    0,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b49b8f270c7fd2d28ff18eb783cd0309b05eaae",
+      "title": "Infotainment SW Validation Automation Intern",
+      "url": "https://go.vansh.nyc/1E2",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "07662e20d16a9de7eb00a83f18ea61d82ad6cea7",
+      "title": "Product Security Engineering Intern",
+      "url": "https://go.vansh.nyc/1DW",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "9380e8a7f67440a51d2385a36a6ca0fd39d1e589",
+      "title": "Infotainment Software Intern",
+      "url": "https://go.vansh.nyc/1DU",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "f840750a36a620fe3569e48cec28321ec83a1cd4",
+      "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+      "url": "https://go.vansh.nyc/1DT",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "c4194817ce5fc4c2bbc5729378ebb0a233d6dc27",
+      "title": "Software QA Engineer Intern, Infotainment",
+      "url": "https://go.vansh.nyc/1DK",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "33d8aec6bba692d4776facfaee4ec76e8cdcdc6e",
+      "title": "OTA Test and Validation Automation Intern",
+      "url": "https://go.vansh.nyc/1DJ",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "e9bbc3d76ac55a8d7f2f5fe1e8bff5e360a06ae8",
+      "title": "AI & Data Intern, Applied AI/Machine Learning",
+      "url": "https://go.vansh.nyc/1DI",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "8074790f019f8b6bd9421a8365830327fa2b97a6",
+      "title": "Software Engineer Intern, SDET",
+      "url": "https://go.vansh.nyc/1Dw",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "21dd442a9f36a8ff7ce497da9e6525e27841a706",
+      "title": "Embedded Software Intern",
+      "url": "https://go.vansh.nyc/1Dv",
+      "location": "Newark, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "db0022e6b06e559432f16cde957a3bbe03a18cd2",
       "title": "Data Analyst Intern",

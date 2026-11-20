@@ -2,9 +2,9 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 8,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
@@ -14,13 +14,21 @@
     {
       "hub": "Helsinki",
       "count": 3
+    },
+    {
+      "hub": "Munich",
+      "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
     },
     {
       "id": "biz",
@@ -39,10 +47,31 @@
     4,
     0,
     0,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1b5e63c8c172f87caa5e69250e39a2162b5f1cf",
+      "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8405414",
+      "location": "München, Germany",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "f484c20fb7b4ab972582925da77d30296665df74",
+      "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8398891",
+      "location": "München, Germany",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "dbedf744a7c98c1b1d71ec5cf0bccd07624d7f56",
+      "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8405418",
+      "location": "Nuremberg, Germany",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "e1f5b4c1bc0e23087e91daa2ea3af4f81287a5e4",
       "title": "People Associate - Working Student",
@@ -89,13 +118,6 @@
       "id": "c5d14244efd4f5ba60b4aeae9b64332d1ad04412",
       "title": "Marketing Intern – Restaurant Partnerships (w/m/d)",
       "url": "https://job-boards.greenhouse.io/wolt/jobs/7996619",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-07-28T06:25:31.354Z"
-    },
-    {
-      "id": "b0e09731136c59c354fd3623452d485cfd688a96",
-      "title": "Marketing Intern – New Verticals & Retail Partnerships (w/m/d)",
-      "url": "https://job-boards.greenhouse.io/wolt/jobs/7995173",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-07-28T06:25:31.354Z"
     }

@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 52,
+  "totalPostings": 53,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 40
+      "count": 41
     },
     {
       "hub": "Austin",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     },
     {
       "id": "design",
@@ -66,10 +66,17 @@
     2,
     0,
     38,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0bba989990fcbcd4cb05f3451afa5e334ac3890e",
+      "title": "Finance AI Engineering Intern",
+      "url": "https://go.vansh.nyc/1Eh",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "9af965fa2b086bfefee430abc2de8be64529c55c",
       "title": "Deep Learning Framework Communications Engineer",
@@ -130,13 +137,6 @@
       "id": "50be2ccef84631d85b9fbb5194e3bb7ff5824311",
       "title": "Deep Learning Intern",
       "url": "https://go.vansh.nyc/12j",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "b31793c241664cbd108404e3f3a7fc2cbb360dfc",
-      "title": "Developer and Performance Technology Intern",
-      "url": "https://go.vansh.nyc/12i",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }

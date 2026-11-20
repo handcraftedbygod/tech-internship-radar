@@ -2,21 +2,21 @@
   "slug": "hcc-hessisches-competence-center",
   "name": "HCC – Hessisches Competence Center",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd00490ac656504cc9a0830b3c6ecef032dd1e96",
+      "title": "SAP Junior Developer (m/w/d)",
+      "url": "https://www.adzuna.de/details/5971453946?utm_medium=api&utm_source=freehire.me",
+      "location": "Wiesbaden, Wiesbaden (Kreis)",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "dd38c05886096821b791e2d7f34039aeb4d5653f",
       "title": "SAP Junior Developer (m/w/d)",

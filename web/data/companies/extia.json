@@ -1,15 +1,15 @@
 {
   "slug": "extia",
-  "name": "Extia",
+  "name": "Extia Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,31 @@
     0,
     0,
     1,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "62dd5aa0f406ffaa177a4842d7d50c4f5b07d885",
+      "title": "Ingénieur DevOps Junior — Télétravail & Formation Pro",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164828211__7079?utm_campaign=publisher&utm_medium=api&geoID=631&utm_source=freehire.me",
+      "location": "Montpellier, France",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "3325c21505a8ab6f6cdd6f80b965275bb39da463",
+      "title": "Ingénieur DevOps Junior (H/F)",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164813731__7079?utm_campaign=publisher&utm_medium=api&geoID=663&utm_source=freehire.me",
+      "location": "Castelnau le Lez, France",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "c09a30e10043d9c019b67fbf4d7c59f9928dd69a",
+      "title": "Ingénieur DevOps Junior – Cloud, CI/CD & Automatisation",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__164809831__7079?utm_campaign=publisher&utm_medium=api&geoID=663&utm_source=freehire.me",
+      "location": "Castelnau le Lez, France",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "73a819dc3140029c03e4209d4806dc7a1798fcf5",
       "title": "Junior QA Engineer / QA Tester",

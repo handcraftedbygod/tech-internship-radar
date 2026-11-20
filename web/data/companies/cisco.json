@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 53,
-  "avgPostingDurationDays": 9.2,
+  "totalPostings": 54,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 31
+      "count": 32
     },
     {
       "hub": "Krakow",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "hw",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cda9bcc4ead13e2d1be442a6ad70856b79fca90a",
+      "title": "AI Researcher II Intern",
+      "url": "https://go.vansh.nyc/1Eb",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "6ed1f9aef685f504810211530af90299fc86ea45",
       "title": "Technical Product Management Specialist I (Master's)",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1lU",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "f2052827a90d89eb8b16aaa3016ba2a1028afe2f",
-      "title": "Junior Software Engineer, Metadata Catalog - Splunk",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Software-Engineer--Metadata-Catalog---Splunk_2027777?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
     }
   ]
 }

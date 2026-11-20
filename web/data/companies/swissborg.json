@@ -2,21 +2,21 @@
   "slug": "swissborg",
   "name": "SwissBorg",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "815de41af7f16e477bf073c2adf2de16649dd2a8",
+      "title": "Cybersecurity Intern",
+      "url": "https://www.arbeitnow.ch/jobs/companies/swissborg/cybersecurity-intern-lausanne-447078?utm_source=freehire.me",
+      "location": "Lausanne",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "0cc32151721d43eb7d4bc22a3ae47466dc5d3271",
       "title": "Junior Data Analyst",

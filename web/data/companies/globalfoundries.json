@@ -2,34 +2,34 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 20,
+  "totalPostings": 22,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Austin",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "design",
       "label": "Design",
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 5
     },
     {
@@ -54,10 +54,24 @@
     0,
     0,
     13,
-    7,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "efd8629fa5ccafc6ed99674c938202d3ae0369c2",
+      "title": "New Grad 2027: Analyst, Data Systems and Automation",
+      "url": "https://go.vansh.nyc/1CZ",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "47821a96a2f5a2e8fdb0210d9fc9c23c829d851b",
+      "title": "New Grad 2027: Design-for-Test Engineer",
+      "url": "https://go.vansh.nyc/1CO",
+      "location": "Richardson, TX",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "bced275106445ef44e9d8bf25035646069e660c2",
       "title": "Tapeout Engineering Business Products & Engineering Intern",
@@ -113,20 +127,6 @@
       "url": "https://go.vansh.nyc/YF",
       "location": "Malta, NY, Essex Junction, VT",
       "firstSeenAt": "2026-10-29T10:44:48.298Z"
-    },
-    {
-      "id": "fe2a7ece525099d0d0f16ed8291760d13f70faf1",
-      "title": "New Grad 2027: AI Software Engineer",
-      "url": "https://go.vansh.nyc/AQ",
-      "location": "Santa Clara, CA, Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "ab58a8709157891254aee23972237d1658d8d1ea",
-      "title": "New Grad 2027: AI/ML Systems Engineer",
-      "url": "https://go.vansh.nyc/AA",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

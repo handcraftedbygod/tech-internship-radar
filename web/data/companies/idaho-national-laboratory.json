@@ -2,21 +2,21 @@
   "slug": "idaho-national-laboratory",
   "name": "Idaho National Laboratory",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
@@ -35,10 +35,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ebdf467d7b4c51285071133e3ec41d4fe218038f",
+      "title": "PSION Development Intern",
+      "url": "https://go.vansh.nyc/1Dz",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "9dec670e3fa57a42545d8232ed009e2d1879e5a7",
+      "title": "Software Engineering Intern, Java/API Development for Neutronics Code",
+      "url": "https://go.vansh.nyc/1D6",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "bcb0e34fb2276d5fb180e41cbc0ea501c9f6b20b",
       "title": "Electric Vehicle Charging Data Analysis Intern",

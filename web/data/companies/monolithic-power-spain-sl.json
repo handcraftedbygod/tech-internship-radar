@@ -2,21 +2,21 @@
   "slug": "monolithic-power-spain-sl",
   "name": "Monolithic Power Spain S.L.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     3,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "851cbf7f1772753f471df6afead784acab6df334",
+      "title": "Software Engineer Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370834135__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "159995e14bb98e27a24761a3a8ed04e9edd3ccd6",
       "title": "Software Engineer Intern",

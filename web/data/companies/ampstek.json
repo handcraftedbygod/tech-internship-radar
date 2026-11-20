@@ -2,21 +2,21 @@
   "slug": "ampstek",
   "name": "Ampstek",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "728b48bf150e81d89556f6cdcd917c0081e5110b",
+      "title": "Junior DevOps Engineer — Cloud, CI/CD & Automation",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50997335__7095?utm_campaign=publisher&utm_medium=api&geoID=8&utm_source=freehire.me",
+      "location": "Genf, Switzerland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "67412e40f5bda4cd2e7fdf0f393defff2583db1d",
       "title": "Junior DevOps Engineer",

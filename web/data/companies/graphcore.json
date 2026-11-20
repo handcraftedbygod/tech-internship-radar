@@ -2,21 +2,21 @@
   "slug": "graphcore",
   "name": "Graphcore",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 21.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57aa193bd93c6cff1ce5a806579fa26376c1f464",
+      "title": "Software Engineer Summer Intern, AI Compute Libraries & Performance 2027",
+      "url": "https://www.gradcracker.com/hub/833/graphcore/work-placement-internship/86680/software-engineer-summer-intern-ai-compute-libraries-and-performance-2027?utm_source=freehire.me",
+      "location": "Bristol",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "9e9635f926339d587756454095a8c53be140d70d",
       "title": "Software Engineering Summer Intern, Drivers and Utilities 2027",

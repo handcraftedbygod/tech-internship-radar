@@ -85,6 +85,13 @@
       "url": "https://www.ycombinator.com/companies/kuli"
     },
     {
+      "name": "Tenet Industries",
+      "oneLiner": "AI-automated factory for PCBAs",
+      "batch": "Spring 2026",
+      "location": "Munich, BY, Germany",
+      "url": "https://www.ycombinator.com/companies/tenet-industries"
+    },
+    {
       "name": "Complir",
       "oneLiner": "Vanta for physical products",
       "batch": "Spring 2026",
@@ -202,16 +209,16 @@
       "batch": "Summer 2025",
       "location": "Berlin, Berlin, Germany",
       "url": "https://www.ycombinator.com/companies/hera-video"
-    },
-    {
-      "name": "Finto",
-      "oneLiner": "AI accounting for enterprise finance teams",
-      "batch": "Summer 2025",
-      "location": "Munich, BY, Germany",
-      "url": "https://www.ycombinator.com/companies/finto-de"
     }
   ],
   "northAmerica": [
+    {
+      "name": "FluxCap",
+      "oneLiner": "FluxCap is Deep Legal Tech built to think like a lawyer",
+      "batch": "Spring 2026",
+      "location": "Washington, DC, USA",
+      "url": "https://www.ycombinator.com/companies/fluxcap"
+    },
     {
       "name": "Dualizer",
       "oneLiner": "Agentic physics simulation that debottleneck manufacturing",
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/ai-coach"
-    },
-    {
-      "name": "Lamb Labs",
-      "oneLiner": "Lightning fast chips with hardcoded AI models",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/lamb-labs"
     }
   ]
 }

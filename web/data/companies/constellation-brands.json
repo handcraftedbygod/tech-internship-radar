@@ -2,14 +2,14 @@
   "slug": "constellation-brands",
   "name": "Constellation Brands",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Chicago",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a1e1b157edc09a37233cf07ca51ca00c093015e5",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1DX",
+      "location": "Rochester, NY",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "c80bdba2b5592f2f231c8da4ff3d5ad809ba3dd1",
       "title": "Data and AI Enablement Intern",

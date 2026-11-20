@@ -1,0 +1,90 @@
+{
+  "slug": "cas",
+  "name": "CAS",
+  "tier": null,
+  "currentOpenings": 6,
+  "firstTrackedAt": "2026-11-20T12:32:34.034Z",
+  "totalPostings": 6,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 6
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "485da52339e85a393e3cc20f592f52c6dcf176db",
+      "title": "Infrastructure Engineer Intern, Technology",
+      "url": "https://go.vansh.nyc/1Ej",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "853923d30eaf4a4d0d70904db2118cd37641a8dc",
+      "title": "Technology Intern, Software Engineering",
+      "url": "https://go.vansh.nyc/1E9",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "fdb820bd2c6b07b1511a0b44d71e39957a362f58",
+      "title": "Technology Intern, Databases",
+      "url": "https://go.vansh.nyc/1E8",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "788868d10ce39164f46d224a5f5cc10d2e9e7308",
+      "title": "Technology Intern, Application Technology",
+      "url": "https://go.vansh.nyc/1E7",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "ac372eded2e7078f40a3454f140dc7466541b7b9",
+      "title": "Technology Intern, Business Data Governance",
+      "url": "https://go.vansh.nyc/1E6",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "3c96fb7bb6110cdc089029fb27b10d97dcc6d667",
+      "title": "Business Data Analytics Intern, AI/ML Focus",
+      "url": "https://go.vansh.nyc/1E5",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    }
+  ]
+}

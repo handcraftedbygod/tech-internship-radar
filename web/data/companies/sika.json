@@ -2,26 +2,26 @@
   "slug": "sika",
   "name": "Sika",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 3
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     2,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "47ba2ded2730785dc24d1e45e4fbdb78e3a91625",
+      "title": "ESG Digitalization Intern – Software & Data Engineering",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50986897__7095?utm_campaign=publisher&utm_medium=api&geoID=26&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "1cb5198c743de6dde2e510cb9eceb520e3f4c55d",
+      "title": "ESG Tech Intern: Software & Data Engineering",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50987253__7095?utm_campaign=publisher&utm_medium=api&geoID=26&utm_source=freehire.me",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "b1bfeb486c5c7f97a15c68e0a62582236cf8251f",
       "title": "Software Engineering Intern for CAD/CAE/Tooling",

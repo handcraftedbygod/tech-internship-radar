@@ -2,21 +2,21 @@
   "slug": "llnl",
   "name": "LLNL",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     5,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7d715c0b25095f7df3343fa5b1912cedd80453d",
+      "title": "Computing Undergraduate Student Intern, DevOps",
+      "url": "https://go.vansh.nyc/1DM",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "d8bd14da174a7d944ecd1daf76754f8e4aba78ef",
+      "title": "Computing Undergraduate Student Intern",
+      "url": "https://go.vansh.nyc/1DL",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "651c6ded93be529f86aabac450de57ee7f17138a",
       "title": "Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure",

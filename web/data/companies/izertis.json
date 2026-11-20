@@ -2,14 +2,14 @@
   "slug": "izertis",
   "name": "IZERTIS",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 2
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     1,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b3f1286de3fb9ad1c8385b86d901deb7b95fcbcd",
+      "title": "Junior Developer - PeopleSoft",
+      "url": "https://www.linkedin.com/jobs/view/4491695786/?utm_source=freehire.me",
+      "location": "Madrid, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "70687c83d970c3f1a6134cdc71eb33d53acd9e7e",
       "title": "Data Engineer Intern – Cloud & Data Pipelines (GCP)",

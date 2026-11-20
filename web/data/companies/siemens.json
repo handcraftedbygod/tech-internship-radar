@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 56,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 58,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 36
+      "count": 38
     },
     {
       "hub": "Munich",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 22
+      "count": 23
     },
     {
       "id": "hw",
@@ -57,10 +57,24 @@
     17,
     15,
     14,
-    10,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "681c7bfca42fa8588c8f39ad1b4157c526694c17",
+      "title": "Werkstudent (w/m/d) Management Support & Artificial Intelligence",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1654788-1-S",
+      "location": "Fürth, Odenwald",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
+    {
+      "id": "84054748e609611a166abcbba480213d9cb6db7f",
+      "title": "Werkstudent (w/m/d) mit Masterarbeit: \"Software, Datenplattform und KI für eine autonome...",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1654793-1-S",
+      "location": "Krefeld",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "d6c2e87fc887f765ce2c9c698cd2ae89300592fd",
       "title": "Full-Stack Web Developer Intern — C#/ASP.NET, Razor Pages",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S",
       "location": "Erlangen",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "a1925ef0d48053a0678e1b2e92ec21e46d3806d6",
-      "title": "Werkstudent (w/m/d) KI-gestützte Software- und Plattformentwicklung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1646595-2-S",
-      "location": "Berlin",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "903cfd0a6f72c69abe2b8f138b46425bc6389a9a",
-      "title": "Werkstudent (w/m/d) Cybersecurity",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1601249-3-S",
-      "location": "Braunschweig",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
     }
   ]
 }

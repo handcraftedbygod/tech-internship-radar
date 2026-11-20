@@ -2,21 +2,21 @@
   "slug": "energy-jobline-zr",
   "name": "Energy Jobline ZR",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8932ed08c70dc3b26619aa3ba0b9b604c4654158",
+      "title": "Junior Fire & Security Engineer (Global Company) in Edinburgh",
+      "url": "https://www.energyjobline.com/job/junior-fire-security-engineer-global-company-edinburgh-32047525?utm_source=freehire.me",
+      "location": "Edinburgh, GB",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "01b4cd051b4bb177ede8678f713237aea36bcbaf",
       "title": "Junior Security Systems Engineer (Intruder Detection) in SM7",

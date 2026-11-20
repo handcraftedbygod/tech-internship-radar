@@ -2,21 +2,21 @@
   "slug": "treehouse",
   "name": "TreeHouse",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3fafd7182811c5a3018fcfa28f8013345ec4b28",
+      "title": "Junior Data Engineer - Alleen Voor Inwoners Van Nederland - €2.600 - €3.750 Per Maand",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__178091189__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "b9808467dfbcd7f9d8a3feb91b0a742fc73802a0",
       "title": "Junior Data Engineer - For Netherland Resident Only - €2.600 - €3.750 Per Maand",

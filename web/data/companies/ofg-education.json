@@ -2,21 +2,21 @@
   "slug": "ofg-education",
   "name": "OFG Education",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "65c9ca8363c09fc2feee002cd7a44ea0dfe11440",
+      "title": "Junior Data Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4487451897/?utm_source=freehire.me",
+      "location": "Manchester, England, United Kingdom",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "cf463107f8ebc022ab54e8d2c88eb43a0a43742f",
       "title": "Junior Data Engineer",

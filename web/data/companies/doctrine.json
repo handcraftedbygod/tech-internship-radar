@@ -2,21 +2,21 @@
   "slug": "doctrine",
   "name": "doctrine",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     0,
     7,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1aaa9993f025dab688ac82e960311b2d3f63b703",
+      "title": "STAGE - Junior SRE (Foundation squad)",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-sre-foundation-squad-paris-252091",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "0805710a3f81b140233b0d8b57ad908db343c70e",
       "title": "STAGE - Junior Fullstack Engineer - Jobexit",

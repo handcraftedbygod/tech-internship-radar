@@ -2,21 +2,21 @@
   "slug": "smadex-slu",
   "name": "Smadex SLU",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     2,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5700b8f2137b6d88804a632e70ce15a22f2b39b",
+      "title": "Software Internship",
+      "url": "https://www.adzuna.es/details/5972382002?utm_medium=api&utm_source=9141e2e6",
+      "location": "Barcelona",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "475c4f6d0e54a325f1c55c0aa904e716d0d62444",
       "title": "Junior Software Engineer",

@@ -2,9 +2,9 @@
   "slug": "micron-technology",
   "name": "Micron Technology",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 34,
+  "totalPostings": 35,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Munich",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "swe",
@@ -53,10 +53,17 @@
     1,
     0,
     18,
-    15,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d01444ed6b65f756d7673a185f5c738ca7a5cc7",
+      "title": "AI Innovation Research Engineer (Master's)",
+      "url": "https://go.vansh.nyc/1E1",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-20T12:32:34.034Z"
+    },
     {
       "id": "aa4ed073f4e07de84851fb995deec44da3e6ce8e",
       "title": "Software Engineer",
@@ -118,13 +125,6 @@
       "title": "New Grad: Engineer, Edge Systems Architecture",
       "url": "https://go.vansh.nyc/1ds",
       "location": "Boise, ID",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "d4a64fd6bcb992963ffb41709ddd7858550e7da7",
-      "title": "SSD Firmware Intern, CICD",
-      "url": "https://go.vansh.nyc/1d7",
-      "location": "Longmont, CO",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
