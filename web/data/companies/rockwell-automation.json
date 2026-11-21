@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 10,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 11
     },
     {
       "hub": "Katowice",
@@ -20,7 +20,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
@@ -30,7 +30,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -44,10 +44,24 @@
     1,
     0,
     5,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "871a511becb284add125487b7ad30112657de1e4",
+      "title": "ISM, Cyber Security and AI Intern",
+      "url": "https://go.vansh.nyc/1G7",
+      "location": "Mayfield Heights, OH",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "d03907c36b62ee42dd750ed14f99168b2d9db125",
+      "title": "Firmware Engineering Intern",
+      "url": "https://go.vansh.nyc/1Ey",
+      "location": "Milwaukee, WI",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "ca273fa9e318a8081e69e27b9b7cfa39ac11abae",
       "title": "Software Developer/Engineering Intern",
@@ -103,20 +117,6 @@
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321",
       "location": "Mequon, WI, Eden Prairie, MN",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "0847ea1fcb8d5a1e4bc5b171497f6284b9750e44",
-      "title": "Hardware Development Engineer Intern",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Hardware-Development-Engineer--May---Aug-2027-_R26-6892-2",
-      "location": "Mayfield Heights, OH",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "c151aa11fdfce42b5c271f6c7fc4408487364805",
-      "title": "Embedded Software, Intern",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Embedded-Software--Intern_R26-5675-1?utm_source=freehire.me",
-      "location": "Katowice, Poland",
-      "firstSeenAt": "2026-08-20T04:37:20.742Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 53,
+  "totalPostings": 54,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 41
+      "count": 42
     },
     {
       "hub": "Austin",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 35
+      "count": 36
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     2,
     0,
     38,
-    13,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6893e564dc6aedd91b903d2b058a8caabdea51fb",
+      "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
+      "url": "https://go.vansh.nyc/1F0",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "0bba989990fcbcd4cb05f3451afa5e334ac3890e",
       "title": "Finance AI Engineering Intern",
@@ -131,13 +138,6 @@
       "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
       "url": "https://go.vansh.nyc/10i",
       "location": "Santa Clara, CA, Austin, TX",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "50be2ccef84631d85b9fbb5194e3bb7ff5824311",
-      "title": "Deep Learning Intern",
-      "url": "https://go.vansh.nyc/12j",
-      "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]

@@ -2,21 +2,21 @@
   "slug": "dentsu-international-americas",
   "name": "Dentsu International Americas",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-16T12:28:17.000Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "56dc0ee2dae6005131cfebb5e22bbd5df0a7e9e6",
+      "title": "Junior Java Developer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372956227__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "87091635b7a703d93df14943de5c5c69b9506d62",
+      "title": "Junior Java Backend Developer | TDD, Agile, REST",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372955851__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "e018b628fc687776218518e7f61fd18ab06de8bd",
       "title": "Junior Java Backend Engineer - Community (Hybrid, Barcelona)",

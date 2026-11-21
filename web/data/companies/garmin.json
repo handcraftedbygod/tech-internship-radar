@@ -2,21 +2,21 @@
   "slug": "garmin",
   "name": "Garmin",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2b0e4f040fb5f72e9d69316c72d6bb6cfc69fa93",
+      "title": "Software Engineer Intern, Web/Mobile",
+      "url": "https://go.vansh.nyc/1Fa",
+      "location": "Yarmouth, ME",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "19e0b49005c437463c21f929d54f1e2a464128d3",
       "title": "Software Engineering Intern",

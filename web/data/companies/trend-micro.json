@@ -2,21 +2,21 @@
   "slug": "trend-micro",
   "name": "Trend Micro",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d086905b322cbc446bc8472a300d954aae15d786",
+      "title": "Software Developer",
+      "url": "https://go.vansh.nyc/1Gc",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "1e5fb6a7c6288ac002762d6d03209d6451b25e3c",
       "title": "Cyber Security Engineer Internship",

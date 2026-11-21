@@ -2,21 +2,21 @@
   "slug": "mcs",
   "name": "MCS Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     1,
     0,
     2,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3951709263f1c080947cd44e6f7d6ab1c97c072e",
+      "title": "Junior Data Analyst",
+      "url": "https://www.adzuna.co.uk/jobs/details/5972977817?utm_medium=api&utm_source=freehire.me",
+      "location": "Belfast, Northern Ireland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "2134eaabd37c8f9e61f2e9adc0fcff70879a838a",
+      "title": "Junior .Net Developer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5973389843?se=uEA_SHTl8RGB-bDIy5dDgQ&utm_medium=api&v=E6C767BCCD50AD5358D6D3958383351086C7D85D&utm_source=freehire.me",
+      "location": "Belfast, Northern Ireland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "906364585d115dd73abd81fc170cf6a80ad34d92",
       "title": "Junior support developer (Coleraine)",

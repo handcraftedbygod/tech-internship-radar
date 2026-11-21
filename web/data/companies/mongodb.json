@@ -2,9 +2,9 @@
   "slug": "mongodb",
   "name": "MongoDB",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "New York",
       "count": 3
+    },
+    {
+      "hub": "San Francisco",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -23,13 +27,13 @@
       "count": 5
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -44,10 +48,17 @@
     0,
     0,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5f346a7c5ecc08e9e3186dad6cecf743e874e963",
+      "title": "2027 - Finance Intern, San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346144",
+      "location": "San Francisco",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "99422eff84f894844cf1288f9235441407ea27d2",
       "title": "2027 - Tax Intern, New York City",

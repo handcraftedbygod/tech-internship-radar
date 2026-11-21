@@ -2,14 +2,14 @@
   "slug": "julius-baer",
   "name": "Julius Baer",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Madrid",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4bf90cbf853003cc1a2928e17a8b3ca9363f03af",
+      "title": "Junior Data Scientist: AI, Automation & Analytics",
+      "url": "https://www.jobleads.com/ch/job/junior-data-scientist-ai-automation-analytics--zurich--e430c4893f0664ed80d2b5d25cc977404?utm_source=freehire.me",
+      "location": "Zürich, Zürich",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "fdb63eb39df0e4041883ae68ee4048f5311801a8",
       "title": "Junior Frontend Engineer 100% (f/m/d)",

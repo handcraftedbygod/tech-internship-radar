@@ -2,14 +2,14 @@
   "slug": "ptc",
   "name": "PTC",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "San Francisco",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     }
   ],
   "hiringMonths": [
@@ -38,10 +38,17 @@
     0,
     0,
     5,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e77008aa612cc42bd801514ff70576454f7e2ed",
+      "title": "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+      "url": "https://go.vansh.nyc/1EX",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "f09a21f0f9d0f59d300c2729f48949408e565f6e",
       "title": "Onshape Performance Engineering Intern",

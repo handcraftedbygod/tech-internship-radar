@@ -2,14 +2,14 @@
   "slug": "zotec-partners",
   "name": "Zotec Partners",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e6bec5d962a55e1d5dab9adbd12c9bab2d9bed2",
+      "title": "Security Platform Engineer I – Splunk, Analytics & Automation",
+      "url": "https://go.vansh.nyc/1G4",
+      "location": "Carmel, IN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "f281802e124406b598a3d37630ea8e0aa3bb1c3b",
       "title": "Database Engineer Intern",

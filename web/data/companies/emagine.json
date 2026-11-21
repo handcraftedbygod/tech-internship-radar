@@ -2,9 +2,9 @@
   "slug": "emagine",
   "name": "emagine",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "Lisbon",
       "count": 2
+    },
+    {
+      "hub": "Lodz",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -44,10 +48,17 @@
     4,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70a4cf6244e0c8571f2107bab831a999c5874fbb",
+      "title": "Junior Python Developer - Hybrid (Łódź)",
+      "url": "https://www.jobleads.com/pl/job/junior-python-developer-hybrid-lodz--lodz--e69e05b60c4d59bfec3ba0e09a83454cd?utm_source=freehire.me",
+      "location": "Łódź, Województwo łódzkie",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "6bce62dbff3dfc8674cfe4b2f5d9a42528db1dfb",
       "title": "Junior Test Developer with German",

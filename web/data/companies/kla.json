@@ -2,14 +2,14 @@
   "slug": "kla",
   "name": "KLA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 24,
+  "totalPostings": 25,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -54,10 +54,17 @@
     0,
     0,
     15,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b02d42841e26643eeb0d7e1c94283026be669897",
+      "title": "Software Applications Engineering Intern",
+      "url": "https://go.vansh.nyc/1EB",
+      "location": "Milpitas, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "12a26cb5a75f5c4d5b677e7c4db94f4c2584958b",
       "title": "Firmware Intern",
@@ -120,13 +127,6 @@
       "url": "https://go.vansh.nyc/13a",
       "location": "Milpitas, CA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "38dfc7b96301a217966cf5cb9971badbd64c63ce",
-      "title": "System Software Engineer - Distributed Computing (Master's)",
-      "url": "https://go.vansh.nyc/YT",
-      "location": "Milpitas, CA",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

@@ -2,13 +2,17 @@
   "slug": "edelfaus2oraclecloudcom-cx",
   "name": "edel.fa.us2.oraclecloud.com/CX",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Zurich",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a299facc92d4675fe435d45322514e4c09aa6111",
+      "title": "Systems Engineer Intern - London, UK",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24976?utm_source=freehire.me",
+      "location": "LONDON, United Kingdom",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "9cd0166f5bdbca7088712223229afdf18a0adc65",
       "title": "Junior Systems Engineer",

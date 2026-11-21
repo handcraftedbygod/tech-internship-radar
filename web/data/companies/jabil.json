@@ -2,25 +2,29 @@
   "slug": "jabil",
   "name": "Jabil",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.8,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +39,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e78647d06c67a03bb7b1c941c0941ee969945650",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1FD",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "63b05ef433ae6f957db7ee4f826b41ad158f908d",
       "title": "IT Programmer Analyst Co-op",

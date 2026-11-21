@@ -2,9 +2,9 @@
   "slug": "check24",
   "name": "Check24",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-02T06:33:18.541Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 7
     },
     {
-      "hub": "Berlin",
-      "count": 1
+      "hub": "Frankfurt",
+      "count": 2
     },
     {
-      "hub": "Frankfurt",
+      "hub": "Berlin",
       "count": 1
     }
   ],
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -47,10 +47,17 @@
     11,
     8,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8f3d5697c0fe6d843edd40c8d4be68486f2e332e",
+      "title": "Junior Fullstack Developer (m/w/d) KI-Fokus, InsurTech",
+      "url": "https://www.adzuna.de/land/ad/5973265243?se=hPGiSXTl8RG_r5kIALxO2Q&utm_medium=api&v=6104DAE44CADC72A4CE2A807601C31E3F4A51AB9&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Hessen",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "134a3b76321eab14c0e7ad5b72406b426c17fbe3",
       "title": "Junior Software Engineer (m/w/d) Fullstack, InsurTech",
@@ -113,13 +120,6 @@
       "url": "https://jobs.smartrecruiters.com/CHECK24/744000146643968",
       "location": "Münster, Nordrhein-Westfalen, Germany",
       "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "bbd487378e54a6c012ec73455bebd19f4d842615",
-      "title": "(Junior) Data Analyst / BI Analyst (m/w/d) Reise",
-      "url": "https://jobs.smartrecruiters.com/CHECK24/744000145521845",
-      "location": "Leipzig, Sachsen, Germany",
-      "firstSeenAt": "2026-08-26T04:39:57.262Z"
     }
   ]
 }

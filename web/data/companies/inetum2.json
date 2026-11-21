@@ -1,18 +1,27 @@
 {
   "slug": "inetum2",
-  "name": "inetum2",
+  "name": "Inetum2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Katowice",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
     {
       "id": "biz",
       "label": "Business",
@@ -30,10 +39,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8abc35776f39e969c08fa34c282b75a63b2f68b9",
+      "title": "Junior Data Engineer: ETL & Data Pipelines",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37538254__7143?utm_campaign=publisher&utm_medium=api&geoID=1013&utm_source=freehire.me",
+      "location": "Katowice, Poland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "a2109afd797aba714518c0d80b87603d3dc6c2a2",
+      "title": "Junior Data Engineer - Shape Data Pipelines & Insights",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37540291__7143?utm_campaign=publisher&utm_medium=api&geoID=1393&utm_source=freehire.me",
+      "location": "Lublin, Poland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "93b5e8f3fafa14c61634040b4663db83e48b02db",
       "title": "Telecommunications & Cybersecurity Operations | Internship Program",

@@ -2,20 +2,25 @@
   "slug": "rolls-royce",
   "name": "Rolls-Royce",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "05b0ff729469be72adbf4bfe971ad9166276d57b",
+      "title": "New Grad 2027: Junior Machine Learning Engineering",
+      "url": "https://go.vansh.nyc/1EL",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "71f2820134b7eced94b7df7246738effb4e8b18e",
       "title": "New Grad 2027: Integrated Control Systems Engineer - Software",

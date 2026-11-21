@@ -2,14 +2,14 @@
   "slug": "studentjob",
   "name": "StudentJob",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     4,
     4,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa7106560e7fa244e615043e8261f514702e3c3d",
+      "title": "Junior Data Engineer",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__180447436__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "54470fe476edd6923fa4ec3dc3ec6a10dea60a49",
+      "title": "Junior Data Engineer: Build Scalable Data Pipelines for the Grid",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__180448529__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "cf7a0a5ddbcf7b1a1ca82745f6ae70539aac23ce",
       "title": "Data Science & Machine Learning Engineering Analyst - Junior Consultant",

@@ -2,14 +2,14 @@
   "slug": "ralliant",
   "name": "Ralliant",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,16 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "design",
+      "label": "Design",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +40,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4247c5284b88f2943885b4458386d5e75bb81af",
+      "title": "Software Design Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ff",
+      "location": "Beaverton, OR",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "8b2f02544a38c328270ebb1d13459b1b3655ba71",
+      "title": "Software Engineering Intern, AI Building",
+      "url": "https://go.vansh.nyc/1EU",
+      "location": "Beaverton, OR",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "6be3bbfae8688b1a0339ddb2e68ab09cbfae36c1",
       "title": "Software Engineer Intern",

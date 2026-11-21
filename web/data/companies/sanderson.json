@@ -2,21 +2,21 @@
   "slug": "sanderson",
   "name": "Sanderson",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d21320aa3e547e8be13742e5febe5858b68777be",
+      "title": "Junior Data Engineer",
+      "url": "https://www.linkedin.com/jobs/view/4492916351/?utm_source=freehire.me",
+      "location": "Surrey, England, United Kingdom",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "ab277f620a928b4637bef321486c6904587a8859",
       "title": "Junior Data Engineer",

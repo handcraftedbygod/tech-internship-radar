@@ -2,21 +2,21 @@
   "slug": "neurohireai",
   "name": "neurohire.ai",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "16d4a2bcea5527ef79e5e7ece73f9c7fbbedadda",
+      "title": "Python Developer (Master's)",
+      "url": "https://go.vansh.nyc/1Fn",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "4c626f52bd209a394a946b3b33f805ff1c74f4b6",
       "title": "Forward Deployed Engineer (Master's)",

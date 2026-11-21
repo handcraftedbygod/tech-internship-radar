@@ -2,14 +2,14 @@
   "slug": "hootsuite",
   "name": "Hootsuite",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 18.5,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Vancouver",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -52,10 +52,17 @@
     3,
     0,
     1,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a5e9837cd8f1cede8499ae7739847a8e8047ab44",
+      "title": "Co-op/Intern, Accounting - Winter 2027",
+      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8407535",
+      "location": "Toronto, Ontario; Ottawa, Ontario; Greater Toronto Area",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "ac7b7b9e35f840c5ecaeedeaa90df685923c201b",
       "title": "Junior Software Developer",
@@ -117,13 +124,6 @@
       "title": "Co-op/Intern, Product Design - Fall 2026",
       "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8114056",
       "location": "London, England, United Kingdom; Luxembourg, Luxembourg",
-      "firstSeenAt": "2026-08-08T04:55:09.600Z"
-    },
-    {
-      "id": "83563940d95ce9a4e641d8edebff2976f5633146",
-      "title": "Co-op/Intern, IT Operations - Fall 2026",
-      "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8112838",
-      "location": "Vancouver, British Columbia, Canada",
       "firstSeenAt": "2026-08-08T04:55:09.600Z"
     }
   ]

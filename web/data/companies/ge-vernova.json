@@ -2,14 +2,14 @@
   "slug": "ge-vernova",
   "name": "GE Vernova",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Berlin",
@@ -31,6 +31,11 @@
       "id": "product",
       "label": "Product",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -44,10 +49,17 @@
     5,
     3,
     8,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7901d4ed541ba4ca1ea51816ec906011ccb5b93",
+      "title": "Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1F7",
+      "location": "Roanoke, VA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "3a841629ce1d9139700b217494f7c98a7df2648d",
       "title": "Werkstudent im Bereich Software-Engineering (m/w/d)",
@@ -108,13 +120,6 @@
       "id": "cda2651ddd05c195370db058bed0bff174b37d5d",
       "title": "Grid Foundational Models Intern, AGI",
       "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---Grid-Foundational-Models-Intern---Summer-2027_R5054820-3",
-      "location": "Bellevue, WA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "acde3816bb9359189a6487b613e6b92e65cf7289",
-      "title": "AI Evaluation & Benchmarking Intern, AGI",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2",
       "location": "Bellevue, WA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }

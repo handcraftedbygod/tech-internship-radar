@@ -2,14 +2,14 @@
   "slug": "wolt",
   "name": "Wolt",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-07-28T06:25:31.354Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 12.8,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Helsinki",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -47,10 +47,17 @@
     4,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b05c4c7a31e6a3fbdd1e53dc50d795279ecb34fb",
+      "title": "Intern Merchant Account Management ENT",
+      "url": "https://job-boards.greenhouse.io/wolt/jobs/8405424",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "d1b5e63c8c172f87caa5e69250e39a2162b5f1cf",
       "title": "Junior Account Manager, SMB Restaurants (Food Delivery) (m/w/d)",
@@ -113,13 +120,6 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/7984530",
       "location": "Berlin, Germany",
       "firstSeenAt": "2026-07-29T06:29:39.313Z"
-    },
-    {
-      "id": "c5d14244efd4f5ba60b4aeae9b64332d1ad04412",
-      "title": "Marketing Intern – Restaurant Partnerships (w/m/d)",
-      "url": "https://job-boards.greenhouse.io/wolt/jobs/7996619",
-      "location": "Berlin, Germany",
-      "firstSeenAt": "2026-07-28T06:25:31.354Z"
     }
   ]
 }

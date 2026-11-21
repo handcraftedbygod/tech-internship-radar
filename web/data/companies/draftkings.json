@@ -2,14 +2,14 @@
   "slug": "draftkings",
   "name": "DraftKings",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dae968cd27bcfe95a8260ae5ce92e1470d55d970",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ex",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "6d67a75f370779e0f3644e95b466ad3b70082bbf",
       "title": "Data Science Intern (Summer 2027)",

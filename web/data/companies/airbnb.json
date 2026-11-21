@@ -2,14 +2,14 @@
   "slug": "airbnb",
   "name": "Airbnb",
   "tier": "notable",
-  "currentOpenings": 8,
+  "currentOpenings": 9,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -52,10 +52,17 @@
     0,
     0,
     1,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba6178e565f877ac62f9dcd60ad138392dca81b8",
+      "title": "Partnerships Enablement Intern",
+      "url": "https://careers.airbnb.com/positions/8406333?gh_jid=8406333",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "58e4d217f7f853c9640cfa4afafe880405aa49f1",
       "title": "Brand Marketing Intern, France",
@@ -118,13 +125,6 @@
       "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
       "location": "United States",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "3f819d1311397efcc92f16189400073716dbbec4",
-      "title": "Strategic Finance & Analytics Intern (MBA)",
-      "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
-      "location": "United States",
-      "firstSeenAt": "2026-10-16T08:47:32.449Z"
     }
   ]
 }

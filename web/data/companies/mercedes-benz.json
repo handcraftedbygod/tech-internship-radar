@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 59,
-  "avgPostingDurationDays": 12.4,
+  "totalPostings": 60,
+  "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stuttgart",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Berlin",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 26
+      "count": 27
     },
     {
       "id": "design",
@@ -56,10 +56,17 @@
     19,
     10,
     14,
-    16,
+    17,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ca00d39289a2bf0388f96c6da53922f2b7b3c47a",
+      "title": "Praktikant*in Data Analytics & Business Intelligence – Connected Car & After Sales...",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655860-1-S",
+      "location": "Stuttgart",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "cc25bfe3b4e4edd9ef469131c213e836b7626b47",
       "title": "Praktikant*in Data Analytics & Dashboard Management – MO360 Cloud Platform",
@@ -122,13 +129,6 @@
       "url": "https://jobs.mercedes-benz.com/werkstudent-in-e-systemintegration-f-r-data-engineering-und-analytics-246660-MER0004AI2?utm_source=freehire.me",
       "location": "Sindelfingen, Germany",
       "firstSeenAt": "2026-11-14T11:15:38.078Z"
-    },
-    {
-      "id": "6013543907461e62ed557c2f6827e4e5848f4ad7",
-      "title": "Praktikant*in Software Entwicklung im Bereich ADAS/Fahrerassistenzsysteme",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1608424-2-S",
-      "location": "Immendingen",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

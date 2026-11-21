@@ -2,14 +2,14 @@
   "slug": "schwarz-digits",
   "name": "Schwarz Digits",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -45,10 +45,17 @@
     4,
     6,
     4,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a184e34b443d7d87aa00487add8ac914b5670c91",
+      "title": "(Junior) Product Engineer Physical Security Systems (m/w/x)",
+      "url": "https://www.adzuna.de/land/ad/5972658837?se=lgJXaQ_l8RG-qOSojMP7uw&utm_medium=api&v=D6DC0D4B965E918B15325229A4B99328B14EC1F5&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "213e4d168b2c6180c4985c1c1a2f61a6310c9185",
       "title": "(Junior) Software Engineer/Consultant für internationale Business Applications Retail (m/w/d)",
@@ -111,13 +118,6 @@
       "url": "https://www.adzuna.de/land/ad/5879253838?se=dl7pX9yt8RGaSPVSFdILgQ&utm_medium=api&utm_source=freehire.me&v=7CC12D5F9DF850713DC95007CF606679BD16197A",
       "location": "Deutschland",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "8be63d0ecd94b71b792c37fcd6d01ae01951d135",
-      "title": "(Junior) Frontend Engineer - Vue.js & Design System (m/w/x)",
-      "url": "https://www.adzuna.de/land/ad/5879253838?se=cqqheamt8RGTdfBitHX-ag&utm_medium=api&utm_source=freehire.me&v=7CC12D5F9DF850713DC95007CF606679BD16197A",
-      "location": "Deutschland",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

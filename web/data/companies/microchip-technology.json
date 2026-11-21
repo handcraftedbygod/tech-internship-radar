@@ -2,25 +2,25 @@
   "slug": "microchip-technology",
   "name": "Microchip Technology",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
-      "hub": "Other",
+      "hub": "San Francisco",
       "count": 3
     },
     {
-      "hub": "San Francisco",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6586213a472790130ac44a4698bd323a4a20896e",
+      "title": "ASIC Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1F9",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "e83909463406b7f9469f5fc2f505ec8e644af31a",
       "title": "Engineer 1 - Verification",

@@ -1,0 +1,57 @@
+{
+  "slug": "mom-s-meals",
+  "name": "Mom's Meals",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-21T12:08:56.322Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9a056a8a16b0092021267eb7220637faefa3612d",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1FA",
+      "location": "Ankeny, IA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "272a8484c144592675df3e1c0e6ddeef7d9d15d4",
+      "title": "Software Quality Assurance (QA) Intern",
+      "url": "https://go.vansh.nyc/1Fk",
+      "location": "Ankeny, IA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    }
+  ]
+}

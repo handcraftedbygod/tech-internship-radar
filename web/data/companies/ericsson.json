@@ -2,26 +2,26 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 33,
+  "totalPostings": 36,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
+    },
+    {
+      "hub": "Stockholm",
+      "count": 7
     },
     {
       "hub": "Lodz",
       "count": 6
     },
     {
-      "hub": "Stockholm",
-      "count": 6
-    },
-    {
       "hub": "Krakow",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Madrid",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 30
     },
     {
       "id": "ai",
@@ -56,10 +56,31 @@
     5,
     5,
     7,
-    16,
+    19,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74e9152684289a4f4d555b9fe471baf09966fd89",
+      "title": "DevOps Junior Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777571078-devops-junior-developer-krak%C3%B3w-krak%C3%B3w-poland?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Kraków,Kraków,Poland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "619f7bd3698f69dd2cc701ba25aa8f5ade23b9a2",
+      "title": "Junior Baseband Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQwMzk1NSAxMjE?lang=en&utm_source=freehire.me",
+      "location": "Stockholm, Sweden",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "32c8976e1d7e9b29ac66b12cd6699a55e00418fc",
+      "title": "Junior Baseband Software Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQwMzk1NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "7a120dcd6ead82184a36ca5cfef626ff0a8dc556",
       "title": "Junior Developer",
@@ -108,27 +129,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM5MTg4NyAxMjE?lang=en",
       "location": "Sweden",
       "firstSeenAt": "2026-11-14T11:15:38.078Z"
-    },
-    {
-      "id": "1ebd0daaaa554cb36a117de58af4403c96b87269",
-      "title": "Junior Radio Software Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121777213669-junior-radio-software-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Stockholm,Stockholm,Sweden",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "a0f84a8caa08e5a5eec3cbabe4c3d2d93d3a4599",
-      "title": "Software Developer Summer Intern: Transport Automation",
-      "url": "https://jobs.ericsson.com/careers/job/563121777429415-software-developer-summer-intern-transport-automation-jorvas-kirkkonummi-jorvas-kirkkonummi-finland?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
-      "firstSeenAt": "2026-11-09T12:33:55.591Z"
-    },
-    {
-      "id": "073d84dcd5ecafc589027763be668a50912db289",
-      "title": "Software Developer Summer Intern: IMS GW (AI & Automation)",
-      "url": "https://jobs.ericsson.com/careers/job/563121777496581-software-developer-summer-intern-ims-gw-ai-automation--?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Jorvas, Kirkkonummi,Jorvas, Kirkkonummi,Finland",
-      "firstSeenAt": "2026-11-09T12:33:55.591Z"
     }
   ]
 }

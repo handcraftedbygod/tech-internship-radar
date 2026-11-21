@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 12.6,
+  "totalPostings": 33,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     },
     {
       "id": "ai",
@@ -56,10 +56,24 @@
     0,
     2,
     21,
-    8,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bd676b258dc196851cb9c73bc1c24a18c417b722",
+      "title": "Software Engineering Intern, App Intelligence Experience",
+      "url": "https://jobs.apple.com/en-us/details/200696199/software-engineering-intern-app-intelligence-experience?utm_source=freehire.me",
+      "location": "Cambridge",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "4b3eec9db5b7f5b6bc089d0554bf8d3f71ca7705",
+      "title": "New Grad 2027: Engineer - Evolve - An Apple Services Rotation Program",
+      "url": "https://go.vansh.nyc/1Fm",
+      "location": "Seattle, WA, New York, NY, Cupertino, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "f9cf3ca4083fa778ed10fe615a19afe8cf196b7c",
       "title": "Software Engineering Intern, File Previewing & Editing (Quick Look and Preview)",
@@ -115,20 +129,6 @@
       "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability?utm_source=freehire.me",
       "location": "Barcelona",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "d67378cc7674aa0a19561f62e15ddcb7caa3e47f",
-      "title": "Intern, Site Reliability Engineer, iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "b74e3687a68068a9ab2db49849e4a2b15f3f8a3a",
-      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-      "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation?utm_source=freehire.me",
-      "location": "Aachen",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

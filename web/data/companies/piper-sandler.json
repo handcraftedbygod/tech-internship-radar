@@ -2,20 +2,25 @@
   "slug": "piper-sandler",
   "name": "Piper Sandler",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "242bb5e3d60847ac0be2839557829d82468d3a3f",
+      "title": "Equities Trading Technology Intern",
+      "url": "https://go.vansh.nyc/1G3",
+      "location": "Greenwich, CT",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "334d908e2c36343da88ff047356cada338641746",
       "title": "Data Engineering Intern",

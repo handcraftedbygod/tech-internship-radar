@@ -2,14 +2,14 @@
   "slug": "boeing",
   "name": "Boeing",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Seattle",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "design",
@@ -49,10 +49,17 @@
     1,
     0,
     6,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "78daf581f05a129c5c71caebfcb6b850d7148240",
+      "title": "Software Engineer – Test & Verification",
+      "url": "https://go.vansh.nyc/1EZ",
+      "location": "Tinker AFB, OK",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "cb0c84362a372a4941874d2a0fc9bb0803d47884",
       "title": "Flight Software Engineer, Vehicle Management Systems",
@@ -114,13 +121,6 @@
       "title": "Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
       "location": "Maryland Heights, MO, Hazelwood, MO",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "59d7a156bd25ce7b4938c797e6eb2dacc0dea084",
-      "title": "Associate Flight Test Data Processing Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2",
-      "location": "Berkeley, MO",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]

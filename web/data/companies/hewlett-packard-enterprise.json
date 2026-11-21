@@ -2,14 +2,14 @@
   "slug": "hewlett-packard-enterprise",
   "name": "Hewlett Packard Enterprise",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Montreal",
@@ -35,6 +35,11 @@
       "id": "design",
       "label": "Design",
       "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -48,10 +53,17 @@
     0,
     5,
     11,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c3bfa8fe91322db699cc7dcbbe0fe045c7caa0f4",
+      "title": "AI Engineering Technical Intern",
+      "url": "https://go.vansh.nyc/1ER",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "16d844730b1e3f6f2c4845fa390331e3e9c64234",
       "title": "Research Associate Intern, Systems Architecture Lab",
@@ -114,13 +126,6 @@
       "url": "https://go.vansh.nyc/c3",
       "location": "Roseville, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "266cec34d91b9c165556ad6ff2e1cc662921f29f",
-      "title": "Cybersecurity Engineering Intern",
-      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
-      "location": "Spring, TX",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

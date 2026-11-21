@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 57,
+  "totalPostings": 58,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 35
+      "count": 36
     },
     {
       "id": "hw",
@@ -61,10 +61,17 @@
     0,
     1,
     41,
-    15,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "952d4fdc7841221283cdb98d53d677f9f0c56e59",
+      "title": "New Grad 2027: Security Engineer",
+      "url": "https://go.vansh.nyc/1F6",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "26e84c637a5f1d8a410261c1bd60fbf313446cd6",
       "title": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
@@ -126,13 +133,6 @@
       "title": "Data Center Infrastructure Engineer Internship 2027",
       "url": "https://www.amazon.jobs/en/jobs/10532883/data-center-infrastructure-engineer-internship-2027?utm_source=freehire.me",
       "location": "London, England, GBR",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "843d7c478d7fa50e68abe262126356b3a28d6f3f",
-      "title": "Software Development Engineer, AWS Data Services",
-      "url": "https://go.vansh.nyc/19E",
-      "location": "Seattle, WA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

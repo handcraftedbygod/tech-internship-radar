@@ -2,20 +2,25 @@
   "slug": "nelnet",
   "name": "Nelnet",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b37523e1225f38292e14d7277e573693384916af",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1Ev",
+      "location": "Lincoln, NE",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "a6a58cd319afcf3a4460148746432e648fcccc31",
       "title": "Platform Engineer Intern",

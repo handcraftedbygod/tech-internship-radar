@@ -2,21 +2,21 @@
   "slug": "celestica",
   "name": "Celestica",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b2891760f459bae2df6a1dfb6c8635f0cbf64b6a",
+      "title": "Salesforce Developer 1 Intern",
+      "url": "https://go.vansh.nyc/1FT",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "4553609b4b68326d20ddf899d1314019a90df3bf",
       "title": "IT Business Application Development Intern",

@@ -2,21 +2,21 @@
   "slug": "bmr-associates",
   "name": "BMR Associates Limited",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7b90ac2eed5f8c35f237cc9e0eb75f8c3672edec",
+      "title": "Junior DevOps Engineer - Azure, Hybrid",
+      "url": "https://www.adzuna.co.uk/jobs/details/5972919282?utm_medium=api&utm_source=freehire.me",
+      "location": "Impney, Droitwich",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "50bdbd9e84becf43fefd31486ace9ebe8e1b438f",
+      "title": "Junior DevOps Engineer - Azure, Permanent",
+      "url": "https://www.adzuna.co.uk/jobs/details/5973216081?utm_medium=api&utm_source=freehire.me",
+      "location": "Birmingham, West Midlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "ce946e1ecf01a089a0dc9448da900048fcbe6e5b",
       "title": "Junior QA Analyst - Software, Permanent, Hybrid",

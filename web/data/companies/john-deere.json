@@ -2,21 +2,21 @@
   "slug": "john-deere",
   "name": "John Deere",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "product",
@@ -40,10 +40,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cdebfdfa8e44b77eb89d872b37d2b8457441b475",
+      "title": "Data Analytics Student Intern",
+      "url": "https://go.vansh.nyc/1Fb",
+      "location": "Des Moines, IA, Waterloo, IA, Moline, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "c7b624e27c03982a41f354b5535a58332b4593cd",
       "title": "Product Engineering Student Intern",

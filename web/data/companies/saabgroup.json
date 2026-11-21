@@ -2,13 +2,17 @@
   "slug": "saabgroup",
   "name": "saabgroup",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-26T09:09:02.243Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "87ddd5354c74e13f10bca4549c1f68ba4c8b41a1",
+      "title": "Junior Software Engineer",
+      "url": "https://saabgroup.wd116.myworkdayjobs.com/Broadbean_Saab/job/Oakley---Units-1-2-3--4-Highfield-Parc-Highfi/Junior-Software-Engineer_REQ_47598-1?utm_source=freehire.me",
+      "location": "Oakley - Units: 1, 2, 3 + 4 Highfield Parc, Highfi",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "6a1ee6b5a4329144543c252ed178cc3d74f87e1e",
       "title": "Junior Data Analyst",

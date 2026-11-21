@@ -2,11 +2,15 @@
   "slug": "canopee",
   "name": "Canopee Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -30,10 +39,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c9f160fa0e0e88811beb3c79077f8a83183fa96",
+      "title": "Développeur Python Junior – Backend",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__165448754__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "ce6d90da5aa65517aabaea9d422870954325ad71",
+      "title": "Junior Développeur Python Backend – Finance & Observabilité",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__165446402__7079?utm_campaign=publisher&utm_medium=api&geoID=4557&utm_source=freehire.me",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "84004e8da852b85bc52909e7329066c4e4392459",
       "title": "Développeur Python Junior - Backend - Canopee Group",

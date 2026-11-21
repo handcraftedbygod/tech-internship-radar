@@ -2,9 +2,9 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 38,
+  "currentOpenings": 39,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 102,
+  "totalPostings": 103,
   "avgPostingDurationDays": 24.8,
   "topLocations": [
     {
@@ -21,14 +21,14 @@
     },
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 78
+      "count": 79
     },
     {
       "id": "biz",
@@ -57,10 +57,17 @@
     33,
     26,
     25,
-    18,
+    19,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c5c3f5c4f8b5d4e715ba2ee4ecfdfd7a03bae2f",
+      "title": "Intern Regions Spain",
+      "url": "https://careers.glovoapp.com/job/intern-regions-spain-in-las-palmas-de-gran-canaria-spain-jid-744000162726645/",
+      "location": "Las Palmas de Gran Canaria, Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "1f460e908bc91ea17730d9233e8a515359a5af98",
       "title": "Junior Accountant O2C",
@@ -121,13 +128,6 @@
       "id": "98cd1658e397b7eceebe70d3d60331abe90714a8",
       "title": "Account Manager Intern Groceries Spain",
       "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000161139879/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "9b7219d3c8b927410b4b2e81ac1de211983000c5",
-      "title": "Account Manager Intern Q-Commerce Retail",
-      "url": "https://careers.glovoapp.com/job/account-manager-intern-q-commerce-retail-in-madrid-spain-jid-744000161254544/",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }

@@ -1,0 +1,45 @@
+{
+  "slug": "flare",
+  "name": "Flare",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-21T12:08:56.322Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Montreal",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d667ff1f2f5ac773884ddd6ca43b6eb4ab137334",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1ED",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    }
+  ]
+}

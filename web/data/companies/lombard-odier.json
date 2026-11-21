@@ -2,21 +2,26 @@
   "slug": "lombard-odier",
   "name": "Lombard Odier",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 2,
+  "totalPostings": 16,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 16
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 12
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,23 +35,79 @@
     0,
     0,
     0,
-    2,
+    16,
     0
   ],
   "recentPostings": [
     {
-      "id": "0d25908152f9f4998fda9358a2d4512bb33bada1",
-      "title": "Internship - Data Engineer - Optimization of Data Delivery",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50805741__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+      "id": "d08a230bdc0f4d9eb45c1021a0f4294cd2f9fb18",
+      "title": "AI Engineer Intern – Software Migration Factory",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Engineer-Intern--Software-Migration-Factory?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
     },
     {
-      "id": "a74c98b38ab10d81acce76550186ea3d7a89df64",
-      "title": "Internship - Data Engineer - Accelerating Adoption of Microsoft Fabric",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__50805726__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
+      "id": "ef71157ad0b5ad196212c2a7cabad2661ae07d60",
+      "title": "Software Engineer Intern – Cash Management Tool Redevelopment",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Software-Engineer-Intern--Cash-Management-Tool-Redevelopment?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "2f25bfa0b12fb95de6ae67a36f081d517c3c756a",
+      "title": "AI Software Engineer Intern - Non-Regression Tests",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern---Non-Regression-Tests?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "dd40211781c3525953c39fc8fb517ad943e293db",
+      "title": "Machine Learning Engineer Intern – Dashboard Ranking",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Machine-Learning-Engineer-Intern--Dashboard-Ranking?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "a07be2e849ca744117ed2a6f311cc6cea70534c6",
+      "title": "AI Software Engineer Intern – Agentic Sandbox Platform",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Agentic-Sandbox-Platform?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "d4db780c7c3fa6333908d6b45cc7777728b27c35",
+      "title": "Data Engineer Intern – Data Delivery Optimization",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Data-Engineer-Intern--Data-Delivery-Optimization?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "9196459f7a3d997411d0933b31876b2a075f3073",
+      "title": "Internship - Network Engineer",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Internship---Network-Engineer?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "4a68a9b92c3f1ef0ee610f97d5eeacdbc2deae87",
+      "title": "AI Software Engineer Intern – Portfolio Intelligence (PMS)",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Portfolio-Intelligence-PMS?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "77f4a3241e54463453d5cd720e138ed29a511e26",
+      "title": "Internship - Software Engineer - Platform Modernization",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Internship---Software-Engineer---Platform-Modernization?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "26487d1ec7b2f32a473165c3d4cab503acf75303",
+      "title": "AI Software Engineer Intern – Securities Settlement Migration",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Securities-Settlement-Migration?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
     }
   ]
 }

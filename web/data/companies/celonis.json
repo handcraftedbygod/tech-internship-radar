@@ -2,9 +2,9 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 73,
+  "totalPostings": 74,
   "avgPostingDurationDays": 32.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Munich",
-      "count": 23
+      "count": 24
     },
     {
       "hub": "New York",
@@ -37,7 +37,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 25
+      "count": 26
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     10,
     17,
     7,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "403a1053dd7bd81342cdffc890209f2cf15d4f9d",
+      "title": "Strategy & Operations Working Student",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8046316003?gh_jid=8046316003",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "7c8b0d3545790fb9c241c3689401e5d3358ddcbc",
       "title": "Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking)",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1kh",
       "location": "New York, NY",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "42c5f7f58b1aa101fc0c97cf6837f0de96293a8d",
-      "title": "Intern CCO Enablement & Programs",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8078124003?gh_jid=8078124003",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
     }
   ]
 }

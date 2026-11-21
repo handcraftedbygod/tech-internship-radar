@@ -1,6 +1,13 @@
 {
   "europe": [
     {
+      "name": "horizontal.",
+      "oneLiner": "AI agents that run factory operations end-to-end.",
+      "batch": "Fall 2026",
+      "location": "BY, Germany",
+      "url": "https://www.ycombinator.com/companies/horizontal"
+    },
+    {
       "name": "Lucebox",
       "oneLiner": "Self-improving inference workstation",
       "batch": "Winter 2027",
@@ -127,13 +134,6 @@
       "url": "https://www.ycombinator.com/companies/sitefire"
     },
     {
-      "name": "Stilta",
-      "oneLiner": "Agentic AI for intellectual property",
-      "batch": "Winter 2026",
-      "location": "Stockholm, Stockholm County, Sweden",
-      "url": "https://www.ycombinator.com/companies/stilta"
-    },
-    {
       "name": "Servo7",
       "oneLiner": "Container unloading robots for warehouses",
       "batch": "Winter 2026",
@@ -242,7 +242,7 @@
     },
     {
       "name": "HillStar",
-      "oneLiner": "Agents to help utilities make better buying decisions.",
+      "oneLiner": "AI that helps utilities buy power.",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/hillstar"
@@ -270,7 +270,7 @@
     },
     {
       "name": "Super Powers Mobility (SPM)",
-      "oneLiner": "The highest performance modular battery packs for mobility/vehicles",
+      "oneLiner": "Defense compliant modular battery packs power systems and vehicles",
       "batch": "Fall 2026",
       "location": "Pittsburgh, PA, USA",
       "url": "https://www.ycombinator.com/companies/super-powers-mobility-spm"
@@ -309,6 +309,13 @@
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/volaren"
+    },
+    {
+      "name": "Streamline Systems",
+      "oneLiner": "Precision navigation for UAVs operating without GPS. ",
+      "batch": "Fall 2026",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/streamline-systems"
     },
     {
       "name": "Inflection Space Systems",
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/stoa"
-    },
-    {
-      "name": "COACH",
-      "oneLiner": "The AI Coach for in person sales reps.",
-      "batch": "Summer 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/ai-coach"
     }
   ]
 }

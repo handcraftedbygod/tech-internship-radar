@@ -2,13 +2,17 @@
   "slug": "fortinet",
   "name": "Fortinet",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "London",
       "count": 2
     },
     {
@@ -20,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,24 @@
     0,
     0,
     1,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc8fba41b1bb988a2b80b130b3fa4c6695aaf6e4",
+      "title": "Systems Engineer Intern - London, UK",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24976?utm_source=freehire.me",
+      "location": "LONDON, United Kingdom",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "6ecd481d7ac9ca9ab8a995dae6f27e49f5227660",
+      "title": "Systems Engineer Intern",
+      "url": "https://www.gradcracker.com/hub/1091/fortinet/work-placement-internship/88218/systems-engineer-intern?utm_source=freehire.me",
+      "location": "London (Hybrid)",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "099fc6da211729b9a2dd08caf9b580cc952323d3",
       "title": "Technical Content DevOps Developer",

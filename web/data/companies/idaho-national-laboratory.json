@@ -2,21 +2,21 @@
   "slug": "idaho-national-laboratory",
   "name": "Idaho National Laboratory",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fe5cc0549e2129f4676bf7cddcba25cc11cb7b96",
+      "title": "Spatial Computing Intern",
+      "url": "https://go.vansh.nyc/1G6",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "ebdf467d7b4c51285071133e3ec41d4fe218038f",
       "title": "PSION Development Intern",

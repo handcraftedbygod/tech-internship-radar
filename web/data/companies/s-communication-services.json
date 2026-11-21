@@ -2,13 +2,17 @@
   "slug": "s-communication-services",
   "name": "S-Communication Services GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c11ed7b73c146f8f7d58d3e43a6e484cf83eba95",
+      "title": "Junior Data Engineer (m/w/d)",
+      "url": "https://de.whatjobs.com/pub_api__cpl__508271935__7078?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "9f898604ea2b80bdf8263003e88f87fa3cb800d4",
       "title": "Junior DevOps Engineer (m/w/d)",

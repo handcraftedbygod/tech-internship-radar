@@ -2,14 +2,14 @@
   "slug": "milliman",
   "name": "Milliman",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-16T12:28:17.000Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "10e9f38242a3e0886c01c1758bfe02a56d532fe0",
+      "title": "AI Product Engineer Intern",
+      "url": "https://go.vansh.nyc/1Fz",
+      "location": "Brookfield, WI, Chicago, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "9159f25aa89991678caec17a012703245dc7ff80",
       "title": "Data Analytics Intern, IntelliScript",

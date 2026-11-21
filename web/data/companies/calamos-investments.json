@@ -1,0 +1,83 @@
+{
+  "slug": "calamos-investments",
+  "name": "Calamos Investments",
+  "tier": null,
+  "currentOpenings": 5,
+  "firstTrackedAt": "2026-11-21T12:08:56.322Z",
+  "totalPostings": 5,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 5
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    5,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "b0dd51272c078946ccb57df56d4ad2adc276812e",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1FY",
+      "location": "Naperville, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "b94a43a281a14f52d5b75cdb05696ac0dfe7c6d7",
+      "title": "Cloud Engineer Intern",
+      "url": "https://go.vansh.nyc/1FX",
+      "location": "Naperville, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "6aa6e85e4629f2e9a11f16ac19ac89c154acbf6f",
+      "title": "Application Development Intern",
+      "url": "https://go.vansh.nyc/1FW",
+      "location": "Naperville, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "849fe87125725a9ad351d1e67ab8669b6af8202c",
+      "title": "Information Security Intern",
+      "url": "https://go.vansh.nyc/1FV",
+      "location": "Naperville, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "ef62c95d8ab412bbd4436cd8276fba24694864db",
+      "title": "IT Architecture & Sales Systems Intern",
+      "url": "https://go.vansh.nyc/1Fs",
+      "location": "Naperville, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    }
+  ]
+}

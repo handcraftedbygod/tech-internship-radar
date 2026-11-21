@@ -2,21 +2,21 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 34,
+  "totalPostings": 37,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 34
+      "count": 37
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 34
+      "count": 37
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,31 @@
     13,
     10,
     0,
-    11,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "02229371bacd8f14a1e7ae990f0afe34fbc701ad",
+      "title": "Trainee Cyber Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-cyber-security-engineer/57595520",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "dfdc718f7eb2f8f24adc33e2a9bdbaafc694b528",
+      "title": "Trainee Data Analyst",
+      "url": "https://www.free-work.com/fr/tech-it/job-mission/data-analyst/trainee-data-analyst-41?utm_source=freehire.me",
+      "location": "Birmingham, Royaume-Uni",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "8c2af0f672e4657bb65c213f625386a5df5873bc",
+      "title": "Cyber Security Engineer Trainee",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5973010743?se=zGgNAkLl8RGwZ6gGRx_tnA&utm_medium=api&v=0AD852A16D3988A6B0514FC0D4BB78BBD932A7CC&utm_source=freehire.me",
+      "location": "Birmingham, West Midlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "8e15271a531e99c3ee934bfc5b30a70249e98603",
       "title": "Data Analyst Trainee",
@@ -82,27 +103,6 @@
       "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835519?se=vqLkSR3i8RGoBo_phxaFfw&utm_medium=api&v=46D84A5D690CDE53F5361D8501F7C539A7E0F535&utm_source=freehire.me",
       "location": "Birmingham, West Midlands",
       "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "e5a4f95021c668a79693ca2aed9c017587746ded",
-      "title": "Data Analyst Trainee",
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57570822",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-16T12:28:17.000Z"
-    },
-    {
-      "id": "fbb8e95f50271b598607dcbc42201900d69ce980",
-      "title": "Data Analyst Trainee",
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57557147",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "cece65c1ec035904bd216dde0e1351060fd31d31",
-      "title": "Trainee Data Analyst",
-      "url": "https://www.reed.co.uk/jobs/trainee-data-analyst/57557168",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "l3harris-technologies",
   "name": "L3Harris Technologies",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 28,
+  "totalPostings": 31,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 31
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 28
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,31 @@
     0,
     0,
     19,
-    9,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "de32ff66f87a63f27efce645871ffde8ec017aec",
+      "title": "Associate, Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1EK",
+      "location": "Fort Wayne, IN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "093dd8b4560161035660fc517ca9414b1e073913",
+      "title": "Associate, FPGA Firmware Electrical Engineering",
+      "url": "https://go.vansh.nyc/1EJ",
+      "location": "Fort Wayne, IN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "98d2c0918173520f618858f4bf844095dc82f5ba",
+      "title": "Associate, FPGA Firmware Electrical Engineering",
+      "url": "https://go.vansh.nyc/1EI",
+      "location": "Fort Wayne, IN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "052fd72e5b3a5e6ec4f4cdf5a9af518a41790af3",
       "title": "Associate, Application Development",
@@ -82,27 +108,6 @@
       "url": "https://go.vansh.nyc/1gD",
       "location": "Palm Bay, FL",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "137d08998f8e49a9d4b0f03be4ef7bce2cbb58f5",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1gA",
-      "location": "Nashville, TN",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "9817435dc9a445781e75d779d9782bb4176a3615",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/15J",
-      "location": "Bristol, PA",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "119015e8689ec178f861c69b1db05517326fa23d",
-      "title": "FPGA Software Tool Developer Co-op",
-      "url": "https://go.vansh.nyc/10n",
-      "location": "Waterdown, Canada",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }
   ]
 }

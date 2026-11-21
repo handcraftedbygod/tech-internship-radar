@@ -2,21 +2,21 @@
   "slug": "afl",
   "name": "AFL",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "design",
       "label": "Design",
-      "count": 1
+      "count": 2
     },
     {
       "id": "biz",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "150901a89d4170743ce3c3b2d88b1575c676a7a6",
+      "title": "Web Design/Development Intern",
+      "url": "https://go.vansh.nyc/1Fd",
+      "location": "Duncan, SC",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "204d627f0a4ae0131da34b95f615cceb8bb3d170",
       "title": "Business Intelligence (BI) Co-op",

@@ -2,21 +2,21 @@
   "slug": "knowmad-mood",
   "name": "Knowmad Mood",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-06T11:19:20.947Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4eef64b141a2992e11bf77402831455d250f290b",
+      "title": "Desarrollador Backend Java Junior - Remoto y Formación",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372955242__7107?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "c5f48c9d8a69532b04f59556a20d3c583d2cc8d6",
       "title": "Desarrollador/a Backend Java Junior (A Coruña)",

@@ -2,21 +2,21 @@
   "slug": "experis",
   "name": "Experis AB",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 19.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     3,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28456b2c2a0f03be278b4c51ee6ffe04c022a483",
+      "title": "Junior Vibecoder - AI-Driven Software Ontwikkelaar",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__178194931__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "8e72b6b3e78e900c6486ee81f4cfa8d95cbdf303",
       "title": "Junior Data Engineer | Azure | Databricks | Power BI",

@@ -2,9 +2,9 @@
   "slug": "globalfoundries",
   "name": "GlobalFoundries",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 22,
+  "totalPostings": 23,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Austin",
       "count": 5
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -23,14 +27,14 @@
       "count": 6
     },
     {
-      "id": "design",
-      "label": "Design",
+      "id": "ai",
+      "label": "Data / AI",
       "count": 6
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 5
+      "id": "design",
+      "label": "Design",
+      "count": 6
     },
     {
       "id": "biz",
@@ -54,10 +58,17 @@
     0,
     0,
     13,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e23518a7e6ef92ee5c8fe53a6d3c95aa2ae6854",
+      "title": "AI/ML Analytics Intern, Digital Manufacturing",
+      "url": "https://go.vansh.nyc/1EA",
+      "location": "New York, NY, Malta, NY",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "efd8629fa5ccafc6ed99674c938202d3ae0369c2",
       "title": "New Grad 2027: Analyst, Data Systems and Automation",
@@ -120,13 +131,6 @@
       "url": "https://go.vansh.nyc/1ba",
       "location": "Richardson, TX",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "022f9b98431b5d4e272fe0cd94e1d0ed2145b55f",
-      "title": "AI Enabled Device Modeling",
-      "url": "https://go.vansh.nyc/YF",
-      "location": "Malta, NY, Essex Junction, VT",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

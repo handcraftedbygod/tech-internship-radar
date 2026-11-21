@@ -2,14 +2,14 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 54,
+  "totalPostings": 56,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 32
+      "count": 33
     },
     {
       "hub": "Krakow",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Vancouver",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 11
+      "count": 13
     },
     {
       "id": "hw",
@@ -66,10 +66,24 @@
     1,
     8,
     33,
-    12,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cbc3140e8f72c33cd5fdf3995f1b6cee4dec6754",
+      "title": "AI Cybersecurity Engineer I Intern",
+      "url": "https://go.vansh.nyc/1G5",
+      "location": "Research Triangle Park, NC",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "e4bc5d5be9808a5cbeb2c179bb35b33f49babdf2",
+      "title": "Data Science Analyst II Intern",
+      "url": "https://go.vansh.nyc/1F1",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "cda9bcc4ead13e2d1be442a6ad70856b79fca90a",
       "title": "AI Researcher II Intern",
@@ -125,20 +139,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345?utm_source=freehire.me",
       "location": "Krakow, Poland",
       "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "56bd3d9ab38bc552a09400964d0c3360c2b3da50",
-      "title": "ASIC DFT Engineer I",
-      "url": "https://go.vansh.nyc/1lV",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "09e95d74bb16b3aabe4de2103c8c2a34903c5b2c",
-      "title": "Software Engineer Embedded Systems I",
-      "url": "https://go.vansh.nyc/1lU",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }
   ]
 }

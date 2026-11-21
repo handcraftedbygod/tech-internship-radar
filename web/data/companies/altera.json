@@ -2,14 +2,14 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 14
+      "count": 15
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "design",
@@ -44,10 +44,17 @@
     0,
     0,
     14,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "18e1ba7a86d8450520b0a50e7d114bc3c477922b",
+      "title": "FPGA Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Et",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "bdec05ef8033f975041067386bd808dc983ea2a1",
       "title": "FPGA Software Design Intern: Build & Innovate with DevOps",
@@ -109,13 +116,6 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/gt",
       "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "77f35738515dbb536302de0d45574d3788c49214",
-      "title": "FPGA IP Design Engineer Intern",
-      "url": "https://go.vansh.nyc/d3",
-      "location": "Toronto, ON, Canada",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

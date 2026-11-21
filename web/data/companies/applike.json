@@ -1,22 +1,22 @@
 {
   "slug": "applike",
-  "name": "Applike Group",
+  "name": "applike group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-19T12:32:20.459Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "df6f56d735207f2b1160641c86c72cc0a0c23420",
+      "title": "Junior Go Backend Developer (f/m/d)",
+      "url": "https://www.adzuna.de/details/5973146612?utm_medium=api&utm_source=freehire.me",
+      "location": "Hamburg, Deutschland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "0e29811cd201371df49e8a31c1bd074cb9dcd5d2",
       "title": "Junior Go Backend Developer (f/m/d)",

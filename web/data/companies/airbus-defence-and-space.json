@@ -2,14 +2,14 @@
   "slug": "airbus-defence-and-space",
   "name": "Airbus Defence and Space GmbH",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 26,
+  "totalPostings": 28,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 24
     },
     {
       "hub": "Munich",
@@ -32,14 +32,14 @@
       "count": 6
     },
     {
+      "id": "design",
+      "label": "Design",
+      "count": 3
+    },
+    {
       "id": "hw",
       "label": "Hardware",
       "count": 2
-    },
-    {
-      "id": "design",
-      "label": "Design",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -53,10 +53,24 @@
     8,
     7,
     5,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0e9f286dfbb1e332c725d6ef613b26d391569c5d",
+      "title": "Praktikant (d/m/w) Softwareentwicklung und 3D-Design für das Software-Unity",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-985089712-S?utm_source=freehire.me",
+      "location": "Immenstaad am Bodensee, BADEN_WUERTTEMBERG, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "5e6fd34bed8b36f09eb8018b4e60a59d386da0f5",
+      "title": "Praktikant (d/m/w) Softwareentwicklung und 3D-Design für das Software-Unity",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-985089712-S",
+      "location": "Immenstaad am Bodensee",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "8d8d323f09e121985ea2642021bdf7019ee02bf8",
       "title": "Internship (d/f/m) Embedded Software Engineering for Weapon Systems (Ingenieur/in - Luft- und Raumfahrttechnik)",
@@ -112,20 +126,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-977757516-S",
       "location": "München",
       "firstSeenAt": "2026-10-20T09:09:33.484Z"
-    },
-    {
-      "id": "ddce48aa23e6275187aa906e0eea170ba2d3a762",
-      "title": "Working Student (d/f/m): Composite Manufacturing & AI-Driven Data Analytics",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-976623864-S",
-      "location": "München",
-      "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "0570bf64f202f655c0541077232a403e059a5e99",
-      "title": "Junior Simulation Software Developer C/C++ (m/f/d)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-974975808-S?utm_source=freehire.me",
-      "location": "Manching, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
     }
   ]
 }

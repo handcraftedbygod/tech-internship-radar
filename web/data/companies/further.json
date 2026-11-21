@@ -1,0 +1,64 @@
+{
+  "slug": "further",
+  "name": "Further",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-21T12:08:56.322Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "d9cffc7f94541c8fe8fbfb16e7155160df5df429",
+      "title": "New Grad 2027: Entry Level Developer",
+      "url": "https://go.vansh.nyc/1FP",
+      "location": "Dallas, TX",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "668a44d9e65e7ea086265b71608a9816ddfe62ee",
+      "title": "New Grad 2027: Analytics Developer",
+      "url": "https://go.vansh.nyc/1FO",
+      "location": "Cleveland, OH",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "08d8b2a45b6eb6986dfc1f94dfbd34eb9af0c36f",
+      "title": "New Grad 2027: AI/Data Engineer",
+      "url": "https://go.vansh.nyc/1FN",
+      "location": "Cleveland, OH",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    }
+  ]
+}

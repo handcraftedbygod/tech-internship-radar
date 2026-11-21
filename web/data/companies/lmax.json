@@ -2,21 +2,21 @@
   "slug": "lmax",
   "name": "LMAX Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e69c12a780f4823fa4e759a876d3ec2bf888d334",
+      "title": "Junior Software Developer (Java)",
+      "url": "https://apply.workable.com/j/572A2F5CB1?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "1423bb8edf04445aa44d6310e0ee4b0ce8c44ddb",
       "title": "Junior Software Developer (Java)",

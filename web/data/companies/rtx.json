@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 12,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 66,
+  "totalPostings": 67,
   "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 65
+      "count": 66
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 57
+      "count": 58
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    35,
+    36,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c1b3c3bfdbaa08916f9fda9d7d089283b7857b2e",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1EN",
+      "location": "Cedar Rapids, IA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "df37b5d5cba16c9b2ca735aa1e0bb45211af99e2",
       "title": "Software Security Intern",
@@ -114,13 +121,6 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1yk",
       "location": "Melbourne, FL",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "3cda445c4c668e572f013cc53b831b19c84e2789",
-      "title": "Electrical Engineering Intern, Firmware",
-      "url": "https://go.vansh.nyc/1vJ",
-      "location": "Ft Wayne, IN",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

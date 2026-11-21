@@ -2,13 +2,17 @@
   "slug": "seedtag",
   "name": "Seedtag",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "afaabb3ac240d4432a5a939964a0467e746b550d",
+      "title": "Remote Junior Data Scientist — AI & Analytics",
+      "url": "https://www.jobleads.com/es/job/remote-junior-data-scientist-ai-analytics--barcelona--e21f7e6df2942f383c446ecbd7eae7b43?utm_source=freehire.me",
+      "location": "Barcelona, Cataluña",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "548aabe23ca9e823e99220924c6ac1b91a8bd1d8",
       "title": "Junior Data Scientist",

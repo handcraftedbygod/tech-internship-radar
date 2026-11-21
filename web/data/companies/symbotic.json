@@ -2,21 +2,25 @@
   "slug": "symbotic",
   "name": "Symbotic",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
       "count": 7
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -35,10 +39,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5c4d8e549615922e4422c8bb6df251e5023288b5",
+      "title": "Software Engineer Intern, Front-End",
+      "url": "https://go.vansh.nyc/1Ez",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "07350f650379ea701e77a5188ea56185630f9263",
       "title": "New Grad: Robotics Software Engineer",

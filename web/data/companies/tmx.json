@@ -2,21 +2,25 @@
   "slug": "tmx",
   "name": "TMX Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.5,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 3
+      "count": 4
+    },
+    {
+      "hub": "Montreal",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "biz",
@@ -40,10 +44,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "087744457f6d06caa5a1bf25e83d12a848315113",
+      "title": "DevOps Analyst Intern",
+      "url": "https://go.vansh.nyc/1FF",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "c5901dfa2f7f0b25aa38c1d923b54efcc3581ccc",
+      "title": "Junior Vulnerability Management Analyst Intern",
+      "url": "https://go.vansh.nyc/1Fp",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "1c46fd1a5246b0081f763ec7e15e2297998c3bda",
       "title": "AI Engineering Intern",

@@ -2,9 +2,9 @@
   "slug": "renesas-electronics",
   "name": "Renesas Electronics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.3,
   "topLocations": [
     {
@@ -14,6 +14,10 @@
     {
       "hub": "Other",
       "count": 1
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +43,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "41a072a24b2bd118f2e21532d64e965ef68b96c8",
+      "title": "Firmware Engineering Intern",
+      "url": "https://go.vansh.nyc/1ET",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "abae55e8cbe018bb24c88622ac73f4bf1df8baa6",
       "title": "Applications Engineer Intern",

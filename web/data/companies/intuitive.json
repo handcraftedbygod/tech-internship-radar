@@ -2,21 +2,21 @@
   "slug": "intuitive",
   "name": "Intuitive",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e0f34257128751cdf09e3ed0ceca8dfc3a943807",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1Fo",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "be72f5faa552cead93b49d82141339db45784f7a",
       "title": "AI/ML Engineer Intern",

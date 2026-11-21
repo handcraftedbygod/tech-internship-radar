@@ -2,21 +2,21 @@
   "slug": "bears-with-benefits",
   "name": "Bears with Benefits",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a41aeba2f6d9fece482ec10c68e6b9765d64db9b",
+      "title": "(Junior) Full-Stack Developer Laravel (m/w/d) München oder Remote (DE)",
+      "url": "https://www.adzuna.de/details/5973172621?utm_medium=api&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "8b9ef2ead351c8626d113b7bb7fae68468ff1c46",
       "title": "(Junior) Full-Stack Developer Laravel (m/w/d) München oder Remote (DE)",

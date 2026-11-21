@@ -2,13 +2,17 @@
   "slug": "haystack-people",
   "name": "Haystack People",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Amsterdam",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dc0189f47845ecdaebbdb9428516e956bec0016d",
+      "title": "Junior/Medior AI .NET Developer",
+      "url": "https://www.linkedin.com/jobs/view/4492587444/?utm_source=freehire.me",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "306b73fca74ea1c4dfb4f3d6aaf8acf059b28de9",
       "title": "Junior Python Developer",

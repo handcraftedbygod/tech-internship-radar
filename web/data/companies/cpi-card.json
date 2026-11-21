@@ -2,21 +2,21 @@
   "slug": "cpi-card",
   "name": "CPI Card Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2ebbaae76c2f5d5298039d0e6dc7f93b9a589f7",
+      "title": "DevOps Engineer I",
+      "url": "https://go.vansh.nyc/1EV",
+      "location": "Nashville, TN",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "65457c7c5e2630d9eef97c5d1dad797fe7a104b2",
       "title": "Junior Python Backend Engineer - AI-Driven FinTech",

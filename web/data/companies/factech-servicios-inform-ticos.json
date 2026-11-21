@@ -2,21 +2,21 @@
   "slug": "factech-servicios-inform-ticos",
   "name": "Factech Servicios Informáticos",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "174f2149c9c3b742700d1d1b19da2da328621c26",
+      "title": "Oracle APEX Developer JUNIOR",
+      "url": "https://www.linkedin.com/jobs/view/4492934582/?utm_source=freehire.me",
+      "location": "Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "b6408e977d5ab2f9bf1102f41a79a31ee2c20dc8",
       "title": "Junior Java Developer",

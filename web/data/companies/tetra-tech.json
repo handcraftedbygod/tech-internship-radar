@@ -4,18 +4,23 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "22c3254c1232f6322be3abad5981b9cd2b3b787d",
+      "title": "Junior Data Analyst",
+      "url": "https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8779?c=tetratech&utm_source=freehire.me",
+      "location": "Nelson, GB",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "2320d1a252551385b028375106397b6eabfa2d6b",
       "title": "Junior Data Analyst - Wastewater Operations",

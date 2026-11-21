@@ -1,0 +1,52 @@
+{
+  "slug": "mesirow",
+  "name": "Mesirow",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-21T12:08:56.322Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "13012b1aa9a5ba9bec6dd11c3f0a22412c969958",
+      "title": "Cloud Engineering Intern, IT",
+      "url": "https://go.vansh.nyc/1FZ",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
+    {
+      "id": "a934321e0c34447984666d2e1a561286893b5631",
+      "title": "Software Developer Intern, IT",
+      "url": "https://go.vansh.nyc/1Fw",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    }
+  ]
+}

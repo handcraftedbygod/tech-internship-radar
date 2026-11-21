@@ -2,13 +2,17 @@
   "slug": "axon",
   "name": "Axon",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Seattle",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7edf8fe3985a9cc63ff65356f7fdfc452ebef7d",
+      "title": "2027 London Software Engineering Internship ",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "4c88dd90eb9fd549aa9792d5147ecad3af55c9e8",
       "title": "Software Engineer Intern",

@@ -2,21 +2,21 @@
   "slug": "carrefour",
   "name": "Carrefour",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "45938b066996002b788b2bd7ed4a78c1930aebe3",
+      "title": "Stagiaire Data Analyst (F/H)",
+      "url": "https://www.aplitrak.com/?adid=YmJnZW5lcmljLjQyNDg4LjkzODBAY2FycmVmb3VyYXV0b3Bvc3QuYXBsaXRyYWsuY29t&utm_source=freehire.me",
+      "location": "Massy, France",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "2142bb84d539a09e78d554c24bd165e1f535540f",
       "title": "DATA ANALYST - Stagiaire",

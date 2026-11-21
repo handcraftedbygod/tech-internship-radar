@@ -2,14 +2,14 @@
   "slug": "grainset-data",
   "name": "Grainset Data",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 8.9,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Berlin",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f73376a5aa1557bc51408e2a89e1e0f387d7b59e",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.de/details/5973563509?utm_medium=api&utm_source=freehire.me",
+      "location": "Altstadt-Lehel, München",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "59752eb331235c8686b4a830145c6364116f1243",
       "title": "Junior Data Warehouse Developer",

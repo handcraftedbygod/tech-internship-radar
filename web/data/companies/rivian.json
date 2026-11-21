@@ -2,13 +2,17 @@
   "slug": "rivian",
   "name": "Rivian",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "San Francisco",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "712d0243e63a3c497f80bebc03be549a978b5200",
+      "title": "Software Engineering Intern, AI Platform, Autonomy",
+      "url": "https://go.vansh.nyc/1F3",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "b795d6ccd98cd8cae3d778baaebd404eab8212ef",
       "title": "ML AI Motor Controls Algorithm Intern",
