@@ -2,14 +2,14 @@
   "slug": "cadence-design-systems",
   "name": "Cadence Design Systems",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-25T08:58:32.015Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "San Francisco",
@@ -18,6 +18,11 @@
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 1
@@ -25,11 +30,6 @@
     {
       "id": "product",
       "label": "Product",
-      "count": 1
-    },
-    {
-      "id": "swe",
-      "label": "Software",
       "count": 1
     }
   ],
@@ -44,10 +44,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43ef506e4124b257d46d10c7874723e83760c258",
+      "title": "Intern Software Engineer, Summer 2027, Three Month Duration",
+      "url": "https://www.adzuna.co.uk/jobs/details/5974638797?utm_medium=api&utm_source=freehire.me",
+      "location": "Edinburgh, Scotland",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "1dda2f7ff20e1e73dca438d8c1a8b5b1a15d8a8b",
       "title": "Software Engineering, Verification IP Team",

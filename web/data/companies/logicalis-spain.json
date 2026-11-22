@@ -2,13 +2,17 @@
   "slug": "logicalis-spain",
   "name": "Logicalis Spain",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Barcelona",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3656053b17f653a47598766ca31431054ebbe980",
+      "title": "Junior Python Backend Developer - Cloud & FastAPI (Remote)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__372945354__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-21T12:08:56.322Z"
+    },
     {
       "id": "68e850d3462aa6212d25eb26623f89dbe5de8bdd",
       "title": "Data Engineer DataStage Junior",

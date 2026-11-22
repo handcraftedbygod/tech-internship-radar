@@ -2,11 +2,15 @@
   "slug": "emergn",
   "name": "Emergn",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9,
   "topLocations": [
+    {
+      "hub": "London",
+      "count": 2
+    },
     {
       "hub": "Other",
       "count": 1
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a7089e1b522c20c4d9d7526961d073e1fa914f8f",
+      "title": "Remote Junior Full-Stack Developer (Python & Angular)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__641065086__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
+    {
+      "id": "5f0e97fb426c595a9c07e10c35a32e7bf0b647ee",
+      "title": "Junior Full Stack Developer (Python & Angular)",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__641002708__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "6e134a116c3cc9a7ec1b0074cd4a4e39db080766",
       "title": "Junior Full Stack Developer (Python & Angular)",

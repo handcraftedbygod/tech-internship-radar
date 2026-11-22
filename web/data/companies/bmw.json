@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     6,
     10,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c457fe8a18dc0e657c6ceeabf7a872cf685b901",
+      "title": "Intern Machine Learning for CAD Understanding and Engineering AI (w/m/x)",
+      "url": "https://www.jobleads.com/de/job/intern-machine-learning-for-cad-understanding-and-engineering-ai-w-m-x--munchen--e9a67034c8e02fd6bcbc1ddd11b7223a1?utm_source=freehire.me",
+      "location": "München, Bayern",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "96aa050654df5fe0d47c58d4eccb324bb30d7ed5",
       "title": "Praktikum Artificial Intelligence & Agentic AI im Produktionssystem (w/m/x)",
@@ -105,13 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631645-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "ecf820795e38b14ad74e0037715e679d5d4ab8d5",
-      "title": "Praktikant Data Science Einsatzänderungssteuerung (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1629006-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-08T08:38:59.782Z"
     }
   ]
 }

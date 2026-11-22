@@ -2,14 +2,14 @@
   "slug": "netcompany",
   "name": "Netcompany",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.2,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "03038110c04e24fcc27b41e7433ae2b8b3470fae",
+      "title": "Junior .NET Developer - Banking Platform | Growth & Perks",
+      "url": "https://www.jobleads.com/pl/job/junior-net-developer-banking-platform-growth-perks--warszawa--eac64e5e7ac2527054ab6b531ae825f05?utm_source=freehire.me",
+      "location": "Warszawa, Województwo mazowieckie",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "b73f4d1e6dda768fab9cafd71e261ec74638e917",
       "title": "Junior Cloud DevOps Engineer — Azure & IaC Enthusiast",

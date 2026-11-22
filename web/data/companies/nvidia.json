@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 54,
+  "totalPostings": 55,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 42
+      "count": 43
     },
     {
       "hub": "Austin",
@@ -52,7 +52,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -66,10 +66,17 @@
     2,
     0,
     38,
-    14,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55114631842d530a6f6ee59f7d5585e23403916a",
+      "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+      "url": "https://go.vansh.nyc/1Gd",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "6893e564dc6aedd91b903d2b058a8caabdea51fb",
       "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1bE",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "7f8e673a81245c99ad954e138619fb520b3dc66b",
-      "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
-      "url": "https://go.vansh.nyc/10i",
-      "location": "Santa Clara, CA, Austin, TX",
-      "firstSeenAt": "2026-11-01T11:04:08.160Z"
     }
   ]
 }

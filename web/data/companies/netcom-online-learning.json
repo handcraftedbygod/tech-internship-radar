@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 13,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 37,
-  "avgPostingDurationDays": 10.9,
+  "totalPostings": 39,
+  "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 37
+      "count": 39
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 37
+      "count": 39
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     13,
     10,
     0,
-    14,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dcb0f057d58825e8431301349d83dcf31d365b63",
+      "title": "Cyber Security Engineer Trainee",
+      "url": "https://www.reed.co.uk/jobs/cyber-security-engineer-trainee/57595518?utm_source=freehire.me",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
+    {
+      "id": "390f69fa997071ce442b0edc3e14f68c0daf1fa0",
+      "title": "Trainee Cyber Security Engineer",
+      "url": "https://www.reed.co.uk/jobs/trainee-cyber-security-engineer/57595520?utm_source=freehire.me",
+      "location": "Birmingham",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "02229371bacd8f14a1e7ae990f0afe34fbc701ad",
       "title": "Trainee Cyber Security Engineer",
@@ -89,20 +103,6 @@
       "url": "https://www.reed.co.uk/jobs/trainee-cyber-security-engineer/57586201?utm_source=freehire.me",
       "location": "Birmingham",
       "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "9fe5eacf7a40e53116d8cf21fed13119d1b17e92",
-      "title": "Data Analyst Trainee",
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57586199",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "dd13eccd1fe7d08f328da03c8d458fbe8583cbbf",
-      "title": "Data Analyst Trainee",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5967835519?se=vqLkSR3i8RGoBo_phxaFfw&utm_medium=api&v=46D84A5D690CDE53F5361D8501F7C539A7E0F535&utm_source=freehire.me",
-      "location": "Birmingham, West Midlands",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
     }
   ]
 }

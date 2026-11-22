@@ -2,14 +2,14 @@
   "slug": "meskru",
   "name": "MESKRU GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-07-29T06:29:39.313Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 17.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "143689d1be2e99f9c3585689d55714882b8494bf",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-310261",
+      "location": "Munich",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "b08e0e2007e43b61366d5096947b97d44f0bfec6",
       "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",

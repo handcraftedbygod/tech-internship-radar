@@ -2,9 +2,9 @@
   "slug": "deloitte",
   "name": "Deloitte",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
@@ -22,17 +22,21 @@
     {
       "hub": "London",
       "count": 1
+    },
+    {
+      "hub": "Madrid",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 3
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 3
     },
     {
@@ -52,10 +56,17 @@
     1,
     4,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f33c61cfa020e0a0607cc45b807a94917c33ba9e",
+      "title": "Junior Cybersecurity | Tecnologia & Transformación - Empieza tu carrera con impacto | Madrid",
+      "url": "https://empleo.es.deloitte.com/job/Madrid-Junior-Cybersecurity-Tecnologia-&-Transformaci%C3%B3n-Empieza-tu-carrera-con-impacto-Madrid/1436212333/?utm_source=freehire.me",
+      "location": "Madrid, ES",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "0338aeb4cbc8a027e4400f379a9f201cf9d2a951",
       "title": "Trainee Cloud & Data - Dein Einstieg in Artificial Intelligence & Data (m/w/d) (Cloud-Architect)",

@@ -2,9 +2,9 @@
   "slug": "databricks",
   "name": "Databricks",
   "tier": "elite",
-  "currentOpenings": 22,
+  "currentOpenings": 23,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 30,
+  "totalPostings": 31,
   "avgPostingDurationDays": 15.9,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Berlin",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Amsterdam",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 21
     },
     {
       "id": "product",
@@ -61,10 +61,17 @@
     2,
     0,
     19,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa16b3ac63b74e52845703fbc08b769c19bf09e4",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/software-engineering-intern-2027-start-berlin-356841",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "bb5f78e44a5b336a8bb978b9ae7a39c73b71b0e0",
       "title": "Software Engineer - New Grad (2027 Start) - London",
@@ -127,13 +134,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "f5519a65857e6a4df41b6ffccdb369251ec61d76",
-      "title": "Data Science Intern (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
-      "location": "Mountain View, California; San Francisco, California",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

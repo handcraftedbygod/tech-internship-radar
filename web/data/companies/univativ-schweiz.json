@@ -2,21 +2,21 @@
   "slug": "univativ-schweiz",
   "name": "univativ Schweiz AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c79e39420f0fbb0f5e6a235df864f86a7c44e1d",
+      "title": "Junior Software Tester beim Bund (m/w) 50 - 60%",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZTVjZWE1MjYtNjJiNi00NmFhLTg1NTEtMWVmZjMwNzM0NWI1IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "381565ded39e5bf8c5b9e561e6ceb962a888ef2f",
       "title": "Junior Software Tester beim Bund (m/w) 50 - 60%",

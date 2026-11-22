@@ -2,21 +2,25 @@
   "slug": "lumentum",
   "name": "Lumentum",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +39,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6df84d38e3b1079ba9aa1a97cce936754fb83bd0",
+      "title": "AI Engineer Co-op",
+      "url": "https://go.vansh.nyc/1Gn",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "e754340e6e8eb8ca9bd038d9adcf795d02b743e1",
       "title": "SW Developer Support Intern, Program Management Office",

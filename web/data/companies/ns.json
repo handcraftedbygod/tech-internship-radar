@@ -2,14 +2,14 @@
   "slug": "ns",
   "name": "Ns",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     0,
     1,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "214193a56d20384351c5f051ad59f50277a4d92f",
+      "title": "Junior Backend Developer (Python & Azure)",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__182547226__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
+    {
+      "id": "deb3e651ddef9f8db0cddbd209a44b9dffeb91cd",
+      "title": "Junior Backend Developer (Python & Azure) - €3.159 - €5.507 Per Maand",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__182537199__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "b84cc798c7b6158f87ddd272f8cb0c7b36ae319a",
       "title": "Junior Data Talent Programma - Data Engineer (Dutch Speaking Only) - €2.985 - €5.034 Per Maand",

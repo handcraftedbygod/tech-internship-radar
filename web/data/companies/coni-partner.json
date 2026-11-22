@@ -2,21 +2,21 @@
   "slug": "coni-partner",
   "name": "coni+partner AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3880a1c228f8dbf9dcdfaf57496fdd82c1a723e5",
+      "title": "Junior Data Scientist | Fund Marketing & Insights",
+      "url": "https://www.jobleads.com/ch/job/junior-data-scientist-fund-marketing-insights--zurich--ea25947cd64306988bf17aab5fedfb88d?utm_source=freehire.me",
+      "location": "Zürich, Zürich",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "de4c7d44c2361c2af6e9b667f905efe40eabf3fe",
       "title": "(Junior) Data Scientist Marketing / Fund Investment",

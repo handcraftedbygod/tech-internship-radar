@@ -2,13 +2,17 @@
   "slug": "joinrs-espa-a",
   "name": "Joinrs España",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Madrid",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1f7772dbbf9ff0cde277f9a84e117c57287c9901",
+      "title": "Junior Engineer (Software, Data, Backend, Ai, Cloud, Manufacturing, Sales)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373553072__7107?utm_campaign=publisher&utm_medium=api&geoID=425&utm_source=freehire.me",
+      "location": "Málaga, Spain",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "a2139c59a5bfd96447b0293367c15d671530f6c2",
       "title": "Junior Engineer (Software, Data, Backend, AI, Cloud, Manufacturing, Sales)",

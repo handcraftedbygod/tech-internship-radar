@@ -2,20 +2,25 @@
   "slug": "ribbon",
   "name": "Ribbon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1613b1afd7ccdd94a8cc9971b57ccd074aed78fc",
+      "title": "Software Developer Co-op, Common Cloud Services",
+      "url": "https://go.vansh.nyc/1Gf",
+      "location": "Canada",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "4dccbaa201bde56e362e8037af22793fc0340d0b",
       "title": "AI Engineer Co-op",

@@ -2,21 +2,21 @@
   "slug": "agilerobotsse",
   "name": "Agilerobotsse",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "ai",
@@ -35,10 +35,24 @@
     0,
     3,
     3,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e2ade761fbea6e3e19f1ce7c2ced033a319989a",
+      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847?utm_source=freehire.me",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
+    {
+      "id": "49998f453a3f85ce4ba53514da1f2ea5357eb1c8",
+      "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/full-stack-developer-intern-robotics-data-collection-munich-bavaria-36847",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "33fb2f9529b7ab244d5b1773de65c9393e6c5779",
       "title": "Working Student (m/f/d) -  Data Engineer & Software Developer (Research Analytics)",

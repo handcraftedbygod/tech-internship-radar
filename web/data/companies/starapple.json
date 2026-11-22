@@ -2,14 +2,14 @@
   "slug": "starapple",
   "name": "Starapple",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     1,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51f797ea1aad66adf2cd2f622ff45c741ec8ae81",
+      "title": "Junior Data Analyst: Power BI & Path to BI Consultant",
+      "url": "https://www.jobleads.com/nl/job/junior-data-analyst-power-bi-path-to-bi-consultant--breda--ead5414eed00be5dce2838c43031392da?utm_source=freehire.me",
+      "location": "Breda, Noord-Brabant",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "49f3ca26e1c7b197ccec84d1336b339f215c0796",
       "title": "Junior data engineer",

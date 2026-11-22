@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 33,
+  "totalPostings": 34,
   "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     0,
     2,
     21,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbd0c482ae527217ac7cd7702475aab54e3d2bc1",
+      "title": "Software Engineering Intern — Dublin (Hybrid, Mentored & Impactful)",
+      "url": "https://www.jobleads.com/ie/job/software-engineering-intern-dublin-hybrid-mentored-impactful--dublin--e14a4d2ee3212c554e33edb30f8f8cd00?utm_source=freehire.me",
+      "location": "Dublin, County Dublin",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "bd676b258dc196851cb9c73bc1c24a18c417b722",
       "title": "Software Engineering Intern, App Intelligence Experience",
@@ -122,13 +129,6 @@
       "url": "https://go.vansh.nyc/1mi",
       "location": "Cupertino, CA",
       "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "e1ea3a8a16f458224958c325869fd47258048b28",
-      "title": "Internship -  Machine Learning Research (recurrent models | generative models |  interpretability)",
-      "url": "https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability?utm_source=freehire.me",
-      "location": "Barcelona",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

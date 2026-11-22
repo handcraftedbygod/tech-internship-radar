@@ -2,21 +2,21 @@
   "slug": "ch-prog-partner-whatjobs-mixed-cpc",
   "name": "CH_Prog_Partner_Whatjobs_Mixed_CPC",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 11
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     12,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a620334abea787fcd540f9e0d01ef2dfa9e2a724",
+      "title": "Internship - Data Engineer - Optimization of Data Delivery",
+      "url": "https://de-ch.whatjobs.com/pub_api__cpl__51174127__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "f5655531bfe4929c7ed0844ff48dd4b2ad90da48",
       "title": "Internship - Data Engineer - Accelerating Adoption of Microsoft Fabric",
@@ -99,13 +106,6 @@
       "id": "c2964a3e17236fff37b45138221819d36cd3ed4c",
       "title": "Internship – Software engineer - Cash Management Tool Redevelopment",
       "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981325__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Switzerland",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "a5ec892d65caea1106207a666c30e016ea2c3588",
-      "title": "Internship – AI Software Engineer - AI-Powered Non-Regression Test Case Generation",
-      "url": "https://de-ch.whatjobs.com/pub_api__cpl__45981310__7095?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Switzerland",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }

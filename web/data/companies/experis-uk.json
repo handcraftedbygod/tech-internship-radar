@@ -2,21 +2,25 @@
   "slug": "experis-uk",
   "name": "Experis UK",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "London",
       "count": 5
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     5,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "79d290bdd32fe8e01a72c6fab69608be73334c01",
+      "title": "Trainee Systems Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5974672436?se=KrNYMD3m8RGRbNIqLoK1cg&utm_medium=api&v=C9B21AB1630CA29ED37B5FEC4CF965F7F70F1209&utm_source=freehire.me",
+      "location": "Torry, Aberdeen",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "c2ba1918893d16351b71c657e34d12fe1b273df3",
       "title": "Junior Android Developer",

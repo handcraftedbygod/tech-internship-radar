@@ -2,14 +2,14 @@
   "slug": "oliver-bernard",
   "name": "Oliver Bernard",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa3fc0441e329957ee0f22a91486f2c119c92e80",
+      "title": "Junior Full Stack Engineer (London) - Equity & Health",
+      "url": "https://www.jobleads.com/gb/job/junior-full-stack-engineer-london-equity-health--greater-london--eb1c164f2ac8a1611207e12af398e10f7?utm_source=freehire.me",
+      "location": "Greater London, England",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "b0b9b6ce5b53df5cedcea894af5ef5ba7dcb7f44",
       "title": "Junior Software Engineer",

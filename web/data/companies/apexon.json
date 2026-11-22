@@ -2,21 +2,21 @@
   "slug": "apexon",
   "name": "Apexon",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     3,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15cb3452e3b3324fcccee38d80427b196916f8c9",
+      "title": "Junior Java Full Stack Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__641078827__7082?utm_campaign=publisher&utm_medium=api&geoID=835&utm_source=freehire.me",
+      "location": "Birmingham, United Kingdom",
+      "firstSeenAt": "2026-11-22T12:18:53.586Z"
+    },
     {
       "id": "37013912b954f63dacfbb5b757a55c96058f55b2",
       "title": "Junior AWS Cloud DevOps Engineer",
