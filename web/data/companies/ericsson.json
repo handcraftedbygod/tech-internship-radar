@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 36,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 37,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stockholm",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Lodz",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 31
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     5,
     5,
     7,
-    19,
+    20,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b21bb03f4835453834ab991ccf4925ac39ed4cf",
+      "title": "Junior Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777619170-junior-software-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "74e9152684289a4f4d555b9fe471baf09966fd89",
       "title": "DevOps Junior Developer",
@@ -121,13 +128,6 @@
       "title": "Junior Developer: Data Center Automation",
       "url": "https://jobs.ericsson.com/careers/job/563121777519787-junior-developer-data-center-automation-?domain=ericsson.com&utm_source=freehire.me",
       "location": "Linköping,Östergötland,Sweden",
-      "firstSeenAt": "2026-11-14T11:15:38.078Z"
-    },
-    {
-      "id": "b14dc5f9443255e07b32cf597229d7428cb9af37",
-      "title": "Junior Developer: Data Center Automation",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjM5MTg4NyAxMjE?lang=en",
-      "location": "Sweden",
       "firstSeenAt": "2026-11-14T11:15:38.078Z"
     }
   ]

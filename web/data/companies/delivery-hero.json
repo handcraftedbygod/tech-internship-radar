@@ -2,14 +2,14 @@
   "slug": "delivery-hero",
   "name": "Delivery Hero",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Berlin",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     3,
     2,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23e82997227862b21eb6ed3c4c1c70e8ee374799",
+      "title": "Junior Backend Engineer (They/She/He)",
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000163210859",
+      "location": "Barcelona, , Spain",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "7259e3adce831013b0570dd8ae2de5e4a32c9a16",
       "title": "Junior Backend Engineer (They/She/He)",
@@ -118,13 +125,6 @@
       "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000152260659",
       "location": "Barcelona, , Spain",
       "firstSeenAt": "2026-09-29T10:26:55.144Z"
-    },
-    {
-      "id": "da3f4a98d4943222c7c56c01fffb2809e13a0852",
-      "title": "Junior Operations Data Analyst Forecasting - AFR",
-      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000150294779",
-      "location": "Barcelona, , Spain",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
     }
   ]
 }

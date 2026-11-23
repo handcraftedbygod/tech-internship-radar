@@ -2,21 +2,21 @@
   "slug": "alex-ai",
   "name": "Alex AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "093c8c2f45d6fb6ada3dab772c3afac62ceba287",
+      "title": "Data Analyst Junior",
+      "url": "https://www.jobleads.com/es/job/data-analyst-junior--madrid--e1c211105a152cbc687e36db3ea5cabf5?utm_source=freehire.me",
+      "location": "Madrid, Comunidad de Madrid",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "42edd842f140623209eaec3ce9db6d4fa488413e",
+      "title": "Junior Data Analyst: AI-Powered Insights & Dashboards",
+      "url": "https://www.jobleads.com/es/job/junior-data-analyst-ai-powered-insights-dashboards--madrid--ed67143f435eb6d50b1390e0917a8a82b?utm_source=freehire.me",
+      "location": "Madrid, Comunidad de Madrid",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "b1e6defa0eefa29e274642821637f6a46ef52b85",
       "title": "Data Analyst Junior",

@@ -2,21 +2,21 @@
   "slug": "metyis",
   "name": "Metyis AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-22T12:18:53.586Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d61655e2b757126b843b71e11037dd8fbbc83b38",
+      "title": "Data Engineering Intern",
+      "url": "https://www.arbeitnow.nl/jobs/companies/metyis-ag/data-engineering-intern-amsterdam-200037?utm_source=freehire.me",
+      "location": "Amsterdam, Noord-Holland, Netherlands",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "79b46d72645117dee91440f69234ba5601985e21",
       "title": "Data Engineering Intern",

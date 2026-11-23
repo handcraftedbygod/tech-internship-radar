@@ -2,13 +2,17 @@
   "slug": "moody-s",
   "name": "Moody's",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e7caaf916cc124605e95a2de3ca00fd1bca88dd",
+      "title": "Model And Software Specialist Summer Intern",
+      "url": "https://powertofly.com/jobs/detail/2650762?utm_source=freehire.me",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "11ba974641e57a52c104b2bf770c4e5b8b55977f",
       "title": "Applied AI & Analytics Intern",

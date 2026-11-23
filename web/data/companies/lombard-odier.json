@@ -2,26 +2,26 @@
   "slug": "lombard-odier",
   "name": "Lombard Odier",
   "tier": null,
-  "currentOpenings": 16,
+  "currentOpenings": 18,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 16,
+  "totalPostings": 18,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 12
+      "count": 13
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     0,
-    16,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "92fce26bcd771dd19aa9b14dd69d1e95e8193f39",
+      "title": "AI Software Engineer Intern – Private Banking",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Private-Banking?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "45d150eec1e1d7cdedf879612e102c852ab70ae5",
+      "title": "Software Engineer Intern - Cash Management Tool Redevelopment",
+      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Software-Engineer-Intern---Cash-Management-Tool-Redevelopment?utm_source=freehire.me",
+      "location": "Geneva",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "d08a230bdc0f4d9eb45c1021a0f4294cd2f9fb18",
       "title": "AI Engineer Intern – Software Migration Factory",
@@ -92,20 +106,6 @@
       "id": "4a68a9b92c3f1ef0ee610f97d5eeacdbc2deae87",
       "title": "AI Software Engineer Intern – Portfolio Intelligence (PMS)",
       "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Portfolio-Intelligence-PMS?utm_source=freehire.me",
-      "location": "Geneva",
-      "firstSeenAt": "2026-11-21T12:08:56.322Z"
-    },
-    {
-      "id": "77f4a3241e54463453d5cd720e138ed29a511e26",
-      "title": "Internship - Software Engineer - Platform Modernization",
-      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-Internship---Software-Engineer---Platform-Modernization?utm_source=freehire.me",
-      "location": "Geneva",
-      "firstSeenAt": "2026-11-21T12:08:56.322Z"
-    },
-    {
-      "id": "26487d1ec7b2f32a473165c3d4cab503acf75303",
-      "title": "AI Software Engineer Intern – Securities Settlement Migration",
-      "url": "https://swissdevjobs.ch/jobs/Lombard-Odier-AI-Software-Engineer-Intern--Securities-Settlement-Migration?utm_source=freehire.me",
       "location": "Geneva",
       "firstSeenAt": "2026-11-21T12:08:56.322Z"
     }

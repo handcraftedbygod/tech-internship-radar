@@ -2,14 +2,14 @@
   "slug": "version-1",
   "name": "Version 1",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     1,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "be0ceadb5f6c323905d0a7ec1f73dc6e754f2e7b",
+      "title": "Junior Java Developer",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__630975951__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me",
+      "location": "Newcastle upon Tyne, United Kingdom",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "d3d9c4207bfc3f530c9157f66eec2036b8bff28b",
       "title": "Junior Java Developer",

@@ -2,21 +2,21 @@
   "slug": "ehrhardt-partner",
   "name": "Ehrhardt Partner Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "efd295b97da6bc7a0cf046bcb57ba5b16a96f2ea",
+      "title": "Junior Software Developer (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5975378413?se=3Im-WQbn8RGOiPGHRQ0qgg&utm_medium=api&v=74F8547931C9463C3391C919E83999CB38B6DF8E&utm_source=freehire.me",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "64f2ed2be92c50e1641cb955eebeded10d0ad8be",
       "title": "Junior Software Developer (m/w/d) - Anwendungsentwicklung, Ingenieur",

@@ -2,21 +2,25 @@
   "slug": "artefact",
   "name": "Artefact",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-23T09:07:11.548Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Paris",
       "count": 4
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -35,10 +39,17 @@
     0,
     2,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fd4d10732c266ea92b747b1b2250cc390e955ed7",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1Gz",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "09f1573f594a816ac354feaa535ae096cd739cde",
       "title": "Intern Data Analyst - Paris",

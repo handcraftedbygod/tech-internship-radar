@@ -2,13 +2,17 @@
   "slug": "unavailable",
   "name": "UNAVAILABLE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8eb5ebff79dd1ce5ae5739eaa58dbdf0135aa9f7",
+      "title": "Cloud Engineer Intern — GCP, DevOps & Generative AI",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373725607__7107?utm_campaign=publisher&utm_medium=api&geoID=3665&utm_source=freehire.me",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "ca39ec781244a529e2d746be0861069514bba5a0",
       "title": "Junior Data Analyst",

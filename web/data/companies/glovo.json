@@ -2,14 +2,14 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 39,
+  "currentOpenings": 26,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 103,
-  "avgPostingDurationDays": 24.8,
+  "totalPostings": 104,
+  "avgPostingDurationDays": 31,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 64
+      "count": 65
     },
     {
       "hub": "Madrid",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 79
+      "count": 80
     },
     {
       "id": "biz",
@@ -57,10 +57,17 @@
     33,
     26,
     25,
-    19,
+    20,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d8e83a9256c41330102a5777737cfad182f80b17",
+      "title": "Junior Paid Social & Meta Specialist",
+      "url": "https://careers.glovoapp.com/job/junior-paid-social-meta-specialist-in-barcelona-spain-jid-744000163201149/",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "4c5c3f5c4f8b5d4e715ba2ee4ecfdfd7a03bae2f",
       "title": "Intern Regions Spain",
@@ -123,13 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-backend-engineer-they-she-he-in-barcelona-spain-jid-744000161824082/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "98cd1658e397b7eceebe70d3d60331abe90714a8",
-      "title": "Account Manager Intern Groceries Spain",
-      "url": "https://careers.glovoapp.com/job/account-manager-intern-groceries-spain-in-madrid-spain-jid-744000161139879/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

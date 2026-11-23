@@ -2,9 +2,9 @@
   "slug": "experis-uk",
   "name": "Experis UK",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     5,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8acca060c90c6557da46a30f0a87327011594021",
+      "title": "Trainee Systems Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5974672436?se=-r80rqHm8RGnWcba1hTGKQ&utm_medium=api&v=C9B21AB1630CA29ED37B5FEC4CF965F7F70F1209&utm_source=freehire.me",
+      "location": "Torry, Aberdeen",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "79d290bdd32fe8e01a72c6fab69608be73334c01",
       "title": "Trainee Systems Engineer",

@@ -2,9 +2,9 @@
   "slug": "wisag-job-karriere",
   "name": "WISAG Job & Karriere GmbH & Co. KG",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Frankfurt",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b508451a4f3a290bf6541da872f5a3677af5cd69",
+      "title": "Junior Projektleiter (m/w/d) Digitalisierung im Bereich Software Systeme #432728",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13465-00021a6a2bc001-S?utm_source=freehire.me",
+      "location": "Frankfurt am Main, HESSEN, DEUTSCHLAND",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "5b62722b9482f30ab340eebb771ba11fc6c298c3",
       "title": "Junior Projektleiter (m/w/d) Digitalisierung im Bereich Software Systeme #430119",

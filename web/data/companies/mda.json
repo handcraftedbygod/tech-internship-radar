@@ -2,17 +2,17 @@
   "slug": "mda",
   "name": "MDA",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
-      "hub": "Montreal",
-      "count": 2
+      "hub": "Other",
+      "count": 3
     },
     {
-      "hub": "Other",
+      "hub": "Montreal",
       "count": 2
     }
   ],
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "06c982de3dddbb2f7ef963e39336ea7a839220f3",
+      "title": "Junior Security Administrator Intern",
+      "url": "https://go.vansh.nyc/1GI",
+      "location": "Sainte-Anne-de-Bellevue, Canada",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "5249013ec8156deca740ba6464a22e9561763a02",
       "title": "Engineering Student Intern, AI/ML Specialist",

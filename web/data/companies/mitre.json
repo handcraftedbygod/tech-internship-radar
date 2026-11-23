@@ -2,26 +2,31 @@
   "slug": "mitre",
   "name": "MITRE",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 11,
+  "totalPostings": 14,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 14
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +40,31 @@
     0,
     0,
     6,
-    5,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e07a92943d4e5587ca29ca4e6319be0af6692d71",
+      "title": "Cybersecurity and Information Security Intern",
+      "url": "https://go.vansh.nyc/1GC",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "6ad6e9b7eb4cbaa84eba303e104ddd9a8bf6f55e",
+      "title": "Generative and Agentic AI Intern",
+      "url": "https://go.vansh.nyc/1GB",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "397fafde44a550179f187aa201acee97d4bb4296",
+      "title": "Embedded Security Intern, Electronics Prototype",
+      "url": "https://go.vansh.nyc/1GA",
+      "location": "Bedford, MA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "0d1dd7d55c89afd49a2d051f9c5b84f28a668e9e",
       "title": "Associate Data Scientist",
@@ -87,27 +113,6 @@
       "url": "https://go.vansh.nyc/10s",
       "location": "McLean, VA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "40f34985c7edad967c94ac3b9fae03934d474dc0",
-      "title": "Trustworthy AI Intern",
-      "url": "https://go.vansh.nyc/10r",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "3dc6d15cc15d68b7e7d97527aafd1e47b643728b",
-      "title": "Autonomous Systems Intern",
-      "url": "https://go.vansh.nyc/gU",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "3610f2e21d90aed28b1e0b776b031b2c0ab98836",
-      "title": "Autonomous Systems Intern",
-      "url": "https://careers.mitre.org/us/en/job/R117720/Autonomous-Systems-Intern",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

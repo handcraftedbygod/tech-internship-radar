@@ -2,21 +2,21 @@
   "slug": "true-legends",
   "name": "True Legends",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-19T12:32:20.459Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f822436f7e1eb66b63ffa58de2f88f50654932c6",
+      "title": "Junior DevOps Engineer overheid Apeldoorn",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjBlYWE3ZGYtYmQ2OC04ZWNmLWUwNjMtNjg5M2IyMGE2ZmI1IDQy?lang=en&utm_source=freehire.me",
+      "location": "APELDOORN, Netherlands",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "68a535ab1f6894a227edc81bf870fe1e0393455b",
+      "title": "Junior DevOps Engineer overheid Apeldoorn",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjBlYWE3ZGYtYmQ2OC04ZWNmLWUwNjMtNjg5M2IyMGE2ZmI1IDQy?lang=en",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "a4866eaef704e8ef0c037655e4b19d04d197e684",
       "title": "Junior C plus plus Developer",

@@ -1,0 +1,45 @@
+{
+  "slug": "roadrunner",
+  "name": "RoadRunner",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-23T14:03:22.430Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "0998af86f51f65e2b8e65f2706ad18e489c06c71",
+      "title": "New Grad: Forward Deployed Engineer",
+      "url": "https://go.vansh.nyc/1Gw",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    }
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "slug": "doctrine",
-  "name": "doctrine",
+  "name": "Doctrine",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 9,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 9
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "ai",
@@ -35,10 +35,24 @@
     1,
     0,
     7,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9f78fa8625116cb2528697673b602a39ca1b318d",
+      "title": "STAGE - Junior Fullstack Engineer - International Team",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-international-team-paris-134859",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "b73062008e787171ee472a5fb79bbfcfc5e153fa",
+      "title": "STAGE - Junior Fullstack Engineer - Productivity",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-productivity-paris-89035",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "1aaa9993f025dab688ac82e960311b2d3f63b703",
       "title": "STAGE - Junior SRE (Foundation squad)",
@@ -94,13 +108,6 @@
       "url": "https://jobs.lever.co/doctrine/5788d9c7-5980-4c39-9d90-e86fa6f2104e?utm_source=freehire.me",
       "location": "Paris",
       "firstSeenAt": "2026-10-01T10:45:16.393Z"
-    },
-    {
-      "id": "1673ad404921b8c690df37330a165ffb7d38627a",
-      "title": "Junior / Intermediate Machine Learning Engineer - Squad Distribute",
-      "url": "https://jobs.lever.co/doctrine/4798ca9f-4635-4edc-96aa-81c979b99a94?utm_source=freehire.me",
-      "location": "Paris",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

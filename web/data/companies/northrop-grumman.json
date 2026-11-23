@@ -2,26 +2,26 @@
   "slug": "northrop-grumman",
   "name": "Northrop Grumman",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 44,
+  "totalPostings": 46,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 44
+      "count": 46
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 37
+      "count": 38
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -40,10 +40,24 @@
     0,
     0,
     23,
-    21,
+    23,
     0
   ],
   "recentPostings": [
+    {
+      "id": "04bd73937136737de43a7a8d384362e414bf9f79",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/1GL",
+      "location": "Colorado Springs, CO",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "4262656f3e8e9ee4166c76e2e0c1ecb1455dde45",
+      "title": "AI/ML Engineering Intern",
+      "url": "https://go.vansh.nyc/1GD",
+      "location": "Morrisville, NC",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "701337cae9d33c24be448f9fea48797c6e8071c2",
       "title": "New Grad 2027: Associate Software Engineer, Pathways",
@@ -98,20 +112,6 @@
       "title": "Cybersecurity Software Engineering Intern",
       "url": "https://go.vansh.nyc/1gl",
       "location": "Clearfield, UT",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "09e9c13d5e8d8d6747b609eaf17361d34bb7e829",
-      "title": "DevOps Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1gk",
-      "location": "Roy, UT",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
-    },
-    {
-      "id": "dacb5e748cba159adf15638feacd2a7e48699b1a",
-      "title": "Software Test Engineering Intern",
-      "url": "https://go.vansh.nyc/1gj",
-      "location": "Roy, UT",
       "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]

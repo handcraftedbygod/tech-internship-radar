@@ -2,14 +2,18 @@
   "slug": "placements24",
   "name": "Placements24",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
       "count": 6
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 6
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     0,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "53679de8ed3eea062184c097fe2d22d43f77ef21",
+      "title": "Remote Junior Full-Stack Developer — Growth & Learning",
+      "url": "https://www.jobleads.com/gb/job/remote-junior-full-stack-developer-growth-learning--greater-london--eb3dedbeab66390f811c99ed664e3ce77?utm_source=freehire.me",
+      "location": "Greater London, England",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "2b9efeeaf01b9fe4280be6090515bd554008e1b0",
       "title": "Desarrollador Backend Junior - APIs y Microservicios(Remoto)",

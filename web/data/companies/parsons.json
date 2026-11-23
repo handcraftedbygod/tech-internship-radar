@@ -2,14 +2,14 @@
   "slug": "parsons",
   "name": "Parsons",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hw",
@@ -40,10 +40,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ad203de2e40d368827459d041489c28c4c4fe15",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1Gq",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "2b3a66953fa775f3240168020f481679402d7d4e",
       "title": "Embedded Developer Intern",

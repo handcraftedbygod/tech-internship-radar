@@ -2,14 +2,14 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Stuttgart",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     1,
     1,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4379a96bb955fccf3afb032b3d29e75bdb83f3a8",
+      "title": "Junior Android Developer",
+      "url": "https://www.linkedin.com/jobs/view/4492385585/?utm_source=freehire.me",
+      "location": "Lund, Skåne County, Sweden",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "dcf1dd47df056628a7f1d934ae21225f73c707cd",
       "title": "DevOps Junior",

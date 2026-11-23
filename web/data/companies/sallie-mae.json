@@ -2,21 +2,21 @@
   "slug": "sallie-mae",
   "name": "Sallie Mae",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6153add3c4369df460e2477b0080b1df82267188",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Gx",
+      "location": "Newark, DE",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "6863623f3f09e743b27f6242da4d97f1d67da867",
       "title": "Software Engineer Intern",

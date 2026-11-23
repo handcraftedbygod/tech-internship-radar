@@ -1,0 +1,45 @@
+{
+  "slug": "old-mission-capital",
+  "name": "Old Mission Capital",
+  "tier": "trading",
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-23T14:03:22.430Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Chicago",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "e91bac98ab03719a6ba28b3b1cdf96e22310db51",
+      "title": "New Grad 2027: Trading Production Engineer",
+      "url": "https://go.vansh.nyc/1Gv",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    }
+  ]
+}

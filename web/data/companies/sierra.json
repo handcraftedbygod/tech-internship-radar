@@ -2,25 +2,25 @@
   "slug": "sierra",
   "name": "Sierra",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 12.4,
   "topLocations": [
     {
-      "hub": "London",
+      "hub": "San Francisco",
       "count": 7
     },
     {
-      "hub": "San Francisco",
-      "count": 5
+      "hub": "London",
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 14
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     4,
     8,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fbf0b4049f9ae2d0d79bc7489c28edb1cc7e628d",
+      "title": "New Grad 2027: APX",
+      "url": "https://go.vansh.nyc/1Gt",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "b4629d1e59222bab2745c86e7109ddb8f2e9eda1",
+      "title": "New Grad 2027: Software Engineer, Agent",
+      "url": "https://go.vansh.nyc/1Gs",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "2f5ec320d9f883a20c870d64b833f8492ad2445f",
       "title": "Research Intern",
@@ -93,20 +107,6 @@
       "url": "https://jobs.ashbyhq.com/sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252",
       "location": "London",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "e535585480ae99a2e298c13420ef3255d2f6a7e7",
-      "title": "Intern, Agent Development (Winter 2027)",
-      "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
-    },
-    {
-      "id": "3e3b6060c008b0bc8aa1a70210257ebaca98ad4c",
-      "title": "APX (New Grad 2027)",
-      "url": "https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-09-01T09:11:49.631Z"
     }
   ]
 }

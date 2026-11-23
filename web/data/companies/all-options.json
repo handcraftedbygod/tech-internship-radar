@@ -2,21 +2,21 @@
   "slug": "all-options",
   "name": "All Options",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54ba64cd95ea6048187b70c61874bde6723083e2",
+      "title": "New Grad 2027: Quantitative Trader",
+      "url": "https://go.vansh.nyc/1GJ",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "8a9d18b7c5619e8774c5129f458d252f883873bc",
       "title": "New Grad 2027: Quantitative Researcher",

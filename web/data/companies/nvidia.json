@@ -2,9 +2,9 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 55,
+  "totalPostings": 56,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
@@ -12,12 +12,12 @@
       "count": 43
     },
     {
-      "hub": "Austin",
+      "hub": "Munich",
       "count": 5
     },
     {
-      "hub": "Munich",
-      "count": 4
+      "hub": "Austin",
+      "count": 5
     },
     {
       "hub": "Toronto",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 36
+      "count": 37
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     2,
     0,
     38,
-    15,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "00a02e11ee9be0a31230defba80864dd45f9d740",
+      "title": "Software Engineering Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern_JR2029967?utm_source=freehire.me",
+      "location": "Germany, Munich",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "55114631842d530a6f6ee59f7d5585e23403916a",
       "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
@@ -131,13 +138,6 @@
       "title": "AI Compiler and Kernel Intern",
       "url": "https://go.vansh.nyc/1bR",
       "location": "Austin, TX",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "6b678ea37a2770c4e0bf9c957525e917d98e5d18",
-      "title": "Math Libraries Intern, cuEST",
-      "url": "https://go.vansh.nyc/1bE",
-      "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "cas",
   "name": "CAS",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
@@ -19,13 +19,13 @@
       "count": 4
     },
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -40,10 +40,17 @@
     0,
     0,
     0,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "251f92e3687d94e8a9043d49123acaddade4c40b",
+      "title": "Technology Intern, Development Operations",
+      "url": "https://go.vansh.nyc/1GH",
+      "location": "Columbus, OH",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "485da52339e85a393e3cc20f592f52c6dcf176db",
       "title": "Infrastructure Engineer Intern, Technology",

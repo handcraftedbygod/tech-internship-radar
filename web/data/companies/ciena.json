@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Montreal",
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -49,10 +49,17 @@
     0,
     0,
     11,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "351fecdfc3caa27e82ee31437c90d119b48630ad",
+      "title": "New Grad: Embedded Software Developer",
+      "url": "https://go.vansh.nyc/1Gr",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "bcebc57a6f2e6353ab7673d6caf7fcc9999e1376",
       "title": "New Grad 2027: Embedded Software Engineer",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/SP",
       "location": "Atlanta, GA",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "2a3202ece12e62e8b599f89dad6e2c25c6a3eb86",
-      "title": "Software Developer Intern",
-      "url": "https://go.vansh.nyc/f1",
-      "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "masterborn",
   "name": "MasterBorn",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     5,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4db6edfe5483aecdec010a3f3a6c4479c96568d8",
+      "title": "Junior QA Specialist",
+      "url": "https://go.vansh.nyc/1GN",
+      "location": "Remote",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "431a43d6fcee0768c1ee6de7f8b9f2ca895e80e2",
       "title": "Junior Backend Developer (Node.js)",

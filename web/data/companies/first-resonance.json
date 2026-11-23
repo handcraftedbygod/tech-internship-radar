@@ -1,0 +1,52 @@
+{
+  "slug": "first-resonance",
+  "name": "First Resonance",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-23T14:03:22.430Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Los Angeles",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1286377513a9125f4f8c95b8896b9b5b2abb65e1",
+      "title": "Forward Deployed Engineering Intern",
+      "url": "https://go.vansh.nyc/1GF",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
+    {
+      "id": "11f6506959f9d3fe8cd039e2658ec0075c15c701",
+      "title": "Software Engineering Intern, Platform",
+      "url": "https://go.vansh.nyc/1GE",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    }
+  ]
+}

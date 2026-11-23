@@ -2,14 +2,14 @@
   "slug": "oliver-bernard",
   "name": "Oliver Bernard",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0394e80420e199c2cc77c0b284b448f11c51aba8",
+      "title": "Junior Full Stack Engineer (London) - Equity & Health",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__643099810__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "aa3fc0441e329957ee0f22a91486f2c119c92e80",
       "title": "Junior Full Stack Engineer (London) - Equity & Health",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 4,
-  "avgPostingDurationDays": 11.9,
+  "totalPostings": 5,
+  "avgPostingDurationDays": 12.5,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "37126ac50b74e1e39bf8477d27c341ed1e509457",
+      "title": "Junior Data Engineer – Azure Platform, Flexible Work",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__638824354__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "7e5e44578afd36159cd1329d7d9ec06c3474aefd",
       "title": "Junior Developer",

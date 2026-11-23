@@ -2,9 +2,9 @@
   "slug": "carbon-data-solutions",
   "name": "Carbon Data Solutions",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-28T10:36:11.914Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 14,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "Zurich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -39,10 +43,17 @@
     0,
     2,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c3f05ebb4adabe9c52a9d08c271911a34f2179a",
+      "title": "Junior Data Scientist: Marketing & Fund Investment",
+      "url": "https://www.jobleads.com/ch/job/junior-data-scientist-marketing-fund-investment--zurich--e14e461b74c73b9f5322d49fda7f7e63d?utm_source=freehire.me",
+      "location": "Zürich, Zürich",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "97a3d310243e665ae68b8eaa4bb593d4adec17e5",
       "title": "Junior Data Engineer",

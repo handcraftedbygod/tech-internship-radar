@@ -2,9 +2,9 @@
   "slug": "primeit",
   "name": "PrimeIT",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 12,
+  "totalPostings": 13,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 6
     },
     {
-      "hub": "Madrid",
-      "count": 3
+      "hub": "Lisbon",
+      "count": 4
     },
     {
-      "hub": "Lisbon",
+      "hub": "Madrid",
       "count": 3
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     1,
     0,
     4,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea76bb913f84e732ee4fd630db8d4cbc84ef5c69",
+      "title": "Java Developer Junior | Híbrido em Lisboa",
+      "url": "https://www.jobleads.com/pt/job/java-developer-junior-hibrido-em-lisboa--lisboa--e72581be9c5939ed537204f81ecfa092d?utm_source=freehire.me",
+      "location": "Lisboa, Lisboa",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "1c82b4a4e41f71252e51db0849ae08bd4aea175f",
       "title": "Junior Java Developer",
@@ -112,13 +119,6 @@
       "id": "ade5db7091499188dbdf0c55fbf5e76ef8214c96",
       "title": "Junior Java Developer - Hybrid (Aveiro) with Benefits",
       "url": "https://pt.whatjobs.com/pub_api__cpl__16819731__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Portugal",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "e505b5b7b2e1d37ab296366327aed87b93f85ff9",
-      "title": "Junior Java Developer",
-      "url": "https://pt.whatjobs.com/pub_api__cpl__16819684__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Portugal",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }

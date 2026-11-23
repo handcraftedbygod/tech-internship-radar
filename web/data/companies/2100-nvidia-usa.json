@@ -2,13 +2,17 @@
   "slug": "2100-nvidia-usa",
   "name": "2100 NVIDIA USA",
   "tier": "elite",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Munich",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3190f9eec5e119cfafacaf7b0e5797298b3b5614",
+      "title": "Software Engineering Intern",
+      "url": "https://startup.jobs/software-engineering-intern-2100-nvidia-usa-10855437?utm_source=freehire.me",
+      "location": "Munich, Germany",
+      "firstSeenAt": "2026-11-23T14:03:22.430Z"
+    },
     {
       "id": "6a8162369cdbd9d28f4c73edebb174c6716fce16",
       "title": "Developer Tools DevOps Engineering Intern - 2027",
