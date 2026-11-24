@@ -2,21 +2,21 @@
   "slug": "trend-micro",
   "name": "Trend Micro",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86e5bbabe7303b56cdc6381d6aa41dfaac92f0e3",
+      "title": "Software Developer",
+      "url": "https://go.vansh.nyc/1H3",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "d086905b322cbc446bc8472a300d954aae15d786",
       "title": "Software Developer",

@@ -2,21 +2,21 @@
   "slug": "state-street",
   "name": "State Street",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 10,
+  "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
       "hub": "Other",
       "count": 6
     },
     {
-      "hub": "Krakow",
-      "count": 1
+      "hub": "Boston",
+      "count": 3
     },
     {
-      "hub": "Boston",
+      "hub": "Krakow",
       "count": 1
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 8
     },
     {
       "id": "biz",
@@ -48,10 +48,24 @@
     2,
     0,
     1,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6bc7ce6f7ad88f75a9944f86b7ddf25f5a99deb5",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1HE",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "3aec07e554fbdc869c01983aea2322d2a072abfa",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Hi",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "edfc9106fb5c3e9f59f136d605887bda1379024c",
       "title": "Data Scientist Intern",

@@ -2,14 +2,14 @@
   "slug": "philips",
   "name": "Philips",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Amsterdam",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
@@ -49,10 +49,17 @@
     1,
     1,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3423fcaa34fa2d4505a760562e74a17623c3500d",
+      "title": "New Grad 2027: AI & Analytics Associate",
+      "url": "https://go.vansh.nyc/1HL",
+      "location": "Nashville, TN",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "ef5172181cc83efcd809bc6906936f5a7908ef23",
       "title": "Data Engineer Co-op, Biocompatibility",

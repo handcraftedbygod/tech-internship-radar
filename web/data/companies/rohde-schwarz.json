@@ -2,9 +2,9 @@
   "slug": "rohde-schwarz",
   "name": "Rohde & Schwarz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 25.4,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Munich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     4,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5aa82e66267bb6c0f3aac72f6b9d3661e43e1073",
+      "title": "Intern EMC Software Development (m/f/d)",
+      "url": "https://www.adzuna.de/details/5976995709?utm_medium=api&utm_source=freehire.me",
+      "location": "München, München (Kreis)",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "8098e459c93072dbcde63f1fc3adfd67c864481f",
       "title": "Intern EMC Software Development (m/f/d)",

@@ -2,14 +2,14 @@
   "slug": "entegris",
   "name": "Entegris",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "35bf6e4d8e073f1a2b0e2bc986e907a402a08820",
+      "title": "Cyber Threat Analyst Co-op",
+      "url": "https://go.vansh.nyc/1I2",
+      "location": "Chaska, MN",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "8d9b47ae863ebc9afe697945085099aa8a2376fb",
       "title": "Data Engineering Intern",

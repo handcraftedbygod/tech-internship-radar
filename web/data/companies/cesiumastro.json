@@ -2,14 +2,18 @@
   "slug": "cesiumastro",
   "name": "CesiumAstro",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
       "count": 2
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 2
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5ef74c01c333371f8fbe1b1157001b7005d66ce1",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1GQ",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "0348992077da7abe2fa5bc084719e8f87f8b5909",
       "title": "Electrical Engineering Intern, FPGA",

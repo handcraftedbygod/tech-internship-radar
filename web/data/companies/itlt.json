@@ -2,21 +2,21 @@
   "slug": "itlt",
   "name": "ITLT",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-15T09:14:39.865Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     1,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08374d9be2d8083c25710f76b1e6d8a8e79d8af3",
+      "title": "Junior Python Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37677665__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "39278f5047f0017b0d39d8eaec0ced8ab31756c9",
+      "title": "Remote Junior Python Developer – Money Services",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37677549__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "00043ff2bdfeea0da1f753a405ea5177880c45ae",
       "title": "Junior DevOps Engineer: OpenShift, Kubernetes & CI/CD",

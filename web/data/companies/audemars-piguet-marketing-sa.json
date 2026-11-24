@@ -2,21 +2,21 @@
   "slug": "audemars-piguet-marketing-sa",
   "name": "Audemars Piguet (Marketing) SA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8589d19e1f952226fa20ae346ed6cb251c700670",
+      "title": "Stagiaire Data Analyst - Supply Chain & Logistics",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NGI5MWRlZDAtZWFkOS00MTQ4LTgyZDItZjgxY2I0YmEyMWIwIDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "b918b6ab34aa16710e6655edece77b00715a36b8",
       "title": "Stagiaire Data Analyst - Supply Chain & Logistics",

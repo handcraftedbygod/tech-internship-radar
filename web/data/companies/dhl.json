@@ -2,21 +2,21 @@
   "slug": "dhl",
   "name": "DHL",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-26T04:39:57.262Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     1,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ff19673a96f223721bcda45e056fe8253303b8b",
+      "title": "Werkstudent Technical Data Science (m/w/d)",
+      "url": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV393477ENGLOBALEXTERNAL?utm_source=freehire.me",
+      "location": "Schkeuditz, Sachsen",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "58c093fc8fc2f54614ddbb9386a82d53b69f1376",
       "title": "Junior Experte / Referent \"Data Analyst & AI\" (m/w/d)",

@@ -2,14 +2,14 @@
   "slug": "boston-scientific",
   "name": "Boston Scientific",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Madrid",
@@ -18,13 +18,13 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 6
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 7
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 6
     },
     {
@@ -44,10 +44,17 @@
     1,
     0,
     8,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "496002c7148795024b868a319fb5dd98f2fd2439",
+      "title": "Software Test Engineer Co-op",
+      "url": "https://go.vansh.nyc/1HM",
+      "location": "Waltham, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "c646e4586b63711dfa163da4dd9b13f734583f0e",
       "title": "AI Acceleration Intern",
@@ -110,13 +117,6 @@
       "url": "https://go.vansh.nyc/cr",
       "location": "Arden Hills, MN",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "28785896d71bc1c9307491a379e4cb9ac273448b",
-      "title": "R&D Software Engineer Intern",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
-      "location": "Arden Hills, MN",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]
 }

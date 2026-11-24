@@ -2,21 +2,21 @@
   "slug": "nintendo",
   "name": "Nintendo",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "edf8c783f7c62f2ea5983beb1e5c50ccab26bba9",
+      "title": "IT Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/1GU",
+      "location": "Redmond, WA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "5773e7e88547cde773c34ea85002bc6f85be9d3f",
       "title": "Software Engineer Intern, Performance Tools",

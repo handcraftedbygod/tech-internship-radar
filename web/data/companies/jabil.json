@@ -2,14 +2,14 @@
   "slug": "jabil",
   "name": "Jabil",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-11T16:23:27.197Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 7.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d760bff9d92acb8637578ddd5e7d40b43e7ad9de",
+      "title": "IT Programmer Analyst Intern",
+      "url": "https://go.vansh.nyc/1Ho",
+      "location": "Florence, KY",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "e78647d06c67a03bb7b1c941c0941ee969945650",
       "title": "Software Engineering Intern",

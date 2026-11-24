@@ -2,21 +2,26 @@
   "slug": "garmin",
   "name": "Garmin",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 4,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 8
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,45 @@
     0,
     0,
     0,
-    4,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5cc5a3beadfc7828dac1ae5a14ffee2f884983b7",
+      "title": "Software Engineer Intern, Automotive OEM",
+      "url": "https://go.vansh.nyc/1H2",
+      "location": "Novi, MI",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "30bf2f3d1c4a5fd98bdd5a2b8b80677afe26d117",
+      "title": "Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1H1",
+      "location": "Olathe, KS",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "467a1e63e8fa28fb825013141dd2f6086061e594",
+      "title": "Software Engineer Intern, Aviation Web Development",
+      "url": "https://go.vansh.nyc/1H0",
+      "location": "Middlebury, CT",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "7e9c131c6d9b7672063d9e9cae8fa1ec75f10687",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1GZ",
+      "location": "Louisville, CO",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "561b7f3bd13fd1d001cb5028143876ed16f2cafa",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1GY",
+      "location": "Montgomery, TX",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "2b0e4f040fb5f72e9d69316c72d6bb6cfc69fa93",
       "title": "Software Engineer Intern, Web/Mobile",

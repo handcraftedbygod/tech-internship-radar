@@ -2,21 +2,26 @@
   "slug": "illumio",
   "name": "Illumio",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 5,
+  "totalPostings": 10,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 8
+    },
+    {
+      "id": "product",
+      "label": "Product",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,45 @@
     0,
     0,
     4,
-    1,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7a25d9c919f61850977b5347fadd0fc7769112df",
+      "title": "AI-Based Scale & Performance Test Automation Intern",
+      "url": "https://go.vansh.nyc/1HK",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "194635a4a2369839c0901af83f227e38b931329c",
+      "title": "Engineering Intern, Architecture Platform",
+      "url": "https://go.vansh.nyc/1HI",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "b8cb6b4e67ef4b5c761b85c2c0ad40ddf8a85a18",
+      "title": "Technical Product Management Intern",
+      "url": "https://go.vansh.nyc/1HD",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "0cdbaaf8d091dc51430e0ec6f60bac3d4c86270f",
+      "title": "Product Manager Intern",
+      "url": "https://go.vansh.nyc/1HC",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "3d9a1c00844aa891802def5dbdbd98c40b4fefcb",
+      "title": "Engineering Intern, Security Platforms",
+      "url": "https://go.vansh.nyc/1HB",
+      "location": "Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "7647a44da26bc85549895e00a64d5913c56a5d0a",
       "title": "Engineering Intern, SRE",

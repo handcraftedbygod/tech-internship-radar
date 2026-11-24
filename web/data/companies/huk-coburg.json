@@ -1,22 +1,22 @@
 {
   "slug": "huk-coburg",
-  "name": "HUK-COBURG",
+  "name": "HUK - COBURG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "30842e30497f845e82f7fb017e618b3d70948c8a",
+      "title": "Werkstudent Data Science (m/w/d)",
+      "url": "https://studyflix.de/jobs/angebote/520007?l=918367&utm_source=ba",
+      "location": "Coburg",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "61870672e95022438dbbc76f35bf59abbad04452",
       "title": "Werkstudent Python & KI (LLMs / Machine Learning) (w/m/d)",

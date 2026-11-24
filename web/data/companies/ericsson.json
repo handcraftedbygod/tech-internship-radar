@@ -2,10 +2,10 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 37,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 38,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Stockholm",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Lodz",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 31
+      "count": 32
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     5,
     5,
     7,
-    20,
+    21,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dce872324d54e91056a4de96854eceae07b1438",
+      "title": "Junior Software Developer",
+      "url": "https://jobs.ericsson.com/careers/job/563121777587440-junior-software-developer-stockholm-stockholm-sweden?domain=ericsson.com&utm_source=freehire.me",
+      "location": "Stockholm,Stockholm,Sweden",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "6b21bb03f4835453834ab991ccf4925ac39ed4cf",
       "title": "Junior Software Developer",
@@ -122,13 +129,6 @@
       "url": "https://go.vansh.nyc/1zB",
       "location": "Plano, TX",
       "firstSeenAt": "2026-11-15T11:47:58.663Z"
-    },
-    {
-      "id": "77d090a4a3f370ebf1cbed3b839b06a58ef3c1ac",
-      "title": "Junior Developer: Data Center Automation",
-      "url": "https://jobs.ericsson.com/careers/job/563121777519787-junior-developer-data-center-automation-?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Linköping,Östergötland,Sweden",
-      "firstSeenAt": "2026-11-14T11:15:38.078Z"
     }
   ]
 }

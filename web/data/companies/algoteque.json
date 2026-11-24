@@ -1,0 +1,66 @@
+{
+  "slug": "algoteque",
+  "name": "Algoteque",
+  "tier": null,
+  "currentOpenings": 4,
+  "firstTrackedAt": "2026-11-24T14:35:41.877Z",
+  "totalPostings": 4,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Lodz",
+      "count": 4
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "bf051ef2535e350eefd92bb4216798499cdb2f5f",
+      "title": "Junior Python Developer",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37824954__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "2c2c29f492262e7ee0446be4395ef57dc4b967ac",
+      "title": "Junior Python Developer(FastAPI)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37821009__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "d394dc569177d1daf179a5f46a0cfc75523ae709",
+      "title": "Junior Python Developer (FastAPI) - Remote, Bank Project",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37821057__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "c056c05554390c8ee3fd4e3fd9db8d3a30850129",
+      "title": "Junior Python Developer - FastAPI, Banking Project (Remote)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37824311__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    }
+  ]
+}

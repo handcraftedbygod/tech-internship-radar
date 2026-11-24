@@ -2,21 +2,21 @@
   "slug": "barcelona-activa",
   "name": "Barcelona Activa",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9061a9e88a79e4bd6e9d20adcf804859384d3a1",
+      "title": "61358 - Junior Data Engineer",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373205131__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "4ef6db5e51561eb4a6eeb032ae859d9feff25154",
       "title": "61358 - Junior Data Engineer",

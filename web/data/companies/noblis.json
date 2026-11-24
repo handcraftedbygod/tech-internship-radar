@@ -2,20 +2,25 @@
   "slug": "noblis",
   "name": "Noblis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5c64f8dbd741af3b6ad99a7e23629923f914c54d",
+      "title": "Data Innovations Intern",
+      "url": "https://go.vansh.nyc/1HA",
+      "location": "Springfield, VA, Reston, VA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "e544c24b5fad686ed2e0e4f135238eaa24b60422",
       "title": "Data Science and Innovation Intern",

@@ -1,0 +1,52 @@
+{
+  "slug": "zoll-medical",
+  "name": "ZOLL Medical Corporation",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-24T14:35:41.877Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "db562976c3afa160b584d7ece3123514e7206580",
+      "title": "Software Automation Intern",
+      "url": "https://go.vansh.nyc/1I1",
+      "location": "Chelmsford, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "94f45d7cb3d9643fcc5260958bc92b55daaaaa04",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1HW",
+      "location": "Chelmsford, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    }
+  ]
+}

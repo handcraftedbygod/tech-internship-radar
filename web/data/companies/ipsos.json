@@ -1,14 +1,18 @@
 {
   "slug": "ipsos",
-  "name": "Ipsos",
+  "name": "ipsos",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-27T15:01:46.813Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Stockholm",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     1,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c60ea45fceac8a116c7aadd884ded77fae3df581",
+      "title": "Junior Data Platform Engineer till Ipsos i Sverige",
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/31767640?utm_source=freehire.me",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "73c1725f443d283695466006492a110fac6197aa",
+      "title": "Junior Data Platform Engineer till Ipsos i Sverige",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQwNjg4NiAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "30984a1953cb64fe3e9b261f0e03255eaf5bc8ce",
       "title": "Junior Data Analyst - Audience Measurement",

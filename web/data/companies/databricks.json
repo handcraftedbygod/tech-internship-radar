@@ -4,8 +4,8 @@
   "tier": "elite",
   "currentOpenings": 23,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 15.9,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 27.8,
   "topLocations": [
     {
       "hub": "San Francisco",
@@ -21,7 +21,7 @@
     },
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 21
+      "count": 22
     },
     {
       "id": "product",
@@ -61,10 +61,17 @@
     2,
     0,
     19,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "86982a1fe745803f61f9ff86b6c744565121d72b",
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-133061",
+      "location": "London",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "aa16b3ac63b74e52845703fbc08b769c19bf09e4",
       "title": "Software Engineering Intern (2027 Start) - Berlin",
@@ -126,13 +133,6 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/WA",
       "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "26e62fc8ce0bb146d4d541feb82aff95e9f76af4",
-      "title": "Software Engineer - New Grad (2027 Start)",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]

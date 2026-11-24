@@ -2,17 +2,26 @@
   "slug": "juniper-networks",
   "name": "Juniper Networks",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "San Francisco",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -30,10 +39,24 @@
     0,
     0,
     1,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "843b86474526e84d62d7db7e854471e1f75a37fb",
+      "title": "Networking & Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1HU",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "e45a7e2553d1576249cc3859dae625419946c144",
+      "title": "Networking & Cybersecurity Intern",
+      "url": "https://go.vansh.nyc/1HT",
+      "location": "Westford, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "59cadea7d0c03652ed0f7242ff35238c4de1cc69",
       "title": "HPC/AI System Admin HW/SW Service Engineer Intern",

@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 10.8,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     },
     {
       "id": "swe",
@@ -40,10 +40,17 @@
     3,
     2,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f1556568b938e54d560f4eb7d8711de2051b5cd6",
+      "title": "Junior Data Engineer - Data Flow & Architecture (Remote)",
+      "url": "https://es.whatjobs.com/pub_api__cpl__374164208__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "7d22ea8b4f055ff47f0b3a0a33f3555eac219b30",
       "title": "Junior Data Engineer: Data Flow & Architecture",

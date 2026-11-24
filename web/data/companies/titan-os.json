@@ -2,14 +2,14 @@
   "slug": "titan-os",
   "name": "Titan OS",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.6,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "368dea0124c721fa4e55d95d9415cb68fd85bf9f",
+      "title": "Backend Developer Intern",
+      "url": "https://es.whatjobs.com/pub_api__cpl__374081323__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "09f4d0ad7bd8353097877ca2d2b4fe5ed2616005",
       "title": "Backend Developer Intern",

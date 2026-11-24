@@ -2,21 +2,21 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 26,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 27,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 26
+      "count": 27
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     4,
     8,
-    14,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82d6987e14b8e500acd887a21213233befc182b9",
+      "title": "Développeur Full Stack Java / Angular Junior (H/F) - CDI",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTEzNTk4OCA5?lang=en&utm_source=freehire.me",
+      "location": "France",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "c4102f4de200871530f60e7aa7d2cb69f398a36d",
       "title": "Junior Développeur Fullstack IA (H/F) - Freelance",
@@ -104,13 +111,6 @@
       "id": "ac46e57b92bf42748a42529c09f3ea83ea9cbe75",
       "title": "Concepteur Power BI / Data Analyst BI junior - CDI (H/F)",
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg1MCA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "ad645db406235fe9458191833f5a80208798869a",
-      "title": "Data Engineer BigQuery junior - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg2MiA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }

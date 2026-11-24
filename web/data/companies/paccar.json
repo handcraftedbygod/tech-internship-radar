@@ -2,21 +2,21 @@
   "slug": "paccar",
   "name": "Paccar",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "360b7b624c70f459be5e05e9d1c3b0a32ed597dc",
+      "title": "Vehicle Software Integration Engineer Intern",
+      "url": "https://go.vansh.nyc/1Hr",
+      "location": "Denton, TX, Sunnyvale, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "874281b53c87a9f7cb1662adb6c4724e670cd98e",
       "title": "Data Scientist Intern",
@@ -104,13 +111,6 @@
       "id": "f6ad77154c963c285f818d9431e1abefa23fc7a0",
       "title": "Application Developer Intern",
       "url": "https://go.vansh.nyc/WV",
-      "location": "Chillicothe, OH",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "ef27e8b8fe4fe953887160542d1bcb8c51a19d9d",
-      "title": "Data Engineer Intern",
-      "url": "https://go.vansh.nyc/WP",
       "location": "Chillicothe, OH",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }

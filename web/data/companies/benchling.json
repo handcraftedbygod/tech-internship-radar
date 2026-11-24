@@ -1,0 +1,52 @@
+{
+  "slug": "benchling",
+  "name": "Benchling",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-24T14:35:41.877Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1ecd26695ac02fe61c5a6f78dd3c504c95f18f22",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1GP",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "76f1f4a2e8483ad17a6cade1c5779ae971587b7b",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    }
+  ]
+}

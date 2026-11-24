@@ -2,9 +2,9 @@
   "slug": "placements24",
   "name": "Placements24",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-01T10:45:16.393Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "biz",
@@ -39,10 +39,17 @@
     0,
     0,
     6,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9dda793ce4a06b950ed89704037e0d99f5f33aeb",
+      "title": "Graduate Junior Full Stack Developer",
+      "url": "https://www.jobleads.com/gb/job/graduate-junior-full-stack-developer--greater-london--e6d0b96005e5867b20fcdc496dbf99d9b?utm_source=freehire.me",
+      "location": "Greater London, England",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "53679de8ed3eea062184c097fe2d22d43f77ef21",
       "title": "Remote Junior Full-Stack Developer — Growth & Learning",

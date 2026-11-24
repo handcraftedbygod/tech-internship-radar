@@ -2,21 +2,21 @@
   "slug": "iridium-communications",
   "name": "Iridium Communications",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e4adce8d975485ba88b17c4b23106bd0a2e2c7ec",
+      "title": "Software Test Engineer I",
+      "url": "https://go.vansh.nyc/1HZ",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "42faa65b104bb3b1730083d6dd2e2ab3bc577899",
       "title": "Software Engineering Intern",

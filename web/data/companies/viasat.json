@@ -2,14 +2,14 @@
   "slug": "viasat",
   "name": "ViaSat",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "08cc4a08feff88a2f3647ff52f64f3fd783a455f",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Hz",
+      "location": "Tempe, AZ",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "9eade1aa143477bfce81156b5d5ee2aa4d3e47c5",
       "title": "Digital and Programmable Logic Engineer Intern",

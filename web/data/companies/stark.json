@@ -2,9 +2,9 @@
   "slug": "stark",
   "name": "Stark",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
@@ -12,11 +12,11 @@
       "count": 6
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Munich",
+      "count": 2
     },
     {
-      "hub": "Munich",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     0,
     5,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5058041a17eb65648114de1dccc16ccff2c822d6",
+      "title": "Systems Engineer Intern (All Genders)",
+      "url": "https://job-boards.eu.greenhouse.io/skdse/jobs/5047261101?utm_source=freehire.me",
+      "location": "Munich, Bavaria, Germany",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "6d6acd143a0f0f75bd2eaf0207dfa4f4468691d2",
       "title": "Junior Software Engineer – Robotics Swarming (All Genders)",

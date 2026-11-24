@@ -1,0 +1,57 @@
+{
+  "slug": "capital-technology",
+  "name": "Capital Technology Group",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-24T14:35:41.877Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "76d9683ae242a8547a221bf7b4ea835924825124",
+      "title": "Data Engineering and Data Science Intern",
+      "url": "https://go.vansh.nyc/1Hu",
+      "location": "Silver Spring, MD",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "438b0048bff4e03dfc276684de6ebbc30ecc1c26",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1Ht",
+      "location": "Silver Spring, MD",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    }
+  ]
+}

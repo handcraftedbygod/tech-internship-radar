@@ -2,26 +2,26 @@
   "slug": "aubay-spain",
   "name": "Aubay Spain",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 6,
-  "avgPostingDurationDays": 7.6,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 7.4,
   "topLocations": [
     {
       "hub": "Barcelona",
-      "count": 6
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,31 @@
     0,
     0,
     0,
-    6,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c2590ca242bdb43f9011ce6a54d738640cb0e2a1",
+      "title": "Junior Devops Engineer: Cloud Automation & Ci/Cd",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373084138__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "18f2ac6f5153405c1104bdc79cc0a5b0eb1dd523",
+      "title": "Junior Devops Engineer: Iac, Aws & Ci/Cd",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373277349__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "c9bf76fdf93349bb9ce3efaf72b22c52ac38fa8f",
+      "title": "Junior Data Engineer For Bi & Cloud Analytics",
+      "url": "https://es.whatjobs.com/pub_api__cpl__373277574__7107?utm_campaign=publisher&utm_medium=api&geoID=5046&utm_source=freehire.me",
+      "location": "Barcelona, Spain",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "66ea667edf1786f4f3af691d1d2d2c11cc0f3cb8",
       "title": "Junior DevOps Engineer: IaC, AWS & CI/CD",

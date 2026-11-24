@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "878ad8dce208b46bf0853b540b59a1cde1adfea2",
+      "title": "Data Analyst junior - confirmé - Genève",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ZmYwYTg5OWQtYWYxNy00MmE4LTg1YzUtNDRhNjAxM2Y3YjA5IDYx?lang=en",
+      "location": "Switzerland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "1ea479a65cba9c95f6d34aa54134ea9310879676",
       "title": "Data Analyst junior - confirmé - Genève",

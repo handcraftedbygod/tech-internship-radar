@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 2,
+  "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb75bd419d63fd233b2c6693e26fea68d6547f03",
+      "title": "DevOps Intern",
+      "url": "https://careers-es.prosegur.com/becario-a-devops-4n7pr0nXC1Rh/?utm_source=freehire.me",
+      "location": "Madrid, Community of Madrid",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "9e5ed2a3ac4b7f826a1803da0797f547d4a55b1a",
       "title": "DevOps Engineer Junior: CI/CD, Docker & Cloud",

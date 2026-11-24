@@ -2,14 +2,18 @@
   "slug": "link",
   "name": "Link Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
       "count": 8
+    },
+    {
+      "hub": "Warsaw",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -17,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 8
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,17 @@
     0,
     8,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2efb43a9d2cd1663eabacfa4146bb82824636596",
+      "title": "Junior Data Engineer",
+      "url": "https://nofluffjobs.com/job/junior-data-engineer-link-group-warszawa-1?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "4df2261a4df06441a02395064ec07e4c82aac1ea",
       "title": "Junior Python Developer @ Link Group",

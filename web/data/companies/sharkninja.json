@@ -2,14 +2,14 @@
   "slug": "sharkninja",
   "name": "SharkNinja",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
       "count": 1
     }
   ],
@@ -35,10 +40,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43665e14bc3827b7163ef62b054459d9c3e7326f",
+      "title": "Firmware Engineering Intern, Advanced Development",
+      "url": "https://go.vansh.nyc/1HJ",
+      "location": "Needham, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "e3d2e9adaac86cc1d352cf025069ebd474215568",
+      "title": "Software Development Test Engineering Co-op",
+      "url": "https://go.vansh.nyc/1HH",
+      "location": "Needham, MA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "42bac7d8513bb3f477e6d7f79d0b9bc175873163",
       "title": "Digital & Website Technology Intern",

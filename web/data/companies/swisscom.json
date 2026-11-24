@@ -2,26 +2,26 @@
   "slug": "swisscom",
   "name": "swisscom",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 24,
+  "totalPostings": 26,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 24
+      "count": 26
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     1,
     8,
     14,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba5910d395aa3a4b3c2db199834bc3b1d7208409",
+      "title": "IT Internship - Fullstack Engineer: Agentic AI in Billing",
+      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-agentic-ai-in-billing-rotterdam-256959",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "5f9a67d39361af1620b8e20308b1c8dc75f40f75",
+      "title": "IT Internship - Fullstack Engineer: Intelligent Next-Gen Invoice Validation Platform",
+      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-intelligent-next-gen-invoice-validation-platform-rotterdam-342340",
+      "location": "Rotterdam, Zuid-Holland, Netherlands",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "8e65e51d2409eb0d5f1f51d9ad34f93eb17dc9cc",
       "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
@@ -92,20 +106,6 @@
       "id": "6ecb19bb2ea57ebc583907fa3be6ce3cb81461a7",
       "title": "IT Internship - Fullstack Engineer: Modernizing Enterprise Frontends with React & .NET",
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-modernizing-enterprise-frontends-with-react-net-rotterdam-221157",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "e8d9dbe92a2c6eaba40b5318a4eae645e39d745f",
-      "title": "IT Internship - Fullstack Engineer: Real-Time Agile Planning Dashboard with an AI Assistant",
-      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-real-time-agile-planning-dashboard-with-an-ai-assistant-rotterdam-313054",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "926327490fbdd5ce306ce2cbd9448d2efeee9cb2",
-      "title": "IT Internship - Fullstack Engineer: AI Agent for Automated Cloud Incident Response",
-      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-ai-agent-for-automated-cloud-incident-response-rotterdam-359476",
       "location": "Rotterdam, Zuid-Holland, Netherlands",
       "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }

@@ -2,21 +2,21 @@
   "slug": "tenvalleys",
   "name": "Tenvalleys",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-29T10:26:55.144Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     1,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "786181178e0395f802df87bae6caf90ef43f0ec7",
+      "title": "Junior Backend Developer — AI-Powered Features",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37822621__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "e6ed50fe651cd829cec194d544858f0797164aca",
       "title": "Software Developer (Junior / Entry-Level, Backend + AI Exposure)",

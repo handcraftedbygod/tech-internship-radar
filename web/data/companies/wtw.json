@@ -2,9 +2,9 @@
   "slug": "wtw",
   "name": "WTW",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-20T09:06:52.490Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Other",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     },
     {
       "id": "swe",
@@ -43,10 +43,17 @@
     0,
     1,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ab4d049671a7f335a229e5a8b51738e945fe9d47",
+      "title": "2027 Data Scientist Internship Programme - P&C Insurance - London/Reigate",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5972130365?se=osmwFKvk8RGxFJ2qbXBvog&utm_medium=api&v=79515D4AC93D21F715325F95BAF7C1D934F8D95D&utm_source=freehire.me",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "512245e90c0c9a70391f5c2a3c583f84bac3aadf",
       "title": "Data Analyst Intern",

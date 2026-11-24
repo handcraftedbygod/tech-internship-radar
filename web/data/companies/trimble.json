@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 10,
-  "avgPostingDurationDays": 10.6,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     5,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0989dc828006a8b226629f362913ad05c3baceb4",
+      "title": "AI Software Developer Engineer in Test Intern",
+      "url": "https://go.vansh.nyc/1I5",
+      "location": "Lake Oswego, OR",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "9e17512d8d0d08354a9fb5f90d68ce5b2e2c397f",
       "title": "QA Engineer Intern",
@@ -99,13 +106,6 @@
       "id": "71b2adc462580cf40467389c1b9ede23e1979ac7",
       "title": "Navigation & Machine Learning Engineering Intern",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
-      "location": "Richmond Hill, Canada",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "2d4af04fe08e0e9b8f3e914759a46c41d3251085",
-      "title": "Software Engineering Intern",
-      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
       "location": "Richmond Hill, Canada",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }

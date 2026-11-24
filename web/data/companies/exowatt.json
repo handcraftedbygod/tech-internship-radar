@@ -2,13 +2,17 @@
   "slug": "exowatt",
   "name": "Exowatt",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Austin",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8dcdc64d2b4286408de0ed563b8c39e82b1c989e",
+      "title": "Software & AI Intern",
+      "url": "https://go.vansh.nyc/1Hs",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "d09606b9b156428f4801c3c9864418602e0bf559",
       "title": "Robotics & Physical AI Intern",

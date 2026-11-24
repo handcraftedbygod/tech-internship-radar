@@ -2,14 +2,14 @@
   "slug": "rheinmetall",
   "name": "Rheinmetall AG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Bremen",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -30,6 +30,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -43,10 +48,17 @@
     4,
     2,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f4cc42603705a370c62c584053f8b4c48f37558a",
+      "title": "Praktikant Data Analyst Business Development / Intelligence (m/w/d)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/15939-BB-636122-7878-6733-S",
+      "location": "Bremen",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "1e2fceedc43e84b647283a4305beb232b81f3b44",
       "title": "Werkstudent Data Analyst (m/w/d)",

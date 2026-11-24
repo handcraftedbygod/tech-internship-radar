@@ -2,21 +2,21 @@
   "slug": "deka-research-development",
   "name": "DEKA Research & Development",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d33cb01563328c06088306f0ab61870b22759547",
+      "title": "Junior Software Engineer",
+      "url": "https://deka.applytojob.com/apply/IY0kuVu8Zk/Junior-Software-Engineer?utm_source=freehire.me",
+      "location": "Manchester, NH",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "a1fb476000dc9887316cf42c80f9c6b96ca7b37c",
       "title": "Junior Cybersecurity Analyst",

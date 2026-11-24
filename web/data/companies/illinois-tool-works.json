@@ -2,21 +2,21 @@
   "slug": "illinois-tool-works",
   "name": "Illinois Tool Works",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7162c3efbe555b245440a707dd946c3bc7a0b314",
+      "title": "Software or Computer Engineer Intern",
+      "url": "https://go.vansh.nyc/1Hv",
+      "location": "Fairmont, MN",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "b484ed4ccdaae136755f6b4b51ae1ef5a7fe8fcb",
       "title": "Software Engineering Intern",

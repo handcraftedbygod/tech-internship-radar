@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 9,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 67,
+  "totalPostings": 68,
   "avgPostingDurationDays": 9.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 66
+      "count": 67
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 58
+      "count": 59
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    36,
+    37,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e0db63a134a85dfefc494e0a074a922bea83d7a0",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1HO",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "c1b3c3bfdbaa08916f9fda9d7d089283b7857b2e",
       "title": "Software Engineer I",
@@ -114,13 +121,6 @@
       "title": "Software Engineer I",
       "url": "https://go.vansh.nyc/1uF",
       "location": "Ft Wayne, IN",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "f7d41f34a5a9d0cd001f6df607e911921b9f1530",
-      "title": "Software Engineering Intern",
-      "url": "https://go.vansh.nyc/1yk",
-      "location": "Melbourne, FL",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

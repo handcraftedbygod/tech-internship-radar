@@ -2,14 +2,14 @@
   "slug": "rockwell-automation",
   "name": "Rockwell Automation",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 13
     },
     {
       "hub": "Katowice",
@@ -25,7 +25,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
@@ -44,10 +44,24 @@
     1,
     0,
     5,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "96acfc2a5ddc881be7596efa0870cb1c3767dfb9",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1HN",
+      "location": "Milwaukee, WI",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "fc8753656abb3efe421c4eafc6a30d00838ea148",
+      "title": "Content IDE Software Development Intern",
+      "url": "https://go.vansh.nyc/1Hm",
+      "location": "Mayfield Heights, OH",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "871a511becb284add125487b7ad30112657de1e4",
       "title": "ISM, Cyber Security and AI Intern",
@@ -103,20 +117,6 @@
       "url": "https://go.vansh.nyc/gA",
       "location": "Mequon, WI, Eden Prairie, MN",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "6b28c5bdb27153bf75428418e29297e14f4c7044",
-      "title": "Hardware Development Engineer Intern",
-      "url": "https://go.vansh.nyc/d1",
-      "location": "Mayfield Heights, OH",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "3fe6c3ab1edc638348b820c93b5838ebdf9fe8b7",
-      "title": "Firmware Engineer Intern",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321",
-      "location": "Mequon, WI, Eden Prairie, MN",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

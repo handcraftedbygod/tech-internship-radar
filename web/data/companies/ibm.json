@@ -2,26 +2,30 @@
   "slug": "ibm",
   "name": "IBM",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-01T09:11:49.631Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
+    },
+    {
+      "hub": "Krakow",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "quant",
@@ -40,10 +44,24 @@
     0,
     2,
     2,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e1db1af3cfdc0d6764b45ea82fc9feda1897ddad",
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=146219&utm_source=freehire.me",
+      "location": "Krakow, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "0703a8582ee34eabcd9090d95ae4238202a68ae8",
+      "title": "Internship AI Quality Software Engineer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=142013&utm_source=freehire.me",
+      "location": "Ehningen, Germany",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "80ef42e9fb0ac7e939e2cee550a1bed256e1ae7c",
       "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",

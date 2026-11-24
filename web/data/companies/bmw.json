@@ -2,14 +2,14 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 13
+      "count": 14
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     6,
     10,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "93a183b4d4532c00e4645768682d53eba8ad614b",
+      "title": "Praktikant Automatisierung, Data Analytics & AI im Finance (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1657055-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "4c457fe8a18dc0e657c6ceeabf7a872cf685b901",
       "title": "Intern Machine Learning for CAD Understanding and Engineering AI (w/m/x)",
@@ -103,13 +110,6 @@
       "id": "98f22961aea686c24277619c3d5fa52246aeb788",
       "title": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631161-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
-    },
-    {
-      "id": "78ec8fe2588f6e57a9d06f3d6ca2a554b44a9985",
-      "title": "Werkstudent Data Science (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631645-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }

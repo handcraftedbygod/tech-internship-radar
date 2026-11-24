@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 14,
+  "totalPostings": 15,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 14
+      "count": 15
     }
   ],
   "topDisciplines": [
@@ -27,6 +27,11 @@
       "id": "hw",
       "label": "Hardware",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -40,10 +45,17 @@
     0,
     0,
     6,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "17d544c4e3fcf3c135807e03d6f38b1075afb517",
+      "title": "Cyber Operations Engineer Intern",
+      "url": "https://go.vansh.nyc/1HS",
+      "location": "McLean, VA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "e07a92943d4e5587ca29ca4e6319be0af6692d71",
       "title": "Cybersecurity and Information Security Intern",
@@ -104,13 +116,6 @@
       "id": "5554d5bb841046f6a5308b74dfcb9bb3145f238c",
       "title": "Data Science and Engineering Intern",
       "url": "https://go.vansh.nyc/10t",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "7d06d85f30722013d9a4324bb87adabc9aadddad",
-      "title": "Critical Infrastructure Protection Intern",
-      "url": "https://go.vansh.nyc/10s",
       "location": "McLean, VA",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }

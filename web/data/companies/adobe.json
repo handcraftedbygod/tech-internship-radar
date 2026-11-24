@@ -2,14 +2,14 @@
   "slug": "adobe",
   "name": "Adobe",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-20T09:09:33.484Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -22,14 +22,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 6
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 5
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1e8a11795e74e882ca10eff5e2cc1b49969f89e",
+      "title": "New Grad 2027: Research Scientist (Master's)",
+      "url": "https://go.vansh.nyc/1Hy",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "57ada721694bf44654e591e9b517d479bf11da20",
       "title": "New Grad 2027: Data Engineer",
@@ -108,13 +115,6 @@
       "title": "AI & Architecture Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
       "location": "San Jose, CA",
-      "firstSeenAt": "2026-10-21T09:13:09.926Z"
-    },
-    {
-      "id": "cf6a7c203587e191fead9750fb2f0e2a9387192b",
-      "title": "Security Engineer Intern",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
-      "location": "Lehi, UT",
       "firstSeenAt": "2026-10-21T09:13:09.926Z"
     }
   ]

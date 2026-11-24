@@ -1,0 +1,57 @@
+{
+  "slug": "pg",
+  "name": "Pg",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-24T14:35:41.877Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "66daff476771fa3471374735eaee8c28a2a2174a",
+      "title": "DevOps Engineer Trainee",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37818501__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "918f559bdc0527481fe955904031c8445950954a",
+      "title": "DevOps Engineer Trainee - Hybrid, Mentorship & Growth",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37822153__7143?utm_campaign=publisher&utm_medium=api&geoID=2873&utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    }
+  ]
+}

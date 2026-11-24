@@ -2,21 +2,21 @@
   "slug": "idaho-national-laboratory",
   "name": "Idaho National Laboratory",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 6,
+  "totalPostings": 8,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     },
     {
       "id": "biz",
@@ -35,10 +35,24 @@
     0,
     0,
     0,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4a90d96bdd52941f50e0e48f9be980d8e9192f29",
+      "title": "Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern",
+      "url": "https://go.vansh.nyc/1I6",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "d68db5f2148a991d8659a69893b8990eaf151433",
+      "title": "Digital Engineering Intern",
+      "url": "https://go.vansh.nyc/1Hw",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "fe5cc0549e2129f4676bf7cddcba25cc11cb7b96",
       "title": "Spatial Computing Intern",

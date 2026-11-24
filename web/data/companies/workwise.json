@@ -2,14 +2,14 @@
   "slug": "workwise",
   "name": "Workwise GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Frankfurt",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     2,
     2,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "38fb70d06a2e8c5b8dc544df6bd0415f782f582b",
+      "title": "Junior Consultant - Projektmgmt / Prozesse / Software (m/w/d) (IT-Projektkoordinator/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNTAwODA0MzU2Ni1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "d0352862d468d85ad78578c3d0d26f44193b8e78",
       "title": "Junior Consultant - Projektmgmt / Prozesse / Software (m/w/d) (IT-Projektkoordinator/in)",

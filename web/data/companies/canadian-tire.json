@@ -2,13 +2,17 @@
   "slug": "canadian-tire",
   "name": "Canadian Tire Corporation, Limited",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-14T11:15:38.078Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Toronto",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "deff805bcb553b79c1516e37ec8735edb3e86bfc",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1Hf",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "5af8361d4f0bbc325edc59602d4b86e8eac686f0",
       "title": "Programmer Analyst Intern",

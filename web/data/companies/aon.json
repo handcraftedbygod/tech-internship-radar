@@ -2,14 +2,14 @@
   "slug": "aon",
   "name": "Aon",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Chicago",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "37af619eece396063b7744ff0b41138402a66eef",
+      "title": "IT / Cybersecurity Engineer Intern",
+      "url": "https://go.vansh.nyc/1H4",
+      "location": "Chicago, IL",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "4a48a0be31884c32466e45ea7ca83b23c5593f35",
       "title": "New Grad 2027: Health Analytics Specialist",

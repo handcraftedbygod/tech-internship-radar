@@ -2,9 +2,9 @@
   "slug": "emagine",
   "name": "emagine",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Lodz",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     4,
     2,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "75208cdf091bdbccdc6bdee9dbe31394b9002f8f",
+      "title": "Junior Python Developer - Hybrid (Łódź)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37677856__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "70a4cf6244e0c8571f2107bab831a999c5874fbb",
       "title": "Junior Python Developer - Hybrid (Łódź)",

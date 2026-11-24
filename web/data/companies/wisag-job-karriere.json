@@ -2,25 +2,25 @@
   "slug": "wisag-job-karriere",
   "name": "WISAG Job & Karriere GmbH & Co. KG",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Frankfurt",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     1,
     0,
     2,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4652501e2183e895cd61cb5fe63fd001fa44013f",
+      "title": "Junior Projektleiter (m/w/d) Digitalisierung im Bereich Software Systeme #432728 (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM0NjUtMDAwMjFhNmEyYmMwMDEtUyAx?lang=en&utm_source=freehire.me",
+      "location": "Frankfurt am Main, Germany",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
+    {
+      "id": "34358b32b7a44a3f8718e47b433f41e78b75eb34",
+      "title": "Junior Projektleiter (m/w/d) Digitalisierung im Bereich Software Systeme #432728 (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM0NjUtMDAwMjFhNmEyYmMwMDEtUyAx?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "b508451a4f3a290bf6541da872f5a3677af5cd69",
       "title": "Junior Projektleiter (m/w/d) Digitalisierung im Bereich Software Systeme #432728",

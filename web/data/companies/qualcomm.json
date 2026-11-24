@@ -2,14 +2,14 @@
   "slug": "qualcomm",
   "name": "Qualcomm",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 41,
+  "totalPostings": 42,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 28
+      "count": 29
     },
     {
       "hub": "Vancouver",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -57,10 +57,17 @@
     0,
     0,
     28,
-    13,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b7e36da741ea8b83707feb860fdbf536d6f9aa6c",
+      "title": "FY27 Intern - Software - Systems Engineering Team (Data Center Group)- 6 months, Cambridge",
+      "url": "https://careers.qualcomm.com/careers/job/446722247294?utm_source=freehire.me",
+      "location": "Cambridge, United Kingdom",
+      "firstSeenAt": "2026-11-24T14:35:41.877Z"
+    },
     {
       "id": "e5773f34c367e8b1c804f46402b3d20a2737852b",
       "title": "FY27 Intern - RF Systems / Software Engineering - 6 months, Farnborough",
@@ -123,13 +130,6 @@
       "url": "https://go.vansh.nyc/1jr",
       "location": "Markham, Canada",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "101ab231bfc6fc1c2c88ec58839982e17fce6590",
-      "title": "Display IP FPGA Emulation Intern",
-      "url": "https://go.vansh.nyc/1hp",
-      "location": "Markham, Canada",
-      "firstSeenAt": "2026-11-05T12:11:49.862Z"
     }
   ]
 }
