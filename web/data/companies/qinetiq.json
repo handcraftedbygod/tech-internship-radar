@@ -1,21 +1,26 @@
 {
   "slug": "qinetiq",
-  "name": "QinetiQ Group plc",
+  "name": "QinetiQ",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6ae3e5559d8449a51a8ec34620e46429b2033826",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ip",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b4c9f15aca78f7d4740bfc50ceb1f24b803922b5",
       "title": "Junior AWS Platform Engineer | Hybrid & DevOps Growth",

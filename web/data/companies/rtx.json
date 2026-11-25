@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 68,
-  "avgPostingDurationDays": 9.7,
+  "totalPostings": 69,
+  "avgPostingDurationDays": 9.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 67
+      "count": 68
     },
     {
       "hub": "San Francisco",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 59
+      "count": 60
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     1,
     0,
     30,
-    37,
+    38,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8fbcac0577e76177b6bbf507df5684a3495a0f4d",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1Iq",
+      "location": "Binghamton, NY",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "e0db63a134a85dfefc494e0a074a922bea83d7a0",
       "title": "Software Engineering Intern",
@@ -114,13 +121,6 @@
       "title": "Software Engineer I",
       "url": "https://go.vansh.nyc/1uL",
       "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "58b29f04e2280065dccc16bbc26fab1cb9727e71",
-      "title": "Software Engineer I",
-      "url": "https://go.vansh.nyc/1uF",
-      "location": "Ft Wayne, IN",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]

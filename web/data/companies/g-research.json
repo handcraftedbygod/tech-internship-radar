@@ -2,21 +2,21 @@
   "slug": "g-research",
   "name": "G-Research",
   "tier": "trading",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,24 @@
     0,
     1,
     1,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54e7701a8128f2bf7dbe6f2a78e4172f250d0a9e",
+      "title": "Infrastructure Software Engineering Internship",
+      "url": "",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "ae023e29b46a03cbfb8daaf26dee6960412fdea7",
+      "title": "Infrastructure Software Engineering Internship",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b71cfcc41902c5d3781d46eefe9e21c90a110358",
       "title": "Software Engineering Internship",

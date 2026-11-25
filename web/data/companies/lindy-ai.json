@@ -1,0 +1,52 @@
+{
+  "slug": "lindy-ai",
+  "name": "Lindy AI",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "San Francisco",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "946f478389f8a91f92268a319d0425614993be42",
+      "title": "Full Stack Software Engineer (Early Career)",
+      "url": "https://careers.lindy.ai/jobs/613760-full-stack-software-engineer-early-career",
+      "location": "San Francisco, United States",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "05cc634836ad5009da6bc7163650cda89a9b003a",
+      "title": "Software Engineer Internship",
+      "url": "https://careers.lindy.ai/jobs/656963-software-engineer-internship",
+      "location": "San Francisco, United States",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

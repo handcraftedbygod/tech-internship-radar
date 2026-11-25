@@ -1,22 +1,22 @@
 {
   "slug": "keenfinity",
-  "name": "Keenfinity",
+  "name": "keenfinity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-01T11:04:08.160Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cbd9200e577a50706edd8cc1760dca2a4bd86f5e",
+      "title": "Imaging Software Intern",
+      "url": "",
+      "location": "Eindhoven, NB, nl",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "3318859fef6d71d6542082d8eed19a486353ec49",
       "title": "Software Engineering Intern",

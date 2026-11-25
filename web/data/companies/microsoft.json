@@ -4,12 +4,12 @@
   "tier": "elite",
   "currentOpenings": 6,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 21
+      "count": 22
     },
     {
       "hub": "Dublin",
@@ -27,13 +27,13 @@
       "count": 16
     },
     {
-      "id": "product",
-      "label": "Product",
-      "count": 3
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 4
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 3
     },
     {
@@ -53,10 +53,17 @@
     1,
     0,
     10,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bd34129798d4df111a05db06b1b0f326f93ec77c",
+      "title": "Research Intern - Machine Learning for Biology and Healthcare",
+      "url": "",
+      "location": "United Kingdom, Cambridgeshire, Cambridge",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "a30551addb890de488d8f41dca3af1d508098670",
       "title": "Software Engineering INTERN",
@@ -118,13 +125,6 @@
       "title": "Software Engineering IC2",
       "url": "https://go.vansh.nyc/19Q",
       "location": "Redmond, WA",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "ecaadbc39966dfae385eebc83594c49fe1c1d7cc",
-      "title": "Software Engineer Intern",
-      "url": "https://go.vansh.nyc/19z",
-      "location": "Aliso Viejo, CA",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]

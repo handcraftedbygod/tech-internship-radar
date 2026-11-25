@@ -2,21 +2,21 @@
   "slug": "abound",
   "name": "Abound",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     2,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d98e4c02a505ba9ae0df8e8bcfa61b90d851951b",
+      "title": "Junior Python Software Engineer",
+      "url": "",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "6bff5608afc5e617bf2d105dc33be9a3a982e8a9",
+      "title": "Junior Python Software Engineer",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abound/junior-python-software-engineer-london-398869",
+      "location": "London",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "62b74367e87bf0eb2866fb2d1d9e444d0202e47c",
       "title": "Junior Software Engineer",

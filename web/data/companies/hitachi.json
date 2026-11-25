@@ -2,30 +2,35 @@
   "slug": "hitachi",
   "name": "Hitachi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 11,
+  "totalPostings": 13,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 6
+      "hub": "Toronto",
+      "count": 7
     },
     {
-      "hub": "Toronto",
-      "count": 5
+      "hub": "Other",
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
       "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -39,10 +44,24 @@
     1,
     0,
     9,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b5daa2f2455a17f9377773da2dd5a5914e04ad24",
+      "title": "Software Analyst",
+      "url": "https://go.vansh.nyc/1II",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "b7b22c95cd86db10dd686179c7afeb2163ca981d",
+      "title": "Data and Business Intelligence Analyst Intern",
+      "url": "https://go.vansh.nyc/1Ia",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "12547abde29133ef477a96d4c29e6cf8ee46cbad",
       "title": "DevOps Analyst Intern",
@@ -98,20 +117,6 @@
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
       "location": "Liberty, SC",
       "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "472bd20147bdc5beebe95ce9a5e49d3995c864f8",
-      "title": "AI Intern, Supply Chain",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
-      "location": "Toronto, ON, Canada",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
-    },
-    {
-      "id": "f0ef8d0cf15a85a75842ff1d31b8d05fea661ea4",
-      "title": "ITV Automation Specialist Intern",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/ITV-Automation-Specialist-Intern--Winter-2027--12months-_R0147187",
-      "location": "Toronto, ON",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }
   ]
 }

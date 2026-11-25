@@ -2,21 +2,21 @@
   "slug": "saic",
   "name": "SAIC",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12f9fc809d509a1ca5fb22b0de3098550d429097",
+      "title": "Computer Programmer Level 1",
+      "url": "https://go.vansh.nyc/1IG",
+      "location": "Oklahoma City, OK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "ab8cbb80dcc23fe948ec6c07820e6513fd04871a",
       "title": "Software Engineer",

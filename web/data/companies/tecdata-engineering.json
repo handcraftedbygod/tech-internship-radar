@@ -2,17 +2,26 @@
   "slug": "tecdata-engineering",
   "name": "Tecdata Engineering",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 1,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
     {
       "hub": "Madrid",
       "count": 1
     }
   ],
   "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 3
+    },
     {
       "id": "ai",
       "label": "Data / AI",
@@ -30,10 +39,31 @@
     0,
     0,
     1,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "788ef363d713790755bf2e902081d15429c84b44",
+      "title": "Junior Credit Risk Developer – Junior Analyst",
+      "url": "",
+      "location": "",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "eb5d21fc649564c22ed4eb98fe5454a38d8e10e8",
+      "title": "Junior Developer – Credit Risk Reporting",
+      "url": "",
+      "location": "",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "93b808d79590687d0936506aa77da028afc0904b",
+      "title": "Junior Developer – Credit Risk Reporting | Junior Analyst",
+      "url": "",
+      "location": "",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "6616f7400eb895bef69f96fec3fbc4e503b188f0",
       "title": "Data Analyst Junior at Tecdata Engineering",

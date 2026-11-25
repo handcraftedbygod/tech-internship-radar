@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 19,
-  "avgPostingDurationDays": 10.3,
+  "totalPostings": 20,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Montreal",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 12
+      "count": 13
     },
     {
       "id": "hw",
@@ -53,10 +53,17 @@
     0,
     5,
     11,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ace06ade23f018adc1a7fb54c528e76f1ffa5283",
+      "title": "Cloud Security Engagement Intern",
+      "url": "https://go.vansh.nyc/1IP",
+      "location": "Spring, TX",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "c3bfa8fe91322db699cc7dcbbe0fe045c7caa0f4",
       "title": "AI Engineering Technical Intern",
@@ -117,13 +124,6 @@
       "id": "f5229665603a062d87aa115e0ff1baa5a6a88873",
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/dn",
-      "location": "Roseville, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "7445d9a130eda0b3c858989623b4f13d92f1ffe3",
-      "title": "Hardware Engineering Design Intern",
-      "url": "https://go.vansh.nyc/c3",
       "location": "Roseville, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

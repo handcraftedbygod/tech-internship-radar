@@ -2,14 +2,14 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 4
+      "count": 5
     },
     {
       "id": "biz",
@@ -45,10 +45,17 @@
     0,
     0,
     11,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3bf90b767653e84a3e2280ad342a5755a83cb34b",
+      "title": "Embedded Software Engineering Undergrad Intern",
+      "url": "https://go.vansh.nyc/1J8",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "e078c003ce2aa670a7bfc702ec8913be2442e397",
       "title": "Embedded Software Engineer I - Flight Management System",
@@ -110,13 +117,6 @@
       "title": "Cloud Solutions Engineer Intern, Site Reliability",
       "url": "https://go.vansh.nyc/gq",
       "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "43287c2f91e10e4689990f73f37794723371cecf",
-      "title": "Signal Processing and RF Engineering Intern",
-      "url": "https://go.vansh.nyc/ee",
-      "location": "El Segundo, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

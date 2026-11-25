@@ -2,21 +2,21 @@
   "slug": "draper",
   "name": "Draper",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
@@ -40,10 +40,17 @@
     1,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2106f20399439a8ebe654d664a436fd1ac8fc05",
+      "title": "HWIL & Real Time Simulation Intern",
+      "url": "https://go.vansh.nyc/1Ib",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "2d1f541047ae8293148c33ae408aae95064ee5c0",
       "title": "Software Engineering & DevOps Intern",

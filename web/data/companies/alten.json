@@ -2,9 +2,9 @@
   "slug": "alten",
   "name": "ALTEN",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Madrid",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "ai",
@@ -43,10 +43,17 @@
     1,
     1,
     2,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "46e6d68175b65d5cc20b983bdbdb109d31230954",
+      "title": "Junior Data Analyst",
+      "url": "https://www.linkedin.com/jobs/view/4492696093/?utm_source=freehire.me",
+      "location": "Getafe, Community of Madrid, Spain",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "4379a96bb955fccf3afb032b3d29e75bdb83f3a8",
       "title": "Junior Android Developer",

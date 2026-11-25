@@ -2,21 +2,21 @@
   "slug": "florza-resourcing",
   "name": "Florza Resourcing",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b0b64700cf5ac53b7debc2ffe50c10d057d1ae45",
+      "title": "Junior Developer",
+      "url": "",
+      "location": "West of England, England",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "e89f2f5dc767c9eaf33460e063ec9e55d872ea08",
       "title": "Junior Developer",

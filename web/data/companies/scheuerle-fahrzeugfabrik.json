@@ -2,21 +2,21 @@
   "slug": "scheuerle-fahrzeugfabrik",
   "name": "SCHEUERLE Fahrzeugfabrik GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 1,
-  "avgPostingDurationDays": null,
+  "totalPostings": 3,
+  "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a6c0d866e1e0fe1fd71decf67afea5b46452f9ee",
+      "title": "Werkstudent oder Praktikant im Bereich Produkt-Cybersecurity für Maschinen und Fahrzeuge (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5978095401?se=OnTbD8vo8RGCzaY2c7Xc0w&utm_medium=api&utm_source=aa2b179f&v=D8D50103C5EF0B949D64DEC7722E80A66D022311",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "09420a348d6625d7c8ad7929b8adb3ed67eb4ea5",
+      "title": "Werkstudent oder Praktikant im Bereich Produkt-Cybersecurity für Maschinen und Fahrzeuge (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5978098617?se=chWaDsvo8RGHEqH95jevDw&utm_medium=api&utm_source=aa2b179f&v=EA77AFDB470506295ECD66D7C9037139087EDF39",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "41df2b6d0b03a789518b5d51e6f0ced076315636",
       "title": "Werkstudent oder Praktikant im Bereich Produkt-Cybersecurity für Maschinen und Fahrzeuge (m/w/d)",

@@ -2,21 +2,21 @@
   "slug": "capgemini-polska-sp-z-oo",
   "name": "Capgemini Polska Sp. z o.o.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "677a016537e2c216167ee4fd4f399280af11a58b",
+      "title": "Intern DevOps Engineer (with German) @ Capgemini Polska Sp. z o.o.",
+      "url": "",
+      "location": "Poznań, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "dd80ce6b579ab0db28949aa84b8ebdf6553c45e3",
       "title": "Intern Software Engineer (Java, Python, with German) @ Capgemini Polska Sp. z o.o.",

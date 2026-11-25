@@ -2,21 +2,21 @@
   "slug": "loveholidays",
   "name": "loveholidays",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3319061dfa872545d7bc78b05c2b84b5c0c327b",
+      "title": "Junior Software Engineer",
+      "url": "",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "f2236a62c3d6388a641f27199cdb152199582140",
       "title": "Junior Software Engineer ",

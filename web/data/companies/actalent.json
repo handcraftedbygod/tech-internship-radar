@@ -1,0 +1,45 @@
+{
+  "slug": "actalent",
+  "name": "Actalent",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Dublin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "6614ea5bfbf8210c17976383c56639be0fe52783",
+      "title": "Junior Med Device Software Engineer",
+      "url": "",
+      "location": "Dublin, County Dublin, Ireland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

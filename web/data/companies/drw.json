@@ -2,9 +2,9 @@
   "slug": "drw",
   "name": "DRW",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-04T06:27:05.825Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 13.8,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 2
     },
     {
-      "hub": "New York",
-      "count": 1
+      "hub": "Amsterdam",
+      "count": 2
     },
     {
-      "hub": "Amsterdam",
+      "hub": "New York",
       "count": 1
     },
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "quant",
@@ -51,10 +51,17 @@
     9,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "24d4567247f7df1de8ba25eadb883dfaa272aef3",
+      "title": "Software Developer Intern",
+      "url": "",
+      "location": "Amsterdam",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "dde1d9f0f5f6df0a926ddad54da963ce874fa53e",
       "title": "Software Developer Intern",

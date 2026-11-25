@@ -4,7 +4,7 @@
   "tier": "elite",
   "currentOpenings": 23,
   "firstTrackedAt": "2026-07-22T22:03:05.155Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 27.8,
   "topLocations": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 22
+      "count": 23
     },
     {
       "id": "product",
@@ -61,10 +61,17 @@
     2,
     0,
     19,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9f110a7f4e9621d02e20911f6df115f27543fae9",
+      "title": "Software Engineering Intern (2027 Start) - Aarhus",
+      "url": "",
+      "location": "Aarhus, Denmark",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "86982a1fe745803f61f9ff86b6c744565121d72b",
       "title": "Software Engineering Intern (2027 Start) - London",
@@ -126,13 +133,6 @@
       "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
       "url": "https://go.vansh.nyc/WB",
       "location": "Bellevue, WA, Mountain View, CA",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "9f228561267a62bfdb2a15f4a026bac2397e0695",
-      "title": "New Grad 2027: Software Engineer",
-      "url": "https://go.vansh.nyc/WA",
-      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
       "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]

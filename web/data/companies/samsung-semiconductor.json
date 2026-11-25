@@ -2,14 +2,14 @@
   "slug": "samsung-semiconductor",
   "name": "Samsung Semiconductor",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     0,
     0,
     1,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eb202c8eec5298fcf498b0ffcb6145c946de7d5c",
+      "title": "LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation",
+      "url": "https://go.vansh.nyc/1IH",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "87cbdf4fd380638285505ff374b3baba5ef84f69",
       "title": "LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators",

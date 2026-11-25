@@ -2,14 +2,14 @@
   "slug": "kinaxis",
   "name": "Kinaxis",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     1,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9aac962e68ee27c85e0874bb7f9bf8d5a121d2d0",
+      "title": "Data Foundations Intern, Data & Analytics",
+      "url": "https://go.vansh.nyc/1IM",
+      "location": "Ottawa, Canada, Remote, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "3231080fa61093b1c880ec8930e9868d6791fef7",
       "title": "Developer Intern, Back End Technologies",

@@ -2,21 +2,21 @@
   "slug": "paypal",
   "name": "PayPal",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.8,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9c32fa11c37bf8ee5e30d89bdccdc0cadbf47486",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1Io",
+      "location": "San Jose, CA, Chicago, IL, Austin, TX",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "0f77d84c6898aecde32e84103bc6d0662ece2918",
       "title": "Cybersecurity Intern",

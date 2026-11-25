@@ -2,9 +2,9 @@
   "slug": "perplexity",
   "name": "Perplexity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-03T08:35:20.473Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
@@ -14,13 +14,17 @@
     {
       "hub": "San Francisco",
       "count": 4
+    },
+    {
+      "hub": "London",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "swe",
@@ -39,10 +43,17 @@
     0,
     8,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2ada50940437dd61dd0b09b21151ddb5ad72c426",
+      "title": "Internship - Search Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b26fbba2aa578de241ccc00d85d6c6d2e4f77eeb",
       "title": "Internship - Machine Learning Research Engineer",
@@ -103,13 +114,6 @@
       "id": "3c4677d4823d4565fad4450c6da0656d76fcde21",
       "title": "Internship - Machine Learning Research Engineer",
       "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c?utm_source=freehire.me",
-      "location": "Berlin",
-      "firstSeenAt": "2026-09-03T08:35:20.473Z"
-    },
-    {
-      "id": "79fbef952aa8d167babb7ab50d0ecd264686fb4a",
-      "title": "Internship - Machine Learning Research Engineer",
-      "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
       "location": "Berlin",
       "firstSeenAt": "2026-09-03T08:35:20.473Z"
     }

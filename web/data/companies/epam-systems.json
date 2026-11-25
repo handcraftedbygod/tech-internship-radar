@@ -2,9 +2,9 @@
   "slug": "epam-systems",
   "name": "EPAM Systems",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-13T05:41:36.924Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 14.8,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     4,
     0,
     4,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "292bc47534eb911e5ca4fcf01b83e5d974dcaf6e",
+      "title": "Junior Java Software Engineer",
+      "url": "",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "71ac48e463e0ad026f7ab760b64aaa48967331ea",
       "title": "Data Analytics Engineering Trainee",
@@ -105,13 +112,6 @@
       "url": "https://pl.whatjobs.com/pub_api__cpl__26573317__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "location": "Poland",
       "firstSeenAt": "2026-08-14T05:39:27.708Z"
-    },
-    {
-      "id": "6a9d68cff9542a6706d8ceb7cc67c8e4a5ba5cd6",
-      "title": "Junior Software Engineer",
-      "url": "https://justjoin.it/job-offer/epam-systems-junior-software-engineer-gdansk-java?utm_source=freehire.me",
-      "location": "Gdansk",
-      "firstSeenAt": "2026-08-13T05:41:36.924Z"
     }
   ]
 }

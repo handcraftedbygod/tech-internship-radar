@@ -2,9 +2,9 @@
   "slug": "vodafone",
   "name": "Vodafone",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
@@ -16,11 +16,11 @@
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "London",
+      "count": 2
     },
     {
-      "hub": "London",
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -34,6 +34,11 @@
       "id": "design",
       "label": "Design",
       "count": 3
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -47,10 +52,17 @@
     5,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e2cb9a9061f70c6cf321d070f5b73c3bddd6664e",
+      "title": "VodafoneThree - Junior Software Engineer",
+      "url": "https://opportunities.vodafone.com/job/London-The-Speechmark-VodafoneThree-Junior-Software-Engineer/1460193633/?utm_source=freehire.me",
+      "location": "London - The Speechmark, GB",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "acdef008d1a763823600680eb18f2f317098000e",
       "title": "Junior Data Engineer",

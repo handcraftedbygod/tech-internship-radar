@@ -2,14 +2,14 @@
   "slug": "general-motors",
   "name": "General Motors",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 9.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 10
+      "count": 11
     },
     {
       "hub": "Dublin",
@@ -29,7 +29,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,17 @@
     0,
     0,
     10,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6a0e6ea9922d90c7d1a96eba8c755557b0f34fd7",
+      "title": "Software Verification Engineer Intern, AV/AI Platform",
+      "url": "https://go.vansh.nyc/1Ir",
+      "location": "Warren, MI",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b4bf6590503c7e5100b7df8e77b7ca76f5c1ce8a",
       "title": "Machine Learning Engineer Intern, Embodied AI",
@@ -107,13 +114,6 @@
       "id": "cc7ae01fd5f66f5dbfed4bd13dd9903dba5b8c33",
       "title": "AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-      "location": "Sunnyvale, CA",
-      "firstSeenAt": "2026-10-18T08:35:22.194Z"
-    },
-    {
-      "id": "21a957e5e4ab5786cd341968f1f34aeb405042de",
-      "title": "AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406",
       "location": "Sunnyvale, CA",
       "firstSeenAt": "2026-10-18T08:35:22.194Z"
     }

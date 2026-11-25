@@ -2,14 +2,14 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     },
     {
       "hub": "Austin",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 14
+      "count": 15
     },
     {
       "id": "biz",
@@ -44,10 +44,17 @@
     0,
     1,
     15,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6775f710a89ace978919d2f9128c8602ac750ac4",
+      "title": "Software Engineer II (Master's)",
+      "url": "https://go.vansh.nyc/1J6",
+      "location": "Chandler, AZ",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "d0d75eeed438ef9a662c699741f6be922111472d",
       "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
@@ -108,13 +115,6 @@
       "id": "3c1bf4b9e495d1ad1aa662c7b4cd49fed44c34b6",
       "title": "Algorithm Developer (Master's)",
       "url": "https://go.vansh.nyc/AV",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "55444f549f8fd04cccf7333581611adc2326f1c5",
-      "title": "Software Engineer",
-      "url": "https://go.vansh.nyc/AE",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

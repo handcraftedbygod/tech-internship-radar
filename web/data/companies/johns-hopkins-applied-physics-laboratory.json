@@ -2,26 +2,26 @@
   "slug": "johns-hopkins-applied-physics-laboratory",
   "name": "Johns Hopkins Applied Physics Laboratory",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-23T09:07:55.300Z",
-  "totalPostings": 7,
-  "avgPostingDurationDays": 9.1,
+  "totalPostings": 11,
+  "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 7
+      "count": 11
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 9
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,38 @@
     0,
     0,
     3,
-    4,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb3e9f554bd6146e6ed3c2ff65bca99a41d17bc4",
+      "title": "New Grad 2027: Reverse Engineer - Systems Exploitation",
+      "url": "https://go.vansh.nyc/1IZ",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "7adf7ac917ac0c78986b9f44efd0db314f716a03",
+      "title": "Cyber Physical Systems Intern",
+      "url": "https://go.vansh.nyc/1IY",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "4c682a5499e1e460fe932f063cad6d64028e1212",
+      "title": "Artificial Intelligence and Complex Systems Intern",
+      "url": "https://go.vansh.nyc/1IE",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "2c2aacefcb65b8020a8e503aa64acfe85f770b05",
+      "title": "Robotics Intern",
+      "url": "https://go.vansh.nyc/1ID",
+      "location": "Laurel, MD",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "f2ec19fa433a84151740f24c02ff12668f1056ee",
       "title": "New Grad: Mission Modeling, Simulation & Software Engineer",
@@ -78,13 +106,6 @@
       "id": "f30450b3770ab955b619cd2767fdb47f492223bd",
       "title": "New Grad 2027: Software Engineer, Applications, Analysis, and Services Group",
       "url": "https://careers.jhuapl.edu/jobs/60586?icims=1",
-      "location": "Laurel, MD",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "d83933989115e6e3cd6bee3feab7f260c490d57d",
-      "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",
-      "url": "https://careers.jhuapl.edu/jobs/60116?icims=1",
       "location": "Laurel, MD",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }

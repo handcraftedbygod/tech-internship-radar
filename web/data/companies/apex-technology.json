@@ -2,21 +2,21 @@
   "slug": "apex-technology",
   "name": "Apex Technology, Inc.",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Los Angeles",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dbd704ebe5e0893b606dbabf5572e17b00085341",
+      "title": "Software Engineer Intern, Test Automation",
+      "url": "https://go.vansh.nyc/1It",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "0d40beac67abcfea907e38af856b7aeb91450972",
       "title": "Ground Software Engineering Intern",

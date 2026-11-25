@@ -2,21 +2,21 @@
   "slug": "idaho-national-laboratory",
   "name": "Idaho National Laboratory",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-11-13T11:54:08.620Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": null,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5d73e212cf0b9674241ea854e50df4179170a209",
+      "title": "NSUF Agentic Workflow Development Intern",
+      "url": "https://go.vansh.nyc/1IQ",
+      "location": "Idaho Falls, ID",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "4a90d96bdd52941f50e0e48f9be980d8e9192f29",
       "title": "Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern",

@@ -2,14 +2,14 @@
   "slug": "waymo",
   "name": "Waymo",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 32,
-  "avgPostingDurationDays": 15.9,
+  "totalPostings": 37,
+  "avgPostingDurationDays": 19.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 13
+      "count": 17
     },
     {
       "hub": "London",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "San Francisco",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Warsaw",
@@ -28,12 +28,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 24
+      "count": 28
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     }
   ],
   "hiringMonths": [
@@ -47,10 +47,45 @@
     0,
     7,
     23,
-    2,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a32780027a5c7f1ce9c4e653ac9ca1e63ae8b0f1",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "a4fa1269abc8ccf0dc9ef253cae8ff0111cb2942",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "ab7359b14537e45a8a4808c78037250bccffabbe",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "7ed9d2e440e0aaa4ba96c2c50d32ea03b84fbc35",
+      "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "397ba2e416de1a59ef86cba0e6330194f10e5438",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "f16019c082ba16e1a74f583af329d9eff1d37f8a",
       "title": "Software Engineer Intern, Multiverse",
@@ -83,41 +118,6 @@
       "id": "d604ce7403450ad73d7b7950fe072c3d88c801af",
       "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-      "location": "Mountain View, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "62e64be5c25c78c643210ef7987681d7a8314a59",
-      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-      "location": "London, UK",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "77491dfe3bee962df3f528eb5b063d9acb2e351f",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-      "location": "Mountain View, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "e11d269b24eddb7beb3d78e9892de3d1c8338c27",
-      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-      "location": "Mountain View, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "7494e4b0c518170ac6af89896bed98ce2b979731",
-      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
-      "location": "San Francisco, CA",
-      "firstSeenAt": "2026-10-15T08:53:46.789Z"
-    },
-    {
-      "id": "01fae72730dc34e2349d4ee855831de7474c8f69",
-      "title": "2027 Summer Intern, PhD, Data Science",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
       "location": "Mountain View, CA",
       "firstSeenAt": "2026-10-15T08:53:46.789Z"
     }

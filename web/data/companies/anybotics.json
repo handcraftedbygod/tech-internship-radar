@@ -1,15 +1,15 @@
 {
   "slug": "anybotics",
-  "name": "anybotics",
+  "name": "ANYbotics",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d8ee90874ab567eb024205ef04014c0e21468d5",
+      "title": "Visual Ai Data Engineering - Internship - Fr.3'000 - Fr.3'000 A Month",
+      "url": "",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "4eeb27f0470626ba2c42a7d7ffee8ae5b6e5fe5d",
       "title": "Software Engineer Intern - Industrialization",

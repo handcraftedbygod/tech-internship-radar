@@ -2,20 +2,29 @@
   "slug": "toyota-research-institute",
   "name": "Toyota Research Institute",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 6,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 10
+    },
+    {
+      "hub": "Boston",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 6
     }
   ],
@@ -30,10 +39,52 @@
     0,
     0,
     3,
-    3,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fc5f4d81caf1fb7be24bdbe9b2b71876deb2d64a",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
+      "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
+      "location": "Los Altos, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "6c5cd408f5d77090e18092972923618a324b8525",
+      "title": "Accelerated Science Intern, Machine Learning/Agentic AI",
+      "url": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495/apply",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "b5b0a2d638471ac6e4a15319372bb90031ab2029",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Explainable AI)",
+      "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply",
+      "location": "Los Altos, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "fe43ae32da2c35193c823d68c7c2f50d648e7092",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "url": "https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415/apply",
+      "location": "Los Altos, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "ef1ec51fa0d0bc383db133ddbc211ce44f438081",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "url": "https://jobs.lever.co/tri/da4b4832-36e7-4703-9841-c319efd6d495/apply",
+      "location": "Los Altos, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "3a35d5c47f5b5e888238ce8b2684764244e71b2b",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)",
+      "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476/apply",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "9bb8eeb94a32b6e800bcf7572b26d6ea39f6d0d8",
       "title": "Robotics Intern, Agentic Robotics",
@@ -61,20 +112,6 @@
       "url": "https://go.vansh.nyc/Th",
       "location": "Los Altos, CA",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "9d4e07cd3bc9c9c63766ba37ed48664184da95b5",
-      "title": "Human Aware Interactions and Learning Intern",
-      "url": "https://go.vansh.nyc/eU",
-      "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "cf202e2e958bd5f93c2124a05bfec98aa9148498",
-      "title": "Human Aware Interactions and Learning Intern",
-      "url": "https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7",
-      "location": "Cambridge, MA",
-      "firstSeenAt": "2026-10-24T08:40:19.613Z"
     }
   ]
 }

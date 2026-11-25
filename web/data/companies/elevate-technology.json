@@ -2,21 +2,21 @@
   "slug": "elevate-technology",
   "name": "Elevate Technology Group Ltd",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "799b4cd29b0c0e9a4ddfe77b20c5076d885cd762",
+      "title": "Junior Data Engineer",
+      "url": "https://www.reed.co.uk/jobs/junior-data-engineer/57606721?utm_source=freehire.me",
+      "location": "Belper",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "d438b272ff1c76fd19f4fabe8ce8415d5405ed4f",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5977337689?se=aHjy0Jjo8RGi7aNs8TLQeg&utm_medium=api&utm_source=aa2b179f&v=E2DFAD0183F8AC14C4FA55A293332F248B788110",
+      "location": "Belper, Derbyshire",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "50806517af08da42e98a820c0ff158d13fe1510f",
       "title": "Junior Data Engineer",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
-  "avgPostingDurationDays": 13.2,
+  "totalPostings": 9,
+  "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Düsseldorf",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     1,
     4,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "44500797be04261c014bf72467e3f2f912cbfcc3",
+      "title": "Software Engineer",
+      "url": "https://go.vansh.nyc/1IT",
+      "location": "Nashville, TN",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "f33c61cfa020e0a0607cc45b807a94917c33ba9e",
       "title": "Junior Cybersecurity | Tecnologia & Transformación - Empieza tu carrera con impacto | Madrid",

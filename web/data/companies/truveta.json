@@ -1,0 +1,45 @@
+{
+  "slug": "truveta",
+  "name": "Truveta",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Seattle",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "2111db8f9548b119364ed0ea6923db39c8ceda79",
+      "title": "Winter Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

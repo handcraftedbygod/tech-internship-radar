@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 33,
-  "avgPostingDurationDays": 10.5,
+  "totalPostings": 34,
+  "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
@@ -16,11 +16,11 @@
       "count": 4
     },
     {
-      "hub": "Toronto",
-      "count": 1
+      "hub": "Austin",
+      "count": 2
     },
     {
-      "hub": "Austin",
+      "hub": "Toronto",
       "count": 1
     }
   ],
@@ -33,7 +33,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     0,
     24,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "365fdc96009633a16af38c2ed181e7d2878910c5",
+      "title": "Design Verification Intern",
+      "url": "https://go.vansh.nyc/1Ie",
+      "location": "Fort Collins, CO, Hillsboro, OR, Santa Clara, CA, Austin, TX",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "cfa63be059a6ba4168e64f83036695acc8918c0b",
       "title": "AI Software Development Intern",
@@ -118,13 +125,6 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633?utm_source=freehire.me",
       "location": "Poland, Gdansk",
       "firstSeenAt": "2026-11-03T11:39:05.497Z"
-    },
-    {
-      "id": "7441a4025f6a5b98854d76bf2d8bfdab5ef825ef",
-      "title": "New Grad: Software Application Development Engineer",
-      "url": "https://go.vansh.nyc/11c",
-      "location": "Hillsboro, OR, Phoenix, AZ",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

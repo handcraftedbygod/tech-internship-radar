@@ -2,21 +2,21 @@
   "slug": "profiletree",
   "name": "profiletree",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "932f8db4cb2e024412b79609eb58e049b6cc96df",
+      "title": "Entry Level Web Developer (WordPress)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5978189468?utm_medium=api&utm_source=aa2b179f",
+      "location": "County Antrim, Northern Ireland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "9ecad941a1a3bdcc28fcf0fbf440c7770e4d4875",
       "title": "Entry Level Web Developer (WordPress)",

@@ -2,14 +2,14 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "Vancouver",
@@ -24,7 +24,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -43,10 +43,17 @@
     1,
     0,
     5,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "20b34ce2d34c94d7d615256f8c324249273a41d6",
+      "title": "Associate Engineer, Quality Engineering",
+      "url": "https://go.vansh.nyc/1Iw",
+      "location": "Wilmington, MA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "be7e49133cff704fbfb909a13a33404d0693c100",
       "title": "Embedded Hardware & Firmware Intern, Health Solutions",

@@ -2,13 +2,17 @@
   "slug": "affinity",
   "name": "Affinity",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "Lisbon",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1362fc0f702712efd66a41bedf60238c4adee514",
+      "title": "RPA Developer Junior | UiPath",
+      "url": "",
+      "location": "Lisbon, Portugal",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "11457b88fdb94c1af01b1d5da094c8d1130c7e8a",
       "title": "Junior Java Developer",

@@ -2,14 +2,14 @@
   "slug": "anduril",
   "name": "Anduril",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "London",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     0,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2213118af12be0b358b05e1569a2dfbd3d6f47f4",
+      "title": "2027 Machine Learning Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+      "location": "Santa Ana, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b3dcaad4c7b6451b4c9b01b1bf5b7dbc2f0f1dd2",
       "title": "Machine Learning Engineer Intern",

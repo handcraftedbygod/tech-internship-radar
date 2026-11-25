@@ -2,14 +2,14 @@
   "slug": "t-mobile",
   "name": "T-Mobile",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 23,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 22
+      "count": 23
     },
     {
       "hub": "New York",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ai",
@@ -49,10 +49,17 @@
     0,
     0,
     6,
-    17,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2a28febb0784088ff162033e1f2afaeb288310a2",
+      "title": "Site Reliability Engineering (SRE) Intern, Database Platform Engineering",
+      "url": "https://go.vansh.nyc/1Ik",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "558aef70860902ed591702bc4f2f841eb13cc351",
       "title": "Software Engineering AI Intern",
@@ -114,13 +121,6 @@
       "title": "Data Engineering Intern",
       "url": "https://go.vansh.nyc/1kE",
       "location": "Frisco, TX, Atlanta, GA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "dadbb3a5e82ca5cde898eb5bf7577e2703bc3eb2",
-      "title": "Software Engineer Intern, HR Data Products",
-      "url": "https://go.vansh.nyc/1kD",
-      "location": "Bellevue, WA",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }
   ]

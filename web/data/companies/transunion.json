@@ -2,13 +2,17 @@
   "slug": "transunion",
   "name": "TransUnion",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Chicago",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1d5594b2d11fc59a63972ad4d4a292f49e3b87fd",
+      "title": "Junior Analyst (Programming)",
+      "url": "https://www.adzuna.co.uk/jobs/details/5977289133?utm_medium=api&utm_source=aa2b179f",
+      "location": "Leeds, West Yorkshire",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "166e3a0db307a0611bb684e0ea2c0cb95d4e5a06",
       "title": "Data Science & Analytics Intern",

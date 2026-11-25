@@ -2,21 +2,21 @@
   "slug": "deliveroo",
   "name": "Deliveroo",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "London",
-      "count": 7
+      "count": 8
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     1,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d3f9edb45fd604c51b64e32971215a26bfc5cbb7",
+      "title": "Software Engineering Summer Internship 2027 (London)",
+      "url": "",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "796ddb4fa22e2422ce546badfa6644b408be9858",
       "title": "Software Engineering Summer Internship 2027 (London)",

@@ -2,21 +2,21 @@
   "slug": "techbiz-global",
   "name": "TechBiz Global GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23486039b86dc93c34ea98ee5724f7d5b2bfb68a",
+      "title": "Remote Junior Java Developer — Spring & API Focus",
+      "url": "",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "dee6c54dd2b77b18d2ee1e9d6b4035142bca1a82",
       "title": "Remote Junior Java Developer — Spring & API Focus",

@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-08-06T06:29:13.112Z",
-  "totalPostings": 12,
-  "avgPostingDurationDays": 10.8,
+  "totalPostings": 13,
+  "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Seattle",
@@ -25,7 +25,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -49,10 +49,17 @@
     1,
     0,
     6,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d2a719bdc45fedcafafb992920e26d374f95852d",
+      "title": "ASIC/FPGA Design Verification Engineer",
+      "url": "https://go.vansh.nyc/1Ix",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "78daf581f05a129c5c71caebfcb6b850d7148240",
       "title": "Software Engineer – Test & Verification",
@@ -115,13 +122,6 @@
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
       "location": "Maryland Heights, MO",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"
-    },
-    {
-      "id": "83c4b8f7549452860e45a287c8527616f5af7f92",
-      "title": "Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
-      "location": "Maryland Heights, MO, Hazelwood, MO",
-      "firstSeenAt": "2026-10-23T09:07:55.300Z"
     }
   ]
 }

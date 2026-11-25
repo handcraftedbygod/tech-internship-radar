@@ -2,21 +2,21 @@
   "slug": "agilerobotsse",
   "name": "Agilerobotsse",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-09-21T09:38:26.661Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     3,
     3,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "01e800295e29a3ef71ae0390f1bc95a90484d586",
+      "title": "Software Integration & DevOps Intern / Working Student (m/f/d) Robotics Software",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/software-integration-devops-intern-working-student-robotics-software-munich-bavaria-185917",
+      "location": "Munich, Bavaria",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "1e2ade761fbea6e3e19f1ce7c2ced033a319989a",
       "title": "Full-Stack Developer Intern (m/f/d) Robotics Data Collection",

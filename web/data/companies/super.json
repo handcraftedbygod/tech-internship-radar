@@ -1,0 +1,45 @@
+{
+  "slug": "super",
+  "name": "Super",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Toronto",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "30d59cc86e7cc9da8c3cccd4a56c777a6b26b95f",
+      "title": "Data Engineering Intern",
+      "url": "https://go.vansh.nyc/1IL",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

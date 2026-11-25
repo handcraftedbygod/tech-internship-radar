@@ -2,9 +2,9 @@
   "slug": "allianz",
   "name": "Allianz",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 18.9,
   "topLocations": [
     {
@@ -18,13 +18,17 @@
     {
       "hub": "Barcelona",
       "count": 1
+    },
+    {
+      "hub": "Zurich",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -48,10 +52,17 @@
     2,
     3,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8e1ec491a9d6c1da21b20081fbce1bec02c18bab",
+      "title": "Junior Data Analyst mit Fokus Compliance im Einzelleben (w/m/d)",
+      "url": "",
+      "location": "Wallisellen (Zürich), Zurich",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "e42d417e819951d1b58e61a24766c2b6b88561b7",
       "title": "INTERNSHIP - DATA ANALYST (W/M)",

@@ -2,21 +2,21 @@
   "slug": "mistral-ai",
   "name": "Mistral AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 2,
-  "avgPostingDurationDays": 12,
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e014e21e2825701c24b8645f81e9435557b3813c",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "url": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b/application",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "df346cffd740384fd28e25c4832567bddeab3e12",
       "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",

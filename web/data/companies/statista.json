@@ -2,14 +2,14 @@
   "slug": "statista",
   "name": "Statista",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-04T08:34:08.869Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -39,10 +39,24 @@
     0,
     1,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a0d211efa3876fb3c07b5f919fa9107e1990de9f",
+      "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "url": "",
+      "location": "Hamburg or Berlin",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "d41561a4c780b59b9c74faafbf86e1811e83bf48",
+      "title": "Junior Software Developer - Python & Web Applications (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/statista/junior-software-developer-python-web-applications-hamburg-or-berlin-455118",
+      "location": "Hamburg or Berlin",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "8f235ec9954fbb107f5252560f1983a95367836b",
       "title": "Junior Software Developer - Python & Web Applications (m/f/d)",

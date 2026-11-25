@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 2,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 21.3,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 28.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d41c8de7b25b658a513c7a198098d758e112943d",
+      "title": "Software Engineering Summer Intern, Drivers and Utilities 2027",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002",
+      "location": "Bristol, UK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "57aa193bd93c6cff1ce5a806579fa26376c1f464",
       "title": "Software Engineer Summer Intern, AI Compute Libraries & Performance 2027",

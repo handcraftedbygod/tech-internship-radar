@@ -1,0 +1,45 @@
+{
+  "slug": "patientpoint",
+  "name": "PatientPoint",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "7e509db7fe02187fdcf4049c67b6a7c7120b94a9",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1J3",
+      "location": "Cincinnati, OH",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

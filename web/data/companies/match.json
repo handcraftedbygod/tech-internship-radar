@@ -2,14 +2,14 @@
   "slug": "match",
   "name": "Match Group",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Los Angeles",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 3
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,24 @@
     0,
     0,
     0,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3fe6e9ba2f8f1bd2d693f3866ee864cd0debd187",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72/apply",
+      "location": "Palo Alto, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "3c5fa5dcd07e856319ab11b5530770f846c36b72",
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "fb5e31be6fdc33c95f0fb7b7888044cc52d5f0bf",
       "title": "iOS Engineer Intern",

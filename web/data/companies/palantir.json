@@ -2,18 +2,18 @@
   "slug": "palantir",
   "name": "Palantir",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 32,
+  "totalPostings": 34,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "London",
-      "count": 13
+      "count": 14
     },
     {
       "hub": "Other",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     },
     {
       "id": "biz",
@@ -52,10 +52,24 @@
     1,
     1,
     22,
-    8,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4d135069357e0608603d6f31a5ab896f2571d3de",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "5b3980afc5a56c233eb888eb6b1aba649d0451fe",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "e4179a0eb4d53856a157a2e73cf69361e39536dd",
       "title": "Software Engineer Intern — Build Data-Driven Platforms",
@@ -111,20 +125,6 @@
       "url": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
       "location": "New York, NY",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "b78de53302a130aa47d925b5027d03d960d37995",
-      "title": "Forward Deployed Software Engineer, Internship",
-      "url": "https://www.arbeitnow.fr/jobs/companies/palantir/forward-deployed-software-engineer-internship-paris-france-405810",
-      "location": "Paris, France",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
-    },
-    {
-      "id": "3300e4efeb314a1b1d62f3d29fd8c9c4de8d6c48",
-      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
-      "url": "https://go.vansh.nyc/Bb",
-      "location": "New York, NY",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

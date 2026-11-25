@@ -2,21 +2,21 @@
   "slug": "netcompany-poland",
   "name": "Netcompany Poland",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Warsaw",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     2,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "411e6dcea12d38e69793f7dc462d1891f14aac05",
+      "title": "Junior .NET Developer",
+      "url": "",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "19dbca7f2e3af1f63f37ae02c7aeb349aa45c79f",
       "title": "Junior Java Developer (f/m) @ Netcompany Poland",

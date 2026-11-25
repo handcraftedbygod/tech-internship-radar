@@ -2,21 +2,21 @@
   "slug": "brave",
   "name": "Brave",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c5e042c9b54d326b029c16dcf4bc2212843a6fc",
+      "title": "Software Engineering Intern - Waterloo University - Winter Session",
+      "url": "https://job-boards.greenhouse.io/brave/jobs/8360001",
+      "location": "Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "9146c8f9f5eae9e421b3e130add5b9d2886976cb",
       "title": "Software Engineering Intern - Waterloo University",

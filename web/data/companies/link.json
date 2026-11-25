@@ -2,14 +2,14 @@
   "slug": "link",
   "name": "Link Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-02T08:26:00.692Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Warsaw",
@@ -25,7 +25,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,17 @@
     0,
     8,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "dedfeab58d50f4c674191f08b7863a528f5e8b7f",
+      "title": "Junior Data Engineer @ Link Group",
+      "url": "",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "2efb43a9d2cd1663eabacfa4146bb82824636596",
       "title": "Junior Data Engineer",

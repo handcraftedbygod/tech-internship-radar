@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 56,
+  "totalPostings": 58,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 43
+      "count": 45
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 37
+      "count": 39
     },
     {
       "id": "ai",
@@ -66,10 +66,24 @@
     2,
     0,
     38,
-    16,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c5006fb6f99d1410859bf0ff01b11696955904dc",
+      "title": "Software Engineering Intern, Simulation Technology",
+      "url": "https://go.vansh.nyc/1J0",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "68ad578006efed1211e6fd4a8d33b4caf6961375",
+      "title": "Developer Technology Intern, AI",
+      "url": "https://go.vansh.nyc/1Im",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "00a02e11ee9be0a31230defba80864dd45f9d740",
       "title": "Software Engineering Intern",
@@ -125,20 +139,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184?utm_source=freehire.me",
       "location": "Germany, Munich",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "7c97617134a60207ae625d06779c545109c6c028",
-      "title": "GPU System and Scheduling Architect (Master's)",
-      "url": "https://go.vansh.nyc/1ea",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "43207fcc654f4abfe7acc5c3c0301f835b926381",
-      "title": "AI Compiler and Kernel Intern",
-      "url": "https://go.vansh.nyc/1bR",
-      "location": "Austin, TX",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

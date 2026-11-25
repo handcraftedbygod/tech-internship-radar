@@ -2,14 +2,14 @@
   "slug": "altera",
   "name": "Altera",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 17,
+  "totalPostings": 19,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 15
+      "count": 17
     },
     {
       "hub": "Other",
@@ -30,6 +30,11 @@
     {
       "id": "hw",
       "label": "Hardware",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -44,10 +49,24 @@
     0,
     0,
     14,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ce3d91d75cf2cfacb9a23a8b168c203ec8446a82",
+      "title": "Embedded Solutions Intern",
+      "url": "https://go.vansh.nyc/1Ii",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "d812f3b4b49610452e35ee74fba5fa49eca78859",
+      "title": "AI Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ih",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "18e1ba7a86d8450520b0a50e7d114bc3c477922b",
       "title": "FPGA Software Engineer Intern",
@@ -103,20 +122,6 @@
       "url": "https://go.vansh.nyc/SU",
       "location": "Toronto, Canada",
       "firstSeenAt": "2026-10-27T09:37:35.915Z"
-    },
-    {
-      "id": "4f3e4945887dfcf35cd0276e0d95f1634559131d",
-      "title": "IP Design Intern",
-      "url": "https://go.vansh.nyc/hw",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "899caddda027316b05da133c58e9a36814ef1d7a",
-      "title": "Software Intern",
-      "url": "https://go.vansh.nyc/gt",
-      "location": "Toronto, Canada",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]
 }

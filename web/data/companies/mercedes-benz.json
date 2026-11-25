@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 60,
+  "totalPostings": 61,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 48
+      "count": 49
     },
     {
       "hub": "Stuttgart",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 32
+      "count": 33
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     19,
     10,
     14,
-    17,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba76f54273d3ae2922a79339950bd85f054ec186",
+      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1631999-3-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "ca00d39289a2bf0388f96c6da53922f2b7b3c47a",
       "title": "Praktikant*in Data Analytics & Business Intelligence – Connected Car & After Sales...",
@@ -122,13 +129,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654259-1-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "21454aaf57adfa6e9a4d06f47e265cef063679c4",
-      "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
-      "url": "https://jobs.mercedes-benz.com/werkstudent-in-e-systemintegration-f-r-data-engineering-und-analytics-246660-MER0004AI2?utm_source=freehire.me",
-      "location": "Sindelfingen, Germany",
-      "firstSeenAt": "2026-11-14T11:15:38.078Z"
     }
   ]
 }

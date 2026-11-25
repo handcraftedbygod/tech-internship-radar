@@ -2,14 +2,14 @@
   "slug": "figure-ai",
   "name": "Figure AI",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
-  "avgPostingDurationDays": 8.7,
+  "totalPostings": 4,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 3
+    },
+    {
+      "id": "hw",
+      "label": "Hardware",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f4424963f574f9009c6278ce9e49f2822b2cad0d",
+      "title": "Embedded Software Engineering Intern [Winter 2027]",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "70b5212f5983d43540a2cbb0be57b60e2c4fd7d5",
       "title": "Developer Productivity Intern",
@@ -43,7 +55,7 @@
     },
     {
       "id": "9278f2fde3cc4c650ffe80353d7243f8ff41f3bc",
-      "title": "Developer Productivity Intern",
+      "title": "Developer Productivity Intern [Winter 2027]",
       "url": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
       "location": "San Jose, CA",
       "firstSeenAt": "2026-10-24T08:40:19.613Z"

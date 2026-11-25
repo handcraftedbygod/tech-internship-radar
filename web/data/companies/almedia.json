@@ -2,14 +2,14 @@
   "slug": "almedia",
   "name": "Almedia",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-03T06:58:28.460Z",
-  "totalPostings": 12,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 12
+      "count": 14
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     2,
     0,
     9,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ee1ca9b2a7be6a8c54ce7bf9eb3d7d9bc632d22d",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI / Data)",
+      "url": "",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "99f0f14db25cb78aaf026a0d4baf3f0dc31e40ce",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI / Data)",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-engineer-typescript-python-devops-ai-data-berlin-138277",
+      "location": "Berlin",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "2f3c2d80ad904a6e673207f05d48d5f6eec150df",
       "title": "Junior Data Scientist",
@@ -94,20 +108,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-software-engineer-data-berlin-75989",
       "location": "Berlin",
       "firstSeenAt": "2026-10-14T09:19:46.299Z"
-    },
-    {
-      "id": "84a3afa8306610d83ee7be32484be55007f5155d",
-      "title": "Junior Software Engineer, Data",
-      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-software-engineer-data-berlin-438257",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-12T11:42:11.675Z"
-    },
-    {
-      "id": "9c2845982fe0f2a7dbd5811665058a19041ca527",
-      "title": "Junior Software Engineer, Data",
-      "url": "https://jobs.ashbyhq.com/almedia/9da70ef8-9cdc-4342-8e78-00206aac158d?utm_source=freehire.me",
-      "location": "Berlin",
-      "firstSeenAt": "2026-10-09T11:10:10.640Z"
     }
   ]
 }

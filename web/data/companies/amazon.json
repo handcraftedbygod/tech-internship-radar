@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 58,
+  "totalPostings": 60,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Seattle",
-      "count": 12
+      "count": 14
     },
     {
       "hub": "London",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 36
+      "count": 38
     },
     {
       "id": "hw",
@@ -61,10 +61,24 @@
     0,
     1,
     41,
-    16,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "51301df86421f914c42a0d45ab12cab416fdb5f6",
+      "title": "New Grad 2027: Front-End Engineer",
+      "url": "https://go.vansh.nyc/1Iv",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "e774953c3ac682035407476da3cda8845ab23b10",
+      "title": "Front-End Engineer Intern",
+      "url": "https://go.vansh.nyc/1Iu",
+      "location": "Seattle, WA",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "952d4fdc7841221283cdb98d53d677f9f0c56e59",
       "title": "New Grad 2027: Security Engineer",
@@ -120,20 +134,6 @@
       "url": "https://go.vansh.nyc/1iP",
       "location": "Redmond, WA",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "423e71357ec5aff4bf6eb294fe050b0f1935d54f",
-      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
-      "url": "https://go.vansh.nyc/1ec",
-      "location": "Seattle, WA",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "9de356516ab25f90edc6b2207efa9650cef4b2f3",
-      "title": "Data Center Infrastructure Engineer Internship 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10532883/data-center-infrastructure-engineer-internship-2027?utm_source=freehire.me",
-      "location": "London, England, GBR",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

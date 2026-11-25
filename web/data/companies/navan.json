@@ -2,21 +2,21 @@
   "slug": "navan",
   "name": "Navan",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-03T11:39:05.497Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c433c274c2bbbc305af7aac553b9a37f58ffc93",
+      "title": "Junior Backend Software Engineer",
+      "url": "https://navan.com/careers/openings?gh_jid=8336673",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "3c3d5f30e091ad40c02ad2efee980c04b9cd9cc8",
       "title": "Junior Backend Software Engineer",

@@ -2,21 +2,21 @@
   "slug": "energy-jobline-zr",
   "name": "Energy Jobline ZR",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "7f41763c17d02af6c9e9ddd9fa83eade29772c77",
+      "title": "Junior Fire & Security Engineer (Global Company) in Glasgow",
+      "url": "",
+      "location": "Glasgow, GB",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "8932ed08c70dc3b26619aa3ba0b9b604c4654158",
       "title": "Junior Fire & Security Engineer (Global Company) in Edinburgh",

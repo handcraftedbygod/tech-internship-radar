@@ -2,21 +2,25 @@
   "slug": "sambanova",
   "name": "SambaNova",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 7
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "design",
@@ -40,10 +44,17 @@
     0,
     0,
     0,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9ffc8b1571ebfffc50655a111e7274719edd39f6",
+      "title": "Runtime Engineer Intern",
+      "url": "https://go.vansh.nyc/1IR",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "95b143b97d383656bb41bd93ccc405bd6c12f7a4",
       "title": "New Grad: Runtime Engineer",

@@ -2,9 +2,9 @@
   "slug": "peagle",
   "name": "Peagle GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     1,
     1,
     2,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "28dea4029e32bdb46549dec4d8d51de8a2a2dbde",
+      "title": "Junior Software Engineer (m/w/d) Top Tier Team (Softwareentwickler/in)",
+      "url": "",
+      "location": "Leipzig, Germany",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "b313f0b9a3f6def66d00ca85531d925608bc6a43",
+      "title": "Junior Software Engineer (m/w/d) Top Tier Team (Softwareentwickler/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwNDA2NDc3OC1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "ec1d7f3bad562859ec202d58cba84f1ed7d9d7d5",
       "title": "Junior Software Engineer (m/w/d) Top Tier Team",

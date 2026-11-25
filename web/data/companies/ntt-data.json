@@ -2,21 +2,21 @@
   "slug": "ntt-data",
   "name": "NTT DATA, Inc.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "058c6dd404962b587a3e37125313561d7f3a8479",
+      "title": "Junior Network Engineer — Hybrid in Coruña",
+      "url": "https://es.whatjobs.com/pub_api__cpl__370642752__7107?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "24f09248c76788b667984db659e30dca735f0258",
       "title": "DevOps Automation Junior",

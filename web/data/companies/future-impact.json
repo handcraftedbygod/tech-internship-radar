@@ -2,21 +2,21 @@
   "slug": "future-impact",
   "name": "Future Impact",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     4,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc4dc736e26ccce3616a4329c45394613e84d257",
+      "title": "Junior Data Scientist – Hybrid & Mentored Growth",
+      "url": "",
+      "location": "Naarden, Noord-Holland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "585a14e4b8498be981d571b5c132c86315d0f105",
       "title": "Junior Data Engineer",

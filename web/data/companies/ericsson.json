@@ -2,9 +2,9 @@
   "slug": "ericsson",
   "name": "Ericsson",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 38,
+  "totalPostings": 41,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "hub": "Krakow",
-      "count": 3
+      "count": 6
     },
     {
       "hub": "Madrid",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 32
+      "count": 35
     },
     {
       "id": "ai",
@@ -56,10 +56,31 @@
     5,
     5,
     7,
-    21,
+    24,
     0
   ],
   "recentPostings": [
+    {
+      "id": "70316b75e78bbb0283900c8546a2e6a9fc4e89f5",
+      "title": "Junior DevOps Engineer: CI/CD, Docker & Kubernetes",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37961992__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "be6415781f483ef4c739008d3c20021a178e0cd1",
+      "title": "Junior DevOps Engineer - CI/CD for 6G UE Simulator (Hybrid)",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__37960040__7143?utm_campaign=publisher&utm_medium=api&geoID=1182&utm_source=freehire.me",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "ddcd6ef1fd986d0c6d9d1bc7349bd98c4562f67e",
+      "title": "Junior DevOps Engineer for 6G UE Simulator (Hybrid)",
+      "url": "",
+      "location": "Kraków, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "9dce872324d54e91056a4de96854eceae07b1438",
       "title": "Junior Software Developer",
@@ -108,27 +129,6 @@
       "url": "https://se.whatjobs.com/pub_api__cpl__22081357__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
       "location": "Stockholms län, Sweden",
       "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "542bc17ed12b6620b3ffd975916b5f2bb186c1a8",
-      "title": "Junior Software Developer: AI-Driven Test Frameworks",
-      "url": "https://se.whatjobs.com/pub_api__cpl__21965442__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
-      "location": "Skåne län, Sweden",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "d99455f618a794017a2108b4e775cfb9027abf85",
-      "title": "Junior Software Developer: AI-Enhanced Test Frameworks",
-      "url": "https://se.whatjobs.com/pub_api__cpl__22073428__7150?utm_campaign=publisher&utm_medium=api&geoID=13&utm_source=freehire.me",
-      "location": "Skåne län, Sweden",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "d5a42722828db59961dc6fd6410035405d841329",
-      "title": "AI Software Engineer Intern",
-      "url": "https://go.vansh.nyc/1zB",
-      "location": "Plano, TX",
-      "firstSeenAt": "2026-11-15T11:47:58.663Z"
     }
   ]
 }

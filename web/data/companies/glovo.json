@@ -2,10 +2,10 @@
   "slug": "glovo",
   "name": "Glovo",
   "tier": null,
-  "currentOpenings": 25,
+  "currentOpenings": 26,
   "firstTrackedAt": "2026-08-24T21:11:48.426Z",
-  "totalPostings": 104,
-  "avgPostingDurationDays": 30.7,
+  "totalPostings": 107,
+  "avgPostingDurationDays": 30.1,
   "topLocations": [
     {
       "hub": "Barcelona",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Madrid",
-      "count": 24
+      "count": 27
     },
     {
       "hub": "Lisbon",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 80
+      "count": 83
     },
     {
       "id": "biz",
@@ -57,10 +57,31 @@
     33,
     26,
     25,
-    20,
+    23,
     0
   ],
   "recentPostings": [
+    {
+      "id": "81d8ddff3fc92429ba14501d5e8df37023c8cb42",
+      "title": "Junior Strategic Account Manager - Madrid",
+      "url": "https://careers.glovoapp.com/job/junior-strategic-account-manager-madrid-in-madrid-spain-jid-744000163523827/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "a596032e851e421947f5945acee6d50b4d54eead",
+      "title": "Junior Account Manager - Madrid",
+      "url": "https://careers.glovoapp.com/job/junior-account-manager-madrid-in-madrid-spain-jid-744000163522195/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "a2edaa169b6cd75048149a23628031b481c44dcc",
+      "title": "Intern Account Manager SMB Spain",
+      "url": "https://careers.glovoapp.com/job/intern-account-manager-smb-spain-in-madrid-spain-jid-744000163668759/",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "d8e83a9256c41330102a5777737cfad182f80b17",
       "title": "Junior Paid Social & Meta Specialist",
@@ -109,27 +130,6 @@
       "url": "https://careers.glovoapp.com/job/junior-business-analyst-monetisation-in-barcelona-spain-jid-744000162466714/",
       "location": "Barcelona, Spain",
       "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "950865878bb2eadc17061bf82aa68005f782f862",
-      "title": "Category Management Intern",
-      "url": "https://careers.glovoapp.com/job/category-management-intern-in-madrid-spain-jid-744000162275639/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-18T12:41:19.497Z"
-    },
-    {
-      "id": "56a38402651a25cb9ffa5c8848333bea801807f8",
-      "title": "Category Management Intern Groceries Spain",
-      "url": "https://careers.glovoapp.com/job/category-management-intern-groceries-spain-in-madrid-spain-jid-744000162025969/",
-      "location": "Madrid, Spain",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "a257d7c12ffbe404948171228ecc308804a124c6",
-      "title": "Junior Backend Engineer (They/She/He)",
-      "url": "https://careers.glovoapp.com/job/junior-backend-engineer-they-she-he-in-barcelona-spain-jid-744000161824082/",
-      "location": "Barcelona, Spain",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "slug": "state-street",
   "name": "State Street",
   "tier": null,
-  "currentOpenings": 6,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 9.3,
   "topLocations": [
     {
@@ -17,14 +17,14 @@
     },
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
     },
     {
       "id": "biz",
@@ -48,10 +48,17 @@
     2,
     0,
     1,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aeffbf08db2b5ac66bf2865b6ac97a1e083aabf2",
+      "title": "Junior QA Engineer - Cloud & Data Testing (AWS)",
+      "url": "",
+      "location": "Kraków, Województwo małopolskie",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "6bc7ce6f7ad88f75a9944f86b7ddf25f5a99deb5",
       "title": "Software Engineering Intern",
@@ -114,13 +121,6 @@
       "url": "https://careers.statestreet.com/global/en/job/STSTGLOBALR793923EXTERNALENGLOBAL?utm_source=freehire.me",
       "location": "Gdansk, Pomeranian",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "c60f2779ec004306eb01a44f69e9974ada2379da",
-      "title": "Junior QA Engineer - Cloud, Data & API Testing (Hybrid)",
-      "url": "https://pl.whatjobs.com/pub_api__cpl__28296014__7143?geoID=1182&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-      "location": "Kraków, Poland",
-      "firstSeenAt": "2026-08-11T05:08:26.876Z"
     }
   ]
 }

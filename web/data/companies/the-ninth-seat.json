@@ -2,25 +2,29 @@
   "slug": "the-ninth-seat",
   "name": "The Ninth Seat",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-08T11:04:42.595Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    },
     {
       "hub": "Munich",
       "count": 2
     },
     {
-      "hub": "Other",
-      "count": 1
+      "hub": "Frankfurt",
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,31 @@
     0,
     0,
     0,
-    3,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5102e732a34da452fdb4e8ac879e5f88bf119249",
+      "title": "Junior Systems Engineer",
+      "url": "https://www.adzuna.de/details/5977864916?utm_medium=api&utm_source=aa2b179f",
+      "location": "Hamburg-Altstadt, Hamburg",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "caae0fa6f0ad262b39e80dd17c465420bc35810e",
+      "title": "Junior DevOps Specialist",
+      "url": "https://www.adzuna.de/details/5977866257?utm_medium=api&utm_source=aa2b179f",
+      "location": "Altstadt, Frankfurt am Main",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "4a0b81d81c6c5b5dc4f055d11def6891e3d9cbb8",
+      "title": "Junior Infrastructure Engineer",
+      "url": "https://www.adzuna.de/details/5977866348?utm_medium=api&utm_source=aa2b179f",
+      "location": "Altstadt, Frankfurt am Main",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "5e3ac14c5fa0144b531c17f3a6ac528b3a6afdbb",
       "title": "Junior Network Engineer",

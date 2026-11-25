@@ -1,0 +1,45 @@
+{
+  "slug": "box",
+  "name": "Box",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-25T13:55:54.997Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "a83f32f9556cfaf252b6ca7373340af70ff802d2",
+      "title": "Junior Customer Success Developer (Front-end)",
+      "url": "",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    }
+  ]
+}

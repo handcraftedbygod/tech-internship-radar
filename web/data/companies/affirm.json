@@ -2,10 +2,10 @@
   "slug": "affirm",
   "name": "Affirm",
   "tier": null,
-  "currentOpenings": 7,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 11,
-  "avgPostingDurationDays": 31.3,
+  "totalPostings": 12,
+  "avgPostingDurationDays": 37.3,
   "topLocations": [
     {
       "hub": "San Francisco",
@@ -17,7 +17,7 @@
     },
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Other",
@@ -28,7 +28,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     0,
     8,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9d1feffea08d5c43502ee84912940fd40b823495",
+      "title": "Remote Junior Fullstack Engineer – JS/TS + Python/Kotlin",
+      "url": "",
+      "location": "London, Canada",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "a0b209c076a60a8d98de0ef692d8d98b19131792",
       "title": "Internal Auditor I (2027 Early Career Program)",
@@ -118,13 +125,6 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
       "location": "New York, New York, United States",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "23e1b5678d29cb8d4788ff6bb55d8ab93196ca5b",
-      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
-      "location": "San Francisco, California, United States",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

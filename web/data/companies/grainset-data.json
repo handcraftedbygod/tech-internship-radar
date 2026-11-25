@@ -2,10 +2,10 @@
   "slug": "grainset-data",
   "name": "Grainset Data",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 8,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 7.7,
   "topLocations": [
     {
       "hub": "Munich",
@@ -13,23 +13,23 @@
     },
     {
       "hub": "Berlin",
-      "count": 1
+      "count": 2
     },
     {
       "hub": "Düsseldorf",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,24 @@
     0,
     0,
     0,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d0216838be4fdfbca8e1f5f57442390308640e1a",
+      "title": "Junior BI Developer",
+      "url": "https://www.adzuna.de/details/5977866275?utm_medium=api&utm_source=aa2b179f",
+      "location": "Mitte, Berlin",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
+    {
+      "id": "4eb312350ac1d366d9881710a6fb4e9d31a5cd53",
+      "title": "Junior Data Engineer",
+      "url": "https://www.adzuna.de/details/5977866377?utm_medium=api&utm_source=aa2b179f",
+      "location": "Altstadt, Düsseldorf",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "f73376a5aa1557bc51408e2a89e1e0f387d7b59e",
       "title": "Junior Data Engineer",

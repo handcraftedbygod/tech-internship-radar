@@ -2,21 +2,21 @@
   "slug": "deka-research-development",
   "name": "DEKA Research & Development",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa16af682fe41d4545ef047ad9a03d0162bfd513",
+      "title": "Junior Software Engineer",
+      "url": "",
+      "location": "Manchester, NH",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "d33cb01563328c06088306f0ab61870b22759547",
       "title": "Junior Software Engineer",

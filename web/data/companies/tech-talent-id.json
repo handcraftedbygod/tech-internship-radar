@@ -2,21 +2,21 @@
   "slug": "tech-talent-id",
   "name": "Tech Talent ID",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15166ff29e27da481dd7cb49422f4888ab92e6b2",
+      "title": "Junior Full-Stack Developer - Vue.Js, CSS, Sass - Hybrid",
+      "url": "",
+      "location": "London, United Kingdom",
+      "firstSeenAt": "2026-11-25T13:55:54.997Z"
+    },
     {
       "id": "b0934e4b3f38fdbcd87d5167192841fc6a2d52b5",
       "title": "Junior Full-Stack Developer - Vue.Js, CSS, Sass - Hybrid",
