@@ -2,14 +2,14 @@
   "slug": "mitre",
   "name": "MITRE",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 15,
+  "totalPostings": 16,
   "avgPostingDurationDays": 11.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     },
     {
       "id": "hw",
@@ -45,10 +45,17 @@
     0,
     0,
     6,
-    9,
+    10,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b5c0dfc8e65a6c92fe9e84b59fba1076b8b7d93",
+      "title": "Associate Wireless Security Engineer",
+      "url": "https://go.vansh.nyc/1Kb",
+      "location": "Bedford, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "17d544c4e3fcf3c135807e03d6f38b1075afb517",
       "title": "Cyber Operations Engineer Intern",
@@ -111,13 +118,6 @@
       "url": "https://go.vansh.nyc/13Y",
       "location": "McLean, VA",
       "firstSeenAt": "2026-11-01T11:04:08.160Z"
-    },
-    {
-      "id": "5554d5bb841046f6a5308b74dfcb9bb3145f238c",
-      "title": "Data Science and Engineering Intern",
-      "url": "https://go.vansh.nyc/10t",
-      "location": "McLean, VA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]
 }

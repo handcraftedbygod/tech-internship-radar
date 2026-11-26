@@ -2,9 +2,9 @@
   "slug": "visa",
   "name": "Visa",
   "tier": "notable",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 77,
+  "totalPostings": 78,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
@@ -24,8 +24,8 @@
       "count": 2
     },
     {
-      "hub": "Madrid",
-      "count": 1
+      "hub": "Frankfurt",
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 7
+      "count": 8
     },
     {
       "id": "biz",
@@ -66,10 +66,17 @@
     0,
     32,
     37,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d1f2be921f47e76f45b4deab521d2020adc35494",
+      "title": "Consulting & Analytics Summer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2",
+      "location": "DE - Frankfurt, Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "808128a1c58e7258a51238ace5edf27112d7c2c0",
       "title": "Software Engineer Intern",
@@ -131,13 +138,6 @@
       "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
       "url": "https://www.themuse.com/jobs/visa/2027-sophomore-internship-program-software-engineer-intern-bellevue-de272a",
       "location": "Bellevue, WA",
-      "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "9208418d8d16c30c34ff1d687591ee6576556150",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
-      "url": "https://www.themuse.com/jobs/visa/2027-sophomore-internship-program-software-engineer-intern-austin-tx-2027",
-      "location": "Austin, TX",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
     }
   ]

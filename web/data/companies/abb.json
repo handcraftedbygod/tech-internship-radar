@@ -2,14 +2,14 @@
   "slug": "abb",
   "name": "ABB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Lodz",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     2,
     2,
     5,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5a7cc6eea2f5a2b6d47329e0b6f1d0b9f9d2f25",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/1Kd",
+      "location": "Dorval, Canada",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "7efd4b458e0074e3bd410aceb22de69a6339fa35",
       "title": "Data Analyst Trainee",
@@ -105,13 +112,6 @@
       "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Data-Analytics---BI-Specialist_JR00046196?utm_source=freehire.me",
       "location": "Aleksandrow Lodzki, Lodz, Poland",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "3a677bac1424b5029d83c4b94f874a5a08afda73",
-      "title": "Junior OT Cybersecurity Specialist/ (Industrial Control Systems / DCS Security)",
-      "url": "https://careers.abb/global/en/job/ABB1GLOBALJR00042770EXTERNALENGLOBAL?utm_source=freehire.me",
-      "location": "Wroclaw, Lower Silesian",
-      "firstSeenAt": "2026-08-24T21:11:48.426Z"
     }
   ]
 }

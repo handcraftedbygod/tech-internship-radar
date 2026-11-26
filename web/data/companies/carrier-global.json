@@ -2,21 +2,21 @@
   "slug": "carrier-global",
   "name": "Carrier Global",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ed83cc90ece2d802329386ce879bc88c3ea6d2e8",
+      "title": "Software & Controls Engineering Intern",
+      "url": "https://go.vansh.nyc/1Js",
+      "location": "Charlotte, NC",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "77cec93daecce0b9bd8038f1ce761e422d34da79",
       "title": "Software Engineer Intern",

@@ -2,20 +2,25 @@
   "slug": "celestica",
   "name": "Celestica",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 2
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4c4f8f33cac0e80a462f4cfac1a108b4054b35c4",
+      "title": "Engineering AI Development Intern",
+      "url": "https://go.vansh.nyc/1Jn",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "6712b4497289363b7ce9ecb659addcd227b63c49",
+      "title": "Engineering Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1Jm",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "b2891760f459bae2df6a1dfb6c8635f0cbf64b6a",
       "title": "Salesforce Developer 1 Intern",

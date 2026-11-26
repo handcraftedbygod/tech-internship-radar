@@ -2,21 +2,21 @@
   "slug": "eight-sleep",
   "name": "Eight Sleep",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d810a58e9e353da690eafd52e6c8287900f74fc4",
+      "title": "New Grad: Engineering",
+      "url": "https://go.vansh.nyc/1Ji",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "0206765da008b918ec7613b1522e90767b1dd7d6",
       "title": "New Grad: Engineering",

@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 58,
+  "totalPostings": 59,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 38
+      "count": 39
     },
     {
       "hub": "Munich",
@@ -33,7 +33,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 23
+      "count": 24
     },
     {
       "id": "hw",
@@ -57,10 +57,17 @@
     17,
     15,
     14,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4314dc1c4e33aea33786e7ee601d9b21efe09e27",
+      "title": "Werkstudent (w/m/d) IT Processes, Data Analytics & Automation",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1657637-1-S",
+      "location": "Nürnberg, Mittelfranken",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "681c7bfca42fa8588c8f39ad1b4157c526694c17",
       "title": "Werkstudent (w/m/d) Management Support & Artificial Intelligence",
@@ -122,13 +129,6 @@
       "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S?utm_source=freehire.me",
       "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "8c2fe910358e56827db96784d4d0002960c315fd",
-      "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S",
-      "location": "Erlangen",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
     }
   ]

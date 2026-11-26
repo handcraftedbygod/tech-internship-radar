@@ -2,21 +2,21 @@
   "slug": "hawksworth",
   "name": "Hawksworth",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d126c8ea4cdb0de22b64ff73fed994121d7fcb33",
+      "title": "Junior Software Engineer - .NET, C#, Azure, AI - London (Hybrid) - £50k - £62k + Bonus + 21% pension + package",
+      "url": "",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "952b2d9f602d8299ff43d415b17bb5cec7284f48",
       "title": "Junior Software Engineer – Digital Product & AI / C#/ .Net - £50k - £62,000 + Bonus + Package",

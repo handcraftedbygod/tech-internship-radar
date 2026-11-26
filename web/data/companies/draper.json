@@ -2,21 +2,21 @@
   "slug": "draper",
   "name": "Draper",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-23T04:36:48.924Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "hw",
@@ -40,10 +40,24 @@
     1,
     0,
     2,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6e156c96d0210192a7a1065260d983dfd53ef9a3",
+      "title": "Cyber Effects Engineering Intern",
+      "url": "https://go.vansh.nyc/1Jv",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "4f7513e7d0191cda18bed69454227922feba1c18",
+      "title": "Simulation Engineering Intern",
+      "url": "https://go.vansh.nyc/1J9",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "e2106f20399439a8ebe654d664a436fd1ac8fc05",
       "title": "HWIL & Real Time Simulation Intern",

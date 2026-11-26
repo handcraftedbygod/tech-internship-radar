@@ -2,21 +2,21 @@
   "slug": "g-research",
   "name": "G-Research",
   "tier": "trading",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     0,
     1,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5dbb12083e358c730ad36087bd3aa3e1e00020df",
+      "title": "Infrastructure Software Engineering Internship",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5979386284?se=UtN3I5Tp8RGwSYC3UJKtCA&utm_medium=api&utm_source=aa2b179f&v=3E96F56B2C7B7A39455CBC05B11610E671D80EC2",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "54e7701a8128f2bf7dbe6f2a78e4172f250d0a9e",
       "title": "Infrastructure Software Engineering Internship",

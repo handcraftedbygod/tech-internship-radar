@@ -2,21 +2,21 @@
   "slug": "danaher",
   "name": "Danaher Corporation",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "ai",
@@ -40,10 +40,24 @@
     0,
     0,
     3,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2e7871fc97c518ab66d09b31bd1401af36f5ec4e",
+      "title": "IT Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1K9",
+      "location": "Brea, CA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "af5d11b13ada352978fb80d9cb541dbaf7d16b67",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Jy",
+      "location": "Chaska, MN",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "59f84ad2ed249d248eed1a42e26bab578e893d80",
       "title": "Firmware Engineer Co-op",

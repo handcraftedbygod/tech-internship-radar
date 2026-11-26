@@ -2,21 +2,21 @@
   "slug": "tieto2",
   "name": "tieto2",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     2,
     0,
     6,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a6deb688e9f7d2322ff3dc432c68b17e4210501",
+      "title": "Junior Software Developer - Tieto Caretech (m/f/d)",
+      "url": "",
+      "location": "Espoo, fi",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "e667afa370f600d20c1236e11b9c90b224cb0181",
       "title": "Junior Software Engineer, C++ - Tieto Tech Consulting (m/f/d)",

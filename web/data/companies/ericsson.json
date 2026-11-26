@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 41,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 42,
+  "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Stockholm",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 35
+      "count": 36
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     5,
     5,
     7,
-    24,
+    25,
     0
   ],
   "recentPostings": [
+    {
+      "id": "5656793737a80f4757a3e67f9c7f63c06ad03017",
+      "title": "Entry Level: Erlang Software Developer",
+      "url": "",
+      "location": "Göteborg,Västra Götaland,Sweden",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "70316b75e78bbb0283900c8546a2e6a9fc4e89f5",
       "title": "Junior DevOps Engineer: CI/CD, Docker & Kubernetes",
@@ -122,13 +129,6 @@
       "url": "https://jobs.ericsson.com/careers/job/563121777627166-junior-developer-?domain=ericsson.com&utm_source=freehire.me",
       "location": "Stockholm,Stockholm,Sweden",
       "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "43e60113d0accef3b666e5040cf53e14a7bed9b1",
-      "title": "Radio Software Engineer (Junior) - C++/Java Embedded",
-      "url": "https://se.whatjobs.com/pub_api__cpl__22081357__7150?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
-      "location": "Stockholms län, Sweden",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
     }
   ]
 }

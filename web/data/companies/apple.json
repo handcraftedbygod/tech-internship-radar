@@ -2,9 +2,9 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 34,
+  "totalPostings": 35,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     0,
     2,
     21,
-    11,
+    12,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9847d9953bfbd2e3db8b3f44f9b5a99d0bcd4411",
+      "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
+      "url": "https://go.vansh.nyc/1Kc",
+      "location": "Cupertino, CA, New York, NY, Seattle, WA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "bbd0c482ae527217ac7cd7702475aab54e3d2bc1",
       "title": "Software Engineering Intern — Dublin (Hybrid, Mentored & Impactful)",
@@ -121,13 +128,6 @@
       "title": "Intern - Software Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer?utm_source=freehire.me",
       "location": "Cork",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
-    },
-    {
-      "id": "27308efea924bf8bc1491a6f14a9b3d2d53de20d",
-      "title": "AI Operations, Applied AI Research and Design Developer",
-      "url": "https://go.vansh.nyc/1mi",
-      "location": "Cupertino, CA",
       "firstSeenAt": "2026-11-08T11:04:42.595Z"
     }
   ]

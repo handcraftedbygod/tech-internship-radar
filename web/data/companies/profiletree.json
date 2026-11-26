@@ -2,21 +2,21 @@
   "slug": "profiletree",
   "name": "profiletree",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "caea01d5fdbe39b581e2ba7a983714ed85978654",
+      "title": "Entry Level Web Developer (WordPress)",
+      "url": "",
+      "location": "Belfast, County Antrim, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "932f8db4cb2e024412b79609eb58e049b6cc96df",
       "title": "Entry Level Web Developer (WordPress)",

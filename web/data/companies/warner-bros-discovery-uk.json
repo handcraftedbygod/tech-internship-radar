@@ -1,0 +1,64 @@
+{
+  "slug": "warner-bros-discovery-uk",
+  "name": "Warner Bros. Discovery, UK",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-26T13:34:44.534Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "9b4856e8db293387f89445c74ff50e21dbdf162c",
+      "title": "CNN London Digital Programming Intern",
+      "url": "",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "d0f8531221ec32837ea219397fefea0c23518b51",
+      "title": "CNN London Business Programming Intern",
+      "url": "",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "ef91bd81bceae1396731038854f6d53ce6aee23c",
+      "title": "CNN London News Programming (Current Affairs) Intern",
+      "url": "",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    }
+  ]
+}

@@ -2,21 +2,21 @@
   "slug": "retable",
   "name": "Retable",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "57530175412ef17a0d3e7755e2c693a5dd900e4a",
+      "title": "Frontend Developer Intern",
+      "url": "",
+      "location": "Kingston upon Thames, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "18f57e4fac8d6683949e4d694ed035e3cc9fdac9",
       "title": "Remote Frontend Developer Internship | No-Code SaaS",

@@ -2,14 +2,14 @@
   "slug": "reply",
   "name": "Reply, Inc.",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 7,
+  "totalPostings": 8,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Katowice",
@@ -28,7 +28,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     },
     {
       "id": "swe",
@@ -47,10 +47,17 @@
     3,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6b0af313bccb0b7fa7b8ac99f3a4fd34fa012738",
+      "title": "Junior Data Engineer: Build Data Pipelines & Dashboards",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "f9bf6ffc216b8e465ed1f147fd2f6b8e1be3844e",
       "title": "Junior Data Engineer: Build Data Pipelines & Dashboards",

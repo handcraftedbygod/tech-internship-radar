@@ -2,25 +2,25 @@
   "slug": "noblis",
   "name": "Noblis",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c245e5edc7185de75f5523fab0c9ffbf33e5bbf6",
+      "title": "AI/ML Research Intern",
+      "url": "https://go.vansh.nyc/1Ja",
+      "location": "United States",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "5c64f8dbd741af3b6ad99a7e23629923f914c54d",
       "title": "Data Innovations Intern",

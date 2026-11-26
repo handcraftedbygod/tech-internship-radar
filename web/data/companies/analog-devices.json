@@ -2,9 +2,9 @@
   "slug": "analog-devices",
   "name": "Analog Devices",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 10,
+  "totalPostings": 11,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
@@ -18,6 +18,10 @@
     {
       "hub": "Boston",
       "count": 2
+    },
+    {
+      "hub": "Austin",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -29,7 +33,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -43,10 +47,17 @@
     1,
     0,
     5,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c4556dcfc2a8aac5a84982738423ce9ade8740dd",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Jb",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "20b34ce2d34c94d7d615256f8c324249273a41d6",
       "title": "Associate Engineer, Quality Engineering",
@@ -109,13 +120,6 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125?utm_source=freehire.me",
       "location": "Spain, Valencia, Cortes Valencianas",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "b914d21663ef3b53d18ee7d02d59ddf9162eda79",
-      "title": "FY27  Engineering Intern – Hardware, Software & Systems",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/FY27--Engineering-Intern---Hardware--Software---Systems_R265309?utm_source=freehire.me",
-      "location": "Spain, Valencia, Cortes Valencianas",
-      "firstSeenAt": "2026-08-22T04:33:07.684Z"
     }
   ]
 }

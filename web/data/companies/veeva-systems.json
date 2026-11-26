@@ -2,13 +2,17 @@
   "slug": "veeva-systems",
   "name": "Veeva Systems",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 2
+    },
+    {
+      "hub": "Boston",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cda45181f7381092b5a523b8b3631132cf3872b3",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1JN",
+      "location": "Pleasanton, CA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "6be9a1666534661e267e042a01acb9270277898e",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1JM",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "374b3596a93af1ca925655f29cb21b805ffbe7f8",
       "title": "New Grad 2027: Associate Software Engineer",

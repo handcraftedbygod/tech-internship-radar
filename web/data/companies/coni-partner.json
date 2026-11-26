@@ -2,21 +2,21 @@
   "slug": "coni-partner",
   "name": "coni+partner AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "19380e5da3b58f94cc653c76d406473d2dda6858",
+      "title": "(Junior) Data Scientist / Strategic Marketing / Fund Investment",
+      "url": "",
+      "location": "Zürich",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "90f9972ecb2d9234e00b141e1e0edff3ccb895d8",
+      "title": "(Junior) Data Scientist / Strategic Marketing / Fund Investment",
+      "url": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/junior-data-scientist-strategic-marketing-fund-investment-zurich-118133",
+      "location": "Zürich",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "aa9d0f8f6b17b996a0e23852a2d520af564c816d",
       "title": "(Junior) Marketing Data Scientist / Fund Investment",

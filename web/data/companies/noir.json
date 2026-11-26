@@ -2,9 +2,9 @@
   "slug": "noir",
   "name": "Noir",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 55,
+  "totalPostings": 56,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 24
+      "count": 25
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 44
+      "count": 45
     },
     {
       "id": "design",
@@ -39,10 +39,17 @@
     15,
     11,
     15,
-    14,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "414f0775f5838801b26741c6200c6bb17242e86f",
+      "title": "Junior .NET Developer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5976149730?utm_medium=api&utm_source=aa2b179f",
+      "location": "Monument, Central London",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "cea77b1115127226e9e32c494665fcf4794e9ad4",
       "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
@@ -104,13 +111,6 @@
       "title": ".NET Developer, Graduate / Junior",
       "url": "https://www.reed.co.uk/jobs/net-developer-graduate-junior/57512901?utm_source=freehire.me",
       "location": "Manchester",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "ff64fb73d243a7ffe4a57b130396044bc1bd558f",
-      "title": "Graduate / Junior Developer, Python, Linux, C#, Java - London",
-      "url": "https://www.reed.co.uk/jobs/graduate-junior-developer-python-linux-c-java-london/57512004?utm_source=freehire.me",
-      "location": "London",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]

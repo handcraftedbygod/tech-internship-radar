@@ -2,20 +2,25 @@
   "slug": "gravis-robotics",
   "name": "Gravis Robotics",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Zurich",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "877da91b24034a46036411b5e7ae2e65a9aeefff",
+      "title": "Data Engineer Intern",
+      "url": "",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "834bbf6cf5b17eb23106f73571902291ca4561a1",
       "title": "Software Engineer Intern - Robotics Platform",

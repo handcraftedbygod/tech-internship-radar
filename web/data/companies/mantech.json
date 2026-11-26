@@ -2,26 +2,26 @@
   "slug": "mantech",
   "name": "ManTech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 3,
+  "totalPostings": 6,
   "avgPostingDurationDays": 8.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
+      "id": "swe",
+      "label": "Software",
+      "count": 4
+    },
+    {
       "id": "ai",
       "label": "Data / AI",
       "count": 2
-    },
-    {
-      "id": "swe",
-      "label": "Software",
-      "count": 1
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,31 @@
     0,
     0,
     2,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "916337b7d1ac31d6cc25a7c335bb1ba2702103f0",
+      "title": "Junior Data Analyst",
+      "url": "https://go.vansh.nyc/1JG",
+      "location": "Ashburn, VA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "1c706c144ac08bc7cd81960ac3745d05d0ba796d",
+      "title": "Developer Intern, C++",
+      "url": "https://go.vansh.nyc/1K6",
+      "location": "Remote, United States",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "2eebe6b818cefaf8de3580e0d8111958f8262113",
+      "title": "Developer Intern, C++",
+      "url": "https://go.vansh.nyc/1JD",
+      "location": "Lexington Park, MD",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "78ad8cd32d04e1aba029c2ece79327a6c9a2496f",
       "title": "CNO Developer Intern",

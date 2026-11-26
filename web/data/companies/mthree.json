@@ -1,22 +1,22 @@
 {
   "slug": "mthree",
-  "name": "mThree",
+  "name": "mthree",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     2,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0d251333047eabc1620fe8b64ec4b0aa117291f3",
+      "title": "Junior Full Stack Software Engineer (Java & React)",
+      "url": "",
+      "location": "Ireland",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "19621f81b671762bc38c81b7bf59238c06c5bec6",
       "title": "Junior Full Stack Software Engineer (Java & React)",

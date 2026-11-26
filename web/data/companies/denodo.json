@@ -2,21 +2,21 @@
   "slug": "denodo",
   "name": "Denodo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4da4c9a4c5913586706b074dca23160f478e2c36",
+      "title": "Junior Java Developer — Platform Innovator",
+      "url": "",
+      "location": "Galicia, Spain",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "5865ada26d4132616cfcb2bce3a8e558fb81d7d8",
       "title": "Junior Java Developer — Platform Innovator",

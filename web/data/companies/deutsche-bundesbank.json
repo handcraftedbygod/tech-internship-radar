@@ -2,13 +2,17 @@
   "slug": "deutsche-bundesbank",
   "name": "Deutsche Bundesbank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-04T11:53:30.631Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 7.2,
   "topLocations": [
     {
       "hub": "Frankfurt",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fb1857281e6fde42d92471caf3d9f991ab498034",
+      "title": "Praktikum im Bereich Data Engineering/Data Science des Generaldirektorats Finanzstabilität",
+      "url": "",
+      "location": "Innenstadt, Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "236a74eb7c9cb2bad7d94c1db5acfbacdf8c8085",
       "title": "Praktikum im Bereich Data Engineering/Data Science des Generaldirektorats Finanzstabilität",

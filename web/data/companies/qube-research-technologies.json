@@ -2,9 +2,9 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 28.6,
   "topLocations": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
@@ -30,7 +30,7 @@
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -44,10 +44,17 @@
     1,
     4,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6803fcfbc737682d91d26ed086c6a1ccc340358b",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "url": "",
+      "location": "London, Paris, Wrocław, Zurich, Dubai, Amsterdam",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "7c47b86e25271f6212e2940c096b3866a485f092",
       "title": "2027 - Internship, Business Data Analytics ",

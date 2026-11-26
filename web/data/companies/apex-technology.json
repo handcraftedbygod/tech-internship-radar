@@ -2,21 +2,21 @@
   "slug": "apex-technology",
   "name": "Apex Technology, Inc.",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-06T11:51:47.337Z",
-  "totalPostings": 2,
+  "totalPostings": 4,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Los Angeles",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,24 @@
     0,
     0,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f314c54039b7331b6d35ff054d53ae175f682688",
+      "title": "Flight Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Jg",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "7cfe23c1bb50d6aceea87d648f0a365449e97a63",
+      "title": "Software Engineering Intern, Operating Systems",
+      "url": "https://go.vansh.nyc/1Jf",
+      "location": "Los Angeles, CA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "dbd704ebe5e0893b606dbabf5572e17b00085341",
       "title": "Software Engineer Intern, Test Automation",

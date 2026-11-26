@@ -2,9 +2,9 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 20,
+  "totalPostings": 21,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
@@ -13,14 +13,14 @@
     },
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 14
+      "count": 15
     },
     {
       "id": "swe",
@@ -39,10 +39,17 @@
     6,
     10,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "97e1eedbd1e9a29fef31ae495e15f2ed159060f9",
+      "title": "Praktikant Qualitätsmanagement Digitalisierung, KI und Data Analytics (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1657526-1-S",
+      "location": "Dingolfing",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "93a183b4d4532c00e4645768682d53eba8ad614b",
       "title": "Praktikant Automatisierung, Data Analytics & AI im Finance (w/m/x)",
@@ -105,13 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631637-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-14T09:36:22.352Z"
-    },
-    {
-      "id": "98f22961aea686c24277619c3d5fa52246aeb788",
-      "title": "Werkstudent Technologieentwicklung Batteriezelle und Data Analytics (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631161-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-11T08:36:12.324Z"
     }
   ]
 }

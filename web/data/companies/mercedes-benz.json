@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 10,
+  "currentOpenings": 11,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 61,
-  "avgPostingDurationDays": 12.3,
+  "totalPostings": 63,
+  "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 49
+      "count": 51
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 27
+      "count": 29
     },
     {
       "id": "design",
@@ -56,10 +56,24 @@
     19,
     10,
     14,
-    18,
+    20,
     0
   ],
   "recentPostings": [
+    {
+      "id": "83b04acb8a81e17352a0bf81252765b9ccbb3727",
+      "title": "Praktikant*in Data Engineering und Machine Learning für die Fehlerdiagnose elektrischer Antriebe",
+      "url": "",
+      "location": "Sindelfingen, Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "4b248bc08e812978e1d2a37edd923f627b38abdb",
+      "title": "Werkstudent*in Data Analytics Prozess, Methode und Tooling für Way of Working",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1657330-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "ba76f54273d3ae2922a79339950bd85f054ec186",
       "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
@@ -115,20 +129,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655158-1-S",
       "location": "Böblingen",
       "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "284e55cbe4ec65aa71547ffd0e6ddd82b2195e0b",
-      "title": "Praktikant Software Engineering - AI Defect Analysis (m/w/d/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654989-1-S",
-      "location": "Stuttgart",
-      "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "c481d034bc769c5b2bde3923bcb2b91b7295e60d",
-      "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1654259-1-S",
-      "location": "Sindelfingen",
-      "firstSeenAt": "2026-11-17T12:49:11.259Z"
     }
   ]
 }

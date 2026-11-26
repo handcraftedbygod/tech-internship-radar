@@ -2,21 +2,21 @@
   "slug": "formfactor",
   "name": "FormFactor",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d7f2665fc21b89f2bce9780035931d080d771637",
+      "title": "AI/ML Engineering Intern",
+      "url": "https://go.vansh.nyc/1K1",
+      "location": "Livermore, CA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "8f06baa3cef35fc2919370689996a1e409da08bf",
       "title": "Electrical Design Automation Intern, AI & EDA Automation",

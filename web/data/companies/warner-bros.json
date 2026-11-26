@@ -1,0 +1,64 @@
+{
+  "slug": "warner-bros",
+  "name": "Warner Bros.",
+  "tier": null,
+  "currentOpenings": 3,
+  "firstTrackedAt": "2026-11-26T13:34:44.534Z",
+  "totalPostings": 3,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "13e0f4eff870494dea63ada1cf70d256a816df44",
+      "title": "CNN London News Programming (Current Affairs) Intern",
+      "url": "",
+      "location": "London, 160 Old Street",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "a2fb95c0119ce9bc83236814682bea4e99eaf05c",
+      "title": "CNN London Digital Programming Intern",
+      "url": "",
+      "location": "London, 160 Old Street",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "0f47cbcd38c44d4d7bfbc35f45e0f1db91427a36",
+      "title": "CNN London Business Programming Intern",
+      "url": "",
+      "location": "London, 160 Old Street",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    }
+  ]
+}

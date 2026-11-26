@@ -2,14 +2,14 @@
   "slug": "itv",
   "name": "ITV",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "674f01c13c07d26072334130005cfad5ddb83211",
+      "title": "Junior Data Analyst",
+      "url": "",
+      "location": "United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "9849455dfaea5c3c4a37c2af75f08d6a83e12135",
       "title": "Junior Data Analyst",

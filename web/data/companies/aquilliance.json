@@ -2,21 +2,21 @@
   "slug": "aquilliance",
   "name": "aquilliance GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-07T10:41:15.202Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a687be4ab6715a8c9365636d32a129045d261f4a",
+      "title": "(Junior) Software Entwickler:in (m/w/d) | Java / Python / Apex (Anwendungsprogrammierer/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzE1MDk0LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "f60bdd97ccaa8d47bd17e0c244f184daa8714e46",
       "title": "(Junior) Software Entwickler:in (m/w/d) | Java / Python / Apex",

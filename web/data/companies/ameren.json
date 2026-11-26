@@ -2,20 +2,25 @@
   "slug": "ameren",
   "name": "Ameren",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad85811d4c85c747cf4d2b27d0312f073cb71bef",
+      "title": "Data Analyst, Business Analytics",
+      "url": "https://go.vansh.nyc/1Ka",
+      "location": "St. Louis, MO",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "865dd713f84ac414c087968f144b36eac3955f58",
       "title": "Robotics, AI, OT, Software Development Intern",

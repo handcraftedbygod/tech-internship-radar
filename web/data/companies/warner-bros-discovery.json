@@ -2,11 +2,15 @@
   "slug": "warner-bros-discovery",
   "name": "Warner Bros. Discovery",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "London",
+      "count": 3
+    },
     {
       "hub": "Other",
       "count": 2
@@ -16,11 +20,16 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 3
     },
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 1
     }
   ],
@@ -35,10 +44,31 @@
     0,
     0,
     0,
-    2,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2cc10ca859cf2963a82e110fe2d640fdf7065a47",
+      "title": "CNN London News Programming (Current Affairs) Intern",
+      "url": "",
+      "location": "London, London, City of",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "13d2f9f23ee8a3910ea7cf81ebd030ec339f3f48",
+      "title": "CNN London Digital Programming Intern",
+      "url": "",
+      "location": "London, London, City of",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "e3c7969b98793263c399d1f1b3f0c4fe1d7efc06",
+      "title": "CNN London Business Programming Intern",
+      "url": "",
+      "location": "London, London, City of",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "6a38ca8fb2368301ef1173898aa2ee67995c65ea",
       "title": "Data Engineering Co-op, WB Games",

@@ -1,0 +1,45 @@
+{
+  "slug": "relocue",
+  "name": "Relocue",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-26T13:34:44.534Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "ee77bdc9122bd11280f75954476f31faa5597892",
+      "title": "Junior Go Backend Developer",
+      "url": "",
+      "location": "Hamburg, Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    }
+  ]
+}

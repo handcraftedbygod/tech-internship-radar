@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 56,
+  "totalPostings": 57,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Vancouver",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 31
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    14,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "830f339d43b9df8f7c5352f140b1f74e45b0ef5d",
+      "title": "Security Engineer I Intern",
+      "url": "https://go.vansh.nyc/1JA",
+      "location": "Research Triangle Park, NC",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "cbc3140e8f72c33cd5fdf3995f1b6cee4dec6754",
       "title": "AI Cybersecurity Engineer I Intern",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1ok",
       "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "f4abcdceefceeb48edfd9f791c61099f44693796",
-      "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345?utm_source=freehire.me",
-      "location": "Krakow, Poland",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
     }
   ]
 }

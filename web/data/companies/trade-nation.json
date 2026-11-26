@@ -2,21 +2,21 @@
   "slug": "trade-nation",
   "name": "Trade Nation",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "74e0d3886545ebf4b90860f38e2cf94c87b19595",
+      "title": "Junior QA Engineer",
+      "url": "",
+      "location": "London, England, United Kingdom",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "c7f66e1d46382fb2c0e59ec23d54ebe7b9283399",
       "title": "Junior QA Engineer",

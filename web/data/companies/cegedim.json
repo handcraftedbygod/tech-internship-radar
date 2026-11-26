@@ -2,21 +2,21 @@
   "slug": "cegedim",
   "name": "Cegedim",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-12T11:42:11.675Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cd2ed7bbab3320ccaf121b51e203221713ea1284",
+      "title": "Junior Data Engineer - IA & Data Pipelines",
+      "url": "",
+      "location": "Boulogne Billancourt, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "1430ab50ff0af799f6f9413a20e9ba4a14d3a4a0",
       "title": "Junior Data Engineer: IA-Driven Recommendations & Pipelines",

@@ -2,14 +2,14 @@
   "slug": "genworth",
   "name": "Genworth",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 8.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bf2b150cd25229015cbc808b9369f357347e9194",
+      "title": "Data Analytics Intern",
+      "url": "https://go.vansh.nyc/1Jc",
+      "location": "Richmond, VA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "ae02a4167bf003e3300a8900a0d4b85fa181b185",
       "title": "Risk Modeling Intern",

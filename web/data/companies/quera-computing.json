@@ -2,20 +2,25 @@
   "slug": "quera-computing",
   "name": "QuEra Computing",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Boston",
-      "count": 1
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -30,10 +35,24 @@
     0,
     0,
     0,
-    1,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "324ce5c5aea081c77f9f39e23a61302755efe612",
+      "title": "Data Management Intern",
+      "url": "https://go.vansh.nyc/1JZ",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "c687c51604ba6a98bd77030fa74366483a35dbe8",
+      "title": "Technical Product Management Intern",
+      "url": "https://go.vansh.nyc/1JY",
+      "location": "Boston, MA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "0a818613811dd483671dec3cb797f48a66e1b0ea",
       "title": "Site Reliability Engineer Co-op",

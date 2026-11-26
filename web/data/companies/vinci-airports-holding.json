@@ -2,25 +2,25 @@
   "slug": "vinci-airports-holding",
   "name": "VINCI Airports Holding",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-17T04:41:48.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 28.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 1
-    },
-    {
       "id": "swe",
       "label": "Software",
+      "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +35,17 @@
     1,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "611d790cec81b577a72700ed6eda9128b38b856e",
+      "title": "Stagiaire Data Analyst – Commercial Data Performance F/H",
+      "url": "",
+      "location": "1973 Bd de la Défense, 92000 Nanterre, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "4f4a243e4d6715a5ffb2deb7c155e2408ebb25e6",
       "title": "Stagiaire Data Analyst – Commercial Data Performance F/H",

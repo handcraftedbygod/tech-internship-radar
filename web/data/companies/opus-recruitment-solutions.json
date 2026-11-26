@@ -2,21 +2,21 @@
   "slug": "opus-recruitment-solutions",
   "name": "Opus Recruitment Solutions Ltd",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-23T14:03:22.430Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b363971b41466e28c5b376226a3bce20a50c4869",
+      "title": "Junior DevOps (Support) Engineer",
+      "url": "",
+      "location": "Wokingham, Berkshire",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "67e4e801ef606213a2f28c020edd25e98b057b76",
       "title": "Junior DevOps Engineer - Hybrid, On-Call, NHS Impact",

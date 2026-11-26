@@ -2,26 +2,26 @@
   "slug": "pinterest",
   "name": "Pinterest",
   "tier": "notable",
-  "currentOpenings": 1,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 22,
-  "avgPostingDurationDays": 39.8,
+  "totalPostings": 26,
+  "avgPostingDurationDays": 36.7,
   "topLocations": [
     {
       "hub": "San Francisco",
       "count": 7
     },
     {
-      "hub": "New York",
-      "count": 5
-    },
-    {
       "hub": "Zurich",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Dublin",
-      "count": 4
+      "count": 6
+    },
+    {
+      "hub": "New York",
+      "count": 5
     },
     {
       "hub": "Toronto",
@@ -32,12 +32,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 10
+      "count": 12
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 10
     },
     {
       "id": "design",
@@ -66,10 +66,38 @@
     0,
     0,
     18,
-    4,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8b41a69106d4fd5cc543a92cb7a1a54d5a21d70b",
+      "title": "Machine Learning Intern 2027 (Dublin)",
+      "url": "",
+      "location": "Dublin, IE",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "af05b4ab43f7100c111fd0b497c861ff026a33b4",
+      "title": "Software Engineering Intern 2027 (Zurich)",
+      "url": "",
+      "location": "Zurich, CH",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "aadf8a005a40b5aae91ed67c290cb050a97fee17",
+      "title": "Software Engineering Intern 2027 (Dublin)",
+      "url": "",
+      "location": "Dublin, IE",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "e84ee4562ee5e9f5bc1aa8eb048ef3587a3ea132",
+      "title": "Machine Learning Intern 2027 (Zurich)",
+      "url": "",
+      "location": "Zurich, CH",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "0017765fd72c1cfc05c8559a87dd3d54fa92db17",
       "title": "Sales Analytics Intern 2027 (USA)",
@@ -111,34 +139,6 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922&utm_source=freehire.me",
       "location": "Dublin, IE",
       "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "1c1f339dd372177df3287755c27d77c91f9b4a19",
-      "title": "Machine Learning Intern 2027 (Dublin)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
-      "location": "Dublin, IE",
-      "firstSeenAt": "2026-10-06T11:19:20.947Z"
-    },
-    {
-      "id": "a4db3f8ae36c2b9b7c252bd3b8f925528581cbb7",
-      "title": "Software Engineering Intern 2027 (Dublin)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034&utm_source=freehire.me",
-      "location": "Dublin, IE",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "7287198d337b1e47c8f8bad4bfc10130369b1134",
-      "title": "Software Engineering Intern 2027 (Zurich)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745&utm_source=freehire.me",
-      "location": "Zurich, CH",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
-    },
-    {
-      "id": "c40d84a6745ed0fab97a4721b5d74d5c86d7b124",
-      "title": "Machine Learning Intern 2027 (Zurich)",
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757&utm_source=freehire.me",
-      "location": "Zurich, CH",
-      "firstSeenAt": "2026-10-03T09:43:01.413Z"
     }
   ]
 }

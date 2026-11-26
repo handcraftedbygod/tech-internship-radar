@@ -2,14 +2,14 @@
   "slug": "tomtom",
   "name": "Tomtom",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-07T10:55:40.226Z",
-  "totalPostings": 5,
-  "avgPostingDurationDays": 10.1,
+  "totalPostings": 7,
+  "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
       "hub": "Amsterdam",
-      "count": 4
+      "count": 6
     },
     {
       "hub": "Lodz",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
@@ -39,10 +39,24 @@
     0,
     0,
     0,
-    5,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "138629ffd4b7b9ddef9c51bdd617ea609d526f83",
+      "title": "Software Engineering Internship - API Management",
+      "url": "",
+      "location": "Amsterdam, The Netherlands",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "a58c610b3a32789cbae4c703476739ea17955488",
+      "title": "Software Engineering Internship - API Management",
+      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/software-engineering-internship-api-management-amsterdam-the-netherlands-291887",
+      "location": "Amsterdam, The Netherlands",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "4b8ee70f34d227d7d86dce189b1291193934b7fd",
       "title": "Software Engineer Internship",

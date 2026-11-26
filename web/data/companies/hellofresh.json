@@ -4,12 +4,12 @@
   "tier": null,
   "currentOpenings": 15,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 46,
-  "avgPostingDurationDays": 32.1,
+  "totalPostings": 47,
+  "avgPostingDurationDays": 33.1,
   "topLocations": [
     {
       "hub": "Berlin",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 29
+      "count": 30
     },
     {
       "id": "biz",
@@ -56,10 +56,17 @@
     8,
     14,
     12,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d8838ebbb0f2225a44a4a6280c8cd11c0f295c76",
+      "title": "[DACH HQ] Junior Compliance Specialist (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8416570?gh_jid=8416570",
+      "location": "Berlin, Berlin, Germany",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "4710aff3f03ebbdef65b994a9afa8eb94f1cd932",
       "title": "Product Monetization Operations intern (M/F/X) ",
@@ -121,13 +128,6 @@
       "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
       "url": "https://www.arbeitnow.fr/jobs/companies/hellofresh/growth-strategy-data-analyst-intern-paris-paris-293261",
       "location": "Paris, Paris",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
-    },
-    {
-      "id": "e3682c967c8b7be776776d8a20d70cd87ecbcf09",
-      "title": "Junior Sourcing Manager",
-      "url": "https://careers.hellofresh.com/global/en/job/8288720?gh_jid=8288720",
-      "location": "Paris, Paris, France",
       "firstSeenAt": "2026-10-17T08:18:10.076Z"
     }
   ]

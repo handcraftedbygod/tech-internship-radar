@@ -2,14 +2,14 @@
   "slug": "aerospace",
   "name": "Aerospace Corporation",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 19
+      "count": 20
     }
   ],
   "topDisciplines": [
@@ -31,7 +31,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -45,10 +45,17 @@
     0,
     0,
     11,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0dbba11cb405527d6d23dcda6dc33a90744ec895",
+      "title": "Machine Learning Engineer Undergrad Intern",
+      "url": "https://go.vansh.nyc/1Jh",
+      "location": "El Segundo, CA, Chantilly, VA",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "3bf90b767653e84a3e2280ad342a5755a83cb34b",
       "title": "Embedded Software Engineering Undergrad Intern",
@@ -110,13 +117,6 @@
       "title": "Defensive Cyber Operations Intern",
       "url": "https://go.vansh.nyc/h5",
       "location": "El Segundo, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "058807bec4bc4414792396695eefd082aa64c5a5",
-      "title": "Cloud Solutions Engineer Intern, Site Reliability",
-      "url": "https://go.vansh.nyc/gq",
-      "location": "El Segundo, CA, Chantilly, VA, Colorado Springs, CO",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

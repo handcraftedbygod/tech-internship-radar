@@ -1,0 +1,52 @@
+{
+  "slug": "wafx",
+  "name": "Wafx",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-26T13:34:44.534Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "1f2172ff9a8bde20c6d91965ac3b2ba83f024c2e",
+      "title": "Junior Fullstack Developer (.Net Angular) - Portugal - 16/11/26",
+      "url": "",
+      "location": "Porto, Porto",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "8f33c3e3d0a9dd499df61d3c1d6547e5cfb77a1a",
+      "title": "Junior Fullstack Developer: .NET & Angular (Azure)",
+      "url": "",
+      "location": "Porto, Porto",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    }
+  ]
+}

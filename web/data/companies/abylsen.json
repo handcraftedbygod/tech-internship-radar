@@ -1,0 +1,52 @@
+{
+  "slug": "abylsen",
+  "name": "Abylsen",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-26T13:34:44.534Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Paris",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "cd19d8c1099447c42cfadca136b554bab2ec4cd4",
+      "title": "Data Engineer Snowflake Junior X/ F/H",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "b24a88701d60fed70d40cef15cf53f2a3e86d5a6",
+      "title": "Junior Snowflake Data Engineer - Build Modern Warehouses",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    }
+  ]
+}

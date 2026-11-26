@@ -2,14 +2,14 @@
   "slug": "canopee",
   "name": "Canopee Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-18T12:41:19.497Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
     },
     {
       "id": "biz",
@@ -39,10 +39,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "32b496fc6b89ce7ced37842ff8bd473c879e5ce1",
+      "title": "Développeur Python Junior – Backend",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
+    {
+      "id": "a4b62d88762e721164387b66f791ae426ad7f800",
+      "title": "Développeur Python Backend Junior — FinTech & Observabilité",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-26T13:34:44.534Z"
+    },
     {
       "id": "3c9f160fa0e0e88811beb3c79077f8a83183fa96",
       "title": "Développeur Python Junior – Backend",
