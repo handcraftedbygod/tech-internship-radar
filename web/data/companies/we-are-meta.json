@@ -2,13 +2,17 @@
   "slug": "we-are-meta",
   "name": "We are META",
   "tier": "elite",
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-26T13:34:44.534Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Lisbon",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f2c28a723cc49fd8bc847b5fea0d321151da913d",
+      "title": "Junior Data Scientist",
+      "url": "",
+      "location": "Alfragide, PT",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "48034b4e1c6f3c3f2a883dca755962a4f582b6b1",
       "title": "Junior Data Science",

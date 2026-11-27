@@ -2,18 +2,18 @@
   "slug": "asml",
   "name": "ASML",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 36,
-  "avgPostingDurationDays": 10,
+  "totalPostings": 40,
+  "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 26
+      "count": 29
     },
     {
       "hub": "San Francisco",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Austin",
@@ -24,12 +24,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 20
+      "count": 22
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 16
+      "count": 18
     }
   ],
   "hiringMonths": [
@@ -43,10 +43,38 @@
     2,
     2,
     18,
-    14,
+    18,
     0
   ],
   "recentPostings": [
+    {
+      "id": "fa8da8c2b6c203249fe7c5224aa8214e3c6cf631",
+      "title": "Data & AI Intern, Controls",
+      "url": "https://go.vansh.nyc/1KZ",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "730c4f083d3543c2cd73dbf470ae9b68602d9cf8",
+      "title": "Timing and Energy Software Intern",
+      "url": "https://go.vansh.nyc/1KY",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "b81bcbdad33001f86d464c9e3523a5cb353a3bdb",
+      "title": "AI Engineer Co-op",
+      "url": "https://go.vansh.nyc/1KW",
+      "location": "San Jose, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "4b53915750859b1e17f0cf978c128e3c99659b67",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1KQ",
+      "location": "San Diego, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "7355daf1c74d1b8716624dc05c00cf685fa58a43",
       "title": "Artificial Intelligence | Data Science Internship: AI process optimization",
@@ -88,34 +116,6 @@
       "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Business-Analytics-internship--procurement-analytics-dashboards_J-00356273?utm_source=freehire.me",
       "location": "Veldhoven, Netherlands",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "a183fe7d27f8b150212f03c33d1f8bdd3e542f7c",
-      "title": "Data Analytics | Computer Science internship: quality intelligence dashboard",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Analytics---Computer-Science-internship--quality-intelligence-dashboard_J-00354821?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "8ab5e6b7818e131e47db563eb6388850c381cc5d",
-      "title": "Data Science | Software Engineering internship: software automation development",
-      "url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Data-Science---Software-Engineering-internship--software-automation-development_J-00356675?utm_source=freehire.me",
-      "location": "Veldhoven, Netherlands",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "64f8aa5a3203235fbb02b437073c23e50a553c20",
-      "title": "AI Engineer Co-op",
-      "url": "https://go.vansh.nyc/1pk",
-      "location": "San Diego, CA",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "94c524d36dc0138af4943a0081638f9dd54688e7",
-      "title": "Internship - Application Software QA Engineer",
-      "url": "https://www.themuse.com/jobs/asml/internship-application-software-qa-engineer",
-      "location": "San Jose, CA",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }
   ]
 }

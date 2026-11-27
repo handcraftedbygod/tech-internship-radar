@@ -2,14 +2,14 @@
   "slug": "apple",
   "name": "Apple",
   "tier": "elite",
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 35,
+  "totalPostings": 36,
   "avgPostingDurationDays": 12.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 12
+      "count": 13
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ai",
@@ -56,10 +56,17 @@
     0,
     2,
     21,
-    12,
+    13,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6267737beb7768dab83175ed52a340d5a7e38729",
+      "title": "Software Engineering Intern, App Intelligence Experience",
+      "url": "",
+      "location": "Cambridge",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "9847d9953bfbd2e3db8b3f44f9b5a99d0bcd4411",
       "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
@@ -122,13 +129,6 @@
       "url": "https://go.vansh.nyc/1s1",
       "location": "Sunnyvale, CA",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "7c0de2f0293173253f8c28c50e3eb714e179383f",
-      "title": "Intern - Software Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer?utm_source=freehire.me",
-      "location": "Cork",
-      "firstSeenAt": "2026-11-08T11:04:42.595Z"
     }
   ]
 }

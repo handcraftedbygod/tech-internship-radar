@@ -2,21 +2,25 @@
   "slug": "excelia",
   "name": "Excelia",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-15T04:30:16.064Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 11.3,
   "topLocations": [
     {
       "hub": "Madrid",
       "count": 3
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1e39e8d004c4f16683d4ed9a4e79a33eaea33e4f",
+      "title": "Junior Backend Developer",
+      "url": "",
+      "location": "",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "6db4b1967febcb718557d69ced4416607b25a340",
       "title": "Backend Junior - Node.js, Python, .NET",

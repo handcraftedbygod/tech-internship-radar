@@ -2,14 +2,14 @@
   "slug": "qube-research-technologies",
   "name": "Qube Research & Technologies",
   "tier": "trading",
-  "currentOpenings": 3,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 7,
+  "totalPostings": 11,
   "avgPostingDurationDays": 28.6,
   "topLocations": [
     {
       "hub": "London",
-      "count": 5
+      "count": 9
     },
     {
       "hub": "Amsterdam",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 5
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 4
     },
     {
       "id": "quant",
@@ -44,10 +44,38 @@
     1,
     4,
     0,
-    2,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c38639b3ad99fe5efd489d030464e03fec9a4fc4",
+      "title": "2027 - Internship, Business Data Analytics ",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "54ea0283a7b33c58c8b6a34acf0ce5964922b0f6",
+      "title": "2027 - Internship, Data Engineering",
+      "url": "",
+      "location": "Paris, London",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "a1b25ffffe5a0cdb03abada9e0bc08fed540bb59",
+      "title": "2027 Internship – Security Engineer ",
+      "url": "",
+      "location": "London, Paris, New York",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "8aae7639a2433ca271a7bdc5f9089ff4fdef548c",
+      "title": "2027 – Internship, Infrastructure Engineer ",
+      "url": "",
+      "location": "London, Paris",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "6803fcfbc737682d91d26ed086c6a1ccc340358b",
       "title": "2027 - Internship, Software Engineering and Quantitative Development",
@@ -89,13 +117,6 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002?utm_source=freehire.me",
       "location": "Paris, London",
       "firstSeenAt": "2026-09-10T08:41:45.967Z"
-    },
-    {
-      "id": "25e2479edf58e0bc7e90cfa29d7aff62a02943d6",
-      "title": "2026 Internship - Software Engineer",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8562105002?utm_source=freehire.me",
-      "location": "London",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

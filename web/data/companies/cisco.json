@@ -2,9 +2,9 @@
   "slug": "cisco",
   "name": "Cisco",
   "tier": null,
-  "currentOpenings": 5,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 57,
+  "totalPostings": 58,
   "avgPostingDurationDays": 9.5,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Vancouver",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 31
+      "count": 32
     },
     {
       "id": "ai",
@@ -66,10 +66,17 @@
     1,
     8,
     33,
-    15,
+    16,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9014b2aca3cedbb46b9bba70b241c9783e36f610",
+      "title": "Software Developer I",
+      "url": "https://go.vansh.nyc/1KK",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "830f339d43b9df8f7c5352f140b1f74e45b0ef5d",
       "title": "Security Engineer I Intern",
@@ -132,13 +139,6 @@
       "url": "https://go.vansh.nyc/1sE",
       "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "b5f4e0094c11a442262a49cb09146b7c5ba9f1ae",
-      "title": "Software Engineer Intern, Full-Stack / Backend I",
-      "url": "https://go.vansh.nyc/1ok",
-      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
     }
   ]
 }

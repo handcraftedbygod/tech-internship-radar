@@ -2,14 +2,14 @@
   "slug": "sparta-global",
   "name": "Sparta Global",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     1,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d83e1f8364b30eca6dac5f91c0839e09772b43da",
+      "title": "Junior Cyber Security Engineer - Manchester",
+      "url": "https://www.adzuna.co.uk/jobs/details/5980483712?utm_medium=api&utm_source=aa2b179f",
+      "location": "Manchester, Greater Manchester",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "4ed3fce619aadbaf2dd21996027f0b49db47a8c1",
       "title": "Junior Data Analyst (Gen AI)",

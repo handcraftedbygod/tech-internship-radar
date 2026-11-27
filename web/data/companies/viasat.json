@@ -2,14 +2,14 @@
   "slug": "viasat",
   "name": "ViaSat",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,7 +21,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,17 @@
     0,
     0,
     0,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3c95f94f1027224671c65ccf168745e38657ae16",
+      "title": "Embedded Software Engineer Intern, Government",
+      "url": "https://go.vansh.nyc/1Kl",
+      "location": "Tempe, AZ",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "08cc4a08feff88a2f3647ff52f64f3fd783a455f",
       "title": "Embedded Software Engineer Intern",

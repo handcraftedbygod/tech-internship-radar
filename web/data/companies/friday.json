@@ -2,13 +2,17 @@
   "slug": "friday",
   "name": "Friday",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3a284fa7d4f128e49f41c412dd5a1d0106cae970",
+      "title": "Junior Cloud Backend Engineer inom IoT",
+      "url": "",
+      "location": "Malmö, Skåne län, Sverige",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "1f0f9daa07e94c0d09955586b2d7c20df3298c01",
       "title": "Junior Fullstack Developer",

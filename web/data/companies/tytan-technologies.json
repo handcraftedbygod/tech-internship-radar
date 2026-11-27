@@ -2,21 +2,21 @@
   "slug": "tytan-technologies",
   "name": "TYTAN Technologies GmbH",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-24T04:44:21.499Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 4
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "ai",
@@ -35,10 +35,17 @@
     1,
     0,
     2,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a770b2e86c7335359290ef8d16865b12fd7b07ff",
+      "title": "Working Student - Flight Log Analysis Software (m/f/d)",
+      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-flight-log-analysis-software-munich-380432",
+      "location": "Munich, Bayern, Germany",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "2b7ac73ce19822d3d72341a74dcf56e604a0051a",
       "title": "Working Student – Data Engineering & MLOps (m/f/d)",

@@ -2,25 +2,30 @@
   "slug": "samsung",
   "name": "Samsung",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 5
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +40,24 @@
     0,
     1,
     0,
-    2,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a00d67afb6f47766e52a96d38d0f2fc568f15243",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/1L4",
+      "location": "Mountain View, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "d3abf6b6b902c1c8eeba15f84a67238f95d76193",
+      "title": "Data Engineer Intern",
+      "url": "https://go.vansh.nyc/1L3",
+      "location": "Plano, TX",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "7978e50efef6fdb4e00b580c1e6e9475fc10e04c",
       "title": "Business Intelligence & Data Analytics Intern",

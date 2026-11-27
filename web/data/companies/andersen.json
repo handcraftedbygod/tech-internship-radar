@@ -1,0 +1,45 @@
+{
+  "slug": "andersen",
+  "name": "Andersen",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-27T13:32:33.915Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Warsaw",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "111f107283bfb8124e65f4def023d9b69f81726c",
+      "title": "Junior Frontend Developer (React) in India",
+      "url": "",
+      "location": "Warsaw, Poland",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    }
+  ]
+}

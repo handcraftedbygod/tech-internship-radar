@@ -2,13 +2,17 @@
   "slug": "ds-stream",
   "name": "DS STREAM",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Warsaw",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e229e957d38367e51bec5f4e22a8b7ee554f1ee2",
+      "title": "Junior Data Engineer (GCP) - 0,5 FTE @ DS STREAM",
+      "url": "",
+      "location": "Poland",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "0ebc769c9ade5eb619c26fd366ca7fb9d218df8d",
       "title": "Junior Data Engineer (GCP) - 0,5 FTE",

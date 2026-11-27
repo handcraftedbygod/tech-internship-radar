@@ -1,0 +1,57 @@
+{
+  "slug": "umb",
+  "name": "UMB",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-27T13:32:33.915Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "273dea0bb07a761a707e1aed4cacad9e70b70151",
+      "title": "IT Quantum Intern",
+      "url": "https://go.vansh.nyc/1L8",
+      "location": "Kansas City, MO",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "53118cfb3037fc0346d0842c2fc958bcf304d523",
+      "title": "AI Intern",
+      "url": "https://go.vansh.nyc/1L1",
+      "location": "Kansas City, MO",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    }
+  ]
+}

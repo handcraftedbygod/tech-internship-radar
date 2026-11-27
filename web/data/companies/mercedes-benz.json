@@ -2,14 +2,14 @@
   "slug": "mercedes-benz",
   "name": "Mercedes-Benz Group AG",
   "tier": null,
-  "currentOpenings": 11,
+  "currentOpenings": 13,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 63,
+  "totalPostings": 65,
   "avgPostingDurationDays": 12.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 51
+      "count": 53
     },
     {
       "hub": "Stuttgart",
@@ -37,7 +37,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 29
+      "count": 31
     },
     {
       "id": "design",
@@ -56,10 +56,24 @@
     19,
     10,
     14,
-    20,
+    22,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3632743546f4f76097a638ee097e3b9d6bcaf390",
+      "title": "Praktikant*in UI Navigation Data Scientist für Kundendaten",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1658081-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "89f8ba9794fd65fd9aa018c4b41765a5adf1fadb",
+      "title": "Praktikant*in Data Engineering und Machine Learning für die Fehlerdiagnose elektrischer Antriebe",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1658526-1-S",
+      "location": "Sindelfingen",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "83b04acb8a81e17352a0bf81252765b9ccbb3727",
       "title": "Praktikant*in Data Engineering und Machine Learning für die Fehlerdiagnose elektrischer Antriebe",
@@ -115,20 +129,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1620788-3-S",
       "location": "Sindelfingen",
       "firstSeenAt": "2026-11-20T12:32:34.034Z"
-    },
-    {
-      "id": "5a0880f2fcef96e7693a040a17e25f570c56f925",
-      "title": "Praktikant*in Data Analytics & Business Intelligence – Connected Car & After Sales (Pflicht-Praktikum)",
-      "url": "https://jobs.mercedes-benz.com/praktikant-in-data-analytics-business-intelligence-connected-car-after-sales-pflicht-praktikum--247487-MER0004A6Z?utm_source=freehire.me",
-      "location": "Stuttgart, Germany",
-      "firstSeenAt": "2026-11-19T12:32:20.459Z"
-    },
-    {
-      "id": "aec47c70e4d70d2fa89c4741c533a6f4b6b224c8",
-      "title": "Praktikant*in Customer Data & Data Analytics für automatisierte Fahrfunktionen",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1655158-1-S",
-      "location": "Böblingen",
-      "firstSeenAt": "2026-11-19T12:32:20.459Z"
     }
   ]
 }

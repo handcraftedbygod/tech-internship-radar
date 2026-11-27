@@ -2,21 +2,21 @@
   "slug": "lockheed-martin",
   "name": "Lockheed Martin",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-27T09:37:35.915Z",
-  "totalPostings": 9,
+  "totalPostings": 10,
   "avgPostingDurationDays": 12.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 9
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 7
+      "count": 8
     },
     {
       "id": "hw",
@@ -35,10 +35,17 @@
     0,
     0,
     3,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95fd09c8a9bdf99cbcc7faeaae53efe30b79a9c2",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ki",
+      "location": "Fort Worth, TX",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "c66a3498343f19b467f9a55bcd861831dca9bc14",
       "title": "FPGA Engineer Intern, Security Focus",

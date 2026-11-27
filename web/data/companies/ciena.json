@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 15
+      "count": 16
     },
     {
       "hub": "Montreal",
@@ -25,7 +25,7 @@
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ai",
@@ -49,10 +49,17 @@
     0,
     0,
     11,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "43f87ba371dc9f6a7e28166f521915b4c51232bb",
+      "title": "New Grad: Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1KJ",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "8620f49307080a21c3ccac4734d6660981aefa76",
       "title": "New Grad: Software Engineering",
@@ -115,13 +122,6 @@
       "url": "https://go.vansh.nyc/ZC",
       "location": "Ottawa, Canada",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "b691b0165739211239786e3ac4a1a563c485de14",
-      "title": "New Grad: Routing/IP Software Engineer",
-      "url": "https://go.vansh.nyc/Ym",
-      "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-29T10:44:48.298Z"
     }
   ]
 }

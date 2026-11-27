@@ -4,19 +4,19 @@
   "tier": null,
   "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 17,
+  "totalPostings": 18,
   "avgPostingDurationDays": 11.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 17
+      "count": 18
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -40,10 +40,17 @@
     0,
     0,
     9,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4141c63c904881ea56458baa269feb4d24bb65de",
+      "title": "Vehicle Software Integration Engineer Intern",
+      "url": "https://go.vansh.nyc/1Km",
+      "location": "United States",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "360b7b624c70f459be5e05e9d1c3b0a32ed597dc",
       "title": "Vehicle Software Integration Engineer Intern",
@@ -106,13 +113,6 @@
       "url": "https://go.vansh.nyc/11R",
       "location": "United States",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "f6ad77154c963c285f818d9431e1abefa23fc7a0",
-      "title": "Application Developer Intern",
-      "url": "https://go.vansh.nyc/WV",
-      "location": "Chillicothe, OH",
-      "firstSeenAt": "2026-10-28T10:22:09.805Z"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "slug": "sambanova-systems",
   "name": "SambaNova Systems",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-11-24T14:35:41.877Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Austin",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "San Francisco",
@@ -20,12 +20,12 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     },
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -39,10 +39,24 @@
     0,
     0,
     0,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "561330e82561458d74104d3de49edd5e3bb36f18",
+      "title": "ML Infrastructure Engineer Intern",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "4fd6d09c68efe92fde109a8856684cc576c7aa7d",
+      "title": "Machine Learning Engineer Intern ",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+      "location": "Austin, TX",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "38571f7ad36b2798e3301d86f5071f69dc20679e",
       "title": "ML Infrastructure Engineer - New Grad",

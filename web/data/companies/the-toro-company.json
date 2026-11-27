@@ -2,14 +2,14 @@
   "slug": "the-toro-company",
   "name": "The Toro Company",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-18T08:35:22.194Z",
-  "totalPostings": 3,
+  "totalPostings": 4,
   "avgPostingDurationDays": 8.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     }
   ],
   "topDisciplines": [
@@ -21,6 +21,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +40,17 @@
     0,
     0,
     3,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f860bb46e11c377d4f458b954a4db4264c120ceb",
+      "title": "Data Science Intern",
+      "url": "https://go.vansh.nyc/1L5",
+      "location": "Bloomington, MN",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "0f3de72f0b6825f07ba6e3c31c1a4cb4aa1e660c",
       "title": "Cloud Software Development Intern",

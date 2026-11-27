@@ -2,13 +2,17 @@
   "slug": "m-nchener-verein-versicherungsgruppe",
   "name": "Münchener Verein Versicherungsgruppe",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Munich",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f9fae6e753a023eab3bda2b337ff25b3e8158e85",
+      "title": "Werkstudent Data Engineering - Fokus Data Governance und Metadata (m/w/d)",
+      "url": "https://www.adzuna.de/land/ad/5980041322?se=yvTaXCvq8RG_-5ugYQfc3w&utm_medium=api&utm_source=aa2b179f&v=D6BF327A12DBCDB04C938B107258A7340E654A2B",
+      "location": "Deutschland",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "0343a56a637f1f93c42e172179b7b72e61845659",
       "title": "Werkstudent Data Engineering - Fokus Data Governance und Metadata (m/w/d)",

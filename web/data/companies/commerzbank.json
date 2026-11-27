@@ -2,14 +2,14 @@
   "slug": "commerzbank",
   "name": "Commerzbank AG",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 16,
+  "totalPostings": 17,
   "avgPostingDurationDays": 14.5,
   "topLocations": [
     {
       "hub": "Lodz",
-      "count": 11
+      "count": 12
     },
     {
       "hub": "Frankfurt",
@@ -35,6 +35,11 @@
       "id": "quant",
       "label": "Quant",
       "count": 1
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -48,10 +53,17 @@
     13,
     1,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95f8fbc5351908f719e15b480d5eb0258930042e",
+      "title": "Junior Full-Stack Developer (Java/Angular) – Growth Ready",
+      "url": "",
+      "location": "Łódź, Poland",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "9ae2b765eaa94e0dd715586b4d4bbbb24fe9780d",
       "title": "Junior Software Specialist (m/f/d)",
@@ -112,13 +124,6 @@
       "id": "2f85a7bea2bc154f3d46880307274b1f057883a7",
       "title": "Praktikant*in im Bereich Big Data & Advanced Analytics - Projektcontrolling Artificial Intelligence",
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1616845-1-S",
-      "location": "Frankfurt am Main",
-      "firstSeenAt": "2026-08-12T05:32:37.326Z"
-    },
-    {
-      "id": "59ee9b3e9915e25229e22de83b16c0f3d772215d",
-      "title": "IT Trainee - Software Engineer/Developer",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12846-1551635-6-S",
       "location": "Frankfurt am Main",
       "firstSeenAt": "2026-08-12T05:32:37.326Z"
     }

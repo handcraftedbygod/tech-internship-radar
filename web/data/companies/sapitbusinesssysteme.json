@@ -2,21 +2,26 @@
   "slug": "sapitbusinesssysteme",
   "name": "SAPITBusinessSysteme",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-09T12:33:55.591Z",
-  "totalPostings": 4,
+  "totalPostings": 7,
   "avgPostingDurationDays": 7.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,31 @@
     0,
     0,
     0,
-    4,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4ea211bf843612d9673b705993a17be8dce471a7",
+      "title": "Working Student (f/m/d) - Outdated libraries reduction at scale and AI cybersecurity findings handling",
+      "url": "",
+      "location": "Walldorf, de",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "5f1ff65178746bfd25e5c2b3d3dfb34256cea7f7",
+      "title": "Working Student (f/m/d) - Software Development - Talent Management system",
+      "url": "",
+      "location": "Walldorf, Baden-Württemberg, de",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "ad33c06a4481e0f25fcd18e0636d79248cdb64cb",
+      "title": "Internship – Research Intern & Machine Learning Scientist",
+      "url": "",
+      "location": "Levallois-Perret, IDF, fr",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "f150fd969ebc16acaa0dfec58a93559cd2e94076",
       "title": "Werkstudent (w/m/d) - Cloud Developer for SAP Document AI",

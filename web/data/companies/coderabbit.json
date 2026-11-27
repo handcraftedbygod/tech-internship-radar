@@ -2,21 +2,21 @@
   "slug": "coderabbit",
   "name": "CodeRabbit",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-26T13:34:44.534Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d419c5e48f14c008c9ece681a8a30b5701dfce90",
+      "title": "Software Engineer - Intern ",
+      "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "77af18f123f6c95229aae0de4fa44cf9a008a6f1",
       "title": "New Grad: Software Engineer",

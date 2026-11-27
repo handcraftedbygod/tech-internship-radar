@@ -2,14 +2,14 @@
   "slug": "itv",
   "name": "ITV",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8ba0ea73c567d37b65b14285a27dabcb8135ee81",
+      "title": "Junior Software Engineer",
+      "url": "",
+      "location": "Leeds, West Yorkshire, United Kingdom",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "674f01c13c07d26072334130005cfad5ddb83211",
       "title": "Junior Data Analyst",

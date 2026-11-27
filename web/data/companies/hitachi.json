@@ -2,14 +2,14 @@
   "slug": "hitachi",
   "name": "Hitachi",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-11T05:08:26.876Z",
-  "totalPostings": 13,
+  "totalPostings": 14,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ai",
@@ -44,10 +44,17 @@
     1,
     0,
     9,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bdf8ecf81b1e1c5dd41e128677fd0241fd673ca8",
+      "title": "Software Analyst",
+      "url": "https://go.vansh.nyc/1KL",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "b5daa2f2455a17f9377773da2dd5a5914e04ad24",
       "title": "Software Analyst",
@@ -110,13 +117,6 @@
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
       "location": "Norman, OK",
       "firstSeenAt": "2026-10-23T09:07:55.300Z"
-    },
-    {
-      "id": "2e818f9657b8a374b835198f6a407d6ec5fc4905",
-      "title": "Software Engineering Co-op",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
-      "location": "Liberty, SC",
-      "firstSeenAt": "2026-10-22T09:11:21.738Z"
     }
   ]
 }

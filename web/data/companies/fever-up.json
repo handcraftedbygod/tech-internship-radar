@@ -2,21 +2,21 @@
   "slug": "fever-up",
   "name": "Fever Up",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 15.6,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6da58011a54e41f714bddb16f7b389d8562cfc4d",
+      "title": "Junior People Operations Data Analyst ",
+      "url": "",
+      "location": "Madrid",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "468c3b8a87d75304a4c86d3456204f2d697fa204",
       "title": "Junior People Operations Data Analyst ",

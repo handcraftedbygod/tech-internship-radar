@@ -2,14 +2,14 @@
   "slug": "atoms",
   "name": "Atoms",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "New York",
@@ -26,14 +26,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 3
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 2
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -47,10 +47,17 @@
     1,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12f27d048385dd4803ae32b78428d7f7ddbc22e5",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1KH",
+      "location": "San Francisco, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "6f03ce21f8ba4ba6a93b2070e3126dda892a1789",
       "title": "New Grad: AI Researcher",

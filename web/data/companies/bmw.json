@@ -2,25 +2,25 @@
   "slug": "bmw",
   "name": "BMW AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 21,
+  "totalPostings": 24,
   "avgPostingDurationDays": 11.6,
   "topLocations": [
     {
       "hub": "Munich",
-      "count": 19
+      "count": 20
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 15
+      "count": 18
     },
     {
       "id": "swe",
@@ -39,10 +39,31 @@
     6,
     10,
     0,
-    5,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1ca5a01e9758d532438c5687ae480d87cda68d16",
+      "title": "Praktikant Predictive Maintenance und Data Analytics (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1658442-1-S",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "03e9d8d0165af4001978bada3325bed134298572",
+      "title": "Praktikant Data Analytics und Prozessoptimierung (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1658425-1-S",
+      "location": "München",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "5b82e276b9a4d0737cfda168c213501ef1dc26b0",
+      "title": "Praktikant Data Analytics & AI Physische Logistik (w/m/x)",
+      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1657980-1-S",
+      "location": "Regensburg",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "97e1eedbd1e9a29fef31ae495e15f2ed159060f9",
       "title": "Praktikant Qualitätsmanagement Digitalisierung, KI und Data Analytics (w/m/x)",
@@ -91,27 +112,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1636318-1-S",
       "location": "München",
       "firstSeenAt": "2026-09-25T09:25:18.654Z"
-    },
-    {
-      "id": "da18d94f0690b61da90af3ee0323648ddcff668b",
-      "title": "Praktikant Data Engineering und Frontend-Entwicklung (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1633895-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-18T08:48:05.182Z"
-    },
-    {
-      "id": "c55b189cca92c91f98decd3f6bba4d862ab4683e",
-      "title": "Praktikant Data Analytics & agiles Projektmanagement (w/m/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1632094-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-15T09:14:39.865Z"
-    },
-    {
-      "id": "9d8bd5a6006f9cac9e6d920aebab5730f2605811",
-      "title": "Praktikant Data Science & AI in der Montageplanung (m/w/x)",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1631637-1-S",
-      "location": "München",
-      "firstSeenAt": "2026-09-14T09:36:22.352Z"
     }
   ]
 }

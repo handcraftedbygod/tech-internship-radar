@@ -2,21 +2,21 @@
   "slug": "siemens-healthineers",
   "name": "Siemens Healthineers",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     },
     {
       "id": "swe",
@@ -35,10 +35,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ba79be837049f72feec7f635425448d30874b64a",
+      "title": "Werkstudent*in (w/m/d) Quality Management, Data Analytics & Digitalization",
+      "url": "",
+      "location": "Kemnath, Bavaria",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "418ada6e4ae2442efc9f42edbbf5796ac6975219",
       "title": "R&D Electronics & Software Engineering Intern",

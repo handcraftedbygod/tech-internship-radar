@@ -2,14 +2,14 @@
   "slug": "la-international-computer-consultants",
   "name": "LA International Computer Consultants Ltd",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-29T10:44:48.298Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "06a68575f6529af140906858dfd3b527b297e5b0",
+      "title": "Junior Mobile Developer",
+      "url": "",
+      "location": "SW1A 2AH, City of Westminster, England, United Kingdom",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "6a3c61c2250b77b805509c69043915a89d9e86fd",
       "title": "Hybrid Junior Java Developer – London (6m Contract)",

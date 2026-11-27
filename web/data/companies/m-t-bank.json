@@ -2,21 +2,26 @@
   "slug": "m-t-bank",
   "name": "M&T Bank",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-24T08:40:19.613Z",
-  "totalPostings": 8,
+  "totalPostings": 10,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 8
+      "count": 9
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,24 @@
     0,
     0,
     2,
-    6,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c38ceaf827eb712eae2f96202e5fd929d11d9dd0",
+      "title": "New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms)",
+      "url": "https://go.vansh.nyc/1Ln",
+      "location": "Buffalo, NY",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "cbfeebc141d0fc5e0455d82bb37283642eb023f4",
+      "title": "New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development)",
+      "url": "https://go.vansh.nyc/1Lm",
+      "location": "Buffalo, NY",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "c74a704a0f82c9faed0499d4b59e3373daccfbac",
       "title": "New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identity & Access Management)",

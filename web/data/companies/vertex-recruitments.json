@@ -2,21 +2,21 @@
   "slug": "vertex-recruitments",
   "name": "Vertex Recruitments",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-03T09:43:01.413Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1b763055d98dc3de6c2b92ff10dbceb6718fd992",
+      "title": "Trainee Data Engineer @ Vertex Recruitments",
+      "url": "",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "84a76fe631d0b77ebaa30b2e45542419bc800a94",
       "title": "Trainee Data Engineer @ Vertex Recruitments",

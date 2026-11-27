@@ -2,14 +2,18 @@
   "slug": "lseg",
   "name": "lseg",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "London",
       "count": 2
+    },
+    {
+      "hub": "New York",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "biz",
       "label": "Business",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -35,10 +44,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0b45fcc165f311fa845681160b0674a404ac96f2",
+      "title": "New Grad 2027: AI Product & Business Associate",
+      "url": "https://go.vansh.nyc/1Lo",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "5e062c032dc58927af1d12c8b4fc01e0a8f541d2",
       "title": "Finance Software Engineer Intern – Cloud & Python",

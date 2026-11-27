@@ -2,14 +2,14 @@
   "slug": "siemens",
   "name": "Siemens AG",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 6,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 59,
+  "totalPostings": 61,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 39
+      "count": 41
     },
     {
       "hub": "Munich",
@@ -28,12 +28,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 24
+      "count": 25
     },
     {
       "id": "hw",
@@ -57,10 +57,24 @@
     17,
     15,
     14,
-    13,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8d519c0c740fd37462a9cd73dce969360fdfcf5f",
+      "title": "Agentic Analytics & Data Intern",
+      "url": "https://go.vansh.nyc/1Ll",
+      "location": "United States",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "e1f2f2299ed7f5521ea4dc1d288efc50795ded1b",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Lk",
+      "location": "United States",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "4314dc1c4e33aea33786e7ee601d9b21efe09e27",
       "title": "Werkstudent (w/m/d) IT Processes, Data Analytics & Automation",
@@ -116,20 +130,6 @@
       "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1653667-1-S",
       "location": "Amberg, Oberpfalz",
       "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "118b3e90711d904218d181e53196eb168713362d",
-      "title": "Werkstudent (w/m/d) im Bereich Software-/KI-Entwicklung für Business Applikationen",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1652270-1-S",
-      "location": "Leipzig",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "74f4f4464d2a95bafadc7aa40fe123613375c15f",
-      "title": "Werkstudent (w/m/d)  im Bereich Software Entwicklung und Projektleitung",
-      "url": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1651848-1-S?utm_source=freehire.me",
-      "location": "Erlangen, BAYERN, DEUTSCHLAND",
-      "firstSeenAt": "2026-11-10T14:17:00.003Z"
     }
   ]
 }

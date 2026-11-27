@@ -1,0 +1,45 @@
+{
+  "slug": "dkb",
+  "name": "DKB",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-27T13:32:33.915Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Berlin",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "f40df3b0a9158fb3d4817fc6e200e7131ffa6dd7",
+      "title": "Junior Data Engineer - Geschäftskunden (m/w/d) (Business-Analyst/in)",
+      "url": "",
+      "location": "Berlin, Germany",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    }
+  ]
+}

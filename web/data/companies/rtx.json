@@ -2,14 +2,14 @@
   "slug": "rtx",
   "name": "RTX",
   "tier": null,
-  "currentOpenings": 8,
+  "currentOpenings": 10,
   "firstTrackedAt": "2026-08-05T06:26:39.961Z",
-  "totalPostings": 69,
-  "avgPostingDurationDays": 9.8,
+  "totalPostings": 72,
+  "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 68
+      "count": 71
     },
     {
       "hub": "San Francisco",
@@ -20,12 +20,12 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 60
+      "count": 61
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 7
+      "count": 9
     },
     {
       "id": "biz",
@@ -49,10 +49,31 @@
     1,
     0,
     30,
-    38,
+    41,
     0
   ],
   "recentPostings": [
+    {
+      "id": "41bf364fa829b8a192b99a26ebde3d7f1143c281",
+      "title": "Embedded System Engineering Intern",
+      "url": "https://go.vansh.nyc/1L2",
+      "location": "Windsor Locks, CT",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "55a0cf067b6ddd9824d18f8749aca056ed06b432",
+      "title": "FPGA Electrical Engineer Intern",
+      "url": "https://go.vansh.nyc/1KX",
+      "location": "El Segundo, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "1143376c1421778d2e4fb9faee1abe9812b16dd6",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1KS",
+      "location": "Ft Wayne, IN",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "8fbcac0577e76177b6bbf507df5684a3495a0f4d",
       "title": "Software Engineer I",
@@ -101,27 +122,6 @@
       "url": "https://go.vansh.nyc/1A3",
       "location": "El Segundo, CA",
       "firstSeenAt": "2026-11-16T12:28:17.000Z"
-    },
-    {
-      "id": "4f3b55f26313378e61fde3bfa2cdbeb972e59f98",
-      "title": "Software Engineering Co-op",
-      "url": "https://go.vansh.nyc/1zb",
-      "location": "Richardson, TX",
-      "firstSeenAt": "2026-11-14T11:15:38.078Z"
-    },
-    {
-      "id": "244575d71a586b85d0fb7677b9208d4a9a5049d2",
-      "title": "Associate Software Engineer I, CDS / Engine System Software",
-      "url": "https://go.vansh.nyc/1w2",
-      "location": "Etc, CT",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "91c2f0b9df3a7475b6a7e02e10652203a883acea",
-      "title": "Software Engineer I",
-      "url": "https://go.vansh.nyc/1uL",
-      "location": "Cedar Rapids, IA",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

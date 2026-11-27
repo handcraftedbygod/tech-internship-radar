@@ -1,0 +1,45 @@
+{
+  "slug": "drooms",
+  "name": "Drooms",
+  "tier": null,
+  "currentOpenings": 1,
+  "firstTrackedAt": "2026-11-27T13:32:33.915Z",
+  "totalPostings": 1,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Frankfurt",
+      "count": 1
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "721c93fb22aee9175de82d3827b5fe8bc7069a75",
+      "title": "Junior Systems Engineer – Microsoft 365 & Windows (f/m/d)",
+      "url": "",
+      "location": "Frankfurt, Hesse, Germany",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    }
+  ]
+}

@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 20,
+  "currentOpenings": 21,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 74,
+  "totalPostings": 75,
   "avgPostingDurationDays": 32.3,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 36
+      "count": 37
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 37
+      "count": 38
     },
     {
       "id": "biz",
@@ -66,10 +66,17 @@
     10,
     17,
     7,
-    13,
+    14,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1c9d2085fa213a2e50ec6dd4be9d30de36d9813c",
+      "title": "Intern Demo Experience & Applied AI",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8208057003?gh_jid=8208057003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "403a1053dd7bd81342cdffc890209f2cf15d4f9d",
       "title": "Strategy & Operations Working Student",
@@ -131,13 +138,6 @@
       "title": "Associate Deployment Engineer",
       "url": "https://go.vansh.nyc/1ki",
       "location": "Raleigh, NC",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
-    },
-    {
-      "id": "130b87fa16a4f7c87a5719e95e9127c9fa24f937",
-      "title": "Associate Deployment Engineer",
-      "url": "https://go.vansh.nyc/1kh",
-      "location": "New York, NY",
       "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }
   ]

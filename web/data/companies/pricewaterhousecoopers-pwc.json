@@ -2,21 +2,21 @@
   "slug": "pricewaterhousecoopers-pwc",
   "name": "PricewaterhouseCoopers (PwC)",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-16T09:06:53.007Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "biz",
       "label": "Business",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "786421ce00b5de5541a7ac510e1771abaf98d56c",
+      "title": "Software Engineering Intern, Tax Innovation Delivery Experience (TIDE)",
+      "url": "https://go.vansh.nyc/1L7",
+      "location": "United States",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "aa3c62abd4a9cee657f1cc1f4b1d86f8c67db8c4",
       "title": "Ingénieur Full Stack IA for Audit Junior - F/H",

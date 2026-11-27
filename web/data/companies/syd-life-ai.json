@@ -2,13 +2,17 @@
   "slug": "syd-life-ai",
   "name": "Syd Life AI",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-23T14:03:22.430Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
+      "count": 1
+    },
+    {
+      "hub": "London",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e201ded079a79217c8e5db49cd5b5610c2f4054d",
+      "title": "Junior Software Engineer",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "36222e0171a4366367deb082a4af4900690d54c5",
       "title": "Junior Software Engineer",

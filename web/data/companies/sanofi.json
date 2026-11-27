@@ -2,14 +2,14 @@
   "slug": "sanofi",
   "name": "Sanofi",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-08T04:55:09.600Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 11.8,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -21,6 +21,11 @@
       "id": "ai",
       "label": "Data / AI",
       "count": 4
+    },
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     1,
     1,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "39cd1215f2bd225c5258f35740e0b5d82704e0d6",
+      "title": "NCES Statistician Expert Intern, AI",
+      "url": "https://go.vansh.nyc/1L9",
+      "location": "Cambridge, MA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "1f8d2a34068711b0954f3f167746616f3df7fd0b",
       "title": "Data Science & Digital Transformation Co-op",

@@ -2,21 +2,21 @@
   "slug": "first-premier-bank",
   "name": "First PREMIER Bank",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-22T12:18:53.586Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "a531e5208135ffdfa4563938e7f8ac490ce789c4",
+      "title": "IT Architecture Intern",
+      "url": "https://go.vansh.nyc/1KG",
+      "location": "Sioux Falls, SD",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "f82d1ba22a5518eb730c707fc6e0ccd8efda3c23",
       "title": "Information Security Intern",

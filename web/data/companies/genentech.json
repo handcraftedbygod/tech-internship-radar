@@ -2,21 +2,30 @@
   "slug": "genentech",
   "name": "Genentech",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9.1,
   "topLocations": [
     {
       "hub": "San Francisco",
-      "count": 2
+      "count": 4
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 4
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +39,31 @@
     0,
     0,
     2,
-    0,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "c7cb4f1179ea989af92d9133797611b7209ea531",
+      "title": "Community College Program Intern, Informatics",
+      "url": "https://go.vansh.nyc/1Li",
+      "location": "South San Francisco, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "a4bd077ecb7731cc66f11de23a4d4383b9db8f8a",
+      "title": "Service Data and Analytics Intern",
+      "url": "https://go.vansh.nyc/1L0",
+      "location": "Indianapolis, IN",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
+    {
+      "id": "45a51c95d3bb4bca478d571fd0d9418e74f4e62c",
+      "title": "Software Engineer Intern, Robotics Lab Automation",
+      "url": "https://go.vansh.nyc/1KV",
+      "location": "South San Francisco, CA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "16b0f6070bdf52f9f476281d729701a64d6273ba",
       "title": "Product Technical Development Intern, Digital Sciences Focus",

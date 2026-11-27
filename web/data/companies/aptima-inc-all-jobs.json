@@ -2,20 +2,25 @@
   "slug": "aptima-inc-all-jobs",
   "name": "Aptima Inc. (All Jobs)",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-25T13:55:54.997Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9f28a3b14444a819bc4e6909818c163739093702",
+      "title": "AI Engineer Intern",
+      "url": "https://go.vansh.nyc/1KA",
+      "location": "Woburn, MA",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "55128012eabdd892dd1b15cdae42c93d76ccf89b",
       "title": "Software Engineer Intern",

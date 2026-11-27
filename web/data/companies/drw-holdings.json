@@ -2,21 +2,21 @@
   "slug": "drw-holdings",
   "name": "DRW Holdings",
   "tier": "trading",
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-20T04:37:20.742Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "London",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1133d0226050c8c012b70507c0964f1f928487df",
+      "title": "Software Developer Intern - Industrial Placement",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-27T13:32:33.915Z"
+    },
     {
       "id": "ddc29675e152585107f1169986d1ac78cb287c4d",
       "title": "Software Developer Intern - Industrial Placement",
