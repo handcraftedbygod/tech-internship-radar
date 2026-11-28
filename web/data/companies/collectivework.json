@@ -2,26 +2,26 @@
   "slug": "collectivework",
   "name": "Collective.work",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 27,
+  "totalPostings": 33,
   "avgPostingDurationDays": 10.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 27
+      "count": 33
     }
   ],
   "topDisciplines": [
     {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 17
+    },
+    {
       "id": "swe",
       "label": "Software",
       "count": 13
-    },
-    {
-      "id": "ai",
-      "label": "Data / AI",
-      "count": 11
     },
     {
       "id": "design",
@@ -40,10 +40,52 @@
     0,
     4,
     8,
-    15,
+    21,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b1817b7476917b281b2eb70ad40a888e88041b2e",
+      "title": "Data Engineer DevOps Junior (1-3 ans) - Azure / Terraform / Fabric @ Marseille - Freelance (H/F)",
+      "url": "",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "f9c4280605c820ec216606b44529251a15f5366b",
+      "title": "Data Engineer Junior (1-3 ans) - PySpark / SQL / dbt / Data Modeling @ Marseille - Freelance (H/F)",
+      "url": "",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "a447b7551aa9e0f81486c7b6e417ddf7e140101e",
+      "title": "Data Engineer Junior (1-3 ans) - Azure / CDC / Microsoft Fabric @ Marseille - Freelance (H/F)",
+      "url": "",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "7e9760f48fc3ac69e2868f461fc31c2d3e2bc1b5",
+      "title": "Data Engineer DevOps Junior (1-3 ans) - Azure / Terraform / Fabric @ Marseille - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTMwMjMzNCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "4b88dc1dc083efd2a5ba8a5f33a0648e67f3b7c5",
+      "title": "Data Engineer Junior (1-3 ans) - Azure / CDC / Microsoft Fabric @ Marseille - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTMwMjM4MCA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "8ef832a0e0489ec9d8d2d6d1da9f8dba94509acb",
+      "title": "Data Engineer Junior (1-3 ans) - PySpark / SQL / dbt / Data Modeling @ Marseille - Freelance (H/F)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/OTMwMjMzOSA5?lang=en",
+      "location": "France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "82d6987e14b8e500acd887a21213233befc182b9",
       "title": "Développeur Full Stack Java / Angular Junior (H/F) - CDI",
@@ -71,48 +113,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODkxNTkzNiA5?lang=en",
       "location": "France",
       "firstSeenAt": "2026-11-17T12:49:11.259Z"
-    },
-    {
-      "id": "0bd45af3b387db4b0ce94968274faa425b944a9a",
-      "title": "Développeur Fullstack Java / Angular - Junior - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc0NDQ3OCA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "fc59aa41644655fdcc4c3e2f78398d76d6ef6bd4",
-      "title": "Designer IA Front-End Junior - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc0NDU3OSA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "11ad93de4d1e5d590dc3f6c094ff7120b9b38484",
-      "title": "Data Engineer BigQuery junior - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5NzgzNyA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "7f0f39d8e1a47810b354387658deed80587f0e1e",
-      "title": "Data Engineer BigQuery junior - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg2MiA5?lang=en&utm_source=freehire.me",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "5c44b07f237b54c1bbbbebed7dc5423564166b7c",
-      "title": "Data Engineer BigQuery junior - Freelance (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5NzgzNyA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
-    },
-    {
-      "id": "ac46e57b92bf42748a42529c09f3ea83ea9cbe75",
-      "title": "Concepteur Power BI / Data Analyst BI junior - CDI (H/F)",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/ODc5Nzg1MCA5?lang=en",
-      "location": "France",
-      "firstSeenAt": "2026-11-13T11:54:08.620Z"
     }
   ]
 }

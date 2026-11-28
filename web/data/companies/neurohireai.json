@@ -2,14 +2,14 @@
   "slug": "neurohireai",
   "name": "neurohire.ai",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-20T12:32:34.034Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
@@ -17,6 +17,11 @@
       "id": "swe",
       "label": "Software",
       "count": 2
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -30,10 +35,17 @@
     0,
     0,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6993613ea8f2469f7d5cf8423e2cacb1a7c23d32",
+      "title": "Data Engineer (Master's)",
+      "url": "https://go.vansh.nyc/1Lz",
+      "location": "Remote, Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "16d4a2bcea5527ef79e5e7ece73f9c7fbbedadda",
       "title": "Python Developer (Master's)",

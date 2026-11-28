@@ -2,14 +2,14 @@
   "slug": "hyrup",
   "name": "hyrUP GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-16T08:47:32.449Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 7.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Munich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     2,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b15401c75dbc60ee340fa258f1181b09ffb6b21f",
+      "title": "(Junior) IT Security Engineer - Crowdstrike (m/w/d) (Sicherheitstechniker/in (IT))",
+      "url": "",
+      "location": "Dortmund, Germany",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "14fb9f412484069a7e6d8e173564150aa98da78e",
       "title": "(Junior-) Network Engineer (m/w/d) (Netzwerkadministrator/in)",

@@ -2,14 +2,14 @@
   "slug": "seidor",
   "name": "Seidor Group",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-15T11:47:58.663Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Madrid",
@@ -24,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -38,10 +38,17 @@
     0,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "aa96f42c5e767ea3ede533c918e15b2885a1c808",
+      "title": "Junior Data Engineer",
+      "url": "",
+      "location": "",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "e73ea8755d3f89231c0895e85b11c313fd86ec6e",
       "title": "Remote Data Engineer Junior — Snowflake, Aws & Sql",

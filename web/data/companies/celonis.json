@@ -2,14 +2,14 @@
   "slug": "celonis",
   "name": "Celonis",
   "tier": "notable",
-  "currentOpenings": 21,
+  "currentOpenings": 22,
   "firstTrackedAt": "2026-07-07T23:12:31.455Z",
-  "totalPostings": 75,
+  "totalPostings": 76,
   "avgPostingDurationDays": 32.3,
   "topLocations": [
     {
       "hub": "Madrid",
-      "count": 37
+      "count": 38
     },
     {
       "hub": "Munich",
@@ -42,7 +42,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 9
+      "count": 10
     },
     {
       "id": "design",
@@ -66,10 +66,17 @@
     10,
     17,
     7,
-    14,
+    15,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0dc5bb0f1991e1fd9b897362e884baa826c9fb64",
+      "title": "Intern AI Solutions & Value Engineering (Agentic Customer Journey)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8213877003?gh_jid=8213877003",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "1c9d2085fa213a2e50ec6dd4be9d30de36d9813c",
       "title": "Intern Demo Experience & Applied AI",
@@ -132,13 +139,6 @@
       "url": "https://job-boards.greenhouse.io/celonis/jobs/8200179003?gh_jid=8200179003",
       "location": "Madrid, Spain",
       "firstSeenAt": "2026-11-10T14:17:00.003Z"
-    },
-    {
-      "id": "3766e1e77baf7c8d08842ef37bb7e3fc0de3b96d",
-      "title": "Associate Deployment Engineer",
-      "url": "https://go.vansh.nyc/1ki",
-      "location": "Raleigh, NC",
-      "firstSeenAt": "2026-11-07T10:55:40.226Z"
     }
   ]
 }

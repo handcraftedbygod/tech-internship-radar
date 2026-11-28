@@ -15,13 +15,6 @@
       "url": "https://www.ycombinator.com/companies/lucebox"
     },
     {
-      "name": "CONUS",
-      "oneLiner": "Medical Device Platform for Hospitals",
-      "batch": "Fall 2026",
-      "location": "Cologne, NRW, Germany",
-      "url": "https://www.ycombinator.com/companies/conus"
-    },
-    {
       "name": "PRINCEPS",
       "oneLiner": "AI-native insurance company for the compute economy",
       "batch": "Summer 2026",
@@ -209,6 +202,13 @@
       "batch": "Summer 2025",
       "location": "Berlin, Berlin, Germany",
       "url": "https://www.ycombinator.com/companies/hera-video"
+    },
+    {
+      "name": "Finto",
+      "oneLiner": "AI accounting for enterprise finance teams",
+      "batch": "Summer 2025",
+      "location": "Munich, BY, Germany",
+      "url": "https://www.ycombinator.com/companies/finto-de"
     }
   ],
   "northAmerica": [
@@ -227,8 +227,15 @@
       "url": "https://www.ycombinator.com/companies/dualizer"
     },
     {
+      "name": "Render",
+      "oneLiner": "AI CMO that puts marketing on autopilot",
+      "batch": "Winter 2027",
+      "location": "San Francisco, CA, USA",
+      "url": "https://www.ycombinator.com/companies/render"
+    },
+    {
       "name": "GatherHQ",
-      "oneLiner": "Applied AI for Enterprise GTM (3x founders, 10x growth, backed by ANT)",
+      "oneLiner": "Applied AI for Enterprise GTM (3x founders, 3x exits)",
       "batch": "Fall 2026",
       "location": "San Francisco, CA, USA",
       "url": "https://www.ycombinator.com/companies/gatherhq"
@@ -414,13 +421,6 @@
       "batch": "Summer 2026",
       "location": "Los Angeles, CA, USA",
       "url": "https://www.ycombinator.com/companies/impact-drones"
-    },
-    {
-      "name": "Runtime",
-      "oneLiner": "Fast, Reliable Agentic Robotics",
-      "batch": "Fall 2026",
-      "location": "San Francisco, CA, USA",
-      "url": "https://www.ycombinator.com/companies/runtime-si"
     }
   ]
 }

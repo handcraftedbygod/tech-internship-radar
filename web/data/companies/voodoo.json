@@ -2,21 +2,21 @@
   "slug": "voodoo",
   "name": "Voodoo",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-27T13:32:33.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Paris",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "051852ea73e0cdc2e52b4376ea8a48b5ebb9259e",
+      "title": "Product Data Analyst - Midcore & Puzzle Games - Internship",
+      "url": "",
+      "location": "Paris",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "98e02b04355dfae46bc234944dcba512ad73c21e",
       "title": "Game Developer - Midcore Games - Internship",

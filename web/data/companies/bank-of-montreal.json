@@ -2,14 +2,18 @@
   "slug": "bank-of-montreal",
   "name": "Bank of Montreal",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-30T10:44:41.092Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Toronto",
       "count": 2
+    },
+    {
+      "hub": "Other",
+      "count": 1
     }
   ],
   "topDisciplines": [
@@ -21,6 +25,11 @@
     {
       "id": "ai",
       "label": "Data / AI",
+      "count": 1
+    },
+    {
+      "id": "swe",
+      "label": "Software",
       "count": 1
     }
   ],
@@ -35,10 +44,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2d4b3c1fd79c420d361cf25998b7819a01b30302",
+      "title": "New Grad: Software Developer",
+      "url": "https://go.vansh.nyc/1LY",
+      "location": "Berkeley Heights, NJ",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "b7ace44f9140758b0c3345306567a434777ab473",
       "title": "AI Developer Co-op",

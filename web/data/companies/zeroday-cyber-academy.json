@@ -2,17 +2,17 @@
   "slug": "zeroday-cyber-academy",
   "name": "Zeroday Cyber Academy",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-11-09T12:33:55.591Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
-      "hub": "Other",
-      "count": 2
+      "hub": "Paris",
+      "count": 3
     },
     {
-      "hub": "Paris",
+      "hub": "Other",
       "count": 2
     }
   ],
@@ -21,6 +21,11 @@
       "id": "swe",
       "label": "Software",
       "count": 4
+    },
+    {
+      "id": "biz",
+      "label": "Business",
+      "count": 1
     }
   ],
   "hiringMonths": [
@@ -34,10 +39,17 @@
     0,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2d5b12c6f8b09f5eb08102641881c85363125248",
+      "title": "I Ingénieur DevOps OPS - Finance - Freelance (H/F) Paris (hybride) ( Hybride ) Freelance · Junior · 410-440 € par jour hier ›",
+      "url": "",
+      "location": "Paris, France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "4efecfc197ba96a9936f481283400f85d393b859",
       "title": "D Développeur Full Stack .NET (67) - Freelance (H/F) Lièpvre ( Non précisé ) Freelance · Junior · 350 € par jour ›",

@@ -2,21 +2,21 @@
   "slug": "cegedim-media",
   "name": "Cegedim-MEDIA",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-15T08:53:46.789Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 12,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "02c9d8789506a57e875b8ca45efa854f004340ea",
+      "title": "Data Engineer Junior H/F - CDD 6 mois - Boulogne-Billancourt",
+      "url": "",
+      "location": "Boulogne Billancourt, France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "f2ad916efd39f505754faab750511dd000a058d1",
       "title": "Junior Data Engineer - AI-Driven Marketing Data Pipelines",

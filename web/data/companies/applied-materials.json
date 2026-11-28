@@ -2,14 +2,14 @@
   "slug": "applied-materials",
   "name": "Applied Materials",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-09-10T08:41:45.967Z",
-  "totalPostings": 19,
+  "totalPostings": 20,
   "avgPostingDurationDays": 9.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 18
+      "count": 19
     },
     {
       "hub": "Austin",
@@ -23,13 +23,13 @@
       "count": 15
     },
     {
-      "id": "biz",
-      "label": "Business",
-      "count": 2
-    },
-    {
       "id": "ai",
       "label": "Data / AI",
+      "count": 3
+    },
+    {
+      "id": "biz",
+      "label": "Business",
       "count": 2
     }
   ],
@@ -44,10 +44,17 @@
     0,
     1,
     15,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f5b3ff9b3b7e34d2fbe0628f76e73853d884a08a",
+      "title": "AI Engineer/Data Scientist",
+      "url": "https://go.vansh.nyc/1Lx",
+      "location": "Santa Clara, CA",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "6775f710a89ace978919d2f9128c8602ac750ac4",
       "title": "Software Engineer II (Master's)",
@@ -108,13 +115,6 @@
       "id": "a42082f810a57243a6619b790f19b30fd06dabc8",
       "title": "Business Intelligence Analyst I",
       "url": "https://go.vansh.nyc/B5",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "3c1bf4b9e495d1ad1aa662c7b4cd49fed44c34b6",
-      "title": "Algorithm Developer (Master's)",
-      "url": "https://go.vansh.nyc/AV",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }

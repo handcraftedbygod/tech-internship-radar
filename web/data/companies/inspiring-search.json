@@ -2,21 +2,21 @@
   "slug": "inspiring-search",
   "name": "Inspiring Search",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-19T04:37:06.222Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 13.2,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     2,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "9700be5153168eb52be7077cee0895091035cae4",
+      "title": "Junior Full-stack Web Developer",
+      "url": "",
+      "location": "Edinburgh, Scotland, United Kingdom",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "4d7a7a6efbbfb0f8725d8d9e19a93e8bc7795b34",
       "title": "Junior Full Stack Developer",

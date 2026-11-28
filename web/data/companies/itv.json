@@ -2,14 +2,14 @@
   "slug": "itv",
   "name": "ITV",
   "tier": null,
-  "currentOpenings": 4,
+  "currentOpenings": 5,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 12.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "London",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 6
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     0,
     1,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "bbc8344e0f8d81d4d297bf4ec76c7218c8218971",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5981642548?utm_medium=api&utm_source=aa2b179f",
+      "location": "Leeds, West Yorkshire",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "8ba0ea73c567d37b65b14285a27dabcb8135ee81",
       "title": "Junior Software Engineer",

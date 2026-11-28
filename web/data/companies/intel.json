@@ -2,9 +2,9 @@
   "slug": "intel",
   "name": "Intel",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-09T11:10:10.640Z",
-  "totalPostings": 34,
+  "totalPostings": 35,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Austin",
-      "count": 2
+      "count": 3
     },
     {
       "hub": "Toronto",
@@ -33,7 +33,7 @@
     {
       "id": "design",
       "label": "Design",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ai",
@@ -52,10 +52,17 @@
     0,
     0,
     24,
-    10,
+    11,
     0
   ],
   "recentPostings": [
+    {
+      "id": "55a7d583f35885bec26180cf4b5d84e391fbe1cd",
+      "title": "Design Verification Engineer Intern",
+      "url": "https://go.vansh.nyc/1M3",
+      "location": "Austin, TX, Santa Clara, CA, Hillsboro, OR, Fort Collins, CO",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "365fdc96009633a16af38c2ed181e7d2878910c5",
       "title": "Design Verification Intern",
@@ -118,13 +125,6 @@
       "url": "https://go.vansh.nyc/1gb",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-04T11:53:30.631Z"
-    },
-    {
-      "id": "3e19725da2dfd897b3c99b6a8739a07752db1be0",
-      "title": "DevOps Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633?utm_source=freehire.me",
-      "location": "Poland, Gdansk",
-      "firstSeenAt": "2026-11-03T11:39:05.497Z"
     }
   ]
 }

@@ -2,21 +2,21 @@
   "slug": "bmr-associates",
   "name": "BMR Associates Limited",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-10T14:17:00.003Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    6,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "6c675fa8a80571474a7d20ddb07d535201f72c83",
+      "title": "Junior DevOps Engineer - Azure, Hybrid",
+      "url": "https://www.adzuna.co.uk/jobs/details/5979655653?utm_medium=api&utm_source=aa2b179f",
+      "location": "Impney, Droitwich",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "f63ac7209e4315acaf9fb688796194e821b88326",
       "title": "Junior DevOps Engineer: Azure Cloud & IaC (Hybrid)",

@@ -2,20 +2,25 @@
   "slug": "barclays",
   "name": "Barclays",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 13.1,
   "topLocations": [
     {
       "hub": "New York",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "quant",
+      "label": "Quant",
       "count": 1
     }
   ],
@@ -30,10 +35,17 @@
     0,
     0,
     1,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "15463587b39f2bf566ae8d0e9dcdc6830c073b04",
+      "title": "Markets Quantitative Analyst Intern",
+      "url": "https://go.vansh.nyc/1LV",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "bf69211d0085208936307d70f9b68127fd7a5b33",
       "title": "Chief Client Office Intern, Client Data & Engineering Group",

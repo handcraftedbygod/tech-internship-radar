@@ -2,10 +2,10 @@
   "slug": "netcom-online-learning",
   "name": "Netcom Online Learning",
   "tier": null,
-  "currentOpenings": 30,
+  "currentOpenings": 32,
   "firstTrackedAt": "2026-08-09T05:05:05.965Z",
-  "totalPostings": 59,
-  "avgPostingDurationDays": 10.4,
+  "totalPostings": 63,
+  "avgPostingDurationDays": 10.3,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,14 +13,14 @@
     },
     {
       "hub": "London",
-      "count": 6
+      "count": 10
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 59
+      "count": 63
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,38 @@
     13,
     10,
     0,
-    36,
+    40,
     0
   ],
   "recentPostings": [
+    {
+      "id": "eaa2a9da133f318cc9da6ad4592eba30c18c8019",
+      "title": "Cyber Security Engineer Trainee",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "294ad1e35c60c93512f491b331056bbe1c2e5025",
+      "title": "Cyber Security Engineer - Trainee",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "e5f14044ec1bdd5de738160031b2d248cd8a1ded",
+      "title": "Cyber Security Engineer: Trainee",
+      "url": "",
+      "location": "London",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "72e84c4c6752c912e2d5ee5c155ec0d182423586",
+      "title": "Cyber Security Engineer: Trainee",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5980709021?se=nJpGBcLq8RGz7qtuJxjbRg&utm_medium=api&utm_source=aa2b179f&v=6CB89151BB2A0E87727738020B39C32530A320CE",
+      "location": "London, UK",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "3e92e1cb7089a354e5bcb92661c4cc031f6c3ebe",
       "title": "Cyber Security Engineer: Trainee",
@@ -79,34 +107,6 @@
       "url": "https://www.reed.co.uk/jobs/cyber-security-engineer-trainee/57610631",
       "location": "London",
       "firstSeenAt": "2026-11-25T13:55:54.997Z"
-    },
-    {
-      "id": "ca9b529e62bf5259938f5c2d1641f5b6fb2de3c0",
-      "title": "Cyber Security Engineer - Trainee",
-      "url": "https://www.reed.co.uk/jobs/cyber-security-engineer-trainee/57610622",
-      "location": "London",
-      "firstSeenAt": "2026-11-25T13:55:54.997Z"
-    },
-    {
-      "id": "e623d63f5b8e9a730d5e945228205c59c2991838",
-      "title": "Cyber Security Engineer: Trainee",
-      "url": "",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-25T13:55:54.997Z"
-    },
-    {
-      "id": "a7b514f4028d79662c8d77cde27cfb6776215c4f",
-      "title": "Cyber Security Engineer | Trainee",
-      "url": "",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-25T13:55:54.997Z"
-    },
-    {
-      "id": "b159c2d6774d701eeab6e5719f6b52faa3997a24",
-      "title": "Data Analyst: Trainee",
-      "url": "https://www.reed.co.uk/jobs/data-analyst-trainee/57602158",
-      "location": "Birmingham",
-      "firstSeenAt": "2026-11-23T14:03:22.430Z"
     }
   ]
 }

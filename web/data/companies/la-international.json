@@ -2,14 +2,14 @@
   "slug": "la-international",
   "name": "LA International",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-22T09:03:32.137Z",
-  "totalPostings": 6,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
       "hub": "London",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 6
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     0,
     4,
     0,
-    2,
+    3,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8c583e3af382e31edc5ccf74ad26ed45c60da316",
+      "title": "Junior Mobile Developer",
+      "url": "",
+      "location": "London Area, United Kingdom",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "04bc48c6a66029bf35b204d5c01cc1e554a2c903",
       "title": "Junior Java Developer",

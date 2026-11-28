@@ -2,9 +2,9 @@
   "slug": "clera",
   "name": "Clera",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-19T13:17:09.570Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10.9,
   "topLocations": [
     {
@@ -13,6 +13,10 @@
     },
     {
       "hub": "New York",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -25,6 +29,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "product",
+      "label": "Product",
       "count": 1
     }
   ],
@@ -39,10 +48,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ad26a17852981622058fde217b378362a5412722",
+      "title": "Product Engineer Intern, Mobile",
+      "url": "https://go.vansh.nyc/1Lw",
+      "location": "United States",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "83dbccbeba88d75cbd3bec1cfb7526d42771ff78",
       "title": "Full-Stack Software Engineering Intern",

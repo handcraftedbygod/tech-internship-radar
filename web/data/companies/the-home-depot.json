@@ -1,0 +1,52 @@
+{
+  "slug": "the-home-depot",
+  "name": "The Home Depot",
+  "tier": null,
+  "currentOpenings": 2,
+  "firstTrackedAt": "2026-11-28T12:46:08.980Z",
+  "totalPostings": 2,
+  "avgPostingDurationDays": null,
+  "topLocations": [
+    {
+      "hub": "Other",
+      "count": 2
+    }
+  ],
+  "topDisciplines": [
+    {
+      "id": "swe",
+      "label": "Software",
+      "count": 2
+    }
+  ],
+  "hiringMonths": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0
+  ],
+  "recentPostings": [
+    {
+      "id": "04dc05e1bb03932c53afe4b20e5da5056b15c8e3",
+      "title": "Product & Engineering Co-op",
+      "url": "https://go.vansh.nyc/1LX",
+      "location": "Atlanta, GA",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "396574c4b6223c641b26d09ac2c60d943b158334",
+      "title": "Full Stack Software Developer Intern",
+      "url": "https://go.vansh.nyc/1Lv",
+      "location": "Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    }
+  ]
+}

@@ -4,16 +4,16 @@
   "tier": null,
   "currentOpenings": 10,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 42,
+  "totalPostings": 44,
   "avgPostingDurationDays": 10.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 20
+      "count": 21
     },
     {
       "hub": "Stockholm",
-      "count": 9
+      "count": 10
     },
     {
       "hub": "Lodz",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 36
+      "count": 38
     },
     {
       "id": "ai",
@@ -56,10 +56,24 @@
     5,
     5,
     7,
-    25,
+    27,
     0
   ],
   "recentPostings": [
+    {
+      "id": "64bd286501858abffaa4fc550afa36a1a2819156",
+      "title": "Junior Cloud RAN Layer 1 SW Developer",
+      "url": "",
+      "location": "Stockholm, Stockholms län, Sverige",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "ececcfa7705d7c61aec49f3d855297fe16c3bea0",
+      "title": "Junior Cloud RAN Layer 1 SW Developer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQxNTAzMyAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "5656793737a80f4757a3e67f9c7f63c06ad03017",
       "title": "Entry Level: Erlang Software Developer",
@@ -115,20 +129,6 @@
       "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQwMzk1NSAxMjE?lang=en&utm_source=freehire.me",
       "location": "Stockholm, Sweden",
       "firstSeenAt": "2026-11-21T12:08:56.322Z"
-    },
-    {
-      "id": "32c8976e1d7e9b29ac66b12cd6699a55e00418fc",
-      "title": "Junior Baseband Software Developer",
-      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQwMzk1NSAxMjE?lang=en",
-      "location": "Sweden",
-      "firstSeenAt": "2026-11-21T12:08:56.322Z"
-    },
-    {
-      "id": "7a120dcd6ead82184a36ca5cfef626ff0a8dc556",
-      "title": "Junior Developer",
-      "url": "https://jobs.ericsson.com/careers/job/563121777627166-junior-developer-?domain=ericsson.com&utm_source=freehire.me",
-      "location": "Stockholm,Stockholm,Sweden",
-      "firstSeenAt": "2026-11-19T12:32:20.459Z"
     }
   ]
 }

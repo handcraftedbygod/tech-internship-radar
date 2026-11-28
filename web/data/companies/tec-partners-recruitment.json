@@ -2,26 +2,26 @@
   "slug": "tec-partners-recruitment",
   "name": "Tec Partners Recruitment Ltd",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-11-17T12:49:11.259Z",
-  "totalPostings": 4,
+  "totalPostings": 6,
   "avgPostingDurationDays": 9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 4
+      "count": 6
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     },
     {
       "id": "hw",
       "label": "Hardware",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -35,10 +35,24 @@
     0,
     0,
     0,
-    4,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "581fd65ce8e26ae86333d0a44aa83521399c0ae8",
+      "title": "Junior Embedded Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5979655319?utm_medium=api&utm_source=aa2b179f",
+      "location": "Tendring, Clacton-On-Sea",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "11b57bb1f14611f1fbc00dc63d8f9b34e45982af",
+      "title": "Junior Software Engineer",
+      "url": "https://www.adzuna.co.uk/jobs/details/5979655424?utm_medium=api&utm_source=aa2b179f",
+      "location": "Tendring, Clacton-On-Sea",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "f87d26c48f3fec1f4b2e5234dea05aba3ed42716",
       "title": "Junior Software Engineer",

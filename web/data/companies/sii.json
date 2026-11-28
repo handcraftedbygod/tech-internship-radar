@@ -2,14 +2,14 @@
   "slug": "sii",
   "name": "Sii",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-29T10:49:33.976Z",
-  "totalPostings": 4,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Lodz",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 4
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,17 @@
     2,
     2,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "0dead3e49bbbb5ef27d46c3689b2aa3a3175b240",
+      "title": "Junior Data Engineer (f/m/x)",
+      "url": "",
+      "location": "Poznań",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "9a6094ebc500bfee28e733b970efe136582b37d8",
       "title": "Remote Junior Data Engineer: Microsoft Fabric & ADF",

@@ -2,21 +2,21 @@
   "slug": "signet-jewelers",
   "name": "Signet Jewelers",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-26T13:34:44.534Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "b031897603f360100ec54b4acb6b6a37e218ab55",
+      "title": "Software Engineer Intern, Digital Commerce",
+      "url": "https://go.vansh.nyc/1LW",
+      "location": "Irving, TX",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "986746e660ad9e8726db37af607abfc5b75c8826",
       "title": "Software Engineering Intern, Digital Commerce",

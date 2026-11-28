@@ -2,13 +2,17 @@
   "slug": "avanade-sweden",
   "name": "Avanade Sweden AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-27T13:32:33.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Stockholm",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "630cb144f307958cb5cee91fcd247915e318c6aa",
+      "title": "Junior Data Engineer",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQxMzc5OSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "ad82062f84993a817f9cd1146e2e0c0b8e0cdc29",
       "title": "Junior Data Engineer",

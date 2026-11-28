@@ -2,14 +2,14 @@
   "slug": "kpn",
   "name": "KPN",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-12T05:32:37.326Z",
-  "totalPostings": 11,
+  "totalPostings": 12,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 8
+      "count": 9
     },
     {
       "hub": "Zurich",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ai",
@@ -39,10 +39,17 @@
     3,
     0,
     5,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "95dafa96734c5cdaeba0c02d479a6e269f7dd0a5",
+      "title": "Junior DevOps Engineer Subscriber Data Management",
+      "url": "",
+      "location": "Rotterdam, ZH, nl",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "0a75db3ee03863061ebcf584fb819b2a114de58f",
       "title": "Junior DevOps Engineer Subscriber Data Management",
@@ -105,13 +112,6 @@
       "url": "https://jobs.smartrecruiters.com/KPN/744000144302599-junior-devops-engineer-mobile-core-voice?utm_source=freehire.me",
       "location": "Rotterdam, ZH, nl",
       "firstSeenAt": "2026-08-20T04:37:20.742Z"
-    },
-    {
-      "id": "1b639448111a9a99acc3414ab23ac8c580dde4a7",
-      "title": "Junior DevOps Engineer",
-      "url": "https://jobs.smartrecruiters.com/KPN/744000144141425-junior-devops-engineer-?utm_source=freehire.me",
-      "location": "Rotterdam, ZH, nl",
-      "firstSeenAt": "2026-08-19T04:37:06.222Z"
     }
   ]
 }

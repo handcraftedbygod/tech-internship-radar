@@ -2,21 +2,26 @@
   "slug": "baker-hughes",
   "name": "Baker Hughes",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-22T09:11:21.738Z",
-  "totalPostings": 5,
+  "totalPostings": 9,
   "avgPostingDurationDays": 10.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 5
+      "count": 9
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 4
+      "count": 6
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 2
     },
     {
       "id": "hw",
@@ -35,10 +40,38 @@
     0,
     0,
     2,
-    3,
+    7,
     0
   ],
   "recentPostings": [
+    {
+      "id": "2c2aabb7bc0185296b748c308063de8f912c39b9",
+      "title": "Intern - Software Developer - 2027",
+      "url": "",
+      "location": "GB-NU-CRAMLINGTON-ATLEY WAY NORTH NELSON INDUSTRIAL ESTATE",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "cf778da8b242d2900efe519fe9f64a20db4257ba",
+      "title": "Intern - Modelling and Data Analytics - 2027",
+      "url": "",
+      "location": "GB-HA-FARNBOROUGH-107 RANGE ROAD",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "6c81adc8fdd04780032e0f9d0c2714d394c1192d",
+      "title": "Intern - Software Developer - 2027",
+      "url": "",
+      "location": "Cramlington, Northumberland",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "2617444d5855136e52690626992a6f8bf470b1dd",
+      "title": "Intern - Modelling and Data Analytics - 2027",
+      "url": "",
+      "location": "Farnborough, Hampshire",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "4d0d5db085f5dcbdc001aa9201bf7f36abef70a2",
       "title": "Junior Digitalisation & Software Engineer",

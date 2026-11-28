@@ -2,21 +2,21 @@
   "slug": "ige-xao-polska",
   "name": "IGE-XAO Polska",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-21T12:08:56.322Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Krakow",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3ee2e6b9455789bc6d96ad00c788fdd67191047b",
+      "title": "Junior QA Engineer",
+      "url": "",
+      "location": "Kraków",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "a0c254fc118449cbe22bf49ac2c0031f79677a85",
       "title": "Automatic Tests Developer Junior",

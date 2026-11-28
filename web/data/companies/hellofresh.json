@@ -2,9 +2,9 @@
   "slug": "hellofresh",
   "name": "HelloFresh",
   "tier": null,
-  "currentOpenings": 15,
+  "currentOpenings": 16,
   "firstTrackedAt": "2026-07-22T06:26:06.326Z",
-  "totalPostings": 47,
+  "totalPostings": 48,
   "avgPostingDurationDays": 33.1,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Amsterdam",
-      "count": 7
+      "count": 8
     },
     {
       "hub": "Paris",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 30
+      "count": 31
     },
     {
       "id": "biz",
@@ -56,10 +56,17 @@
     8,
     14,
     12,
-    8,
+    9,
     0
   ],
   "recentPostings": [
+    {
+      "id": "ea3f09e4bdfaf2bdb4a24013fc380fdba179f75d",
+      "title": "Culinary Intern (f/m/x)",
+      "url": "https://careers.hellofresh.com/global/en/job/8420636?gh_jid=8420636",
+      "location": "Amsterdam, North Holland, Netherlands",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "d8838ebbb0f2225a44a4a6280c8cd11c0f295c76",
       "title": "[DACH HQ] Junior Compliance Specialist (all genders)",
@@ -122,13 +129,6 @@
       "url": "https://careers.hellofresh.com/global/en/job/8250016?gh_jid=8250016",
       "location": "Mississauga, Ontario, Canada",
       "firstSeenAt": "2026-10-31T10:12:38.255Z"
-    },
-    {
-      "id": "d3e2c9cf525025343efce9617e4ebeca6f3b628d",
-      "title": "Growth Strategy Data Analyst - Intern (M/F/N)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/hellofresh/growth-strategy-data-analyst-intern-paris-paris-293261",
-      "location": "Paris, Paris",
-      "firstSeenAt": "2026-10-17T08:18:10.076Z"
     }
   ]
 }

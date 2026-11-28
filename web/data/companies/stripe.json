@@ -2,9 +2,9 @@
   "slug": "stripe",
   "name": "Stripe",
   "tier": "elite",
-  "currentOpenings": 27,
+  "currentOpenings": 28,
   "firstTrackedAt": "2026-07-24T18:21:15.798Z",
-  "totalPostings": 32,
+  "totalPostings": 33,
   "avgPostingDurationDays": 44.2,
   "topLocations": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "hub": "Dublin",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Other",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ai",
@@ -61,10 +61,17 @@
     2,
     13,
     12,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "e47c2a3dacbd7bdd7d4e0e90bdabbc26b2e87abc",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "",
+      "location": "Dublin",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "c00cabad047cae3ce2435fd6dde1897828d5f9d5",
       "title": "Software Engineer, New Grad",
@@ -125,13 +132,6 @@
       "id": "468d677a65db2185c0237f9143e47f1f7b027596",
       "title": "Security Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8257892&utm_source=freehire.me",
-      "location": "Dublin",
-      "firstSeenAt": "2026-10-07T10:53:29.125Z"
-    },
-    {
-      "id": "2b6a0f888f8a2482b1813dcb96ca69d33069a290",
-      "title": "Security Engineer, New Grad",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257892",
       "location": "Dublin",
       "firstSeenAt": "2026-10-07T10:53:29.125Z"
     }

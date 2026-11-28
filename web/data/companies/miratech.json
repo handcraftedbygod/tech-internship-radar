@@ -2,17 +2,21 @@
   "slug": "miratech",
   "name": "Miratech",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-09-08T08:38:59.782Z",
-  "totalPostings": 2,
+  "totalPostings": 5,
   "avgPostingDurationDays": 13,
   "topLocations": [
+    {
+      "hub": "Other",
+      "count": 3
+    },
     {
       "hub": "Warsaw",
       "count": 1
     },
     {
-      "hub": "Other",
+      "hub": "Madrid",
       "count": 1
     }
   ],
@@ -20,7 +24,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +38,31 @@
     0,
     1,
     0,
-    1,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "f15f32b5302ea211f92d25e10dee2b06416b5188",
+      "title": "Data Engineer Trainee: Azure Databricks & Lakehouse",
+      "url": "",
+      "location": "Valencia, Spain",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "631b5cd6c947e173a14976984de09492ad91b011",
+      "title": "Data Engineer Trainee: Azure Databricks & Cloud",
+      "url": "",
+      "location": "Madrid, Spain",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "db348c95e3d6b4cae1c03bfce5c0ad07ec172113",
+      "title": "Remote Data Engineer Trainee: Cloud & Lakehouse Path",
+      "url": "",
+      "location": "Wrocław, Poland",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "66cbc36d5d974c26840f4422b33953dee6103b0f",
       "title": "Data Engineer Trainee",

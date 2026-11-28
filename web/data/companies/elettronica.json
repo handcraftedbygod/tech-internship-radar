@@ -2,21 +2,21 @@
   "slug": "elettronica",
   "name": "Elettronica GmbH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     1,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "174d14cd72f32356722070754858998473f059c6",
+      "title": "Werkstudent – Software Development (gn)",
+      "url": "https://www.jobboerse-direkt.de/stellenangebote/Werkstudent-%E2%80%93-Software-Development-gn-7663732",
+      "location": "Meckenheim, Rheinland",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "3bf8ba5395d89e534ef952a42d2483e9584fdac4",
       "title": "Werkstudent – Software Development (gn) (Berufsspezialist/in - Softwareentwicklung)",

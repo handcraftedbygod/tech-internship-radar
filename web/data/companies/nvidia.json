@@ -2,14 +2,14 @@
   "slug": "nvidia",
   "name": "NVIDIA",
   "tier": "elite",
-  "currentOpenings": 7,
+  "currentOpenings": 8,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 58,
+  "totalPostings": 60,
   "avgPostingDurationDays": 11.7,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 45
+      "count": 47
     },
     {
       "hub": "Munich",
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 39
+      "count": 41
     },
     {
       "id": "ai",
@@ -66,10 +66,24 @@
     2,
     0,
     38,
-    18,
+    20,
     0
   ],
   "recentPostings": [
+    {
+      "id": "4eecbff0ff7417639bf24a760d3df823ef35de68",
+      "title": "Developer Technology Intern",
+      "url": "https://go.vansh.nyc/1LH",
+      "location": "Santa Clara, CA, Canada, United States",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "d1a189abad024757c95cd75e74276f4e887f1870",
+      "title": "Software Engineer Intern, Simulation Technology",
+      "url": "https://go.vansh.nyc/1LG",
+      "location": "Santa Clara, CA, Canada, United States",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "c5006fb6f99d1410859bf0ff01b11696955904dc",
       "title": "Software Engineering Intern, Simulation Technology",
@@ -125,20 +139,6 @@
       "url": "https://go.vansh.nyc/1sd",
       "location": "Santa Clara, CA",
       "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "e8b3aee0fb2899b97c0d90280fe51855bdd1221a",
-      "title": "AI Operations Intern, AI Clouds",
-      "url": "https://go.vansh.nyc/1qq",
-      "location": "Santa Clara, CA",
-      "firstSeenAt": "2026-11-11T16:23:27.197Z"
-    },
-    {
-      "id": "d1a0b8f894d8040b6ec5b6305c8f187f7fc01f1a",
-      "title": "Software Engineering Intern - 2027",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184?utm_source=freehire.me",
-      "location": "Germany, Munich",
-      "firstSeenAt": "2026-11-04T11:53:30.631Z"
     }
   ]
 }

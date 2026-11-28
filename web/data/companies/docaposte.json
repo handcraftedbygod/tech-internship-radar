@@ -2,14 +2,14 @@
   "slug": "docaposte",
   "name": "DOCAPOSTE",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-10T05:27:06.486Z",
-  "totalPostings": 3,
+  "totalPostings": 5,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 4
     },
     {
       "hub": "Paris",
@@ -20,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 3
+      "count": 5
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     3,
     0,
     0,
-    0,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "68c2f6465814573c83e9130749157f1927ab7b2b",
+      "title": "Data Engineer / Architecte Data Junior F/H",
+      "url": "",
+      "location": "Neuilly sur Seine, France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "b5032e6d0c0333ea0a7b6edeee43f6936c08fc06",
+      "title": "Data Engineer & Architect Junior — Cloud Platform (Remote)",
+      "url": "",
+      "location": "Neuilly sur Seine, France",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "70185a0e56b8339cc6d03fe0b1e7e4190671fe15",
       "title": "Data Engineer / Architecte Data Junior F/H",

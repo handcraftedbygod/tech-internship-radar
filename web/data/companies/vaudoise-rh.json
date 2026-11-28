@@ -2,21 +2,21 @@
   "slug": "vaudoise-rh",
   "name": "Vaudoise RH",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-10-26T09:43:59.686Z",
-  "totalPostings": 2,
+  "totalPostings": 3,
   "avgPostingDurationDays": 7.1,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 2
+      "count": 3
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     0,
     0,
     2,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "12685956caf5535239ae922a6c94cb235c6c5dc9",
+      "title": "Stagiaire universitaire/HES Data Engineer (h/f/x) – 80-100%",
+      "url": "",
+      "location": "Lausanne, Vaud, Suisse",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "0c04494814b38dab9f7fd5aadcff1ca7816c956a",
       "title": "Stagiaire universitaire/HES Data Engineer (h/f/x) – 80-100%",

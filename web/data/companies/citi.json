@@ -4,8 +4,8 @@
   "tier": null,
   "currentOpenings": 1,
   "firstTrackedAt": "2026-10-17T08:18:10.076Z",
-  "totalPostings": 31,
-  "avgPostingDurationDays": 9.5,
+  "totalPostings": 32,
+  "avgPostingDurationDays": 9.6,
   "topLocations": [
     {
       "hub": "Other",
@@ -13,7 +13,7 @@
     },
     {
       "hub": "New York",
-      "count": 5
+      "count": 6
     },
     {
       "hub": "London",
@@ -29,7 +29,7 @@
     {
       "id": "quant",
       "label": "Quant",
-      "count": 1
+      "count": 2
     },
     {
       "id": "ai",
@@ -48,10 +48,17 @@
     0,
     0,
     28,
-    3,
+    4,
     0
   ],
   "recentPostings": [
+    {
+      "id": "23119fc574e2906baeb532876fd6b4b37c2c256a",
+      "title": "Markets Analyst Intern, Quantitative Analysis",
+      "url": "https://go.vansh.nyc/1LL",
+      "location": "New York, NY",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "2edc6bdaed132c1f37880ae0fa32e42b27c4ac65",
       "title": "Junior GenAI Backend Engineer",
@@ -113,13 +120,6 @@
       "title": "New Grad 2027: Technology Analyst, Application Development",
       "url": "https://go.vansh.nyc/Bp",
       "location": "Tampa, FL",
-      "firstSeenAt": "2026-10-25T08:58:32.015Z"
-    },
-    {
-      "id": "aef049f22d8011ca6b711baa941493f60010b87f",
-      "title": "New Grad 2027: Technology, Production Support Analyst",
-      "url": "https://go.vansh.nyc/Bm",
-      "location": "New York, NY",
       "firstSeenAt": "2026-10-25T08:58:32.015Z"
     }
   ]

@@ -2,14 +2,14 @@
   "slug": "friday-v-st",
   "name": "Friday Väst AB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-08-07T05:39:42.829Z",
-  "totalPostings": 8,
+  "totalPostings": 9,
   "avgPostingDurationDays": 11.5,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 6
+      "count": 7
     },
     {
       "hub": "Stockholm",
@@ -18,14 +18,14 @@
   ],
   "topDisciplines": [
     {
-      "id": "ai",
-      "label": "Data / AI",
+      "id": "swe",
+      "label": "Software",
       "count": 4
     },
     {
-      "id": "swe",
-      "label": "Software",
-      "count": 3
+      "id": "ai",
+      "label": "Data / AI",
+      "count": 4
     },
     {
       "id": "hw",
@@ -44,10 +44,17 @@
     4,
     0,
     0,
-    4,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "cc9fed4a4d1afafb56bde767a0c16cfad1fd0534",
+      "title": "Junior Cloud Backend Engineer inom IoT",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/NjQxMzY2NSAxMjE?lang=en",
+      "location": "Sweden",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "a2cea4328649a5b20c770c2653eb996d81fa194c",
       "title": "Junior Cloud Backend Engineer inom IoT",

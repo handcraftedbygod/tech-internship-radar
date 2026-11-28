@@ -2,13 +2,17 @@
   "slug": "dkb",
   "name": "DKB",
   "tier": null,
-  "currentOpenings": 1,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-11-27T13:32:33.915Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": null,
   "topLocations": [
     {
       "hub": "Berlin",
+      "count": 1
+    },
+    {
+      "hub": "Other",
       "count": 1
     }
   ],
@@ -16,7 +20,7 @@
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +34,17 @@
     0,
     0,
     0,
-    1,
+    2,
     0
   ],
   "recentPostings": [
+    {
+      "id": "8cd94ec1f64ee11c8485bf565fd0b0544193f880",
+      "title": "Junior Data Engineer - Geschäftskunden (m/w/d) (Business-Analyst/in)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzE1MjQ2LVMgMQ?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "f40df3b0a9158fb3d4817fc6e200e7131ffa6dd7",
       "title": "Junior Data Engineer - Geschäftskunden (m/w/d) (Business-Analyst/in)",

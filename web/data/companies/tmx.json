@@ -2,14 +2,14 @@
   "slug": "tmx",
   "name": "TMX Group",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 3,
   "firstTrackedAt": "2026-11-05T12:11:49.862Z",
-  "totalPostings": 5,
+  "totalPostings": 6,
   "avgPostingDurationDays": 13.4,
   "topLocations": [
     {
       "hub": "Toronto",
-      "count": 4
+      "count": 5
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 3
+      "count": 4
     },
     {
       "id": "biz",
@@ -44,10 +44,17 @@
     0,
     0,
     0,
-    5,
+    6,
     0
   ],
   "recentPostings": [
+    {
+      "id": "54f127e125c6a016c0a0b84c2272d18bae8658d2",
+      "title": "Data Analyst Intern",
+      "url": "https://go.vansh.nyc/1LJ",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "087744457f6d06caa5a1bf25e83d12a848315113",
       "title": "DevOps Analyst Intern",

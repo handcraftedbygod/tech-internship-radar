@@ -2,14 +2,14 @@
   "slug": "ciena",
   "name": "Ciena",
   "tier": null,
-  "currentOpenings": 3,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-10-21T09:13:09.926Z",
-  "totalPostings": 18,
+  "totalPostings": 19,
   "avgPostingDurationDays": 10.6,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 16
+      "count": 17
     },
     {
       "hub": "Montreal",
@@ -20,7 +20,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 9
+      "count": 10
     },
     {
       "id": "hw",
@@ -49,10 +49,17 @@
     0,
     0,
     11,
-    7,
+    8,
     0
   ],
   "recentPostings": [
+    {
+      "id": "3e7c78bbe683327fccf1379590e3a7b9429a343b",
+      "title": "Automation Engineer Intern, Global Technical Support",
+      "url": "https://go.vansh.nyc/1LK",
+      "location": "Ottawa, Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "43f87ba371dc9f6a7e28166f521915b4c51232bb",
       "title": "New Grad: Embedded Software Engineer",
@@ -113,13 +120,6 @@
       "id": "3e44983a56d365eb1873c4914c2fcff74162cc24",
       "title": "Hardware Characterization Automation Co-op",
       "url": "https://go.vansh.nyc/ZD",
-      "location": "Ottawa, Canada",
-      "firstSeenAt": "2026-10-30T10:44:41.092Z"
-    },
-    {
-      "id": "d901650281130d6d963785caf9d14e4963fb1179",
-      "title": "Embedded Software Engineer Co-op",
-      "url": "https://go.vansh.nyc/ZC",
       "location": "Ottawa, Canada",
       "firstSeenAt": "2026-10-30T10:44:41.092Z"
     }

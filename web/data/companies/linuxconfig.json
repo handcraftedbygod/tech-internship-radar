@@ -2,13 +2,17 @@
   "slug": "linuxconfig",
   "name": "Linuxconfig",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-09-14T09:36:22.352Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 11,
   "topLocations": [
     {
       "hub": "Dublin",
+      "count": 1
+    },
+    {
+      "hub": "Zurich",
       "count": 1
     }
   ],
@@ -16,6 +20,11 @@
     {
       "id": "swe",
       "label": "Software",
+      "count": 1
+    },
+    {
+      "id": "ai",
+      "label": "Data / AI",
       "count": 1
     }
   ],
@@ -30,10 +39,17 @@
     0,
     1,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "226556fe48e7c31b2b4516ba1d545c678ca6b384",
+      "title": "Data Engineer Intern",
+      "url": "",
+      "location": "Zürich, Switzerland",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "21352bad4d32100bad6e679477023479064d9252",
       "title": "2027 Software Engineer Intern",

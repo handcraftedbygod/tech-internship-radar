@@ -2,21 +2,21 @@
   "slug": "tensorops",
   "name": "TensorOps",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 1,
   "firstTrackedAt": "2026-08-31T10:33:12.712Z",
-  "totalPostings": 1,
+  "totalPostings": 2,
   "avgPostingDurationDays": 14.9,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 1
+      "count": 2
     }
   ],
   "topDisciplines": [
     {
       "id": "ai",
       "label": "Data / AI",
-      "count": 1
+      "count": 2
     }
   ],
   "hiringMonths": [
@@ -30,10 +30,17 @@
     1,
     0,
     0,
-    0,
+    1,
     0
   ],
   "recentPostings": [
+    {
+      "id": "1171bda6d05094416d74127eb6d24fc2a91251c4",
+      "title": "Junior Data Scientist",
+      "url": "",
+      "location": "Portugal",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "0709349865111a1cb9976070b82cad7b1f9d5746",
       "title": "Junior - Data Scientist",

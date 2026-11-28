@@ -2,9 +2,9 @@
   "slug": "amazon",
   "name": "Amazon",
   "tier": "elite",
-  "currentOpenings": 5,
+  "currentOpenings": 7,
   "firstTrackedAt": "2026-09-18T08:48:05.182Z",
-  "totalPostings": 60,
+  "totalPostings": 62,
   "avgPostingDurationDays": 10.4,
   "topLocations": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "swe",
       "label": "Software",
-      "count": 38
+      "count": 40
     },
     {
       "id": "hw",
@@ -61,10 +61,24 @@
     0,
     1,
     41,
-    18,
+    20,
     0
   ],
   "recentPostings": [
+    {
+      "id": "862b2ad0c51f22d8e0c86cbb1f55d667fa50675f",
+      "title": "Associate Delivery Consultant Intern, AIML, AWS Professional Services",
+      "url": "https://go.vansh.nyc/1M1",
+      "location": "Montreal, Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "849245d1c82c2fd0c841407fdd03cdf2c9eedd5c",
+      "title": "Associate Delivery Consultant Intern, AIML, AWS Professional Services",
+      "url": "https://go.vansh.nyc/1M0",
+      "location": "Toronto, Canada",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "51301df86421f914c42a0d45ab12cab416fdb5f6",
       "title": "New Grad 2027: Front-End Engineer",
@@ -119,20 +133,6 @@
       "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
       "url": "https://go.vansh.nyc/1k0",
       "location": "Cupertino, CA",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "c9bd21609a0768d32dfa29937c8ede55764ec5c7",
-      "title": "New Grad 2027: Software Development Engineer, Embedded Systems",
-      "url": "https://go.vansh.nyc/1jB",
-      "location": "Redmond, WA, Northridge, LA",
-      "firstSeenAt": "2026-11-06T11:51:47.337Z"
-    },
-    {
-      "id": "eecf94c45ea0f9a3f2e4b258351c7514e1cb273d",
-      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
-      "url": "https://go.vansh.nyc/1iP",
-      "location": "Redmond, WA",
       "firstSeenAt": "2026-11-06T11:51:47.337Z"
     }
   ]

@@ -2,25 +2,25 @@
   "slug": "ka-resources",
   "name": "KA Resources",
   "tier": null,
-  "currentOpenings": 0,
+  "currentOpenings": 2,
   "firstTrackedAt": "2026-10-31T10:12:38.255Z",
-  "totalPostings": 5,
+  "totalPostings": 7,
   "avgPostingDurationDays": 10.5,
   "topLocations": [
     {
       "hub": "Düsseldorf",
-      "count": 3
+      "count": 4
     },
     {
       "hub": "Other",
-      "count": 2
+      "count": 3
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 5
+      "count": 7
     }
   ],
   "hiringMonths": [
@@ -34,10 +34,24 @@
     0,
     0,
     2,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "82dab205f6535f650ee4ca685bcac648467dfe0a",
+      "title": "Junior ABAP Entwickler/Developer (m/w/d) – 7701 – Düsseldorf – KA Resources (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "",
+      "location": "Düsseldorf, Germany",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "b2b9cfa00637755fd5b4e3e6f83b7d2b4cdfb4ff",
+      "title": "Junior ABAP Entwickler/Developer (m/w/d) – 7701 – Düsseldorf – KA Resources (Fachinformatiker/in - Anwendungsentwicklung)",
+      "url": "https://europa.eu/eures/portal/jv-se/jv-details/MTIyODgtNTAxMzUwMzQ2Ny1TIDE?lang=en",
+      "location": "Germany",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "6d621780db0cec5d3eaf4bca101da4992520a14a",
       "title": "Junior ABAP Entwickler/Developer (m/w/d) – 7701 – Düsseldorf – KA Resources (Fachinformatiker/in - Anwendungsentwicklung)",

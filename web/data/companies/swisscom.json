@@ -1,22 +1,22 @@
 {
   "slug": "swisscom",
-  "name": "swisscom",
+  "name": "Swisscom",
   "tier": null,
-  "currentOpenings": 2,
+  "currentOpenings": 4,
   "firstTrackedAt": "2026-08-22T04:33:07.684Z",
-  "totalPostings": 26,
+  "totalPostings": 28,
   "avgPostingDurationDays": 10,
   "topLocations": [
     {
       "hub": "Other",
-      "count": 26
+      "count": 28
     }
   ],
   "topDisciplines": [
     {
       "id": "swe",
       "label": "Software",
-      "count": 17
+      "count": 19
     },
     {
       "id": "ai",
@@ -35,10 +35,24 @@
     1,
     8,
     14,
-    3,
+    5,
     0
   ],
   "recentPostings": [
+    {
+      "id": "d5beff925ec59dc8311987f01a2fc019f9bfe7de",
+      "title": "Junior IAM DevOps Engineer (DS/IDM)",
+      "url": "",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
+    {
+      "id": "2ca382201d95915bb47ed2c3d135366970e57025",
+      "title": "Junior DevOps Engineer IAM (Ping DS/IDM)",
+      "url": "",
+      "location": "Netherlands",
+      "firstSeenAt": "2026-11-28T12:46:08.980Z"
+    },
     {
       "id": "ba5910d395aa3a4b3c2db199834bc3b1d7208409",
       "title": "IT Internship - Fullstack Engineer: Agentic AI in Billing",
@@ -92,20 +106,6 @@
       "id": "f7cf202adf1dfedabcc77d52155292582af74737",
       "title": "IT Internship - Fullstack Engineer: Cloud-Native Platform Engineering & Developer Experience",
       "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-cloud-native-platform-engineering-developer-experience-rotterdam-128138",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "c14eebcd0b1e98a479f20929431681f30e0dd128",
-      "title": "IT Internship - Backend Engineer: Automation, Monitoring & Alerting in SAP RMCA",
-      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-backend-engineer-automation-monitoring-alerting-in-sap-rmca-rotterdam-373403",
-      "location": "Rotterdam, Zuid-Holland, Netherlands",
-      "firstSeenAt": "2026-10-13T11:27:20.761Z"
-    },
-    {
-      "id": "6ecb19bb2ea57ebc583907fa3be6ce3cb81461a7",
-      "title": "IT Internship - Fullstack Engineer: Modernizing Enterprise Frontends with React & .NET",
-      "url": "https://www.arbeitnow.nl/jobs/companies/swisscom/it-internship-fullstack-engineer-modernizing-enterprise-frontends-with-react-net-rotterdam-221157",
       "location": "Rotterdam, Zuid-Holland, Netherlands",
       "firstSeenAt": "2026-10-13T11:27:20.761Z"
     }
